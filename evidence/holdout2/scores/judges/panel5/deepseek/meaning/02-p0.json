@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1
+  },
+  "reason": "Version 3 best preserves the original's apology, facts, acknowledgment of disruption, let-down, credit commitment, and thank-you; Version 1 keeps examples but drops the explicit disruption acknowledgment, while Version 2 drops more context and the closing courtesy.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "B3",
+    "3": "A"
+  }
+}

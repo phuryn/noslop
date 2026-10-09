@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 5,
+    "4": 6,
+    "5": 3,
+    "6": 4
+  },
+  "send": "2",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "Over-explains relevance with 'That gives him a long view...' which reads like AI padding.",
+    "4": "Repeats [Your name] three times and uses vague promotional filler like 'unique insights'.",
+    "5": "Abstract phrase 'what wildfire demands of the people responsible...' feels artificially dramatized.",
+    "6": "Uses generic corporate abstraction such as 'long-term perspective on the challenges posed by'."
+  },
+  "reason": "Version 2 is the most concise, natural, and credible, with a human-sounding contextual phrase and no filler. Version 1 is also clean but slightly plainer.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "B5",
+    "4": "E",
+    "5": "C",
+    "6": "O"
+  }
+}

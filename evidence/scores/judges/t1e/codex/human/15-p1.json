@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 4,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "Stacked reassurance and generic marketing phrases: 'guidance you can trust,' 'keep your recovery moving,' and 'BUILT FOR REAL RECOVERY.'",
+    "2": "An overly uniform, stripped-down cadence makes the copy feel mechanically simplified.",
+    "3": "Generic promotional claims such as 'Never miss a session again' and 'watch your progress grow!' feel canned, though not specifically diagnostic of AI.",
+    "4": "Some residual stock phrasing, especially 'stay consistent' and 'see how far you've come.'"
+  },
+  "reason": "Version 4 best balances warmth, scannability, and restraint; version 2 is clear but flat. Version 1 overworks the reassurance, while version 3 has awkward phrasing and an absolute promise that weakens credibility; these are editorial judgments, not reliable evidence of authorship.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "A",
+    "3": "E",
+    "4": "B3"
+  }
+}

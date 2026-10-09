@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 7,
+    "3": 5,
+    "4": 1,
+    "5": 2,
+    "6": 6,
+    "7": 4
+  },
+  "send": "4",
+  "tells": {
+    "1": "“With time for work and time for care” adds a conspicuously balanced slogan to an otherwise practical instruction.",
+    "2": "none",
+    "3": "“With time for work and time for care” feels manufactured; “Make time for your work” is generic.",
+    "4": "The closing “you see the price before you book” unnecessarily explains what the displayed price already accomplishes.",
+    "5": "Repeated explanatory endings—“nothing separate to arrange” and “so you know the price”—overwork straightforward information.",
+    "6": "The balanced opening and abstract “time set aside for work and care” give the copy a formulaic marketing polish.",
+    "7": "“With time for work and time for care” supplies decorative symmetry without useful information."
+  },
+  "reason": "Version 4 is the most direct, restrained and credible, with practical headings and little decorative language. Version 2 may feel human in its roughness, but its errors and awkward formatting make it the least convincing example of skilled landing-page writing; these judgments concern style, not proof of authorship.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "E",
+    "3": "V6C",
+    "4": "A",
+    "5": "B5",
+    "6": "O",
+    "7": "V6A"
+  }
+}

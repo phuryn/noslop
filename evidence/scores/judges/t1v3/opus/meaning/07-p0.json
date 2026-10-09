@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 1,
+    "3": 3,
+    "4": 2
+  },
+  "reason": "Version 2 preserves everything. Version 4 keeps 'target date', while Version 3 drops it and slightly firms up the commitment. Version 1 says 'only big piece left', which implies smaller pieces remain, and changes 'target date' to 'hit Nov 3'.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B3",
+    "3": "B",
+    "4": "A"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 1,
+    "4": 3
+  },
+  "reason": "Version 3 preserves the original's caveats and pricing details most fully, while Version 1 omits the Premium unlock benefit, Version 4 drops more consistency/progress language, and Version 2 alters the subscription renewal/cancellation terms.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "E",
+    "3": "C",
+    "4": "A"
+  }
+}

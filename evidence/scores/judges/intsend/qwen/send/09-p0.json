@@ -1,0 +1,11 @@
+{
+  "send": "1",
+  "reason": "It preserves the key facts and commitments, including the 2-year warranty, replacement battery at no cost, tracking after shipment, and an invitation to reply, while keeping the original apologetic tone. The other versions omit or alter important details such as the subject, 'at no cost,' or timing.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "C",
+    "3": "track2/A-int",
+    "4": "E"
+  },
+  "picked_arm": "track2/B5-int"
+}

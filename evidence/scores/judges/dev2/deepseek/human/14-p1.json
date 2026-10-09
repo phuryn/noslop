@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1,
+    "4": 5,
+    "5": 4
+  },
+  "send": "3",
+  "tells": {
+    "1": "none",
+    "2": "The 'One of the lovely things...' opener and paired 'Maybe...' sentences feel slightly too tidy/editorial.",
+    "3": "none",
+    "4": "Overstructured contrast, triplet, em dash, and generic 'Those visits helped us get here.'",
+    "5": "Generic explanatory line 'Those visits helped us get here' and a flat, compressed ending."
+  },
+  "reason": "Version 3 has the most natural, specific voice and warmth; it reads like a real person who knows the shop, while still making the anniversary invite clear.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B5",
+    "3": "C",
+    "4": "O",
+    "5": "B3"
+  }
+}

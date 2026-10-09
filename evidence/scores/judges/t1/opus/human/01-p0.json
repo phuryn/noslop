@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "Mild: the 'I think the biggest operational wins often come from meeting people where they already are' line is a slightly stock takeaway.",
+    "2": "The 'A no-show isn't just a hole in the schedule. It's...' reframe, plus a 'What I took from this:' lesson label and a tacked-on engagement question.",
+    "3": "Templated LinkedIn scaffolding: a 'The change was simple:' setup, 'Here's what that meant in practice:' with a three-item bullet list, 'The lesson for me:' and a closing engagement question.",
+    "4": "Stock 'more patients get the care they need when they need it' phrasing and an abrupt engagement question bolted onto the CTA."
+  },
+  "reason": "Version 1 delivers the result, the cause and the takeaway plainly, with no list scaffolding or engagement bait, so it reads as a credible operator talking. Version 2 has a real voice, but its reframes and lesson labels pile up, and Version 3 is the most formulaic of the four.",
+  "label_to_arm": {
+    "1": "B",
+    "2": "C",
+    "3": "O",
+    "4": "A"
+  }
+}

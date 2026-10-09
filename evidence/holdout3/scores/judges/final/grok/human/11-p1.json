@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 5,
+    "3": 1,
+    "4": 4,
+    "5": 2,
+    "6": 6
+  },
+  "send": "3",
+  "tells": {
+    "1": "Parallel 'to' clauses, a 'not so much as' antithesis, and a too-perfect closing metaphor stack into a varnished template.",
+    "2": "Beat-by-beat sentence splits read like a clarity rewrite rather than a speaking voice.",
+    "3": "The concessive 'sure' is a slightly performed casual touch.",
+    "4": "Cutting 'somehow' and the surprise leaves the same arc smoother and more generic.",
+    "5": "It still buttons the scene with 'quietly astonished' and the undiscovered-room simile.",
+    "6": "Generic labels ('kindness and patience,' 'liberating') replace the specific insight."
+  },
+  "reason": "Version 3 keeps the psychological point and the refusal of triumph in plain, spoken sentences, so it reads most like a skilled person and is the draft I would publish. The smoother variants are over-shaped, and version 6 is too clumsy and clichéd to sound skilled.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "A",
+    "3": "C",
+    "4": "B3",
+    "5": "B5",
+    "6": "E"
+  }
+}

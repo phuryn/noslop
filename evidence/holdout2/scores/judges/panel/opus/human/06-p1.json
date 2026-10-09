@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "none"
+  },
+  "reason": "The three versions are nearly identical: they differ only in 'Make sure'/'When' versus 'Check that'/'Once' and a curly apostrophe in version 3. None shows a real AI tell, so the ranking is close to arbitrary. I'd send version 1 because 'Make sure' and 'When' read slightly more plainly, but any of the three is fine to publish.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "O"
+  }
+}

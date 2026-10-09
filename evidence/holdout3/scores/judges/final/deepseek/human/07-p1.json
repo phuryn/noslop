@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 5,
+    "4": 3,
+    "5": 2,
+    "6": 6
+  },
+  "send": "5",
+  "tells": {
+    "1": "none",
+    "2": "Too-neat rhetorical flourishes like 'less of the thinking' and the extended 'bill finally shows up' metaphor.",
+    "3": "The same AI-ish phrase 'less of the thinking' and a formulaic three-part risk sentence.",
+    "4": "Formulaic triads and the phrase 'less of the thinking' make it feel AI-smoothed.",
+    "5": "Conversational fragments are polished but the recurring 'less of the thinking' and neat ending feel AI-assisted.",
+    "6": "Dense one-paragraph compression with the same formulaic 'less of the thinking' and closing metaphor."
+  },
+  "reason": "Version 1 reads as genuinely human but unpolished; versions 2–6 all share AI-smoothed phrasing. Version 5 keeps clarity and credibility while sounding naturally conversational, so I'd publish it.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "O",
+    "3": "A",
+    "4": "B3",
+    "5": "C",
+    "6": "B5"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 5,
+    "5": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Bold mini-headers plus a polished benefit triad (\"real days off... build a life around\")",
+    "3": "Template labels (\"What you'll do\" / \"What we're after\") and a \"That means...\" lifestyle gloss",
+    "4": "All-caps shout mixed with boilerplate (\"include but are not limited to\") — performed roughness, not a working voice",
+    "5": "The \"That means real days off... plan a life around the schedule\" implication gloss"
+  },
+  "reason": "Version 1 sounds like someone who runs the kitchen: covers, crew size, butchery, a named cook, and benefits, without template headers or sales gloss. The others either sand that into labeled lifestyle copy or, in version 4, fake roughness with caps and errors.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "C",
+    "3": "O",
+    "4": "E",
+    "5": "track2/A-int"
+  }
+}

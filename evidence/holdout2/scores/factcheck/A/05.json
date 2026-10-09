@@ -1,0 +1,20 @@
+{
+  "dropped": [
+    {
+      "item": "Pressing demos show the whole process 'start to finish'",
+      "severity": "minor"
+    },
+    {
+      "item": "Explicit invitation to taste the new perry ('be among the very first to taste it'), now only implied by 'first pour'",
+      "severity": "minor"
+    },
+    {
+      "item": "Hashtags #CiderFarm and #AutumnHarvest removed",
+      "severity": "minor"
+    }
+  ],
+  "changed": [],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

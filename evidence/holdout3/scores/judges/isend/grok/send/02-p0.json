@@ -1,0 +1,11 @@
+{
+  "send": "4",
+  "reason": "It keeps the same product facts, trial ask, and offer to send samples, without changing the tone or commitments. The other versions push harder, swap wording like “dry” for “crisp,” or change sending samples to bringing them in.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "E",
+    "3": "B5",
+    "4": "A"
+  },
+  "picked_arm": "A"
+}

@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 5,
+    "4": 1,
+    "5": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "none",
+    "2": "The balanced 'sorry... and sorry' line and evenly sanded paragraphs feel lightly generated.",
+    "3": "\"That's not the experience we want you to have,\" plus \"reaching out\" and a stacked apology close.",
+    "4": "none",
+    "5": "Same apology parallel, then a clipped close that drops \"you\" (\"We'll email the tracking details\")."
+  },
+  "reason": "Version 4 has the most human voice, but I would send version 2: it is clear, credible, and warm without version 3's corporate filler or version 1's rough grammar, and the subject actually states the replacement.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "B3",
+    "3": "O",
+    "4": "C",
+    "5": "A"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2
+  },
+  "reason": "Version 2 preserves the original almost verbatim, including the deadline, prices, recommendation, and caveat. Version 3 keeps all key facts and the caveat with only minor phrasing changes, while Version 1 omits the explicit 'unless you see a reason not to' nuance.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "C"
+  }
+}

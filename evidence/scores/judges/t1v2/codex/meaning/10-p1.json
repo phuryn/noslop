@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 4,
+    "4": 3
+  },
+  "reason": "Version 2 best preserves the facts and the stated purpose of offering more options; versions 1 and 4 omit that purpose, with version 1 retaining slightly more explicit rate-transition wording. Version 3 adds an unsupported workout context and an explicit commitment to help.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B2",
+    "3": "C",
+    "4": "B"
+  }
+}

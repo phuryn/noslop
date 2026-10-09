@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1
+  },
+  "reason": "Version 3 keeps the structural-decline claim, hedged returns, targeted outreach, and mitigation framing. Version 1 drops several nuances but not those hedges, while version 2 omits “structurally,” upgrades potential returns, and turns proposed mitigations into “we will” commitments.",
+  "label_to_arm": {
+    "1": "track2/B3-int",
+    "2": "track2/A-int",
+    "3": "B3"
+  }
+}

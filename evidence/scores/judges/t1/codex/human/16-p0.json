@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 2,
+    "4": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Conspicuous sentence fragmentation and added colloquialisms make the conversational voice feel engineered.",
+    "3": "none",
+    "4": "Stock cushioning—“found myself doing” and “hadn’t given much thought”—slightly dilutes the direct, personal voice."
+  },
+  "reason": "Version 1 has the strongest economy and rhythm, letting the physical actions carry the emotion. Version 3 is a close second; these are editorial judgments about how the prose reads, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "B",
+    "2": "C",
+    "3": "A",
+    "4": "O"
+  }
+}

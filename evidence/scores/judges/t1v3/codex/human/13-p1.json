@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 2,
+    "5": 5
+  },
+  "send": "1",
+  "tells": {
+    "1": "The rationale follows a uniformly tidy claim-then-explanation pattern, though the direct language largely offsets that formulaic feel.",
+    "2": "The sustained conversational rewrite feels engineered: phrases such as 'let it slide,' 'walk away cleanly,' and 'make the final call' overdo informality for a leadership memo.",
+    "3": "Repeated 'Mitigation:' labels and noun-heavy phrases such as 'customer data capture' make the risk section read like a filled-in template.",
+    "4": "Repeated 'Mitigation:' labels retain a mechanical rhythm despite the tighter, more natural rationale.",
+    "5": "Stock abstractions such as 'Flexibility' and 'enhanced in-store experience,' combined with repetitive formatting, give it the strongest template feel."
+  },
+  "reason": "Version 1 best balances professional tone, readable explanations, and direct commitments; version 4 is tighter but occasionally awkward. These are stylistic judgments, not evidence of authorship, and every version needs completed financials and a corrected decision window before sending: October is already within nine months of June.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "B3",
+    "4": "B",
+    "5": "O"
+  }
+}

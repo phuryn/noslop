@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 2,
+    "4": 3,
+    "5": 5
+  },
+  "send": "3",
+  "tells": {
+    "1": "None",
+    "2": "Awkward phrasing like 'Skip the weighing out' and 'which leaves more time for'",
+    "3": "Formulaic antithesis 'Less measuring, more making' and vague 'fun part'",
+    "4": "Overly punchy fragments and the cliché 'the good part'",
+    "5": "Repetitive, generic superlatives ('amazing,' 'scrumptious,' 'yummy') and over-explaining"
+  },
+  "reason": "Version 3 is the clearest and most credible while keeping a warm, human tone; version 1 feels natural but less scannable, and the others show more AI-style tics.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "C",
+    "4": "O",
+    "5": "E"
+  }
+}

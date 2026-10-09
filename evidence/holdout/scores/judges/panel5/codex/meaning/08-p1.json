@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 1,
+    "4": 3
+  },
+  "reason": "Version 3 preserves the facts and sentiments most closely; version 2 retains nearly all of them but adds that Mateo currently runs the business in Asheville. Version 4 loses the privilege and restoring-an-instrument’s-voice nuances, while version 1 replaces every piano’s worthwhile future with a claim about most pianos’ remaining playing life and weakens the original’s sense of privilege.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "B5",
+    "4": "B3"
+  }
+}

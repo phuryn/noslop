@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "Version 1 stays closest to the original wording and keeps the regular-or-last-minute ask intact with no added facts. Version 2 is nearly as close but slightly changes the ask into a statement. Version 3 adds only writer-supplied details but drops the original last-minute delivery need and narrows to regular routes, changing the original commitment.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "B5",
+    "3": "track2/B5-int"
+  }
+}

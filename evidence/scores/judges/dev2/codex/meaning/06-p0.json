@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 3
+  },
+  "reason": "Version 1 preserves the original’s scope most precisely; version 2 retains the core meaning, though its per-kit pricing wording is slightly less clear. Version 4’s “skip the scale” broadens the dry-ingredient convenience, while version 3’s “You don't have to weigh anything out” makes the strongest unsupported claim; all retain the price, free US shipping, and cancellation terms.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "B5",
+    "4": "C"
+  }
+}

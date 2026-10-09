@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2
+  },
+  "reason": "Version 1 most closely preserves the original’s facts, subscription terms, and experiential meaning; version 3 is nearly as faithful, but “Keep it as long as you like” makes the subscription-duration meaning less clear. Version 2 adds unsupported promises of something new every month and suitability for all experience levels, while losing the original’s emphasis on slowing down, sharing, and quiet enjoyment.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "E",
+    "3": "A"
+  }
+}

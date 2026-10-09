@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3,
+    "4": 4
+  },
+  "reason": "Version 2 most closely preserves the original claims about vaccines, age 7, bloodwork markers, early detection, baseline tracking, and price. Version 1 is next because it keeps the main recommendation and care-tracking idea but drops 'other health markers' and strengthens 'fuller picture'; Version 3 changes the opening to a bloodwork-specific claim and loses some baseline/care-guidance nuance, while Version 4 adds and changes several claims and omits key details.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B3",
+    "3": "A",
+    "4": "E"
+  }
+}

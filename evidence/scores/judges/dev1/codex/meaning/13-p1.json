@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 4,
+    "3": 2,
+    "4": 1
+  },
+  "reason": "Version 4 preserves the original’s substance and commitment levels most closely; version 3 retains the proposal’s conditional framing, while version 1 turns proposed mitigations into firmer “we will” commitments. Version 2 makes the largest shifts, strengthening potential investment returns into expected results and replacing precise capital and operating dollars with broader “money and effort.”",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "B5",
+    "4": "B3"
+  }
+}

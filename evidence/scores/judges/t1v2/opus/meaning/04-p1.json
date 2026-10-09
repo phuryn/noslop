@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2,
+    "4": 4
+  },
+  "reason": "Versions 1 and 3 keep every fact and nuance, and 1 edges ahead because it also keeps the original's comma after 'This week'. Version 2 shifts 'us' to 'you', drops 'now', and softens 'hardest' to 'hard'. Version 4 drops the 'small job' framing, adds 'our' ownership of the swap, and changes 'come along' to 'stay'.",
+  "label_to_arm": {
+    "1": "B2",
+    "2": "B",
+    "3": "A",
+    "4": "C"
+  }
+}

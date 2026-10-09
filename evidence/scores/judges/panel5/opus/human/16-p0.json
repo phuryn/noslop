@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 5,
+    "4": 3,
+    "5": 2,
+    "6": 6
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Colon-introduced triad of actions plus a semicolon pivot, a slightly over-polished rhythm",
+    "3": "none (it reads human but unskilled, with repetitive 'I had had', filler 'Anyway' and the clichéd 'bang or whimper')",
+    "4": "Clipped staccato fragments ('I straightened... I checked... I wiped...') and the 'caught myself' framing feel like deliberate de-AI-ing",
+    "5": "none",
+    "6": "Curly typographic apostrophes, 'found myself doing' framing, colon-led gerund triad and a semicolon balance give it a templated, AI-polished finish"
+  },
+  "reason": "Version 1 keeps the strong concrete details and quiet ending in plain, unforced sentences without the colon-list or semicolon symmetry of the more polished variants. Version 3 is clearly human but too weak to publish.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "E",
+    "4": "C",
+    "5": "B5",
+    "6": "O"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 2,
+    "4": 3
+  },
+  "reason": "V1 keeps nearly everything, losing only the 'usual things/found myself' framing. V3 turns 'hadn't given much thought' into 'hadn't thought', dropping a hedge, and V4 adds small shifts such as 'teach them better', 'never really thought' and 'explained things'. V2 drops most specifics and invents content like careful preparation, bang/whimper and good and bad years.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "E",
+    "3": "A",
+    "4": "C"
+  }
+}

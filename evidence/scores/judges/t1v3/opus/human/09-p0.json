@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 5,
+    "4": 4,
+    "5": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Over-explains the warranty logic ('so a battery that stopped charging after five months qualifies'), which reads like a justification rather than a reply.",
+    "3": "Stacked stock phrases ('Thank you for reaching out', 'That's not the experience we want you to have', 'again, my apologies for the inconvenience') and repeated apologies.",
+    "4": "Template-like and clipped; the closing 'reply to this message' sounds like boilerplate rather than an offer to help.",
+    "5": "none, though the 'sorry X, and sorry Y' opening feels slightly formulaic."
+  },
+  "reason": "Version 1 is warm and concise, and the agent takes ownership with 'I'll email you' and 'I'll help', which reads like a real person handling the case. Version 3 is padded with corporate filler and too many apologies.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B",
+    "3": "O",
+    "4": "A",
+    "5": "B3"
+  }
+}

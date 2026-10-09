@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "Version 1 keeps every fact, commitment and section, including the explicit 'Ask' label, and only drops minor intensifiers. Version 2 keeps all the content but removes the 'Ask' framing. Version 3 drops the thanks for continued support, adds 'with them', and turns 'dig into anything' into 'if you have questions' and 'we'd really appreciate an intro' into 'an intro would help a lot'.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "B5",
+    "3": "A"
+  }
+}

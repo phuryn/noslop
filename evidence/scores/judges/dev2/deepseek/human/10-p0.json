@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 5,
+    "4": 1,
+    "5": 3
+  },
+  "send": "4",
+  "tells": {
+    "1": "Slightly performative casualness in 'Quick heads-up:' and 'On a happier note'",
+    "2": "Stiff corporatese like 'price will increase' and 'the new $135 rate will take effect for you'",
+    "3": "Overly clipped and generic; lacks natural connective warmth and reads like a summary",
+    "4": "none",
+    "5": "Mild vagueness in 'questions about the change' instead of the more specific 'price change'"
+  },
+  "reason": "Version 4 is the clearest and most natural, stating the price change, grandfathering current members, and adding the positive news without filler or stiff phrasing.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "O",
+    "3": "A",
+    "4": "B5",
+    "5": "B3"
+  }
+}

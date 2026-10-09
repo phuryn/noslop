@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3
+  },
+  "reason": "Version 2 stays closest to the original facts and commitments, preserving the app name, refund timing, and offer to help. Version 1 keeps the offer and thanks but slightly generalizes wording, while Version 3 loses the original's contact invitation, making it least faithful.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B3",
+    "3": "A"
+  }
+}

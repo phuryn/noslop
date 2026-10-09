@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 7,
+    "4": 6,
+    "5": 3,
+    "6": 5,
+    "7": 4
+  },
+  "send": "2",
+  "tells": {
+    "1": "none; it's clean, though so terse it reads slightly clipped",
+    "2": "none",
+    "3": "Redundant 'October is here' followed by 'from 1 October', plus the stock sign-off 'We look forward to welcoming you!' (also uses curly apostrophes, unlike the others)",
+    "4": "none; the tells are human-amateur ones: 'over 65's', random Title Case, an irrelevant 'Did You Know?' and '1st October'/'8 branches'",
+    "5": "Formulaic 'It's October, which means…' opener that repeats the date in the next sentence",
+    "6": "Generic corporate sign-off 'We look forward to welcoming you.'",
+    "7": "Identical to version 5: the same 'It's October, which means…' opener repeating the date"
+  },
+  "reason": "Version 2 is clear, warm and natural: 'We've also opened' and 'Come and see us!' sound like a real local business without padding or stock phrases. Versions 5 and 7 are word-for-word identical, so their ranks are separated only to avoid a tie.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "O",
+    "4": "E",
+    "5": "V6A",
+    "6": "B5",
+    "7": "V6C"
+  }
+}

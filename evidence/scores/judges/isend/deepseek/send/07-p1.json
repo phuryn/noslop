@@ -1,0 +1,10 @@
+{
+  "send": "2",
+  "reason": "It preserves the original facts, commitment, and wording most closely, keeping 'Android biometric flow' and 'Nov 3 target date' intact without adding or softening caveats.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B5"
+  },
+  "picked_arm": "A"
+}

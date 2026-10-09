@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2
+  },
+  "send": "3",
+  "tells": {
+    "1": "Templated emoji-bullet list with bolded-style 'label: benefit' lines, repeated date/time block, and a stack of generic hashtags; 'a good appetite for autumn' filler",
+    "2": "none",
+    "3": "Slightly padded reassurance phrasing ('so you'll be among the first to taste it', 'from start to finish')"
+  },
+  "reason": "Version 2 reads most like a busy farm owner wrote it, but it's a little flat and drops the warm sign-off. Version 3 keeps that natural voice while adding enough warmth and detail to sell the event, without the formulaic emoji scaffolding and redundant logistics block of Version 1.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "A",
+    "3": "B3"
+  }
+}

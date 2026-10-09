@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 4,
+    "4": 3
+  },
+  "send": "4",
+  "tells": {
+    "1": "none",
+    "2": "A neat full-name recovery story and a review-count aside read like inserted social proof.",
+    "3": "Empty lines such as 'guidance you can trust,' 'keep your recovery moving,' and 'unlock more of what the app has to offer.'",
+    "4": "Slogan cadence ('how to do it right') and the stock closer 'see how far you've come.'"
+  },
+  "reason": "Version 2 sounds most like a person because of the first-person insight and uneven specifics, while version 3 is smoothed, vague marketing. I would publish 4: it is clear and stays with the shared facts, without an unverified outcome claim or an empty premium upsell.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "track2/B3-int",
+    "3": "O",
+    "4": "B3"
+  }
+}

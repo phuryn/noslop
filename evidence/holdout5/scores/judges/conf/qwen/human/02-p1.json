@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 7,
+    "3": 2,
+    "4": 5,
+    "5": 1,
+    "6": 3,
+    "7": 6
+  },
+  "send": "5",
+  "tells": {
+    "1": "none",
+    "2": "stacked buzzwords and awkward 'mushroom (Mycelium)' parenthetical",
+    "3": "formulaic 'Would you be open' cold-email template",
+    "4": "hedging opener and stiff 'at no cost'",
+    "5": "none",
+    "6": "templated phrasing and generic 'be a fit'",
+    "7": "exact duplicate of 4, suggesting generated variation"
+  },
+  "reason": "Version 5 feels the most like a person: concrete, conversational, and low-pressure. The others are either too templated, stiff, or padded with marketing language.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "E",
+    "3": "A",
+    "4": "V6A",
+    "5": "C",
+    "6": "O",
+    "7": "V6C"
+  }
+}

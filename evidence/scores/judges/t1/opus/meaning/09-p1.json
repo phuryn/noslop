@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "Version 1 keeps every fact and commitment and drops only the closing thanks and the 'glad to help' courtesy. Version 2 shifts the tracking email from 'we' to 'I' and adds an explicit eligibility claim. Version 3 shifts more: the agent personally commits to email and help, the subject drops 'replacement', the battery becomes 'new', and 'questions' widens to 'anything comes up'.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B",
+    "3": "C"
+  }
+}

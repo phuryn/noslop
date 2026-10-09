@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 5,
+    "2": 3,
+    "3": 4,
+    "4": 2,
+    "5": 1
+  },
+  "reason": "Version 5 keeps the facts, numbers, and the caveat “hadn’t given much thought,” only dropping the “found myself doing the usual things” frame while listing the same actions. Version 4 hardens that hedge; 2 turns it into “never”; 3 rewrites “teach again” and “something”; 1 adds a prepared bang-or-whimper exit and drops the twenty-year detail.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "B5",
+    "3": "C",
+    "4": "A",
+    "5": "B3"
+  }
+}

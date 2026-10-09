@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 6,
+    "2": 4,
+    "3": 3,
+    "4": 2,
+    "5": 5,
+    "6": 1
+  },
+  "send": "6",
+  "tells": {
+    "1": "Stock template sign-off ('Thanks for your patience, and please let us know if you have any other questions') plus a passive 'is being processed'",
+    "2": "none, though it is slightly formulaic in pairing each fact with a stock clause",
+    "3": "none; the one-line closing paragraph is a little padded",
+    "4": "Stacked warmth phrases ('so sorry', 'Thanks for bearing with us', 'we'll help') that feel a bit layered on",
+    "5": "none, but it ends abruptly with no way to follow up, which reads clipped rather than AI",
+    "6": "none"
+  },
+  "reason": "Version 6 takes ownership ('we charged you'), fits apology, cause, fix and refund into one tight paragraph, and closes with a simple next step, so it reads like a confident human agent. Version 1 leans hardest on generic support boilerplate.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B3",
+    "3": "B2",
+    "4": "C",
+    "5": "A",
+    "6": "B"
+  }
+}

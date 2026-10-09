@@ -1,0 +1,11 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1
+  },
+  "reason": "Version 2 preserves the promise of watching pressing from start to finish and explicitly retains the invitation to be among the first to taste Quiet Field. Version 1 keeps the core event facts but omits those details or leaves them implicit.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3"
+  }
+}

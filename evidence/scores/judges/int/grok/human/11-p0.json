@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 3,
+    "4": 1
+  },
+  "send": "1",
+  "tells": {
+    "1": "Mild over-explaining: the schedule is immediately glossed as 'so you can plan a life around the schedule,' inside otherwise tidy three-beat sentences.",
+    "2": "Bold scaffold headers (**What you'll do:**, **What we're after:**, **Pay:**) turn the intro into a template.",
+    "3": "Sanded into a perfect tricolon ('real days off, nights that actually end, and a schedule...') plus the empty intensifier 'a real say.'",
+    "4": "Specifics feel grafted on—180 covers, Luis, 100% insurance—and a Wednesday–Sunday service is called a four-day week, with 'that's the hardest part of the job' spelled out."
+  },
+  "reason": "Version 4 sounds most like someone on the line, but the bolted-on facts and the four-day/five-day clash hurt clarity and credibility. Version 1 keeps the same kitchen voice without template headers or unverifiable color, so that is the one I would publish.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "O",
+    "3": "B3",
+    "4": "track2/B3-int"
+  }
+}

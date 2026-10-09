@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 1,
+    "3": 5,
+    "4": 2,
+    "5": 3
+  },
+  "reason": "Versions 2, 4, 5, and 1 preserve all substantive facts, numbers, the decision deadline, and the conditional recommendation; their forced ordering reflects no material difference in faithfulness. Version 3 omits the explicit caveat “unless you see a reason not to,” making the preference for Tilburg less expressly conditional.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B3",
+    "3": "A",
+    "4": "B2",
+    "5": "B"
+  }
+}

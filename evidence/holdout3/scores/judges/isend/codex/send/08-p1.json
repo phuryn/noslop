@@ -1,0 +1,11 @@
+{
+  "send": "4",
+  "reason": "It keeps the same price, coverage, minimum booking and delivery deadline measured from the flight, while preserving the maps’ role in helping identify areas for a closer look. It also matches my straightforward, practical tone.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "E",
+    "4": "B5"
+  },
+  "picked_arm": "B5"
+}

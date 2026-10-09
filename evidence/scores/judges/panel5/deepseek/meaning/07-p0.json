@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 4,
+    "4": 1
+  },
+  "reason": "Version 4 preserves the original wording and all facts most exactly. Version 1 is nearly identical but slightly rephrases the remaining piece; Version 2 drops 'target date' phrasing, and Version 3 adds 'only big piece,' hinting other small work may remain.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B5",
+    "3": "C",
+    "4": "B3"
+  }
+}

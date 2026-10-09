@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 5,
+    "4": 2,
+    "5": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "The phrase 'the care they need when they need it' sounds like generic healthcare marketing.",
+    "2": "The added takeaway about 'reaching people where they already are' turns a concrete account into a formulaic business lesson.",
+    "3": "none",
+    "4": "The closing lesson about 'meeting patients where they already are' feels like a stock insight.",
+    "5": "The stacked signposts—'The change was simple,' 'Here's what that meant,' and 'The lesson for me'—make the post feel templated."
+  },
+  "reason": "Version 1 is direct, economical, and specific enough to publish without an unnecessary management lesson. Version 3 may feel less polished by AI, but its awkward syntax and repetition make it the weakest example of skilled writing; these rankings assess the prose, not actual authorship.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "E",
+    "4": "B3",
+    "5": "O"
+  }
+}

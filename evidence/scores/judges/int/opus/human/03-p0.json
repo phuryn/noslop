@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 4,
+    "4": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "Each bullet has a label-colon lead-in, which feels templated for a three-item list.",
+    "2": "none",
+    "3": "Every bullet has a bolded label and colon, and 'PDF export: Fixed a bug where...' repeats its own label.",
+    "4": "Every bullet has a bolded label and colon, the same template as 3, though the copy is tighter."
+  },
+  "reason": "Version 2 reads like a real changelog: plain bullets with clear headers and no bolded label scaffolding on a three-item list. Versions 3 and 4 use the bold-label-colon pattern most associated with AI output, and 3 is also redundant.",
+  "label_to_arm": {
+    "1": "track2/B3-int",
+    "2": "track2/A-int",
+    "3": "O",
+    "4": "B3"
+  }
+}

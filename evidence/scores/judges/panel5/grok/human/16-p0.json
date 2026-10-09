@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 6,
+    "3": 5,
+    "4": 1,
+    "5": 4,
+    "6": 3
+  },
+  "send": "4",
+  "tells": {
+    "1": "The good/bad lesson pair and the wondering/changed-me student pair, closed by a neat “ready to go, but,” feel template-balanced.",
+    "2": "none",
+    "3": "“I found myself doing the usual things” is a stock AI opener before a tidy participle list.",
+    "4": "Mild: “caught myself” plus three matching “I” sentences is a performed literary cadence.",
+    "5": "The colon-led action list and semicolon make the beats feel assembled rather than remembered.",
+    "6": "“I did the usual things” labels the actions, then restates them, instead of just showing the ritual."
+  },
+  "reason": "Version 4 has a spoken teacher’s cadence and actually repairs the faulty “others” sentence, so it sounds authored rather than poured into the same reflective mold. The rest either sand that voice into a balanced essay shape or, in version 2, stay too vague and repetitive to publish.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "E",
+    "3": "O",
+    "4": "C",
+    "5": "A",
+    "6": "B5"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 3,
+    "3": 2,
+    "4": 1
+  },
+  "reason": "V4 keeps the tentative 'could' and turns 'where we might fit' into a close hedge ('whether that fits'), and V3 keeps the conditional framing but adds 'anywhere' and narrows last-minute needs to 'occasional.' V2 hardens the offer to 'We can cover,' and V1 drops the 'where we might fit' caveat entirely.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "B",
+    "3": "C",
+    "4": "A"
+  }
+}

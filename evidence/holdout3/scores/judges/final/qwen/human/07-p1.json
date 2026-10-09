@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 5,
+    "3": 4,
+    "4": 3,
+    "5": 6,
+    "6": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Dense paraphrase feel and overwrought personification in 'machine betrayed it'.",
+    "3": "Didactic signposting such as 'that is what makes it dangerous' and tidy triads.",
+    "4": "Mechanically balanced list ('one misplaced... one false friend... one quietly dropped...').",
+    "5": "Over-explanatory syntax, especially 'A contract is a document where...'.",
+    "6": "none"
+  },
+  "reason": "Version 1 best reads like a skilled human op-ed: concrete, controlled, and credible. Version 6 is raw and undeniably human, but too rough for publication; the other variants feel more AI-ish because of formulaic symmetry and over-explanation.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B5",
+    "3": "B3",
+    "4": "A",
+    "5": "O",
+    "6": "E"
+  }
+}

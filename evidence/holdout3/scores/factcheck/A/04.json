@@ -1,0 +1,34 @@
+{
+  "dropped": [
+    {
+      "item": "Seasonal framing 'As autumn settles over the hills' and the intensifier 'heartfelt' in the thank-you",
+      "severity": "minor"
+    },
+    {
+      "item": "Description of the new Land Rover as 'a welcome addition to the team and a reminder of what your support makes possible', which explicitly linked the vehicle to supporters' impact",
+      "severity": "minor"
+    },
+    {
+      "item": "Closing thanks 'thank you for being part of it', directed at all kinds of supporters (donors, fundraisers, cheerleaders)",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "Closing line changed from thanking every type of supporter ('thank you for being part of it') to 'you're welcome'. This reads as an invitation to the open day, or awkwardly as a reply to thanks. The gratitude to non-donors is lost.",
+      "severity": "minor"
+    },
+    {
+      "item": "'Please come along' softened to 'Come along'. The call to action is still present.",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "Implied statement that all supporters are welcome (at the open day), via 'you're welcome'",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

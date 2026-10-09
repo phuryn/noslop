@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 1,
+    "3": 3,
+    "4": 2,
+    "5": 4
+  },
+  "send": "2",
+  "tells": {
+    "1": "Repetitive phrasing around 'pre-measured dry ingredients' and awkward lines like 'we will take the time for you' make it feel unpolished.",
+    "2": "none",
+    "3": "Smooth, cozy lifestyle imagery without concrete proof feels generically AI-polished.",
+    "4": "The rhythmic 'Maybe it's... Maybe it's... Either way' structure and familiar sensory cues feel formulaic.",
+    "5": "Slogan-like fragments such as 'A little measuring done. A little joy delivered.' and 'Stay for as long as you like' feel artificially catchy and slightly unnatural."
+  },
+  "reason": "Version 2 reads most like a skilled human because it uses concrete details, social proof, and a small imperfection that feels lived-in rather than generic. It also gives the strongest credibility for a landing page, so I would publish that one.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "track2/B5-int",
+    "3": "track2/A-int",
+    "4": "C",
+    "5": "O"
+  }
+}

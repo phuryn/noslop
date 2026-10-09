@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2
+  },
+  "reason": "Version 1 preserves all substantive facts, rollout instructions, and support assurances. Version 3 drops the explicit step-by-step support commitment and introduces plugging in as the charging method, while version 2 removes the reassurance that all questions are welcome and makes the conversation benefit more categorical.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "C"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 5,
+    "3": 3,
+    "4": 4,
+    "5": 1,
+    "6": 7,
+    "7": 6
+  },
+  "send": "5",
+  "tells": {
+    "1": "none",
+    "2": "The stock closing 'We look forward to welcoming you!' feels formulaic, though it is also common human-written copy.",
+    "3": "none",
+    "4": "The stock closing 'We look forward to welcoming you' feels formulaic, though it is also common human-written copy.",
+    "5": "none",
+    "6": "none",
+    "7": "none"
+  },
+  "reason": "Version 5 combines clear practical information with a friendly, natural invitation; version 6's punctuation and capitalisation errors weaken its editorial quality. These are editorial judgments, not reliable evidence of AI authorship; versions 1 and 3 are identical, so their required separate ranks are arbitrary.",
+  "label_to_arm": {
+    "1": "V6C",
+    "2": "O",
+    "3": "V6A",
+    "4": "B5",
+    "5": "C",
+    "6": "E",
+    "7": "A"
+  }
+}

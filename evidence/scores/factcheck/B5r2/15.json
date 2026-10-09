@@ -1,0 +1,29 @@
+{
+  "dropped": [
+    {
+      "item": "\"See how far you've come\": the app lets users track their own progress over time, not just check off exercises",
+      "severity": "minor"
+    },
+    {
+      "item": "\"So you always know what to do and how to do it right\": the reassurance of clear, easy-to-follow guidance is only partly kept by \"videos that show you how to do each one\"",
+      "severity": "minor"
+    },
+    {
+      "item": "\"Keep your recovery moving\": the purpose of PT plan adjustments",
+      "severity": "minor"
+    },
+    {
+      "item": "\"Upgrade\" call to action is softened into a neutral statement that Premium exists",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "Progress sharing: the original frames it as the user choosing to share (\"Let your physical therapist see\"). The edit says \"Your physical therapist can see how you're doing,\" which drops the user's control or consent over sharing.",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

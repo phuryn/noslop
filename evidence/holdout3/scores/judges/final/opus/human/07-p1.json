@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 4,
+    "4": 6,
+    "5": 5,
+    "6": 3
+  },
+  "send": "6",
+  "tells": {
+    "1": "Polished punchy close ('It didn't. It moved somewhere cheaper...') and a too-tidy 'once to X, once to Y' structure",
+    "2": "none: non-native grammar, uneven punctuation, and rambling run-ons read as genuinely human",
+    "3": "Stock emphasis phrase 'that is what makes it dangerous' and evenly balanced, over-groomed sentences",
+    "4": "Repeated 'It's not X. It's Y' contrast framing ('It's not. It's a different, worse job. It isn't cheaper work.') and choppy staccato rhythm",
+    "5": "Long, rhetorically engineered sentences with a colon-led list, a semicolon pivot, and 'which is exactly what makes it dangerous'",
+    "6": "Mild 'It didn't. It moved...' reversal in the closing line"
+  },
+  "reason": "Version 2 is the most clearly human but too rough to publish. Version 6 keeps the specific, credible detail with clean paragraphing and the fewest formulaic AI flourishes, so it reads best as a blog post.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "E",
+    "3": "A",
+    "4": "C",
+    "5": "O",
+    "6": "B3"
+  }
+}

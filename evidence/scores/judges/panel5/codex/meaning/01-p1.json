@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 5,
+    "3": 3,
+    "4": 2,
+    "5": 1
+  },
+  "reason": "Version 5 preserves nearly all substantive meaning; version 4 changes the qualified general lesson into a claim about the single biggest win, while version 3 omits that lesson and makes phone calls’ failure categorical. Version 1 loses additional nuance and strengthens unreturned-voicemail claims; version 2 adds unsupported claims about texting being the only change, results appearing quickly, and a one-month trial.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "C",
+    "3": "A",
+    "4": "B3",
+    "5": "B5"
+  }
+}

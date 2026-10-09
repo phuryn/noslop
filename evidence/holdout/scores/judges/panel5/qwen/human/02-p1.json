@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 5,
+    "3": 3,
+    "4": 1,
+    "5": 4
+  },
+  "send": "4",
+  "tells": {
+    "1": "The hedge \"I think you're currently\" makes the personalization feel guessed rather than confidently observed.",
+    "2": "The job-first opening and \"I can tell you more then\" feel transactional and slightly templated.",
+    "3": "\"If it sounds of interest\" is a stiff, formulaic closer.",
+    "4": "none",
+    "5": "\"I can share more then\" is a little abrupt and assumes the next step."
+  },
+  "reason": "Version 4 feels most like a real recruiter: it acknowledges the candidate's current role, states the opportunity and terms plainly, and closes with a low-pressure ask. The others have slight hedges, stiff phrasing, or a more templated cadence.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B5",
+    "3": "O",
+    "4": "C",
+    "5": "B3"
+  }
+}

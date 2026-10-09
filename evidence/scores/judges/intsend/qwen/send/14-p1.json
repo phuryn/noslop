@@ -1,0 +1,11 @@
+{
+  "send": "3",
+  "reason": "It keeps the core anniversary message and only the confirmed party detail, while adding the writer’s supplied facts about Middlemarch, Mr. Okafor, and the 2020 GoFundMe. It avoids inventing extra details and stays closest to the intended meaning.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "E",
+    "3": "track2/B5-int",
+    "4": "C"
+  },
+  "picked_arm": "track2/B5-int"
+}

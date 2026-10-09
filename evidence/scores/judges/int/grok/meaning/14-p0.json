@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1
+  },
+  "reason": "Version 3 keeps every original fact, sentiment, and nuance through close rephrasing and adds nothing. Version 1 drops the framing that a book still on a shelf is one of the lovely things about ten years. Version 2 omits major original reflections and adds an unsupplied thank-you to neighbors for keeping a specific book.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "track2/B3-int",
+    "3": "B3"
+  }
+}

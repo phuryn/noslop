@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 6,
+    "3": 1,
+    "4": 5,
+    "5": 4,
+    "6": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Filler benefit clause 'so you'll have more options during the week', which is odd for a Sunday addition. It's nearly identical to 4, like a templated rewrite.",
+    "3": "none. Its quirks read as human: comma splice, 'at which time', redundant 'monthly membership', '1st', exclamation points.",
+    "4": "Same stock filler 'so you'll have more options during the week' plus tidy compressed phrasing ('then move to $135').",
+    "5": "Performed casualness and emotional signposting ('Quick heads-up', 'On a happier note', 'we'll be glad to help') with a reassurance-framed benefit line.",
+    "6": "Smooth, generic corporate polish ('to give you more options during the week', 'Thank you for being part of our community'), with no texture."
+  },
+  "reason": "Version 3 reads most like a real studio owner wrote it, but its run-on and clunky renewal sentence hurt clarity. Version 1 states the change, the grandfathering, and the new classes plainly without filler, so it's the most credible to send.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B5",
+    "3": "E",
+    "4": "B3",
+    "5": "C",
+    "6": "O"
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "dropped": [
+    {
+      "item": "It happened on a Tuesday ('wet Tuesday in November')",
+      "severity": "minor"
+    },
+    {
+      "item": "'About four months in' as the narrator's time since leaving London (the timeline anchor is lost and reassigned to the lockout)",
+      "severity": "major"
+    },
+    {
+      "item": "It was a terraced house, located 'off' Bishopthorpe Road",
+      "severity": "minor"
+    },
+    {
+      "item": "Her cardigan pulled tight and the carrier bag (the shopping itself is kept)",
+      "severity": "minor"
+    },
+    {
+      "item": "The narrator knelt at the door and felt the last pin set",
+      "severity": "minor"
+    },
+    {
+      "item": "She let out a small breath when the lock turned, as if she'd been holding it all day",
+      "severity": "minor"
+    },
+    {
+      "item": "She apologised for the trouble",
+      "severity": "major"
+    },
+    {
+      "item": "The 7 a.m. dread carried around London for years",
+      "severity": "major"
+    },
+    {
+      "item": "The money made in the City never felt as plainly earned as that tea",
+      "severity": "major"
+    },
+    {
+      "item": "Drove home with cold knees and a damp collar",
+      "severity": "minor"
+    },
+    {
+      "item": "The closing realisation that he no longer felt like he was waiting for his life to start",
+      "severity": "major"
+    }
+  ],
+  "changed": [
+    {
+      "item": "'About four months' is now how long the woman had been locked out ('locked out of her house... for about four months now'). In the original it was how long the narrator had been in the new life, and she had been locked out only since that morning. This is now factually false and contradicts the edit's own 'for the morning already'.",
+      "severity": "major"
+    },
+    {
+      "item": "Location changed from a terraced house 'off Bishopthorpe Road' to a house 'on the Bishopthorpe Road'",
+      "severity": "minor"
+    },
+    {
+      "item": "Her response changed from apologising for the trouble to 'couldn't stop thanking me for helping her'",
+      "severity": "major"
+    },
+    {
+      "item": "'Nobody had ever thanked me like that in the City' became 'nobody ever thanked me back in London'. The claim is now absolute (never thanked at all, not just not like that) and the scope moved from the City to London.",
+      "severity": "major"
+    },
+    {
+      "item": "The money contrast changed from 'never felt as plainly earned as that tea' to 'even when I was making all that money', so the point about earned value is lost and becomes a point about not being thanked",
+      "severity": "major"
+    },
+    {
+      "item": "The ending changed from 'for the first time in a long while I didn't feel like I was waiting for my life to start' to 'for the first time feeling like I was happy'. This turns 'in a long while' into an implied first time ever and replaces the specific feeling with generic happiness.",
+      "severity": "major"
+    },
+    {
+      "item": "'The P&L' was expanded to 'profit and loss accounts'",
+      "severity": "minor"
+    },
+    {
+      "item": "'Pressed a flask of tea into my hands' became 'forced a flask of tea on me', which reads as more insistent",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "A title/heading 'The Change'",
+      "severity": "minor"
+    },
+    {
+      "item": "'The change started to come quickly', a claim of quick change not present in the original",
+      "severity": "major"
+    },
+    {
+      "item": "'it wasn't long before I realised that this was what I had been missing in London'",
+      "severity": "major"
+    },
+    {
+      "item": "'I felt that I was truly needed here'",
+      "severity": "major"
+    },
+    {
+      "item": "'couldn't stop thanking me for helping her'",
+      "severity": "major"
+    },
+    {
+      "item": "'for the first time feeling like I was happy'",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [
+    "locked out of her house on the Bishopthorpe Road for about four months now",
+    "The change started to come quickly",
+    "it wasn't long before I realised that this was what I had been missing in London",
+    "I felt that I was truly needed here",
+    "couldn't stop thanking me for helping her",
+    "for the first time feeling like I was happy"
+  ],
+  "meaning_preserved": 2
+}

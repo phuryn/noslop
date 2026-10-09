@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1
+  },
+  "reason": "Version 2 preserves all core facts, dates, benefits, and support reassurances with only minor wording changes. Version 3 drops the 'between charges' benefit and family thank-you but keeps the no-question-too-small reassurance, while Version 1 also omits that support reassurance, making it slightly less faithful.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "B3"
+  }
+}

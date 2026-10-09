@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 3,
+    "4": 2
+  },
+  "reason": "Version 1 keeps all key facts and the stated purpose of the Sunday classes with no material additions. Version 4 is close but omits that purpose; Version 3 adds/changes details like “workout” and the subject, while Version 2 adds renewal timing and says classes are starting soon.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "E",
+    "3": "C",
+    "4": "A"
+  }
+}

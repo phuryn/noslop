@@ -1,0 +1,11 @@
+{
+  "send": "4",
+  "reason": "It keeps the original facts, reflective tone, and key qualifications more faithfully than the others, with only minor phrasing changes that do not materially alter what was meant.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "C",
+    "3": "E",
+    "4": "A"
+  },
+  "picked_arm": "A"
+}

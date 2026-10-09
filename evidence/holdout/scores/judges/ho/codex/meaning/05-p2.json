@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 5,
+    "5": 3
+  },
+  "reason": "Versions 1, 2, 5, and 3 preserve the facts, numbers, deadline, decision request, and explicit caveat; their forced ordering does not indicate a material difference in meaning. Version 4 drops the explicit openness to reasons against Tilburg, although it still asks Anita to decide.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "B2",
+    "3": "C",
+    "4": "A",
+    "5": "B"
+  }
+}

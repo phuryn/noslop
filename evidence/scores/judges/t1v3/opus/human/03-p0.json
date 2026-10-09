@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 5,
+    "3": 1,
+    "4": 4,
+    "5": 2
+  },
+  "send": "3",
+  "tells": {
+    "1": "Bolded label-colon bullets ('**Faster bank feed sync:**') that restate the sentence that follows; the 'Releases October 14' phrasing is slightly off.",
+    "2": "Forced conversational flourishes: a rhetorical question ('Need to change a bunch of invoices?') and a punchy closer ('That's fixed.'), plus the intensifier 'much sooner'.",
+    "3": "none",
+    "4": "Bolded label-colon on every bullet, giving a templated, symmetrical structure.",
+    "5": "Label-colon bullets remain even with formatting stripped; it also drops the user benefit ('so transactions show up sooner'), which makes it terse."
+  },
+  "reason": "Version 3 is plain and direct, with no redundant bold labels or performed friendliness, and it keeps the user benefit; it reads like a real product team's changelog. Version 2's chatty flourishes feel like AI imitating a casual voice.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "C",
+    "3": "A",
+    "4": "O",
+    "5": "B"
+  }
+}

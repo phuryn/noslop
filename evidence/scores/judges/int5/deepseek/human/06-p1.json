@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Generic, symmetrical benefit sections without concrete proof or a distinct voice.",
+    "3": "Slogan-like parallel fragments and emotional filler.",
+    "4": "Reads like an AI-polished hybrid of the other versions, with bold headings and safe, cozy phrasing."
+  },
+  "reason": "Version 1 is the most credible and human because it includes specific sourcing, a real-feeling subscriber story, and subscriber count; the others are cleaner but more generic and stylized.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "track2/A-int",
+    "3": "O",
+    "4": "B5"
+  }
+}

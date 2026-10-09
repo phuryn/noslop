@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "Version 1 preserves the core offer and incorporates the writer-supplied two-hour definition, capacity caveat, monitoring facts, and regular-route priority without unsupported additions. Version 2 retains the original’s tentative inquiry but omits those clarifications; version 3 also omits them and shifts the inquiry toward a more affirmative statement of intent to help.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "track2/A-int",
+    "3": "B5"
+  }
+}

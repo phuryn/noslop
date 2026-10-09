@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 4,
+    "3": 2,
+    "4": 1
+  },
+  "send": "3",
+  "tells": {
+    "1": "Stock recruitment reassurance such as 'a say in how we do things' gives parts of it a generic polish.",
+    "2": "The added headings and 'a real say' make the voice feel more like a polished recruitment template.",
+    "3": "The tidy trio 'real days off, nights that actually end, and a schedule you can plan a life around' feels slightly manufactured.",
+    "4": "The consecutive employee success stories feel engineered to demonstrate a supportive culture, though the operational details sound natural."
+  },
+  "reason": "Version 4 reads most human because its specifics give the kitchen a recognizable identity, but it introduces substantial factual claims absent from the others. I'd publish version 3 for its clean, conversational editing without those additions; these stylistic impressions do not establish AI authorship.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "O",
+    "3": "B5",
+    "4": "track2/B5-int"
+  }
+}

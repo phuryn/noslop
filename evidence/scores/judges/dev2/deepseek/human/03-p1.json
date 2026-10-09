@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 5,
+    "4": 4,
+    "5": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "uniform, polished feature-benefit bullets that lack a distinct voice",
+    "3": "template-like markdown and 'Fixed a bug where…' phrasing",
+    "4": "'Fixed a bug where…' plus symmetrical, overly standard bullet structure",
+    "5": "flat, generic phrasing with no noticeable human tone or formatting"
+  },
+  "reason": "Version 1 has the most natural, conversational rhythm and concrete detail while staying clear; the others feel more templated or polished in ways typical of AI-generated release notes.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B3",
+    "3": "A",
+    "4": "O",
+    "5": "B5"
+  }
+}

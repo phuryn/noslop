@@ -1,0 +1,40 @@
+{
+  "dropped": [
+    {
+      "item": "Desk and childcare are booked together in one booking, so there's no need to arrange them separately (the edit only says 'book your desk and crche place')",
+      "severity": "minor"
+    },
+    {
+      "item": "You and your child will both be in the same place",
+      "severity": "minor"
+    },
+    {
+      "item": "You know the price before you book",
+      "severity": "minor"
+    },
+    {
+      "item": "The euro currency symbol on the price ('28' instead of '€28')",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "Price is shown as '28' with no currency, which makes the €28 figure less clear",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "Business name 'DropInCrd'",
+      "severity": "major"
+    },
+    {
+      "item": "Assurance that your little one is safe in the crèche",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [
+    "DropInCrd"
+  ],
+  "meaning_preserved": 4
+}

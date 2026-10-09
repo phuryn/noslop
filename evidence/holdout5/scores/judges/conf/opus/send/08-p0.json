@@ -1,0 +1,13 @@
+{
+  "send": "6",
+  "reason": "Version 6 keeps every fact: one booking, both time slots, the same place with time for work and care, four hours, and €28 covering desk and crèche, known before you book. It also keeps my exact caveat ('no need to arrange them separately') and my step-3 heading, while 1 and 5 broaden the caveat to 'nothing else to sort out', 3 and 4 drop details, and 2 is garbled and missing the € sign.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "E",
+    "3": "B5",
+    "4": "A",
+    "5": "V6A",
+    "6": "V6C"
+  },
+  "picked_arm": "V6C"
+}

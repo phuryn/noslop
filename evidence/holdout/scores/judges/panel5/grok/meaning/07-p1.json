@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 4,
+    "4": 1
+  },
+  "reason": "Version 4 preserves every fact, the refund commitment, and both closing nuances with only negligible rephrasing. Version 2 drops only the thanks while keeping the question invitation; version 1 omits the entire closing; version 3 alters the app name, refund-status wording, and charge description while adding a help promise.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "C",
+    "4": "B5"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "dropped": [
+    {
+      "item": "The sorting is done by hand",
+      "severity": "minor"
+    },
+    {
+      "item": "'Every tonne in that 1,000 passed through someone's hands first'",
+      "severity": "minor"
+    },
+    {
+      "item": "The 'worn again' category is no longer listed separately from reuse and recycling (into something new)",
+      "severity": "minor"
+    },
+    {
+      "item": "Caveat that 1,000 tonnes is a small part of the textile waste out there (only a vague 'we've got a way to go yet' remains)",
+      "severity": "minor"
+    },
+    {
+      "item": "Explicit framing that the author wants to be clear the number comes from the sorting team",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "'Just passed' 1,000 tonnes became a milestone hit 'today', which pins the timing to a specific day",
+      "severity": "minor"
+    },
+    {
+      "item": "Credit shifted from 'your skill, patience and care are the reason this milestone happened' to 'what we've achieved together', which dilutes the sole attribution to the team",
+      "severity": "minor"
+    },
+    {
+      "item": "'Careful, repetitive work' became 'hard, repetitive work'",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "The work is 'incredibly important'",
+      "severity": "minor"
+    },
+    {
+      "item": "The team makes sure 'we find the best use for as much of it as possible'",
+      "severity": "minor"
+    },
+    {
+      "item": "Supporters believed in 'our vision for the new site'",
+      "severity": "minor"
+    },
+    {
+      "item": "The milestone is called 'really special'",
+      "severity": "minor"
+    },
+    {
+      "item": "Supporters 'helped the team achieve this'",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [
+    "We hit a really special milestone today"
+  ],
+  "meaning_preserved": 4
+}

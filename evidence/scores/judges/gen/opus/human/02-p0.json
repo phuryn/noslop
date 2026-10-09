@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 4,
+    "4": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "none; the closing 'to talk about whether that fits what you need' is a little padded",
+    "2": "none",
+    "3": "none from AI, but the double greeting ('Hi [Name], Hi, ...'), the generic 'we are a refrigerated trucking company' opener and 'be of service' make it read as unskilled",
+    "4": "Three stacked one-sentence paragraphs with two back-to-back questions, plus the hedged consultant phrasing 'discuss where we might fit'"
+  },
+  "reason": "Version 2 is the tightest. It leads with the proof point, names Fairview's specific use cases and makes one direct ask without padding. Version 1 is nearly as good but a bit wordier. Version 4 feels templated, and Version 3 has obvious sloppiness that hurts credibility.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "gen/E-write",
+    "4": "O"
+  }
+}

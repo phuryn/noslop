@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "Generic benefit framing with no concrete detail: 'real days off and nights that actually end, so you can plan a life around the schedule' sounds pleasant but could describe any kitchen.",
+    "2": "Mostly none. 'and we're proud of that' is a slightly tacked-on sentiment, but it sits on top of real specifics.",
+    "3": "Template formatting (bolded 'What you'll do / What we're after / Pay' labels) plus the tidy rule-of-three 'real days off, nights that actually end, and a schedule you can plan a life around'."
+  },
+  "reason": "Version 2 gives details only someone inside the kitchen would know: 180 covers on Fridays with six cooks, the four-day week, whole-animal butchery, Luis's promotion, the last sous chef's four-year tenure, and fully covered health insurance. Those details make it the most credible and useful post for a serious candidate, while versions 1 and 3 keep the same voice but swap substance for generic reassurance.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "track2/B2-int",
+    "3": "O"
+  }
+}

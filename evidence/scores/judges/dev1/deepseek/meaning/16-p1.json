@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 4,
+    "4": 1
+  },
+  "reason": "Version 4 preserves the original caveat and details most exactly; version 2 closely follows but loses the 'much thought' nuance; version 1 strengthens it to 'never thought'; version 3 adds intensity and changes several meanings.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "A",
+    "3": "C",
+    "4": "B3"
+  }
+}

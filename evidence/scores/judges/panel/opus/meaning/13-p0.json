@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 3,
+    "4": 1
+  },
+  "reason": "Version 4 is nearly verbatim, and Version 2 is close but drops 'targeted', changes 'capture' to 'serve', and turns proposed mitigations into firm 'we will' commitments. Version 3 keeps the facts but loosens some nuances (e.g., 'should return more' vs. 'stronger potential returns'), while Version 1 drops key facts like no termination penalties, six-month outreach, redeployment and severance, pop-up/wholesale options, and CAM charges, and adds new claims.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "A",
+    "3": "C",
+    "4": "B3"
+  }
+}

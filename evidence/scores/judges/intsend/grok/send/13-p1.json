@@ -1,0 +1,11 @@
+{
+  "send": "1",
+  "reason": "Version 1 keeps every fact, hedge, and proposed mitigation—including structural decline, potential returns, capture of mall customers, and the six-month outreach plan—while only tightening phrasing. The others drop specifics or change commitments and caveats.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "E",
+    "3": "C",
+    "4": "track2/A-int"
+  },
+  "picked_arm": "track2/B5-int"
+}

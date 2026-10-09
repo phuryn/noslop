@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 4,
+    "4": 1
+  },
+  "reason": "Version 4 preserves the original most exactly, followed by version 1 and then version 2, whose paraphrases retain the substantive meaning. Version 3 loses the explicit “this week” timing and “small job now” reassurance, adds ownership with “our seed swap,” and changes planting to pushing cloves into the ground.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "B5",
+    "3": "C",
+    "4": "A"
+  }
+}

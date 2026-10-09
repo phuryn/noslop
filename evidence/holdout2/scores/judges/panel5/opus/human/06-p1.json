@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 3,
+    "3": 1,
+    "4": 2
+  },
+  "send": "4",
+  "tells": {
+    "1": "none (the curly apostrophe in 'you’re' is a weak signal at most, since many CMS and word processors add smart quotes)",
+    "2": "none",
+    "3": "none",
+    "4": "none"
+  },
+  "reason": "The four versions are nearly identical, so the ranking rests on very small wording choices and none shows a real AI tell. I'd publish 4 because 'Make sure' and 'When' read naturally, 'Press and hold' is the clearest instruction, and the colon introduces the list correctly (3 uses a period instead).",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B3",
+    "3": "B5",
+    "4": "A"
+  }
+}

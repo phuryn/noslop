@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 5,
+    "3": 1,
+    "4": 3,
+    "5": 4
+  },
+  "send": "3",
+  "tells": {
+    "1": "none—reads like a competent human PRD, though very tidy",
+    "2": "none—it's messy and incomplete in a human-draft way",
+    "3": "slightly too-perfect rhythmic parallelism and conversational emphasis",
+    "4": "generic bridge phrase: “The consequences are significant”",
+    "5": "dense, compressed paragraph of parallel clauses feels machine-summarized"
+  },
+  "reason": "Version 3 is the most natural and publishable: clear, specific, scannable, and human-sounding without becoming sloppy. Version 2 is too unfinished, while 4 and 5 are polished but more formulaic.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "E",
+    "3": "C",
+    "4": "O",
+    "5": "track2/A-int"
+  }
+}

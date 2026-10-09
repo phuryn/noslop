@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3,
+    "4": 4,
+    "5": 5
+  },
+  "send": "2",
+  "tells": {
+    "1": "even four-sentence arc ending on the stock closer \"get the full picture\"",
+    "2": "none",
+    "3": "flat parallel sentences and filler \"other health markers,\" with no spoken voice",
+    "4": "none",
+    "5": "paired em dashes plus stacked closers \"fuller picture\" and \"make the most of\""
+  },
+  "reason": "Version 2 sounds like someone who sees these dogs: a concrete stat, a breed caveat, and no hard sell. 1 is close but smoother; 3 is clean and generic, 4 is human but repetitive and stiff, and 5 is the most visibly generated.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "track2/B5-int",
+    "3": "track2/A-int",
+    "4": "E",
+    "5": "O"
+  }
+}

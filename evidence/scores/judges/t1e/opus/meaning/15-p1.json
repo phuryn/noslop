@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1
+  },
+  "reason": "Version 3 keeps nearly all facts and caveats verbatim, losing only that Premium unlocks more features. Version 1 drops more nuance ('stay consistent', 'see how far you've come', proper technique), while Version 2 changes the renewal terms and disclaimer wording and adds claims like 'Never miss a session again' and 'free to use'.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "E",
+    "3": "B3"
+  }
+}

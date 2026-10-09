@@ -1,0 +1,10 @@
+{
+  "send": "3",
+  "reason": "It keeps every fact (about 80% done, Android biometric flow as the sole remaining piece, still on track for the Nov 3 target date) and stays closest to my original wording. Version 1 changes the meaning with 'only big piece left', which implies smaller pieces remain.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "track2/B5-int",
+    "3": "track2/A-int"
+  },
+  "picked_arm": "track2/A-int"
+}

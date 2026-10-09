@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2,
+    "4": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "none",
+    "4": "none"
+  },
+  "reason": "Version 1 gives progress, remaining work, and timing their own short sentences, making it easy to scan. Version 3 is compact but slightly minimizes the remaining work with “only”; the differences are editorial preferences, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B3",
+    "3": "track2/A-int",
+    "4": "track2/B3-int"
+  }
+}

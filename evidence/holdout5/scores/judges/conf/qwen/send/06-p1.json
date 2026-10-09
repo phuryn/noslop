@@ -1,0 +1,13 @@
+{
+  "send": "1",
+  "reason": "It keeps all the original facts, commitments, and options without adding or changing tone. It reads clearly and professionally, closest to the draft I meant.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "A",
+    "3": "V6A",
+    "4": "E",
+    "5": "C",
+    "6": "V6C"
+  },
+  "picked_arm": "B5"
+}

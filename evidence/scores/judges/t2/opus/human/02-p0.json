@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "Awkward opener that tells the prospect what their own company is, followed by a stiff inverted line ('refrigerated freight is what we do'); it reads like a rewrite for a casual tone.",
+    "2": "Generic template structure with a bare stat and no proof, specifics or reference.",
+    "3": "Three single-sentence paragraphs with a polished, interchangeable phrasing ('finished last year with a 99.2% on-time rate'). It reads like a boilerplate template."
+  },
+  "reason": "Version 1 is the only one with credibility signals: the on-time definition, temperature monitoring and a named reference. The opening line needs a fix, but it's worth sending over the thinner, template-like versions 2 and 3.",
+  "label_to_arm": {
+    "1": "track2/B2-int",
+    "2": "track2/A-int",
+    "3": "O"
+  }
+}

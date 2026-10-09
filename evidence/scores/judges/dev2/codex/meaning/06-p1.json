@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 1,
+    "4": 3
+  },
+  "reason": "Version 3 most closely preserves the original’s meaning, including the quiet moment; version 2 is nearly equivalent but drops that nuance. Version 4 omits the explicit promise of more time for making and says you can start at mixing, while version 1 makes the broadest unsupported claim: that you don’t have to weigh anything out, rather than just the dry ingredients.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "C",
+    "3": "B3",
+    "4": "A"
+  }
+}

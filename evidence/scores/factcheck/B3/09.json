@@ -1,0 +1,37 @@
+{
+  "dropped": [
+    {
+      "item": "Acknowledgment that this is not the experience the company wants the customer to have",
+      "severity": "minor"
+    },
+    {
+      "item": "Closing thanks for the customer's patience and repeated apology for the inconvenience",
+      "severity": "minor"
+    },
+    {
+      "item": "Assurance that the team will be glad to help with questions",
+      "severity": "minor"
+    },
+    {
+      "item": "Opening thanks for reaching out",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "'I apologize for the wait in getting back to you' became 'sorry it took us so long to get back to you', which more strongly concedes the delay was long",
+      "severity": "minor"
+    },
+    {
+      "item": "'we will send you a replacement battery' became 'we're sending you a replacement battery', which implies the shipment is already underway rather than a future commitment",
+      "severity": "minor"
+    },
+    {
+      "item": "'If you have any questions in the meantime' became 'If you have questions before then', which narrows the invitation to the period before shipping or tracking rather than open-ended",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

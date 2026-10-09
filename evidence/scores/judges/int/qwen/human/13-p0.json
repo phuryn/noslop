@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Over-formatted, template-like signposting with bold labels and repeated 'Mitigation:' structure.",
+    "3": "Awkward paraphrase in 'For what they return, the mall stores take a lot of capital and labor.'",
+    "4": "Slightly compressed, templated phrasing such as 'move the capital' and 'declining structurally.'"
+  },
+  "reason": "Version 1 reads most like a natural internal memo: direct, unadorned, and credible without over-formatting. The others are polished or concise but feel more templated or slightly artificial.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "O",
+    "3": "B3",
+    "4": "track2/B3-int"
+  }
+}

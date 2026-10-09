@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 5,
+    "5": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "“I found myself” and “hadn’t given much thought” add mildly formulaic padding.",
+    "4": "Repeated short sentences and conspicuously conversational phrasing make the voice feel deliberately engineered.",
+    "5": "“Never as a way of leaving the room” compresses a believable thought into a slightly strained aphorism."
+  },
+  "reason": "Version 1 has the most assured rhythm and lets concrete actions carry the emotion; version 2 is nearly indistinguishable in quality and human feel. These are editorial judgments about the prose, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B2",
+    "3": "O",
+    "4": "C",
+    "5": "B"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "send": "4",
+  "reason": "It keeps the original anniversary facts and voice while adding only what you confirmed: being picky, the 2020 near-closure and $38,000 GoFundMe, Mr. Okafor and the Middlemarch sale, and an October 25 party with no extra details or invented stories.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "track2/A-int",
+    "3": "E",
+    "4": "track2/B5-int"
+  },
+  "picked_arm": "track2/B5-int"
+}

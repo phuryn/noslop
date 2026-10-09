@@ -1,0 +1,11 @@
+{
+  "send": "3",
+  "reason": "It keeps the same service facts, 99.2% on-time rate, regular-route and last-minute delivery scope, and 15-minute fit ask, without added limits or a pickup-versus-delivery shift, and it stays in the same concise voice.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "E",
+    "3": "B5",
+    "4": "A"
+  },
+  "picked_arm": "B5"
+}

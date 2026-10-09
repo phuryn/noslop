@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 4,
+    "4": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "none",
+    "4": "none"
+  },
+  "reason": "Version 2 has the best balance of warmth, clarity and conversational rhythm; 1 is slightly less fluid, while 4 compresses the opening more than necessary. Version 3 sounds casual but sacrifices precision with “ignore them until next summer”; none contains a reliable indicator of AI authorship.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "E",
+    "4": "O"
+  }
+}

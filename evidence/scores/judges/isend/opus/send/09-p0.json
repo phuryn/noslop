@@ -1,0 +1,11 @@
+{
+  "send": "2",
+  "reason": "Version 2 keeps every fact and commitment: the five-month failure, the apology for the delay, the 2-year warranty, the free replacement, the tracking email, and the offer to help. It also keeps the thanks for her patience in the original's tone. Version 3 drops 'at no cost', and Versions 1 and 4 lose the thanks for her patience, with 4 also sounding curt.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B5",
+    "3": "E",
+    "4": "A"
+  },
+  "picked_arm": "B5"
+}

@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2
+  },
+  "reason": "Version 2 keeps every fact and commitment ($34/month, free US shipping, cancel anytime, pre-measured dry ingredients) and most of the original's nuance; it only drops the 'A little measuring done' line and the word 'homemade'. Version 3 is also accurate but cuts the section headings and compresses some nuance, while Version 1 drops the 'slow down' framing and the tea/sharing imagery and adds claims about first-time and experienced bakers.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "B3",
+    "3": "A"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2,
+    "4": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "none",
+    "4": "The three uniform progress–remaining work–deadline sentences feel slightly formulaic, though this isn't a reliable AI indicator."
+  },
+  "reason": "Version 1 sounds natural for Slack, and 'only big piece left' avoids implying that no smaller tasks remain. Version 3 is a close second; 2 and 4 feel more compressed and standardized.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "track2/A-int",
+    "3": "track2/B5-int",
+    "4": "O"
+  }
+}

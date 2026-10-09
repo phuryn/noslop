@@ -1,0 +1,11 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1
+  },
+  "reason": "Version 2 preserves the original wording and meaning exactly aside from apostrophe style. Version 1 changes “Check that” to “Make sure” and “Once” to “When,” slightly shifting the instruction’s nuance.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3"
+  }
+}

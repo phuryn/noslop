@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 3,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "“On a happier note” feels like a forced upbeat pivot after unwelcome news; the extra reassurance adds padding.",
+    "2": "none",
+    "3": "“To give you more options during the week” and “part of our community” feel like stock customer-email phrasing.",
+    "4": "none"
+  },
+  "reason": "Version 4 gives the price increase and existing-member timeline separate, clear sentences while keeping a natural, restrained tone. Version 2 is similarly strong but slightly compressed; these stylistic judgments do not establish AI authorship.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B",
+    "3": "O",
+    "4": "A"
+  }
+}

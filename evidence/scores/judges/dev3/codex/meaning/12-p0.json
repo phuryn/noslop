@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 3,
+    "4": 2
+  },
+  "reason": "Version 1 closely preserves the original; version 4 slightly strengthens “might” to “would” and generalizes utilities’ practices. Version 3 adds claims about most utilities, previously unknown leaks, and discussing failures; version 2 ranks last for inventing a leadership role and asserting previously unnoticed leaks and stronger causation for the reduction.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "C",
+    "4": "B5"
+  }
+}

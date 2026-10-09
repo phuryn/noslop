@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 6,
+    "3": 5,
+    "4": 2,
+    "5": 1,
+    "6": 3
+  },
+  "send": "5",
+  "tells": {
+    "1": "none",
+    "2": "Duplicated greeting and repeated 'Would you be open' make it feel unedited.",
+    "3": "Formal, templated phrasing such as 'discuss where we might fit'.",
+    "4": "The CTA over-explains itself: 'whether that fits what you need'.",
+    "5": "none",
+    "6": "Clean but formulaic; 'We'd like to help' is generic sales copy."
+  },
+  "reason": "Version 5 feels the most like a real person wrote it: simple, specific, and conversational without being pushy. It keeps the value clear and the ask low-pressure.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "E",
+    "3": "O",
+    "4": "A",
+    "5": "C",
+    "6": "B5"
+  }
+}

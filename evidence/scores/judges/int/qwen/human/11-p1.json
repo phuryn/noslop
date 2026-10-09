@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 4,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "none",
+    "2": "the smoothed-out parallel phrasing feels AI-polished",
+    "3": "bolded template headings flatten the voice",
+    "4": "none obvious; the anecdotes are a little tidy but credible"
+  },
+  "reason": "Version 4 feels the most lived-in and persuasive because it gives concrete workload, benefits, and growth details while keeping a direct kitchen voice. Version 2 is cleaner but more generic.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "B3",
+    "3": "O",
+    "4": "track2/B3-int"
+  }
+}

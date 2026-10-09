@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 1,
+    "4": 3,
+    "5": 5
+  },
+  "reason": "Version 3 preserves the core facts, restoration meaning, and long-term purpose most closely; version 2 drops the explicit long-term horizon, while version 4 introduces nuances about current location and returning instruments to their own sound. Version 1 loses the idea of helping instruments find their voice again, and version 5 replaces every piano’s future being worth caring for with a narrower claim that most have playing years left.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "B2",
+    "3": "B",
+    "4": "C",
+    "5": "A"
+  }
+}

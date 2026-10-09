@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 6,
+    "5": 3,
+    "6": 5
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "The polished 'I found myself' framing and tidy gerund list feel slightly AI-smoothed.",
+    "3": "Flat paraphrase and the awkward 'how to teach again' make it feel generic rather than remembered.",
+    "4": "Clichés, vague summaries, and repetitive 'I had had' phrasing flatten the voice.",
+    "5": "It is clean but template-like, especially the unnatural 'trying to figure out how to teach again.'",
+    "6": "The colon followed by bare past-tense verbs ('straightened...') reads mechanically stitched."
+  },
+  "reason": "Version 1 has the most natural voice, concrete detail, and emotional timing. The others are competent but more generic or contain small awkwardness that reduces the human feel.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "O",
+    "3": "B5",
+    "4": "E",
+    "5": "B3",
+    "6": "A"
+  }
+}

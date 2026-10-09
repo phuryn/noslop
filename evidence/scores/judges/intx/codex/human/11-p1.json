@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 4,
+    "4": 5,
+    "5": 1
+  },
+  "send": "5",
+  "tells": {
+    "1": "Repeated three-part lists and familiar recruitment phrases make the voice feel slightly manufactured.",
+    "2": "Template headings and generic assurances such as 'a real say' give otherwise lively prose a packaged feel.",
+    "3": "Conspicuous conversational touches—'honestly,' 'actually count,' and the closing question—feel like an effort to sound natural.",
+    "4": "none",
+    "5": "Some inherited recruitment clichés remain, especially 'ready for the next step up' and 'your kind of kitchen.'"
+  },
+  "reason": "Version 5 best serves applicants with concrete working conditions, benefits, and staff histories; I would publish it after verifying those additional claims and clarifying how the four-day schedule works. These are stylistic judgments, not reliable evidence of AI authorship; version 4's roughness does not make it skilled writing.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "O",
+    "3": "C",
+    "4": "E",
+    "5": "track2/B5-int"
+  }
+}

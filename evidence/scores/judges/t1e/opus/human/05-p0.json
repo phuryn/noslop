@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2,
+    "4": 4
+  },
+  "send": "3",
+  "tells": {
+    "1": "none. It has typos ('caregeivers', 'there is a number'), a broken table, and dangling unfinished lines ('There are also a number of other goals...'), all signs of a real human draft.",
+    "2": "Bold lead-in sentences on every bullet, plus a tidy 'not X' contrast ('only step in for exceptions, not for routine reassignments') and a template-perfect structure.",
+    "3": "Overly uniform, parallel bullets of similar length, plus neatly filled-in secondary goals and non-goals that the original never specified, giving a too-complete, generated polish.",
+    "4": "Generic hype framing ('The consequences are significant:') and a trailing participial clause ('…informing the decision on broader rollout'), on top of bold lead-in bullets."
+  },
+  "reason": "Version 1 reads most human but is an unfinished draft with errors, so it can't be sent. Version 3 keeps the improved structure and content while dropping the bold lead-ins and inflated phrasing, so it reads cleanest and most credible.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "B3",
+    "3": "A",
+    "4": "O"
+  }
+}

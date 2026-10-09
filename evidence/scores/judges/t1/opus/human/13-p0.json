@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 2,
+    "4": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "Mild template feel from the repeated 'Mitigation:' labels, but otherwise none",
+    "2": "Every list item opens with a bolded summary phrase ('Mall traffic is structurally declining.', 'Flexibility.'), alongside stock corporate wording like 'enhanced in-store experience' and 'redirect the capital... they consume'",
+    "3": "Markdown ## headings in an internal memo are slightly out of place, and the 'We will...' openers in the risk section repeat mechanically",
+    "4": "Bolded lead-ins on every point, with a deliberately chatty register ('My recommendation', 'Why I think this is right', 'if we let it slide') that reads like over-humanizing"
+  },
+  "reason": "Version 1 is the tightest and most natural of the four. It keeps the memo format, uses clear active phrasing, and avoids both the bolded-label scaffolding in 2 and 4 and the markdown headings in 3. Version 4 is readable but too casual for a leadership recommendation, which costs it some credibility.",
+  "label_to_arm": {
+    "1": "B",
+    "2": "O",
+    "3": "A",
+    "4": "C"
+  }
+}

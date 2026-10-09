@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 3,
+    "4": 2
+  },
+  "reason": "Version 1 preserves all details most directly, followed by version 4; version 3 drops the explicit description of Nov 3 as a target date. Version 2 introduces the qualifier “big,” allowing for other remaining work, and “hit Nov 3” slightly strengthens the original target-date wording.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "C",
+    "3": "B5",
+    "4": "A"
+  }
+}

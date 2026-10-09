@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 4,
+    "3": 2,
+    "4": 1,
+    "5": 3
+  },
+  "send": "4",
+  "tells": {
+    "1": "The phrasing is competent but generic, especially the stiff product-label warning about temperature.",
+    "2": "It is word-for-word the same as 1 except for a smart apostrophe, so it feels duplicated or auto-formatted rather than individually voiced.",
+    "3": "The sequence is better, but it still has a handbook-like cadence and a slightly technical, impersonal tone.",
+    "4": "none",
+    "5": "The chirpy opening hook and misplaced compatibility check make it feel like simulated friendliness rather than cleanly edited instruction."
+  },
+  "reason": "Version 4 is the most editor-ready because it uses clean, direct steps and natural phrasing without the awkward sequencing or forced chattiness of the others. Version 3 is the best single-paragraph alternative, but 4 is clearer and more human.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "O",
+    "3": "B3",
+    "4": "B5",
+    "5": "C"
+  }
+}

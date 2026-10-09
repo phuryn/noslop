@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 4,
+    "4": 1
+  },
+  "reason": "Version 4 is closest to the original's wording and preserves all facts, numbers, and commitments exactly. Version 1 is nearly as faithful but slightly condenses the remaining-piece sentence; version 2 changes 'flow' to 'login' and drops 'target date,' while version 3's 'only big piece left' weakens the original's implication that Android biometric flow is the sole remaining piece.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B5",
+    "3": "C",
+    "4": "B3"
+  }
+}

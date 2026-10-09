@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "Version 1 is nearly verbatim, losing only minor redundancies such as the repeated two-floors line and the full name in the party invite. Version 2 drops the 'Those visits helped us get here' line and 'every book', and adds 'to a friend'; Version 3 changes or adds facts such as 'started with what we loved', 'first week', 'reread a dozen times', 'never gave it back' and 'the reason we're still here'.",
+  "label_to_arm": {
+    "1": "B",
+    "2": "A",
+    "3": "C"
+  }
+}

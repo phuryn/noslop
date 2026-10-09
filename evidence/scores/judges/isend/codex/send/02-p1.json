@@ -1,0 +1,11 @@
+{
+  "send": "1",
+  "reason": "It keeps the same delivery range, same-day service, on-time record, and offer to help with regular or last-minute deliveries. The wording is direct and natural, with the same request for 15 minutes next week.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "E",
+    "3": "A",
+    "4": "C"
+  },
+  "picked_arm": "B5"
+}

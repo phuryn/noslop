@@ -1,0 +1,11 @@
+{
+  "send": "4",
+  "reason": "It preserves the original wording and facts almost exactly, with only minor formatting changes, so it sounds like the writer’s own release note.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "E",
+    "3": "C",
+    "4": "A"
+  },
+  "picked_arm": "A"
+}

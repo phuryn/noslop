@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 3
+  },
+  "reason": "Version 1 preserves the annual-testing recommendation most explicitly; version 2 retains “can help” but makes annual testing less explicit, while version 4 strengthens the recommendation into an explicit call for bloodwork. Version 3 changes “after age 7” to age 7, omits other health markers, and overstates “a fuller picture” as “the full picture”; all versions lose some of the original’s practical-value framing.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "B5",
+    "3": "C",
+    "4": "A"
+  }
+}

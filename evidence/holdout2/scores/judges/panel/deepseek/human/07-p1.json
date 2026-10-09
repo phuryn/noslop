@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 1
+  },
+  "send": "3",
+  "tells": {
+    "1": "Bold-heavy template and the motivational close 'It's how we keep each other safe' reads as AI-generated corporate boilerplate.",
+    "2": "Clipped, over-shortened tone; 'Logging one isn't about blame' feels like an abrupt AI rewrite.",
+    "3": "none"
+  },
+  "reason": "Version 3 is the clearest and most natural: it includes the key details, avoids the corporate boilerplate of version 1 and the clipped tone of version 2, and reads like a skilled human communicator.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "A",
+    "3": "B3"
+  }
+}

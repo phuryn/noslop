@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 5,
+    "3": 6,
+    "4": 4,
+    "5": 2,
+    "6": 1
+  },
+  "send": "6",
+  "tells": {
+    "1": "Highly templated structure with bolded, perfectly parallel problem bullets.",
+    "2": "Generic AI-smoothing phrase 'The consequences are significant' and near-duplicate phrasing.",
+    "3": "Vague filler such as 'a number of' and 'some potential metrics' plus unfinished sections.",
+    "4": "Mechanical enumeration in 'This causes four problems' and overly neat heading hierarchy.",
+    "5": "Clean but still safely generic phrasing and a boilerplate metrics table.",
+    "6": "none"
+  },
+  "reason": "Version 6 reads most like a skilled human because it has natural rhythm, concrete stakes, and a clear point of view without losing PRD precision. It is the one I would send because it balances clarity, credibility, and human voice better than the more templated options.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "O",
+    "3": "E",
+    "4": "A",
+    "5": "B5",
+    "6": "C"
+  }
+}

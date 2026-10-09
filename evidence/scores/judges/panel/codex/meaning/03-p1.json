@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 3,
+    "4": 1
+  },
+  "reason": "Version 4 preserves the original claims most exactly; version 2 makes only meaning-preserving paraphrases. Version 3 adds an unsupported detail about opening invoices individually, while version 1 narrows incorrect currency-symbol display to symbols not appearing at all.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "B3",
+    "3": "C",
+    "4": "A"
+  }
+}

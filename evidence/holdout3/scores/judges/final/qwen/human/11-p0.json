@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 6,
+    "3": 3,
+    "4": 2,
+    "5": 5,
+    "6": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "the present-tense rewrite feels unnatural and has a redundant phrase, 'this weekly few hours a week'",
+    "3": "the sentence-splitting makes the prose feel mechanically simplified and flattens the emotional turn",
+    "4": "the phrasing is very neat and balanced, which can read slightly workshop-polished or AI-tightened",
+    "5": "the casual filler 'humbling, sure' and paragraphed simplification feel manufactured rather than organic",
+    "6": "it over-explains the emotional shift with 'surprised' and then 'quietly astonished' and uses a generic opening construction"
+  },
+  "reason": "Version 1 feels the most naturally human because it keeps the nuance, rhythm, and self-consciousness of a real personal essay without over-explaining. Version 4 is a close second for polish, but 1 has more credible emotional texture.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "E",
+    "3": "A",
+    "4": "B3",
+    "5": "C",
+    "6": "B5"
+  }
+}

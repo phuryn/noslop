@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 5,
+    "3": 1,
+    "4": 3,
+    "5": 4
+  },
+  "send": "3",
+  "tells": {
+    "1": "The tidy fragment triad and the packaged moral about operational wins and 'reaching people where they already are' sound lightly templated.",
+    "2": "Classic LinkedIn-template scaffold: 'The change was simple,' a bullet list, and 'The lesson for me.'",
+    "3": "none",
+    "4": "none",
+    "5": "Frictionless compression ending in a generic 'My takeaway' about meeting people where they already are."
+  },
+  "reason": "Version 3 sounds like someone who ran the change: a cost, a named colleague, uneven clinic results, and a real caveat, while 1 is close but more polished and 2 and 5 follow a neat template. I would publish 3 because those specifics and hedges make it clearer and more credible than the smoother drafts.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "O",
+    "3": "track2/B5-int",
+    "4": "E",
+    "5": "track2/A-int"
+  }
+}

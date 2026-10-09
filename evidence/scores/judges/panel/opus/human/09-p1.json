@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 4,
+    "3": 2,
+    "4": 5,
+    "5": 1
+  },
+  "send": "3",
+  "tells": {
+    "1": "Very tight, polished parallel structure ('I'm sorry... and sorry...') that reads slightly over-edited.",
+    "2": "none. It reads as clunky template writing rather than AI: repeated product name, doubled apology, missing commas.",
+    "3": "Mild over-polish in the paired apology, but otherwise none.",
+    "4": "Stacked customer-service filler: 'That's not the experience we want you to have,' 'we'll be glad to help,' and a repeated apology and thanks for patience.",
+    "5": "none. The casual 'Hi... Best' and the first-person 'I'll help' feel natural, though 'Hi Ms.' mixes registers."
+  },
+  "reason": "Version 3 is concise and warm. It names the product, apologizes once for each issue, and states the remedy and next steps clearly without filler. Version 5 is the most human but slightly informal for a warranty reply, and version 4 is padded with stock empathy phrases.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "E",
+    "3": "B3",
+    "4": "O",
+    "5": "C"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "Version 1 preserves nearly all substantive content, though its “we will” phrasing makes proposed mitigations firmer commitments. Version 2 drops the structural-decline and strongest-brand-performance claims and strengthens potential returns into expected returns; Version 3 also strengthens returns, broadens the funding recommendation to include effort, and narrows or changes reinvestment details such as site performance becoming site speed.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B",
+    "3": "C"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 1,
+    "3": 2,
+    "4": 3,
+    "5": 5
+  },
+  "send": "2",
+  "tells": {
+    "1": "Leftover nominalized template phrasing, e.g. 'customer data capture and outreach... plus tracking of retention by store' and 'redirect the capital and operating dollars they consume'",
+    "2": "none (only the mildly formulaic repeated 'Mitigation:' label)",
+    "3": "Markdown ## headings in a plain memo and the stock phrase 'declining structurally'",
+    "4": "Bolded lead-in on nearly every bullet plus over-casual rewritten headers ('What could go wrong, and what we'd do about it') that feel like a humanizer pass",
+    "5": "A bolded summary phrase opens every list item ('Flexibility.', 'Mall traffic is structurally declining.'), the classic AI listicle pattern"
+  },
+  "reason": "Version 2 is the tightest and most natural. It drops the bolded lead-ins and noun-stack mitigations and uses active, owner-assigned next steps while keeping a professional memo register. Version 4 overcorrects into chattiness, and 5 and 1 keep the most template residue.",
+  "label_to_arm": {
+    "1": "B2",
+    "2": "B",
+    "3": "A",
+    "4": "C",
+    "5": "O"
+  }
+}

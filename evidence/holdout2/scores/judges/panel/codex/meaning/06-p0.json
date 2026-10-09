@@ -1,0 +1,11 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2
+  },
+  "reason": "Version 1 preserves the original wording apart from apostrophe formatting. Version 2 uses equivalent phrasing and preserves all facts, numbers, and instructions, but is slightly less exact.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A"
+  }
+}

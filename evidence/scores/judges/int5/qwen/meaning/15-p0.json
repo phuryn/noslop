@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1
+  },
+  "reason": "Version 3 preserves the original claims and caveats most completely without adding unsupported material. Version 1 retains more of the original’s core recovery and premium commitments than Version 2 while using writer-supplied specifics, whereas Version 2 drops key claims such as staying consistent and the upgrade benefit.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "track2/A-int",
+    "3": "B5"
+  }
+}

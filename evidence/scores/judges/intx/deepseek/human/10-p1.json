@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 3,
+    "4": 5,
+    "5": 2
+  },
+  "send": "5",
+  "tells": {
+    "1": "none",
+    "2": "formal phrasing like \"the new $135 rate will take effect for you\"",
+    "3": "\"you'll move to the $135 rate\" is slightly stilted",
+    "4": "\"We wanted to let you know that\" plus \"at which time your monthly membership will renew\" is over-formal",
+    "5": "none"
+  },
+  "reason": "Version 5 delivers the pricing change and member exception in the fewest, clearest words without slipping into stiff or wordy phrasing; version 1 is warm but less crisp.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "O",
+    "3": "track2/B5-int",
+    "4": "E",
+    "5": "track2/A-int"
+  }
+}

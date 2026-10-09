@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 1,
+    "4": 3
+  },
+  "reason": "Versions 3 and 2 preserve the substantive facts and commitments most closely; 3 also retains the full product name in the body. Version 4 adds a promise of a new battery rather than simply a replacement, while version 1 omits the explicit commitment that the replacement is free.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "A",
+    "3": "B3",
+    "4": "C"
+  }
+}

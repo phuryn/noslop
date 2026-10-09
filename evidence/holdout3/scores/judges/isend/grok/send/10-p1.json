@@ -1,0 +1,11 @@
+{
+  "send": "2",
+  "reason": "Version 2 keeps the role, 15 years of peatland work, the ecology–management–policy setting, the long view of wildfire challenges and resilience questions, and the talk’s focus on what the 2025 season means and how research can inform later decisions. The others drop that perspective, recast 2025 as “last year’s fires,” or add claims the draft never made.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B5",
+    "3": "C",
+    "4": "E"
+  },
+  "picked_arm": "B5"
+}

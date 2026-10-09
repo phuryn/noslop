@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2
+  },
+  "send": "3",
+  "tells": {
+    "1": "none",
+    "2": "none (the curly apostrophe in \"you’re\" is a typographic difference, not a reliable AI signal; CMSs and word processors produce it too)",
+    "3": "none"
+  },
+  "reason": "The three versions differ only in trivial wording ('Make sure' vs 'Check that', 'When' vs 'Once') and apostrophe style, so none shows a meaningful AI tell and the ranking is close to arbitrary. I'd send 3 because 'Check that' fits a verification step slightly better, and its straight apostrophe is the safest default for web help content.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "O",
+    "3": "B3"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "The generic takeaway about 'meeting people where they already are' feels borrowed from a business-post template.",
+    "2": "'The care they need when they need it' is stock phrasing, and the closing question feels added to solicit engagement.",
+    "3": "The heavily signposted progression from results to bullets to lesson to engagement question feels formulaic.",
+    "4": "Conversational flourishes such as 'all we did' and 'People actually read them' feel labored; the repeated takeaway stretches a simple story."
+  },
+  "reason": "Version 1 connects the operational result to patient care naturally, with restrained claims and a proportionate recommendation. Version 2 is close, but its stock phrasing and engagement prompt make it feel more packaged; these are stylistic judgments, not proof of AI authorship.",
+  "label_to_arm": {
+    "1": "B",
+    "2": "A",
+    "3": "O",
+    "4": "C"
+  }
+}

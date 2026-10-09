@@ -1,0 +1,95 @@
+{
+  "A-int": {
+    "asked": 0,
+    "texts": 16,
+    "mean_questions_when_asked": 0,
+    "hidden_facts_used_yes": 0,
+    "hidden_facts_used_partial": 14,
+    "hidden_facts_total": 116,
+    "texts_with_invented_specifics": 0,
+    "invented": {},
+    "mean_answer_share_when_asked": null,
+    "asked_ids": []
+  },
+  "B-int": {
+    "asked": 2,
+    "texts": 16,
+    "mean_questions_when_asked": 5.0,
+    "hidden_facts_used_yes": 9,
+    "hidden_facts_used_partial": 11,
+    "hidden_facts_total": 116,
+    "texts_with_invented_specifics": 0,
+    "invented": {},
+    "mean_answer_share_when_asked": 0.373,
+    "asked_ids": [
+      12,
+      14
+    ]
+  },
+  "B2-int": {
+    "asked": 6,
+    "texts": 16,
+    "mean_questions_when_asked": 5.0,
+    "hidden_facts_used_yes": 26,
+    "hidden_facts_used_partial": 10,
+    "hidden_facts_total": 116,
+    "texts_with_invented_specifics": 0,
+    "invented": {},
+    "mean_answer_share_when_asked": 0.345,
+    "asked_ids": [
+      1,
+      2,
+      6,
+      11,
+      12,
+      14
+    ]
+  },
+  "B3-int": {
+    "asked": 8,
+    "texts": 16,
+    "mean_questions_when_asked": 5.0,
+    "hidden_facts_used_yes": 38,
+    "hidden_facts_used_partial": 8,
+    "hidden_facts_total": 116,
+    "texts_with_invented_specifics": 1,
+    "invented": {
+      "14": [
+        "the neighbors who keep reading it"
+      ]
+    },
+    "mean_answer_share_when_asked": 0.329,
+    "asked_ids": [
+      1,
+      2,
+      6,
+      11,
+      12,
+      14,
+      15,
+      16
+    ]
+  },
+  "B5-int": {
+    "asked": 9,
+    "texts": 16,
+    "mean_questions_when_asked": 5.0,
+    "hidden_facts_used_yes": 39,
+    "hidden_facts_used_partial": 11,
+    "hidden_facts_total": 116,
+    "texts_with_invented_specifics": 0,
+    "invented": {},
+    "mean_answer_share_when_asked": 0.324,
+    "asked_ids": [
+      1,
+      2,
+      6,
+      8,
+      11,
+      12,
+      14,
+      15,
+      16
+    ]
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "_doc": "Hand-verified invented or upgraded facts per set / arm / text id. Arms not listed for a set had none (fact checker found none or every hit was rejected on reading). Notes say what was verified.",
+  "main": {
+    "A": {
+      "12": "talk bio: 'helped use' became 'helped lead the effort'"
+    },
+    "C": {
+      "1": "'The difference showed up quickly'",
+      "12": "'Most water utilities already collect pressure readings'; promises a 'what didn't' section",
+      "14": "'we started with what we loved'"
+    },
+    "E": {
+      "4": "'this Saturday' for an event dated Saturday, Oct 18",
+      "5": "'Sunrise Home Care has told us' (new attribution)",
+      "12": "speaker named 'Mr. Matela', gender added",
+      "14": "'a little over 400 square feet' (original: 400 sq ft)",
+      "16": "invented reflective lines ('I had carefully prepared for this day')"
+    },
+    "track2/B3-int": {
+      "14": "'thank you to the neighbors who keep reading it': the writer said the best seller is a local harbor history; 'neighbors keep reading it' is an inference (minor)"
+    }
+  },
+  "holdout": {
+    "C": {
+      "2": "'I think you're' became 'I saw you're'",
+      "6": "temperature instruction narrowed (counted as a changed fact)"
+    }
+  },
+  "holdout2": {},
+  "holdout3": {
+    "C": {
+      "10": "'the 2025 season' became 'last year's fires' (assumes the summit is in 2026)"
+    },
+    "E": {
+      "1": "'milestone today' (timing not in the draft)",
+      "3": "'your favourite inks' (implies a choice the draft never offers)",
+      "5": "a fixed lighting-rig issue recast as 'we thought we had a problem with getting a lighting rig'",
+      "7": "'sworn translator', agencies 'always try to give me', a lawsuit scenario: all new",
+      "9": "'skills always in demand' escalated to 'a career for life'",
+      "10": "'this year's Landscape Resilience Summit' (timing not in the draft)",
+      "11": "'fifty two year old woman', a named swimmer 'Joan': both new"
+    }
+  },
+  "_rejected_on_reading": {
+    "holdout3 C 04": "'have a look around' at an open day: an invitation, not a fact"
+  },
+  "_note_B5": "work-humanizer v5: fact checker found no invented specifics on any set (main, holdout, holdout2, holdout3); nothing to verify.",
+  "_note_B5_int": "work-humanizer v5 interview arm: the checker (with the writer's answers allowed) found no invented specifics; nothing to verify.",
+  "holdout4": {
+    "C": {
+      "4": "'We've also heard that weekdays don't suit everyone' (invented reason)",
+      "8": "business name 'VaultSpace' dropped (major drop)"
+    }
+  },
+  "_note_holdout4": "v5, v6a, v6b: no invented specifics and no major drops flagged on holdout4.",
+  "_note_holdout4_v6c": "v6c: no invented specifics and no major drops flagged on holdout4 (12 minor 'changed' items).",
+  "holdout5": {
+    "C": {
+      "9": "'you can tell within a day' (timing not in the draft)"
+    },
+    "E": {
+      "5": "'by Friday' became 'by the end of the day on Friday'",
+      "10": "speaker given a gender ('he')",
+      "11": "'about four months in' misread as a woman 'locked out of her house ... for about four months'"
+    },
+    "V6A": {
+      "10": "'With 15 years of experience, they are a consultant prosthetist' became 15 years as a consultant prosthetist at Limbwise (scope upgraded)"
+    },
+    "V6C": {
+      "10": "same as V6A: '15 years of experience as a consultant prosthetist at Limbwise' (scope upgraded)"
+    }
+  },
+  "_rejected_on_reading_holdout5": {
+    "E 08": "'DropInCrd' is an encoding loss of the accented name, not an invented name"
+  }
+}

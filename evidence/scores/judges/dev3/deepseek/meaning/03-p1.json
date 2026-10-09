@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 1,
+    "4": 3
+  },
+  "reason": "Version 3 stays closest to the original wording and preserves all facts without adding nuance. Versions 2 and 4 are nearly equivalent in meaning, while Version 1 rephrases more freely and adds informal emphasis like 'much sooner.'",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B3",
+    "3": "A",
+    "4": "B5"
+  }
+}

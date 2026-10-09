@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 5,
+    "4": 6,
+    "5": 4,
+    "6": 1
+  },
+  "send": "6",
+  "tells": {
+    "1": "none",
+    "2": "slightly formulaic 'baseline to track over time, which helps guide care' phrasing",
+    "3": "padded marketing closer about getting a fuller picture and more out of the checkup",
+    "4": "dated rhetorical question and formal phrasing like 'highly beneficial'",
+    "5": "overpolished em-dash copy and tagline-like ending",
+    "6": "none"
+  },
+  "reason": "Version 6 reads most like a skilled human because it is conversational, clear, and free of obvious padding while still explaining the benefit naturally. It balances warmth and credibility better than the more formulaic alternatives.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "B5",
+    "4": "E",
+    "5": "O",
+    "6": "C"
+  }
+}

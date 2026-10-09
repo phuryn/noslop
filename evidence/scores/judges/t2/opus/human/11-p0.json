@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none. The concrete details (180 covers, six cooks, Luis, the four-year sous chef, 100% health coverage) read as real. At most, 'without turning the kitchen into a pressure cooker' is a bit of a stock phrase.",
+    "2": "Template formatting with bolded 'What you'll do / What we're after' labels, plus the triplet 'real days off, nights that actually end, and a schedule you can plan a life around' and the repeated 'real' ('real say').",
+    "3": "Formatting is cleaner, but it keeps the vague reassurance 'That means real days off and nights that actually end, so you can plan a life around the schedule' instead of giving a concrete fact."
+  },
+  "reason": "Version 1 replaces generic lifestyle promises with specifics a candidate can actually weigh: covers, crew size, a four-day week, promotion stories, and benefits. That makes it the most credible and human. Versions 2 and 3 share the same boilerplate, and 2's bold-header template feels the most generated.",
+  "label_to_arm": {
+    "1": "track2/B2-int",
+    "2": "O",
+    "3": "track2/A-int"
+  }
+}

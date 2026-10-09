@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 5,
+    "3": 3,
+    "4": 4,
+    "5": 1
+  },
+  "reason": "Keys are version labels and values are ranks (1 = most faithful). V5 keeps the facts and the 'where we might fit' hedge, softening only the question into 'we'd like to help'; V1 states coverage as a claim ('could cover', 'loads'); V3 also drops the fit nuance; V4 adds 'anywhere' and narrows last-minute to 'occasional'; V2 adds 'a lot of' trucking, 'some of your' needs and 'about 15 minutes'.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "E",
+    "3": "B3",
+    "4": "C",
+    "5": "B5"
+  }
+}

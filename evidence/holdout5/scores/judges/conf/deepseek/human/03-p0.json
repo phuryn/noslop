@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 7,
+    "2": 5,
+    "3": 2,
+    "4": 1,
+    "5": 4,
+    "6": 6,
+    "7": 3
+  },
+  "send": "3",
+  "tells": {
+    "1": "Excessive exclamation marks and unnatural phrasing such as 'The possibility to play with a 5th player!'",
+    "2": "Bold bullet lead-ins and formulaic triads ('More explorers, more crossings, more arguments')",
+    "3": "Parallel triadic phrasing in both bullets ('More explorers, more crossings, and more bickering' / 'New tools, new twists, and a few surprises')",
+    "4": "none",
+    "5": "Stacked rule-of-three lists in prose ('more explorers, more crossings, and more arguments' and 'new tools, new twists, and a few surprises')",
+    "6": "none",
+    "7": "Over-structured bold-bullet format and 'What's in the box' template phrasing"
+  },
+  "reason": "Version 4 reads as the most naturally human, but version 3 is the best send because it has a clearer subject line, scannable value, and a warm, direct tone.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "O",
+    "3": "V6C",
+    "4": "C",
+    "5": "B5",
+    "6": "A",
+    "7": "V6A"
+  }
+}

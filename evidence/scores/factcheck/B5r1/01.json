@@ -1,0 +1,16 @@
+{
+  "dropped": [
+    {
+      "item": "Closing engagement question/call to action: 'What's worked for you in reducing no-shows?'",
+      "severity": "major"
+    },
+    {
+      "item": "Statement that closing the no-show gap matters for both the practice and the people it serves",
+      "severity": "minor"
+    }
+  ],
+  "changed": [],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

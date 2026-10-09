@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 5,
+    "3": 4,
+    "4": 6,
+    "5": 7,
+    "6": 1,
+    "7": 2
+  },
+  "send": "6",
+  "tells": {
+    "1": "none — reads like a non-native or less polished human draft, with stilted phrasing and exclamation marks.",
+    "2": "AI-style bolded feature bullets and alliterative triads like 'more explorers, more crossings, and more bickering.'",
+    "3": "Smooth but formulaic prose with the same AI-flavored alliterative triads and limited distinct voice.",
+    "4": "Nearly identical to Version 2, using 'Here's what's in the box' plus polished AI-style bullets.",
+    "5": "Patchwork feel combining AI-style bullets, alliterative phrases, and mixed tone/voice.",
+    "6": "none — reads natural, conversational, and free of formulaic AI patterns.",
+    "7": "none — reads like an over-truncated human summary, clipped but not obviously AI."
+  },
+  "reason": "Version 6 sounds most like a skilled human wrote it: concise, natural, credible, and complete without the formulaic bulleted AI style seen in several other versions.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "V6C",
+    "3": "B5",
+    "4": "V6A",
+    "5": "O",
+    "6": "C",
+    "7": "A"
+  }
+}

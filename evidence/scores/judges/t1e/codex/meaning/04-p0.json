@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3
+  },
+  "reason": "Version 2 preserves the original meaning and nuances most closely, with version 1 a near-equivalent paraphrase. Version 3 adds an instruction to ignore the garlic until next summer and specifies “this Saturday,” while omitting the invitation to chat and exchange ideas for next season.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "E"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "dropped": [
+    {
+      "item": "The replacement battery will be sent at no cost (explicit 'free' statement removed; only implied by the warranty)",
+      "severity": "major"
+    },
+    {
+      "item": "'That's not the experience we want you to have' (acknowledgment that the failure falls short of the company's standard)",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "The replacement and tracking email are now promised by the individual agent ('I will send', 'I will email') rather than by the company ('we will send', 'we'll email')",
+      "severity": "minor"
+    },
+    {
+      "item": "'Your bike is covered by our 2-year warranty' became 'comes with a two year warranty', a statement about the product rather than an explicit confirmation that this claim is covered (coverage is still implied by 'so I will send')",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

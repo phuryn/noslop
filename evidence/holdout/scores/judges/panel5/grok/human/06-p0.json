@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 5,
+    "3": 3,
+    "4": 1,
+    "5": 2
+  },
+  "send": "4",
+  "tells": {
+    "1": "Compatibility warning comes after the step it is meant to precede, inside a flat “To reseal…” template with even cadence.",
+    "2": "Same template and misplaced caveat as version 1; the curly apostrophe is the only change and reads processed rather than typed.",
+    "3": "Infinitive “To reseal…” opener and one smoothly even instructional block.",
+    "4": "none",
+    "5": "“Got a leaky tent seam? It’s an easy fix” hook, and “Before you start” lands after the brushing step it should precede."
+  },
+  "reason": "Version 4 reads most like a skilled how-to writer: usable order, plain verbs, and no template cadence, so that is the one I would publish. Version 5 is voicey but the easy-fix hook and out-of-order caveat feel performed, while 1–3 stay in the same smooth instructional mold.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "O",
+    "3": "B3",
+    "4": "B5",
+    "5": "C"
+  }
+}

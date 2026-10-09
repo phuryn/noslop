@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "The anonymous bio repeats the abstract’s headline result instead of establishing the speaker’s credentials.",
+    "3": "Generic framing—“This talk explores,” “shares lessons,” and “practical considerations”—makes the abstract sound formulaic; the bio repeats it."
+  },
+  "reason": "Version 1 offers concrete evidence, candid limitations, and a clear argument that gives attendees a reason to attend. Version 2 is direct but too thin, while version 3 adds polished generalities without adding substance; these are stylistic judgments, not proof of AI authorship.",
+  "label_to_arm": {
+    "1": "track2/B2-int",
+    "2": "track2/A-int",
+    "3": "O"
+  }
+}

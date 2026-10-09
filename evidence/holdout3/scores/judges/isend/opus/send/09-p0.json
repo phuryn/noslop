@@ -1,0 +1,11 @@
+{
+  "send": "2",
+  "reason": "Version 2 keeps every fact and commitment (no experience needed, the training content, £24,500, the Monday-to-Thursday four-day week, real prospects, the 31 October deadline) in the original voice, dropping only the minor 'If that sounds like you'. Version 1 cuts 'your head' and overstates the colleagues' standards, 3 rewrites in a generic recruiter voice with added claims, and 4 drops 'real trade with real prospects'.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B5",
+    "3": "E",
+    "4": "A"
+  },
+  "picked_arm": "B5"
+}

@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2,
+    "4": 4
+  },
+  "send": "2",
+  "tells": {
+    "1": "Stock abstract scaffolding — 'This talk explores,' 'It shares lessons,' 'practical considerations' — and a bio that only restates the result.",
+    "2": "none",
+    "3": "Generic blurb cadence ('what the utility learned and what other utilities should weigh') with a bio that repeats the same statistic.",
+    "4": "Padded 'This talk covers... It also covers...' scaffolding and stiff repetition of 'the Authority.'"
+  },
+  "reason": "Version 2 is the only draft with a particular voice, independent facts, and a real technical judgment; the other three are interchangeable safe summaries whose bios merely recycle the abstract.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "track2/B3-int",
+    "3": "track2/A-int",
+    "4": "B3"
+  }
+}

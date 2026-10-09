@@ -1,0 +1,25 @@
+{
+  "dropped": [],
+  "changed": [
+    {
+      "item": "Original says extras are 'left to be paid for later' (unspecified payer, stated as consequence); edit says they 'could be left for your family to pay for later', adding a payer and softening certainty to 'could'",
+      "severity": "minor"
+    },
+    {
+      "item": "'Hard to change' softened to 'awkward to change', which understates the difficulty slightly",
+      "severity": "minor"
+    },
+    {
+      "item": "'Worth thinking carefully before you sign' became 'take your time before you sign anything', shifting the emphasis from careful consideration to not rushing",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "Your family will be the ones paying for the extras",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

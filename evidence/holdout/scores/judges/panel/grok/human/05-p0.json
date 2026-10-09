@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 4,
+    "4": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "Labeled “Options:” list plus a scripted yes-or-Corvane closer reads like a decision form.",
+    "2": "The mirrored “if you’re happy / if you’d rather” close is a little too neatly balanced.",
+    "3": "One flattened paragraph ending in a bare “Reply yes to confirm” command.",
+    "4": "Looks like a tightened edit of the same template: added comma, dropped “can you,” clipped sign-off."
+  },
+  "reason": "Version 2 paces the ask, the saving, and the recommendation like a colleague typing in Slack, while 1 and 4 lean on the same tidy options-and-reply template and 3 compresses it into a blunt block.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "C",
+    "3": "A",
+    "4": "B3"
+  }
+}

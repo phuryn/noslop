@@ -1,0 +1,11 @@
+{
+  "send": "1",
+  "reason": "Version 1 keeps every fact, commitment, metric, caveat, and non-goal, and it still sounds like the same formal PRD voice. The others drop or soften commitments, change the voice, or leave the goals unfinished.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "E",
+    "3": "C",
+    "4": "B5"
+  },
+  "picked_arm": "A"
+}

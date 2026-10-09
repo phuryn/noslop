@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 2,
+    "4": 3,
+    "5": 5
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "“The consequences are significant” adds generic emphasis without information; extensive bolding reinforces the templated feel.",
+    "3": "none",
+    "4": "“What this costs” feels like a punchy editorial insertion above an otherwise conventional, heavily signposted list.",
+    "5": "Colloquialisms accumulate conspicuously: “sit uncovered,” “actually accept,” “bunch up,” and “in the loop” feel like an effort to sound human."
+  },
+  "reason": "Version 1 best fits a working PRD: direct, restrained, and clearly structured; these rankings reflect editorial impressions, not reliable evidence of authorship. Before sending, I would fix the issue shared by all five: escalation should not count as a completed rescheduling.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "O",
+    "3": "B5",
+    "4": "B3",
+    "5": "C"
+  }
+}

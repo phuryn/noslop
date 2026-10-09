@@ -1,0 +1,12 @@
+{
+  "dropped": [
+    {
+      "item": "Closing call to action 'help us get these young trees in the ground!' (the appeal to help is still made earlier with 'would love your help')",
+      "severity": "minor"
+    }
+  ],
+  "changed": [],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

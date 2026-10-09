@@ -1,0 +1,11 @@
+{
+  "send": "3",
+  "reason": "It keeps the key facts, bold emphasis, and friendly Slack tone, including the volunteer call-out. It reads most like the original while staying clear.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "A",
+    "3": "C",
+    "4": "E"
+  },
+  "picked_arm": "C"
+}

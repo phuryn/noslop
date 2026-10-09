@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 6,
+    "2": 1,
+    "3": 3,
+    "4": 2,
+    "5": 5,
+    "6": 4
+  },
+  "send": "2",
+  "tells": {
+    "1": "none",
+    "2": "The oddly specific 'third plate of the night' feels like manufactured kitchen authenticity.",
+    "3": "The escalating promises about days off, nights ending, and planning a life feel like formulaic recruitment copy.",
+    "4": "'That means' presents appealing schedule promises as guaranteed consequences of dinner-only service.",
+    "5": "'Honestly,' 'actually count,' and 'Sound like your kind of kitchen?' accumulate into an overworked conversational voice.",
+    "6": "Stock recruiting headings and repeated polished phrases suggest template-driven editing; the compressed 'full time, hands-on' sentence reads awkwardly."
+  },
+  "reason": "Version 2 best balances natural voice, clear responsibilities, and readability, though I would verify its schedule and autonomy promises before publishing. Version 1 feels spontaneous but unedited; the ranking rewards skilled writing for the purpose, and the noted tells do not establish AI authorship.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "A",
+    "3": "B5",
+    "4": "B3",
+    "5": "C",
+    "6": "O"
+  }
+}

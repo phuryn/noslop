@@ -1,0 +1,122 @@
+{
+  "dropped": [
+    {
+      "item": "Closing at lease end means no early-termination penalties (a 'natural exit')",
+      "severity": "major"
+    },
+    {
+      "item": "The window to decide is the next few months",
+      "severity": "minor"
+    },
+    {
+      "item": "If we wait, we risk being pulled into renewal terms by default",
+      "severity": "major"
+    },
+    {
+      "item": "Mall traffic 'has been eroding' (past trend), and performance depends on mall health 'rather than our own brand pull'",
+      "severity": "minor"
+    },
+    {
+      "item": "Denver delivers the full brand experience; online reaches customers regardless of location",
+      "severity": "minor"
+    },
+    {
+      "item": "Specific mall-store cost drivers (rent, CAM charges, staffing, buildout upkeep) and that the stores spread management attention and cash thin",
+      "severity": "minor"
+    },
+    {
+      "item": "Consolidating lets us concentrate talent and inventory",
+      "severity": "minor"
+    },
+    {
+      "item": "Flexibility rationale: avoids locking in another multi-year commitment in a channel we're already questioning",
+      "severity": "minor"
+    },
+    {
+      "item": "Denver staffing is meant to capture customers from the closing stores",
+      "severity": "minor"
+    },
+    {
+      "item": "Online investment specifics: site performance, fulfillment speed, marketing, customer retention, and a focus on converting mall-store customers",
+      "severity": "major"
+    },
+    {
+      "item": "Customer transition specifics: targeted outreach before closing, promotions, local-pickup or shipping incentives, invitation to Denver",
+      "severity": "major"
+    },
+    {
+      "item": "Customer outreach to start at least six months before closing",
+      "severity": "major"
+    },
+    {
+      "item": "Tracking customer retention by store",
+      "severity": "minor"
+    },
+    {
+      "item": "Employee mitigation specifics: redeployment into Denver and online roles where possible, severance and transition support for others",
+      "severity": "major"
+    },
+    {
+      "item": "Concentration risk defined as relying on one physical location and one digital channel",
+      "severity": "minor"
+    },
+    {
+      "item": "Concentration mitigation specifics: set clear performance thresholds and revisit pop-up or wholesale options",
+      "severity": "major"
+    },
+    {
+      "item": "Inventory as part of the closing-cost risk, and a phased wind-down and liquidation as the mitigation",
+      "severity": "major"
+    },
+    {
+      "item": "Breakdown of one-time closing costs (liquidation, severance, restoration)",
+      "severity": "minor"
+    },
+    {
+      "item": "Leadership named as the decision-maker in the final next step",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "Original says renewal decisions and landlord negotiations typically start 9–12 months before expiration; edit says landlords want to start the renewal process then (shifts the actor to landlords)",
+      "severity": "minor"
+    },
+    {
+      "item": "Decision deadline: original says 'ahead of landlord notice deadlines'; edit says 'before they contact us', which drops the contractual notice-deadline framing",
+      "severity": "major"
+    },
+    {
+      "item": "Original says 'structurally declining' (a characterization of an ongoing trend); edit says traffic 'is going to continue to go down', a firmer forecast",
+      "severity": "minor"
+    },
+    {
+      "item": "Original says 'stronger potential returns on incremental investment'; edit says 'where we can get a higher return', which drops the hedge",
+      "severity": "minor"
+    },
+    {
+      "item": "Original says a wind-down and liquidation starts in Q1 2027; edit says to have a plan 'starting in Q1 2027' to close the stores, making it ambiguous whether execution or planning starts then",
+      "severity": "major"
+    },
+    {
+      "item": "Financial section reframed as 'dollars we will save', although it also covers closing costs, reinvestment, and payback",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "Finance named as a partner for the closing-cost mitigation plan",
+      "severity": "minor"
+    },
+    {
+      "item": "Mitigation framed as 'always have the ability to pivot if needed'",
+      "severity": "minor"
+    },
+    {
+      "item": "Implication that landlords will contact us (framing the deadline as preempting landlord outreach)",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [],
+  "meaning_preserved": 3
+}

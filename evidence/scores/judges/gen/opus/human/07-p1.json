@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 2
+  },
+  "send": "4",
+  "tells": {
+    "1": "none",
+    "2": "Three evenly weighted sentences with tidy, corporate wording ('The remaining piece is')",
+    "3": "Clause-joining ', and we're still on track' links two unrelated points for flow, a polished-template feel",
+    "4": "Stock reassurance phrase 'still on track for the ... target date', but otherwise none"
+  },
+  "reason": "Version 1 reads most human because it is casual and slightly clunky, but it is less clear about what is being migrated. Version 4 says the same thing in two tight, natural sentences, so it is the best one to send.",
+  "label_to_arm": {
+    "1": "gen/E-write",
+    "2": "O",
+    "3": "B3",
+    "4": "A"
+  }
+}

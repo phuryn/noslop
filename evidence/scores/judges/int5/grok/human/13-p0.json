@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 3,
+    "4": 2
+  },
+  "send": "3",
+  "tells": {
+    "1": "none",
+    "2": "Bold lead-ins and a 'Mitigation:' tag on every risk, plus the one-word point 'Flexibility.'",
+    "3": "Uniform bold headers and sanded consultant phrasing ('declining structurally,' 'enhanced,' 'targeted').",
+    "4": "Markdown ## headers and four mitigations in a row that each pivot on 'We will.'"
+  },
+  "reason": "Version 1 reads most like a colleague's email: plain format, 'I recommend,' and slightly uneven sentences, while 2 is the most templated. I would send 3 because the case is clearer and more decision-ready than 1, the 'we'd' tone fits an unapproved recommendation, and it avoids 2's mitigation tags and 4's premature 'we will.'",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "O",
+    "3": "track2/B5-int",
+    "4": "track2/A-int"
+  }
+}

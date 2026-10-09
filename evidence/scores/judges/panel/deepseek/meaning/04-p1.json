@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 1,
+    "4": 3
+  },
+  "reason": "Version 3 stays closest to the original wording and preserves all facts, instructions, and invitations. Version 1 is nearly as faithful; Version 4 keeps the key details but shifts tone, while Version 2 drops the 'chat and ideas' invitation and softens the 'hardest part' nuance.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "E",
+    "3": "A",
+    "4": "C"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "send": "3",
+  "reason": "It preserves all the key facts and caveats, including age 7, the specific health markers, baseline tracking, and the $129 panel. It also keeps the practical framing of getting more from the yearly checkup.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "C",
+    "3": "B5",
+    "4": "A"
+  },
+  "picked_arm": "B5"
+}

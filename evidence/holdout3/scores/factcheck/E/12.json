@@ -1,0 +1,17 @@
+{
+  "dropped": [
+    {
+      "item": "Invitation to meet your neighbours (the social aspect of the event)",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "Confident invitation ('Join us', 'come along') softened to a conditional ask ('We hope you can help us', 'please come along if you can')",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

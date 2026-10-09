@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 5,
+    "3": 1,
+    "4": 4,
+    "5": 3
+  },
+  "reason": "Version 3 stays closest to the original's facts and caveats, followed by 1. Version 5 keeps the body but paraphrases the subject, version 4 drops the 'more options during the week' nuance, and version 2 adds 'starting soon' and drops that rationale.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "E",
+    "3": "B3",
+    "4": "A",
+    "5": "C"
+  }
+}

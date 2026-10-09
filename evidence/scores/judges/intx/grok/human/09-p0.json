@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 5,
+    "3": 4,
+    "4": 1,
+    "5": 3
+  },
+  "send": "4",
+  "tells": {
+    "1": "none",
+    "2": "Full template stack: 'reaching out,' 'not the experience we want you to have,' apology bookends, 'in the meantime,' and 'glad to help.'",
+    "3": "Stiff stock apologies ('please accept my apology,' 'again I am sorry for any inconvenience') plus a needless product-name repeat and missing commas.",
+    "4": "none",
+    "5": "'That's not the experience we want you to have,' with the thanks and apology awkwardly placed after the resolution."
+  },
+  "reason": "Version 4 sounds like a real agent: warm, specific, and free of canned lines, while still covering the warranty, free replacement, and tracking. The others lean on support-template phrasing, and version 2 is the most formulaic.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "O",
+    "3": "E",
+    "4": "C",
+    "5": "track2/B5-int"
+  }
+}

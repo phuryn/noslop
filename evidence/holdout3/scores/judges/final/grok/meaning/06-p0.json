@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 5,
+    "2": 2,
+    "3": 1,
+    "4": 4,
+    "5": 3
+  },
+  "reason": "Version 3 keeps every fact and commitment with only minor wording shifts. Version 2 drops only the closing thanks; 5 also rephrases the confirmed delivery date as a future action; 4 weakens “promised,” shifts apology and refund timing, and adds a motive; 1 marks the refund as already done, softens the date to “can,” and adds unsupported feelings.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B5",
+    "4": "E",
+    "5": "B3"
+  }
+}

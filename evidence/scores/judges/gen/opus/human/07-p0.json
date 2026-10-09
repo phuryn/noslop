@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2,
+    "4": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Three evenly sized declarative sentences give it a slightly templated, report-like rhythm.",
+    "3": "none (it reads human, but it's vague: '80%' comes before the reader knows what it refers to, and there's no on-track signal)",
+    "4": "The comma splice joining 'remaining piece' to 'on track' feels like a mechanical merge of two separate points."
+  },
+  "reason": "Version 1 gives the scope, the remaining work and the date in two natural sentences, so it reads like a confident engineer wrote it quickly. Version 3 sounds human but is sloppier and less clear, while 2 and 4 are slightly stiffer variants of 1.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "O",
+    "3": "gen/E-write",
+    "4": "B3"
+  }
+}

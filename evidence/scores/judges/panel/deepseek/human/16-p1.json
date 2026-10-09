@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 5,
+    "3": 3,
+    "4": 2,
+    "5": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Vague, repetitive phrasing and a cliché ('bang or with a whimper') instead of concrete detail",
+    "3": "Overly neat colon list and semicolon; 'found myself doing the usual things' feels like a smoothed paraphrase",
+    "4": "Smooth but slightly flattened; 'teach again' loses the more natural 'teach them better'",
+    "5": "Repeated 'thinking/thought' in one sentence and clipped asyndetic list make it feel compressed"
+  },
+  "reason": "Version 1 has the most specific, natural voice and varied rhythm; the others are either too vague or increasingly polished/generic, with small wording choices that feel less like a skilled human reflecting on a real day.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "E",
+    "3": "O",
+    "4": "B3",
+    "5": "A"
+  }
+}

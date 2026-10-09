@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 5,
+    "5": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "The rigid Recommendation/Why now/Rationale/Risks-and-mitigations template with repeated 'Mitigation:' framing is a common AI structure.",
+    "3": "Uses the same standard AI memo skeleton and clipped parallel section headings, with little human variation.",
+    "4": "Visible Markdown headers and overly uniform 'We will...' risk bullets make it look AI-formatted.",
+    "5": "Has the standard AI section skeleton, softened with first-person, and an odd paraphrase in 'declining for good reasons we can't reverse.'"
+  },
+  "reason": "Version 1 reads like a real human wrote it with natural headings and phrasing, while still being clear and actionable for leadership.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "O",
+    "3": "B3",
+    "4": "A",
+    "5": "B5"
+  }
+}

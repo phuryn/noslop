@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 4,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "none",
+    "2": "the compressed price comparison and abrupt reply instruction feel a little mechanical",
+    "3": "the explicit Options heading makes it look templated",
+    "4": "none"
+  },
+  "reason": "Version 4 is concise, scannable, and makes the decision easy without sounding overly templated. Version 1 is natural too, but slightly wordier for Slack.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "O",
+    "4": "B3"
+  }
+}

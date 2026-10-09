@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 5,
+    "2": 4,
+    "3": 3,
+    "4": 2,
+    "5": 1
+  },
+  "reason": "V5 keeps every fact, the 'might otherwise go unnoticed' hedge and the 'helped' attribution. V4 is nearly as close, and V3 keeps the hedges but adds a 'what didn't work' commitment and stronger 'nobody knew about' claims. V2 drops 'helped' and adds a leadership role, and V1 invents the speaker's name and gender and drops the 'unnoticed' nuance.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "A",
+    "3": "C",
+    "4": "B5",
+    "5": "B3"
+  }
+}

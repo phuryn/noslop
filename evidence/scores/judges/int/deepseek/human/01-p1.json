@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 4,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "Opens with a slightly passive construction ('Text-message reminders took no-shows...') and closes with the clichéd 'meeting patients where they already are.'",
+    "2": "Uses the common AI LinkedIn pattern of signposted takeaway ('My takeaway is...') plus an ending engagement question.",
+    "3": "Bullet-list structure with 'Here's what that meant in practice' and 'The lesson for me' reads like an AI template.",
+    "4": "none"
+  },
+  "reason": "Version 4 reads like a candid, experienced operator sharing specific, credible detail; the caveats and uneven clinic results feel authentic rather than polished. I would publish it because it builds trust while still delivering the core lesson clearly.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "track2/A-int",
+    "3": "O",
+    "4": "track2/B3-int"
+  }
+}

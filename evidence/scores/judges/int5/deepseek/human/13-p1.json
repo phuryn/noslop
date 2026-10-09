@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "3": 2,
+    "2": 3,
+    "4": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Uniform bold headings and consistent conditional 'we'd' phrasing feel lightly AI-polished.",
+    "3": "Over-casual phrasing like 'for good reasons we can't reverse' reads like AI trying to sound human.",
+    "4": "Repeated bold 'Mitigation:' labels and templated structure are the clearest AI tells."
+  },
+  "reason": "Version 1 is the most direct, decisive, and natural while still clear and professional; it avoids the over-polished or overly templated patterns seen in the others.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "track2/B5-int",
+    "3": "B5",
+    "4": "O"
+  }
+}

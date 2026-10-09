@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+  },
+  "reason": "Version 1 matches the original except for a typographic apostrophe, and Version 2 only moves the fabric-compatibility check earlier, which still keeps it before application. Version 3 limits the 50°F requirement to the curing period. Version 4 adds the claim that it's 'an easy fix', softens the temperature rule to 'try to work when it's at least 50°F out' (dropping the curing condition), and places the 'before you start' check after the application step.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "B5",
+    "4": "C"
+  }
+}

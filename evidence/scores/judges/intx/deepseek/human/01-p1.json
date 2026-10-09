@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 5,
+    "3": 2,
+    "4": 1,
+    "5": 4
+  },
+  "send": "4",
+  "tells": {
+    "1": "Tidy problem/solution/result arc with the polished phrase 'meeting patients where they already are'.",
+    "2": "Rigid bullet list of verb-led fragments and repetitive use of 'missed appointments'.",
+    "3": "Slight reliance on the common LinkedIn takeaway 'reaching people where they already are'.",
+    "4": "none",
+    "5": "Formulaic bullet list and overly parallel, polished outcomes ('Fewer empty chairs... Less time... More patients...')."
+  },
+  "reason": "Version 4 reads most human because it includes specific, imperfect operational details and honest caveats (cost, named staff, edge cases, seasonality), while still telling the story clearly. I would publish it because that concrete credibility outweighs the smoother but more generic alternatives.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "E",
+    "3": "C",
+    "4": "track2/B5-int",
+    "5": "O"
+  }
+}

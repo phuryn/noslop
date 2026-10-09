@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 4,
+    "4": 5,
+    "5": 1
+  },
+  "send": "5",
+  "tells": {
+    "1": "The stock phrase 'more patients getting the care they need when they need it' closes a tidy three-part list of benefits.",
+    "2": "It ends with a tacked-on engagement question, 'How are you handling no-shows?', right after an abrupt imperative.",
+    "3": "It uses the 'isn't just a hole in the schedule. It's...' contrast, a 'What I took from this:' lesson label, a three-fragment list, and an engagement-bait question at the end.",
+    "4": "It reads like a template: 'The change was simple:' setup, 'Here's what that meant in practice:' before a bullet list, 'The lesson for me:' label, and a closing engagement question.",
+    "5": "The only tell is the mild cliché 'meeting people where they already are'; otherwise none."
+  },
+  "reason": "Version 5 is the tightest. It states the result, explains why, and links fewer no-shows to patient care in its own words. It skips the bullet lists, lesson labels and engagement-bait questions that make 3 and 4 feel templated.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "C",
+    "4": "O",
+    "5": "B"
+  }
+}

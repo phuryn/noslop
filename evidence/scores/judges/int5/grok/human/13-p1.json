@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 1,
+    "4": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "Even four-part consultant cadence, with every rationale and risk the same weight and no personal stake in the ask.",
+    "2": "Bold lead-ins on every bullet plus a repeated 'Mitigation:' formula.",
+    "3": "Jargon swapped for the muddy line 'declining for good reasons we can't reverse,' still on the same even template.",
+    "4": "Markdown ## headers in a leadership memo, plus four nearly identical 'We will' mitigation lines."
+  },
+  "reason": "Version 3 sounds most like a colleague, but its core traffic line is unclear. I'd send version 1: precise and scannable for leadership, without version 2's template labels.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "O",
+    "3": "B5",
+    "4": "track2/A-int"
+  }
+}

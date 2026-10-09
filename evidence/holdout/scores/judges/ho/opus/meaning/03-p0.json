@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 5
+  },
+  "reason": "V1 keeps every fact, the 'helps' hedge on Crowd Focus, the reassurance, and the thanks. V2 loses only the closing thanks. V3 drops the 'helps' hedge and 'step by step'. V4 drops the reassurance and thanks. V5 drops the hedge and reassurance, changes the thanks, and its subject implies full availability on October 20 rather than a rollout starting then.",
+  "label_to_arm": {
+    "1": "B2",
+    "2": "B3",
+    "3": "C",
+    "4": "A",
+    "5": "B"
+  }
+}

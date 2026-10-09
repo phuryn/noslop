@@ -1,0 +1,13 @@
+{
+  "send": "2",
+  "reason": "It keeps every fact and caveat, including 'maybe ten minutes', 'pressed' and 'for the first time in a long while', and adds no new emphasis like the 'once' in 1/6. Version 3 drops the 'first time in a long while' caveat, 4 garbles the facts, and 5 shifts the voice ('fiddled', 'lugged', 'honestly earned').",
+  "label_to_arm": {
+    "1": "V6C",
+    "2": "B5",
+    "3": "A",
+    "4": "E",
+    "5": "C",
+    "6": "V6A"
+  },
+  "picked_arm": "B5"
+}

@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 5,
+    "3": 1,
+    "4": 6,
+    "5": 2,
+    "6": 7,
+    "7": 4
+  },
+  "send": "3",
+  "tells": {
+    "1": "none",
+    "2": "Wordy, indirect opener and formal phrasing",
+    "3": "none",
+    "4": "Duplicate of version 2; same wordy, indirect opener",
+    "5": "none",
+    "6": "Promotional adjective stacking and redundant greeting",
+    "7": "Third-person company reference creates distance"
+  },
+  "reason": "Version 3 reads most like a skilled human wrote it because it is conversational, specific, and avoids overformality or fluff while still being clear and credible.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "V6A",
+    "3": "C",
+    "4": "V6C",
+    "5": "A",
+    "6": "E",
+    "7": "B5"
+  }
+}

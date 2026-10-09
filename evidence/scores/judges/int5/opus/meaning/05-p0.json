@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2
+  },
+  "reason": "Version 1 keeps every fact, number, and caveat, changing only wording. Version 3 is close but turns the match-quality goal into a hard 'must' requirement. Version 2 is least faithful: it drops 'not routine reassignments' from goal 2, implies targets will be confirmed when baselines are measured, and folds the consequence bullets into prose, losing the 'outcomes depend on who is working' and 'agencies bear the cost' framing.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "track2/A-int",
+    "3": "B5"
+  }
+}

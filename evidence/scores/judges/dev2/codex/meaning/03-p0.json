@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 2,
+    "4": 3
+  },
+  "reason": "Version 1 preserves the original claims most exactly. Versions 3 and 4 slightly broaden the specific bug fix into an assurance that currency symbols display correctly, with 3 retaining more precise wording overall; version 2 adds emphasis with “much sooner” and changes editing invoices individually to opening them individually.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "B3",
+    "4": "B5"
+  }
+}

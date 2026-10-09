@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 1
+  },
+  "send": "3",
+  "tells": {
+    "1": "Templated bolded label sections ('What you'll do:', 'What we're after:') combined with stock punchy phrasing ('nights that actually end', 'real days off', 'real say', 'without turning the kitchen into a pressure cooker') that sounds polished but generic",
+    "2": "Same stock lines as version 1 ('nights that actually end', 'without turning the kitchen into a pressure cooker'). The prose is smoother, but every claim stays abstract and nothing is concrete",
+    "3": "none"
+  },
+  "reason": "Version 3 swaps vague vibe-lines for checkable specifics: 180 covers with six cooks, a four-day week, Luis's path from dishwasher to the line, a sous chef who stayed four years, and fully covered health insurance. That makes it the most credible and the most human. Versions 1 and 2 share the same generic, slogan-like phrasing and differ mainly in formatting.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "track2/A-int",
+    "3": "track2/B2-int"
+  }
+}

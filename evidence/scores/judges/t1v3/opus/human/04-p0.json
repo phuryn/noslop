@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 2,
+    "3": 4,
+    "4": 3,
+    "5": 1
+  },
+  "send": "5",
+  "tells": {
+    "1": "The em-dash aside plus the 'Then comes the hardest part:' colon reveal, a polished setup-and-payoff pattern.",
+    "2": "None. It is clean and natural, with only a minor slip from 'we're planting' to 'gives you'.",
+    "3": "The 'Then comes the hardest part:' colon setup, a familiar dramatic-reveal construction.",
+    "4": "None. It is slightly flat and evenly paced ('It's a small job now, and it gives us...'), but that is not a clear tell.",
+    "5": "None. It has a distinct regional voice ('natter', 'pointy end', 'the hard bit')."
+  },
+  "reason": "Version 5 has the most specific, warm, local voice, which suits a community allotment newsletter, and it avoids the tidy rhetorical setups in versions 1 and 3. Versions 2 and 4 are clean but more generic.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B",
+    "3": "A",
+    "4": "B3",
+    "5": "C"
+  }
+}

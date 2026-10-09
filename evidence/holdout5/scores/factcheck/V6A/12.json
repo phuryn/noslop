@@ -1,0 +1,17 @@
+{
+  "dropped": [],
+  "changed": [
+    {
+      "item": "'If it's cloudy' became 'If the clouds roll in', which reads more like clouds arriving during the event than a cloudy forecast beforehand",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "'get a proper look at the night sky' adds a slight quality claim about the viewing experience",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

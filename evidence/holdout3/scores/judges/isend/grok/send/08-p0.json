@@ -1,0 +1,11 @@
+{
+  "send": "3",
+  "reason": "Version 3 keeps every commitment—£6 per hectare, a 40-hectare minimum, Lincolnshire and Norfolk, drone imaging, maps within 48 hours of the flight, and maps that help you spot problem areas—without adding delivery details or dropping the timing anchor, and it stays in the same plain voice.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "E",
+    "3": "B5",
+    "4": "C"
+  },
+  "picked_arm": "B5"
+}

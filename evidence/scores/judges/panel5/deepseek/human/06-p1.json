@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3,
+    "4": 6,
+    "5": 5,
+    "6": 4
+  },
+  "send": "2",
+  "tells": {
+    "1": "Overuse of parallel staccato fragments and contrast pairs (\"A little measuring done. A little joy delivered.\", \"Less measuring. More making.\")",
+    "2": "none",
+    "3": "Tidy, heavily balanced lists and a slightly formulaic bold-heading rhythm (\"Skip the weighing.\", \"stirring, baking, and sneaking a taste\")",
+    "4": "Generic superlatives, repetition, and unnatural reassurance (\"Yes, we will take the time for you\")",
+    "5": "Awkward near-translated phrasing such as \"start at the mixing\" and missing section structure",
+    "6": "Unnatural heading \"Skip the weighing out\" and a formal \"which leaves more time for...\" construction"
+  },
+  "reason": "Version 2 reads most like a skilled human writer because it uses natural, conversational phrasing and varied sentence structures without forcing poetic fragments or formulaic triple lists. It is clear, warm, and credible while preserving the brand voice.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "C",
+    "3": "B5",
+    "4": "E",
+    "5": "A",
+    "6": "B3"
+  }
+}

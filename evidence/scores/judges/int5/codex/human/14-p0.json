@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 4,
+    "4": 2
+  },
+  "send": "4",
+  "tells": {
+    "1": "The polished 'Every shelf, every table, every book' triad and paired 'Maybe' sentences feel slightly rehearsed.",
+    "2": "none",
+    "3": "The same conspicuously balanced rhythms as version 1; punctuation changes do little to alter the voice.",
+    "4": "The stock phrase 'had to earn its place' is the clearest remaining formulaic touch."
+  },
+  "reason": "Version 2 reads most human because its anecdotes give the shop a particular history, but those additional factual claims need verification. I would publish version 4 for its warmth, tighter flow and avoidance of unsupported additions; stylistic tells alone cannot establish AI authorship.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "track2/B5-int",
+    "3": "track2/A-int",
+    "4": "B5"
+  }
+}

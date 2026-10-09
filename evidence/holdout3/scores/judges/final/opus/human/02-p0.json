@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 6,
+    "2": 2,
+    "3": 5,
+    "4": 1,
+    "5": 4,
+    "6": 3
+  },
+  "send": "4",
+  "tells": {
+    "1": "Hedged, generic filler such as \"It could be a good fit for customers looking for...\" and \"It'd give your teams a chance to see...\", plus a spec-sheet sentence listing every attribute in the same even order",
+    "2": "none (comma splices, missing punctuation, \"cinema's\" and \"trialing in\" all read as genuinely human, though unpolished)",
+    "3": "Template-like hedging (\"It could suit customers who...\") and a stiff opener (\"I wanted to see if you'd be open to...\")",
+    "4": "none",
+    "5": "Stilted third-person opener (\"Would Reel North Cinemas try...\") and a stock phrase (\"could be a good fit\")",
+    "6": "Very even, tidy structure with a cautious \"It could suit customers who want...\" line"
+  },
+  "reason": "Version 4 sounds like a real person: it opens with genuine enthusiasm (\"I'd love to get... onto the bars\"), uses a concrete sensory word (\"crisp\") and has a natural rhythm, while staying clear and credible. Version 2 is clearly human but too error-ridden to send, and the remaining versions share a hedged, templated phrasing typical of AI editing.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "E",
+    "3": "A",
+    "4": "C",
+    "5": "B3",
+    "6": "B5"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 4,
+    "3": 3,
+    "4": 1,
+    "5": 2
+  },
+  "send": "5",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "none",
+    "4": "none",
+    "5": "none"
+  },
+  "reason": "Version 4 sounds the most conversational, but 'only big piece left' introduces a qualification absent from the original claim. I'd send 5 for its concise progress summary and separate, easily scanned timeline update; none has a reliable AI-writing tell.",
+  "label_to_arm": {
+    "1": "B",
+    "2": "O",
+    "3": "B3",
+    "4": "C",
+    "5": "A"
+  }
+}

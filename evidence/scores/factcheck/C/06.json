@@ -1,0 +1,16 @@
+{
+  "dropped": [
+    {
+      "item": "Tagline 'A little measuring done. A little joy delivered.' (a flourish, though it framed the kit as a delivered joy)",
+      "severity": "minor"
+    },
+    {
+      "item": "Direct imperative 'Give yourself something to look forward to each month' softened to a descriptive statement",
+      "severity": "minor"
+    }
+  ],
+  "changed": [],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

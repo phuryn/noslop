@@ -1,0 +1,11 @@
+{
+  "send": "3",
+  "reason": "Version 3 keeps the same recommendation, timing, rationale, reinvestment plan, risks, mitigations, financial placeholders, and next steps, and it still sounds like the original professional memo. The others misstate the traffic claim, drop material commitments, or change both facts and voice.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "E",
+    "3": "A",
+    "4": "C"
+  },
+  "picked_arm": "A"
+}

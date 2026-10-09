@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 2,
+    "5": 5
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "clipped phrase 'instead of one by one' feels like a compressed edit",
+    "3": "forced casual rhetorical phrasing such as 'Need to change a bunch of invoices?'",
+    "4": "none",
+    "5": "unnatural explanatory tail 'Before, they didn't.'"
+  },
+  "reason": "Version 1 is the cleanest, most standard release-note copy and reads like a skilled human wrote it; version 5 is weakest because the fix is over-explained.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B3",
+    "3": "C",
+    "4": "A",
+    "5": "B5"
+  }
+}

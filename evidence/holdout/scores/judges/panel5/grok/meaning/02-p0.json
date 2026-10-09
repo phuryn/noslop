@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 3,
+    "4": 1
+  },
+  "reason": "Version 4 keeps every fact, the “I think” hedge, the interest link, and the conditional offer to share more. Version 2 keeps that hedge and interest logic but drops the interest condition on sharing more; version 3 also drops it and softens interest into “hear about”; version 1 replaces the hedge with “I saw” and adds an unstated “good fit” judgment.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B5",
+    "3": "B3",
+    "4": "A"
+  }
+}

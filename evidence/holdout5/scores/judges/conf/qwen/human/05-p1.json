@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 3,
+    "3": 5,
+    "4": 7,
+    "5": 1,
+    "6": 2,
+    "7": 6
+  },
+  "send": "5",
+  "tells": {
+    "1": "Cheery, templated Slack cadence with 'Just a quick heads-up' and perfectly tidy bold bullets feels a bit canned.",
+    "2": "Same polished template as 1; filler 'Just' and the redundant 'all' give it a slightly formulaic sheen.",
+    "3": "Flat, repetitive sentence rhythm and lack of scannable formatting make it feel more mechanical than conversational.",
+    "4": "Wordy, passive corporate phrasing such as 'The date for changeover will be on' and 'It is important that all staff receive training' sounds unnatural for Slack.",
+    "5": "The very neat bolded date labels and emoji warmth are slightly generic Slack tropes, but not strongly AI-like.",
+    "6": "none",
+    "7": "Curt, bare-bones bullets and missing warm close read like a compressed summary rather than a colleague's update."
+  },
+  "reason": "Version 5 is the strongest overall: concise, scannable, friendly, and clear enough for a Slack operations update. Version 6 is also natural, but 5's structure makes the dates and required actions easier to act on.",
+  "label_to_arm": {
+    "1": "V6A",
+    "2": "V6C",
+    "3": "B5",
+    "4": "E",
+    "5": "O",
+    "6": "C",
+    "7": "A"
+  }
+}

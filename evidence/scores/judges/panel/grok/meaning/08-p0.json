@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 2,
+    "4": 3
+  },
+  "reason": "Version 1 keeps the recommendation, targets, early-detection caveat, baseline, and price, dropping only the closing benefit line. Version 3 retains that arc with smaller shifts, while version 4 drops the vaccines contrast and care-guidance purpose, and version 2 weakens the advice, adds claims, and omits early detection and the baseline.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "E",
+    "3": "C",
+    "4": "A"
+  }
+}

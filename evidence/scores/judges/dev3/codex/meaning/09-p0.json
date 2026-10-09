@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2,
+    "4": 4
+  },
+  "reason": "Version 1 best preserves the original’s commitments and explicit offer to help; version 3 narrowly edges version 2 by retaining the full product name in the body, though both omit the explicit assurance of help. Version 4 adds that the battery is new and shifts the tracking and support commitments from the company to the individual sender.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "A",
+    "3": "B3",
+    "4": "C"
+  }
+}

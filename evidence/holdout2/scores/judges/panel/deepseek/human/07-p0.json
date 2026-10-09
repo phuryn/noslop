@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Heavy bold formatting and motivational boilerplate like 'It's how we keep each other safe.'",
+    "3": "'Near misses are our early warning' and 'without exception' feel slightly formulaic and corporate."
+  },
+  "reason": "Version 1 is the most direct and natural, with no unnecessary formatting or clichés. Version 3 is close but slightly more polished, while Version 2 reads as over-formatted and AI-smoothed.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "O",
+    "3": "B3"
+  }
+}

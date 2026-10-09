@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1,
+    "4": 4
+  },
+  "send": "3",
+  "tells": {
+    "1": "none",
+    "2": "polished corporate boilerplate such as 'will increase' and 'take effect,' with very symmetrical paragraphing",
+    "3": "none",
+    "4": "over-compressed, slightly impersonal phrasing such as 'Thanks for being a member'"
+  },
+  "reason": "Version 3 is clear, warm, and conversational while still handling the pricing change cleanly. Version 2 is polished but feels more templated, and Version 4 is too clipped.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "O",
+    "3": "track2/B5-int",
+    "4": "track2/A-int"
+  }
+}

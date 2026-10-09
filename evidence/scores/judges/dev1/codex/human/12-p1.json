@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 4,
+    "3": 1,
+    "4": 2,
+    "5": 3
+  },
+  "send": "3",
+  "tells": {
+    "1": "Generic conference-copy phrasing: 'This talk explores,' 'shares lessons,' and 'practical considerations' leave the prose feeling templated.",
+    "2": "The conspicuously conversational wording and stock 'what worked, what didn't' promise feel like a deliberate humanizing pass.",
+    "3": "none",
+    "4": "none",
+    "5": "The polished compression strengthens claims: the bio introduces 'helped lead' and ties the reduction more directly to the effort."
+  },
+  "reason": "Version 3 is clear, credible conference copy that preserves the distinction between contributing to a reduction and causing it. Version 4 is tighter but less careful about causality; these stylistic judgments do not establish AI authorship.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "C",
+    "3": "B3",
+    "4": "B5",
+    "5": "A"
+  }
+}

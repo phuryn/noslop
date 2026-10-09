@@ -1,0 +1,11 @@
+{
+  "send": "1",
+  "reason": "Version 1 keeps the same facts, hedges, and commitments—including structural decline, potential returns, the default-renewal risk, and the specific mitigations—in the original professional memo voice. The others drop caveats or commitments, or shift the claim and tone.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "E",
+    "3": "track2/A-int",
+    "4": "C"
+  },
+  "picked_arm": "track2/B5-int"
+}

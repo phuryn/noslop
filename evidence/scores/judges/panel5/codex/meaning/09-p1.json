@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 5,
+    "2": 2,
+    "3": 1,
+    "4": 3,
+    "5": 4
+  },
+  "reason": "Version 3 best preserves the original’s facts, commitments, and acknowledgments; version 2 retains the explicit offer to help but adds that the battery is new. Versions 4 and 5 omit that explicit assistance commitment, with 5 also leaving the tracking email’s recipient implicit; version 1 loses the key assurance that the replacement is at no cost.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "C",
+    "3": "B5",
+    "4": "B3",
+    "5": "A"
+  }
+}

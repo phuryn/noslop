@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 2,
+    "4": 3,
+    "5": 5
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Compressed stat phrasing: 'finished last year with a 99.2% on-time rate'",
+    "3": "Generic, slightly wordy CTA: 'whether that fits what you need'",
+    "4": "Formulaic phrasing: 'We'd like to help Fairview Markets with...'",
+    "5": "Over-formal and indirect; two consecutive questions"
+  },
+  "reason": "Version 1 sounds most like a skilled human wrote it because of natural phrasing like 'run refrigerated trucks' and 'glad to pitch in.' It balances warmth, clarity, and a clear call to action.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B3",
+    "3": "A",
+    "4": "B5",
+    "5": "O"
+  }
+}

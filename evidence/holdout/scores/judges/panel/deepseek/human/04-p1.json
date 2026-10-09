@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 4,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "The sympathy feels piled on ('you're not alone', 'most of us in the same boat') and the newsletter title appears late.",
+    "2": "It reads a bit over-polished, with a stack of cozy idioms ('kept us on our toes', 'catch your breath') and an em-dash flourish.",
+    "3": "The transition 'our thoughts are turning to...' is formulaic, and the close is abrupt.",
+    "4": "none"
+  },
+  "reason": "Version 4 is the clearest and most credible: it leads with the newsletter name, keeps the warmth without overdone idioms, and closes with a simple invitation to respond.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "O",
+    "3": "A",
+    "4": "B3"
+  }
+}

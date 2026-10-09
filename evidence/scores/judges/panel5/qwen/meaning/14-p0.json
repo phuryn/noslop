@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 4,
+    "3": 5,
+    "4": 2,
+    "5": 1
+  },
+  "reason": "Version 5 stays closest to the original facts and nuances with only harmless compression, while Version 4 is nearly as faithful but adds a slightly stronger causal claim. Versions 1, 2, and 3 introduce increasing omissions, embellishments, or factual shifts, with Version 3 least faithful because it changes the exact 400 sq ft detail and adds several new claims.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "E",
+    "4": "B5",
+    "5": "B3"
+  }
+}

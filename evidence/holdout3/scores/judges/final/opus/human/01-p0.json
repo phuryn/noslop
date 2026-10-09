@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 5,
+    "3": 3,
+    "4": 6,
+    "5": 1,
+    "6": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "Mild: the tidy closing line 'every one of those 1,000 tonnes went through someone's hands first' feels polished, though the rest reads naturally.",
+    "2": "Ends abruptly on a downbeat caveat after a stack of neat triads ('skill, patience and care'), like a trimmed AI edit.",
+    "3": "The polished 'every tonne of that 1,000 passed through someone's hands first' line plus evenly balanced sentences give it a smoothed, edited cadence.",
+    "4": "Formulaic 'careful, repetitive work that rarely gets noticed, but...' construction and an abrupt ending with no sign-off.",
+    "5": "none",
+    "6": "Staged reveal: 'I want to be clear about where it comes from. It comes from...'"
+  },
+  "reason": "Version 5 sounds most like a real person, with its loose phrasing, en dashes and gushing words like 'really special', but it is wordy and less crisp. Version 1 keeps that human warmth ('isn't mine to take credit for', 'I'm lucky') while staying clear and tight, so it is the best one to publish.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B3",
+    "3": "B5",
+    "4": "A",
+    "5": "E",
+    "6": "O"
+  }
+}

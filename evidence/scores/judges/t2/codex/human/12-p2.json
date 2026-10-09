@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2
+  },
+  "send": "2",
+  "tells": {
+    "1": "Generic conference phrasing—“shares lessons” and “practical considerations”—offers little substance, while the bio repeats the abstract.",
+    "2": "None. The concentrated detail and candid admissions could be deliberately crafted, but they are not reliable AI tells.",
+    "3": "Vague takeaways and a bio that recycles the abstract make it feel templated, though its language is more direct than version 1."
+  },
+  "reason": "Version 2 gives attendees concrete reasons to attend and conveys an individual perspective through limitations, costs, and technical judgment. Assuming its details are accurate, it is the strongest submission; version 3 is cleaner than version 1 but similarly thin.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "track2/B2-int",
+    "3": "track2/A-int"
+  }
+}

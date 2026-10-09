@@ -1,0 +1,26 @@
+{
+  "stage": "STAGE_SUCCESS",
+  "version": "4.0",
+  "prediction": "We believe that this entire text is AI.",
+  "prediction_short": "AI",
+  "fraction_ai": 1.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 0.0,
+  "headline": "AI Generated",
+  "num_ai_segments": 1,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 0,
+  "windows": [
+    {
+      "label": "AI-Generated",
+      "ai_assistance_score": 0.9999926686286926,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 1354,
+      "word_count": 246,
+      "token_length": 308,
+      "is_humanized": false,
+      "humanizer_score": 0.015055683441460133
+    }
+  ]
+}

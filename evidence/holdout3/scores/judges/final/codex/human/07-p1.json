@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 6,
+    "4": 3,
+    "5": 2,
+    "6": 5
+  },
+  "send": "1",
+  "tells": {
+    "1": "The polished closing triad, 'cheaper, more rushed, less visible,' makes the ending feel engineered.",
+    "2": "Stacked three-part lists and elaborate sentences give the argument an overly rehearsed rhythm.",
+    "3": "none",
+    "4": "Abstract phrases such as 'less of the thinking' and risk moving to a 'less visible place' sound polished without being precise.",
+    "5": "'I get less of the thinking' feels like an awkward conversational rewrite of an already vague phrase.",
+    "6": "Repeated punchy fragments—'It's not,' 'It didn't'—and redundant opening claims make the conversational style feel manufactured."
+  },
+  "reason": "Version 1 has the strongest balance of voice, pacing, and readable structure, though I would clarify 'less of the thinking' before publishing. Version 3 feels spontaneous but falls short of skilled editing; these rankings assess the prose, not whether AI actually wrote it.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "O",
+    "3": "E",
+    "4": "A",
+    "5": "B5",
+    "6": "C"
+  }
+}

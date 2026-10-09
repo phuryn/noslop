@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 5,
+    "3": 3,
+    "4": 2,
+    "5": 1
+  },
+  "send": "5",
+  "tells": {
+    "1": "Placeholder bio ('The speaker is...') and the vague 'what other utilities should weigh' ending feel templated.",
+    "2": "Stiff repetition of 'Authority' and 'This effort helped...' plus the stray 'Abstract' label.",
+    "3": "Polished but formulaic conference-speak: 'This talk explores...' and 'It shares lessons...' with no concrete specifics.",
+    "4": "Leans on the familiar phrase 'what worked, what didn't' while remaining generic.",
+    "5": "none"
+  },
+  "reason": "Version 5 has concrete, credible specifics and a candid first-person voice, making it read most like a skilled human wrote it; the others are more generic or stilted.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "E",
+    "3": "O",
+    "4": "C",
+    "5": "track2/B5-int"
+  }
+}

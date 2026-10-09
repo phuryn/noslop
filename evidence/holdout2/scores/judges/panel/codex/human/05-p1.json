@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "The repeated logistics, emoji-led checklist, and stock phrases such as “celebrating all things apple” make it feel formulaic."
+  },
+  "reason": "Version 2 is clear, welcoming, and economical, with enough detail to make the event appealing. Version 1 is also natural but slightly more drawn out; version 3 adds repetition and generic seasonal enthusiasm.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "O"
+  }
+}

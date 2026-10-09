@@ -1,0 +1,11 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2
+  },
+  "reason": "Version 1 preserves the original's key definition (injury, damage, or harm) and the 'without exception' requirement, while Version 2 omits 'or harm', drops 'without exception', and loses the 'early warning' rationale.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A"
+  }
+}

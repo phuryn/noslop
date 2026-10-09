@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "Slogan-like lines such as \"Near misses are our early warning\" and the emphatic \"without exception\" add a polished, mildly preachy tone.",
+    "2": "none",
+    "3": "Heavy bolding of dates and headers, plus the tacked-on uplifting line \"It's how we keep each other safe\" and the effusive sign-off."
+  },
+  "reason": "Version 2 is the leanest and most direct. It gives the rule, scope, reasoning and actions without slogans or decorative emphasis, so it reads like a site manager wrote it. Version 3 piles on bold and feel-good phrasing, and version 1 keeps some of that motivational padding.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "O"
+  }
+}

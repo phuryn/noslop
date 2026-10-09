@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 1,
+    "4": 3
+  },
+  "send": "3",
+  "tells": {
+    "1": "none",
+    "2": "The generic opening and stock phrases such as “This talk explores” and “make better use” give it a templated feel.",
+    "3": "none",
+    "4": "The concentrated mix of precise figures, a named anecdote, and candid reservations feels deliberately engineered for authenticity, though that does not establish AI authorship."
+  },
+  "reason": "Version 3 has the best balance of natural flow, clear scope, and measured attribution of the results; version 1 is tighter but somewhat compressed. Version 4 has personality, but introduces substantial facts absent from the others that would need verification before publication.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "O",
+    "3": "B3",
+    "4": "track2/B3-int"
+  }
+}

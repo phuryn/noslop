@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 2,
+    "4": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Bold section labels and em-dash title give it an AI-structured, templated feel.",
+    "3": "The 'Day to day' transition and over-smoothed syntax are typical AI polish.",
+    "4": "The 'four-day week' claim contradicts Wednesday-Sunday service, and the inserted names/stories sound AI-embellished."
+  },
+  "reason": "Version 1 reads most like a real chef wrote it—natural, unformatted, and free of contradictions. V4 has useful specifics but the schedule inconsistency makes it unpublishable as-is.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "O",
+    "3": "B5",
+    "4": "track2/B5-int"
+  }
+}

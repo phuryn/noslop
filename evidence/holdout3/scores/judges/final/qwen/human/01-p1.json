@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1,
+    "4": 6,
+    "5": 5,
+    "6": 4
+  },
+  "send": "3",
+  "tells": {
+    "1": "none obvious; the tidy three-part structure feels slightly polished",
+    "2": "the closing line 'it's a good moment to pause and say thank you' feels like a standard LinkedIn wrap-up",
+    "3": "none",
+    "4": "corporate clichés such as 'really special milestone', 'hard work and dedication', and 'vision'",
+    "5": "safe templated phrasing, especially 'this milestone happened' and 'small fraction'",
+    "6": "the over-explained attribution 'I want to be clear about where it comes from. It comes from...' feels mechanical"
+  },
+  "reason": "Version 3 sounds most like a real leader: humble, concrete, warm, and focused on the sorting team. It avoids the corporate padding of version 4 and ends naturally.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "B5",
+    "3": "C",
+    "4": "E",
+    "5": "A",
+    "6": "O"
+  }
+}

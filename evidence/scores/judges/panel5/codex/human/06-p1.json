@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 6,
+    "4": 4,
+    "5": 3,
+    "6": 5
+  },
+  "send": "2",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "Redundant explanation of pre-measured ingredients, padded with generic enthusiasm such as 'amazing,' 'scrumptious,' and 'yummy.'",
+    "4": "Stacked slogan fragments and conspicuously balanced phrasing, especially 'A little measuring done. A little joy delivered.'",
+    "5": "none",
+    "6": "Compression produces unnatural wording: 'start at the mixing' and 'Each kit is $34 a month.'"
+  },
+  "reason": "Version 1 has the most natural conversational rhythm; version 2 is the strongest publishing choice because it preserves that warmth with tighter sentences and clearer headings. These are editorial judgments about how the writing reads, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B5",
+    "3": "E",
+    "4": "O",
+    "5": "B3",
+    "6": "A"
+  }
+}

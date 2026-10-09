@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 5,
+    "3": 6,
+    "4": 1,
+    "5": 4,
+    "6": 3
+  },
+  "send": "4",
+  "tells": {
+    "1": "The phrase \"declining for good reasons we can't reverse\" feels slightly unnatural.",
+    "2": "The repeated \"Mitigation:\" structure and consultant-sounding phrases feel templated.",
+    "3": "Bolded category labels and generic phrasing make it read like a polished AI outline.",
+    "4": "none",
+    "5": "The markdown headings and uniform \"We will\" risk responses give it a mechanical rhythm.",
+    "6": "none"
+  },
+  "reason": "Version 4 sounds most like a real person making an internal business case: plain language, personal ownership, and concrete actions without over-templated phrasing. The more polished versions are clear but feel more AI-like because of their uniform structure and generic corporate language.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "B3",
+    "3": "O",
+    "4": "C",
+    "5": "A",
+    "6": "E"
+  }
+}

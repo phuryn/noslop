@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2
+  },
+  "reason": "Version 1 keeps every fact, section and heading, and only rephrases them. Version 3 keeps the facts but renames the first heading, merges two of the bake options into one and adds 'all to yourself', while Version 2 drops all three section headings, including 'One kit. $34 a month.', and condenses the 'give yourself something to look forward to' sentiment.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B"
+  }
+}

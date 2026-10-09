@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "The oddly chosen 'third plate of the night' feels like manufactured kitchen authenticity; consistency would be more telling late in service.",
+    "2": "The leap from dinner-only service to 'real days off and nights that actually end' sounds like generic recruitment reassurance unsupported by the stated schedule.",
+    "3": "Repeated three-part lists and stock recruitment headings make the voice feel templated, especially alongside vague promises like 'a real say.'"
+  },
+  "reason": "Version 1 gives applicants concrete reasons to trust and assess the offer: staffing, covers, a four-day week, covered insurance, and staff histories. Version 2 reads more conversationally than 3, though none of these stylistic signals establishes AI authorship.",
+  "label_to_arm": {
+    "1": "track2/B2-int",
+    "2": "track2/A-int",
+    "3": "O"
+  }
+}

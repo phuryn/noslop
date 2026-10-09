@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 6,
+    "5": 2,
+    "6": 5
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "Stock warmth ('would love your help') and a flat close that never comes back to the planting",
+    "4": "Em dash, stacked exclamations, and an uplift swap to 'young trees'",
+    "5": "Personified 'saplings waiting' and a sentimental 'good start' closer",
+    "6": "Smooth rule-of-three ending paired with stock 'would love your help'"
+  },
+  "reason": "Version 1 is the notice a capable local would actually post: complete, warm, and unfussy, with the meet-up and the ask kept clear. The others either ramble, or smooth the same facts into brochure cadence, stock warmth, and a sentimental bow.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "E",
+    "3": "B3",
+    "4": "O",
+    "5": "C",
+    "6": "B5"
+  }
+}

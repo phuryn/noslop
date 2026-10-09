@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2,
+    "4": 4
+  },
+  "reason": "Version 1 preserves the substance most closely; version 3 slightly strengthens proposed mitigations into firm “will” commitments. Version 2 adds irreversible causes of traffic decline and consolidation into “one place,” while version 4 makes broader changes, especially turning stronger potential returns into expected superior returns and general investment areas into specific outcomes.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "B5",
+    "3": "A",
+    "4": "C"
+  }
+}

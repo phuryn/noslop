@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2
+  },
+  "reason": "Version 2 preserves the original facts and explicitly retains Nov 3 as a target date; version 3 omits that qualifier. Version 1 changes the sole remaining piece to the only big piece, implying other smaller tasks may remain, and slightly strengthens the date wording to 'hit Nov 3.'",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B"
+  }
+}

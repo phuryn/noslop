@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 3,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "The stock phrase “I found myself doing” slightly softens an otherwise concrete opening.",
+    "2": "Generic summaries about good and bad experiences substitute for personal detail; repetition feels unedited.",
+    "3": "Splitting “Some lessons” and “Others” into separate sentences gives the reflection a slightly manufactured rhythm.",
+    "4": "none"
+  },
+  "reason": "Version 4 balances concrete detail, natural rhythm, and restrained emotion; version 1 comes close but is wordier. These are editorial judgments about the prose, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "E",
+    "3": "B3",
+    "4": "A"
+  }
+}

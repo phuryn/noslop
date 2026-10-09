@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1
+  },
+  "reason": "Version 3 stays closest to the original claims and adds nothing unsupported. Version 1 uses only writer-supplied facts but drops the original annual-visit/vaccines point, while Version 2 adds an unsupported detail about the panel being added to the checkup.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "track2/A-int",
+    "3": "B5"
+  }
+}

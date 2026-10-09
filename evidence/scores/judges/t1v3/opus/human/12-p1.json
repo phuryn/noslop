@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 2,
+    "5": 5
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Generic closing formula: 'what the team learned and what other utilities should consider'",
+    "3": "Repetitive scaffolding ('This talk covers... It also covers') and a hedge ('might otherwise have gone unnoticed')",
+    "4": "Slightly templated closer ('what the team learned and what other utilities should consider')",
+    "5": "Stock abstract phrasing: 'This talk explores', 'shares lessons', 'practical considerations', 'make better use of'"
+  },
+  "reason": "Version 1 is the only one that matches the first-person title and gives a concrete hook ('what worked, what didn't'), so it sounds like a real practitioner. Version 4 is a tight runner-up, while 3 and 5 pad the text with generic conference-abstract filler.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B3",
+    "4": "B",
+    "5": "O"
+  }
+}

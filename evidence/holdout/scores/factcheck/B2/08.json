@@ -1,0 +1,21 @@
+{
+  "dropped": [
+    {
+      "item": "\"for years to come\": the long-term, lasting aspect of the restored pianos' impact",
+      "severity": "minor"
+    },
+    {
+      "item": "Framing of the work as \"a privilege\" (softened to \"I get to\")",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "\"bring music into people's homes\" became \"keep music in people's homes\", shifting from introducing music to maintaining it",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

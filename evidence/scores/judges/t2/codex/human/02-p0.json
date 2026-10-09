@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "The opening states something the recipient already knows about their company, making the personalization feel mechanical."
+  },
+  "reason": "Version 2 is concise, natural, and easy to scan, with a clear offer and a modest ask. Version 3 adds useful specifics, but its awkward opening and unsolicited reference make it less polished; none of these features establishes AI authorship.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "O",
+    "3": "track2/B2-int"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 2,
+    "4": 3,
+    "5": 5
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "awkward colon-list construction and flatter phrasing make it feel mechanically trimmed",
+    "3": "choppy short sentences and fragmentary opening can feel like staged plainness",
+    "4": "safe, generic parallel phrasing and loss of interiority make it read like a polished but impersonal edit",
+    "5": "clichés, vague repetition, and unnatural phrasing such as 'with a bang or with a whimper', 'I had had', and 'students both good and bad'"
+  },
+  "reason": "Version 1 has the most natural cadence, concrete detail, and reflective restraint, so it feels both human and publishable. Version 3 has some lived-in voice but slightly forced choppiness, while the others are more mechanical or clichéd.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "A",
+    "3": "C",
+    "4": "B3",
+    "5": "E"
+  }
+}

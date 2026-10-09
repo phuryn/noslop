@@ -1,0 +1,34 @@
+{
+  "dropped": [
+    {
+      "item": "The reduction is framed as 'a goodwill gesture'; the edit removes that framing",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "'I understand you're unhappy' became an apology ('Sorry about the surprise'), which shifts from acknowledging her feelings to apologizing and calls the deduction a 'surprise'",
+      "severity": "minor"
+    },
+    {
+      "item": "The actor changed from 'we' (the company) to 'I' for sending photos and offering the reduction, which makes the offer sound like a personal decision",
+      "severity": "minor"
+    },
+    {
+      "item": "'We consider damage beyond normal wear and tear' became 'we think that's more than normal wear and tear', a slightly softer statement that no longer calls it damage",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "'If you'd like to settle this quickly' makes the reduced deduction sound tied to a quick settlement, where the original offered it as an unconditional goodwill alternative",
+      "severity": "minor"
+    },
+    {
+      "item": "An apology ('Sorry about...') that isn't in the original",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

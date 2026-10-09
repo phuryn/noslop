@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 3,
+    "3": 1,
+    "4": 2
+  },
+  "send": "3",
+  "tells": {
+    "1": "LinkedIn AI template: a 'The change was simple:' setup, a tidy three-item bullet list, a 'The lesson for me:' moral and an engagement-bait closing question",
+    "2": "none (it reads human but unskilled, with the 'noshow' typo, a rhetorical question answered by 'Yes.', and 'Very proud' repeated)",
+    "3": "a mild three-part list of results (fewer empty chairs, less phone time, more patients cared for), though it's woven into prose rather than bulleted",
+    "4": "a tacked-on platitude ('meeting patients where they already are') framed as the takeaway, plus the same three-part results list"
+  },
+  "reason": "Version 3 is tight and specific and leads with the result without template scaffolding or a moral, so it reads most like a confident operator wrote it. Version 4 is close but adds a cliché lesson, version 1 is the most formulaic, and version 2 is clearly human but too clumsy and repetitive to publish.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "gen/E-write",
+    "3": "A",
+    "4": "B3"
+  }
+}

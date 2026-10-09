@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3,
+    "4": 5,
+    "5": 4
+  },
+  "send": "2",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "The closing phrase 'whether that fits what you need' feels slightly overworked.",
+    "4": "Two consecutive questions repeat the invitation, creating a formulaic sales-template feel.",
+    "5": "'Take the last-minute deliveries' sounds less natural and precise than the surrounding language."
+  },
+  "reason": "Version 2 is concise, specific, and easy to answer, with a concrete credibility claim and no unnecessary cushioning. These are editorial judgments about how the versions read, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B3",
+    "3": "A",
+    "4": "O",
+    "5": "B5"
+  }
+}

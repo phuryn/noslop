@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2,
+    "4": 4
+  },
+  "send": "2",
+  "tells": {
+    "1": "The vague phrase 'looking after what comes next' and 'a real privilege' make the closing feel more manufactured than personal.",
+    "2": "none",
+    "3": "'A history and a future worth caring for' is a polished, symmetrical sentiment that could fit many restoration businesses.",
+    "4": "The cluster of 'a future worth caring for,' 'a privilege,' and 'find their voice again' gives the closing a generic inspirational tone."
+  },
+  "reason": "Version 2 sounds like a knowledgeable craftsperson explaining why he enjoys his work: direct, concrete, and credible. Version 3 is clean but more slogan-like; 1 and especially 4 lean on sentimental language, though none of these stylistic signals establishes AI authorship.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B3",
+    "4": "O"
+  }
+}

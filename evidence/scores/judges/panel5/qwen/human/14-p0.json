@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1,
+    "4": 4,
+    "5": 5,
+    "6": 6
+  },
+  "send": "3",
+  "tells": {
+    "1": "none",
+    "2": "templated uplift and triadic phrasing, especially 'Every shelf, every table, every book'",
+    "3": "none",
+    "4": "generic 'One of the lovely things' construction and brochure-smooth phrasing",
+    "5": "awkward 'We wouldn't be here without you coming in' and mechanical 'maybe reread, maybe passed along' cadence",
+    "6": "stacked cliches and padded phrasing, plus the awkward 'shelves of books you've purchased from us' line"
+  },
+  "reason": "Version 3 feels most like a real bookseller speaking: warm, slightly self-deprecating, and specific without becoming wordy. It also keeps the announcement, gratitude, and invitation clear.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "O",
+    "3": "C",
+    "4": "B3",
+    "5": "B5",
+    "6": "E"
+  }
+}

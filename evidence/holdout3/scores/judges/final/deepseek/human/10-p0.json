@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 6,
+    "3": 4,
+    "4": 5,
+    "5": 1,
+    "6": 2
+  },
+  "send": "5",
+  "tells": {
+    "1": "Formulaic paired closing: 'what the 2025 season means... and how research can inform the decisions that follow.'",
+    "2": "Repeated full name and promotional vagueness: '[Your name] has collected unique insights.'",
+    "3": "Flat 'will cover' plus the same generic closing pair.",
+    "4": "Abstract filler: 'challenges posed by wildfire and the questions facing those responsible for peatland resilience.'",
+    "5": "none",
+    "6": "Paraphrase drift: 'last year's fires' replaces the 2025 season framing."
+  },
+  "reason": "Version 5 is the most polished, accurate, and naturally human: it keeps the 2025 framing, avoids repetition and vague promotion, and links the speaker’s experience to the talk without filler.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "E",
+    "3": "A",
+    "4": "O",
+    "5": "B5",
+    "6": "C"
+  }
+}

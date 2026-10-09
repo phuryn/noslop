@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 3,
+    "3": 5,
+    "4": 2,
+    "5": 1
+  },
+  "reason": "V4 keeps every fact plus the 'privilege' and 'for years to come' nuances; V3 drops only 'privilege', and V5 also drops 'for years to come'. V2 loses 'find their voice again' and the restoration sense, and V1 is least faithful because it changes 'every piano has a future' to 'most have years of playing left' and loses 'privilege'.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "B",
+    "4": "C",
+    "5": "B2"
+  }
+}

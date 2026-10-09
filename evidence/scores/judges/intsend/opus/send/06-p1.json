@@ -1,0 +1,11 @@
+{
+  "send": "3",
+  "reason": "It keeps every fact and promise from my draft, including the monthly ritual section and 'something to look forward to,' and it reads in my voice. Version 2 uses my answers accurately but swaps that section for social proof and drops lines I wanted, and version 4 cuts the 'look forward to' line and turns the mood into an instruction.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "track2/B5-int",
+    "3": "C",
+    "4": "track2/A-int"
+  },
+  "picked_arm": "C"
+}

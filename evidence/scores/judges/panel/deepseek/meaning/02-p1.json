@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 4,
+    "4": 1
+  },
+  "reason": "Version 4 preserves all key facts, numbers, and the original meeting purpose most fully. Version 1 keeps the fit discussion but slightly rewords the stat; Version 2 drops 'where we might fit'; Version 3 adds 'a lot' and is less precise.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "E",
+    "4": "C"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "send": "2",
+  "reason": "Version 2 preserves the original meaning, facts, subscription terms, and disclaimer while staying closest to the writer's phrasing and tone.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B5",
+    "3": "C",
+    "4": "E"
+  },
+  "picked_arm": "B5"
+}

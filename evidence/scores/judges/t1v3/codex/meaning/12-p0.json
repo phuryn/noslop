@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 4,
+    "3": 1,
+    "4": 2
+  },
+  "reason": "Version 3 preserves the original’s caveats and contribution language most closely; version 4 drops the unnoticed-leaks nuance and makes the abstract’s attribution more direct. Version 1 additionally invents a leadership role and asserts the leaks had gone unnoticed, while version 2 adds an unsupported claim about most utilities, definite prior ignorance of the leaks, and a promise to discuss what didn’t work.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "B3",
+    "4": "B"
+  }
+}

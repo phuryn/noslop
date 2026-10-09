@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3
+  },
+  "reason": "Version 2 preserves the original’s facts, commitments, and monthly anticipation most completely; version 1 drops the explicit invitation to look forward to each month. Version 3 uses the writer-authorized Rosa story without inventing facts, but replaces the original’s sharing, quiet enjoyment, and anticipation themes, losing more of its meaning.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "B3",
+    "3": "track2/B3-int"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "dropped": [
+    {
+      "item": "Working with 'your head' as well as your hands; the edit drops the thinking/mental side of the role",
+      "severity": "minor"
+    },
+    {
+      "item": "Explicit 'four-day week' label (still implied by Monday to Thursday)",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "'you like working with your hands' (a preference) became 'you're good with your hands' (an ability). This shifts it toward a skill requirement in an ad that says no experience is needed",
+      "severity": "minor"
+    },
+    {
+      "item": "Colleagues 'still care whether a part is right to the thou' became 'still won't let a part go out unless it's right to the thou'. An attitude is now a firm quality-control practice",
+      "severity": "minor"
+    },
+    {
+      "item": "'curious about how things get made' became 'like figuring out how things are made'",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "Implied practice that parts are not released unless within a thou ('won't let a part go out unless...')",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

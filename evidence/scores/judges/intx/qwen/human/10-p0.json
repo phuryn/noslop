@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 5,
+    "3": 2,
+    "4": 3,
+    "5": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "stiff corporate phrasing such as effective December 1st and at which time",
+    "3": "slightly generic support-email polish, especially take effect for you",
+    "4": "none",
+    "5": "forced cheeriness with On a happier note after a price increase"
+  },
+  "reason": "Version 1 sounds the most natural and usable: it states the change, protects current members, and stays warm without fluff. The others are either too corporate, too generic, or too cheerily conversational for a price increase.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "E",
+    "3": "O",
+    "4": "track2/A-int",
+    "5": "C"
+  }
+}

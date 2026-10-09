@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 1,
+    "4": 3
+  },
+  "reason": "Version 3 preserves the original wording and order almost exactly, while Version 1 only slightly reorders the compatibility check. Version 4 paraphrases with minor changes, and Version 2 adds claims and weakens or alters several details.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "C",
+    "3": "A",
+    "4": "B5"
+  }
+}

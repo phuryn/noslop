@@ -1,0 +1,11 @@
+{
+  "send": "4",
+  "reason": "It keeps every fact and commitment: 2-year warranty, a replacement at no cost, tracking sent when it ships, and both apologies. It also keeps the original's formal register and the 'not the experience we want' line, and leading with the fix is a reasonable choice. Version 2 drops 'at no cost', and versions 1 and 3 shift the tone more (1 is casual; 3 is terse and drops 'only five months').",
+  "label_to_arm": {
+    "1": "C",
+    "2": "E",
+    "3": "track2/A-int",
+    "4": "track2/B5-int"
+  },
+  "picked_arm": "track2/B5-int"
+}

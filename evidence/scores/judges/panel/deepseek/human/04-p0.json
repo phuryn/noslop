@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 1,
+    "4": 5,
+    "5": 3
+  },
+  "send": "3",
+  "tells": {
+    "1": "none",
+    "2": "AI-style em dash and formal comma create an editorial, slightly overwrought rhythm.",
+    "3": "none",
+    "4": "Clipped instructional sequence and 'Finally, a quick reminder...' transition feel template-like.",
+    "5": "Flattened idiomatic phrasing ('After that, the hardest part is...') and inserted comma make it read like a paraphrase."
+  },
+  "reason": "Version 3 has the most natural, warm voice and community feel; it sounds like a real gardener writing to fellow plot-holders. It balances clear advice with colloquial personality without becoming stiff.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "O",
+    "3": "C",
+    "4": "E",
+    "5": "B3"
+  }
+}

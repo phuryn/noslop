@@ -1,0 +1,11 @@
+{
+  "send": "3",
+  "reason": "Version 3 keeps the same results, the hit-or-miss phone problem, the practical outcomes, the dual cost of no-shows, the “sometimes” lesson, and the soft “worth testing” advice in your voice. The others overstate what failed, drop that lesson, or add advice you didn’t make.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "B5",
+    "4": "E"
+  },
+  "picked_arm": "B5"
+}

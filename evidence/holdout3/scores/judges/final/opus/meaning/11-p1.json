@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 3,
+    "4": 5,
+    "5": 1
+  },
+  "reason": "V5 keeps nearly every nuance ('somehow', 'character flaw', the surprise, 'oddly restful') and drops only the 'didn't feel triumphant' contrast. V2 loses 'somehow' and the surprise; V3 loses those and adds 'a lot of water'. V1 drops 'character flaw', the triumphant contrast and 'oddly'. V4 rewrites heavily: it changes facts ('anything in my life', 'few hours a week', adds 'woman') and omits the eight-year-olds and the room metaphor.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "C",
+    "4": "E",
+    "5": "B5"
+  }
+}

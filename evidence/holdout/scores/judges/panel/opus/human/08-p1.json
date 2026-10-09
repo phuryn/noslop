@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 4,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "Sentimental, inflated closing phrases ('It's a real privilege', 'sound like themselves again', 'for years to come')",
+    "2": "Stock phrase 'a history and a future worth caring for' and generic 'for years to come' close",
+    "3": "Em dash for dramatic effect plus clichés ('It's a privilege', 'find their voice again', 'for years to come') and curly-quote polish",
+    "4": "none"
+  },
+  "reason": "Version 4 is concrete and plain-spoken ('years of playing left in them', 'sound right again') and sounds like a craftsman talking about his work, without the stock sentiment. Version 3 leans hardest on AI-style flourishes, and 1 and 2 still close on the boilerplate 'for years to come.'",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B3",
+    "3": "O",
+    "4": "A"
+  }
+}

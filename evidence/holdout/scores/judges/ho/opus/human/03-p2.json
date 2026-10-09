@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 6,
+    "3": 5,
+    "4": 3,
+    "5": 2,
+    "6": 1
+  },
+  "send": "6",
+  "tells": {
+    "1": "The flat setup 'It adds two things.' leads into a thin one-line battery paragraph, which reads like a compressed rewrite rather than a natural draft.",
+    "2": "Tautological padding: 'longer battery life, so they run longer on each charge' says the same thing twice.",
+    "3": "The bullet 'Crowd Focus mode: in restaurants... it helps your hearing aids...' is awkward and squeezed, and it is paired with a stock 'Kestrel family' sign-off.",
+    "4": "Redundant battery line ('run longer on each charge, so you can go further between charges') under templated bold mini-headers.",
+    "5": "none",
+    "6": "none"
+  },
+  "reason": "Version 6 has the most natural, warm voice ('get-togethers', 'before plugging in', 'Warmly'), with clear skimmable sections suited to hearing-aid users, and it avoids redundancy. Version 5 is a close second for its tight, informative copy and useful date in the subject line, but it is a little drier.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "B2",
+    "4": "O",
+    "5": "B",
+    "6": "C"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 4,
+    "4": 2
+  },
+  "send": "2",
+  "tells": {
+    "1": "The generic lesson about 'meeting people where they already are' and the extended explanation of patient benefits feel padded.",
+    "2": "none",
+    "3": "The formulaic sequence of hook, bullet-point benefits, universal lesson and engagement question feels templated.",
+    "4": "The generic 'operational win' takeaway and closing engagement question feel stock."
+  },
+  "reason": "Version 2 has the strongest human feel: a personal judgment about staff time, concrete exceptions and uncertainty about causation make it credible and useful, assuming those details are accurate. Version 4 is more concise, but 'All we did' overstates the simplicity; these are stylistic judgments, not proof of authorship.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "track2/B5-int",
+    "3": "O",
+    "4": "track2/A-int"
+  }
+}

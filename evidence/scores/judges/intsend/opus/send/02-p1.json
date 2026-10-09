@@ -1,0 +1,11 @@
+{
+  "send": "1",
+  "reason": "It states plainly that on-time means within a 2-hour window, leads with regular routes, and is upfront that 42 trucks can't take all their volume. It also mentions the temperature monitoring and asks only for an intro call. The other versions leave the 99.2% figure undefined, so it looks tighter than it is, and they offer last-minute help without the capacity caveat.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "C",
+    "3": "E",
+    "4": "track2/A-int"
+  },
+  "picked_arm": "track2/B5-int"
+}

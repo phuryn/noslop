@@ -1,0 +1,11 @@
+{
+  "send": "3",
+  "reason": "It preserves the original meaning, details, and voice almost verbatim, with only minor punctuation changes.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "C",
+    "3": "track2/A-int",
+    "4": "track2/B5-int"
+  },
+  "picked_arm": "track2/A-int"
+}

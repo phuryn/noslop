@@ -1,0 +1,11 @@
+{
+  "send": "2",
+  "reason": "It includes the key facts and caveats the writer added: two-way texting as the real driver, 11 hours saved weekly, cost, and the limitations around elderly patients, Sopot, and summer seasonality. It also preserves the practical, candid voice best.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "track2/B5-int",
+    "3": "E",
+    "4": "C"
+  },
+  "picked_arm": "track2/B5-int"
+}

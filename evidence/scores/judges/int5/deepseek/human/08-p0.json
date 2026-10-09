@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1,
+    "4": 4
+  },
+  "send": "3",
+  "tells": {
+    "1": "Slightly generic list of health markers and a balanced 'practical way to get a fuller picture' closer.",
+    "2": "Over-polished em-dash construction and parallel phrasing typical of AI-edited marketing copy.",
+    "3": "none",
+    "4": "Too generic and stripped of specifics, with uniform sentence structure and no human voice."
+  },
+  "reason": "Version 3 is the most credible and human because it includes a specific stat, a patient anecdote, breed nuance, and cost sensitivity; the others are more generic or over-polished.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "O",
+    "3": "track2/B5-int",
+    "4": "track2/A-int"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 1
+  },
+  "reason": "Version 3 keeps nearly every element, including the thank-you and the no-question-too-small reassurance; it loses only 'step by step' and slightly narrows the Crowd Focus wording. Version 2 drops the thank-you line, and Version 1 drops both the thank-you and the reassurance that no question is silly.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "C"
+  }
+}

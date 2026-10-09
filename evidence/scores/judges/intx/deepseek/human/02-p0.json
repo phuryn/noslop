@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 3,
+    "4": 5,
+    "5": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Generic template with parallel questions and no concrete supporting detail.",
+    "3": "Formulaic 'Could we help...' and 'Would you have 15 minutes...' structure with no unique specifics.",
+    "4": "Duplicated 'Hi' and stilted, over-hedged phrasing like 'Would you be open to letting us help you out...'.",
+    "5": "Safe, slightly generic CTA ('where we might fit') without a concrete differentiator; reads like a polished but thin template."
+  },
+  "reason": "Version 1 combines specific, credible operational details with a natural, honest tone and clear call to action, making it feel most like a skilled human sales email. It is the strongest choice to send.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "track2/A-int",
+    "3": "O",
+    "4": "E",
+    "5": "C"
+  }
+}

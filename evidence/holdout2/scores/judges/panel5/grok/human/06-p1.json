@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 4,
+    "3": 1,
+    "4": 2
+  },
+  "send": "3",
+  "tells": {
+    "1": "Stiff template voice: “Check that you're using” plus the stock closer “Once calibration finishes, try printing again.”",
+    "2": "Same support-bot script as version 1; only the apostrophe differs.",
+    "3": "none",
+    "4": "none"
+  },
+  "reason": "Version 3 reads like a skilled help writer: conversational (“Make sure,” “When”) without dropping the precise “Press and hold,” and the colon correctly introduces the steps. Versions 1 and 2 share a stiffer template, and version 4 is a little less exact.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B3",
+    "3": "A",
+    "4": "B5"
+  }
+}

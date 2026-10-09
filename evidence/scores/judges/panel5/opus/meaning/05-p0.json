@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 5,
+    "3": 4,
+    "4": 2,
+    "5": 3
+  },
+  "reason": "V1 is near-verbatim. V4 adds only the claim that the system handles routine reassignments, V5 makes small shifts ('hurt', 'must meet', 'how much effort drops'), and V3 drifts further ('test whether the target is realistic', 'who lives close enough', 'confirm targets then'). V2 drops the secondary goals and non-goals entirely and inflates commitments ('all affected visits', 'significantly').",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "E",
+    "3": "C",
+    "4": "A",
+    "5": "B5"
+  }
+}

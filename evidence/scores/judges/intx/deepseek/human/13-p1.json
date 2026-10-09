@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 2,
+    "5": 5
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "AI-smoothed corporate phrasing ('declining structurally', 'stronger potential returns on added investment') and uniform markdown formatting.",
+    "3": "Heavy bolded lead-ins and repeated 'Mitigation:' labels make it read like a reformatted AI output.",
+    "4": "none (slight conversational plainness, but it reads human rather than AI-generated).",
+    "5": "Vague, repetitive, cliché-heavy, and unpolished ('putting all our eggs in one basket'); reads like rough human notes rather than a skilled memo."
+  },
+  "reason": "Version 1 best matches a skilled human memo: clear, appropriately formal, decisive, and natural without AI over-polish. Version 4 is also human but slightly less formal for the final send.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "track2/B5-int",
+    "3": "O",
+    "4": "C",
+    "5": "E"
+  }
+}

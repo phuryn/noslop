@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 5,
+    "4": 4,
+    "5": 1
+  },
+  "send": "5",
+  "tells": {
+    "1": "none",
+    "2": "Slightly standardized phrasing like 'given much thought' and 'figure out' flattens the voice.",
+    "3": "Over-structured colon list and semicolon make it read like a polished paraphrase.",
+    "4": "'Found myself doing' and the gerund list feel like smoothed AI essay style.",
+    "5": "none"
+  },
+  "reason": "Version 5 has the most natural, idiomatic rhythm and a distinctive first-person voice. The others tend toward over-polished or standardized phrasing that reads more like paraphrase than raw reflection.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "B3",
+    "3": "A",
+    "4": "O",
+    "5": "C"
+  }
+}

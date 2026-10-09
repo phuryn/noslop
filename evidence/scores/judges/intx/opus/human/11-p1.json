@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 5,
+    "3": 4,
+    "4": 1,
+    "5": 2
+  },
+  "send": "4",
+  "tells": {
+    "1": "Bolded label headers ('What you'll do:', 'What we're after:') over evenly balanced triads give it a polished template feel.",
+    "2": "none (clearly human but unskilled: all caps, missing spaces after commas, run-on sentences, 'preferrable' typo, boilerplate 'include but are not limited to')",
+    "3": "Inserted conversational fillers ('honestly, that's the fun part', 'your opinion will actually count') and choppy restated sentences read like a paraphrase pass over 1.",
+    "4": "none (mainly a factual slip: 'four-day week' conflicts with being open Wednesday through Sunday)",
+    "5": "Smooth, generic rhythm with the 'pressure cooker' line and tidy triads, but no concrete detail to anchor it."
+  },
+  "reason": "Version 4 is the only one with specifics a real kitchen would know: six cooks, about 180 covers on Friday, whole-animal butchery, the last sous staying four years, Luis moving up from dish, and fully covered health insurance. That makes it the most credible and human, though the 'four-day week' versus Wednesday–Sunday mismatch needs clarifying before it goes out. Version 2 is plainly human but too sloppy to publish.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "E",
+    "3": "C",
+    "4": "track2/B5-int",
+    "5": "track2/A-int"
+  }
+}

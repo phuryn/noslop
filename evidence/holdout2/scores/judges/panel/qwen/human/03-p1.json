@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "The closing \"Tell me if I missed anything\" feels slightly blunt and less idiomatic than a natural human sign-off.",
+    "3": "The bolded headings and neatly segmented summary feel a little templated and AI-formatted for a short client recap."
+  },
+  "reason": "Version 1 is the most natural and concise, reading like a practical human follow-up without overformatting. Version 3 is clear but slightly template-like, while Version 2 feels like a weaker tweak of Version 1.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "O"
+  }
+}

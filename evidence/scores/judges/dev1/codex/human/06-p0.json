@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 5,
+    "5": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "The “Maybe it's…” setup followed by “Either way” feels slightly formulaic.",
+    "3": "Compression produces awkward wording: “start at the mixing” and the ambiguous “Keep it as long as you like.”",
+    "4": "Stacked slogans and sentence fragments manufacture rhythm, especially “A little measuring done. A little joy delivered.”",
+    "5": "The repeated “Maybe it's” and “Either way” construction gives the emotional section a templated cadence."
+  },
+  "reason": "Version 1 has the strongest balance of clear product information, warmth, and useful section headings, with the least conspicuous verbal packaging. These are editorial judgments about how the copy reads, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "B5",
+    "3": "A",
+    "4": "O",
+    "5": "C"
+  }
+}

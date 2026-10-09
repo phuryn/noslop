@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 3,
+    "4": 1
+  },
+  "reason": "Version 4 stays closest to the original facts, offer, and closing ask with only minor wording changes. Version 1 keeps the core meaning but drops 'where we might fit'; Version 3 adds 'occasional,' narrowing the original last-minute needs; Version 2 changes that offer to 'pick up last-minute loads' and alters the closing fit discussion most.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "C",
+    "4": "B5"
+  }
+}

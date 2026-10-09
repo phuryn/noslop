@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "Version 1 keeps every fact and commitment and only drops minor flourishes like 'kept us on our toes' and 'catch your breath'. Version 2 adds small claims not in the original ('Most of us are in the same boat', 'just got'), while Version 3 drops the 'wherever you are with your winter preparations, glad to have you along' sentiment and reframes the workshop as 'we'll talk through the practicalities together', losing 'brush up'.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "C",
+    "3": "A"
+  }
+}

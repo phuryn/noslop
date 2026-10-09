@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 5,
+    "4": 3,
+    "5": 1
+  },
+  "send": "5",
+  "tells": {
+    "1": "Generic milestone clichés and repetitive 400-square-foot mentions make it feel unpolished.",
+    "2": "The tidy triads and safe gratitude language feel a bit templated.",
+    "3": "It reads like a flattened summary, with generic phrasing and little distinctive voice.",
+    "4": "The over-polished parallelism and em-dash cadence feel AI-copyedited.",
+    "5": "none"
+  },
+  "reason": "Version 5 has the most natural, human voice, with casual asides and a specific, believable book-life detail. It is clear and warm without sounding overly polished or formulaic.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "B3",
+    "3": "A",
+    "4": "O",
+    "5": "C"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3
+  },
+  "reason": "Version 2 faithfully incorporates the writer’s supplied facts, including the 2-hour on-time window and limited-capacity backup/trial offer. Version 1 omits those caveats but preserves the tentative inquiry, while Version 3 turns it into an affirmative claim that they could cover Fairview’s regular routes despite the writer’s capacity qualification.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "track2/B3-int",
+    "3": "B3"
+  }
+}

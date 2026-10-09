@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3,
+    "4": 4,
+    "5": 5
+  },
+  "send": "1",
+  "tells": {
+    "1": "Bold lead-in phrases on every bullet, plus a framing line ('The effects add up:'). The contractions and casual phrasing soften it.",
+    "2": "none. It reads as a rough human draft, with typos ('caregeivers'), a broken table, unfinished sections, and wordy hedging.",
+    "3": "Uniform, tightly parallel bullet sentences (each opens with a declarative claim and then elaborates) and polished template headings.",
+    "4": "Bullets collapsed into one dense, evenly balanced paragraph of parallel clauses, with stock phrasing like 'put client satisfaction, retention, and compliance at risk'.",
+    "5": "A generic framing sentence ('The consequences are significant:') followed by bolded, perfectly parallel bullets. This is the most templated, assistant-like structure."
+  },
+  "reason": "Version 2 feels most human but is an unfinished, error-filled draft that can't be sent. Version 1 keeps the polished, complete structure of the others while reading the most naturally, with contractions, plain verbs, and a conversational rhythm.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "E",
+    "3": "track2/B5-int",
+    "4": "track2/A-int",
+    "5": "O"
+  }
+}

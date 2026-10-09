@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 4,
+    "3": 1,
+    "4": 2
+  },
+  "send": "3",
+  "tells": {
+    "1": "The closing line 'a practical way to get a fuller picture of your dog's health and more out of the checkup' reads like a generic marketing wrap-up.",
+    "2": "Two em-dash pivots and the stock phrases 'a fuller picture' and 'make the most of their yearly checkup' make it read like a polished template.",
+    "3": "none",
+    "4": "The uniform declarative sentences feel slightly templated, but it is mostly plain and functional with no obvious tell."
+  },
+  "reason": "Version 3 sounds like a real clinic. It gives a concrete local statistic, a specific patient story, a breed-size caveat, and an honest acknowledgment of cost, which makes it the most credible and persuasive. Before publishing, confirm the 1-in-5 figure and the beagle anecdote are accurate.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "O",
+    "3": "track2/B5-int",
+    "4": "track2/A-int"
+  }
+}

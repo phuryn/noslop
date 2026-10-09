@@ -1,0 +1,40 @@
+{
+  "dropped": [
+    {
+      "item": "Explicit note that no new replies or updates can be made from the old inbox after 16 Nov (edit says only 'read only mode... can still be used as a reference')",
+      "severity": "minor"
+    },
+    {
+      "item": "Invitation to ask for help if you 'get stuck', not just to ask questions",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "Scope of logging: original says to log and track 'new tickets' in HomeFix Hub from 2 Nov; edit says 'all repair tickets will need to be logged and tracked', which could imply existing tickets too",
+      "severity": "minor"
+    },
+    {
+      "item": "Training deadline: original says 'by Friday'; edit narrows it to 'by the end of the day on Friday'",
+      "severity": "minor"
+    },
+    {
+      "item": "Training framing: original says 'so you're ready for the switch'; edit says 'It is important that all staff receive training... before we go live', which sounds more mandatory and organization-wide",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "Training deadline specified as 'end of the day' on Friday",
+      "severity": "minor"
+    },
+    {
+      "item": "Claim that it is important for all staff to be trained before go-live",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [
+    "by the end of the day on Friday"
+  ],
+  "meaning_preserved": 4
+}

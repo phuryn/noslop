@@ -1,0 +1,169 @@
+{
+  "grok": {
+    "n": 32,
+    "texts": 16,
+    "picks": {
+      "track2/B5-int": 21,
+      "track2/A-int": 7,
+      "C": 1,
+      "E": 0,
+      "none": 3
+    },
+    "pairwise": {
+      "v5>blader": [
+        11,
+        2,
+        3
+      ],
+      "v5>bare prompt": [
+        11,
+        5,
+        0
+      ],
+      "v5>Emulate-1": [
+        12,
+        3,
+        0
+      ]
+    }
+  },
+  "deepseek": {
+    "n": 32,
+    "texts": 16,
+    "picks": {
+      "track2/B5-int": 22,
+      "track2/A-int": 5,
+      "C": 4,
+      "E": 0,
+      "none": 1
+    },
+    "pairwise": {
+      "v5>blader": [
+        12,
+        1,
+        3
+      ],
+      "v5>bare prompt": [
+        11,
+        3,
+        2
+      ],
+      "v5>Emulate-1": [
+        12,
+        3,
+        0
+      ]
+    }
+  },
+  "qwen": {
+    "n": 32,
+    "texts": 16,
+    "picks": {
+      "track2/B5-int": 25,
+      "track2/A-int": 6,
+      "C": 1,
+      "E": 0,
+      "none": 0
+    },
+    "pairwise": {
+      "v5>blader": [
+        13,
+        0,
+        3
+      ],
+      "v5>bare prompt": [
+        12,
+        4,
+        0
+      ],
+      "v5>Emulate-1": [
+        13,
+        2,
+        0
+      ]
+    }
+  },
+  "codex": {
+    "n": 32,
+    "texts": 16,
+    "picks": {
+      "track2/B5-int": 20,
+      "track2/A-int": 10,
+      "C": 0,
+      "E": 0,
+      "none": 2
+    },
+    "pairwise": {
+      "v5>blader": [
+        10,
+        1,
+        5
+      ],
+      "v5>bare prompt": [
+        10,
+        6,
+        0
+      ],
+      "v5>Emulate-1": [
+        9,
+        6,
+        0
+      ]
+    }
+  },
+  "opus": {
+    "n": 32,
+    "texts": 16,
+    "picks": {
+      "track2/B5-int": 22,
+      "track2/A-int": 6,
+      "C": 4,
+      "E": 0,
+      "none": 0
+    },
+    "pairwise": {
+      "v5>blader": [
+        11,
+        2,
+        3
+      ],
+      "v5>bare prompt": [
+        11,
+        3,
+        2
+      ],
+      "v5>Emulate-1": [
+        11,
+        4,
+        0
+      ]
+    }
+  },
+  "panel4_pooled": {
+    "n": 128,
+    "picks": {
+      "track2/B5-int": 88,
+      "track2/A-int": 28,
+      "C": 6,
+      "E": 0,
+      "none": 6
+    },
+    "pairwise": {
+      "v5>blader": [
+        46,
+        4,
+        14
+      ],
+      "v5>bare prompt": [
+        44,
+        18,
+        2
+      ],
+      "v5>Emulate-1": [
+        46,
+        14,
+        0
+      ]
+    }
+  }
+}

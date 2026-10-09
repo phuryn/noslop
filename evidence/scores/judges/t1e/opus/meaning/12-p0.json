@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3
+  },
+  "reason": "Version 2 keeps every hedge ('might otherwise have gone unnoticed', 'helped bring down', 'helped use') and every fact. Version 1 overclaims: leaks 'had gone unnoticed', the utility 'cut' NRW, and the speaker 'helped lead'. Version 3 ranks last because it invents the speaker's name and gender ('Mr. Matela') and drops the 'otherwise go unnoticed' nuance.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "E"
+  }
+}

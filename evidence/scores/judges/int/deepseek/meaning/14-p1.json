@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2
+  },
+  "reason": "Version 2 stays closest to the original wording and content with no new facts. Version 3 is nearly as faithful but compresses a few lines, while Version 1 drops original nostalgic details and adds new phrasing beyond the supplied facts.",
+  "label_to_arm": {
+    "1": "track2/B3-int",
+    "2": "track2/A-int",
+    "3": "B3"
+  }
+}

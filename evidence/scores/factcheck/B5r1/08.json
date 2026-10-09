@@ -1,0 +1,17 @@
+{
+  "dropped": [
+    {
+      "item": "Framing of the panel as 'a practical way' to make the most of the yearly checkup",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "'Bloodwork can help spot changes' became 'Bloodwork can catch changes,' which slightly raises certainty and removes the hedge that bloodwork is an aid",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

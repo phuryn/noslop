@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 5,
+    "4": 3,
+    "5": 1
+  },
+  "send": "5",
+  "tells": {
+    "1": "Generic AI gratitude line: 'Those visits helped us get here.'",
+    "2": "Vague filler: 'so we started with what we could.'",
+    "3": "Awkward AI-style phrase: 'we could make a start.'",
+    "4": "Overly neat triple repetition and fragment rhythm: 'Every shelf, every table, every book' / 'Maybe it’s been reread. Maybe it’s been passed along.'",
+    "5": "none"
+  },
+  "reason": "Version 5 has the most natural, specific voice and believable warmth; the others feel progressively more polished or generic.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "A",
+    "3": "B3",
+    "4": "O",
+    "5": "C"
+  }
+}

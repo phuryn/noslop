@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 5,
+    "3": 4,
+    "4": 3,
+    "5": 2
+  },
+  "reason": "Version 1 keeps every claim intact, including the 15-minute sync, one-by-one invoice contrast, and incorrect PDF currency display. Version 5 stays nearly exact; 4 only condenses the fix; 3 adds intensifiers and shifts details (new transactions, opening vs editing); 2 wrongly says symbols were missing and drops the one-by-one contrast.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "E",
+    "3": "C",
+    "4": "B3",
+    "5": "B5"
+  }
+}

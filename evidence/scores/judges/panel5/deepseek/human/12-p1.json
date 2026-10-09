@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 6,
+    "3": 5,
+    "4": 3,
+    "5": 4,
+    "6": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Formulaic structure and neutral corporate tone ('This talk explores... practical considerations...')",
+    "3": "none (clunky, stilted human phrasing rather than AI)",
+    "4": "Slightly awkward idiomatic phrase 'making more of their own pressure data'",
+    "5": "Formulaic parallel structure ('This talk covers... It also covers...')",
+    "6": "Ambiguous compression in bio: 'find leaks in existing pressure data'"
+  },
+  "reason": "Version 1 has the strongest human voice and clear practitioner narrative; it sounds like an experienced speaker sharing real lessons, not generic conference language.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "O",
+    "3": "E",
+    "4": "B5",
+    "5": "B3",
+    "6": "A"
+  }
+}

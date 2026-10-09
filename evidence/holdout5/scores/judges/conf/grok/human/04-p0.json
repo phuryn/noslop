@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 6,
+    "4": 4,
+    "5": 1,
+    "6": 7,
+    "7": 5
+  },
+  "send": "5",
+  "tells": {
+    "1": "none",
+    "2": "formulaic 'It's October, which means' seasonal hook",
+    "3": "'October is here, and' opener plus upgraded 'simply walk in'",
+    "4": "same formulaic October hook as version 2",
+    "5": "none",
+    "6": "'Did You Know? / that time of year' cliché stack, erratic capitals, and '65's'",
+    "7": "over-trimmed fact list that stops with no welcome or voice"
+  },
+  "reason": "Version 5 reads like a local practice manager: direct, warm, and specific, with a small human roughness and no seasonal padding. The others lean on stock openers, corporate closers, or cliché enthusiasm, and 7 feels cut short rather than written.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "V6C",
+    "3": "O",
+    "4": "V6A",
+    "5": "C",
+    "6": "E",
+    "7": "A"
+  }
+}

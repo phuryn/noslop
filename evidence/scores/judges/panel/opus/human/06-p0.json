@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3,
+    "4": 5,
+    "5": 4
+  },
+  "send": "2",
+  "tells": {
+    "1": "Slightly flattened, even cadence throughout; the imperative close 'Give yourself something to look forward to each month' reads like a generic wellness-copy closer",
+    "2": "none",
+    "3": "Section headers have been stripped, which leaves dense, compressed blocks; the comma-spliced list of scenes ('An afternoon..., something..., or...') feels templated",
+    "4": "Stacked parallel fragments ('A little measuring done. A little joy delivered.' / 'Less measuring. More making.' / three-fragment scene list) show a formulaic rhythm-for-rhythm's-sake pattern",
+    "5": "Not AI-like. It reads as unpolished human work, with redundancy ('measure our pre-measured'), filler ('Yes,' 'It's that simple'), a duplicated CTA ('Get started Get your monthly baking kit'), and repeated 'amazing'"
+  },
+  "reason": "Version 2 has the most natural voice. The 'Maybe it's... Either way' passage sounds like a person talking, and every section stays clear and credible with no gimmicky fragment stacking. Version 4 leans hardest on AI-style parallel fragments, and Version 5 is human but too clumsy to publish.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "C",
+    "3": "A",
+    "4": "O",
+    "5": "E"
+  }
+}

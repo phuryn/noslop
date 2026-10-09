@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2
+  },
+  "reason": "Version 2 most closely preserves the facts and company commitments. Version 3 adds an explicit eligibility explanation and shifts tracking responsibility to “I”; version 1 also makes that shift and promises a “new” battery, whereas the original promises only a replacement.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2
+  },
+  "reason": "Version 1 preserves all key facts, numbers, dates, and the current-member commitment most precisely. Version 3 is nearly as faithful but is slightly less precise about the price and makes current-member status conditional, while Version 2 omits the stated purpose of the Sunday classes.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "track2/A-int",
+    "3": "track2/B5-int"
+  }
+}

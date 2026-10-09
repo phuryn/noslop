@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 1,
+    "4": 3
+  },
+  "reason": "Version 3 keeps the exercise count, recovery scenarios, $7.99 price, 24-hour cancellation window, and medical disclaimer intact, with only minor omissions such as what Premium unlocks. Version 1 preserves those commitments in light paraphrase; version 4 drops consistency, progress, and free-to-start while narrowing the offer to a free download; version 2 adds a never-miss guarantee and changes the renewal terms and disclaimer.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "E",
+    "3": "B3",
+    "4": "A"
+  }
+}

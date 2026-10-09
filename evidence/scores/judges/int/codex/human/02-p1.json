@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 3,
+    "4": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "The stacked caveats, failure anecdote, corrective action, capacity limit and reference feel engineered to demonstrate authenticity rather than serve a first-touch email.",
+    "3": "Two consecutive questions and phrases like 'delivery needs' and 'discuss where we might fit' give it a generic, over-polished sales cadence.",
+    "4": "none"
+  },
+  "reason": "Version 1 reads most like a skilled writer respecting a cold prospect's time: concrete service, a performance figure, a relevant offer and one clear ask. Version 2 offers more context but overwhelms the introduction; these stylistic judgments do not establish AI authorship.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "track2/B3-int",
+    "3": "O",
+    "4": "track2/A-int"
+  }
+}

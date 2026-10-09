@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 1,
+    "3": 5,
+    "4": 2,
+    "5": 3
+  },
+  "reason": "Version 2 keeps every fact, hedge, and offer. Versions 4 and 5 stay factually intact but slightly harden the ask; 1 replaces “dry cider” with “crisp” and pushes bar placement; 3 drops the sell-before-you-keep caveat and changes sending samples to bringing them in.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "E",
+    "4": "B5",
+    "5": "B3"
+  }
+}

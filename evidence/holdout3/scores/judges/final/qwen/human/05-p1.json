@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 6,
+    "2": 4,
+    "3": 1,
+    "4": 3,
+    "5": 5,
+    "6": 2
+  },
+  "send": "3",
+  "tells": {
+    "1": "Unfinished sentence and vague pronoun ('we’re going to install', 'mounting them') make it feel underedited.",
+    "2": "Slightly generic, templated phrasing; 'mount installation' is vaguer than 'help install the mounts'.",
+    "3": "none",
+    "4": "A faintly performative line ('The more of us there are, the faster it goes.') and extra bolding feel a bit managed.",
+    "5": "Overly polished, upbeat clichés ('breathing room', 'many hands', 'coming together beautifully') and sparkle emoji.",
+    "6": "none"
+  },
+  "reason": "Version 3 is the strongest for a real Slack message: concise, scannable, clear about the date change, and direct about the volunteer ask. It feels professional and human without unnecessary gloss.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "A",
+    "3": "B3",
+    "4": "C",
+    "5": "O",
+    "6": "B5"
+  }
+}

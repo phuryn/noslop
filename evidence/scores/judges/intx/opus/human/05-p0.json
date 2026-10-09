@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 5,
+    "3": 1,
+    "4": 4,
+    "5": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "Each problem bullet opens with a short headline sentence ('Clients go without care or wait for it.'). This keeps the bold-lead-in template, only without the bold.",
+    "2": "The 'The consequences are significant:' setup line plus bolded headline-sentence bullets give it a uniformly polished, templated cadence.",
+    "3": "none",
+    "4": "It uses a punchy setup line ('The effects add up:') and bold lead-in bullets, with casual phrasing ('who the client will actually accept', 'matters a lot') layered on in a deliberately humanized way.",
+    "5": "Evenly polished, parallel sentence construction throughout, and every impact gets a tidy matching clause even after being folded into prose."
+  },
+  "reason": "Version 3 is clearly the human original: it has typos, a broken table, and dangling unfinished sections, so it can't be sent as is. Version 1 keeps the scannable structure a PRD needs without the bold-label and setup-line tells of 2 and 4. It also reads more cleanly than 5's dense impact paragraph.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "O",
+    "3": "E",
+    "4": "C",
+    "5": "track2/A-int"
+  }
+}

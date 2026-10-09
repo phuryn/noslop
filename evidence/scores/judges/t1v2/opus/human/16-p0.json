@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 2,
+    "5": 5
+  },
+  "send": "2",
+  "tells": {
+    "1": "none",
+    "2": "none; it is a light polish of 4 that splits the semicolon sentence, a little tidier than a person might bother with",
+    "3": "staccato triple of short sentences (\"I straightened... I checked... I wiped...\") plus the casual \"chewed over,\" which reads like a deliberate push for voice",
+    "4": "none",
+    "5": "the neat contrast \"never as a way of leaving the room,\" which compresses the realization into an aphorism and loses the natural hesitancy"
+  },
+  "reason": "Versions 1, 4 and 2 share the same plain, observant voice, and 2 is the cleanest of them without losing any warmth or detail. Version 3 tries too hard to sound casual, and 5 over-trims the reflection into a slick antithesis.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B2",
+    "3": "C",
+    "4": "A",
+    "5": "B"
+  }
+}

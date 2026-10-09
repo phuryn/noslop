@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 1,
+    "3": 3,
+    "4": 2
+  },
+  "send": "2",
+  "tells": {
+    "1": "none",
+    "2": "The 'hardest part: leaving them alone' punchline feels slightly stock.",
+    "3": "The same stock punchline, with a more mechanically segmented opening.",
+    "4": "The evenly paced sentences feel somewhat flattened, though not distinctively AI-written."
+  },
+  "reason": "Version 2 has the strongest rhythm, useful detail and a welcoming community tone; version 4 is clear but less lively. Version 1 sounds spontaneous but needs editing for length and repetition; none of these stylistic features reliably establishes AI authorship.",
+  "label_to_arm": {
+    "1": "gen/E-write",
+    "2": "O",
+    "3": "A",
+    "4": "B3"
+  }
+}

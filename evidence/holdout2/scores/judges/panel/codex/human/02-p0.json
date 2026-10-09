@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "The generic three-part empathy list and repeated closing apology make the sympathy feel formulaic."
+  },
+  "reason": "Version 2 feels direct, accountable and conversational, ending on the useful reassurance that customers need do nothing. Version 1 is nearly as strong; version 3 adds words without adding much substance, though none of these features establishes AI authorship.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "O"
+  }
+}

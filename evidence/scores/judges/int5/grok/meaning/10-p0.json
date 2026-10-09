@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "Version 1 keeps the explicit price rise, the March 1 switch from $119 to $135 for current members, Sunday classes as more weekly options, and thanks for community. Version 2 states the same policy but frames the rate lock as conditional (“if” you’re a current member) and does not name price in the announcement itself; version 3 omits “more options during the week” and thanks readers for being a member rather than part of the community.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "track2/B5-int",
+    "3": "track2/A-int"
+  }
+}

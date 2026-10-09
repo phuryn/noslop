@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1,
+    "4": 4
+  },
+  "reason": "Version 3 most closely preserves the original facts and commitments, followed by version 1 with only minor shifts in timing language. Version 2 adds an explicit warranty-eligibility rationale and changes tracking responsibility from “we” to “I”; version 4 also promises a new rather than merely replacement battery and shifts support commitments to the individual.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B",
+    "3": "B2",
+    "4": "C"
+  }
+}

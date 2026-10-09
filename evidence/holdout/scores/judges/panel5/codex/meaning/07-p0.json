@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 2,
+    "4": 3
+  },
+  "reason": "Version 1 preserves the original most closely; version 3 drops the thanks and specifies replying by email, while version 4 drops both the thanks and the invitation for questions. Version 2 adds a broader commitment to help with anything else that comes up, beyond the original invitation to ask questions.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "C",
+    "3": "B3",
+    "4": "A"
+  }
+}

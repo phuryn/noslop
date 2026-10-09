@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 4,
+    "4": 2
+  },
+  "send": "2",
+  "tells": {
+    "1": "Empty setup line (\"The consequences are significant\") ahead of a perfectly parallel bold claim-then-explanation list.",
+    "2": "none",
+    "3": "Bold claim-then-gloss bullets mixed with a borrowed casual header, plus a broken comma in the metrics note.",
+    "4": "Slightly unnatural paraphrase (\"has coordinators handle\") after the impacts were smoothed into evenly weighted sentences."
+  },
+  "reason": "Version 2 is the draft a careful PM would ship: the goals stay precise, the costs stay scannable, and the plainer voice avoids the filler lead-in and bold-bullet template. Version 4 is close, but the smoothed paragraph and off idiom are less natural for a PRD.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "track2/B3-int",
+    "3": "B3",
+    "4": "track2/A-int"
+  }
+}

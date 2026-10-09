@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 4,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "Uses weaker clinical phrasing like 'can show changes' and a slightly dangling 'baseline to compare against.'",
+    "2": "Ends with a bare price point, making the final sentence feel clipped rather than naturally conclusive.",
+    "3": "Over-polished benefit copy: the em dash plus 'practical way to get a fuller picture' feels added.",
+    "4": "None"
+  },
+  "reason": "Version 4 sounds the most conversational and confident while still adding a clear benefit; it avoids the stilted clinical tone of 1 and the overwritten polish of 3.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "B3",
+    "3": "O",
+    "4": "track2/B3-int"
+  }
+}

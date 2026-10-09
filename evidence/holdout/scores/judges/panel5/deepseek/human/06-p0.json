@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 5,
+    "4": 1,
+    "5": 4
+  },
+  "send": "4",
+  "tells": {
+    "1": "Slightly stiff, list-like instructional phrasing and precise details without a distinct human voice.",
+    "2": "The conversational opener sounds human, but 'Before you start' appears after the brushing step, a sequencing slip that suggests AI stitching.",
+    "3": "The compatibility check is placed after the application instruction, creating a logical order problem typical of template/AI merging.",
+    "4": "None",
+    "5": "Same late compatibility check as 3, plus slightly formal 'compatible with your tent’s fabric' wording."
+  },
+  "reason": "Version 4 is the most publishable: it sequences the steps correctly, reads naturally and concisely, and avoids the order problems and stiff phrasing of the others.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "C",
+    "3": "A",
+    "4": "B5",
+    "5": "O"
+  }
+}

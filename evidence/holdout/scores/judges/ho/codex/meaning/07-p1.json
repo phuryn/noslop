@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 1,
+    "4": 5,
+    "5": 3
+  },
+  "reason": "Version 3 most closely preserves the facts, qualified refund timeline, and invitation for questions; version 2 slightly broadens that invitation, while version 5 explicitly attributes the charging to ParkWise. Version 1 omits the invitation for further questions, and version 4 makes the most changes, including an added promise to help and describing the refund as started rather than being processed.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B2",
+    "3": "B3",
+    "4": "C",
+    "5": "B"
+  }
+}

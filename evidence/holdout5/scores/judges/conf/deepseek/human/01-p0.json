@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 1,
+    "4": 7,
+    "5": 3,
+    "6": 5,
+    "7": 6
+  },
+  "send": "3",
+  "tells": {
+    "1": "Repetition of 'customers' and clichéd 'great patience and good humour' make it feel slightly templated.",
+    "2": "The polished rule-of-three list 'new equipment, new routines and new ways of working' and balanced benefit sentences are AI-like.",
+    "3": "Only a faint tell: the triple 'new equipment, new routines and new ways of working'; otherwise very natural.",
+    "4": "Redundant opener ('surprised us. It's bigger than we expected') and formulaic 'At a site this size, that counts'.",
+    "5": "Overly clipped phrasing like 'A machine doesn't do that alone' and 'The results are down to you' reads like over-edited copy.",
+    "6": "Formal, slightly stiff phrasing and triadic repetition ('new equipment, new routines and new ways of working').",
+    "7": "Colon-led list and polished generic close ('recognise the progress we've made') feel AI-smoothed."
+  },
+  "reason": "Version 3 reads most like a skilled human wrote it: it is concrete, warm and conversational, while avoiding the over-polished three-part rhythm of the others. It is the one I would publish.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "O",
+    "3": "C",
+    "4": "V6A",
+    "5": "A",
+    "6": "B5",
+    "7": "V6C"
+  }
+}

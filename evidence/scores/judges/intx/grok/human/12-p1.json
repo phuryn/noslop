@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 5,
+    "3": 1,
+    "4": 2,
+    "5": 3
+  },
+  "send": "3",
+  "tells": {
+    "1": "Blurb, not a talk: unnamed 'the speaker' and a bio that only restates the abstract.",
+    "2": "Stock abstract voice: 'This talk explores,' 'might otherwise go unnoticed,' and 'practical considerations.'",
+    "3": "Mild template close ('what worked, what didn't') and a stock appositive bio with no name.",
+    "4": "none",
+    "5": "Staged specificity—extra stats, a named anecdote, a different speaker, and a 'You'll leave knowing' promise."
+  },
+  "reason": "Version 3 sounds like a practitioner addressing peers and stays within the shared facts, so it is the one I would send. Version 4 is plainly human but too rough to publish; 5 performs color, and 1 and 2 read like compressed or generic AI blurbs.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "O",
+    "3": "C",
+    "4": "E",
+    "5": "track2/B5-int"
+  }
+}

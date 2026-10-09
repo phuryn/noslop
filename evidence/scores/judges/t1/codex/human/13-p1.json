@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 4,
+    "4": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "The consistently conversational headings and phrases such as 'How they do' feel deliberately informal, occasionally sacrificing precision.",
+    "2": "Some stock corporate language remains, especially 'full brand experience' and 'stronger potential returns on incremental investment.'",
+    "3": "Repeated 'Mitigation:' labels, abstract headings, and noun-heavy phrasing give it the strongest template feel.",
+    "4": "Plainspoken rationale sits awkwardly alongside mechanical 'Mitigation:' labels and phrases such as 'capture customers.'"
+  },
+  "reason": "Version 2 best balances direct language, professional tone, and clear responsibility; version 1 sounds more personal but sometimes too casual for the purpose. These are stylistic judgments, not evidence of authorship; every version also needs its decision timeline reconciled with the October date.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "O",
+    "4": "B"
+  }
+}

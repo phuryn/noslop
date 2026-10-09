@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 3,
+    "5": 5
+  },
+  "reason": "All five preserve the bug, its fixed status, the refund in progress, and the qualified 5-business-day timeframe. Versions 1 and 2 stay closest; version 4 adds explicit responsibility for charging and fixing, version 3 adds a broader promise to help, and version 5 drops the invitation for further questions entirely.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "B2",
+    "3": "C",
+    "4": "B",
+    "5": "A"
+  }
+}

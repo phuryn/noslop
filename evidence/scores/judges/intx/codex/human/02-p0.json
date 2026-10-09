@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 2,
+    "3": 3,
+    "4": 1,
+    "5": 4
+  },
+  "send": "4",
+  "tells": {
+    "1": "none",
+    "2": "The generic closing phrase 'where we might fit' feels templated, though it is common in human sales writing too.",
+    "3": "The stacked specificity, capacity limitation and failure anecdote feel deliberately engineered to signal authenticity.",
+    "4": "none",
+    "5": "The consecutive 'Could we' and 'Would you' questions give the close a formulaic cadence."
+  },
+  "reason": "Version 4 is clear, conversational and economical, with a credible performance claim and an easy next step. Version 3 adds substantive claims absent from the others and distracts from the offer; version 1's roughness reads as poor editing rather than skilled human writing.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "track2/A-int",
+    "3": "track2/B5-int",
+    "4": "C",
+    "5": "O"
+  }
+}

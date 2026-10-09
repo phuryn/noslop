@@ -1,0 +1,11 @@
+{
+  "send": "3",
+  "reason": "Version 3 keeps every fact: the December 1 increase from $119 to $135, current members staying at $119 until March 1, Sunday evening classes for more options, class times coming soon, and replying with questions. It also keeps my plain, warm tone without adding claims like Version 4's 'starting soon' or Version 1's 'On a happier note.'",
+  "label_to_arm": {
+    "1": "C",
+    "2": "track2/A-int",
+    "3": "track2/B5-int",
+    "4": "E"
+  },
+  "picked_arm": "track2/B5-int"
+}

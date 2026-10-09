@@ -1,0 +1,13 @@
+{
+  "send": "1",
+  "reason": "It keeps every fact and commitment: HSE Part I, planning the dive properly, the supervisor's call never being overridden, 28/28 from Aberdeen, no contact on leave, £95k+ for experience, and talking over CVs. It also keeps the bold header and the plain, direct tone. Version 4 is identical. Versions 2 and 6 drop 'properly' from planning, 3 narrows 'conditions' to weather and adds a claim, and 5 changes the meaning and invites CVs.",
+  "label_to_arm": {
+    "1": "V6A",
+    "2": "A",
+    "3": "C",
+    "4": "V6C",
+    "5": "E",
+    "6": "B5"
+  },
+  "picked_arm": "V6A"
+}

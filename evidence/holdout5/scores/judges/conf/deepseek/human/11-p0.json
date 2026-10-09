@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 7,
+    "4": 1,
+    "5": 3,
+    "6": 6,
+    "7": 5
+  },
+  "send": "4",
+  "tells": {
+    "1": "Neatly stacked triad ('the screens, the P&L, or the 7 a.m. dread') and a tidy money/tea payoff.",
+    "2": "Compressed epiphany ending ('no longer waiting for my life to start') is a little too tidy.",
+    "3": "No AI tell; reads as an unpolished human draft with run-ons and garbled time reference.",
+    "4": "None—the paragraph break and 'when I got there' keep it natural despite a polished arc.",
+    "5": "Slightly redundant setting phrase and casual 'last pin go' feel less precise than the context warrants.",
+    "6": "Stilted opener 'It happened on...' and inverted 'thanked me like that in the City'.",
+    "7": "Identical to 1; same polished triad and closure, and the duplication itself is a tell."
+  },
+  "reason": "Version 4 is the clearest and most credible, balancing concrete detail with a natural reflective pause; version 3 is too garbled. Versions 1 and 7 are identical, so I ranked 7 just below 1.",
+  "label_to_arm": {
+    "1": "V6C",
+    "2": "A",
+    "3": "E",
+    "4": "B5",
+    "5": "C",
+    "6": "O",
+    "7": "V6A"
+  }
+}

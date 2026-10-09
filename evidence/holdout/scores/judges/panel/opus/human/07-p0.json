@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 1,
+    "3": 2,
+    "4": 3
+  },
+  "send": "3",
+  "tells": {
+    "1": "Stock closing line ('Thanks for your patience, and please let us know if you have any other questions') and passive 'is being processed' read as a template",
+    "2": "none",
+    "3": "none",
+    "4": "none; it just ends abruptly with no offer of further help"
+  },
+  "reason": "Version 3 states the apology, cause, fix and refund timeline concisely and closes with a specific next step ('just reply to this email') without filler. Version 2 sounds the most natural but is slightly gushier, Version 4 feels curt without a closing line, and Version 1 leans on boilerplate phrasing.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "C",
+    "3": "B3",
+    "4": "A"
+  }
+}

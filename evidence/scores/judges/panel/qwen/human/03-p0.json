@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 3,
+    "3": 4,
+    "4": 1,
+    "5": 2
+  },
+  "send": "4",
+  "tells": {
+    "1": "none",
+    "2": "formulaic bold label-plus-explanation bullets and the slightly awkward 'Releases October 14'",
+    "3": "forced conversational rhetorical question and colloquial filler",
+    "4": "none",
+    "5": "highly templated bold labels and boilerplate 'Fixed a bug' phrasing"
+  },
+  "reason": "Version 4 reads like a careful human editor: concise, clear, and professional without sounding templated or overly chatty. Version 5 is publishable but feels a little more mechanically polished.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "B3",
+    "3": "C",
+    "4": "A",
+    "5": "O"
+  }
+}

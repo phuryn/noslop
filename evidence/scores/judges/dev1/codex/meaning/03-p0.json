@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 4,
+    "4": 3
+  },
+  "reason": "Version 2 preserves the substantive claims most exactly; version 1 closely follows, while version 4 slightly narrows “multiple” to “several.” Version 3 adds the unsupported detail that invoices previously required opening individually and strengthens “sooner” to “much sooner.”",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "C",
+    "4": "B5"
+  }
+}

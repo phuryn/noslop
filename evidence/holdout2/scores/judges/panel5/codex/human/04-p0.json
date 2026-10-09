@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 1,
+    "3": 2,
+    "4": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "The closing phrase adds formulaic praise and explains the significance of an already clear result.",
+    "2": "none",
+    "3": "none",
+    "4": "The final sentence feels tacked on: generic praise without supporting detail."
+  },
+  "reason": "Version 2 gives the problem, intervention and outcome directly, letting the audit result carry the credibility. Version 3 is close, but slightly wordier; these are stylistic judgments, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B3",
+    "3": "A",
+    "4": "B5"
+  }
+}

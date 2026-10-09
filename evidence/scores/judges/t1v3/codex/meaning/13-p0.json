@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 1,
+    "4": 4
+  },
+  "reason": "Version 3 preserves the original’s substantive claims and qualifications most closely; version 2 slightly strengthens proposed mitigations into “we will” commitments. Version 1 turns potential investment returns into expected outperformance, while version 4 does the same and also drops the explicit claims that mall decline is structural and Denver and online are where the brand performs best.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B3",
+    "4": "B"
+  }
+}

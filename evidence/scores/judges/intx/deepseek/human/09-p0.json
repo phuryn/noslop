@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 4,
+    "4": 3,
+    "5": 5
+  },
+  "send": "2",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "Canned corporate empathy phrases like 'That's not the experience we want you to have' and a formulaic apology closing.",
+    "4": "Canned phrase 'That's not the experience we want you to have' and the empathy is placed awkwardly after the resolution.",
+    "5": "Stiff, repetitive wording and passive phrasing, such as repeating 'Pedalpath Metro 2' and 'as soon as your battery has been sent.'"
+  },
+  "reason": "Version 2 sounds the most like a real, skilled support writer: warm, direct, and unscripted, while still covering the warranty, replacement, and tracking. It is clear and credible without clichéd empathy or stiffness.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "C",
+    "3": "O",
+    "4": "track2/B5-int",
+    "5": "E"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "dropped": [
+    {
+      "item": "'and an anniversary to celebrate' in 1/6, an early mention of the anniversary celebration",
+      "severity": "minor"
+    },
+    {
+      "item": "'Now we have two floors' in 3/6, a restatement of growth that is already in 1/6",
+      "severity": "minor"
+    },
+    {
+      "item": "In 6/6, the call to action no longer names what is being celebrated ('10 years of The Tidewater Bookshop'), though context makes it clear",
+      "severity": "minor"
+    }
+  ],
+  "changed": [],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

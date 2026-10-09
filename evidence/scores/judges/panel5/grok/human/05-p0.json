@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 6,
+    "6": 1
+  },
+  "send": "2",
+  "tells": {
+    "1": "\"This causes four problems,\" then four same-shaped bullets in contraction-free prose.",
+    "2": "Four bold bullets still lock into the same claim-then-explanation rhythm.",
+    "3": "The problem list and goals keep the same even, parallel template as the other rewrites.",
+    "4": "Bold claim-plus-explanation repeated four times inside a perfectly symmetrical outline.",
+    "5": "\"The consequences are significant\" is a stock transition into evenly balanced formal bullets.",
+    "6": "none"
+  },
+  "reason": "Version 6 is the only one that sounds like a person still drafting: a typo, repeated \"a number of,\" and sections that stop mid-thought. The others sand the same outline into parallel PRD prose; I would send 2 because it stays complete and natural, and it treats the 30-minute target as something to test rather than assume.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "B5",
+    "4": "B3",
+    "5": "O",
+    "6": "E"
+  }
+}

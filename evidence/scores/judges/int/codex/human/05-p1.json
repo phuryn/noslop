@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "“Agencies pay for it” and missed visits “hit clients” feel like forced conversational edits in otherwise measured professional prose.",
+    "3": "“The consequences are significant” adds generic emphasis without information; “There is currently no system that” adds unnecessary padding.",
+    "4": "The consequences paragraph reads like bullets mechanically joined together, retaining their repetitive structure while losing scanability."
+  },
+  "reason": "Version 1 best combines direct language, professional tone, and useful scanning structure; these stylistic differences cannot establish AI authorship. Before sending, I would fix the shared definition that counts escalation as completed rescheduling and scope the unsupported “No system” claim to Sunrise’s current workflow.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "track2/B3-int",
+    "3": "O",
+    "4": "track2/A-int"
+  }
+}

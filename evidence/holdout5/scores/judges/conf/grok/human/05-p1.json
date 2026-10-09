@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 6,
+    "2": 2,
+    "3": 7,
+    "4": 5,
+    "5": 3,
+    "6": 4,
+    "7": 1
+  },
+  "send": "7",
+  "tells": {
+    "1": "Emoji bookends, bold date bullets, and the cutesy 'feeling stuck?' closer — a stock LLM Slack template.",
+    "2": "Over-even one-fact-per-paragraph scaffolding and a generic sign-off, with little personal voice.",
+    "3": "Same wave-and-raise-hands bold-bullet template as a near-duplicate, plus a vaguer opener that never says it's a change.",
+    "4": "👋/🙌 frame around perfectly parallel bold date bullets.",
+    "5": "Voiceless dash checklist: imperative lines and no sign-off, like a template with the warmth trimmed off.",
+    "6": "none",
+    "7": "none"
+  },
+  "reason": "Version 7 is what I'd send: dates are easy to catch, the training line is tied to the switch, and 'we'll sort it out' / 'Thanks, all!' sound like a teammate rather than a generated announcement. The emoji-and-bold-bullet posts share one AI template, while 6 is plainly human but too rambling for Slack.",
+  "label_to_arm": {
+    "1": "V6C",
+    "2": "B5",
+    "3": "V6A",
+    "4": "O",
+    "5": "A",
+    "6": "E",
+    "7": "C"
+  }
+}

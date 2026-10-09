@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "Version 1 keeps every fact and nuance and changes only punctuation. Versions 2 and 3 are word-for-word identical; both slightly loosen the link between the job and next summer's payoff ('a small job now, and it gives us' instead of 'a small job now that gives us'), so the 2/3 order is arbitrary only because ties aren't allowed.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "track2/B3-int",
+    "3": "B3"
+  }
+}

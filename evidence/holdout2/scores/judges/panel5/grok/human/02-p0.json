@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Stock empathy list of how the outage might have been used: work, keep in touch or relax",
+    "3": "Same generic use-case list, plus a redundant second apology in the close",
+    "4": "none"
+  },
+  "reason": "Version 1 apologises plainly, states the facts and the credit, and closes without inventing how people spent the outage. Versions 2 and 3 add that stock empathy list, and 3 apologises again at the end.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B5",
+    "3": "O",
+    "4": "B3"
+  }
+}

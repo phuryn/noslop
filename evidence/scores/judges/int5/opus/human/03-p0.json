@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2,
+    "4": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "The tacked-on 'Before, they didn't.' is a redundant explanation of what was fixed.",
+    "3": "none, though the repeated 'now' is slightly less tight than version 1",
+    "4": "Every bullet opens with a bolded label and colon, which is a templated AI pattern."
+  },
+  "reason": "Version 1 is the tightest: it says 'hourly' and drops the repeated 'now', and it uses plain headings with no padding. Version 3 is nearly identical, version 2's fix line is clumsy, and version 4 is over-formatted.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "B5",
+    "3": "track2/B5-int",
+    "4": "O"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 4,
+    "4": 1,
+    "5": 5
+  },
+  "send": "4",
+  "tells": {
+    "1": "Polished, balanced reflective structure with a slightly generic 'Some lessons... others...' contrast that feels template-like.",
+    "2": "Staccato sentence fragments and idiomatic phrasing can read as deliberately humanizing, but the opening fragment is a bit performative.",
+    "3": "Nearly identical to version 1, with a smoother but formulaic 'found myself doing' opening and tidy semicolon rhythm.",
+    "4": "none",
+    "5": "Generic summary with clichéd 'bang or with a whimper,' repeated 'I had had,' and no concrete detail."
+  },
+  "reason": "Version 4 grounds the reflection in specific, credible details and a more honest mixed emotion, making it feel most like a skilled human essay; I would send that one.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "C",
+    "3": "O",
+    "4": "track2/B5-int",
+    "5": "E"
+  }
+}

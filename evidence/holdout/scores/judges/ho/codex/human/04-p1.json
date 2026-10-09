@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 3,
+    "4": 1,
+    "5": 5,
+    "6": 6
+  },
+  "send": "4",
+  "tells": {
+    "1": "none",
+    "2": "Stacked reassurance ('you're not alone' and 'Most of us are in the same boat') and a welcome awkwardly placed at the end.",
+    "3": "The closing 'Wherever you are with your winter preparations' feels formulaic and adds little to the invitation.",
+    "4": "none",
+    "5": "Generic warmth ('We're glad to have you along') adds padding, while 'we're turning to helping' sounds mechanically revised.",
+    "6": "Accumulated conversational padding, a stock opening idiom, and an overworked closing make the friendliness feel constructed."
+  },
+  "reason": "Version 4 has the best balance of warmth, directness and practical information; its workshop invitation sounds particularly natural. These are editorial judgments about how the prose reads, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "B",
+    "2": "C",
+    "3": "B2",
+    "4": "A",
+    "5": "B3",
+    "6": "O"
+  }
+}

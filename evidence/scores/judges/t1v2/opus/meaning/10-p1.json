@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 4,
+    "4": 1
+  },
+  "reason": "Version 4 keeps every fact and the classes' purpose ('to give you more options'). Versions 2 and 1 drop that purpose, and 1 also narrows 'the change' to 'the price change'. Version 3 keeps the facts but adds 'we'll be glad to help', 'you don't have to pay the new price right away', a 'happier note' framing and a reworded subject.",
+  "label_to_arm": {
+    "1": "B",
+    "2": "A",
+    "3": "C",
+    "4": "B2"
+  }
+}

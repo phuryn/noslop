@@ -1,0 +1,11 @@
+{
+  "send": "1",
+  "reason": "It keeps the same facts and direct tone: 15-minute sync instead of hourly, bulk invoice updates, and the PDF currency-symbol fix. The others add casual wording, intensifiers, or small phrasing shifts.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "E",
+    "3": "B5",
+    "4": "C"
+  },
+  "picked_arm": "A"
+}

@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 1,
+    "3": 4,
+    "4": 2,
+    "5": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "Over-explained and generic enthusiastic filler like \"Yes\" and \"It's that simple\"",
+    "2": "none",
+    "3": "Overly neat clipped phrase pairs and formulaic parallel fragments",
+    "4": "none",
+    "5": "Abrupt social-proof insert with specific numbers and testimonial details"
+  },
+  "reason": "Version 2 is the most concise, natural, and human-sounding, with a clear emotional benefit and no filler. It avoids the clunkiness of v1, the formulaic polish of v3, and the abrupt proof-dumping of v5.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "track2/A-int",
+    "3": "O",
+    "4": "C",
+    "5": "track2/B5-int"
+  }
+}

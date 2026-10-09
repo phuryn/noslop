@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 5,
+    "3": 1,
+    "4": 3,
+    "5": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none; the bold-lead-in bullet pattern is a mild template feel at most",
+    "2": "Filler intro 'The consequences are significant:' plus a trailing participial clause ('…effort, informing the decision on broader rollout')",
+    "3": "none; slightly casual phrasing ('matters a lot', 'Keep match quality up') but it reads human",
+    "4": "Enumerated framing 'This causes four problems:' and heavier H3 scaffolding",
+    "5": "Counted setup line 'This hurts in four ways:'"
+  },
+  "reason": "Version 3 sounds most like a person talking, but its casual register is a bit loose for a PRD. Version 1 keeps the same content in a tight, credible voice with no filler or counted setups, so it's the one I'd send.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "O",
+    "3": "C",
+    "4": "A",
+    "5": "B"
+  }
+}

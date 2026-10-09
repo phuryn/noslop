@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 4,
+    "4": 1
+  },
+  "reason": "Version 4 stays closest to the original, only omitting the final 'practical/fuller picture' clause. Version 1 is next despite dropping 'other health markers'; Version 2 loses the vaccine contrast and final benefit, while Version 3 omits baseline tracking and the 'before symptoms' timing.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "E",
+    "4": "B3"
+  }
+}

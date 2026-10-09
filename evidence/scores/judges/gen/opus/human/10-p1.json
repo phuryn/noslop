@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+  },
+  "send": "2",
+  "tells": {
+    "1": "none (its flaws are human ones: the opening 'These classes' refers to nothing yet, there's a comma splice after 'don't worry', and the order is jumbled)",
+    "2": "the stock closer 'If you have questions about the change, just reply to this email' is a bit formulaic, but otherwise none",
+    "3": "the filler benefit line 'so you'll have more options during the week', which is odd for a Sunday class, plus the generic 'part of our community'",
+    "4": "uniform polish and stock phrasing throughout: 'to give you more options during the week', 'Thank you for being part of our community', 'any questions'"
+  },
+  "reason": "Version 1 reads most human but is confusing: it opens with an unclear reference and buries the grandfathering terms. Version 2 states the price, date, grandfathering and new classes plainly with no filler, so it's the clearest and most credible to send.",
+  "label_to_arm": {
+    "1": "gen/E-write",
+    "2": "A",
+    "3": "B3",
+    "4": "O"
+  }
+}

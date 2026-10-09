@@ -1,0 +1,14 @@
+{
+  "id": 14,
+  "asked": true,
+  "n_questions": 5,
+  "answer_share": 0.26,
+  "recall_yes": 3,
+  "recall_partial": 0,
+  "hidden_total": 7,
+  "invented_specifics": [
+    "the neighbors who keep reading it"
+  ],
+  "meaning_preserved": 4,
+  "major": []
+}

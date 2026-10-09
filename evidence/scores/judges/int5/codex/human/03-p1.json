@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "“Before, they didn't” redundantly explains the fix and feels like a forced attempt at conversational writing.",
+    "4": "The bold label on every bullet feels formulaic for such a short release, though it's also a common human formatting choice."
+  },
+  "reason": "Version 1 is concise, clear, and appropriately understated for release notes; version 2 is nearly indistinguishable in quality. Version 4 adds unnecessary formatting, while version 3 adds an awkward explanation; neither establishes AI authorship.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "track2/B5-int",
+    "3": "B5",
+    "4": "O"
+  }
+}

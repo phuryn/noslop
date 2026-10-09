@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none; the 'so £18k cheaper' restating the subtraction is the only slightly over-explained touch",
+    "2": "the stock hedge 'Unless you see a reason not to' plus a dangling 'Thanks,' with no name, which reads like a filled template",
+    "3": "templated 'Options:' header with bullets and a parenthetical savings callout, which is over-structured for a two-item Slack ask",
+    "4": "bullet-pointing a two-option comparison in a short Slack message, paired with the formulaic 'Unless you see a reason not to' hedge"
+  },
+  "reason": "Version 1 leads with the recommendation, gives the numbers and deadline, and makes the reply easy, all in the compact, unformatted way a colleague actually writes in Slack. The bulleted versions (3, 4) feel more templated for such a short decision request.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "O",
+    "4": "B3"
+  }
+}

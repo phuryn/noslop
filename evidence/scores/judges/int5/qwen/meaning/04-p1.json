@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "Version 1 stays nearly verbatim and preserves all facts and nuances. Version 2 has some rephrasing but keeps the key details, including 'separate' and 'a few ideas,' while Version 3 shifts 'separate' to 'break' and 'a few' to 'some,' slightly altering nuance.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "track2/B5-int",
+    "3": "B5"
+  }
+}

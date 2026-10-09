@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1
+  },
+  "reason": "Version 3 keeps every fact, including the team's commitment to high food safety standards, though it drops 'a clear result' and softens 'need' to 'wanted'. Version 1 drops the food-safety commitment line, and Version 2 also drops it and loses 'came to us', the detail that Ashby Mill approached the company.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "B5"
+  }
+}

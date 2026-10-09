@@ -1,0 +1,11 @@
+{
+  "send": "3",
+  "reason": "It stays closest to the original wording and facts, with only minor formatting changes, so it preserves the intended meaning and tone without altering any commitments.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "E",
+    "3": "track2/A-int",
+    "4": "C"
+  },
+  "picked_arm": "track2/A-int"
+}

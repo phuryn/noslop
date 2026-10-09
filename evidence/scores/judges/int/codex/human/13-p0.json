@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 3,
+    "3": 2,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "Uniform claim-and-explanation bullets and repeated 'Mitigation:' labels give it a template-driven feel.",
+    "2": "Conversational substitutions such as 'take a lot of capital and labor' feel grafted onto an otherwise unchanged corporate template.",
+    "3": "Repeated 'We will' sentences create a mechanical rhythm and turn proposed mitigations into apparent commitments.",
+    "4": "'Declining structurally' sounds awkwardly edited, while the repeated 'Mitigation:' labels retain some template residue."
+  },
+  "reason": "Version 4 removes redundant setup sentences, preserves appropriate uncertainty about returns, and gives clear action assignments. These are stylistic judgments, not reliable evidence of authorship; every version still needs financial support and actual decision deadlines before sending.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B3",
+    "3": "track2/A-int",
+    "4": "track2/B3-int"
+  }
+}

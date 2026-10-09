@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "Version 1 matches the original in facts, order, numbers, and caveats. Version 2 keeps those commitments with only minor rewording and a harmless reorder of the compatibility check, while version 3 adds “easy fix,” swaps in unstated methods, softens the 50°F requirement to “try to,” and narrows the leak check to drips.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "C"
+  }
+}

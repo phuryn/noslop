@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 3,
+    "3": 1,
+    "4": 2,
+    "5": 5
+  },
+  "send": "3",
+  "tells": {
+    "1": "Strings of clipped short sentences ('I straightened... I checked... I wiped') and a run-on opening fragment create a forced casualness. It reads like a humanizer pass rather than natural voice.",
+    "2": "The colon-introduced triad of actions plus a semicolon-balanced sentence gives it a slightly templated, polished cadence.",
+    "3": "none",
+    "4": "The compressed contrast 'a date on the calendar, never as a way of leaving the room' is a tidy aphoristic 'X, never Y' turn that feels engineered.",
+    "5": "'I found myself doing the usual things:' followed by a gerund triad and a semicolon pairing is a stock AI reflective construction, and curly quotes suggest generated text."
+  },
+  "reason": "Version 3 is clean, direct and unforced, letting the details carry the emotion without stylistic flourishes. The others either over-polish with colon and semicolon structures and an aphoristic contrast, or overcorrect into choppy, artificially casual rhythm.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B3",
+    "4": "B",
+    "5": "O"
+  }
+}

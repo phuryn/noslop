@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 5,
+    "4": 4,
+    "5": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "none",
+    "2": "Mildly formulaic parallel phrasing in the consequences list, though it suits a PRD.",
+    "3": "Generic emphasis such as “The consequences are significant,” plus abstract phrasing like “Give coordinators visibility.”",
+    "4": "“What this costs” feels like a cosmetic conversational touch over otherwise standardized prose.",
+    "5": "“This causes four problems” mechanically announces the list; several bullets retain stock business phrasing."
+  },
+  "reason": "Version 1 has the most natural voice; version 2 is the strongest publishing choice for its direct prose, useful headings, and explicit requirements. These are stylistic judgments, not reliable evidence of AI authorship, and every version needs the same substantive correction: escalation should not count as successful rescheduling.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B5",
+    "3": "O",
+    "4": "B3",
+    "5": "A"
+  }
+}

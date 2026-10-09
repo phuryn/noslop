@@ -1,0 +1,11 @@
+{
+  "send": "4",
+  "reason": "It keeps every fact and offer (5.2%, 330ml cans, £1.65 wholesale, a trial across six sites, samples sent) with only light edits, so it still sounds like me. Version 1 changes 'send' to 'bring', version 2 adds 'crisp', and version 3 makes the trial ask pushier.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "C",
+    "3": "B5",
+    "4": "A"
+  },
+  "picked_arm": "A"
+}

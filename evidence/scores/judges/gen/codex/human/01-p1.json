@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 4,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "Formulaic LinkedIn structure: headline metric, three benefits, broad lesson, advice, engagement question.",
+    "2": "The stock takeaway about 'meeting patients where they already are' feels inserted to give a practical update a larger lesson.",
+    "3": "The opening question immediately answered with 'Yes' feels canned; repeated pride adds filler.",
+    "4": "The generic closing engagement question feels tacked on."
+  },
+  "reason": "Version 4 is direct, specific, and restrained enough to sound like a professional sharing a useful result. Version 3 may sound spontaneous, but its repetition and awkward phrasing weaken it as skilled writing; these judgments concern style, not proof of AI authorship.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B3",
+    "3": "gen/E-write",
+    "4": "A"
+  }
+}

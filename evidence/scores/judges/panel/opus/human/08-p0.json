@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 2,
+    "3": 4,
+    "4": 3,
+    "5": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "Em dashes plus a promotional closer ('a practical way to get a fuller picture... make the most of their yearly checkup')",
+    "2": "Tidy closer 'a simple way to get the full picture', a stock marketing phrase",
+    "3": "Over-compressed and clipped, with a bare price line at the end",
+    "4": "Clean three-beat structure ('helps guide care as your dog ages') that feels slightly templated",
+    "5": "none"
+  },
+  "reason": "Version 5 reads like real clinic copy: it's a bit clunky and wordy ('highly beneficial', 'his vaccines'), so it's the most human but not the most polished. Version 4 keeps the same content in clear, credible language without the salesy filler of 1 and 2, so it's the one I'd publish.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "C",
+    "3": "A",
+    "4": "B3",
+    "5": "E"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "Version 1 preserves all key facts and nuances without adding new implications, while Version 2 adds 'too' and Version 3 omits the original purpose of giving more options during the week.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "track2/B3-int",
+    "3": "track2/A-int"
+  }
+}

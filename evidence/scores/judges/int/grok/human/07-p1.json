@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 1,
+    "4": 3
+  },
+  "send": "3",
+  "tells": {
+    "1": "Stock 'the remaining piece' label in an overly tidy two-clause balance.",
+    "2": "Three clipped sentences, especially the inverted 'The remaining piece is'.",
+    "3": "none",
+    "4": "Comma-and glues the leftover work and the date into one slightly artificial sentence."
+  },
+  "reason": "Version 3 is the one I'd post: 'with only... left' sounds like a person giving a quick status, while the others lean on the stiffer 'remaining piece' formula or chop the update into template sentences.",
+  "label_to_arm": {
+    "1": "track2/B3-int",
+    "2": "O",
+    "3": "track2/A-int",
+    "4": "B3"
+  }
+}

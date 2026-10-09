@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 4,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "none",
+    "4": "none"
+  },
+  "reason": "Version 4 reads most like a skilled human newsletter: the comma after 'This week,' the em-dash aside, and 'Then comes...' give it a natural cadence. No glaring AI tell; 1 and 3 are identical and slightly flatter, so I ranked 1 above 3 only by label order.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "track2/A-int",
+    "3": "track2/B3-int",
+    "4": "O"
+  }
+}

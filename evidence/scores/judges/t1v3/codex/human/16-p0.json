@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 5,
+    "3": 3,
+    "4": 1,
+    "5": 4
+  },
+  "send": "4",
+  "tells": {
+    "1": "none",
+    "2": "Repeated short sentences and conspicuously casual phrasing make the voice feel deliberately engineered to sound natural.",
+    "3": "“I found myself doing” adds a familiar, slightly formulaic reflective frame.",
+    "4": "none",
+    "5": "“Never as a way of leaving the room” feels fashioned into an aphorism, sacrificing some naturalness and precision."
+  },
+  "reason": "Version 4 lets concrete actions carry the emotion, with an understated voice and balanced rhythm; version 1 is a close second. These are editorial judgments about how the prose reads, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "O",
+    "4": "B3",
+    "5": "B"
+  }
+}

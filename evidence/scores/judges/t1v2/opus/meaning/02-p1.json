@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 3,
+    "4": 2
+  },
+  "reason": "Version 1 keeps every fact and the tentative offer, only turning the meeting question into a statement. Version 4 stays conditional but adds 'anywhere' and 'occasional'; Version 3 asserts 'could cover' and changes 'where we might fit' to 'whether that fits'; Version 2 turns the question into a firm commitment ('We can cover').",
+  "label_to_arm": {
+    "1": "B2",
+    "2": "B",
+    "3": "A",
+    "4": "C"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "dropped": [],
+  "changed": [
+    {
+      "item": "Condition 'If it's cloudy' became 'If the clouds roll in', which slightly suggests clouds arriving during the event rather than it simply being cloudy",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 6,
+    "2": 5,
+    "3": 4,
+    "4": 2,
+    "5": 1,
+    "6": 3
+  },
+  "send": "4",
+  "tells": {
+    "1": "The compatibility check is tacked on after the application step ('before applying it'), which reads like a stitched-in caveat. The typographic curly apostrophe is a slight polish signal.",
+    "2": "Same as 1: the 'check compatibility before applying it' caveat is inserted after the application step instead of in sequence.",
+    "3": "The compatibility check comes before removing old sealer, which breaks the natural workflow. Otherwise the prose is uniformly smooth and template-like.",
+    "4": "none",
+    "5": "The 'Got a leaky tent seam? It's an easy fix.' hook is a stock conversational opener. 'Before you start' appears after the application step, which contradicts itself.",
+    "6": "Slightly over-signposted sequencing ('Before you apply... Then spread...'), but no strong tell."
+  },
+  "reason": "Version 4 puts the steps in the order you'd actually do them (clean, peel, check compatibility, apply, cure, test) with no awkward caveats or filler. Version 5 sounds the most casual and human, but its 'before you start' misplacement hurts clarity in a how-to.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "A",
+    "3": "B3",
+    "4": "B",
+    "5": "C",
+    "6": "B2"
+  }
+}

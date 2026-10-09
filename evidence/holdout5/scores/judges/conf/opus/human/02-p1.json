@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 6,
+    "3": 4,
+    "4": 7,
+    "5": 1,
+    "6": 2,
+    "7": 5
+  },
+  "send": "5",
+  "tells": {
+    "1": "none; it is tight and plausible, if a bit generic",
+    "2": "Polished hedge opener ('I wanted to ask if you'd consider') plus 'at no cost', which reads smoothly but templated",
+    "3": "none; it reads human but unskilled (double greeting, missing question mark, 'mushroom (Mycelium)', stacked adjectives)",
+    "4": "Word-for-word identical to version 2, which suggests generated output; it also has the same templated hedge opener",
+    "5": "none; the casual phrasing ('hop on', 'see how they hold up') feels natural",
+    "6": "none; it is concise, though 'short call' and 'work for you' are a little stock",
+    "7": "Over-compressed, stilted phrasing ('Would Hearth & Wick try... its polystyrene packaging') that addresses the company instead of the person"
+  },
+  "reason": "Version 5 is brief and conversational, and it gives a concrete reason to accept the samples ('see how they hold up'), so it sounds like a real founder writing to a peer. Version 3 is clearly human but too sloppy to send, and versions 2 and 4 are identical, polished boilerplate.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "V6C",
+    "3": "E",
+    "4": "V6A",
+    "5": "C",
+    "6": "A",
+    "7": "B5"
+  }
+}

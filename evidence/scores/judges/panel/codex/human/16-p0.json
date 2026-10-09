@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 2,
+    "3": 1,
+    "4": 4,
+    "5": 3
+  },
+  "send": "3",
+  "tells": {
+    "1": "none",
+    "2": "The classroom ritual, retrospective lessons, and understated farewell form a slightly too neatly arranged emotional arc.",
+    "3": "none",
+    "4": "The repeated short sentences and conspicuously conversational phrasing feel like a deliberate effort to sound human.",
+    "5": "“I found myself doing the usual things” adds a familiar reflective-writing formula to an already carefully shaped scene."
+  },
+  "reason": "Version 3 has the strongest balance of concrete detail, natural rhythm, and restrained emotion; versions 2 and 5 are close but slightly more packaged. Version 4 feels rhythmically overworked, while version 1 reads like an unpolished draft; these are editorial judgments, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "A",
+    "3": "B3",
+    "4": "C",
+    "5": "O"
+  }
+}

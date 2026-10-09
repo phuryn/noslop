@@ -1,0 +1,33 @@
+{
+  "dropped": [
+    {
+      "item": "Framing that the change was simple ('The change was simple')",
+      "severity": "minor"
+    },
+    {
+      "item": "Statement that closing the no-show gap matters for both the practice and the people served",
+      "severity": "minor"
+    },
+    {
+      "item": "The author's personal lesson: the biggest operational wins can come from meeting people where they already are",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "'Phone calls were hit or miss' became 'Phone calls weren't working', which turns partial effectiveness into outright failure",
+      "severity": "minor"
+    },
+    {
+      "item": "'it's worth testing' became 'try texts', which drops the experimental, test-first framing",
+      "severity": "minor"
+    },
+    {
+      "item": "Closing question 'What's worked for you in reducing no-shows?' became 'How are you handling no-shows?', which shifts from asking what succeeded to asking about current practice",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

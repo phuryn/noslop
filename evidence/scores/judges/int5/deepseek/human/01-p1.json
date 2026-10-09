@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 4,
+    "3": 2,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "Tidy problem-solution-lesson structure with a polished aphorism like 'meeting people where they already are' and no concrete specifics.",
+    "2": "Over-structured LinkedIn formatting: 'Here's what that meant in practice:' plus bullet points and a generic engagement question.",
+    "3": "Compressed and frictionless, using the same generic takeaway without concrete data or anecdotes to ground it.",
+    "4": "none"
+  },
+  "reason": "Version 4 reads most human because it includes specific costs, staff names, exceptions, and honest doubts. I would send it because that specificity makes the result more credible and trustworthy.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "O",
+    "3": "track2/A-int",
+    "4": "track2/B5-int"
+  }
+}

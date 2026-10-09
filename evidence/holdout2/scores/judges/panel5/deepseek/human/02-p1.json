@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2,
+    "4": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "overly polished formulaic empathy list and double closing apology",
+    "3": "same three-activity empathy list embedded in a long sentence",
+    "4": "abrupt ending with no thank-you or closing courtesy"
+  },
+  "reason": "Version 1 is the most direct and credible: it apologizes, acknowledges impact, takes responsibility, and states the remedy without formulaic empathy or an abrupt ending.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "O",
+    "3": "B5",
+    "4": "B3"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+  },
+  "reason": "Version 1 preserves the section promises, dry-ingredient scope, $34 price, free US shipping, and cancel-anytime caveat, with only minor wording drift. Version 2 narrows “the good part” to stirring and baking and replaces “Less measuring. More making”; version 3 also drops “make room” and shifts the payoff to mixing; version 4 replaces slowing down and adds unsupported claims about a full box, baking something new every month, and suitability for any skill level.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B3",
+    "3": "A",
+    "4": "E"
+  }
+}

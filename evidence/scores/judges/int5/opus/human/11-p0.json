@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 1,
+    "3": 3,
+    "4": 2
+  },
+  "send": "2",
+  "tells": {
+    "1": "Bolded template labels ('What you'll do:', 'What we're after:', 'Pay:') plus the tidy triad 'real days off, nights that actually end, and a schedule you can plan a life around'",
+    "2": "none",
+    "3": "Trailing participial clause ('…train and coach cooks, keeping standards high without…') and a slightly stiff rewording ('so you can plan a life around the schedule')",
+    "4": "Polished rule-of-three ('real days off, nights that actually end, and a schedule you can plan a life around') and the generic 'Day to day,' opener"
+  },
+  "reason": "Version 2 has the details only an insider would know: six cooks, about 180 covers on Friday, whole-animal butchery, the last sous who stayed four years, Luis's path from dishwasher to the line, and 100% health coverage. That makes it the most credible and the most human. Before publishing, confirm 'four-day week' against the five-day Wednesday–Sunday schedule, and confirm all the added facts.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "track2/B5-int",
+    "3": "track2/A-int",
+    "4": "B5"
+  }
+}

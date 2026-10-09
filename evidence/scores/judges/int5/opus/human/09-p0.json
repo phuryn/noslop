@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Stock corporate line 'That's not the experience we want you to have' tacked onto the apology",
+    "3": "Over-trimmed to the point of curtness ('If you have questions, reply to this message'), like a mechanically compressed draft",
+    "4": "Stacked, redundant apologies and pleasantries ('I apologize for the wait'... 'again, my apologies for the inconvenience', 'Thank you for your patience'), plus the stock 'not the experience we want you to have' line"
+  },
+  "reason": "Version 1 is warm, concise and natural. It apologizes once for each problem and gives the fix clearly, with no filler. Version 2's resolution-first structure is also strong, but its boilerplate empathy line makes it slightly less personal.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "track2/B5-int",
+    "3": "track2/A-int",
+    "4": "O"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 3,
+    "4": 1
+  },
+  "send": "2",
+  "tells": {
+    "1": "The generic lead-in 'The consequences are significant:' plus bolded goal statements and bold-lead bullets. This is the most templated version.",
+    "2": "The signposted count 'This hurts in four ways:' introduces four neatly parallel bold-lead bullets. It's mild, but formulaic.",
+    "3": "The flat signposted count 'This causes four problems:' sits above perfectly parallel bullets, and the heading hierarchy is heavier than the content needs.",
+    "4": "Bold-lead bullet structure inherited from the others, plus a slightly forced conversational register ('The effects add up', 'Keep match quality up'). The register reads more like deliberate humanizing than PRD voice."
+  },
+  "reason": "Version 4 reads most like a person talking, but its casual tone undercuts a PRD's precision. Version 2 keeps the same content in a crisp, direct register with fewer stock phrases, so it's the most credible to send.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B",
+    "3": "A",
+    "4": "C"
+  }
+}

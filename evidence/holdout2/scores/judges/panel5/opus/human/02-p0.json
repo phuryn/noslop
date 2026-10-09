@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Stock closer 'Thank you for your patience', which thanks customers for something they had no choice about",
+    "3": "Rule-of-three list ('work, keep in touch or relax at home') and an inverted opener that sounds engineered",
+    "4": "Padding and redundancy: a triplet list, 'receive' instead of 'get', and a second apology tacked onto a stock patience closer"
+  },
+  "reason": "Version 1 apologises plainly, owns the failure, states the remedy, and stops, with no filler or formulaic sign-off. The others add stock phrases and lists that make the apology feel templated rather than sincere.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "B5",
+    "4": "O"
+  }
+}

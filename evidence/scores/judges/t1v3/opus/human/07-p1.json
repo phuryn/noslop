@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1,
+    "4": 5,
+    "5": 4
+  },
+  "send": "3",
+  "tells": {
+    "1": "none",
+    "2": "redundant 'target date' padding",
+    "3": "none",
+    "4": "choppy, evenly sized declarative sentences plus 'the remaining piece' and 'target date' phrasing",
+    "5": "formal 'is the remaining piece' inversion and 'target date' padding"
+  },
+  "reason": "Version 3 sounds like a person talking to teammates: it uses 'we' and plain phrasing, and 'the only big piece left' honestly signals that small items remain. Version 1 is also natural and tight, but the others add stiff padding like 'target date' or break into choppy report-style sentences.",
+  "label_to_arm": {
+    "1": "B",
+    "2": "A",
+    "3": "C",
+    "4": "O",
+    "5": "B3"
+  }
+}

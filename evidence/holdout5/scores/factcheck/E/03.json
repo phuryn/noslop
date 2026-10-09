@@ -1,0 +1,34 @@
+{
+  "dropped": [
+    {
+      "item": "The Tidekeepers is the FIRST expansion for Saltmarsh Trails (edit says only 'an expansion')",
+      "severity": "minor"
+    },
+    {
+      "item": "Description of the 40 new cards: fresh tools, new twists, and surprises that will change how usual strategies play out",
+      "severity": "minor"
+    },
+    {
+      "item": "Description of what a 5th player adds (more explorers, more crossings, competition over paths)",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "Preorder commitment: original says preorder copies will ship before anyone else's; edit says preorderers 'will be the first one to receive it', which shifts the promise from shipping order to delivery order",
+      "severity": "minor"
+    },
+    {
+      "item": "Call to action: original says the expansion goes live in the shop on October 21; edit says 'It opens on the 21st of October', which can read as the shop itself opening that day rather than the product launching",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "Urgency/scarcity implication: 'be quick about it!' suggests limited stock or time pressure, which the original does not state",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

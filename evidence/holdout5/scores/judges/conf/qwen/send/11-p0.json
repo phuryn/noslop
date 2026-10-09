@@ -1,0 +1,13 @@
+{
+  "send": "3",
+  "reason": "It keeps the key facts and emotional turn, including the first-time qualification at the end, while reading smoothly and closely to the original voice.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "V6A",
+    "4": "B5",
+    "5": "E",
+    "6": "V6C"
+  },
+  "picked_arm": "V6A"
+}

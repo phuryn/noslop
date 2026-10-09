@@ -1,0 +1,12 @@
+{
+  "dropped": [],
+  "changed": [
+    {
+      "item": "Subject line timing: the original says the expansion 'is here', implying it is available now. The edit says it 'lands October 21', a future date. This matches the body, but it changes the subject's framing.",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

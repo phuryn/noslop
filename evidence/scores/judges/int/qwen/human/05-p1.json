@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2,
+    "4": 4
+  },
+  "send": "2",
+  "tells": {
+    "1": "Generic framing like 'The consequences are significant' and overly polished corporate phrasing.",
+    "2": "none",
+    "3": "Bold lead-in bullets and familiar phrases like 'bear the cost' feel templated.",
+    "4": "Dense, flattened prose and awkward phrasing such as 'go without it or wait for it' make it feel summarized."
+  },
+  "reason": "Version 2 is the most natural and direct while remaining clear enough for a PRD. Version 3 is close, but its formatting and stock phrasing feel a little more manufactured.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "track2/B3-int",
+    "3": "B3",
+    "4": "track2/A-int"
+  }
+}

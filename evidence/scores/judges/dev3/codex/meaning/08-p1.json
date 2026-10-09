@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 1,
+    "4": 3
+  },
+  "reason": "Version 3 preserves nearly all the original meaning and caveats; version 1 drops the panel’s stated practical benefits, while version 4 also makes bloodwork an explicit recommendation and omits its role in guiding care. Version 2 changes the age threshold from after 7 to reaching 7, omits other health markers, and overstates a “fuller picture” as “the full picture.”",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "C",
+    "3": "B5",
+    "4": "A"
+  }
+}

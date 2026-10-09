@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 2,
+    "4": 5,
+    "5": 7,
+    "6": 3,
+    "7": 6
+  },
+  "send": "1",
+  "tells": {
+    "1": "The held-breath image and tea-versus-City payoff are a little schematic, but the committed ending and the and/or slip keep it from sounding generated.",
+    "2": "Filler opener 'It happened' plus repeated 'and' joins, then a hedged 'didn't feel like' landing.",
+    "3": "The reflection still arrives as a neat three-part list and moral, though 'fiddled', 'lugged' and 'said sorry' sound spoken.",
+    "4": "Stacked intensifiers ('thought once', 'none of the money', 'for the first time in a long while, I didn't feel like') create an over-smoothed cadence.",
+    "5": "none",
+    "6": "Even, cleaned-up rhythm and the stock 'plainly earned' / waiting-for-life close; less voice than the best versions.",
+    "7": "Identical to version 4: the same stacked intensifiers and hedged epiphany."
+  },
+  "reason": "Version 1 reads most like a skilled essayist: a direct scene opening, accurate locksmith detail, and a decisive last line instead of the shared 'didn't feel like' hedge. Version 3 is close for colloquial texture; 4 and 7 are the same over-insistent polish, and 5 loses the facts.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "O",
+    "3": "C",
+    "4": "V6A",
+    "5": "E",
+    "6": "B5",
+    "7": "V6C"
+  }
+}

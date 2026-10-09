@@ -1,0 +1,11 @@
+{
+  "send": "2",
+  "reason": "It keeps every fact and image nearly word for word and still sounds like me. It does lose the 'found myself' nuance and hardens 'hadn't given much thought' to 'hadn't thought,' but those are small shifts, while 3 overstates ('never thought') and 4 changes the voice and turns 'teach again' into 'teach better.'",
+  "label_to_arm": {
+    "1": "E",
+    "2": "A",
+    "3": "B5",
+    "4": "C"
+  },
+  "picked_arm": "A"
+}

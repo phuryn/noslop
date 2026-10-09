@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Over-balanced reflection (beautiful lessons vs. the drive home; wonder vs. twenty-year change) and a too-neat paradox close, plus a parallel that doesn't parse.",
+    "3": "\"I found myself\" on top of the same even, generic reflective template.",
+    "4": "The broken parallel \"Others I'd spent the drive home...\" inside otherwise smooth, nonspecific prose."
+  },
+  "reason": "Version 1 is the one I would send: the named student, the demo, and the unpolished feelings read like a particular memory, while 2–4 are interchangeable variations of one symmetrically shaped template, with 3 the most formulaic.",
+  "label_to_arm": {
+    "1": "track2/B3-int",
+    "2": "track2/A-int",
+    "3": "O",
+    "4": "B3"
+  }
+}

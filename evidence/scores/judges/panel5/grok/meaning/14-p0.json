@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 3,
+    "4": 1,
+    "5": 5
+  },
+  "reason": "Version 4 keeps the facts and the “visits helped us get here” claim, while version 2 only strengthens that line. Version 3 drops several nuances, version 1 adds unsupported details (loved stock, first week, a dozen rereads, unreturned loans), and version 5 changes the square footage, replaces the choices post, and turns wonder into longing.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B5",
+    "3": "A",
+    "4": "B3",
+    "5": "E"
+  }
+}

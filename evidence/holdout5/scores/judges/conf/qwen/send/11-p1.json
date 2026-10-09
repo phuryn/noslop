@@ -1,0 +1,13 @@
+{
+  "send": "1",
+  "reason": "It preserves the original facts, emotional turn, and reflective tone without introducing meaningful changes. The wording reads naturally and keeps the key commitments intact.",
+  "label_to_arm": {
+    "1": "V6A",
+    "2": "B5",
+    "3": "E",
+    "4": "C",
+    "5": "V6C",
+    "6": "A"
+  },
+  "picked_arm": "V6A"
+}

@@ -1,0 +1,1 @@
+Your dog's annual visit should include more than vaccines, especially after age 7. Bloodwork can catch changes in kidney and liver function, blood sugar, and other health markers before you'd notice symptoms. Testing every year also gives your veterinarian a baseline to track over time, which helps guide care as your dog ages. Our senior wellness panel is $129.

@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1,
+    "4": 5,
+    "5": 6,
+    "6": 4
+  },
+  "send": "3",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "none",
+    "4": "Stock pivots: “Then comes the hardest part” and “And a reminder.”",
+    "5": "Em-dash splice that packs the opening into one overly neat sentence, plus the same stock pivots.",
+    "6": "“Finally, a quick reminder” treats the second note as the end of a list that never started."
+  },
+  "reason": "Version 3 sounds like someone who actually edits an allotment newsletter: consistent idiom, a light joke, and a real invitation. The others are either clean but generic, or give themselves away with template pivots, an em-dash splice, or a misplaced “Finally.”",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "B5",
+    "3": "C",
+    "4": "A",
+    "5": "O",
+    "6": "E"
+  }
+}

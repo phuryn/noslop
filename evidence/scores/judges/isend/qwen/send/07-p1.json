@@ -1,0 +1,10 @@
+{
+  "send": "2",
+  "reason": "It preserves all the facts and the Nov 3 commitment without adding nuance, and it reads like a concise Slack status.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B5"
+  },
+  "picked_arm": "A"
+}

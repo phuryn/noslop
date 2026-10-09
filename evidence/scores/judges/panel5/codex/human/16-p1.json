@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 2,
+    "5": 5,
+    "6": 6
+  },
+  "send": "1",
+  "tells": {
+    "1": "The sequence of short sentences feels slightly staged, though the conversational phrasing largely offsets this.",
+    "2": "The neatly balanced closing contrast feels somewhat prepackaged.",
+    "3": "The colon-led inventory and semicolon-balanced reflection give the paragraph an unusually orderly rhythm.",
+    "4": "none",
+    "5": "“I found myself doing” followed by a polished three-part list feels formulaic.",
+    "6": "Generic emotional summaries and “with a bang or with a whimper” substitute familiar language for specific experience."
+  },
+  "reason": "Version 1 has the strongest individual voice, the clearest account of reconsidering unsuccessful lessons, and an understated ending that lets the hesitation register through action. Version 4 is a close second for its natural, restrained flow; these rankings assess editorial effect, not actual authorship.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B3",
+    "3": "A",
+    "4": "B5",
+    "5": "O",
+    "6": "E"
+  }
+}

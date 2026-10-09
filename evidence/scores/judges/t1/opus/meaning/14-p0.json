@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2
+  },
+  "reason": "Version 1 keeps nearly every claim and only trims redundancies. Version 3 drops the 'those visits helped us get here' credit and adds 'to a friend'. Version 2 invents details ('started with what we loved', 'first week', 'reread a dozen times', 'never gave it back') and changes 'helped us get here' to 'the reason we're still here'.",
+  "label_to_arm": {
+    "1": "B",
+    "2": "C",
+    "3": "A"
+  }
+}

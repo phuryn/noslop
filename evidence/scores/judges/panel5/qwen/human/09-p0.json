@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 3,
+    "5": 6,
+    "6": 5
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "formulaic support phrases such as \"Thanks for reaching out\" and \"we'll help\"",
+    "3": "template-like brevity and a blunt closing with no gratitude or reassurance",
+    "4": "canned empathy lines, especially \"That's not the experience we want you to have\" and repeated apologies",
+    "5": "stilted, repetitive wording and small errors such as \"two year warranty\" and \"as soon as your battery has been sent\"",
+    "6": "overly clipped tone and blunt instruction \"reply to this message\""
+  },
+  "reason": "Version 1 feels most like a real support agent: warm, concise, accountable, and free of boilerplate. It resolves the issue clearly without over-apologizing or sounding scripted.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B5",
+    "3": "B3",
+    "4": "O",
+    "5": "E",
+    "6": "A"
+  }
+}

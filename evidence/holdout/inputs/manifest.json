@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "file": "01-linkedin-post.md",
+    "source_model": "claude-sonnet-5-5",
+    "genre": "LinkedIn post"
+  },
+  {
+    "id": 2,
+    "file": "02-recruiting-outreach-email.md",
+    "source_model": "codex gpt-6-astra (medium)",
+    "genre": "Recruiting outreach email"
+  },
+  {
+    "id": 3,
+    "file": "03-product-update-email-to-users.md",
+    "source_model": "claude-sonnet-5-5",
+    "genre": "Product update email to users"
+  },
+  {
+    "id": 4,
+    "file": "04-newsletter-intro.md",
+    "source_model": "codex gpt-6-astra (medium)",
+    "genre": "Newsletter intro"
+  },
+  {
+    "id": 5,
+    "file": "05-slack-message-asking-a-colleag.md",
+    "source_model": "claude-sonnet-5-5",
+    "genre": "Slack message asking a colleague for a decision"
+  },
+  {
+    "id": 6,
+    "file": "06-how-to-blog-paragraph.md",
+    "source_model": "codex gpt-6-astra (medium)",
+    "genre": "How-to blog paragraph"
+  },
+  {
+    "id": 7,
+    "file": "07-customer-support-reply-about-a.md",
+    "source_model": "claude-sonnet-5-5",
+    "genre": "Customer support reply about a bug"
+  },
+  {
+    "id": 8,
+    "file": "08-about-page-founder-bio.md",
+    "source_model": "codex gpt-6-astra (medium)",
+    "genre": "About page / founder bio"
+  }
+]

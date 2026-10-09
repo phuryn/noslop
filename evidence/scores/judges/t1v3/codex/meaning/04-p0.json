@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 1,
+    "4": 3
+  },
+  "reason": "Version 3 preserves the original most closely, followed by version 2 with only negligible semantic changes. Version 4 shifts “us” to “you” and weakens “hardest” to “hard,” while version 1 also loses the explicit “this week” and “small job” details and adds an ownership implication with “our seed swap.”",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B3",
+    "3": "A",
+    "4": "B"
+  }
+}

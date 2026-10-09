@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 2,
+    "4": 5,
+    "5": 6,
+    "6": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "the cramped opening paragraph and generic closer feel templated",
+    "3": "the phrasing is very tidy and 'come out the other end' feels like an added idiom",
+    "4": "stacked clichés like 'rolling up your sleeves' and 'proper trade with a future'",
+    "5": "generic recruitment boilerplate and inflated claims such as 'career for life'",
+    "6": "over-polished slogan-like line with a colon and a dense opening paragraph"
+  },
+  "reason": "Version 1 has the most natural shop-floor voice, clear paragraphing, and credible specifics without leaning on cliché. It feels like a person actually working there wrote it.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "A",
+    "3": "B3",
+    "4": "C",
+    "5": "E",
+    "6": "O"
+  }
+}

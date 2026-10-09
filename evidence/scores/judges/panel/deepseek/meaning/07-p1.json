@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "Version 1 preserves the original wording and meaning most closely; version 2 is nearly identical but slightly restructures. Version 3 changes 'the remaining piece' to 'the only big piece left,' introducing a subtle difference by suggesting possibly other non-big pieces remain.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "C"
+  }
+}

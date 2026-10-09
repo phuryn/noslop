@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 4,
+    "3": 1,
+    "4": 2
+  },
+  "reason": "Version 3 preserves the original meaning and caveats most closely; version 4 drops nuances about book selection and visitors helping the shop grow. Version 1 adds unsupported motivations and specifics, while version 2 makes larger changes, including 'a little over' 400 square feet, longing for the original space, and stronger claims about books sold on day one still being on shelves.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "E",
+    "3": "B3",
+    "4": "A"
+  }
+}

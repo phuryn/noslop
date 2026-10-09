@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 3,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "Generic, templated pitch and the slightly awkward 'finished last year' phrasing.",
+    "2": "Over-inclusion of caveats and a negative anecdote feels engineered to add credibility.",
+    "3": "Safe template with two consecutive questions and little concrete differentiation.",
+    "4": "none"
+  },
+  "reason": "Version 4 is the most natural and usable cold email: brief, direct, and free of the overexplaining that weakens the longer version. Version 2 feels human but is too cluttered and self-undermining for a first outreach.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "track2/B3-int",
+    "3": "track2/A-int",
+    "4": "B3"
+  }
+}

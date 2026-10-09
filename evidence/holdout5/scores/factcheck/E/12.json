@@ -1,0 +1,22 @@
+{
+  "dropped": [
+    {
+      "item": "The event is outdoors ('for an evening outdoors' / 'move indoors'), which explains why warm clothes are needed",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "The fallback condition went from 'if it's cloudy' to 'in the event of bad weather i.e. cloud', which slightly broadens and muddles the trigger",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "Opening rhetorical question: 'Do you enjoy looking up at the night sky? If yes why not join us'",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

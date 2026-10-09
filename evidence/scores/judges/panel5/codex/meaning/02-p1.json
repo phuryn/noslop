@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 5,
+    "2": 2,
+    "3": 1,
+    "4": 4,
+    "5": 3
+  },
+  "reason": "Version 3 best preserves the original’s exploratory offer and fit-focused meeting request; version 2 slightly strengthens the offer, while version 5 also drops the meeting’s stated purpose. Version 4 adds universal coverage (“anywhere”) and narrows last-minute needs to occasional runs, while version 1 introduces an unsupported business-volume claim (“a lot”).",
+  "label_to_arm": {
+    "1": "E",
+    "2": "A",
+    "3": "B5",
+    "4": "C",
+    "5": "B3"
+  }
+}

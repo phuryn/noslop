@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 1,
+    "3": 2,
+    "4": 3
+  },
+  "reason": "Version 2 preserves the most meaning, including the yearly-checkup connection; version 3 mainly drops the panel’s practical benefit, while version 4 also makes bloodwork an explicit recommendation. Version 1 introduces the stronger claim of a “full picture,” shifts “after age 7” to age 7, and omits other health markers.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B",
+    "3": "B2",
+    "4": "A"
+  }
+}

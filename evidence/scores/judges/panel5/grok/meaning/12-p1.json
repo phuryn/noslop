@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3,
+    "4": 4,
+    "5": 5
+  },
+  "reason": "Version 2 best keeps the unnoticed-leak caveat, the “help reduce” hedge, the 14% to 9% figures, and the speaker’s limited role; version 1 is close but softens that role in the bio. Version 3 keeps the hedge and role while adding unsupported claims, version 4 drops the hedge and upgrades the speaker to having helped lead, and version 5 invents a name and gender and loses the unnoticed-leak nuance.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "B3",
+    "3": "C",
+    "4": "A",
+    "5": "E"
+  }
+}

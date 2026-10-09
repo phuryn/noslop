@@ -1,0 +1,13 @@
+{
+  "send": "6",
+  "reason": "It keeps the March start, the bigger-than-expected water drop, the 14 tonnes, the site-scale benefits, the people-not-the-machine point, the night-shift thanks, and the keep-improving caveat, in a voice closest to the draft.",
+  "label_to_arm": {
+    "1": "V6A",
+    "2": "A",
+    "3": "C",
+    "4": "E",
+    "5": "V6C",
+    "6": "B5"
+  },
+  "picked_arm": "B5"
+}

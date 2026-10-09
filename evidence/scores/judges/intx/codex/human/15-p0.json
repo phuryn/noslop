@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 5,
+    "4": 4,
+    "5": 1
+  },
+  "send": "5",
+  "tells": {
+    "1": "The inserted 'in our experience,' exact exercise count, and isolated success story feel engineered to establish authenticity.",
+    "2": "none",
+    "3": "Polished but generic reassurance, evenly expanded feature bullets, and the empty upgrade promise 'unlock more of what the app has to offer.'",
+    "4": "Conversational substitutions such as 'bouncing back,' 'give you a nudge,' and 'tweak your plan' feel applied as a surface treatment.",
+    "5": "none"
+  },
+  "reason": "Version 5 is direct, restrained, and easy to scan, though it should explain what Premium includes. Version 1 adds claims absent from the others that would need verification; these rankings reflect editorial impressions, not reliable evidence of authorship.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "E",
+    "3": "O",
+    "4": "C",
+    "5": "track2/A-int"
+  }
+}

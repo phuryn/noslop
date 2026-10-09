@@ -1,0 +1,13 @@
+{
+  "send": "1",
+  "reason": "Version 1 keeps every fact: free and public, the date, the playing field, six telescopes, everyone welcome, warm clothes, and the cloudy-weather talk at the Methodist hall. It stays close to my plain wording. Version 3 is nearly verbatim but adds a 'so' that wrongly makes 'everyone is welcome' the reason to bring warm clothes.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "V6A",
+    "3": "A",
+    "4": "C",
+    "5": "E",
+    "6": "V6C"
+  },
+  "picked_arm": "B5"
+}

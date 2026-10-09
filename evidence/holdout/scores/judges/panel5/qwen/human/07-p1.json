@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 5,
+    "3": 2,
+    "4": 3,
+    "5": 1
+  },
+  "send": "5",
+  "tells": {
+    "1": "Passive, impersonal phrasing like 'is being processed' and 'it has now been fixed' feels templated.",
+    "2": "The clipped tone and the slightly mechanical 'it should reach you' make it feel underwritten.",
+    "3": "The overly breezy closer 'just reply here and we'll help' feels like a scripted friendly-support affectation.",
+    "4": "none",
+    "5": "The closing lines are standard support boilerplate, but the rest sounds natural."
+  },
+  "reason": "Version 5 best balances accountability, clarity, and a natural support tone. Version 3 is warmer and very human, but slightly too casual for a broad support context.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "A",
+    "3": "C",
+    "4": "B3",
+    "5": "B5"
+  }
+}

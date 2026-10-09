@@ -1,0 +1,13 @@
+{
+  "send": "6",
+  "reason": "It preserves the core commitments—especially the supervisor's authority to stop a dive and the protected off-time—and keeps the original's direct phrasing such as 'making the call' and 'nobody here will lean on you.'",
+  "label_to_arm": {
+    "1": "V6C",
+    "2": "E",
+    "3": "C",
+    "4": "V6A",
+    "5": "A",
+    "6": "B5"
+  },
+  "picked_arm": "B5"
+}

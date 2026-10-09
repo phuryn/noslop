@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "The stock aside 'but here we are' slightly weakens the dry punchline; it is not reliable evidence of AI authorship.",
+    "3": "Same stock aside as version 2; curly apostrophes are not an AI tell."
+  },
+  "reason": "Version 1 lets the owl joke land cleanly and trusts the reader to catch the understatement. Versions 2 and 3 read identically; version 3 takes second only as a typographic preference, not a meaningful difference in human feel.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "O"
+  }
+}

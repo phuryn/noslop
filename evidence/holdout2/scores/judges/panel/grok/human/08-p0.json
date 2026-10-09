@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "Cutting the aside 'but here we are' removes the spoken shrug and leaves a neater, less voiced punchline."
+  },
+  "reason": "All three share the same dry, specific voice and no stock AI phrasing; 1 is the one I'd publish because it keeps the human shrug and finished punctuation, while 3's trim makes the joke a little too neat.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "A",
+    "3": "B3"
+  }
+}

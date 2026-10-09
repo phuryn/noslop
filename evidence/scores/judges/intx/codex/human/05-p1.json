@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 4,
+    "4": 1,
+    "5": 5
+  },
+  "send": "4",
+  "tells": {
+    "1": "The four neatly packaged impact bullets feel slightly formulaic, though the phrasing is natural.",
+    "2": "none",
+    "3": "Abstract phrasing such as “Preserve match quality” and “Give coordinators visibility” makes parts read like generic PRD boilerplate.",
+    "4": "The uniformly structured impact bullets retain a faint template feel.",
+    "5": "“The consequences are significant” adds empty emphasis, reinforced by repetitive bold lead-ins and uniformly polished phrasing."
+  },
+  "reason": "Version 4 best balances natural language, scanability, and professional restraint; version 2 sounds human but is unfinished and repetitive. Before sending, I would separate confirmed replacements from escalations in the success criteria, since escalating a visit does not mean it has been rescheduled.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "E",
+    "3": "track2/A-int",
+    "4": "track2/B5-int",
+    "5": "O"
+  }
+}

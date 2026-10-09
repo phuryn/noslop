@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 1,
+    "3": 2,
+    "4": 3,
+    "5": 5
+  },
+  "send": "2",
+  "tells": {
+    "1": "Stock apology bookends ('please accept my apology,' 'sorry for any inconvenience') clash with the bolted-on 'just hit reply.'",
+    "2": "none",
+    "3": "Even, impersonal polish: each sentence does one job and no particular person is speaking.",
+    "4": "Mechanically trimmed close — the bare 'reply to this message' drops the courtesy the rest of the note sets up.",
+    "5": "'That's not the experience we want you to have,' sandwiched between a thank-you and a second apology."
+  },
+  "reason": "Version 2 sounds like one agent taking ownership — spoken rhythm, contractions, and a concrete offer to help — while 5 is corporate-empathy filler and 1 mixes stiff templates with a casual aside. I'd send 2 because it is clear and credible without the padding.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "C",
+    "3": "B3",
+    "4": "A",
+    "5": "O"
+  }
+}

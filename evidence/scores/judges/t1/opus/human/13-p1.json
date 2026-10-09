@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 3,
+    "4": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none; at most the slightly templated 'Mitigation:' labels in the risks section",
+    "2": "A bolded summary lead-in on every rationale, reinvestment and risk item (e.g., '**Flexibility.**'), plus stock phrasing like 'natural exit' and 'enhanced in-store experience'",
+    "3": "An over-casual voice that reads like a deliberate humanizing pass ('Why I think this is right', 'What could go wrong, and what we'd do about it', 'If we let it slide'), which is slightly off-register for a leadership memo",
+    "4": "Markdown ## headings in a memo and a uniform 'We will…' construction repeated across every mitigation"
+  },
+  "reason": "Version 1 is the tightest and most natural memo: direct, well-structured, without decorative bolding or forced casualness, and its claims are appropriately hedged ('should return more'). Version 4 is nearly as good but more mechanical. Version 3 tries too hard to sound human, and Version 2 shows the most formulaic AI formatting.",
+  "label_to_arm": {
+    "1": "B",
+    "2": "O",
+    "3": "C",
+    "4": "A"
+  }
+}

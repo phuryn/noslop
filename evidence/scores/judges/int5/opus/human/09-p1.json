@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 4,
+    "4": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "The stock phrase \"That's not the experience we want you to have\" reads like corporate boilerplate. The \"Thanks for writing to us\" placed after the resolution also feels slightly bolted on.",
+    "2": "none. The only weakness is the terse closing line, \"If you have questions, reply to this message.\"",
+    "3": "It stacks formulaic courtesies: \"Thank you for reaching out,\" the experience cliché, a second apology, and a \"Thank you for your patience, and again, my apologies\" sign-off.",
+    "4": "It bookends the email with template pleasantries (\"Thanks for reaching out\" … \"Thanks for your patience\")."
+  },
+  "reason": "Version 2 apologizes once, states the fix clearly and stops, which reads like a confident human agent. The others add stock support-desk phrases that pad the message without adding information, and version 3 has the most.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "track2/A-int",
+    "3": "O",
+    "4": "B5"
+  }
+}

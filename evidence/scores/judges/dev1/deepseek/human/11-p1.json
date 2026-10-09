@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 5
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Templated bold section labels and en dash formatting; 'your opinion will actually count' is a common AI humanizing filler.",
+    "3": "Slightly smoothed generic phrasing, such as 'nights that actually end' and 'Pay is...'.",
+    "4": "Formalized paraphrase signals: 'we're slammed on the weekends,' 'someone who has done this before,' and the explanatory colon after 'hands-on'.",
+    "5": "Overt AI structure with bold 'What you'll do' / 'What we're after' headings and fragmented, bullet-like sentences."
+  },
+  "reason": "Version 1 has the most natural, consistent voice and avoids the templated headings and AI-smoothing present in the others, so it reads most like a skilled human wrote it.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "C",
+    "3": "B3",
+    "4": "A",
+    "5": "O"
+  }
+}

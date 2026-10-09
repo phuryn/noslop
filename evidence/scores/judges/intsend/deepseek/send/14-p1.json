@@ -1,0 +1,11 @@
+{
+  "send": "3",
+  "reason": "Version 3 includes the new details I meant to share—Mr. Okafor, Middlemarch, and the 2020 GoFundMe—while keeping the party announcement to the known date and avoiding invented specifics.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "track2/A-int",
+    "3": "track2/B5-int",
+    "4": "C"
+  },
+  "picked_arm": "track2/B5-int"
+}

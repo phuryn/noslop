@@ -1,0 +1,13 @@
+{
+  "send": "2",
+  "reason": "It keeps the launch date, price, additions, preorder shipping promise, and invitation to buy intact. It also sounds like me: friendly, playful, and easy to scan.",
+  "label_to_arm": {
+    "1": "V6A",
+    "2": "V6C",
+    "3": "B5",
+    "4": "E",
+    "5": "C",
+    "6": "A"
+  },
+  "picked_arm": "V6C"
+}

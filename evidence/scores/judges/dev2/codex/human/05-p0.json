@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 5,
+    "4": 1,
+    "5": 4
+  },
+  "send": "4",
+  "tells": {
+    "1": "The accumulation of conversational phrases feels slightly deliberate: 'get stuck,' 'bunch up,' 'in the loop.'",
+    "2": "Uniform sentence patterns and abstract phrasing such as 'Give coordinators visibility' feel mildly formulaic.",
+    "3": "The generic emphasis 'The consequences are significant' and the closing 'informing the decision' clause feel most templated.",
+    "4": "none",
+    "5": "Clipped transitions and scattered casual wording—'The effects,' 'hit clients,' 'chase status'—feel like a deliberate plain-language pass."
+  },
+  "reason": "Version 4 best balances natural rhythm, professional restraint, and scannability; these are stylistic judgments, not reliable evidence of authorship. Before sending, I would fix the shared substantive flaw: escalating a visit to a coordinator does not mean it has been rescheduled.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "O",
+    "4": "B3",
+    "5": "B5"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "send": "2",
+  "reason": "Version 2 keeps every fact (date, time, 60 saplings, bandstand, gloves, everyone welcome, meet your neighbours) and stays closest to my own wording and warm tone. Version 3 shifts the purpose to meeting neighbours 'while we' plant, and versions 1 and 4 noticeably change the voice.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "B5",
+    "3": "A",
+    "4": "C"
+  },
+  "picked_arm": "B5"
+}

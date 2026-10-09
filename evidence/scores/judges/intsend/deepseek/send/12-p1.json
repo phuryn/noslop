@@ -1,0 +1,11 @@
+{
+  "send": "1",
+  "reason": "It keeps the key facts and caveats from the writer’s answers—existing SCADA data, $85k cost, 18-month reduction, 410M gallons saved, Carlos Ruiz’s leak find, false positives, and not overclaiming machine learning—and uses the correct name and credentials in the bio.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "track2/A-int",
+    "3": "E",
+    "4": "C"
+  },
+  "picked_arm": "track2/B5-int"
+}

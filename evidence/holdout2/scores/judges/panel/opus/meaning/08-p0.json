@@ -1,0 +1,11 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1
+  },
+  "reason": "Version 2 is identical to the original apart from apostrophe style. Version 1 drops 'but here we are,' which removes the wry acceptance that softens the self-deprecating remark.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A"
+  }
+}

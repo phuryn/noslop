@@ -1,0 +1,16 @@
+{
+  "dropped": [],
+  "changed": [
+    {
+      "item": "'I understand you're unhappy' became 'I can see why you're unhappy', which leans slightly more toward validating the complaint",
+      "severity": "minor"
+    },
+    {
+      "item": "'we can reduce it to £90' became 'we could bring it down to £90', which makes the offer sound slightly more tentative",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

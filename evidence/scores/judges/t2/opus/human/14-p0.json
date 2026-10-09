@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "The vague, speculative musing in post 5 ('Maybe it's been reread. Maybe it's been passed along.') is generic filler. It stands in for a concrete memory, and the lines in posts 2 and 3 ('every book had to earn its place', 'you came through the door') feel polished but empty.",
+    "3": "Same generic speculative post 5, with the stock framing 'One of the lovely things about...' added. An em dash and curly apostrophes also suggest machine polishing."
+  },
+  "reason": "Version 1 is tight and anchored by a specific, credible detail: the first sale of Middlemarch to Mr. Okafor, who still comes in every week. Versions 2 and 3 swap that detail for hypothetical sentimentality, which reads padded and generic, and version 3 adds stock phrasing on top.",
+  "label_to_arm": {
+    "1": "track2/B2-int",
+    "2": "track2/A-int",
+    "3": "O"
+  }
+}

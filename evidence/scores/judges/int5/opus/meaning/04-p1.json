@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "All three keep every fact intact (issue #112, garlic before frost, sunny well-drained spot, pointed end up, seed swap on Saturday Oct 18 at Millbrook Community Hall), so the ranking rests on small wording differences. Version 1 only splits one sentence. Version 2 swaps a few words (e.g., 'some' for 'a few') but keeps the 'reminder' framing. Version 3 turns the reminder into a direct instruction and restructures more sentences.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "B5",
+    "3": "track2/B5-int"
+  }
+}

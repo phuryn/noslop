@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 3,
+    "4": 2
+  },
+  "send": "4",
+  "tells": {
+    "1": "none (slightly clunky, repetitive phrasing like 'blood work done' twice reads authentically human)",
+    "2": "em-dash-heavy marketing cadence and the tacked-on value pitch 'a practical way to get a fuller picture... make the most of their yearly checkup'",
+    "3": "over-trimmed, uniformly short declarative sentences that feel mechanically pared down",
+    "4": "mild tidy parallel structure ('which helps guide care as your dog ages'), otherwise minimal"
+  },
+  "reason": "Version 1 has the natural awkwardness of a real clinic writer, but Version 4 keeps the human tone, explains the before-symptoms and baseline benefits clearly, and avoids the salesy em-dash padding of Version 2 and the clipped stiffness of Version 3.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "O",
+    "3": "A",
+    "4": "B3"
+  }
+}

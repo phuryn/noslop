@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 3,
+    "4": 2
+  },
+  "reason": "V1 keeps every fact and benefit but drops the 'closing that gap' line and the closing question. V4 drops the same items and loses 'when they need it'. V3 keeps all content but adds new claims ('all we did', 'showed up quickly', 'for a month'). V2 hardens 'hit or miss' to 'weren't working', cuts the lesson and the 'closing that gap' line, and turns 'worth testing' into a direct instruction.",
+  "label_to_arm": {
+    "1": "B2",
+    "2": "A",
+    "3": "C",
+    "4": "B"
+  }
+}

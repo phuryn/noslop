@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 1,
+    "4": 3
+  },
+  "send": "3",
+  "tells": {
+    "1": "The compatibility check is placed after the application step, so it reads like a back-filled safety note in an otherwise uniform imperative sequence.",
+    "2": "Slightly more logical but still follows a rigid template with clean parallel instructions and little conversational texture.",
+    "3": "none",
+    "4": "Same sequencing issue as version 1; only the apostrophe is typographically polished, so it still feels templated."
+  },
+  "reason": "Version 3 reads most like a skilled human blog writer: it uses a conversational hook, varied sentence rhythm, and concrete phrasing while still covering all steps. Version 2 is clear but more templated, and versions 1/4 have a sequencing quirk that feels AI-edited.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "C",
+    "4": "O"
+  }
+}

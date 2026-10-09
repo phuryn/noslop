@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 1,
+    "3": 7,
+    "4": 6,
+    "5": 2,
+    "6": 3,
+    "7": 4
+  },
+  "send": "5",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "Redundant 'Hi there!' after 'Hi Priya' and the stacked adjectives 'sustainable, high quality and beautiful'.",
+    "4": "Third-person phrasing 'Would Hearth & Wick try' feels stilted and less personal.",
+    "5": "none",
+    "6": "none",
+    "7": "none"
+  },
+  "reason": "Version 2 reads most naturally human, while version 5 is the best all-around send for its balance of warmth, clarity, and professionalism. Version 3 is clearly AI-influenced; versions 5 and 6 are identical, so I ranked the duplicate lower only to avoid a tie.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "E",
+    "4": "B5",
+    "5": "V6C",
+    "6": "V6A",
+    "7": "O"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 5,
+    "3": 3,
+    "4": 1,
+    "5": 4
+  },
+  "send": "4",
+  "tells": {
+    "1": "Mild formulaic cadence in the 'Maybe it’s… Maybe it’s just… Either way' structure.",
+    "2": "Redundant phrasing and repetition, especially 'measure our pre-measured dry ingredients'.",
+    "3": "Slightly awkward 'Skip the weighing out' and the generic emotional cue 'Give yourself something to look forward to each month.'",
+    "4": "none",
+    "5": "Unnatural constructions like 'start at the mixing' and 'a bake to look forward to.'"
+  },
+  "reason": "Version 4 has the most confident, natural rhythm and concrete copywriting, with warmth and clarity and no awkward AI phrasing.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "E",
+    "3": "B3",
+    "4": "O",
+    "5": "A"
+  }
+}

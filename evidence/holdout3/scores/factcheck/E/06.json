@@ -1,0 +1,26 @@
+{
+  "dropped": [
+    {
+      "item": "Explicit acknowledgement of the inconvenience the delay caused (\"I appreciate the inconvenience this delay has caused\")",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "Actor and framing of the refund shifted from the company (\"we're refunding\") to the individual writer (\"I am going to refund\"), and from an action already underway to a future intention",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "The refund is framed as an apology gesture (\"To say sorry for the delay\")",
+      "severity": "minor"
+    },
+    {
+      "item": "An extra thank-you for patience at the opening, before the apology",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

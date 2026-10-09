@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 3,
+    "3": 1,
+    "4": 5,
+    "5": 2
+  },
+  "send": "3",
+  "tells": {
+    "1": "Section headings are missing, which makes the page feel compressed. The phrase \"start at the mixing\" is slightly awkward, and the middle section is an abstract list of images.",
+    "2": "Phrasing is smooth but generic, such as \"which leaves more time for…\" and \"Give yourself something to look forward to each month.\"",
+    "3": "none",
+    "4": "Formulaic paired fragments (\"A little measuring done. A little joy delivered.\" and \"Less measuring. More making.\") and a staccato list of images.",
+    "5": "Stock slogan \"Less measuring, more making\" and the cliché \"go straight to the fun part.\""
+  },
+  "reason": "Version 3 is clean, specific and conversational. The line \"a cup of tea and the last crumb all to yourself\" feels warm without strain, and it avoids the slogan pairs and fragment rhythms that make 4 and 5 feel templated. It also keeps the clear section structure that 1 lacks.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "B",
+    "4": "O",
+    "5": "C"
+  }
+}

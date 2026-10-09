@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "Version 1 preserves the original claims and nuance without adding unsupported facts. Version 2 mostly stays faithful but drops the 'something to look forward to each month' nuance and slightly rephrases 'cancel anytime,' while Version 3 adds writer-supplied facts but loses more of the original meaning and commitments.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "track2/A-int",
+    "3": "track2/B5-int"
+  }
+}

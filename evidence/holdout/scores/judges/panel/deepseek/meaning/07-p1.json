@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2
+  },
+  "reason": "Version 1 stays closest to the original wording and preserves the key facts, refund timing, and invitation to reply; version 3 keeps the overall meaning but is slightly more rephrased, while version 2 drops the closing offer of further help.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "C"
+  }
+}

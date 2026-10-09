@@ -1,0 +1,13 @@
+{
+  "send": "2",
+  "reason": "It keeps the same facts and asks—trying the inserts, supplying 5,000 units a month, free samples, and a quick call next week. It also preserves my direct, friendly tone without adding claims or unnecessary wording.",
+  "label_to_arm": {
+    "1": "V6A",
+    "2": "A",
+    "3": "E",
+    "4": "C",
+    "5": "B5",
+    "6": "V6C"
+  },
+  "picked_arm": "A"
+}

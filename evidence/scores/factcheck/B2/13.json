@@ -1,0 +1,33 @@
+{
+  "dropped": [
+    {
+      "item": "The qualifier that mall traffic decline is 'structural' (the edit says only 'declining')",
+      "severity": "minor"
+    },
+    {
+      "item": "The explicit claim that the flagship and online are 'where our brand performs best'",
+      "severity": "minor"
+    },
+    {
+      "item": "The framing of mall stores as 'capital- and labor-intensive', softened to 'a lot to carry'",
+      "severity": "minor"
+    },
+    {
+      "item": "The 'Flexibility' label for rationale point 4",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "'Our performance is tied to anchor tenants and mall health' became 'their performance', narrowing the subject from the company to the mall stores",
+      "severity": "minor"
+    },
+    {
+      "item": "The edit links the two ideas causally with 'so': foot-traffic dependence now causes performance to be tied to anchor tenants. The original stated these as parallel observations.",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

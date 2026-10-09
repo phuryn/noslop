@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2
+  },
+  "send": "2",
+  "tells": {
+    "1": "Bold mini-headings, especially the generic label 'Addition,' plus the stock 'quick summary' opener, read like a generated template.",
+    "2": "none",
+    "3": "The closer 'Tell me if I missed anything' is abrupt and slightly off-register for a client note."
+  },
+  "reason": "Version 2 is the one a skilled person would actually send: clear prose, no template headings, and a natural professional close. Version 1’s labeled blocks feel generated, and version 3’s blunter sign-off is a slightly unnatural variation.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B3",
+    "3": "A"
+  }
+}

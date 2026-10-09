@@ -1,0 +1,11 @@
+{
+  "send": "2",
+  "reason": "It keeps the original facts and tone, including the 400 sq ft beginning, two floors, gratitude, the lasting-life-of-books reflection, and the October 25 party. It reads like the writer’s own voice while preserving the key commitments.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B5",
+    "3": "E",
+    "4": "C"
+  },
+  "picked_arm": "B5"
+}

@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 4,
+    "4": 1
+  },
+  "reason": "Version 4 keeps the founder facts and the privilege, voice, and future-worth-caring commitments, adding only a slight “back.” Version 1 stays close but softens founder and voice; version 2 drops voice and privilege and recasts bringing music into homes as keeping pianos there; version 3 adds an unsupported “most have years of playing left” claim and drops those commitments.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B3",
+    "3": "A",
+    "4": "B5"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 5,
+    "5": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "Slightly generic strategy language, such as 'full brand experience' and 'concentrate talent and inventory'; otherwise few conspicuous tells.",
+    "2": "Conversational wording feels systematically applied, with headings like 'Why I think this is right' adding length without adding substance.",
+    "3": "Repeated 'Mitigation:' labels and noun-heavy phrases make the risk section sound mechanically assembled.",
+    "4": "Plain-language substitutions distort meaning: 'declining for good reasons' introduces an unsupported judgment, and 'in one place' misrepresents investment across Denver and online.",
+    "5": "Uniform bold labels, repeated 'Mitigation:' constructions, and generic abstractions such as 'Flexibility' give it a template-driven feel."
+  },
+  "reason": "Version 1 best balances directness, professional tone, and readable structure without conspicuous efforts to sound conversational. These are stylistic judgments, not evidence of authorship; every version still needs financial support and a decision timeline consistent with the October date.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "B3",
+    "4": "B5",
+    "5": "O"
+  }
+}

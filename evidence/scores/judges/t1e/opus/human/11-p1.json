@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 4,
+    "3": 2,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "Neat bolded 'What you'll do / What we're after' template, plus the tidy triplet 'real days off, nights that actually end, and a schedule you can plan a life around'.",
+    "2": "none. It's clearly human, but the all-caps, run-on punctuation and boilerplate ('including but not limited to') make it unskilled and hard to read.",
+    "3": "The rule-of-three cadence ('real days off, nights that actually end, and a schedule you can plan a life around') feels a bit polished and symmetrical.",
+    "4": "none. The phrasing is slightly smooth throughout ('without turning the kitchen into a pressure cooker'), but nothing stands out."
+  },
+  "reason": "Version 4 keeps the voice and concrete details of the strongest drafts but drops the formulaic triplet and template headers, so it reads like a confident chef wrote it. Version 2 sounds human but its shouting caps and sloppy punctuation would hurt credibility with good candidates.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "E",
+    "3": "B3",
+    "4": "A"
+  }
+}

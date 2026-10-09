@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 1
+  },
+  "reason": "Version 3 keeps the original’s claims, numbers, and caveats with only light trimming and no unsupported additions. Version 2’s new details all come from the writer, but it drops original points such as staying consistent and technique; version 1 loses the most meaning and recasts progress as an unstated tracking feature.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "track2/B3-int",
+    "3": "B3"
+  }
+}

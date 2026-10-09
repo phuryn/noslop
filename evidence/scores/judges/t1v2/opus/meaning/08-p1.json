@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2,
+    "4": 4
+  },
+  "reason": "Version 2 keeps every claim and hedge and drops only the closing 'fuller picture' line. Version 3 softens 'help spot' to 'can show' and slightly reframes the checkup tie-in. Version 1 overstates with 'catch' and 'the full picture' and drops 'other health markers'. Version 4 changes the core claim from 'more than vaccines' to 'should include bloodwork' and drops 'helps guide care'.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B2",
+    "3": "B",
+    "4": "A"
+  }
+}

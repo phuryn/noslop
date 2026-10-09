@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 5,
+    "5": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "none. It reads as genuine, clunky human writing ('Abstract Abstract' duplication, mojibake apostrophe, the 14% to 9% figure repeated verbatim, stiff 'Mr. Matela... In this capacity')",
+    "2": "The 'what worked, what didn't' formula is a slightly stock phrase, though the first-person voice feels natural",
+    "3": "Repetitive scaffolding: 'This talk covers... It also covers...' plus the hedged 'might otherwise have gone unnoticed'",
+    "4": "Generic AI phrasing: 'This talk explores', 'help reveal', 'practical considerations for utilities looking to make better use of'",
+    "5": "Slight embellishment: the bio upgrades 'helped' to 'helped lead the effort', and 'find leaks in existing pressure data' is a little awkward"
+  },
+  "reason": "Version 2 has a concrete, first-person hook and sounds like a practitioner talking to peers without inflating the speaker's role. Version 1 feels the most human but is too sloppy to publish, and Version 5 is tight but overstates the speaker's leadership.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "C",
+    "3": "B3",
+    "4": "O",
+    "5": "A"
+  }
+}

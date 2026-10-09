@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>phuryn/work-humanizer: scoreboard</title>
+<!-- Scoreboard. Data: holdout5 (12 texts; Grok, DeepSeek, Qwen, Codex pooled; 2 orders). Would send = picks of 96;
+sounds human = share of 48 judgments where the rewrite ranked above the original AI draft; meaning changes = dropped +
+changed + added items, plus invented; invented = texts with a hand-verified invented or upgraded fact. Interview: 16 texts,
+128 picks. Pangram: 16 main texts (13 for work-humanizer); notes route: 4 texts. See evidence/README.md. -->
+<link href="https://fonts.googleapis.com/css2?family=Geist:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+  :root{--ink:#14181b;--muted:#5b646d;--line:#e2e6ea;--ns:#1d7a57;--nsbg:#eef7f2;--bar:#c7cdd3;--best:#1d7a57;--bad:#c4513c}
+  *{margin:0;padding:0;box-sizing:border-box}
+  body{background:#fff;font-family:Geist,system-ui,sans-serif;color:var(--ink);-webkit-font-smoothing:antialiased}
+  .page{width:1200px;padding:44px 60px 36px}
+  .repo{display:flex;align-items:center;gap:14px}
+  .repo svg{width:42px;height:42px;fill:var(--ink)}
+  .repo b{font-size:30px;font-weight:700;letter-spacing:-.4px}
+  .repo b span{color:var(--muted);font-weight:500}
+  .repo i{font-style:normal;margin-left:6px;font-size:15px;font-weight:600;border:1.5px solid var(--line);border-radius:999px;padding:3px 12px;color:var(--muted)}
+  h1{margin-top:18px;font-family:Geist,system-ui,sans-serif;font-weight:800;font-size:54px;line-height:1.04;letter-spacing:-2.2px}
+  .lede{margin-top:10px;font-size:20px;color:var(--muted)}
+  table{width:100%;border-collapse:separate;border-spacing:0;margin-top:30px}
+  th{font-size:17px;font-weight:700;text-align:left;padding:0 14px 6px;white-space:nowrap}
+  th small{display:block;font-size:13.5px;font-weight:500;color:var(--muted);margin-top:2px}
+  td{padding:16px 14px;border-top:1.5px solid var(--line);vertical-align:middle}
+  tr.ns td{background:var(--nsbg)}
+  tr.ns td:first-child{border-radius:10px 0 0 10px} tr.ns td:last-child{border-radius:0 10px 10px 0}
+  .tool{font-size:19px;font-weight:700;white-space:nowrap}
+  .tool span{display:block;font-size:14px;font-weight:500;color:var(--muted);margin-top:2px}
+  tr.ns .tool{color:var(--ns)}
+  .cell{display:flex;align-items:center;gap:10px}
+  .cell b{font-size:21px;font-variant-numeric:tabular-nums;min-width:66px}
+  .mini{flex:1;height:10px;background:#eef0f2;border-radius:5px;overflow:hidden;min-width:90px}
+  .mini i{display:block;height:100%;border-radius:5px;background:var(--bar)}
+  tr.ns .mini i{background:var(--ns)}
+  .best b::after{content:" \2713";color:var(--best);font-size:18px}
+  .worst b{color:inherit}
+  .callouts{margin-top:30px;display:grid;grid-template-columns:1fr 1fr;gap:40px}
+  .callout{display:flex;align-items:flex-start;gap:18px;background:none;border-top:2px solid var(--ink);padding:16px 4px 4px}
+  .callout.det{display:block}
+  .callout .big{font-family:Geist,system-ui,sans-serif;letter-spacing:-2px;font-size:52px;font-weight:700;color:var(--ns);line-height:1;white-space:nowrap}
+  .callout p{font-size:17px;line-height:1.4}
+  .callout p span{color:var(--muted)}
+
+  .detw{width:100%}
+  .detw > b{display:block;font-size:16px;font-weight:700;margin-bottom:8px}
+  .pg{display:grid;grid-template-columns:250px 1fr 44px;align-items:center;gap:8px;margin:5px 0;font-size:14px}
+  .pg span{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;color:#2c3136}
+  .pg i{height:12px;background:#eef0f2;border-radius:6px;overflow:hidden;display:block}
+  .pg u{display:block;height:100%;border-radius:6px;background:var(--bar)}
+  .pg u.em{background:#7c858e} .pg u.ns{background:var(--ns)}
+  .pg.ns span{color:var(--ns);font-weight:700}
+  .pg em{font-style:normal;font-weight:700;font-variant-numeric:tabular-nums;text-align:right}
+  .detw small{display:block;margin-top:8px;font-size:13.5px;color:var(--muted);line-height:1.35}
+  .foot{margin-top:22px;display:flex;justify-content:space-between;font-size:14.5px;color:var(--muted)}
+  .foot b{color:var(--ink)}
+</style>
+</head>
+<body>
+<div class="page">
+  <div class="repo"><svg viewBox="0 0 16 16" aria-hidden="true"><path d="M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z"/></svg><b><span>phuryn /</span> work-humanizer</b><i>Free, MIT</i></div>
+  <h1>Sounds like you. Says what you meant.</h1>
+  <div class="lede">12 new AI-written work texts, from cold emails to support replies. Blind judges from 4 AI labs.</div>
+
+  <table>
+    <tr><th></th><th>Judges would send it<small>share of picks</small></th><th>Sounds human<small>beat the AI draft</small></th><th>Meaning changes<small>fewer is better</small></th><th>Invented facts<small>checked by hand</small></th></tr>
+    <tbody id="rows"></tbody>
+  </table>
+
+  <div class="callouts">
+    <div class="callout det"><div class="detw"><b>Only work-humanizer asks what's missing: would send it</b>
+      <div class="pg ns"><span>work-humanizer, after asking you</span><i><u class="ns" style="width:68.75%"></u></i><em>69%</em></div>
+      <div class="pg"><span>blader/humanizer</span><i><u style="width:21.9%"></u></i><em>22%</em></div>
+      <div class="pg"><span>"Rewrite this to sound human"</span><i><u style="width:4.7%"></u></i><em>5%</em></div>
+      <div class="pg"><span>Emulate-1</span><i><u style="width:0%"></u></i><em>0%</em></div>
+      <small>Share of 128 picks on 16 texts. work-humanizer asked on 9, used 39 of the writer's facts and invented none. In the test, an AI answered from a list of facts the writer knew.</small></div></div>
+    <div class="callout det"><div class="detw"><b>AI detector (Pangram): how much reads as human</b>
+      <div class="pg"><span>work-humanizer</span><i><u style="width:3%"></u></i><em>3%</em></div>
+      <div class="pg"><span>blader/humanizer</span><i><u style="width:4%"></u></i><em>4%</em></div>
+      <div class="pg"><span>"Rewrite this to sound human"</span><i><u style="width:2%"></u></i><em>2%</em></div>
+      <div class="pg"><span>Emulate-1</span><i><u class="em" style="width:87%"></u></i><em>87%</em></div>
+      <div class="pg ns"><span>work-humanizer + your own notes</span><i><u class="ns" style="width:100%"></u></i><em>100%</em></div>
+      <small>Rewrites stay AI. Emulate gets through by changing the most. Your own notes get through honestly (4 of 4 texts).</small></div></div>
+  </div>
+
+  <div class="foot"><span>Other picks: an unreleased variant 25%, none 2%. Small samples, AI judges. <b>Method and data: evidence/</b></span><b>github.com/phuryn/work-humanizer</b></div>
+</div>
+<script>
+// [tool, sub, send picks of 96, sounds-human wins of 48, meaning changes, invented]
+const R = [
+  ['work-humanizer', 'this skill', 46, 36, 18, 0, true],
+  ['blader/humanizer', 'the viral humanizer skill', 19, 30, 33, 0],
+  ['“Rewrite this to sound human”', 'one-line prompt', 1, 43, 42, 1],
+  ['“...without changing the meaning”', 'one-line prompt', 4, 28, 27, 1],
+  ['Emulate-1', 'sold as undetectable', 0, 13, 120, 3],
+];
+const best = (i, hi) => { const v = R.map(r => r[i]); return hi ? Math.max(...v) : Math.min(...v); };
+const B = {send: best(2, true), hum: best(3, true), mean: best(4, false), inv: best(5, false)};
+const pct = (v, n) => Math.round(v / n * 100) + '%';
+document.getElementById('rows').innerHTML = R.map(([t, s, send, hum, mean, inv, ns]) => `<tr class="${ns ? 'ns' : ''}">
+  <td><div class="tool">${t}<span>${s}</span></div></td>
+  <td><div class="cell ${send === B.send ? 'best' : ''}"><b>${pct(send, 96)}</b><div class="mini"><i style="width:${send / 96 * 100}%"></i></div></div></td>
+  <td><div class="cell ${hum === B.hum ? 'best' : ''}"><b>${pct(hum, 48)}</b><div class="mini"><i style="width:${hum / 48 * 100}%"></i></div></div></td>
+  <td><div class="cell ${mean === B.mean ? 'best' : ''} ${mean >= 100 ? 'worst' : ''}"><b>${mean}</b><div class="mini"><i style="width:${Math.min(mean / 120 * 100, 100)}%"></i></div></div></td>
+  <td><div class="cell ${inv === B.inv ? 'best' : ''} ${inv >= 3 ? 'worst' : ''}"><b>${inv}</b></div></td>
+</tr>`).join('');
+</script>
+</body>
+</html>

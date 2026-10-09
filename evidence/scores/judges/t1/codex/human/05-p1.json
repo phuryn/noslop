@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "“This hurts in four ways” feels slightly manufactured as a conversational introduction to a formal list.",
+    "3": "“The consequences are significant” adds generic emphasis without adding information.",
+    "4": "The accumulated colloquialisms—“sit uncovered,” “actually accept,” “get stuck,” “bunch up”—feel like a deliberate humanizing pass and sometimes reduce precision."
+  },
+  "reason": "Version 1 reads most like a skilled editor’s PRD: direct, restrained, and clearly structured; version 2 is close. These are stylistic judgments, not reliable evidence of authorship, and I would fix every version’s substantive flaw: an escalated visit is not a rescheduled visit.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B",
+    "3": "O",
+    "4": "C"
+  }
+}

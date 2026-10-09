@@ -1,0 +1,11 @@
+{
+  "send": "1",
+  "reason": "It best captures the writer's intended facts and candid lessons, including existing SCADA data, the 18-month reduction, savings, cost, false positives, limited need for machine learning, and the correct named bio. The other versions are too generic or contain errors.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "track2/A-int",
+    "3": "C",
+    "4": "E"
+  },
+  "picked_arm": "track2/B5-int"
+}

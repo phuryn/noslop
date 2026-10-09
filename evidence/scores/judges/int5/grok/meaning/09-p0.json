@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "Version 1 keeps the free warranty replacement, prompt tracking, “only five months,” and the offer to help, losing mainly the “experience we want” line. Version 2 keeps that line but drops the help commitment and patience thanks; version 3 also drops “only,” “as soon as,” and the help offer.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "track2/B5-int",
+    "3": "track2/A-int"
+  }
+}

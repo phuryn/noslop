@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 4,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "none",
+    "2": "Generic, slightly abrupt phrasing, especially 'The bike' and the bare 'If you have questions, reply to this message.'",
+    "3": "Stacked customer-service clichés and over-apology, especially 'That's not the experience we want you to have' and 'again, my apologies for the inconvenience.'",
+    "4": "A faintly templated support phrase in 'Thank you for your patience,' though it still reads natural."
+  },
+  "reason": "Version 4 is the strongest to send because it leads with the remedy, stays concise, and still acknowledges the problem and delay naturally. Version 3 feels the least human because it relies on formulaic empathy language and excessive apology.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "track2/A-int",
+    "3": "O",
+    "4": "track2/B3-int"
+  }
+}

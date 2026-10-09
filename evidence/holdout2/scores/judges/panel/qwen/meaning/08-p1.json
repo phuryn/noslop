@@ -1,0 +1,11 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2
+  },
+  "reason": "Version 1 preserves the original exactly, including the closing caveat/nuance 'but here we are.' Version 2 omits that phrase, slightly reducing the original tone and nuance.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3"
+  }
+}

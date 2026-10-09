@@ -1,0 +1,11 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2
+  },
+  "reason": "Version 1 preserves all substantive requirements and the full near-miss definition. Version 2 narrows that definition by omitting 'harm' and loses the explicit 'without exception' emphasis and the importance of accurate reports.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A"
+  }
+}

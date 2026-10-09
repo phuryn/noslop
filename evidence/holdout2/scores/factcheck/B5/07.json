@@ -1,0 +1,17 @@
+{
+  "dropped": [],
+  "changed": [
+    {
+      "item": "'It's how we keep each other safe' became 'It's how we look out for each other'. The explicit reference to safety is softened into a near-equivalent phrase.",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "The edit says the SiteSafe app should be installed 'on your phone'. The original only said the app should be installed and did not name a device.",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

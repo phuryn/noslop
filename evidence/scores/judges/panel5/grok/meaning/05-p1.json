@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3,
+    "4": 5,
+    "5": 4
+  },
+  "reason": "Version 2 preserves every fact, metric, completion rule, and caveat; version 1 only adds that the system handles routine reassignments. Version 3 has mild intensifications, version 5 shifts escalation, proximity, risk, and 30-minute validation into a realism test, and version 4 drops secondary goals, non-goals, and several constraints while adding stronger claims.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "B5",
+    "4": "E",
+    "5": "C"
+  }
+}

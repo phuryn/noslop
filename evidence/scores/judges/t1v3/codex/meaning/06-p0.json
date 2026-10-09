@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 4,
+    "4": 2
+  },
+  "reason": "Version 2 most closely preserves the original claims and benefits, followed by version 4, which slightly compresses the homemade-sharing imagery. Version 1 loses the explicit time-saving benefit, while version 3 also replaces the quiet-moment framing with the added idea of having the last crumb “all to yourself.”",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "B",
+    "4": "B3"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "none",
+    "2": "The repeated signposting—“This talk covers” and “It also covers”—feels slightly mechanical.",
+    "3": "none",
+    "4": "Generic conference language such as “shares lessons,” “practical considerations,” and “make better use” gives it a polished but impersonal feel."
+  },
+  "reason": "Version 1 reads most naturally, but version 2 preserves cautious causality and avoids the unsupported leadership claim in version 1’s bio. Version 3 sounds like an unedited human draft rather than skilled finished copy; these stylistic signals do not establish AI authorship.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "gen/E-write",
+    "4": "O"
+  }
+}

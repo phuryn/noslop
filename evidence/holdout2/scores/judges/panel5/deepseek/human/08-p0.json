@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 3,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "Curly apostrophes give it a slightly polished, word-processed feel that is the only noticeable artifact.",
+    "2": "Removing 'but here we are' flattens the wry conversational beat and sounds like an over-trimmed edit.",
+    "3": "Identical to version 1, so it reads as a duplicate/synthetic variant rather than an independent draft.",
+    "4": "None; straight apostrophes and the complete self-deprecating aside feel most like an unforced human blog draft."
+  },
+  "reason": "Version 4 keeps the dry aside 'but here we are' and plain punctuation, making it the most natural and credible personal-blog voice. Version 2 loses that beat, while 1 and 3 feel slightly over-polished or duplicated.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "B3",
+    "3": "O",
+    "4": "A"
+  }
+}

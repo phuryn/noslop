@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 3,
+    "3": 1,
+    "4": 2
+  },
+  "send": "3",
+  "tells": {
+    "1": "'I found myself doing the usual things' is a stock filler opener, and it sits alongside the balanced 'Some lessons had gone beautifully; others...' antithesis and the tidy closing line.",
+    "2": "Polished, generic reflection with symmetrical contrasts ('Some... others...', 'I was ready to go, but...') and no concrete names or moments.",
+    "3": "None. Its weakness is slight clunkiness ('where they ended up', 'which has always gone well'), not an AI tell.",
+    "4": "The same symmetrical contrast structure and neat bow-tied ending as 2, only lightly varied by splitting the semicolon sentence."
+  },
+  "reason": "Version 3 has specific, checkable details (Amina Yusuf, period 4 AP Chem, the elephant toothpaste demo) and an unflattering admission ('relieved as much as sad, which is a little embarrassing'), which make it credible and human. Versions 1, 2 and 4 are near-identical, smoothly generic reflections built on balanced antitheses.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "track2/A-int",
+    "3": "track2/B3-int",
+    "4": "B3"
+  }
+}

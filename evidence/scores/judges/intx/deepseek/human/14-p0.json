@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 5,
+    "3": 3,
+    "4": 4,
+    "5": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Puffed-up phrasing and clichés like 'This month marks a special milestone' and 'bursting at the seams.'",
+    "3": "Even, polished rhythm with safe/generic phrases like 'make a start' and 'passed along'; no concrete detail.",
+    "4": "Flat, uniform sentences and generic business warmth like 'Those visits helped us get here' with no distinct voice.",
+    "5": "Abrupt, list-like specificity mixed with generic phrasing like 'lovely things... passed along'; details feel inserted rather than woven in."
+  },
+  "reason": "Version 1 is the most natural and cohesive: it has a clear narrative arc, real warmth, and an understated joke without clichés or generic filler.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "E",
+    "3": "O",
+    "4": "track2/A-int",
+    "5": "track2/B5-int"
+  }
+}

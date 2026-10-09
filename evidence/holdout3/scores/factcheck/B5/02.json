@@ -1,0 +1,12 @@
+{
+  "dropped": [],
+  "changed": [
+    {
+      "item": "The trial ask moved from gauging interest ('Would you be interested in a small trial') to proposing setup ('Could we set up a small trial'). This is slightly more forward, but it is the same call to action.",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

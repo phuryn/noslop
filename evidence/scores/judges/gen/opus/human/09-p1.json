@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 1,
+    "4": 3
+  },
+  "send": "3",
+  "tells": {
+    "1": "none. The awkward phrasing ('I have gone ahead and will send', 'your battery in your Metro 2') reads as human, but it is clumsy and has no subject line.",
+    "2": "Stacked stock empathy and repeated apologies ('That's not the experience we want you to have', 'again, my apologies for the inconvenience') are template filler.",
+    "3": "none",
+    "4": "Over-trimming. Cutting 'just' from 'reply to this message' and putting it in its own one-line paragraph makes the close curt."
+  },
+  "reason": "Version 3 is concise, warm and specific. It gives one sincere apology, a clear resolution and an easy next step, with no filler. Version 4 cuts too far and sounds brusque, and versions 1 and 2 are clumsy and padded.",
+  "label_to_arm": {
+    "1": "gen/E-write",
+    "2": "O",
+    "3": "B3",
+    "4": "A"
+  }
+}

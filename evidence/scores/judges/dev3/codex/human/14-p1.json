@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3,
+    "4": 5,
+    "5": 4
+  },
+  "send": "2",
+  "tells": {
+    "1": "Slightly overarranged sentiment: 'Every shelf, every table, every book' and the paired 'Maybe' sentences.",
+    "2": "The familiar 'had to earn its place' phrasing; otherwise, no strong tell.",
+    "3": "The trimming occasionally flattens the voice, especially 'so we started with what we could.'",
+    "4": "Stacked signals of casual personality—'Not bad,' 'honestly,' and the borrowed-book joke—feel imposed. The unexplained shift from 'we' to 'My' weakens credibility.",
+    "5": "'We wouldn't be here without you coming in' feels like a strained conversational replacement for a cleaner sentence."
+  },
+  "reason": "Version 2 balances warmth, clarity and restraint, preserving the bookshop's collective voice without belaboring its sentiment. These are editorial impressions, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B3",
+    "3": "A",
+    "4": "C",
+    "5": "B5"
+  }
+}

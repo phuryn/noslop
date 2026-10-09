@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2,
+    "4": 4
+  },
+  "reason": "Version 1 stays closest to the original with no substantive changes. Version 3 is almost verbatim but omits the schedule-planning line, while Version 2 adds minor nuance shifts and Version 4 loses or alters several key details.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "C",
+    "3": "A",
+    "4": "E"
+  }
+}

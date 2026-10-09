@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 5,
+    "4": 3,
+    "5": 1
+  },
+  "reason": "Version 5 is nearly verbatim from the original, while 2 and 4 keep almost all wording and nuance. Version 1 paraphrases more heavily, and version 3 omits the chat/ideas invitation and adds/alters details like 'this Saturday.'",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B3",
+    "3": "E",
+    "4": "B5",
+    "5": "A"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 1,
+    "4": 3
+  },
+  "reason": "Version 3 stays closest to the original wording and preserves all facts and nuances. Versions 1 and 4 are also faithful but introduce minor rephrasings, while version 2 makes more stylistic changes, shifts from 'we' to 'you,' and adds 'our' before the seed swap.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "C",
+    "3": "A",
+    "4": "B5"
+  }
+}

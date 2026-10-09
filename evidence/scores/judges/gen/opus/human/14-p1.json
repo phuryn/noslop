@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 4,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "Over-trimmed and slightly flat: 'we started with what we could' is an awkward paraphrase, and post 5 loses its warmth, so it reads like a compressed rewrite.",
+    "2": "Em dashes plus rhetorical stacking ('every shelf, every table, every book'; 'Maybe it's been reread. Maybe it's been passed along.') give it a polished, cadenced feel.",
+    "3": "Generic hype clichés ('incredible journey', 'each and every one of you', capitalized 'YOU', thread and party emojis) with no concrete detail. It repeats the party date twice.",
+    "4": "none"
+  },
+  "reason": "Version 4 keeps the specific, warm details (the 400 sq ft constraint, books still on shelves, the invitation to share memories) in plain, natural sentences without stylistic flourishes. The other versions are either over-compressed, over-styled, or generic.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "O",
+    "3": "gen/E-write",
+    "4": "B3"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "Version 1 preserves all facts and commitments, including directly identifying recipients as current members; Version 2 slightly changes that framing to a conditional. Version 3 preserves the pricing and timing but omits the stated benefit of more class options during the week and replaces the community acknowledgment with membership alone.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "track2/B5-int",
+    "3": "track2/A-int"
+  }
+}

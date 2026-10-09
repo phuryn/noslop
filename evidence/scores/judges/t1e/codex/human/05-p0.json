@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "The four neatly parallel consequence bullets feel slightly templated, though this is also normal editorial structure.",
+    "2": "Repeated bold lead-ins give the section a somewhat packaged feel.",
+    "3": "none",
+    "4": "“The consequences are significant” adds generic emphasis without information."
+  },
+  "reason": "Version 1 has the clearest hierarchy and most restrained prose; versions 2 and 4 are close, while version 3 reads like an unfinished draft rather than skilled, publishable work. Before sending, I would distinguish escalation from successful rescheduling so the 30-minute metric cannot imply coverage that was never secured.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "E",
+    "4": "O"
+  }
+}

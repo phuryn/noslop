@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3
+  },
+  "reason": "Version 2 keeps the $129 price, fuller-picture benefit, and care-guidance purpose with only small shifts, while version 1 drops that benefit claim entirely and version 3 drops care guidance and the fuller-picture purpose and adds an unsupported “can be added” claim.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "track2/B3-int",
+    "3": "track2/A-int"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 5,
+    "3": 4,
+    "4": 2,
+    "5": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Redundant and unnatural phrasing, especially “You don't have to measure our pre-measured dry ingredients,” plus generic words like “amazing,” “scrumptious,” and “yummy.”",
+    "3": "Reads like a compressed rewrite, with slightly off phrasing such as “start at the mixing.”",
+    "4": "A slightly over-smoothed, generic rhythm, especially “which leaves more time for stirring, baking, and sneaking a taste.”",
+    "5": "Slogan-like fragments such as “A little measuring done. A little joy delivered.” feel manufactured rather than naturally spoken."
+  },
+  "reason": "Version 1 has the warmest, most natural voice while staying clear, credible, and useful for a landing page. The others range from mildly over-polished to awkward or artificially slogan-like.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "E",
+    "3": "A",
+    "4": "B3",
+    "5": "O"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1,
+    "4": 4,
+    "5": 5
+  },
+  "reason": "Version 3 preserves the original most completely; version 1 drops the family acknowledgment, while version 2 adds minor timing and charging implications through “We're rolling out” and “plugging in.” Version 4 omits the reassurance about questions and the family acknowledgment; version 5 additionally makes the subject's availability timing less precise, strengthens support's offer to “will,” and replaces belonging with choosing Kestrel.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "C",
+    "3": "B2",
+    "4": "A",
+    "5": "B"
+  }
+}

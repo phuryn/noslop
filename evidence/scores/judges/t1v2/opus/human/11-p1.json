@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2,
+    "4": 4,
+    "5": 5
+  },
+  "send": "2",
+  "tells": {
+    "1": "Very little; it is plain and slightly flattened (\"nights that end\" loses \"actually\"), which reads like a light smoothing pass.",
+    "2": "Very little; the bold label headers (\"What you'll do:\", \"What we're after:\") are a common template, but they suit a job post.",
+    "3": "Very little; the en dash in the pay range is the only polished-looking detail in otherwise natural prose.",
+    "4": "It drops \"a schedule you can plan a life around\", and \"The pay is\" sounds slightly stiff, which suggests a trimming edit.",
+    "5": "Forced casualness (\"honestly, that's the fun part\", \"your opinion will actually count\") and a paraphrase that loses the punch of \"we like it that way\"."
+  },
+  "reason": "Version 2 keeps the strongest voice (\"slammed on the weekends\", \"nights that actually end\") and adds scannable headers that suit a job post. Version 5 reads like a rewrite that swaps a confident voice for chatty filler.",
+  "label_to_arm": {
+    "1": "B",
+    "2": "O",
+    "3": "B2",
+    "4": "A",
+    "5": "C"
+  }
+}

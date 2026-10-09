@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 5,
+    "4": 1,
+    "5": 3
+  },
+  "reason": "Version 4 keeps every fact, apology and the thank-you. Versions 1 and 5 drop only the courtesy close; version 2 adds a compensation rationale, and version 3 adds an admission of fault and an assumption about the customer, and turns the in-progress refund into one already completed.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "E",
+    "3": "C",
+    "4": "B5",
+    "5": "B3"
+  }
+}

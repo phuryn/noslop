@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 2,
+    "5": 5
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "Bolded signposts and perfectly parallel 'Mitigation:' lines feel templated and AI-edited.",
+    "4": "The evenly distributed plain-spoken idioms, like 'walk away cleanly' and 'let it slide,' can feel artificially humanized.",
+    "5": "Markdown headings and repeated 'We will' constructions make it feel flattened and generically AI-produced."
+  },
+  "reason": "Version 1 is the best send because it is clear, credible, and professional while still sounding like a human memo rather than an over-polished template. Versions 3 and 5 especially show AI-editing tells in their uniform structure and flattened phrasing.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "E",
+    "3": "O",
+    "4": "C",
+    "5": "track2/A-int"
+  }
+}

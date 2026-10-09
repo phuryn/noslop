@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "Cutting “but here we are” sands off the shrug that makes the joke land, leaving a neater but flatter close."
+  },
+  "reason": "The voice is specific and dry in all three; the shrug in the first paragraph is the human beat, and version 1 keeps it with finished punctuation. Version 3 reads like an edit toward neatness rather than a person talking.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "A",
+    "3": "B3"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Slightly formulaic 'Once calibration finishes' transition",
+    "3": "Curly apostrophe in 'you’re' and the same formulaic 'Once' phrasing"
+  },
+  "reason": "Version 1 reads most naturally with 'Make sure' and 'When,' while versions 2 and 3 use slightly more formal, template-like phrasing; version 3 adds a curly apostrophe that feels less like plain-text human input.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "O"
+  }
+}

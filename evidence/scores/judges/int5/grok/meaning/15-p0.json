@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1
+  },
+  "reason": "Version 3 keeps the original claims, premium offer, and caveats without unsupported additions. Version 1 is next because its new specifics come from the writer and it drops only small nuances, while version 2 omits commitments such as staying consistent and what Premium unlocks.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "track2/A-int",
+    "3": "B5"
+  }
+}

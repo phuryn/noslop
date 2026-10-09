@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 5,
+    "2": 3,
+    "3": 2,
+    "4": 4,
+    "5": 1
+  },
+  "reason": "Version 5 preserves nearly all meaning; version 3 drops the explicit trade-and-prospects claim, while version 2 changes enduring demand for skills into a hiring prospect. Version 4 adds existing manual ability and a strict part-release commitment; version 1 adds stronger lifetime-employment promises and a common-sense requirement while losing the experienced-colleague detail.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "A",
+    "3": "B3",
+    "4": "C",
+    "5": "B5"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "dropped": [
+    {
+      "item": "The framing that restaurants, family gatherings, and busy shops can make it hard to follow a conversation. The edit keeps the settings but drops the stated problem.",
+      "severity": "minor"
+    },
+    {
+      "item": "The reassurance that 'there's no such thing as a silly question' when contacting support",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "Original: Crowd Focus 'helps your hearing aids bring the voice in front of you forward.' Edit: it 'brings the voice in front of you forward.' The hedge is removed, so the claim sounds more certain.",
+      "severity": "minor"
+    },
+    {
+      "item": "Subject line says 'free from October 20,' which could suggest everyone gets it on that date. The original says the rollout only begins October 20 and users are notified when it's ready. The body still says 'starts rolling out.'",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1
+  },
+  "reason": "Version 3 preserves nearly all substantive meaning, though it drops working “closely” with the chef; version 1 omits the explicit promise of a schedule you can plan a life around. Version 2 adds a stronger promise that nights end “at a decent hour” and changes caring about seasoning into specifically tasting the third plate.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "B"
+  }
+}

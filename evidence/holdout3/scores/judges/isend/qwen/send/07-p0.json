@@ -1,0 +1,11 @@
+{
+  "send": "1",
+  "reason": "It keeps all the key facts and cautions, including the danger of fluent machine output, while preserving the original voice and examples better than the other versions.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B5",
+    "3": "E",
+    "4": "C"
+  },
+  "picked_arm": "A"
+}

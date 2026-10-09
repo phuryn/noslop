@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 1,
+    "4": 5,
+    "5": 3
+  },
+  "reason": "Version 3 preserves nearly all meaning, while 1 strengthens “hadn’t given much thought” to no thought; 5 makes that absolute and drops the uncertainty in “trying to figure out.” Version 2 adds duration and generalizes some details, while 4 invents careful preparation, replaces individual lessons with good and bad years, and loses the students’ lasting influence and explicit readiness to retire.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "B3",
+    "4": "E",
+    "5": "B5"
+  }
+}

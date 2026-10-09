@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 5,
+    "2": 3,
+    "3": 4,
+    "4": 2,
+    "5": 1
+  },
+  "reason": "Version 5 preserves the most meaning, including the explicit welcome and acknowledgment of differing winter preparations; version 4 omits the former, while versions 2 and 3 omit both, with 2 retaining the additional ‘catch your breath’ sentiment. Version 1 adds the unsupported claim that ‘most of us’ had disappointing harvests and implies the fondant has only just arrived.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B",
+    "3": "A",
+    "4": "B2",
+    "5": "B3"
+  }
+}

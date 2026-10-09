@@ -1,0 +1,16 @@
+{
+  "dropped": [
+    {
+      "item": "The word \"all\" in \"all repair tickets move\". The edit says \"repair tickets move,\" which slightly softens the explicit statement that every ticket moves.",
+      "severity": "minor"
+    },
+    {
+      "item": "The framing that this is \"a change\" to how tickets are handled. The edit says \"about how we're handling,\" though the bullets still make the change clear.",
+      "severity": "minor"
+    }
+  ],
+  "changed": [],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

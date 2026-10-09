@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3,
+    "4": 4
+  },
+  "send": "2",
+  "tells": {
+    "1": "none; the closing 'whether that fits what you need' is a little padded but natural",
+    "2": "none",
+    "3": "Stacked one-sentence paragraphs with two back-to-back questions and the soft template close 'where we might fit' feel formulaic",
+    "4": "none; its problems are human sloppiness (duplicated 'Hi', repeated 'Would you be open', wordy phrasing), not AI patterns"
+  },
+  "reason": "Version 2 is the tightest and most natural. It states the offer, gives the proof point, and makes a clear, low-friction ask without padding. Version 4 sounds human but unpolished, and Version 3 is clean but reads like a template.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "O",
+    "4": "E"
+  }
+}

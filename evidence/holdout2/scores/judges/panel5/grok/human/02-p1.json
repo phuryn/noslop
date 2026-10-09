@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 3,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "The stock 'work, keep in touch or relax' triad, plus a second apology in the close.",
+    "2": "Restating 'Nine hours' to launch the empathy line.",
+    "3": "The same lifestyle triad folded into one overly smooth sentence.",
+    "4": "none"
+  },
+  "reason": "Version 4 is the plainest: spoken wording, no invented customer scenarios, and it stops once the credit is clear. The others add template padding—the activity list, a repeated 'nine hours,' or a second apology—that makes them feel generated.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "A",
+    "3": "B5",
+    "4": "B3"
+  }
+}

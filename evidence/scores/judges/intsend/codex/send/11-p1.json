@@ -1,0 +1,11 @@
+{
+  "send": "1",
+  "reason": "It keeps my direct, conversational voice and includes the specifics I supplied: whole-animal butchery, the tough Friday service, a four-day week, fully covered employee health insurance, and staff progression. It also avoids promising a closing time or overstating the sous chef’s influence.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "E",
+    "3": "track2/A-int",
+    "4": "C"
+  },
+  "picked_arm": "track2/B5-int"
+}

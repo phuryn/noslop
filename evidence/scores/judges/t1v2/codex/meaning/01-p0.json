@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 3,
+    "4": 1
+  },
+  "reason": "Version 4 best preserves the original, including timely care; version 1 loses that nuance, and both strengthen “sometimes” to “often.” Version 3 turns mixed results from calls into outright failure and drops the operational lesson, while version 2 adds unsupported claims about speed, texting being the only change, and a one-month trial.",
+  "label_to_arm": {
+    "1": "B",
+    "2": "C",
+    "3": "A",
+    "4": "B2"
+  }
+}

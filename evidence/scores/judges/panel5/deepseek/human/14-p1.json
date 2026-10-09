@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 6,
+    "4": 4,
+    "5": 1,
+    "6": 5
+  },
+  "send": "5",
+  "tells": {
+    "1": "Generic, balanced phrasing with no concrete personal details; safe and voiceless.",
+    "2": "Overstuffed with idioms and exclamations like 'bursting at the seams' and 'fun anniversary party,' plus a clunky fifth post.",
+    "3": "Very AI-polished: em-dash, 'Every shelf, every table, every book' triad, and parallel sentence fragments.",
+    "4": "Smooth but voiceless; too evenly measured and generic.",
+    "5": "none",
+    "6": "Flat, generic reconstruction with an awkward clause like 'We wouldn't be here without you coming in.'"
+  },
+  "reason": "Version 5 reads most like a real person wrote it for a bookstore audience, with specific, warm, lightly funny details. It avoids the polished generic symmetry that marks several of the other versions as AI-assisted.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "E",
+    "3": "O",
+    "4": "B3",
+    "5": "C",
+    "6": "B5"
+  }
+}

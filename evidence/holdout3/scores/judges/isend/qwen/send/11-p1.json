@@ -1,0 +1,11 @@
+{
+  "send": "4",
+  "reason": "It keeps the original facts, tone, and most key qualifiers while reading naturally and closely to the writer's voice. It is the most faithful overall rewrite.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "E",
+    "4": "B5"
+  },
+  "picked_arm": "B5"
+}

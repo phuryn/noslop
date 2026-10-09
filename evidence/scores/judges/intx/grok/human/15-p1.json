@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 5,
+    "4": 4,
+    "5": 2
+  },
+  "send": "2",
+  "tells": {
+    "1": "none",
+    "2": "Campaign-style section scaffold and evenly matched bullets, plus the slightly unnatural 'films every one.'",
+    "3": "Empty filler ('guidance you can trust,' 'unlock more of what the app has to offer') and sanded, parallel cadence.",
+    "4": "Fake-feeling specificity: an unsourced 'Gwen Harper' outcome and a '312' count the other versions don't share.",
+    "5": "Even, low-texture bullets and stock phrasing ('proper form and technique') with little personal voice."
+  },
+  "reason": "Version 2 reads like a skilled store-listing writer: a clear hook, natural wording, and no claims past the shared facts. Version 3 is generic polish, and version 4's anecdote and odd count undercut credibility.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "C",
+    "3": "O",
+    "4": "track2/B5-int",
+    "5": "track2/A-int"
+  }
+}

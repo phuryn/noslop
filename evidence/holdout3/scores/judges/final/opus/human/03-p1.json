@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 6,
+    "2": 3,
+    "3": 5,
+    "4": 4,
+    "5": 2,
+    "6": 1
+  },
+  "send": "6",
+  "tells": {
+    "1": "A bulleted 'Here's how it works' list repeats facts already given in the prose, and padded lines like 'and that's it' read like a template.",
+    "2": "none (its flaws are human ones: the dangling 'As an existing customer, we would like…', 'each and every', and inconsistent punctuation)",
+    "3": "It is compressed into tidy, generic statements with no warmth or voice, like a summarised rewrite.",
+    "4": "The appositive 'our thank you for being part of our community' is tacked on awkwardly, and the 14 October date appears twice in a very short email.",
+    "5": "The 14 October date appears twice, and the stacked stock pleasantries ('Thanks for being with us', 'No pressure') follow a formula.",
+    "6": "none (only a mild cliché in 'quietly working on something')"
+  },
+  "reason": "Version 6 has the most natural rhythm, a concrete image ('stop mid-page'), and a logical order (launch date, then sign-up, then the loyalty discount), with no redundancy. It reads like a confident human writer rather than a templated or over-edited draft.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "E",
+    "3": "A",
+    "4": "B3",
+    "5": "B5",
+    "6": "C"
+  }
+}

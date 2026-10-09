@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1
+  },
+  "reason": "Version 3 preserves nearly all claims and the exact subscription terms and medical caveat, though it omits that Premium unlocks more functionality; Version 1 also loses the explicit free start and ability to see progress over time. Version 2 adds a guarantee of never missing sessions, changes renewal timing and omits the cancellation deadline, and alters the medical caveat.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "E",
+    "3": "B3"
+  }
+}

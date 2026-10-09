@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 4,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "Slightly templated structure: an 'Options' heading for just two bullets, followed by a carefully scripted confirmation request.",
+    "2": "none",
+    "3": "Overexplains the response options across two conditional sentences, making a simple Slack request feel laboured.",
+    "4": "none"
+  },
+  "reason": "Version 4 leads with the recommendation and gives Anita the cost comparison, deadline and response needed in one compact message. Version 2 is easy to scan; these stylistic differences do not reliably establish AI authorship.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B3",
+    "3": "C",
+    "4": "A"
+  }
+}

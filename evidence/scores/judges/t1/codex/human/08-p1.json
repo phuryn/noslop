@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2,
+    "4": 4
+  },
+  "send": "2",
+  "tells": {
+    "1": "The closing phrase 'a simple way to get the full picture' feels like generic promotional copy and overstates what the panel provides.",
+    "2": "none",
+    "3": "none",
+    "4": "The closing stack of vague benefits—'a practical way,' 'a fuller picture,' and 'make the most'—feels formulaic."
+  },
+  "reason": "Version 2 balances clear explanation, a natural professional voice, and a practical closing that connects the service to the visit. Version 3 is clean but ends abruptly; these rankings reflect editorial impressions, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B",
+    "3": "A",
+    "4": "O"
+  }
+}

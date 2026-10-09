@@ -1,0 +1,11 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1
+  },
+  "reason": "Version 2 keeps nearly all content, including 'injury, damage or harm', the early-warning framing, 'prompt, accurate reports', and 'without exception'; it drops only 'It's how we keep each other safe'. Version 1 removes 'harm' from the near-miss definition, drops the 'without exception' emphasis, and cuts the early-warning and accuracy rationale.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3"
+  }
+}

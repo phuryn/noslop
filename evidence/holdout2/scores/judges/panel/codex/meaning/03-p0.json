@@ -1,0 +1,11 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2
+  },
+  "reason": "Version 1 preserves the explicit statement that the engine cutaway display is being added to the booth and the request for display specs. Version 2 slightly reduces that specificity, though both retain all facts, numbers, commitments, and caveats in context.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3"
+  }
+}

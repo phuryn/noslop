@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 1,
+    "4": 4
+  },
+  "reason": "Version 3 keeps nearly every fact and line, losing only the 'lovely' framing; Version 2 drops 'an anniversary to celebrate' and the '10 years of The Tidewater Bookshop' detail in the invitation. Version 1 also cuts 'Those visits helped us get here' and 'every book', and adds 'to a friend'; Version 4 invents details ('started with what we loved', 'first week', 'reread a dozen times', 'a friend borrowed it and never gave it back').",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B",
+    "3": "B2",
+    "4": "C"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 4,
+    "4": 1,
+    "5": 5,
+    "6": 6
+  },
+  "send": "2",
+  "tells": {
+    "1": "Tidy three-benefit list packed into one sentence (fewer empty chairs, less phone time, more patients getting care)",
+    "2": "\"A no-show isn't just a hole in the schedule. It's...\" reframe, plus a tacked-on lesson line",
+    "3": "Generic moral: \"sometimes the biggest operational wins come from meeting people where they already are\"",
+    "4": "none (clunky phrasing, a comma splice, British spelling and an awkward list all read as an unpolished human draft)",
+    "5": "Lesson line stated as an abstract takeaway (\"meeting patients where they already are\") that doesn't quite fit the claim",
+    "6": "Templated LinkedIn structure: \"The change was simple:\" and \"Here's what that meant in practice:\", a three-bullet list and a \"The lesson for me:\" kicker"
+  },
+  "reason": "Version 4 reads most like an unedited human draft but is too rough to publish. Version 2 keeps a natural first-person voice (\"all we did was start texting people\", \"try texts for a month\") and gives a concrete call to action, so it's the most credible and engaging to send.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "B5",
+    "4": "E",
+    "5": "B3",
+    "6": "O"
+  }
+}

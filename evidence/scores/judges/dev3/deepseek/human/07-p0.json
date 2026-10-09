@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 4,
+    "3": 5,
+    "4": 1,
+    "5": 2
+  },
+  "send": "4",
+  "tells": {
+    "1": "Polished compound sentence with 'with only...' and 'target date' feels a bit corporate-smooth.",
+    "2": "'The remaining piece is...' is a vague, formal phrase typical of AI writing.",
+    "3": "Inverted syntax ('The Android biometric flow is the remaining piece') sounds more stilted than a human update.",
+    "4": "none",
+    "5": "Slight formality in the full opening noun phrase, but otherwise natural."
+  },
+  "reason": "Version 4 is the most conversational and team-natural, using 'we're' and 'hit Nov 3' while staying clear and credible.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "O",
+    "3": "B3",
+    "4": "C",
+    "5": "B5"
+  }
+}

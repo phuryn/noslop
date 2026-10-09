@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "Version 1 preserves the original problem, need, monitoring solution, purpose, and audit outcome most exactly, losing only the final praise. Version 2 retains the high-standards idea but weakens 'need' to 'wanted', while Version 3 also drops the 'came to us' detail.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B5",
+    "3": "B3"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "send": "4",
+  "reason": "Version 4 keeps every fact intact, including 15 minutes vs. hourly, bulk invoice updates, and the PDF currency-symbol bug, and it stays closest to my wording, changing only the heading format and dropping the bold labels. Version 1 adds 'much sooner', 3 changes 'didn't display correctly' to 'wasn't showing up', and 2 ends on the awkward 'Before, they didn't.'",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B5",
+    "3": "E",
+    "4": "A"
+  },
+  "picked_arm": "A"
+}

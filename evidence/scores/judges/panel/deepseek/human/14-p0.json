@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 5,
+    "4": 4,
+    "5": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "Clichéd, padded language like 'marks a special milestone,' 'bursting at the seams,' and 'is an understatement' makes it feel unnatural.",
+    "4": "Polished rhetorical devices like the rule of three ('Every shelf, every table, every book') and the em dash give it a formulaic AI polish.",
+    "5": "Smooth but generic phrasing such as 'we could make a start' and 'Those visits helped us get here' reads like AI-edited copy."
+  },
+  "reason": "Version 2 feels the most authentically human and engaging, with specific, warm details and a clear voice, while still covering the key information effectively.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "E",
+    "4": "O",
+    "5": "B3"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1
+  },
+  "send": "3",
+  "tells": {
+    "1": "Placeholder vagueness: 'what the utility learned' and 'what other utilities should weigh' never say what was learned. The bio uses an anonymous 'the speaker' and repeats the 14%-to-9% stat from the abstract.",
+    "2": "Generic AI phrasing: 'can help reveal leaks that might otherwise go unnoticed,' 'This talk explores,' 'practical considerations for utilities looking to make better use of.' It hedges with 'help reduce' and repeats the stat in the bio.",
+    "3": "none"
+  },
+  "reason": "Version 3 has concrete, checkable details (SCADA, 18 months, 410M gallons, $85K, a named field tech, a 30% false-positive rate) and admits what it can't attribute or what didn't matter (the ML). That candor reads as a real practitioner and makes it the most credible and compelling submission. Versions 1 and 2 are interchangeable shells around one statistic, and Version 2 adds stock AI filler.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "O",
+    "3": "track2/B2-int"
+  }
+}

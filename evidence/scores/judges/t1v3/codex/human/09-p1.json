@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 3,
+    "5": 5
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "The explanation that the battery failure 'qualifies' feels procedural and unnecessary after announcing the replacement.",
+    "4": "none",
+    "5": "Stacked apologies and stock phrases such as 'That's not the experience we want you to have' add length without useful information."
+  },
+  "reason": "Version 1 balances a specific apology, a clear resolution, and an easy next step with a consistent professional tone; version 2 is a close, warmer alternative. These rankings reflect editorial judgment, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "B",
+    "4": "B3",
+    "5": "O"
+  }
+}

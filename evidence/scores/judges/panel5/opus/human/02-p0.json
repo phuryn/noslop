@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 2,
+    "3": 1,
+    "4": 4,
+    "5": 3,
+    "6": 6
+  },
+  "send": "3",
+  "tells": {
+    "1": "none. The flaws are human ones: a doubled greeting ('Hi [First Name], Hi,'), 'Would you be open' twice in a row, and loose phrasing. It reads as an unpolished first draft.",
+    "2": "none",
+    "3": "none. 'Where we might fit' is a stock closer, but 'the occasional last-minute run' and 'glad to pitch in' sound natural.",
+    "4": "'We'd like to help' plus 'where we might fit' together feel like a generic sales template.",
+    "5": "'Whether that fits what you need' is a slightly hedged, filler-ish closer.",
+    "6": "A stiff, formal register ('We provide', 'discuss') and a templated rhythm of one line, one question, one question."
+  },
+  "reason": "Version 3 states the facts clearly and makes a warm, specific offer that sounds like a real dispatcher or sales rep. Version 2 is a close, tighter second. Version 1 is plainly human but too sloppy to send, and Version 6 reads the most like a template.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "B3",
+    "3": "C",
+    "4": "B5",
+    "5": "A",
+    "6": "O"
+  }
+}

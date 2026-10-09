@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 5,
+    "3": 2,
+    "4": 4,
+    "5": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Awkwardly compressed phrasing: 'changed how I explained something for the next twenty years' and 'teach again' feel slightly off.",
+    "3": "Mostly natural, but 'trying to figure out how to teach again' is a bit generic and over-regularized.",
+    "4": "Colon followed by finite verbs and a later semicolon gives it a list-like, copyedited AI rhythm.",
+    "5": "Parallel colon list with gerunds plus semicolon feels overcrafted; 'found myself doing the usual things' is a common polished AI construction."
+  },
+  "reason": "Version 1 reads like a genuine personal reflection with looser syntax, concrete idiom, and a more distinctive voice. It balances clarity with human texture better than the smoother but more standardized rewrites.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B5",
+    "3": "B3",
+    "4": "A",
+    "5": "O"
+  }
+}

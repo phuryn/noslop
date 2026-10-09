@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 5,
+    "4": 2,
+    "5": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "The padded phrase 'comes after that, which is' feels like a mechanical paraphrase of a cleaner sentence.",
+    "3": "Repeated short sentences and 'ignore them until next summer' suggest simplification at the expense of nuance and credibility.",
+    "4": "none",
+    "5": "none"
+  },
+  "reason": "Version 1 has the best balance of natural rhythm, useful detail and understated warmth; version 4 is a close second with a more chatty voice. These are editorial judgments about how the prose reads, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "track2/B5-int",
+    "3": "E",
+    "4": "C",
+    "5": "O"
+  }
+}

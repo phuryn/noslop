@@ -1,0 +1,189 @@
+[
+  {
+    "id": 1,
+    "genre": "LinkedIn post",
+    "writer": "Marta Okafor, Operations Director, ReThread Mills (textile recycling, West Yorkshire)",
+    "request": "can you write a linkedin post about ReThread Mills passing 1,000 tonnes of textiles kept out of landfill this year? want to thank the sorting team at our Bradford site, we only opened it in March 2023. humble tone, no hashtag spam, around 150-200 words",
+    "hidden_facts": [
+      "The exact figure was 1,042 tonnes as of 30 September.",
+      "About 61% of it was resold or reused as clothing, most of the rest was shredded into insulation fibre, and roughly 8% still ended up incinerated.",
+      "Sorter Wiesław Nowak spotted a 1950s trench coat in a mixed bale that sold for £640, and the team spent the money on a staff barbecue.",
+      "They lost a council collection contract in June, and volume dipped for two months before recovering.",
+      "The team is 23 sorters, and each one hand-grades about 1.2 tonnes per shift.",
+      "Marta privately thinks most fast-fashion brand take-back schemes are PR exercises that send them low-grade stock.",
+      "She is unsure whether to mention the fibre-to-fibre recycling trial, because it isn't confirmed yet.",
+      "She worries a milestone post sounds self-congratulatory when the overall amount of textile waste keeps growing."
+    ]
+  },
+  {
+    "id": 2,
+    "genre": "Cold email to a potential partner",
+    "writer": "Tom Haskett, Founder, Orchard Lane Cider (small cidery, Herefordshire)",
+    "request": "write a cold email from me to the head of food & beverage at Reel North Cinemas pitching our Kingston Black Reserve cider for their bars. it's a 5.2% dry still cider in 330ml cans, wholesale £1.65 a can. suggest a trial in their 6 Yorkshire sites. short-ish but not robotic",
+    "hidden_facts": [
+      "The head of F&B is Imogen Clarke, and Tom spoke to her for two minutes at the Harrogate trade show in September.",
+      "Orchard Lane produced 38,000 cans last year and is already stocked in 14 pubs.",
+      "The Electric Palace, an independent cinema in Hebden Bridge, sells about 400 cans a month and its manager Sam Ruddock has offered to be a reference.",
+      "Their canning line broke down in August, and some orders were delayed by three weeks.",
+      "Tom is unsure they could keep up if the six sites together needed more than 2,000 cans a month.",
+      "The margin at £1.65 is thin, and his real floor price is £1.48 a can.",
+      "Minimum order is 10 cases of 24 cans per delivery.",
+      "His honest view is that cinema bars mostly sell overpriced lager, and a local craft cider would set them apart."
+    ]
+  },
+  {
+    "id": 3,
+    "genre": "Product launch email to customers",
+    "writer": "Priya Nandakumar, Co-founder, Inkwell & Co. (online stationery and fountain pen ink shop, Manchester)",
+    "request": "need a launch email for our customers announcing Refill Club, our ink subscription. £12/month, you get 3 bottles of 30ml ink, launches 14 October, existing customers get 20% off the first 3 months. friendly, not salesy",
+    "hidden_facts": [
+      "The idea came from a customer, Margaret Hale, who emailed nine times this year asking when Harbour Blue would be back in stock.",
+      "Harbour Blue sold out four times this year.",
+      "312 people have joined the waitlist so far.",
+      "They need about 400 subscribers to break even on the packaging and fulfilment setup.",
+      "The skip-a-month and pause feature won't be ready at launch and is planned for November.",
+      "Postage alone costs them £3.10 per one-off order, which the subscription mostly removes.",
+      "Their supplier in Stoke-on-Trent mixes the inks in 20-litre batches, so colours can vary slightly between batches.",
+      "Priya personally dislikes subscription-everything but thinks this one actually saves customers money."
+    ]
+  },
+  {
+    "id": 4,
+    "genre": "Newsletter intro",
+    "writer": "Gareth Lloyd, Team Leader, Glyderau Mountain Rescue Team (volunteer mountain rescue, Snowdonia)",
+    "request": "write the intro for our autumn supporters newsletter. we've had 47 callouts so far this year, the new Land Rover arrives in November thanks to donations, and open day is Sunday 1 November at the base in Capel Curig. warm thank-you tone, couple of paragraphs",
+    "hidden_facts": [
+      "At the same point last year the team had 39 callouts.",
+      "The Land Rover cost £68,000, and £51,000 of that came from the public appeal.",
+      "Huw Pritchard, a walker they carried off Tryfan with a broken ankle in May, later ran a sponsored hike that raised £3,200 toward the vehicle.",
+      "Two of this year's callouts turned out to be false alarms, and several involved walkers in trainers with no torch.",
+      "Gareth believes most callouts would be prevented if people carried a map and a headtorch.",
+      "The team has 34 active volunteers, but only about 9 are reliably available on weekday daytimes.",
+      "The dealer has only said 'mid-November, probably' for the Land Rover delivery, so the date isn't certain."
+    ]
+  },
+  {
+    "id": 5,
+    "genre": "Slack update to the team",
+    "writer": "Hana Sato, Exhibitions Manager, Calder Museum of Natural History (regional museum, Yorkshire)",
+    "request": "write a slack update for the #exhibitions channel: Deep Time opening moves from Thu 12 Nov to Thu 19 Nov, the lighting rig issue is fixed, and we need 4 volunteers this Saturday for mount installation. a few short paragraphs, upbeat but clear",
+    "hidden_facts": [
+      "The real cause of the delay is that the ichthyosaur cast arrived with a crack in the tail section, and the conservator needs six working days to repair it.",
+      "Electrician Dev Patel spent two days on the lighting fault before tracing it to a faulty dimmer pack.",
+      "The press preview is moving too, and comms hasn't told the journalists yet.",
+      "Saturday's install runs 9am to 3pm, lunch is provided, and steel-toe boots are required.",
+      "The lender, the Yorkshire Geological Trust, requires 48 hours of stable humidity before the ammonite cases can be loaded.",
+      "Hana thinks the team should have built in a two-week buffer, but the director pushed for the original date.",
+      "She isn't sure whether the gift shop's exhibition stock delivery also needs to be postponed."
+    ]
+  },
+  {
+    "id": 6,
+    "genre": "Customer support reply",
+    "writer": "Daniel Reyes, Customer Care Lead, Hollis & Grain Furniture (online furniture retailer, Midlands)",
+    "request": "help me reply to Mrs Abebe, her oak sideboard (order HG-48213) was supposed to arrive 3 Oct and didn't. new delivery date is Sat 24 Oct and we're refunding the £45 delivery fee. apologetic but not grovelling",
+    "hidden_facts": [
+      "The courier van broke down on 3 October, and the warehouse check then found a damaged drawer, so a replacement had to come from the Leicester workshop.",
+      "Mrs Abebe called three times, and she was wrongly told twice that the item was 'out for delivery'.",
+      "She took a day off work on 3 October to wait in for the delivery.",
+      "She told agent Chloe the sideboard is for her daughter's first flat.",
+      "Daniel thinks she deserves a 10% voucher on top, but his manager only approved the delivery refund.",
+      "Delivery is by a two-person team in a 7am to 1pm window.",
+      "Daniel is not fully confident 24 October will hold, because the Leicester workshop has a backlog."
+    ]
+  },
+  {
+    "id": 7,
+    "genre": "Blog post paragraph (how-to or opinion)",
+    "writer": "Lucía Ferrer, Freelance Legal Translator (Spanish-English), Ferrer Translations, Barcelona",
+    "request": "write a paragraph for my blog arguing that 'post-editing' machine translation of contracts is a false saving. I've translated Spanish-English legal docs for 12 years and charge €0.11 a word, agencies keep offering €0.04 for post-editing. opinion, first person, one solid paragraph",
+    "hidden_facts": [
+      "Post-editing a 6,000-word lease took her 9 hours, compared with about 11 hours to translate it from scratch.",
+      "Machine translation rendered 'arras penitenciales' as 'penitential deposit' in a property purchase, and the client's lawyer, Jordi Puig, nearly missed it.",
+      "She took two post-editing jobs in 2024 when money was tight, and she regretted both.",
+      "She knows some agencies charge clients around €0.18 a word for 'human-verified' machine translation.",
+      "Her professional indemnity insurance makes no distinction between translating and post-editing, so she carries the same liability either way.",
+      "She honestly thinks machine translation is fine for getting the gist of internal documents.",
+      "She worries the piece will make her sound like a Luddite."
+    ]
+  },
+  {
+    "id": 8,
+    "genre": "Landing page section",
+    "writer": "Ben Atherton, Founder, SkyField Surveys (agricultural drone mapping, East Anglia)",
+    "request": "write the 'how it works' section for our landing page. we fly drones over your fields and send crop health maps within 48 hours, £6 per hectare, minimum 40 hectares, covering Lincolnshire and Norfolk. 3 steps with a short intro",
+    "hidden_facts": [
+      "Typical turnaround is about 30 hours, and 48 is the promise because rain delays happen.",
+      "They flew 9,400 hectares this season.",
+      "Farmer Rob Kettering near Spalding used a map to find a blocked field drain causing waterlogging, which saved him about £2,100 in fungicide he had planned to spray.",
+      "They can't fly in winds over 25 mph, so bookings sometimes slip by a day or two.",
+      "The maps come from a multispectral camera and are processed overnight.",
+      "Ben thinks satellite imagery at 10-metre pixels is too coarse for most decisions, compared with their roughly 3 cm resolution.",
+      "There is only one full-time pilot, Ben himself, plus one part-timer.",
+      "He is unsure whether to mention expanding into Cambridgeshire next spring."
+    ]
+  },
+  {
+    "id": 9,
+    "genre": "Job post intro",
+    "writer": "Fiona McBride, Director, McBride Joinery (family-run bespoke joinery workshop, Dundee)",
+    "request": "write the intro for a job ad: we're hiring an apprentice CNC operator, £24,500 starting, 4-day week Mon-Thu, apply by 31 October. make it sound like a real workshop not a corporate ad, couple of paragraphs",
+    "hidden_facts": [
+      "McBride Joinery is a third-generation family business founded in 1978 and has 14 staff.",
+      "Their last apprentice, Callum Reid, now runs the CNC shop at age 26.",
+      "The previous hire for this role left after five weeks because the commute was too long.",
+      "Most of their work is staircases, sash windows and fitted kitchens for heritage tenements.",
+      "The SVQ Level 3 is fully paid, with day release at Dundee and Angus College.",
+      "They have trialled the four-day week since January 2025, and output is up about 6%.",
+      "Fiona would rather hire attitude than experience.",
+      "She is unsure whether to admit the workshop gets cold in winter."
+    ]
+  },
+  {
+    "id": 10,
+    "genre": "Speaker bio",
+    "writer": "Dr Amara Nwosu, Head of the Moorland Fire Research Unit, University of Sheffield",
+    "request": "write my speaker bio for the Landscape Resilience Summit, 3rd person, ~100 words. I'm a fire ecologist, I lead the Moorland Fire Research Unit, 15 years studying wildfire on UK peatlands, talk is called 'Burning Questions: Peat, Policy and the 2025 Fire Season'",
+    "hidden_facts": [
+      "She has published 41 peer-reviewed papers.",
+      "She led the post-fire survey of about 2,300 hectares of burned moorland after the 2025 fires.",
+      "Gamekeeper Alan Birch's field notes on how fires behaved on different slopes changed her sampling method early in her career.",
+      "She grew up in Lagos and first saw moorland at 19, on a university field trip.",
+      "Her honest view is that blanket bans on managed burning oversimplify a complicated problem.",
+      "She is unsure whether to signal that position in the bio, because it is controversial with some of the summit's sponsors.",
+      "She dislikes bios that say 'award-winning' and doesn't want the word used."
+    ]
+  },
+  {
+    "id": 11,
+    "genre": "Personal essay paragraph",
+    "writer": "Kwame Asante, HGV Mechanic, writing for the Lewisham Writers' Circle annual anthology",
+    "request": "help me write a paragraph for a personal essay about learning to swim at 52. lessons were Tuesdays 7am at Ladywell Arena, my instructor was Joan. reflective, honest, not cheesy, one paragraph",
+    "hidden_facts": [
+      "His daughter Abena, who is 9, asked him on holiday why he never got in the pool, and that question is what made him book the lessons.",
+      "He grew up near Kumasi and nearly drowned at Lake Bosomtwe when he was about 8.",
+      "It took 11 lessons before he swam his first unaided length.",
+      "In lesson 3 he swallowed water, panicked and almost quit, and Joan told him, 'The water doesn't know you're scared.'",
+      "He was embarrassed enough at first to keep his goggles hidden in the car.",
+      "The adult beginners always got lane 1, by the wall.",
+      "He still can't do breaststroke properly, only a clumsy front crawl.",
+      "He isn't sure the essay should end on a triumphant note, because he still feels nervous in deep water."
+    ]
+  },
+  {
+    "id": 12,
+    "genre": "Community event announcement",
+    "writer": "Olu Bankole, Volunteer Coordinator, Friends of Ashton Park (neighbourhood park group, Greater Manchester)",
+    "request": "write an announcement for our tree planting day: Saturday 21 November, 10am to 1pm, planting 60 saplings, meet at the bandstand, bring gloves if you have them. friendly, it's for the website and facebook",
+    "hidden_facts": [
+      "The saplings are 40 hawthorn plus a mix of rowan and field maple, forming a new hedgerow along the north path.",
+      "The trees come free through the county council's Canopy scheme.",
+      "At last spring's planting, 3 of 25 saplings died because nobody watered them during the heatwave.",
+      "Maisie Collins planted an oak at the 2023 event when she was 8 and still visits it with her grandad.",
+      "35 people have signed up, but Olu wants about 50.",
+      "Under-16s must be supervised by an adult under the council's insurance terms.",
+      "The park café is donating soup and tea for volunteers.",
+      "Olu's real goal is to recruit a summer watering rota, but he doesn't want to scare people off in the first post."
+    ]
+  }
+]

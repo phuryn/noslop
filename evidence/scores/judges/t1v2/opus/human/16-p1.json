@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2,
+    "4": 4,
+    "5": 5
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "\"never as a way of leaving the room\": the trim turns a plain thought into a neat aphoristic contrast",
+    "3": "the semicolon-balanced \"Some lessons had gone beautifully; others...\" pairing feels slightly composed",
+    "4": "staccato triplet of short sentences (\"I straightened... I checked... I wiped...\") and the split closing line read as a performed casual rhythm",
+    "5": "\"I found myself doing\" and \"hadn't given much thought\" are stock reflective phrasing, plus typographic curly quotes"
+  },
+  "reason": "Version 1 sounds like the natural voice of a retiring teacher. It is plain and specific, with understated rhythm and no stylized contrasts or stock reflective phrases. The others either over-polish the idea into an aphorism (2), perform informality (4), or add filler like \"found myself\" (5).",
+  "label_to_arm": {
+    "1": "B2",
+    "2": "B",
+    "3": "A",
+    "4": "C",
+    "5": "O"
+  }
+}

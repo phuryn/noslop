@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 3,
+    "3": 2,
+    "4": 1
+  },
+  "reason": "Version 4 preserves all original facts and key nuances most closely, including founder status, the Steinway apprenticeship, 400+ restorations, 'future worth caring for,' 'find its voice,' and music returning to homes for years to come. Version 3 is close but paraphrases founder/history/future slightly, Version 2 loses the 'find their voice' nuance, and Version 1 changes 'every piano' to 'most' and adds/weakens other nuances.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "C",
+    "4": "B5"
+  }
+}

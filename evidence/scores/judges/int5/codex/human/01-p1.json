@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "The generic takeaway about 'meeting patients where they already are' and closing engagement question feel formulaic; 'All we did' oversimplifies the result.",
+    "3": "The redundant benefits list, announced lesson, and closing engagement question create a conspicuously templated LinkedIn structure.",
+    "4": "The generic 'biggest operational wins' takeaway feels appended, and the patient-benefit language repeats the same point."
+  },
+  "reason": "Version 1 offers concrete costs, operational details, uneven results, and uncertainty about causation, giving readers useful evidence and a credible individual perspective. Version 4 reads more naturally than 2 and 3, but these stylistic judgments cannot establish actual authorship.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "track2/A-int",
+    "3": "O",
+    "4": "B5"
+  }
+}

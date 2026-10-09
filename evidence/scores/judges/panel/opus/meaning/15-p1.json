@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 1,
+    "3": 3,
+    "4": 2
+  },
+  "reason": "Version 2 keeps every fact, number, commitment, and caveat. Version 4 is nearly verbatim but drops that Premium unlocks more. Version 3 also drops the consistency and progress-tracking benefits and the 'proper technique' nuance. Version 1 distorts the renewal and cancellation terms, adds 'never miss a session' and 'free to use' claims, and weakens the medical disclaimer.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "C",
+    "3": "A",
+    "4": "B3"
+  }
+}

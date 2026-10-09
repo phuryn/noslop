@@ -1,0 +1,13 @@
+{
+  "send": "3",
+  "reason": "It keeps the same facts and the original emotional claim—the lock, the pressed tea and apology, the plainly earned comparison, and the hedged first-time feeling of not waiting for life to start—in a voice close to the draft. The others distort a fact, swap a key word, or flatten that ending.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "E",
+    "3": "B5",
+    "4": "V6C",
+    "5": "A",
+    "6": "V6A"
+  },
+  "picked_arm": "B5"
+}

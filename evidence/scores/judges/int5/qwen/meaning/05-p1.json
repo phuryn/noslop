@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1
+  },
+  "reason": "Version 3 preserves the original meaning and caveats most closely, including the routine-reassignment clarification and the explicit outcomes/reduction language. Version 1 is nearly as faithful with minor wording shifts, while Version 2 omits 'not for routine reassignments' and the explicit 'outcomes depend on who is working' point.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "track2/A-int",
+    "3": "track2/B5-int"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 5,
+    "4": 4,
+    "5": 1
+  },
+  "reason": "Version 5 keeps nearly all facts and the invitation, with only a small loss of the 'welcome addition/reminder' nuance; version 1 is close but slightly softens the original gratitude. Version 2 retains the core facts and event details but omits the autumn framing and changes the closing, version 4 adds or tightens facts such as 'bought', 'arrives', and 'have a look around', and version 3 adds a condition and omits key details.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "A",
+    "3": "E",
+    "4": "C",
+    "5": "B3"
+  }
+}

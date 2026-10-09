@@ -1,0 +1,11 @@
+{
+  "send": "2",
+  "reason": "It preserves the original facts, the 'sometimes' caveat, and the closing-gap stakes, and it reads most like the writer's draft.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B5",
+    "3": "C",
+    "4": "E"
+  },
+  "picked_arm": "B5"
+}

@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 4,
+    "3": 2,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "The safety slogan and polished closing feel formulaic, especially alongside repeated instructions.",
+    "2": "Conversational touches such as 'And log every near miss' feel forced, while dense paragraphs bury the actions.",
+    "3": "The stock metaphor 'Near misses are our early warning' is the clearest formulaic touch.",
+    "4": "none"
+  },
+  "reason": "Version 4 is direct, easy to scan and appropriately restrained for a mandatory site policy; version 3 is a close second. These are editorial impressions, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B5",
+    "3": "B3",
+    "4": "A"
+  }
+}

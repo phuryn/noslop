@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3,
+    "4": 4
+  },
+  "reason": "Version 2 keeps the original claims almost verbatim. Version 1 only lightly rephrases the same facts, while version 3 adds “much sooner” and shifts editing to opening, and version 4 changes incorrect currency symbols into a missing singular symbol and drops the one-by-one contrast.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "C",
+    "4": "E"
+  }
+}

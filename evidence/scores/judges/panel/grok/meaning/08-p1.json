@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3,
+    "4": 4
+  },
+  "reason": "Version 2 keeps the vaccine contrast, clinical markers, early-detection caveat, baseline’s role in guiding care, age, and price, omitting only the closing value phrase. Version 1 preserves those clinical facts but drops the vaccine contrast, care-guidance purpose, and value claim; version 3 also drops other health markers and strengthens “fuller” to “full”; version 4 adds “highly beneficial,” turns the recommendation into a question, and loses early detection and the baseline.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "C",
+    "4": "E"
+  }
+}

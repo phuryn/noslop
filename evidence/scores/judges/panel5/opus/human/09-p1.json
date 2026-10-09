@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 6,
+    "4": 3,
+    "5": 2,
+    "6": 5
+  },
+  "send": "4",
+  "tells": {
+    "1": "none",
+    "2": "Two separate 'thanks' bookends ('Thanks for reaching out' / 'Thanks for your patience') feel templated",
+    "3": "Stock empathy line 'That's not the experience we want you to have' plus a doubled apology at the close",
+    "4": "none",
+    "5": "none",
+    "6": "Over-trimmed: 'reply to this message' reads curt, like a compression pass stripped the warmth"
+  },
+  "reason": "Version 4 is concise, apologizes once for both problems, states the fix and next step clearly, and keeps a warm but professional tone without padding. Version 1 feels the most human because of its natural imperfections, but it is stiffer and repeats its apology.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "B5",
+    "3": "O",
+    "4": "B3",
+    "5": "C",
+    "6": "A"
+  }
+}

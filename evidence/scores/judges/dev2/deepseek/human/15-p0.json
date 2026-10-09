@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 5,
+    "3": 4,
+    "4": 2,
+    "5": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Vague 'unlocks additional features' and flat, list-heavy structure with little warmth.",
+    "3": "Uses vague 'adds more to the free app' and has clipped, uneven section headings.",
+    "4": "Overly terse bullet labels and a bare premium line make it feel slightly templated, though otherwise clean.",
+    "5": "Generic filler like 'guidance you can trust' and 'unlock more of what the app has to offer' is common AI phrasing."
+  },
+  "reason": "Version 1 reads the most naturally human: warm, specific, and conversational while avoiding vague premium wording and clipped templated structure.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B5",
+    "4": "B3",
+    "5": "O"
+  }
+}

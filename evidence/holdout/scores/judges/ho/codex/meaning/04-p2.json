@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 4,
+    "4": 3,
+    "5": 5
+  },
+  "reason": "Version 2 preserves the most meaning, including the explicit welcome; version 1 drops that reassurance, while versions 4 and 3 also omit the acknowledgement of differing winter preparations, with 3 additionally recasting the workshop as a promise to discuss practicalities together. Version 5 adds unsupported claims that most beekeepers had disappointing harvests and that the fondant has only just arrived.",
+  "label_to_arm": {
+    "1": "B2",
+    "2": "B3",
+    "3": "A",
+    "4": "B",
+    "5": "C"
+  }
+}

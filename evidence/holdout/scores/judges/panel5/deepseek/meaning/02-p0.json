@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 3,
+    "4": 1
+  },
+  "reason": "Version 4 stays closest to the original wording and preserves all facts and caveats. Version 1 keeps key facts but slightly drops the conditional 'if it sounds of interest'; Version 3 keeps the tentative 'I think' but rephrases the opportunity; Version 2 changes 'I think' to 'I saw' and adds 'good fit,' altering the original's uncertainty and nuance.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "C",
+    "3": "B3",
+    "4": "A"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "dropped": [],
+  "changed": [
+    {
+      "item": "'make the most of their yearly checkup' became 'more out of the checkup', which is a slightly weaker claim and no longer explicitly ties the panel to the yearly visit",
+      "severity": "minor"
+    },
+    {
+      "item": "'after age 7' became 'once they're past 7'. This could be read as slightly later (strictly older than 7), but it is essentially equivalent",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 6,
+    "4": 3,
+    "5": 2,
+    "6": 5
+  },
+  "send": "5",
+  "tells": {
+    "1": "none",
+    "2": "Abstract stacking ('a different job, and a worse one, with the same liability and less of the thinking') plus a tidy tricolon close",
+    "3": "Overloaded subordinate clauses hinged on 'exactly what makes it dangerous'",
+    "4": "The canned short reversal ('It didn't') and rule-of-three ending",
+    "5": "Explainer-template paragraphing and the 'that's what makes it dangerous' hinge",
+    "6": "Even three-part essay shape and the stiff phrase 'less of the thinking'"
+  },
+  "reason": "Only version 1 has an unedited, idiosyncratic working voice; 2–6 share one polished argument template, with 3 the most compressed and 5 the most spoken, so 5 is the rewrite I would actually publish.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "A",
+    "3": "O",
+    "4": "B5",
+    "5": "C",
+    "6": "B3"
+  }
+}

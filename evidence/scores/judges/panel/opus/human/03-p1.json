@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 2,
+    "3": 1,
+    "4": 4,
+    "5": 3
+  },
+  "send": "3",
+  "tells": {
+    "1": "Forced casual tone: the rhetorical question 'Need to change a bunch of invoices?' and the tacked-on 'That's fixed.' read like an attempt to sound human",
+    "2": "Templated bold-label-plus-colon format on every bullet, though the copy itself is tight",
+    "3": "none",
+    "4": "none (the redundant 'What's new?' under its own heading, 'Bank Feeds' capitalization and 'PDF's' look like human mistakes)",
+    "5": "Bold-label-colon template plus redundancy: 'Fixed a bug' sits under both a 'Fixes' heading and a 'PDF export' label"
+  },
+  "reason": "Version 3 is plain, accurate and free of decorative scaffolding, the way a practiced technical writer handles a short changelog. Versions 2 and 5 are clean but templated, version 1 strains to sound casual, and version 4 is sloppy enough to hurt credibility.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B3",
+    "3": "A",
+    "4": "E",
+    "5": "O"
+  }
+}

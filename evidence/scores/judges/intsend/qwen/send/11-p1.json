@@ -1,0 +1,11 @@
+{
+  "send": "1",
+  "reason": "Version 1 keeps the original voice while incorporating the writer’s added facts: whole-animal butchery, four-day week, six-cook kitchen, Friday volume, health insurance, and promotion examples. It avoids the details the writer said not to promise or specify.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "E",
+    "3": "track2/A-int",
+    "4": "C"
+  },
+  "picked_arm": "track2/B5-int"
+}

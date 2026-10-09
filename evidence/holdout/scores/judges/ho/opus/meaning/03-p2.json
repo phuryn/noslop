@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 5,
+    "2": 4,
+    "3": 3,
+    "4": 2,
+    "5": 1
+  },
+  "reason": "Version 5 keeps every fact, commitment, and caveat, including the hedged 'helps your hearing aids bring the voice forward', and is the only version that does. Version 4 drops only the thank-you closing and Version 3 drops 'step by step'. Version 2 drops the no-silly-question reassurance and swaps the 'Kestrel family' thanks for 'thank you for choosing Kestrel'. Version 1 drops both the reassurance and the thanks; all four also turn 'helps … bring' into the unhedged 'brings'.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B",
+    "3": "C",
+    "4": "B3",
+    "5": "B2"
+  }
+}

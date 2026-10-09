@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 5,
+    "4": 2,
+    "5": 4
+  },
+  "send": "2",
+  "tells": {
+    "1": "none",
+    "2": "Even, two-sentence rationale bullets and stock strategy phrasing such as 'redirect the capital and operating dollars they consume.'",
+    "3": "Bold topic-sentence labels on nearly every bullet, the default AI scannable-memo format.",
+    "4": "A full casual costume on the same expanded template, including the slightly off 'I'm glad to walk through the analysis.'",
+    "5": "Markdown ## headers and synonym swaps on that same skeleton, including the stiff 'declining structurally.'"
+  },
+  "reason": "Version 1 is the only unedited executive draft—hedged, shorthand-heavy, and unfinished where the numbers are missing—while 2–5 are one expanded template in different costumes. I would still send 2: it is the clearest decision memo, without 4’s awkward plain-speech or 3’s label-every-bullet formatting.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "B3",
+    "3": "O",
+    "4": "C",
+    "5": "A"
+  }
+}

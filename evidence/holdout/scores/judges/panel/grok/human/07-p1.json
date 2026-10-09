@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "none",
+    "2": "Neat bug-and-fix sentence plus a generic any-other-questions closer.",
+    "3": "Stock closer 'Thanks for your patience, and please let us know if you have any other questions,' with stiff 'it has now been fixed.'",
+    "4": "Compressed 'A bug... caused it, and we've fixed it' and an abrupt close with no follow-up."
+  },
+  "reason": "Version 1 has the most human voice—warmer wording and informal choices—while 3 is the most template-polished. I would send 2: it is clear and credible, and it avoids both 1's awkward 'for your parking' and 3's stock sign-off.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B3",
+    "3": "O",
+    "4": "A"
+  }
+}

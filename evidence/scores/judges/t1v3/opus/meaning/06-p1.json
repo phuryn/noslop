@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 3,
+    "4": 1
+  },
+  "reason": "Version 4 keeps every fact, keeps the 'more time' benefit, and keeps the three separate monthly-bake scenarios. Version 2 merges two scenarios. Version 3 drops 'more time' and adds 'all to yourself.' Version 1 also loses 'more time' and drops all the section headlines, including the 'One kit. $34 a month.' statement.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "B",
+    "4": "C"
+  }
+}

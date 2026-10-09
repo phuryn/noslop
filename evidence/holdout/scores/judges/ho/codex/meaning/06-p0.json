@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 5,
+    "4": 4,
+    "5": 1
+  },
+  "reason": "Version 5 preserves the original exactly; versions 1 and 2 preserve its requirements, with 1 retaining the preparation sequence more closely. Version 4 slightly narrows the sealer-removal instruction, while version 3 adds an ease claim and specific methods, softens the temperature requirement, and narrows checking for leaks to checking for drips.",
+  "label_to_arm": {
+    "1": "B2",
+    "2": "B3",
+    "3": "C",
+    "4": "B",
+    "5": "A"
+  }
+}

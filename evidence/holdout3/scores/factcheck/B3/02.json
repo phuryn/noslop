@@ -1,0 +1,16 @@
+{
+  "dropped": [],
+  "changed": [
+    {
+      "item": "The trial question changed from asking whether the recipient is interested ('Would you be interested in a small trial') to proposing that the sender run one ('Could we run a small trial'). The sender's side now seems to run the trial, and the ask is more direct.",
+      "severity": "minor"
+    },
+    {
+      "item": "'It'd give your teams a chance to see how it sells' became 'Your teams would see how it sells.' The 'chance to' hedge is gone, so the outcome sounds slightly more certain.",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

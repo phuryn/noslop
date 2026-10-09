@@ -1,0 +1,12 @@
+{
+  "dropped": [],
+  "changed": [
+    {
+      "item": "The opening 'I need your call... by Wednesday' became a question, 'Can you make the call... by Wednesday?', which slightly softens the requirement. The deadline and its reason are still stated.",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

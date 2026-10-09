@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+  },
+  "reason": "Version 1 keeps every date, price, grandfathering term, and class commitment. Version 2 only drops the purpose of the new classes, while version 3 adds a workout framing and a help commitment, and version 4 invents a March 1 renewal and a soon start for the classes.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "C",
+    "4": "E"
+  }
+}

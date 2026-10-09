@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2
+  },
+  "reason": "Version 1 preserves all key pricing, timing, class, and community details without adding new implications. Version 3 is very close but adds “too” and narrows “the change” to “the price change,” while Version 2 omits the stated purpose of the Sunday classes and weakens the original community wording.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "track2/A-int",
+    "3": "track2/B3-int"
+  }
+}

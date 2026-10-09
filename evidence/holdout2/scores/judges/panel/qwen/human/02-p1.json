@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "The added clause listing possible uses ('work, keep in touch or relax at home') feels like generic, AI-polished empathy rather than a necessary detail."
+  },
+  "reason": "Version 1 is concise, sincere, and clear, with a natural rhythm and no unnecessary padding. Version 2 is clean but slightly abrupt, while Version 3 feels more templated and over-explained.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "O"
+  }
+}

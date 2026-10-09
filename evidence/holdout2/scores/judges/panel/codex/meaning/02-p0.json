@@ -1,0 +1,11 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1
+  },
+  "reason": "Both versions preserve the key facts, numbers, credit commitment, and assurance that no action is needed. Version 2 is more faithful because it retains the thanks for customers’ patience; both omit the examples of disruption and the final apology.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A"
+  }
+}

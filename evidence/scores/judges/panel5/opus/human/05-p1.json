@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 6,
+    "2": 1,
+    "3": 3,
+    "4": 4,
+    "5": 2,
+    "6": 5
+  },
+  "send": "5",
+  "tells": {
+    "1": "The stock signpost 'The consequences are significant:' leads into perfectly parallel bold-lead bullets. Phrasing like 'Give coordinators visibility into' sounds corporate.",
+    "2": "none. Typos ('caregeivers'), a broken table, and dangling empty sections ('There are also a number of things that are not goals') mark it as an unfinished human draft.",
+    "3": "Every bullet has the same two-sentence claim-then-elaboration rhythm, and the sentences are uniformly clipped. It reads like a mechanical tightening pass.",
+    "4": "Uniform bold-lead bullets sit under a tidy signpost ('What this costs:'). The structure is template-perfect.",
+    "5": "It still uses the bold-lead bullet template, but the varied, conversational phrasing ('who the client will actually accept', 'bunch up') mostly hides it.",
+    "6": "The counting signpost 'This causes four problems:' introduces rigidly parallel bullets. The semicolon contrast ('only for exceptions; the system handles routine reassignments') feels inserted."
+  },
+  "reason": "Version 2 reads most human but is an unfinished draft with typos and missing sections, so it can't be sent. Version 5 keeps the complete, well-structured content of the polished versions and reads in the most natural, credible voice.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "E",
+    "3": "B5",
+    "4": "B3",
+    "5": "C",
+    "6": "A"
+  }
+}

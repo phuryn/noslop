@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2,
+    "4": 4
+  },
+  "reason": "Version 1 preserves the original meaning most closely; version 3 slightly shifts “could make a start” to “made a start.” Version 2 drops books from the space tradeoffs and the acknowledgment that visits helped the shop grow, while adding a friend as the possible recipient; version 4 introduces unsupported motivations, stronger causal claims, a personal narrator, and new details about the books’ histories.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "B5",
+    "4": "C"
+  }
+}

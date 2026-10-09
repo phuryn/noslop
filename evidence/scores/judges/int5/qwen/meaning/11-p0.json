@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2
+  },
+  "reason": "Version 1 best preserves the original commitments (including the real say and schedule benefits) and adds nothing. Version 3 is close but weakens 'real say' to 'a say'; Version 2 uses only allowed additions but omits multiple original commitments, so it ranks last.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "track2/B5-int",
+    "3": "track2/A-int"
+  }
+}

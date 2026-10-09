@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2
+  },
+  "reason": "Version 2 preserves all substantive details, including why Sunday classes are being added. Version 3 omits that purpose, while Version 1 adds unsupported commitments that classes will start soon and memberships will renew on March 1.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "B3",
+    "3": "A"
+  }
+}

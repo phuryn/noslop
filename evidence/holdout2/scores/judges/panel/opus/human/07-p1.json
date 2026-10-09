@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "The slogan-like line 'Near misses are our early warning' and the padded triplet 'injury, damage or harm' feel like added polish rather than information.",
+    "2": "none",
+    "3": "Heavy bolding of headers, dates and figures, plus the platitude 'It's how we keep each other safe' and the 'chance to see' phrasing."
+  },
+  "reason": "Version 2 is the leanest and most direct. It keeps every needed fact without slogans or emphasis clutter, so it reads like a site safety lead writing plainly. Version 3 layers on bold formatting and feel-good lines that make it read as generated.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "O"
+  }
+}

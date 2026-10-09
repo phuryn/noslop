@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 5,
+    "4": 2,
+    "5": 4
+  },
+  "send": "2",
+  "tells": {
+    "1": "repetitive talk covers phrasing and a flat third-person bio",
+    "2": "none",
+    "3": "duplicate Abstract label, corrupted apostrophe, and stiff passive wording",
+    "4": "polished but generic conference-speak such as explores and practical considerations",
+    "5": "awkward phrase find leaks in existing pressure data"
+  },
+  "reason": "Version 2 is the most natural and conference-ready, with a clear first-person voice and concrete outcomes. It balances credibility and approachability better than the more generic or error-prone alternatives.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "C",
+    "3": "E",
+    "4": "O",
+    "5": "A"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 4,
+    "4": 1
+  },
+  "send": "1",
+  "tells": {
+    "1": "Repeated 'so you...' benefit clauses tacked onto features ('so you know what to do and how to do it right', 'so you can see proper form').",
+    "2": "Every bullet uses the same 'X, so Y' construction, giving it a flattened, mechanical rhythm. It also has a vague filler claim ('unlocks additional features').",
+    "3": "Stock inspirational filler like 'guidance you can trust', 'keep your recovery moving', 'BUILT FOR REAL RECOVERY' and 'unlock more of what the app has to offer'.",
+    "4": "none"
+  },
+  "reason": "Version 4 has the slightly clunky, cliché-prone feel of a real human-written listing ('Never miss a session again', 'within 24-hours prior'), but its awkward legal copy hurts credibility. Version 1 keeps the clarity and warmth without Version 3's marketing filler or Version 2's monotone, so it's the one to publish.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "O",
+    "4": "E"
+  }
+}

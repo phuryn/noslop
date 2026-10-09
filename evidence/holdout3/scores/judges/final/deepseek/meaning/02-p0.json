@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 3,
+    "4": 1,
+    "5": 5
+  },
+  "reason": "Version 4 is nearly identical to the original. Version 1 preserves the facts and caveats with minor rephrasing; Version 3 is also faithful but slightly more paraphrased. Version 2 shifts the dry-cider customer wording, and Version 5 omits the trial evaluation caveat, overstates the claim, and changes sample delivery.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "C",
+    "3": "B5",
+    "4": "A",
+    "5": "E"
+  }
+}

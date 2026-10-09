@@ -1,0 +1,13 @@
+{
+  "send": "1",
+  "reason": "It keeps all the key facts and commitments, including the half-day times, combined booking, €28 price, and the idea of work and care in the same place. It also reads naturally and preserves the original’s practical, reassuring tone.",
+  "label_to_arm": {
+    "1": "V6C",
+    "2": "E",
+    "3": "B5",
+    "4": "C",
+    "5": "V6A",
+    "6": "A"
+  },
+  "picked_arm": "V6C"
+}

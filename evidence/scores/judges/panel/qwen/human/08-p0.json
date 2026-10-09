@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 5,
+    "3": 3,
+    "4": 2,
+    "5": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Stiff, generic phrasing and a rhetorical-question opener, plus repeated \"blood work done.\"",
+    "3": "Safe, templated benefit list with a flat, generic tone.",
+    "4": "Over-polished symmetry and marketing clichés like \"fuller picture\" and \"make the most\" feel AI-refined.",
+    "5": "Clipped, bare-bones sentences with little voice read like a summary rather than a human paragraph."
+  },
+  "reason": "Version 1 sounds the most natural and conversational while still clear, credible, and useful. It avoids the stiff or overly polished tells in the others.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "E",
+    "3": "B3",
+    "4": "O",
+    "5": "A"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 4,
+    "3": 5,
+    "4": 2,
+    "5": 1
+  },
+  "send": "5",
+  "tells": {
+    "1": "Stock reassurance and brand warmth: 'no question is too small' and 'part of the Kestrel family.'",
+    "2": "The padded benefit 'go further before plugging in' and stacked friendly reassurances feel formulaic.",
+    "3": "Redundant battery phrasing and 'there's no such thing as a silly question' make the helpfulness feel scripted.",
+    "4": "The transition 'It adds two things' feels slightly mechanical after an already dense opening.",
+    "5": "none"
+  },
+  "reason": "Version 5 is clear, naturally paced, and warm without overdoing reassurance; I would send it. These are editorial impressions, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "C",
+    "3": "O",
+    "4": "B3",
+    "5": "A"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "send": "1",
+  "reason": "It keeps the same release facts and nearly your original wording, without stronger claims or a changed description of the PDF bug.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "E",
+    "4": "B5"
+  },
+  "picked_arm": "A"
+}

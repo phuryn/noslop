@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 6,
+    "2": 4,
+    "3": 3,
+    "4": 5,
+    "5": 2,
+    "6": 1
+  },
+  "send": "6",
+  "tells": {
+    "1": "Brochure warmth: 'just right,' 'Good news on the technical side,' 'beautifully' plus ✨, and a bent idiom.",
+    "2": "Generated pep line: 'The more of us there are, the faster it goes.'",
+    "3": "Soft stock closer, 'coming together well,' on otherwise even prose.",
+    "4": "none",
+    "5": "Interchangeable template cadence and stock lines like 'mount installation' and 'we'll confirm details.'",
+    "6": "none"
+  },
+  "reason": "Version 6 is what a careful teammate would post: the new date is scannable, the ask is concrete, and it skips the syrupy sign-off. Version 4 is plainly human but too unclear and unedited to count as skilled, while 1 reads like generated cheer.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "C",
+    "3": "B5",
+    "4": "E",
+    "5": "A",
+    "6": "B3"
+  }
+}

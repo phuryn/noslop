@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3,
+    "4": 4
+  },
+  "reason": "Version 2 best preserves the facts, offer, and exploratory framing without adding narrowing caveats. Version 1 drops the 'where we might fit' purpose; Version 3 adds 'some'; Version 4 adds 'occasional' and conditional wording.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "B5",
+    "4": "C"
+  }
+}

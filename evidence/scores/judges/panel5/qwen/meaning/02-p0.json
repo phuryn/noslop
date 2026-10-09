@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 3,
+    "4": 5,
+    "5": 1
+  },
+  "reason": "Version 5 keeps all core facts and the explicit fit discussion with only minor paraphrase. Version 2 is close but changes last-minute deliveries to loads, Version 3 omits the explicit fit nuance, Version 1 adds a limiting 'occasional' caveat, and Version 4 adds unsupported 'a lot'/'some'.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B3",
+    "4": "E",
+    "5": "B5"
+  }
+}

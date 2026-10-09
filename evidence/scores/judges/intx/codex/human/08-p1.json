@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 4,
+    "4": 5,
+    "5": 1
+  },
+  "send": "5",
+  "tells": {
+    "1": "none",
+    "2": "Stock conversational phrasing and the overpromising claim that testing provides 'the full picture.'",
+    "3": "Uniformly polished sentences ending in generic promotional language: 'a practical way' and 'make the most.'",
+    "4": "Conspicuously assembled authenticity cues: a statistic, a beagle anecdote, breed-specific advice, and an unsolicited assurance against sales pressure.",
+    "5": "none"
+  },
+  "reason": "Version 5 is concise, restrained, and appropriate for a veterinary practice; version 1 feels natural but needs tightening. Version 4 introduces unsubstantiated details and a confusing last-year/three-years timeline; these are editorial judgments, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "C",
+    "3": "O",
+    "4": "track2/B5-int",
+    "5": "track2/A-int"
+  }
+}

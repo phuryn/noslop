@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "Version 1 preserves all substantive details most directly. Version 2 slightly broadens the PDF fix into a general correctness claim, while version 3 changes incorrect currency-symbol display to symbols not appearing and strengthens “sooner” to “a lot quicker.”",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "E"
+  }
+}

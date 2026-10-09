@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 3
+  },
+  "reason": "Version 1 stays closest to the original's facts, commitments, and caveats; Version 2 is nearly as faithful with only minor paraphrase. Version 4 omits the Premium value promise, while Version 3 additionally weakens the free-to-start claim and drops the consistency/progress benefits.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "C",
+    "3": "A",
+    "4": "B3"
+  }
+}

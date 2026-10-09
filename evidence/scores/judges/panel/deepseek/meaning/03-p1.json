@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 3
+  },
+  "reason": "Version 1 stays closest to the original wording and all facts; versions 2 and 4 are nearly as faithful with only minor paraphrasing, while version 3 slightly changes the PDF fix from multiple currency symbols displaying incorrectly to a single currency symbol not showing up.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "E",
+    "4": "C"
+  }
+}

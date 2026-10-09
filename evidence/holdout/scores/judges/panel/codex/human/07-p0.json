@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 3,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "Generic closing about patience and questions feels templated.",
+    "2": "none",
+    "3": "Stacked friendliness—“so sorry,” “bearing with us,” and “we'll help”—feels slightly engineered.",
+    "4": "none"
+  },
+  "reason": "Version 4 balances a direct apology, a clear explanation, refund timing, and an easy way to follow up. Version 2 is also strong but slightly abrupt; these are editorial judgments, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "A",
+    "3": "C",
+    "4": "B3"
+  }
+}

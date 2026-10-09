@@ -1,0 +1,11 @@
+{
+  "send": "1",
+  "reason": "It preserves the original facts, commitments, and caveats most faithfully while keeping the memo’s professional structure and tone. It reads like a polished internal strategy memo rather than a casual restatement.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "E",
+    "3": "track2/A-int",
+    "4": "C"
+  },
+  "picked_arm": "track2/B5-int"
+}

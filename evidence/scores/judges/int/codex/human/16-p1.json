@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 3,
+    "3": 2,
+    "4": 1
+  },
+  "send": "3",
+  "tells": {
+    "1": "The familiar 'I found myself' opening and neatly balanced reflections feel slightly standardized.",
+    "2": "Splitting the successful and unsuccessful lessons into separate sentences gives the contrast a slightly manufactured emphasis.",
+    "3": "The unspecified students and questions make the retrospective feel somewhat generic, though the voice is natural.",
+    "4": "none"
+  },
+  "reason": "Version 4 feels most individual through its particular visitor, classroom details, and awkward admission of relief, although specificity cannot establish authorship. I would publish version 3 for its controlled rhythm, cohesive focus, and understated ending.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B3",
+    "3": "track2/A-int",
+    "4": "track2/B3-int"
+  }
+}

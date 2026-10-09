@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 4,
+    "4": 1
+  },
+  "reason": "Version 4 is nearly verbatim. Version 2 keeps every fact but softens a few nuances, such as 'serve' instead of 'capture' customers and dropping 'targeted'. Version 1 overstates returns ('should return more' instead of 'stronger potential returns') and loosens several items, while Version 3 drops key facts such as no early-termination penalties, six-month outreach, severance and redeployment, pop-up and wholesale options, and phased liquidation.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "E",
+    "4": "B3"
+  }
+}

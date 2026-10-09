@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "Version 1 preserves all key facts, deadlines, and commitments; Version 2 omits the reassurance about keeping each other safe, and Version 3 narrows the definition by dropping 'harm' and weakens the requirement by omitting 'without exception'.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "B3",
+    "3": "A"
+  }
+}

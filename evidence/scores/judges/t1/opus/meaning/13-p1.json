@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "Version 1 keeps nearly every fact, hedge, and commitment; its only small shifts are 'capture' becoming 'serve', the dropped 'targeted', and 'We will' phrasing. Version 2 keeps all the claims but turns 'stronger potential returns' into 'should return more' and 'with Finance' into 'Finance to fill in', while Version 3 drops substantive rationale ('structurally declining', 'where our brand performs best', 'capital- and labor-intensive') and makes the same hedge change.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "B"
+  }
+}

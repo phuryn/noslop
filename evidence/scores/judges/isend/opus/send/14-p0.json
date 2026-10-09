@@ -1,0 +1,11 @@
+{
+  "send": "3",
+  "reason": "Version 3 keeps every fact and detail, including the 400 sq ft start, the two floors, the thanks, the books still on shelves, and the October 25 party with the call for memories, while staying closest to my original voice. The others drift: 1 adds things I didn't say ('what we loved,' a borrowed book never returned). 2 invents details ('a little over 400,' 'pine for'). 4 cuts the line crediting visits for getting us here.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "E",
+    "3": "B5",
+    "4": "A"
+  },
+  "picked_arm": "B5"
+}

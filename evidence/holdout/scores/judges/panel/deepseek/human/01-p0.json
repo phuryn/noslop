@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 4,
+    "3": 2,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "The phrase \"The number is our members' too\" is an awkward abstraction, and \"cutting money off monthly bills\" feels slightly off.",
+    "2": "Flat, overly regular sentences like \"There are 12 spots, the training is paid, and it leads to a career in solar\" make it sound AI-smoothed.",
+    "3": "Vivid but clichéd phrases such as \"blazing heat and freezing cold\" and \"lasting career\" read as slightly over-polished.",
+    "4": "none"
+  },
+  "reason": "Version 4 reads as the most natural and credible: it credits crews and members in a human way, stays concise, and avoids the stilted or over-polished phrasing in the others.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "C",
+    "4": "O"
+  }
+}

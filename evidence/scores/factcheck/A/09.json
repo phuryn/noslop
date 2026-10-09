@@ -1,0 +1,33 @@
+{
+  "dropped": [
+    {
+      "item": "Thanks the customer for reaching out",
+      "severity": "minor"
+    },
+    {
+      "item": "Statement that this is not the experience the company wants the customer to have",
+      "severity": "minor"
+    },
+    {
+      "item": "Offer that support will be glad to help with questions (warmth of the call to action)",
+      "severity": "minor"
+    },
+    {
+      "item": "Closing thanks for patience and repeated apology for the inconvenience",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "'I apologize for the wait in getting back to you' became 'sorry it took us so long to get back to you', which characterizes the delay as long rather than just acknowledging a wait",
+      "severity": "minor"
+    },
+    {
+      "item": "'we will send you a replacement battery' became 'we're sending you a replacement battery', implying the shipment is already in progress",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

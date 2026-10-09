@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3
+  },
+  "reason": "Version 2 preserves nearly everything, though 'hadn't thought' strengthens 'hadn't given much thought.' Version 1 adds 'the whole drive' and an explicit aim to teach better; version 3 makes the retirement reflection absolute with 'always' and 'never' and loses the sense of finding oneself doing familiar routines.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B"
+  }
+}

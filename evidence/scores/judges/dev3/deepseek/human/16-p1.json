@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 5,
+    "4": 2,
+    "5": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Slightly mechanical list after a colon and a tidy semicolon; 'trying to figure out how to teach again' feels generic.",
+    "3": "Most AI-textured: 'I found myself doing the usual things:' with a gerund list, plus the filler 'hadn't given much thought'.",
+    "4": "Slight flatness in phrases like 'just a date on the calendar' and 'changed how I explained something', but mostly natural.",
+    "5": "Redundant 'thinking... hadn't given much thought' and the more polished 'changed the way I explained something'."
+  },
+  "reason": "Version 1 has the most distinctive, idiomatic human voice and concrete detail, so it reads like lived experience rather than a smoothed paraphrase. I would publish it because it preserves the personal reflective tone without becoming generic.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "O",
+    "4": "B5",
+    "5": "B3"
+  }
+}

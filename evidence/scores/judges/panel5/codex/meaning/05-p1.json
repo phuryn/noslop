@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 2,
+    "5": 5
+  },
+  "reason": "Version 1 preserves the original most closely; version 4 slightly strengthens the commitment to automated routine reassignment, while version 2 strengthens harm and requirement language. Version 3 changes proximity to residence, weakens match requirements, and turns risks into asserted harms; version 5 omits secondary goals and non-goals, changes the replacement-confirmation metric to rescheduling, and makes success metrics optional.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "B5",
+    "3": "C",
+    "4": "A",
+    "5": "E"
+  }
+}

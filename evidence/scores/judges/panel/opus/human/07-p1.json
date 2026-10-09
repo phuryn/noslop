@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "\"target date\" is a bit redundant next to \"on track for\"",
+    "3": "\"the remaining piece\" phrasing plus the redundant \"target date\"",
+    "4": "three short declarative sentences in a choppy, uniform report-like rhythm, plus the redundant \"target date\""
+  },
+  "reason": "Version 1 reads like a person typing in Slack: first-person \"we're,\" natural phrasing (\"the only big piece left,\" \"hit Nov 3\"), and no filler. The other three are clear but more formal and templated, and Version 4's choppy, uniform sentences feel the most mechanical.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B3",
+    "4": "O"
+  }
+}

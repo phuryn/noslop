@@ -1,0 +1,12 @@
+{
+  "dropped": [],
+  "changed": [
+    {
+      "item": "'No need to arrange them separately' became 'there's nothing else to sort out', which slightly broadens the claim from desk and childcare not needing separate arrangements to nothing at all needing arranging",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

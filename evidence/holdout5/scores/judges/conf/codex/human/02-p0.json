@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 6,
+    "4": 2,
+    "5": 3,
+    "6": 7,
+    "7": 5
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "The padded opening 'I wanted to ask if' and stock courtesy 'we’d be happy to' feel templated.",
+    "3": "Overcompressed wording: 'Would Hearth & Wick try' feels impersonal, and 'see if they’d fit' is vague.",
+    "4": "none",
+    "5": "The generic sales phrase 'see if they’d be a fit' slightly weakens an otherwise direct email.",
+    "6": "The unsupported stack 'sustainable, high quality and beautiful' sounds like generic promotional copy; the duplicate greeting also suggests careless assembly.",
+    "7": "The padded opening 'I wanted to ask if' and stock courtesy 'we’d be happy to' feel templated."
+  },
+  "reason": "Version 1 is clear, credible, and personable without wasting the recipient’s time; these stylistic judgments do not establish AI authorship. Versions 2 and 7 are identical, so their ordering is arbitrary under the no-ties requirement.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "V6C",
+    "3": "B5",
+    "4": "C",
+    "5": "O",
+    "6": "E",
+    "7": "V6A"
+  }
+}

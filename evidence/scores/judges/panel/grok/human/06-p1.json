@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 3,
+    "3": 2,
+    "4": 1,
+    "5": 4
+  },
+  "send": "4",
+  "tells": {
+    "1": "none",
+    "2": "Off idiom \"start at the mixing,\" plus a stock oven/share/last-crumb triad.",
+    "3": "Even three-block template and the soft closer \"Give yourself something to look forward to.\"",
+    "4": "\"Maybe it's… Maybe it's… Either way\" setup-and-resolve.",
+    "5": "Empty parallel opener (\"A little measuring done. A little joy delivered.\") and stacked fragments."
+  },
+  "reason": "Version 4 is the one I'd publish: concrete (\"skip the scale\"), spoken, and varied, with a clear offer. The others are either templated, lyrically empty, slightly broken, or circular and unfinished.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "A",
+    "3": "B3",
+    "4": "C",
+    "5": "O"
+  }
+}

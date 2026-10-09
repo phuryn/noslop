@@ -1,0 +1,25 @@
+{
+  "dropped": [],
+  "changed": [
+    {
+      "item": "Original says the narrator spent the drive home figuring out how to 'teach again' (i.e., reteach) those lessons. The edit says 'teach them better', which adds an explicit idea of improvement.",
+      "severity": "minor"
+    },
+    {
+      "item": "Original says students' questions changed how the narrator 'explained something' (one particular thing). The edit says 'explained things', which is broader.",
+      "severity": "minor"
+    },
+    {
+      "item": "Original says the narrator 'hadn't given much thought' to how they would leave. The edit says 'never really thought', which is slightly more absolute.",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "'chewed over' adds a sense of ruminating or dwelling that the original's 'spent the drive home trying to figure out' only implied.",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

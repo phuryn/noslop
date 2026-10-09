@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+  },
+  "reason": "Version 1 keeps every date, price, grandfathering term, class purpose, and reply scope. Version 2 only drops the “more options” rationale; version 3 adds a help promise and workout framing; version 4 adds that classes start soon and that memberships renew at $135 on March 1.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "C",
+    "4": "E"
+  }
+}

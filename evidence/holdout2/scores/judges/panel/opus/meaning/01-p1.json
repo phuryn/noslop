@@ -1,0 +1,11 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2
+  },
+  "reason": "Version 1 keeps every fact and commitment and only drops minor intensifiers. Version 2 drops 'successfully' from the pilot outcome, adds that next steps are 'with them', omits the thanks for support, and narrows 'dig into anything' to 'questions'.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "send": "2",
+  "reason": "It preserves all the original facts, commitments, pricing terms, and medical caveats without adding unsupported claims. It also reads closest to the intended clear, trustworthy App Store tone.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B5",
+    "3": "E",
+    "4": "A"
+  },
+  "picked_arm": "B5"
+}

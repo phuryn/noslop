@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 5,
+    "3": 1,
+    "4": 2,
+    "5": 3
+  },
+  "reason": "V4 keeps every fact and the 'nothing else to pay' commitment, adding only a mild 'with us for a while' assumption. V5 and V1 drop 'and that's it' (V1 also drops 'no pressure'), V2 cuts several more points, and V3 adds 'your favourite inks' and changes the P.S. and how the offer is framed.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "E",
+    "4": "C",
+    "5": "B5"
+  }
+}

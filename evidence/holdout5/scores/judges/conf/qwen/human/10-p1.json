@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 7,
+    "2": 6,
+    "3": 1,
+    "4": 4,
+    "5": 2,
+    "6": 3,
+    "7": 5
+  },
+  "send": "3",
+  "tells": {
+    "1": "none obvious; the missing apostrophe, date style and repetition read as a rough human draft rather than AI.",
+    "2": "verbose, generic gloss and the stock closer 'at the heart of the conversation'.",
+    "3": "neat abstract formulations such as 'Growth brings changing needs' and 'centre of the conversation'.",
+    "4": "over-smoothed paraphrase and the same boilerplate closer as version 2.",
+    "5": "cliché 'at the heart of it' and the slightly unnatural line 'It keeps needing attention'.",
+    "6": "mechanical repetition and flat phrasing such as 'fit has to be checked repeatedly'.",
+    "7": "awkward filler sentence 'It stays something to think about'."
+  },
+  "reason": "Version 3 is the strongest overall because it is clear, professional and coherent for a conference bio. It still has a few polished AI-ish phrases, but fewer credibility issues than the rougher or more clichéd alternatives.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "V6C",
+    "3": "O",
+    "4": "V6A",
+    "5": "C",
+    "6": "A",
+    "7": "B5"
+  }
+}

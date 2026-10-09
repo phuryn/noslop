@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "The colon reveal 'Then comes the hardest part: leaving them alone' is a mild setup-payoff pattern, but it reads as natural newsletter voice.",
+    "2": "none",
+    "3": "The em dash join ('first frost—a small job') plus curly typographic quotes, a common AI or polished-template signature.",
+    "4": "none"
+  },
+  "reason": "Version 1 has the warmest, most natural voice ('And a reminder…', the wry payoff line) without obvious machine polish. Versions 2 and 4 are word-for-word identical and slightly flatter, so their order is arbitrary, and Version 3 is Version 1 with an em dash and curly quotes that make it look more machine-processed.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "track2/B3-int",
+    "3": "O",
+    "4": "B3"
+  }
+}

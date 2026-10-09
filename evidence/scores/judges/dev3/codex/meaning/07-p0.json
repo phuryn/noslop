@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 3
+  },
+  "reason": "Version 1 preserves all details most directly; version 2 adds emphasis with “only” but retains the stated scope. Version 4 slightly changes “biometric flow” to “biometric login” and drops the explicit target-date qualifier, while version 3 adds “big,” implying other smaller pieces may remain, and frames Nov 3 more firmly as a date to hit.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "C",
+    "4": "B5"
+  }
+}

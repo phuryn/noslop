@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "Version 1 preserves the original meaning and caveats most closely; version 2 slightly strengthens the goal into an assertion that the system handles routine reassignments. Version 3 omits the secondary goals and non-goals, changes the median-time metric from confirmed replacement to rescheduling (which can include escalation), and loses several consequences and the pilot’s role in informing broader rollout.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "E"
+  }
+}

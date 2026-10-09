@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 1,
+    "3": 2,
+    "4": 3
+  },
+  "reason": "Version 2 preserves the substance most closely; version 3 makes only minor shifts, including softening “rather than” to “more than.” Version 4 makes proposed mitigations firmer commitments and drops targeted outreach, while version 1 most notably strengthens “stronger potential returns” into an expectation that investment “should return more.”",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B3",
+    "3": "B5",
+    "4": "A"
+  }
+}

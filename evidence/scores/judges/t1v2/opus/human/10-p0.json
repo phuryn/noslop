@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 5,
+    "3": 3,
+    "4": 4,
+    "5": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Filler purpose clause ('to give you more options during the week', odd for a Sunday addition), stock 'part of our community' sign-off, and curly typographic apostrophes",
+    "3": "Tacked-on purpose clause with a stray comma ('classes, to give you more options') and generic 'part of our community' closer",
+    "4": "Performative warmth and transitions ('Quick heads-up', 'On a happier note', 'we'll be glad to help') that pad a simple notice",
+    "5": "Slightly formal phrasing ('when the $135 rate takes effect for you'), but otherwise none"
+  },
+  "reason": "Version 1 gives the new price, the grandfathering date, and the Sunday news in the fewest words, with no filler or forced cheer. It reads like a studio owner writing directly to members, which makes a price increase feel more credible.",
+  "label_to_arm": {
+    "1": "B",
+    "2": "O",
+    "3": "B2",
+    "4": "C",
+    "5": "A"
+  }
+}

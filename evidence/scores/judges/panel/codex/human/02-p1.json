@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 5,
+    "4": 4,
+    "5": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "Repeated 'Would you be open to' sounds formulaic; the duplicate greeting signals careless editing, not necessarily AI.",
+    "4": "The paired questions and vague 'discuss where we might fit' give it a templated sales cadence.",
+    "5": "'We'd be glad to pitch in' adds somewhat canned friendliness."
+  },
+  "reason": "Version 2 makes the performance claim concrete, describes useful services naturally, and ends with a clear, relevant request. These rankings reflect editorial effectiveness and human feel, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "E",
+    "4": "O",
+    "5": "C"
+  }
+}

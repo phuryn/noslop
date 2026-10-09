@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "The simplified bullet pattern and generic phrasing like “hurt clients” feel slightly machine-smoothed.",
+    "3": "“Late or missed visits hit clients” is awkward and reads like a synonym swap rather than an editorial choice.",
+    "4": "The heavy bolding and formulaic “The consequences are significant:” line make it feel templated."
+  },
+  "reason": "Version 1 is the most credible and publishable: it is clear, professional, and avoids the templated formatting and awkward phrasing that make the other versions feel more AI-generated. It also reads like a human-written PRD section rather than a polished outline.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "B5",
+    "3": "track2/B5-int",
+    "4": "O"
+  }
+}

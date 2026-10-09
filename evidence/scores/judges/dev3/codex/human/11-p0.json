@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 5,
+    "3": 3,
+    "4": 1,
+    "5": 2
+  },
+  "send": "4",
+  "tells": {
+    "1": "The neatly balanced lists and stock reassurance about a schedule you can 'plan a life around' feel formulaic.",
+    "2": "Added conversational signals—'honestly,' 'that's the fun part,' and 'actually count'—make the friendliness feel manufactured.",
+    "3": "The 'pressure cooker' metaphor feels like generic recruitment copy amid otherwise economical prose.",
+    "4": "The polished three-part promise about days off, reasonable nights, and life outside work feels slightly packaged.",
+    "5": "The consecutive 'You've done this before' and 'You're organized' statements give the candidate description a scripted rhythm."
+  },
+  "reason": "Version 4 has the best balance of natural cadence, clear responsibilities, and restrained informality; version 5 is close. These are stylistic judgments, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "C",
+    "3": "A",
+    "4": "B3",
+    "5": "B5"
+  }
+}

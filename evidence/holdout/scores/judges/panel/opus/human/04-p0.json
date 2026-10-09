@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 1,
+    "3": 3,
+    "4": 2
+  },
+  "send": "4",
+  "tells": {
+    "1": "Flattened, uniform sentences with all the warmth stripped out ('This honey season was a tough one'). The closing 'Wherever you are with your winter preparations, we'd love to hear…' doesn't quite follow and reads like a templated sign-off.",
+    "2": "none. The em dash and the 'kept us on our toes' cliché are ordinary human habits here. The real weakness is structural: the 'Welcome to this month's Hive Report' line is buried at the end.",
+    "3": "Redundant restatement ('you're not alone. Most of us are in the same boat') and choppy, clipped fragments that feel over-edited for punchiness.",
+    "4": "Slightly over-tidy. The 'Bring your questions and we'll talk through the practicalities together' line and the pared-back sign-off feel smoothed, but there's no strong tell."
+  },
+  "reason": "Version 2 reads most like a real club secretary's voice, but its welcome sits awkwardly at the end. Version 4 keeps nearly the same natural warmth, puts the welcome where readers expect it, and delivers the workshop and fondant details cleanly, so it's the one I'd send.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "O",
+    "3": "C",
+    "4": "A"
+  }
+}

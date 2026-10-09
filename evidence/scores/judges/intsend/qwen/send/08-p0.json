@@ -1,0 +1,11 @@
+{
+  "send": "3",
+  "reason": "It softens the age cutoff, includes the kidney statistic and anonymized example, and keeps a low-pressure tone while avoiding unavailable details about the panel. It best reflects the writer’s facts, caveats, and intent.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "track2/A-int",
+    "3": "track2/B5-int",
+    "4": "E"
+  },
+  "picked_arm": "track2/B5-int"
+}

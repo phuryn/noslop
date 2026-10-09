@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 5,
+    "2": 4,
+    "3": 3,
+    "4": 2,
+    "5": 1
+  },
+  "reason": "Version 5 is closest to the original facts and caveats, while Version 4 is nearly as faithful with only slight strengthening. Version 3 adds unsupported generalizations, Version 2 adds a leadership claim and makes the reduction more direct, and Version 1 adds an unsupported speaker name/gender and drops the original 'might otherwise go unnoticed' caveat.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "A",
+    "3": "C",
+    "4": "B5",
+    "5": "B3"
+  }
+}

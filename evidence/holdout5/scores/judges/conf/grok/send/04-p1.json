@@ -1,0 +1,13 @@
+{
+  "send": "6",
+  "reason": "It keeps every fact—the 1 October start, all eight branches, free for over-65s, book or walk in, and the Oadby hours—plus the welcome, in the same plain voice.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "E",
+    "3": "V6C",
+    "4": "A",
+    "5": "V6A",
+    "6": "B5"
+  },
+  "picked_arm": "B5"
+}

@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "genre": "Investor update email",
+    "writer": "Tomás Reyes, CEO and co-founder, Bladesight (drone-based inspection of wind turbine blades), Porto",
+    "request": "can you write our Q3 investor update email. we hit $1.2M ARR, signed Vestmark Energy as our biggest customer, and wrapped the pilot with Nordwind. also want to ask investors for intros to offshore wind operators. keep it short, bullets fine",
+    "hidden_facts": [
+      "ARR grew from $870k at the end of Q2 to $1.2M at the end of Q3.",
+      "The Vestmark Energy contract is worth $310k a year and covers 140 onshore turbines.",
+      "The Nordwind pilot ended without converting because their procurement froze new budgets until Q2 2027.",
+      "Monthly burn is $185k, which gives Bladesight about 14 months of runway.",
+      "Field technician Inês Duarte spotted a leading-edge crack on Vestmark's turbine 22 that the manual rope-access team had missed, and that find sealed the deal.",
+      "Tomás is worried that the new AI defect-detection model has a 9% false-positive rate that customers are starting to notice.",
+      "He believes offshore is where the margins are, but privately thinks the team isn't operationally ready for it yet.",
+      "They are quietly testing a second drone supplier because the current one had six-week delivery delays this quarter."
+    ]
+  },
+  {
+    "id": 2,
+    "genre": "Outage apology email to customers",
+    "writer": "Gareth Lloyd, Head of Customer Operations, Valley Fibre (rural full-fibre broadband provider), mid-Wales",
+    "request": "need an apology email to customers for the outage on Tuesday 30 September. around 4,000 homes in Llanidloes and the surrounding area were offline for about 9 hours. everyone affected gets a £15 credit on their next bill. keep it human, not corporate",
+    "hidden_facts": [
+      "Exactly 4,212 premises lost service.",
+      "The outage ran for 9 hours 40 minutes, from 06:10 to 15:50.",
+      "The cause was a contractor on a council roadworks project cutting the main fibre duct on the A470 near Llandinam.",
+      "A second, diverse backup route had been planned for 2025 but was delayed, and it is now scheduled to go live by the end of March 2027.",
+      "Customer Eirlys Pugh, who relies on a telecare alarm, phoned in distress, and engineer Rhys Morgan drove out to drop off a mobile hotspot for her.",
+      "Legal is still discussing liability with the contractor, so Gareth is unsure whether the email should name them.",
+      "Gareth argued internally for a £25 credit and thinks £15 is too low.",
+      "Valley Fibre's own status page was down for the first 40 minutes because it was hosted on the same network."
+    ]
+  },
+  {
+    "id": 3,
+    "genre": "Meeting recap email to a client",
+    "writer": "Priya Nandakumar, Account Director, Brightfold Exhibits (trade show booth design and fabrication), Rotterdam",
+    "request": "write a quick recap email to Lars at Halden Marine after today's call. we agreed on the 6x9m booth for METSTRADE, final artwork is due 24 October, and they want to add the engine cutaway display. bullet the action items at the end",
+    "hidden_facts": [
+      "The engine cutaway display adds about €8,400 to the quote, and that increase hasn't been formally approved yet.",
+      "Lars's boss, Annika Berg, joined for the last 10 minutes and seemed unhappy with the lighting renders.",
+      "The cutaway engine weighs 340 kg, and hall floor loading still needs to be confirmed with the organiser.",
+      "Brightfold's carpentry workshop is fully booked in the first week of November, so they need full sign-off by 28 October.",
+      "Priya thinks the dark blue backwall will look muddy under the hall lighting but didn't push back on the call.",
+      "Lars mentioned that last year a competitor built Halden's booth and it arrived a day late.",
+      "Priya is unsure whether Halden needs a rigging permit for the hanging sign.",
+      "To save costs, freight to Amsterdam is booked on a shared truck with another client's stand."
+    ]
+  },
+  {
+    "id": 4,
+    "genre": "Case study paragraph",
+    "writer": "Dana Whitfield, Marketing Lead, Corvid Pest Solutions (commercial pest control for food manufacturers), Leicester",
+    "request": "write a case study paragraph about our work with Ashby Mill. they had a stored-product moth problem, we moved them onto our TrapLink sensor monitoring, and they passed their BRC audit with zero pest findings. one paragraph, website tone",
+    "hidden_facts": [
+      "Moth catches dropped from an average of 46 a week to 5 a week over four months.",
+      "Ashby Mill processes about 1,100 tonnes of wheat a week.",
+      "The previous year's BRC audit had recorded a minor non-conformance for pest control.",
+      "Night-shift supervisor Kwame Asante responded to a TrapLink alert at 2am and found a split bag of bran in a dead corner behind the packing line.",
+      "At install, 3 of the 28 sensors failed because flour dust coated the optical sensor, which was fixed with a redesigned housing.",
+      "The contract allows use of Ashby's logo, but Dana isn't sure the specific figures have been signed off for publication.",
+      "Dana thinks staff vigilance mattered as much as the technology.",
+      "Corvid still had to heat-treat one silo in the first month, which the sales team would rather not mention."
+    ]
+  },
+  {
+    "id": 5,
+    "genre": "Event invitation post",
+    "writer": "Hollis Vance, co-owner, Crooked Pippin Cider (family cidery and orchard), Herefordshire",
+    "request": "write an instagram/facebook post inviting people to our Apple Day on Saturday 18 October, 11am to 4pm at the farm. free entry, pressing demos, and the first pour of our new perry, Quiet Field. make it warm, a few emojis ok",
+    "hidden_facts": [
+      "They expect around 600 visitors.",
+      "Quiet Field is made from 80-year-old Blakeney Red perry pear trees.",
+      "Only 400 bottles of Quiet Field were produced.",
+      "Last year parking overflowed onto the lane and a neighbour complained, so this year there's field parking with a £3 charge going to the village hall, and Hollis hasn't decided whether to mention it.",
+      "Neighbouring farmer Doug Pritchard is lending his 1930s rack-and-cloth press for the pressing demos.",
+      "The marquee only covers about half the yard, and Hollis is nervous about the weather forecast.",
+      "Dogs must be kept on leads because ewes are in the adjoining field.",
+      "Hollis honestly thinks Quiet Field is the best thing they've ever made."
+    ]
+  },
+  {
+    "id": 6,
+    "genre": "FAQ answer on a product help page",
+    "writer": "Jun Matsuda, Support Content Lead, Tabbit (thermal label printers for small online sellers), Vancouver",
+    "request": "write the FAQ answer for 'why is my Tabbit P2 skipping labels or printing across two labels?' main fix is running auto-calibration by holding the feed button for 3 seconds. also mention it needs 4x6 labels with gap markers. short, with steps",
+    "hidden_facts": [
+      "About 70% of support tickets about skipping labels are resolved by calibration alone.",
+      "Firmware 2.4.1 fixed a bug where calibration reset after power-off, but many users are still on 2.3.",
+      "Third-party labels that use black marks instead of gaps are a common cause of the problem.",
+      "Seller Rosa from Mill Lane Candles escalated after wasting 200 shipping labels, and it turned out the roll was loaded upside down.",
+      "The gap sensor is sensitive to direct sunlight, and Jun is unsure whether to admit that publicly.",
+      "Jun thinks the gap sensor placement on the P2 is a design flaw.",
+      "The P3, which moves the sensor, is due to be announced in January, and the company doesn't want the FAQ to imply the P2 is flawed."
+    ]
+  },
+  {
+    "id": 7,
+    "genre": "Internal announcement of a new policy",
+    "writer": "Bernadette Okafor, Head of Health & Safety, Calloway Construction (regional building contractor), Manchester",
+    "request": "need an internal announcement that from 1 November all near misses on site must be logged in the SiteSafe app within 24 hours. it applies to subcontractors too. site managers will run a 15 min briefing next week. firm but not preachy",
+    "hidden_facts": [
+      "Only 31 near misses were logged across all 12 sites last year, when industry benchmarks suggest there should be hundreds.",
+      "In August at the Brookfield Road site, a pallet of blocks fell from a telehandler close to apprentice Liam Carter, and nobody reported it until he mentioned it at the pub a week later.",
+      "The policy was partly prompted by the insurer, who raised the premium by 18% at renewal and asked for better reporting.",
+      "Nobody will be disciplined for reporting a near miss, and the app has an anonymous option.",
+      "Two sites have poor phone signal, and Bernadette expects some older site staff to resist using an app.",
+      "Bernadette believes a blame culture is the real reason people don't report.",
+      "The board has agreed to tie part of site managers' bonuses to reporting rates, but this hasn't been announced yet."
+    ]
+  },
+  {
+    "id": 8,
+    "genre": "Personal blog post opening",
+    "writer": "Sunita Rao, paramedic with the regional ambulance service, writing on her personal blog, Norfolk",
+    "request": "help me write the opening of my blog post about my first year of birding. I started in January after a night shift when I saw a barn owl over the A47, and I'm now on 187 species. want it honest and a bit funny, not twee",
+    "hidden_facts": [
+      "Her original goal for the year was 150 species.",
+      "She missed a Pallas's warbler at Wells Woods by about 10 minutes because of a shift swap.",
+      "Her crewmate Dev Mistry now keeps binoculars in the ambulance cab and recently texted her a photo of a waxwing in a hospital car park.",
+      "She started birding partly to cope with burnout after a hard winter on shift.",
+      "Colleagues read the blog, so she's unsure whether to mention the mental health side publicly.",
+      "She has spent about £640 on binoculars, far more than she planned.",
+      "She finds twitching culture a bit competitive and male-dominated.",
+      "Species number 100 was a common moorhen she had somehow overlooked for months, which still embarrasses her."
+    ]
+  }
+]

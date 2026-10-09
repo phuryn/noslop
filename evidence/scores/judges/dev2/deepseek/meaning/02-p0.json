@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 2
+  },
+  "reason": "Version 1 preserves the original facts, offer, and meeting purpose most closely. Version 4 keeps the core meaning but adds 'occasional,' version 2 drops 'where we might fit,' and version 3 changes 'last-minute delivery needs' to 'pick up last-minute loads.'",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "B3",
+    "3": "A",
+    "4": "C"
+  }
+}

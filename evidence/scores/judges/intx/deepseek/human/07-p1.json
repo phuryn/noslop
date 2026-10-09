@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 4,
+    "4": 2
+  },
+  "send": "2",
+  "tells": {
+    "1": "Headline-style subject and formal 'target date' give it a slightly templated feel.",
+    "2": "none",
+    "3": "The standalone 'The remaining piece is...' sentence and formal 'target date' sound formulaic.",
+    "4": "The clipped 'is what's left' phrasing reads like forced casualness."
+  },
+  "reason": "Version 2 sounds most like a person updating teammates, using 'We're' and 'hit Nov 3' while staying clear. The others are clear but feel more templated or stiffer in comparison.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "C",
+    "3": "O",
+    "4": "track2/B5-int"
+  }
+}

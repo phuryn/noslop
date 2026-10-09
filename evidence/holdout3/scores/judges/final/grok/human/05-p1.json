@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 1,
+    "3": 6,
+    "4": 2,
+    "5": 3,
+    "6": 4
+  },
+  "send": "2",
+  "tells": {
+    "1": "none",
+    "2": "Even date/status/ask template and the stock line about updating calendars and related plans.",
+    "3": "Hype stack: \"breathing room,\" \"beautifully,\" the sparkle emoji, and \"Many hands make this go fast.\"",
+    "4": "Flattened template voice, nominalized \"mount installation,\" and a generic sign-off.",
+    "5": "Soft filler: \"get everything right\" and \"coming together well.\"",
+    "6": "Invented motive (\"We want a bit more room\") plus the pep line that more people make it faster."
+  },
+  "reason": "Version 2 is the one I'd send: the new date, the fix, and the Saturday ask are clear and credible without the draft's broken sentence or the other versions' filler. Version 1 is the only one that doesn't sound generated, but it isn't finished enough to read as skilled; version 3 is the most obviously machine-written.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "B3",
+    "3": "O",
+    "4": "A",
+    "5": "B5",
+    "6": "C"
+  }
+}

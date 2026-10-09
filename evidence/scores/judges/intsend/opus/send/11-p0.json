@@ -1,0 +1,11 @@
+{
+  "send": "3",
+  "reason": "It keeps every fact and caveat from the original and adds the details I asked for: 100% health insurance, four-day week, whole-animal butchery, the Friday load, the six-cook line, our last sous and Luis. It also drops the claims I didn't want to stand behind, like a promised closing time and the 'real say' line I couldn't back with an example.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "E",
+    "3": "track2/B5-int",
+    "4": "C"
+  },
+  "picked_arm": "track2/B5-int"
+}

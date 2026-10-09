@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 4,
+    "4": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "none; its very short one-line paragraphs may feel slightly clipped or trimmed",
+    "2": "none",
+    "3": "Stacked stock courtesies: 'That's not the experience we want you to have', 'we'll be glad to help', and a closing that repeats the apology",
+    "4": "Formulaic support-script phrasing, with the product name repeated and a duplicated 'sorry for any inconvenience' sign-off (reads more like a human template than AI)"
+  },
+  "reason": "Version 2 is warm, specific and efficient: it gives one sincere apology, states the remedy clearly and closes naturally without padding. Version 3 piles on boilerplate empathy and repeated apologies, and version 4 is clunky and repetitive, while version 1 is good but slightly terse.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "O",
+    "4": "E"
+  }
+}

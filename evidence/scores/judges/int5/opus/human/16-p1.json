@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 3,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "The 'I found myself doing the usual things' framing, plus the neatly balanced 'Some lessons had gone beautifully; others...' semicolon contrast, gives it a polished, generic reflective cadence with no concrete specifics.",
+    "2": "Generic, abstract reminiscence ('students I still wondered about', 'a few whose questions changed...') with no names or particulars. The chopped-up sentences read like a cleanup pass over polished prose.",
+    "3": "The balanced semicolon antithesis 'Some lessons had gone beautifully; others...' and the tidy closing pivot 'I was ready to go, but...' feel templated. The memories stay vague and unanchored.",
+    "4": "none"
+  },
+  "reason": "Version 4 is the only one with real particulars: period 4 AP Chem, the elephant toothpaste demo, and Amina Yusuf showing up with her daughter. It also admits an uncomfortable feeling (relief, embarrassment), which gives it credibility and a human voice. Versions 1–3 are near-identical, smooth, abstract reflections that could belong to any retiring teacher.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B5",
+    "3": "track2/A-int",
+    "4": "track2/B5-int"
+  }
+}

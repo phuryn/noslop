@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 4,
+    "3": 2,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "The repeated 'sorry… and sorry…' construction and very tight phrasing make it read like a template trimmed down rather than written fresh.",
+    "2": "Stock support phrases: 'Thank you for reaching out', 'That's not the experience we want you to have', 'Thank you for your patience', plus a second apology at the end.",
+    "3": "'so a battery that stopped charging after five months qualifies' explains the warranty logic more than a customer needs, and the voice shifts between 'we' and 'I'.",
+    "4": "none"
+  },
+  "reason": "Version 4 sounds like a real agent taking ownership ('I'll email you', 'I'll help') in a warm, relaxed register, and it's still concise and clear. Version 3's resolution-first structure is strong, but its explanatory line feels less natural, and version 2 is padded with stock phrases.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "O",
+    "3": "B",
+    "4": "C"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 3,
+    "3": 1,
+    "4": 2
+  },
+  "reason": "Version 3 preserves nearly all key facts and nuances, only omitting the final practical-benefit phrase. Version 4 is next because it keeps the ‘more than vaccines’ framing, baseline/guidance idea, and practical-benefit framing, though it drops ‘other health markers’ and is less precise about kidney/liver function; Version 2 keeps the testing details but loses the vaccine nuance and final benefit, while Version 1 omits several key points.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "A",
+    "3": "B3",
+    "4": "C"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 5,
+    "5": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Flattened plain-text structure and the slightly stiffer 'Pay is' line feel like an over-smoothed rewrite.",
+    "3": "Formalized grammar ('has done', 'The pay is') and the missing schedule detail reduce the natural voice.",
+    "4": "Clipped, awkward phrasing such as 'when the chef isn't in' and 'We want standards high' sounds like rough AI paraphrase.",
+    "5": "Slightly forced conversational cues ('honestly', 'actually count') and 'hold the standard high' are small AI-ish tells."
+  },
+  "reason": "Version 1 keeps the most authentic, confident kitchen voice and credible structure; the others either over-smooth, formalize, or flatten that voice. I would send 1 as-is.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B3",
+    "3": "A",
+    "4": "B5",
+    "5": "C"
+  }
+}

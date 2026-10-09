@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 2,
+    "4": 3
+  },
+  "reason": "Version 1 keeps nearly all the original facts and preserves the “usual things” detail, with only minor wording changes. Version 3 retains the caveat “given much thought” but omits the “usual things” framing, while Version 4 adds or shifts nuances and Version 2 introduces several new generalizations.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "E",
+    "3": "B3",
+    "4": "C"
+  }
+}

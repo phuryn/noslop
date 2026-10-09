@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 5,
+    "4": 4,
+    "5": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "Stacked courtesy phrases, generic empathy, and repeated apologies make a simple resolution feel padded.",
+    "4": "none",
+    "5": "none"
+  },
+  "reason": "Version 1 balances a specific apology with a clear resolution and a natural invitation to reply. Version 2 is slightly clipped, 5 makes more personal commitments, and 4 puts the apology awkwardly after the logistics; these are editorial differences, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "O",
+    "4": "B5",
+    "5": "C"
+  }
+}

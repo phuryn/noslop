@@ -1,0 +1,3 @@
+Do you want to earn whilst you learn? Are you interested in finding out about a skilled job that will give you a career for life? We are looking for an apprentice CNC operator, no experience is necessary, just an interest in learning, a willingness to work hard and some common sense. In return, we will teach you how to set up, load and operate a CNC machine, read engineering drawings and how to use measuring equipment to ensure we produce high quality product to very tight tolerances.
+
+We are offering an excellent starting salary of 24.5k for a 4 day (Mon – Thurs) working week. If you are looking to gain a skilled trade that will give you a lifetime of employment, apply now, applications close 31st October.

@@ -1,0 +1,11 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1
+  },
+  "reason": "Version 2 preserves the explicit statement that the Nordwind pilot finished successfully, which version 1 omits. Version 1 also adds that next steps are being worked on \"with them,\" whereas the original does not explicitly state Nordwind's involvement.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3"
+  }
+}

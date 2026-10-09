@@ -1,0 +1,13 @@
+{
+  "send": "2",
+  "reason": "Version 2 keeps every fact: both session times, one combined booking, the shared location with time for work and care, four focused hours, and the €28 price for desk and crèche known upfront. It also keeps more of my original wording, including the 'Make time for your work' header, than 1 or 6. Versions 3 and 4 drop the work-and-care point, and 5 has broken characters, a missing € sign and an added safety claim.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "V6C",
+    "3": "A",
+    "4": "B5",
+    "5": "E",
+    "6": "V6A"
+  },
+  "picked_arm": "V6C"
+}

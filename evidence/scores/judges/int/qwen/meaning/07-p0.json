@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2
+  },
+  "reason": "All versions preserve the core facts, but version 1 is closest to the original phrasing. Version 2 adds 'only,' introducing a slight emphasis not explicit in the original.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "track2/A-int",
+    "3": "track2/B3-int"
+  }
+}

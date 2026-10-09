@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 4,
+    "4": 2,
+    "5": 5
+  },
+  "send": "2",
+  "tells": {
+    "1": "Flattened, slightly stiff phrasing ('We have our crews to thank for that', 'get some of the credit too'), as if hedged during a rewrite.",
+    "2": "Mild: the 'That number belongs to… It also belongs to…' parallel is a familiar rhetorical device, but it reads natural here.",
+    "3": "Over-compressed. Thanks and member benefit are merged into one dense paragraph, and colon-heavy constructions give it a mechanical, summarized feel.",
+    "4": "Slightly over-plain restatement ('get something out of it too', 'which is what a co-op is for') that sounds like a deliberate de-styling pass.",
+    "5": "Stacked intensifiers and stock embellishment: exclamation mark, 'blazing heat and freezing cold', 'every single install', 'lasting career', plus a rhetorical-question CTA."
+  },
+  "reason": "Version 2 has the most natural voice, a confident structure that gives credit to crews and members, and a crisp, scannable CTA without hype. Version 5 piles on generic intensifiers, and the others feel flattened or over-compressed by comparison.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "O",
+    "3": "B3",
+    "4": "A",
+    "5": "C"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "send": "3",
+  "reason": "Version 3 keeps the same key facts and polite offer while reading naturally and closely matching my original meaning.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "C",
+    "3": "B5",
+    "4": "A"
+  },
+  "picked_arm": "B5"
+}

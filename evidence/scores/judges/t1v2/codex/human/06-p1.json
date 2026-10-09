@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 5,
+    "4": 3,
+    "5": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "The familiar “Less measuring, more making” formula is the main template-like touch.",
+    "2": "none",
+    "3": "Stacked slogan fragments and forced symmetry, especially “A little measuring done. A little joy delivered,” make the warmth feel manufactured.",
+    "4": "“Start at the stirring” sounds strained, as though ordinary wording was rewritten to seem distinctive.",
+    "5": "The compressed closing combines formulaic subscription language with imprecise phrasing: “Each kit is $34 a month.”"
+  },
+  "reason": "Version 1 best balances a clear offer, useful section headings, and an inviting voice with natural variation in rhythm; version 2 is a close, plainer alternative. These are editorial impressions, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B2",
+    "3": "O",
+    "4": "B",
+    "5": "A"
+  }
+}

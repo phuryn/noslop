@@ -1,0 +1,29 @@
+{
+  "dropped": [],
+  "changed": [
+    {
+      "item": "Temperature requirement softened and narrowed: the original says to keep the temperature at or above 50°F, which covers the curing period. The edit says to 'try to work when it's at least 50°F out', which is less firm, applies only while working, and refers to outdoor temperature.",
+      "severity": "major"
+    },
+    {
+      "item": "'Check inside for leaks' became 'look inside for any drips'. Leaks can show up as damp spots without drips, so the check is narrower.",
+      "severity": "minor"
+    },
+    {
+      "item": "'Covering ... a little fabric on either side' became 'spills a little onto the fabric on both sides'. The original describes deliberate coverage, while the edit suggests incidental overflow.",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "Claim that the repair is 'an easy fix'",
+      "severity": "minor"
+    },
+    {
+      "item": "Says to apply the sealant with a brush ('brush a thin, even coat'), but the original does not specify a tool",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

@@ -1,0 +1,11 @@
+{
+  "send": "2",
+  "reason": "Version 2 keeps every fact (same-day within 250 miles, 99.2% on-time last year, regular or last-minute routes, a 15-minute call next week) and reads cleanly. Version 1 has a duplicated greeting and clunky phrasing, 3 adds 'anywhere' and narrows last-minute to 'occasional', and 4 changes the ask from where we might fit to whether it fits.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "B5",
+    "3": "C",
+    "4": "A"
+  },
+  "picked_arm": "B5"
+}

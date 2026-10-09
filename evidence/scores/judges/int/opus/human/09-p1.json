@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 4,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "Stock 'Thank you for your patience' tacked onto the apology paragraph",
+    "2": "Over-trimmed phrasing ('If you have questions, reply to this message') reads clipped and a bit curt",
+    "3": "Boilerplate empathy ('That's not the experience we want you to have', 'Thank you for reaching out') and a redundant second apology at the close",
+    "4": "none"
+  },
+  "reason": "Version 4 apologizes once, gives the fix and next steps clearly, and stops, so it reads like a competent support agent. Version 3 is padded with scripted empathy and repeats the apology, and Version 2 is so stripped down that it feels slightly cold.",
+  "label_to_arm": {
+    "1": "track2/B3-int",
+    "2": "track2/A-int",
+    "3": "O",
+    "4": "B3"
+  }
+}

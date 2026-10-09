@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 5,
+    "4": 3,
+    "5": 2,
+    "6": 6
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Polished but generic phrases such as 'care they need when they need it' and 'meeting people where they already are' make it feel AI-smoothed.",
+    "3": "The opening is mechanical and the takeaway feels like a compressed, stock LinkedIn lesson.",
+    "4": "The 'Here's what that meant in practice' bullets and 'The lesson for me' line feel templated.",
+    "5": "The result sentence is generic and slightly summary-like, making it feel more drafted than spoken.",
+    "6": "Awkward phrasing and grammar, especially 'clinics in Brightwell Dental Group' and 'patient that may need treatment and is not utilising', make it feel unpolished."
+  },
+  "reason": "Version 1 sounds most like a real practice leader telling a specific operational story, with natural detail and a useful closing question. It offers the best balance of clarity, credibility and human voice.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B5",
+    "3": "B3",
+    "4": "O",
+    "5": "A",
+    "6": "E"
+  }
+}

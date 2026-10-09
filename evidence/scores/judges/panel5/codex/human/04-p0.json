@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 4,
+    "3": 3,
+    "4": 1,
+    "5": 6,
+    "6": 2
+  },
+  "send": "6",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "none",
+    "4": "none",
+    "5": "none",
+    "6": "none"
+  },
+  "reason": "Version 4 has the strongest conversational voice; I would send 6 for its warmth, clarity, and restraint, avoiding 5's misleading instruction to ignore the garlic until summer. None has a reliable AI tell, and the small differences among 1, 2, and 3 make their ordering a close stylistic judgment.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B3",
+    "3": "A",
+    "4": "C",
+    "5": "E",
+    "6": "B5"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 5,
+    "2": 1,
+    "3": 3,
+    "4": 2,
+    "5": 4
+  },
+  "reason": "Versions 2, 4 and 3 keep every fact, the deadline, the 'unless you see a reason not to' caveat and the reply options. They differ only in bullet style and clause order, so their order is close to arbitrary; 5 also keeps everything but rewrites more freely. Version 1 drops the caveat and states the preference more firmly ('I'd like to go with Tilburg'), weakening Anita's role as the decision-maker.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "B",
+    "4": "B2",
+    "5": "C"
+  }
+}

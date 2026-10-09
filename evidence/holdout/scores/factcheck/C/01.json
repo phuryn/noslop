@@ -1,0 +1,34 @@
+{
+  "dropped": [
+    {
+      "item": "'and everything in between': crews worked in all conditions, not just the extremes of heat and cold",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "'in the heat, the cold' intensified to 'blazing heat and freezing cold'",
+      "severity": "minor"
+    },
+    {
+      "item": "'that's the point of being a co-op' became 'which is why we're a co-op in the first place', shifting from the purpose of a co-op to the founding reason for this one",
+      "severity": "minor"
+    },
+    {
+      "item": "'a path into a career in solar' became 'training that can lead to a lasting career in solar', which hedges with 'can' and adds permanence with 'lasting'",
+      "severity": "minor"
+    },
+    {
+      "item": "'12 spots, paid training' became '12 paid spots', which moves 'paid' from the training to the spots (essentially equivalent)",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "'lasting' career, an implied promise of career durability",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3
+  },
+  "reason": "Version 2 is nearly verbatim. Version 1 is close but shifts 'hadn't given much thought' to 'never thought' and loses the nuance of thinking about retirement for so long. Version 3 adds only facts from the writer's answers but drops 'I was ready to go,' the students the writer still wondered about, and the lessons reflection, so it loses the most original meaning.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "track2/A-int",
+    "3": "track2/B5-int"
+  }
+}

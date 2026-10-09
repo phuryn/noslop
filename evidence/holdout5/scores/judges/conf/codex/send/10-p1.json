@@ -1,0 +1,13 @@
+{
+  "send": "2",
+  "reason": "It preserves the facts and intended scope without turning 15 years of experience into a claim about tenure or adding a commitment to repeated fit checks. The conversational wording still conveys fit as an ongoing consideration, with comfort, function and everyday life central.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B5",
+    "3": "V6C",
+    "4": "E",
+    "5": "C",
+    "6": "V6A"
+  },
+  "picked_arm": "B5"
+}

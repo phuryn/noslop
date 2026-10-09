@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "Version 1 stays closest to the original's facts, bullets, and takeaway without adding outside material. Version 2 drops the 'more patients getting care' point and weakens the lesson, while Version 3 adds allowed writer-supplied caveats but omits the original's key takeaway and closing question.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "track2/A-int",
+    "3": "track2/B5-int"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3,
+    "4": 4
+  },
+  "reason": "Version 2 keeps every fact, number, caveat and hedge intact, while Version 1 slightly adds a claim that 'the system handles routine reassignments.' Version 3 drops the 'typically' hedge, and Version 4 drifts in several places, such as 'who lives close enough,' 'test whether the 30-minute target is realistic' instead of validating it, and 'confirm targets then.'",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "B",
+    "4": "C"
+  }
+}

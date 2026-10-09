@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Generic wrap-up line ('meeting patients where they already are can be a real operational win') plus the stock engagement-bait closing question",
+    "3": "Formulaic LinkedIn scaffolding: 'Here's what that meant in practice:' bullet list of three, 'The lesson for me: sometimes the biggest...' aphorism, one-line paragraphs, and engagement-bait question"
+  },
+  "reason": "Version 1 has specific, verifiable detail (11 hours/week, Joanna in Gdańsk, Sopot stuck at 12%, the summer seasonality caveat) and admits what didn't work, which makes it credible and distinctly human. Versions 2 and 3 replace that with generic claims and tidy morals, with 3 being the most templated.",
+  "label_to_arm": {
+    "1": "track2/B2-int",
+    "2": "track2/A-int",
+    "3": "O"
+  }
+}

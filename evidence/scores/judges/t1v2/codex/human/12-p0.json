@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 4,
+    "3": 3,
+    "4": 1,
+    "5": 2
+  },
+  "send": "4",
+  "tells": {
+    "1": "Generic conference-copy phrasing: 'This talk explores,' 'shares lessons,' and 'practical considerations' keep the substance at a distance.",
+    "2": "Repeated phrases about existing data and 'helped use' make otherwise clear prose feel mechanically assembled.",
+    "3": "The conversational flourishes and stock 'what worked, what didn't' promise feel slightly manufactured.",
+    "4": "none",
+    "5": "The bio introduces 'helped lead' without support elsewhere and awkwardly describes finding leaks 'in' data."
+  },
+  "reason": "Version 4 is concise, concrete, and well suited to a conference program, though its stronger causal claim should be verified. These rankings concern editorial impression; wording alone cannot reliably establish AI authorship.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B2",
+    "3": "C",
+    "4": "B",
+    "5": "A"
+  }
+}

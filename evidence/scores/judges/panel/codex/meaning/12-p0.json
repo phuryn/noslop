@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 1,
+    "4": 3
+  },
+  "reason": "Version 3 best preserves the facts, qualified causality, and caveats; version 2 largely preserves them but invents the speaker’s name and gender. Version 4 adds claims about most utilities, definitely unknown leaks, and discussing failures, while version 1 most materially overstates the original by adding a leadership role and strengthening both causality and certainty about unnoticed leaks.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "E",
+    "3": "B3",
+    "4": "C"
+  }
+}

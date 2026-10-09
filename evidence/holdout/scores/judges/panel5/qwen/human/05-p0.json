@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 5,
+    "4": 1,
+    "5": 3
+  },
+  "send": "4",
+  "tells": {
+    "1": "the symmetrical bullets and parenthetical savings line feel a little templated",
+    "2": "the clipped 'I need your call' phrasing reads stiff and transactional",
+    "3": "the 'Options:' heading makes it look generated rather than written",
+    "4": "none",
+    "5": "the compressed 'They're £164k against Corvane's £182k' line feels slightly machine-summarised"
+  },
+  "reason": "Version 4 reads most like a skilled human note: it is direct, socially aware, and explains the recommendation clearly without over-formatting. It gives Anita an easy yes/no path while sounding less templated than the bullet-heavy versions.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "B3",
+    "3": "O",
+    "4": "C",
+    "5": "A"
+  }
+}

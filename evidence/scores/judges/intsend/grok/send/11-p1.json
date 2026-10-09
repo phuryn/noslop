@@ -1,0 +1,11 @@
+{
+  "send": "3",
+  "reason": "It’s the only rewrite that keeps the original job, pay, and voice while adding the facts I wanted in—whole-animal butchery, Friday’s 180 covers, a six-cook line, a four-day week, employee health insurance, and the retention and promotion stories—without inventing fire details, a closing time, or benefits I didn’t confirm.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "track2/A-int",
+    "3": "track2/B5-int",
+    "4": "E"
+  },
+  "picked_arm": "track2/B5-int"
+}

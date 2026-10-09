@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 3,
+    "4": 1
+  },
+  "reason": "V4 keeps every fact, all three benefits and the 'worth testing' CTA, losing only the closing-question and 'closing the gap' line while narrowing the general lesson. V1 drops the question, 'when they need it', and turns 'sometimes' into 'often'. V3 keeps all elements but adds claims ('showed up quickly', 'for a month', 'mostly didn't work'). V2 overstates ('weren't working', 'try texts') and cuts the lesson entirely.",
+  "label_to_arm": {
+    "1": "B",
+    "2": "A",
+    "3": "C",
+    "4": "B3"
+  }
+}

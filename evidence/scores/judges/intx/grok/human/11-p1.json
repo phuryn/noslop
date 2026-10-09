@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 5,
+    "3": 3,
+    "4": 4,
+    "5": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "All-caps shouting, stacked exclamation points, and a planted misspelling (PREFERRABLY) that perform casualness.",
+    "3": "Bold What you'll do / What we're after scaffold plus the polished triad about days off, nights that end, and planning a life.",
+    "4": "Conversational tics (honestly, actually) and a salesy rewrite that over-explains the salt line.",
+    "5": "The That means... benefit gloss (nights that actually end, plan a life) and the vague you'll have a say."
+  },
+  "reason": "Version 1 is the only post with concrete kitchen facts, named people, and a benefit a cook would actually weigh, so it sounds like someone who runs the place. The others either shout to fake energy or smooth the ad into generic lifestyle copy.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "E",
+    "3": "O",
+    "4": "C",
+    "5": "track2/A-int"
+  }
+}

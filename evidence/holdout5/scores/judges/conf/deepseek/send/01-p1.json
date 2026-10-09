@@ -1,0 +1,13 @@
+{
+  "send": "1",
+  "reason": "It keeps the same facts, commitments, and caveats as the original, with only light tightening for LinkedIn flow.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "C",
+    "3": "E",
+    "4": "A",
+    "5": "V6C",
+    "6": "V6A"
+  },
+  "picked_arm": "B5"
+}

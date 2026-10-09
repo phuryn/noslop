@@ -1,0 +1,38 @@
+{
+  "dropped": [
+    {
+      "item": "Tagline 'A little measuring done. A little joy delivered.' (mostly flourish, but it framed the product as reducing effort and delivering joy)",
+      "severity": "minor"
+    },
+    {
+      "item": "Section headings 'Less measuring. More making.', 'Make room for a monthly bake.', and 'One kit. $34 a month.' (their content is carried in the body text)",
+      "severity": "minor"
+    },
+    {
+      "item": "The explicit benefit framing that pre-measuring leaves 'more time' for stirring, baking, and tasting",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "'so you can get straight to the good part' became 'so you can start at the mixing'. The vague benefit is now a specific step.",
+      "severity": "minor"
+    },
+    {
+      "item": "'Give yourself something to look forward to each month' (an invitation to the reader) became 'Each month gives you a bake to look forward to' (a statement about the product)",
+      "severity": "minor"
+    },
+    {
+      "item": "'One kit. $34 a month.' became 'Each kit is $34 a month', which slightly blurs the per-kit vs. subscription pricing",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "'start at the mixing' names mixing as the first step, which the original did not state",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

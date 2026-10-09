@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1,
+    "4": 4
+  },
+  "reason": "Version 3 preserves the original’s substantive meaning and qualifications most closely, followed by version 1’s largely equivalent paraphrases. Version 2 turns proposed mitigations into firmer “we will” commitments and loosens the timing requirement for data capture; version 4 makes potential returns sound expected, replaces precise funding categories with “money and effort,” and narrows site performance to speed.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "A",
+    "3": "B3",
+    "4": "C"
+  }
+}

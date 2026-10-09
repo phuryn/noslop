@@ -1,0 +1,11 @@
+{
+  "send": "4",
+  "reason": "It preserves my recommendation, facts, caveats, and proposed actions without turning potential returns into expected outcomes or proposed mitigations into firm commitments. It also keeps the direct, professional tone I’d use with the leadership team.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "track2/A-int",
+    "3": "C",
+    "4": "track2/B5-int"
+  },
+  "picked_arm": "track2/B5-int"
+}

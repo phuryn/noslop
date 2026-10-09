@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "Version 1 keeps the release wording, “your transactions,” and the explicit bug-fix statement. Versions 2 and 3 both recast the PDF fix as a positive outcome and drop “your,” while version 3 also shortens the invoice contrast more than version 2.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "track2/B3-int",
+    "3": "B3"
+  }
+}

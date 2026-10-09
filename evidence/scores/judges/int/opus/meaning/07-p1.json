@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3
+  },
+  "reason": "All three keep the facts (80%, Android biometric flow remaining, Nov 3 on track). Version 2 changes only sentence joining; Version 1 ties the remaining work to the on-track claim with 'and'; Version 3's 'only... left' adds a minimizing emphasis the original lacks.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "track2/B3-int",
+    "3": "track2/A-int"
+  }
+}

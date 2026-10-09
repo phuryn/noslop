@@ -1,0 +1,11 @@
+{
+  "send": "4",
+  "reason": "Version 4 preserves the original facts, qualifications, and reflective tone more closely than the others. It reads naturally and keeps the key contrast between being ready to leave and taking time to gather things.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "B5",
+    "3": "C",
+    "4": "A"
+  },
+  "picked_arm": "A"
+}

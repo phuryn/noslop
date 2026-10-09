@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 3,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "Stacked stock courtesies and repeated apologies make it feel templated, especially 'That's not the experience we want you to have.'",
+    "2": "none",
+    "3": "The explanation that a battery failure after five months 'qualifies' feels procedural and unnecessarily labored.",
+    "4": "none"
+  },
+  "reason": "Version 4 combines a clear remedy with natural warmth and personal ownership of the follow-up. Version 2 is equally clear but slightly abrupt; these stylistic judgments do not establish whether AI was involved.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "A",
+    "3": "B",
+    "4": "C"
+  }
+}

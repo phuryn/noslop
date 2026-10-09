@@ -1,0 +1,21 @@
+{
+  "dropped": [
+    {
+      "item": "The original says she 'had been standing' in the drizzle, suggesting she had waited outside for some time. The edit only places her there when the narrator arrived.",
+      "severity": "minor"
+    }
+  ],
+  "changed": [],
+  "added": [
+    {
+      "item": "The edit states the terraced house was hers ('her terraced house'). The original only implies this.",
+      "severity": "minor"
+    },
+    {
+      "item": "'when I got there', a connective framing the narrator's arrival",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

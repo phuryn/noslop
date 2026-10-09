@@ -1,0 +1,17 @@
+{
+  "dropped": [
+    {
+      "item": "Framing of the $129 senior wellness panel as a practical way to get a fuller picture of the dog's health and make the most of the yearly checkup (the soft call to action tying the panel to the annual visit)",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "'before noticeable symptoms appear' became 'before symptoms appear', which slightly broadens the claim from before symptoms are noticeable to before any symptoms exist",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

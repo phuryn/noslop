@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 5,
+    "4": 3,
+    "5": 7,
+    "6": 4,
+    "7": 6
+  },
+  "send": "2",
+  "tells": {
+    "1": "Even three-part cadence and a stock 'Thanks, everyone' close with no personal voice.",
+    "2": "none",
+    "3": "Emoji bookends plus bold date-labeled bullets — a stock LLM Slack template.",
+    "4": "none",
+    "5": "Same emoji-and-bold bullet template, plus the cutesy 'feeling stuck?' closer.",
+    "6": "Mechanical parallel dash list with no voice or sign-off.",
+    "7": "Near-copy of the emoji-bullet template, including 'you're all set' and 'feeling stuck?'."
+  },
+  "reason": "Version 2 is the one I'd send: it covers every detail in a colleague's voice, with small natural phrasing rather than template polish. The emoji-and-bold notes read like one generated format, 6 is a sterile cut-down, and 4 is human but too rambling and email-like for a skilled Slack update.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "C",
+    "3": "O",
+    "4": "E",
+    "5": "V6A",
+    "6": "A",
+    "7": "V6C"
+  }
+}

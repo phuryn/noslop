@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 4,
+    "3": 1,
+    "4": 2
+  },
+  "send": "3",
+  "tells": {
+    "1": "Slightly padded rhythm with the separate 'After that, the $135 rate applies to you too' sentence, and the illogical 'more options during the week' for Sunday classes",
+    "2": "Polished corporate phrasing ('will increase', 'will take effect for you') plus curly quotes and the same 'more options during the week' line attached to a Sunday addition",
+    "3": "none",
+    "4": "'so you'll have more options during the week' doesn't fit a Sunday addition and reads like filler"
+  },
+  "reason": "Version 3 is the tightest and most natural, and it drops the 'more options during the week' line, which doesn't make sense for Sunday classes. Version 4 is a close second but keeps that slip.",
+  "label_to_arm": {
+    "1": "track2/B3-int",
+    "2": "O",
+    "3": "track2/A-int",
+    "4": "B3"
+  }
+}

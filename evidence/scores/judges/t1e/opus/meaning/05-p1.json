@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 1
+  },
+  "reason": "Version 3 is nearly verbatim with only light rephrasing. Version 2 is also faithful but adds a small new claim that 'the system handles routine reassignments'. Version 1 drops the secondary goals and non-goals, loses detail from the consequences list, and shifts commitments (e.g., 'all' visits, 'significantly decrease', 'Sunrise has told us').",
+  "label_to_arm": {
+    "1": "E",
+    "2": "A",
+    "3": "B3"
+  }
+}

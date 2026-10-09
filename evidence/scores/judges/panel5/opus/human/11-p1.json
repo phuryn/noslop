@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 6,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 5,
+    "6": 1
+  },
+  "send": "6",
+  "tells": {
+    "1": "Forced casual asides ('and honestly, that's the fun part', 'your opinion will actually count') added to sound conversational, on top of bolded label headers ('The job:', 'Who we want:').",
+    "2": "Very even, polished cadence with stacked triads ('real days off, nights that actually end, and a schedule you can plan a life around'), though nothing glaring.",
+    "3": "The 'Day to day,' opener and the uniformly smooth paragraph rhythm feel slightly templated.",
+    "4": "none. The all-caps, run-on sentences, missing spaces after commas, and 'PREFERRABLY' typo are clearly human, though unskilled.",
+    "5": "Bolded template section headers ('What you'll do:', 'What we're after:', 'Pay:') in an otherwise prose post, a common AI job-post structure.",
+    "6": "Minimal. A slightly tidy colon construction ('full time and hands-on: you'll be...'), but it reads naturally."
+  },
+  "reason": "Version 6 keeps the voice and all the concrete details while cutting redundancy, and it avoids both template headers and manufactured casualness. Version 4 is unmistakably human but too sloppy and shouty to be credible for recruiting a sous chef.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B3",
+    "3": "B5",
+    "4": "E",
+    "5": "O",
+    "6": "A"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "Stacked courtesy phrases, generic empathy, and repeated apologies make it feel templated.",
+    "4": "none"
+  },
+  "reason": "Version 1 balances a specific apology with a clear remedy and a natural invitation to reply. Version 2 is also strong; version 4 sounds slightly brusque and minimizes the delay, while version 3 overextends the courtesy language.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "track2/B3-int",
+    "3": "O",
+    "4": "track2/A-int"
+  }
+}

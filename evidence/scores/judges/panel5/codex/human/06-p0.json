@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 6,
+    "4": 1,
+    "5": 3,
+    "6": 5
+  },
+  "send": "4",
+  "tells": {
+    "1": "The oven/share/tea sequence feels like a stock cozy lifestyle montage; 'start at the mixing' sounds strained.",
+    "2": "'Get straight to the good part' and 'Give yourself something to look forward to' are generic feel-good copy.",
+    "3": "Repeats 'pre-measured,' 'time,' and 'something amazing' without adding information; 'It's that simple' adds empty reassurance.",
+    "4": "none",
+    "5": "The balanced 'Less measuring, more making' slogan and repeated 'Maybe' openings make the rhythm feel consciously manufactured.",
+    "6": "'A little measuring done. A little joy delivered.' adds conspicuous verbal symmetry, reinforced by clipped fragments throughout."
+  },
+  "reason": "Version 4 has the strongest balance of concrete language, clear section structure, and restrained warmth. These are editorial judgments about how the copy reads, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B5",
+    "3": "E",
+    "4": "B3",
+    "5": "C",
+    "6": "O"
+  }
+}

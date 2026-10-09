@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 2,
+    "3": 3,
+    "4": 1,
+    "5": 4
+  },
+  "send": "4",
+  "tells": {
+    "1": "none",
+    "2": "The oddly specific 'third plate of the night' feels manufactured; the lifestyle promises exceed the supplied facts.",
+    "3": "Repeated, neatly balanced phrases about ideal working conditions give it a templated recruitment voice.",
+    "4": "'Without turning the kitchen into a pressure cooker' feels like inserted industry-themed copywriting.",
+    "5": "'Honestly,' 'actually count,' and 'Sound like your kind of kitchen?' collectively strain to sound conversational."
+  },
+  "reason": "Version 4 reads most like a competent editorial rewrite: direct, readable, and relatively restrained, though its added promises need verification before publication. Version 1 feels plausibly human but ranks last as skilled writing for this purpose; these judgments concern style, not provable authorship.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "B3",
+    "3": "O",
+    "4": "A",
+    "5": "C"
+  }
+}

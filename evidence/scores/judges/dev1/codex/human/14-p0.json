@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 5,
+    "3": 2,
+    "4": 1,
+    "5": 4
+  },
+  "send": "3",
+  "tells": {
+    "1": "Repeated setup about the small shop and two floors makes the thread feel padded.",
+    "2": " conspicuously patterned emphasis: “Every shelf, every table, every book” and the paired “Maybe” sentences.",
+    "3": "“Every shelf, table and book had to earn its place” is a familiar copywriting formula.",
+    "4": "The unexplained shift from “we” to “My favorite thing” suggests an inconsistent attempt to add personality.",
+    "5": "“We started with what we could” feels mechanically simplified, losing specificity and warmth."
+  },
+  "reason": "Version 4 has the most individual voice and believable humor, though these are impressions rather than evidence of authorship. I would publish version 3 for its consistent voice, restrained warmth and clarity without version 4’s added claims about the shop’s history.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "O",
+    "3": "B3",
+    "4": "C",
+    "5": "A"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2
+  },
+  "reason": "Version 1 changes only wording and punctuation and keeps every fact and caveat. Version 3 is nearly as faithful, with light paraphrases such as 'Agencies pay for it' and 'Show coordinators'. Version 2 drops 'not for routine reassignments' and the 'Outcomes depend on who is working' framing, and it adds timing ('targets will be confirmed then') that the original did not state.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "track2/A-int",
+    "3": "track2/B3-int"
+  }
+}

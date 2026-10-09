@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 5,
+    "4": 4,
+    "5": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "The repeated short sentences and split closing thought make the conversational rhythm feel deliberately manufactured.",
+    "4": "“I found myself doing the usual things” mildly overexplains the actions that follow, giving the opening a stock reflective quality.",
+    "5": "none"
+  },
+  "reason": "Version 2 combines concrete detail, natural contractions, and restrained emotion with the least verbal padding. These are editorial judgments about how the prose reads, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "B5",
+    "3": "C",
+    "4": "O",
+    "5": "A"
+  }
+}

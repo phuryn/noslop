@@ -1,0 +1,11 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2
+  },
+  "reason": "Version 1 keeps the ARR milestone, Vestmark as the largest customer, the Nordwind pilot’s successful completion, the offshore-wind intro ask, the blurb offer, and the thanks. Version 2 drops “successfully,” adds that next steps are “with them,” and narrows the reply invitation.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A"
+  }
+}

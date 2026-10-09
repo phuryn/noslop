@@ -1,0 +1,11 @@
+{
+  "send": "4",
+  "reason": "It keeps every fact and commitment: the five-month failure, the apology for the delay, the 2-year warranty, the free replacement, the tracking email and the offer to help. It also keeps the original's warm, formal tone while trimming the repeated apology. Version 3 drops 'at no cost', and versions 1 and 2 lose the thanks and the courteous tone.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "E",
+    "4": "B5"
+  },
+  "picked_arm": "B5"
+}

@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 3,
+    "4": 5,
+    "5": 2
+  },
+  "send": "5",
+  "tells": {
+    "1": "none; its quirks (dash bullets, 'Never miss a session again', 'watch your progress grow!', clunky renewal boilerplate) read like typical human-written store copy",
+    "2": "Invented-feeling specifics: the precise '312' count, a named testimonial ('Gwen Harper... back to hiking in four months'), and a new Premium feature, plus the awkward 'the bigger problem is X, more than Y' framing",
+    "3": "Over-flattened, neutral tone with tidy parallel bullets ('300+ video exercises. / Reminders. / Progress sharing.') that strip out any voice",
+    "4": "Generic polish and filler: 'guidance you can trust', 'keep your recovery moving', 'unlock more of what the app has to offer'",
+    "5": "Slightly forced casualness and stock momentum phrases ('bouncing back', 'keep you moving forward', 'get moving')"
+  },
+  "reason": "Version 5 is clear and warm, and it reads naturally without inventing claims. Version 2's fabricated-seeming testimonial and stat are a credibility and compliance risk for a health app, and Version 4 is the most generically AI-polished.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "track2/B5-int",
+    "3": "track2/A-int",
+    "4": "O",
+    "5": "C"
+  }
+}

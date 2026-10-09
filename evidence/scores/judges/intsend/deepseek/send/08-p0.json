@@ -1,0 +1,11 @@
+{
+  "send": "4",
+  "reason": "It includes the softened age guidance, the 1-in-5 kidney finding, the unnamed beagle anecdote, and the low-pressure cost caveat while avoiding unverified panel details.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "E",
+    "3": "C",
+    "4": "track2/B5-int"
+  },
+  "picked_arm": "track2/B5-int"
+}

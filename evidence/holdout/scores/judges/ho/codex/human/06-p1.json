@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 5,
+    "3": 2,
+    "4": 6,
+    "5": 1,
+    "6": 3
+  },
+  "send": "5",
+  "tells": {
+    "1": "The stock question-and-reassurance opener feels manufactured; the compatibility warning also arrives after the application instructions.",
+    "2": "none",
+    "3": "none",
+    "4": "none",
+    "5": "none",
+    "6": "none"
+  },
+  "reason": "Version 5 has the best balance of natural phrasing, concise instructions, and sensible sequencing; version 3 is a close second. These are editorial judgments, not reliable authorship signals; versions 2 and 4 differ only in apostrophe typography, so their forced ordering is arbitrary.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "O",
+    "3": "B2",
+    "4": "A",
+    "5": "B",
+    "6": "B3"
+  }
+}

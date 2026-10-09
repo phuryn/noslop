@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "none",
+    "2": "Labeled Highlights/Ask scaffold plus stock closer ('continued support,' 'dig into anything')",
+    "3": "Markdown bold, bold-lead bullets, and stacked politeness ('Quick Q3 update,' 'really appreciate,' 'Happy to,' 'As always')"
+  },
+  "reason": "Version 1 sounds most like a founder writing quickly, but version 2 is the one I'd send: same facts, easier to scan, and still plain enough to trust. Version 3 reads like a formatted AI draft.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "O"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 4,
+    "3": 1,
+    "4": 2
+  },
+  "send": "3",
+  "tells": {
+    "1": "The stacked fragments ('Fewer empty chairs. Less time… More patients…') and packaged takeaway make the conversational voice feel rehearsed.",
+    "2": "The explicit benefits list, announced lesson, and closing engagement question follow a familiar LinkedIn template.",
+    "3": "The generalization about 'meeting people where they already are' is a stock business takeaway.",
+    "4": "The generic benefit phrase 'the care they need when they need it' and appended engagement question feel formulaic."
+  },
+  "reason": "Version 3 gives the result, mechanism, and practical implication without overpackaging them, making it the strongest publishable option. Version 4 is close, but its crowded benefits sentence and generic closing question feel less considered; these are stylistic judgments, not evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "O",
+    "3": "B",
+    "4": "A"
+  }
+}

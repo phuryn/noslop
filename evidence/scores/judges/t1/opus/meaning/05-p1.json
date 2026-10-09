@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1
+  },
+  "reason": "Version 3 is the most faithful: it only adds a mild implied commitment that 'the system handles routine reassignments.' Version 1 drops the 'typically' hedge, while Version 2 drifts the most, changing 'escalated' to 'passed,' 'validate' to 'test whether … realistic,' and 'meet' to 'should meet,' and adding emphasis and timing that the original doesn't have.",
+  "label_to_arm": {
+    "1": "B",
+    "2": "C",
+    "3": "A"
+  }
+}

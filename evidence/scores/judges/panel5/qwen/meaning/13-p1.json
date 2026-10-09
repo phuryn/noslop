@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 5,
+    "3": 2,
+    "4": 3,
+    "5": 4
+  },
+  "reason": "Version 1 preserves the original's facts, caveats, mitigations, and next steps most closely, with only trivial wording changes. Version 3 is also very faithful but loses small nuances such as 'capture' and 'targeted,' while Version 2 drops many important specifics.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "E",
+    "3": "A",
+    "4": "C",
+    "5": "B5"
+  }
+}

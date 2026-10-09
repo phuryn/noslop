@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3
+  },
+  "reason": "Version 2 keeps the original offer, on-time figure, and exploratory ask without unsupported additions. Version 1 changes the pitch only with limits and details the writer supplied, while version 3 drops the fit discussion and asserts regular-route coverage the writer said not to push.",
+  "label_to_arm": {
+    "1": "track2/B3-int",
+    "2": "track2/A-int",
+    "3": "B3"
+  }
+}

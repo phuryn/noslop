@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3,
+    "4": 6,
+    "5": 4,
+    "6": 5
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "The added 'helped lead' sounds like résumé polishing and introduces an unsupported leadership claim.",
+    "4": "none",
+    "5": "The vague closing phrase 'making more of their own pressure data' feels like editorial filler.",
+    "6": "The sequence 'This talk explores,' 'It shares lessons,' and 'practical considerations' feels formulaic."
+  },
+  "reason": "Version 2 has the most natural speaking voice, but I would send version 1 for its clear, measured claims and professional tone. These are stylistic judgments, not evidence of AI authorship; version 4 ranks last because its awkward prose and formatting do not read like skilled editing.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "C",
+    "3": "A",
+    "4": "E",
+    "5": "B5",
+    "6": "O"
+  }
+}

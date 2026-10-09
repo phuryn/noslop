@@ -1,0 +1,17 @@
+{
+  "dropped": [
+    {
+      "item": "Closing line 'Thank you for being part of the Kestrel family.' (relational sentiment)",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "Original says Crowd Focus 'helps your hearing aids bring the voice in front of you forward'; edit says 'It brings the voice in front of you forward', a slightly stronger, unhedged claim",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

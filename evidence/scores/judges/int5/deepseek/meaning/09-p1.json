@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2
+  },
+  "reason": "Version 2 keeps the most original facts, warranty commitment, and key reassurance ('That's not the experience we want you to have') without adding or changing meaning. Version 3 is close but omits that reassurance, while Version 1 omits several supportive nuances.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "track2/B5-int",
+    "3": "B5"
+  }
+}

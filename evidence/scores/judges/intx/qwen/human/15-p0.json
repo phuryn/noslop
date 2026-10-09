@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 5,
+    "3": 2,
+    "4": 3,
+    "5": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Clichéd cheerleading phrases like 'Never miss a session again' and 'watch your progress grow!' feel template-written.",
+    "3": "The polished, evenly balanced benefit lines and mild recovery clichés feel slightly AI-copyed.",
+    "4": "The inserted testimonial and oddly specific 312-exercise count feel like unverified social proof rather than grounded App Store copy.",
+    "5": "Generic trust language and boilerplate phrases such as 'guidance you can trust' and 'unlock more of what the app has to offer' are strong AI tells."
+  },
+  "reason": "Version 1 reads most like a careful human: it is specific, restrained, and credible without leaning on motivational filler. The others are more templated, overly polished, or add questionable claims.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "E",
+    "3": "C",
+    "4": "track2/B5-int",
+    "5": "O"
+  }
+}

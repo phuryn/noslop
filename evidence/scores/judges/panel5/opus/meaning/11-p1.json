@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 3,
+    "3": 2,
+    "4": 1,
+    "5": 5
+  },
+  "reason": "Version 4 keeps every fact, commitment and nuance. Version 3 drops only 'closely', and Version 2 drops the 'schedule you can plan a life around' commitment; Version 1 softens or alters several nuances ('slammed' to 'busy', 'decent hour', 'opinion will count'). Version 5 omits many commitments (steady crew, nights that end, no pressure cooker, real say, calm under pressure) and adds 'not limited to' and 'must' requirements.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B5",
+    "4": "B3",
+    "5": "E"
+  }
+}

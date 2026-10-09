@@ -1,0 +1,11 @@
+{
+  "send": "none",
+  "reason": "Versions 1, 2, and 4 turn my not having given much thought to leaving into never having thought about it, losing that qualification. Version 3 invents careful preparation and replaces the specific memories with claims about good and bad years.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "C",
+    "3": "E",
+    "4": "A"
+  },
+  "picked_arm": "none"
+}

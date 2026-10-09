@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 4,
+    "4": 1
+  },
+  "reason": "Version 4 keeps the radius, on-time rate, and both offer types intact, losing only the meeting’s “where we might fit” purpose. Version 1 adds “anywhere” and “occasional”; version 2 recasts last-minute delivery as picking up loads; version 3 adds “a lot,” narrows help to “some,” and hedges the 15 minutes.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "E",
+    "4": "B3"
+  }
+}

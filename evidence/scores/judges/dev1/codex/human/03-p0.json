@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3,
+    "4": 4,
+    "5": 5
+  },
+  "send": "2",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "none",
+    "4": "none",
+    "5": "The rhetorical question and punchy “That's fixed” feel like deliberate conversational polish, though neither reliably indicates AI."
+  },
+  "reason": "Version 2 is concise, easy to scan, and precise, with a natural tone suited to release notes. Versions 1 and 3 are also strong; 4 has slightly awkward wording, while 5 adds unnecessary chatter and implies an invoice-opening workflow the other versions don't establish.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B3",
+    "3": "A",
+    "4": "B5",
+    "5": "C"
+  }
+}

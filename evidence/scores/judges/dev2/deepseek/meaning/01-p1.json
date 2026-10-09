@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 3,
+    "3": 1,
+    "4": 2
+  },
+  "reason": "Version 3 preserves the most original content, including the lesson, closing-gap point, and question; Version 4 keeps the lesson but omits the question, Version 2 omits the lesson and loses the 'worth testing' caveat, and Version 1 omits the lesson/question and weakens the third practical benefit.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "A",
+    "3": "C",
+    "4": "B3"
+  }
+}

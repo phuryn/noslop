@@ -1,0 +1,11 @@
+{
+  "send": "3",
+  "reason": "Version 3 keeps the original's voice and nearly every fact, including the schedule promise, the pay range and the application ask. It only softens 'work closely with the chef' to 'work with the chef', which is minor. Version 2 drops 'a schedule you can plan a life around', Version 1 shifts the tone and adds a claim ('nights that end at a decent hour'), and Version 4 is shouty and loses several caveats.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B5",
+    "4": "E"
+  },
+  "picked_arm": "B5"
+}

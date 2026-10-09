@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 6,
+    "2": 2,
+    "3": 5,
+    "4": 3,
+    "5": 1,
+    "6": 7,
+    "7": 4
+  },
+  "send": "2",
+  "tells": {
+    "1": "Generic promo phrasing ('free public stargazing night', 'explore the night sky') and an exclamation-mark opener",
+    "2": "none",
+    "3": "'explore the night sky' is a stock phrase that replaces the more natural 'get a proper look'",
+    "4": "Slightly over-stretched 'night under the stars' framing",
+    "5": "none (amateur quirks such as 'If yes why not', 'i.e. cloud' and '6 telescopes' read as genuinely human)",
+    "6": "Em dash splice ('Everyone is welcome—bring') plus stock phrases 'explore the night sky' and 'free public stargazing night'",
+    "7": "Flat, evenly balanced sentence structure ('It's an evening outdoors, so bring warm clothes') that feels templated"
+  },
+  "reason": "Version 5 reads most authentically human but is clunky and has errors. Version 2 keeps a natural, local voice ('get a proper look', 'Wrap up warm', 'clouds roll in') while staying clear and polished, so it's the best one to publish.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "V6A",
+    "3": "V6C",
+    "4": "C",
+    "5": "E",
+    "6": "O",
+    "7": "B5"
+  }
+}

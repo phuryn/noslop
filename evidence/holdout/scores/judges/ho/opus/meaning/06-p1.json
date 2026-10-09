@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 4,
+    "4": 5,
+    "5": 2
+  },
+  "reason": "Version 2 matches the original except for an apostrophe. Version 5 keeps every fact and caveat. Version 1 moves the compatibility check earlier but loses nothing. Version 3 drops the 'peeling' qualifier. Version 4 adds an 'easy fix' claim, softens the 50°F requirement to 'try to work when it's at least 50°F out' (dropping its application during curing), and loosens 'loose, peeling' to 'peeling or loose.'",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "B",
+    "4": "C",
+    "5": "B2"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3,
+    "4": 4
+  },
+  "reason": "Version 2 preserves the meaning most closely, while version 1 strengthens “hadn’t given much thought” to “hadn’t thought.” Version 3 adds “the whole drive” and an explicit aim to teach better; version 4 makes the larger change by replacing limited reflection with absolute “always” and “never” claims and recasting how to leave as a way of conceiving retirement.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "C",
+    "4": "B"
+  }
+}

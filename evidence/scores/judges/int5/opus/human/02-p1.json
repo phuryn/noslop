@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 3,
+    "4": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Three one-sentence paragraphs that each end in a generic question, so it reads like a template with no specifics",
+    "3": "Two questions in a row ('Could we help...' then 'Do you have...'), which sounds formulaic",
+    "4": "The generic line 'We'd like to help with regular routes or last-minute deliveries' gives the reader nothing concrete"
+  },
+  "reason": "Version 1 includes details a real sender would know: 42 trucks, a defined 2-hour on-time window, a candid capacity limit, and the compressor-failure fix. That makes it more credible and less templated than the interchangeable generic pitches in 2, 3, and 4.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "O",
+    "3": "track2/A-int",
+    "4": "B5"
+  }
+}

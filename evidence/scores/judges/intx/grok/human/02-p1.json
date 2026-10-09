@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 2,
+    "5": 5
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Catalog-style opener and evenly stacked, voiceless sentences.",
+    "3": "One packed proof sentence plus a matched pair of polite questions.",
+    "4": "none",
+    "5": "none"
+  },
+  "reason": "Version 1 has a natural spoken cadence and a clear ask without template symmetry or careless errors, so it is the one I would send. Versions 2 and 3 read like smoothed templates, while 5 is human only because it is sloppy.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "track2/A-int",
+    "3": "O",
+    "4": "track2/B5-int",
+    "5": "E"
+  }
+}

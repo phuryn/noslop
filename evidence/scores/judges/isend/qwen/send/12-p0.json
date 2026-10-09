@@ -1,0 +1,11 @@
+{
+  "send": "4",
+  "reason": "It keeps the original facts and tone best: existing pressure data helped find otherwise unnoticed leaks, contributed to reducing non-revenue water from 14% to 9%, and the talk will share lessons and considerations. Unlike version 1, it does not add a new claim that the speaker helped lead the effort.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "E",
+    "4": "B5"
+  },
+  "picked_arm": "B5"
+}

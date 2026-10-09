@@ -1,0 +1,12 @@
+{
+  "dropped": [
+    {
+      "item": "Explicit framing that a bug was fixed (the 'Fixed a bug where...' wording); the 'Fixes' heading still implies it",
+      "severity": "minor"
+    }
+  ],
+  "changed": [],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

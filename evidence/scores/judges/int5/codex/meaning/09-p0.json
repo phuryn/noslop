@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 1
+  },
+  "reason": "Version 3 preserves the core facts and commitments plus the assurance of help and thanks for patience. Version 2 retains more of the original acknowledgment than version 1, which also drops the emphasis that the battery failed after only five months; all three preserve the warranty, free replacement, and tracking commitment.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "track2/B5-int",
+    "3": "B5"
+  }
+}

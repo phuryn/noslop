@@ -1,0 +1,11 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2
+  },
+  "reason": "Version 1 preserves the original wording exactly except for apostrophe style, while version 2 substitutes 'Make sure' and 'When' without changing meaning.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A"
+  }
+}

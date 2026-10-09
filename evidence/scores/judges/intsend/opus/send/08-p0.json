@@ -1,0 +1,11 @@
+{
+  "send": "2",
+  "reason": "It softens the age-7 line with the small-breed caveat, adds the 1-in-5 kidney figure, mentions the beagle without naming him, and stays low-pressure about cost while avoiding the panel and pricing details I couldn't confirm. One edit before sending: 'One was a beagle' makes it sound like his diagnosis came from last year's testing, when it was three years ago, so I'd reword that line.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "track2/B5-int",
+    "3": "track2/A-int",
+    "4": "E"
+  },
+  "picked_arm": "track2/B5-int"
+}

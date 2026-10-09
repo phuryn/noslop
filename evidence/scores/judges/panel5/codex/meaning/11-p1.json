@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 5,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 1
+  },
+  "reason": "Version 5 preserves the original most completely; version 2 slightly weakens working closely with the chef, while version 3 drops the explicit promise of a schedule you can plan a life around. Version 4 adds a decent-hour finishing promise and a specific tasting action, while version 1 loses multiple commitments and leadership expectations and makes the responsibilities explicitly open-ended.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "B5",
+    "3": "A",
+    "4": "C",
+    "5": "B3"
+  }
+}

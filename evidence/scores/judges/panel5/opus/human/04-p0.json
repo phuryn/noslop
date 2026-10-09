@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 6,
+    "2": 2,
+    "3": 4,
+    "4": 3,
+    "5": 5,
+    "6": 1
+  },
+  "send": "6",
+  "tells": {
+    "1": "An em-dash aside ('—a small job now that gives us...') plus a colon reveal ('Then comes the hardest part: leaving them alone'). The tidy uplifting framing and the stock closer 'a chat and a few ideas for next season' add to it.",
+    "2": "None. It reads as human, though the short sentences are choppy. 'This Saturday' is wrong for an issue going out about ten days before the event.",
+    "3": "Smoothed, even rhythm. 'A small job now... something to look forward to' is a slightly generic uplifting line.",
+    "4": "Very little. It's a careful copyedit of 3 with 'pick', 'break' and 'each one', but it stays a bit bland and polished.",
+    "5": "The colon reveal 'Then comes the hardest part: leaving them alone' and the formulaic 'And a reminder for your diary' opener.",
+    "6": "None. It has a distinct British allotment voice ('natter', 'pointy end', 'the hard bit'). The exclamation in 'It's garlic-planting time!' is the only slightly stock touch."
+  },
+  "reason": "Version 6 has the most authentic community-newsletter voice, with specific, warm, natural phrasing and no stock AI rhythm, while staying clear and complete. Before sending, check the date: October 18, 2026 falls on a Sunday, not a Saturday.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "E",
+    "3": "B3",
+    "4": "B5",
+    "5": "A",
+    "6": "C"
+  }
+}

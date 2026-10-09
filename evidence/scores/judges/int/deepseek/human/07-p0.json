@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 3,
+    "4": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "The phrase 'The remaining piece is' feels slightly stiff and formal for a quick Slack update.",
+    "3": "It fuses the remaining work and the target date into one sentence, making it feel slightly over-packed.",
+    "4": "Uses the more noun-heavy 'is the remaining piece' where a human might say 'with only ... left.'"
+  },
+  "reason": "Version 1 is the most concise and natural, with the conversational 'with only the Android biometric flow left' and a clear separate sentence for the target date. It reads like a skilled human giving a quick status update without over-formality.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "O",
+    "3": "B3",
+    "4": "track2/B3-int"
+  }
+}

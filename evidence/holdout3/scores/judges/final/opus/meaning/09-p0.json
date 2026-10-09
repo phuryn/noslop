@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 3,
+    "3": 1,
+    "4": 2,
+    "5": 5
+  },
+  "reason": "V3 keeps every fact and claim (only 'If that sounds like you' is dropped), V4 loses just the 'real trade with real prospects' line, and V2 swaps 'skills that are always in demand' for a narrower 'trade people will hire you for'. V1 drops 'and your head' and hardens 'still care' into 'won't let a part go out', while V5 adds claims ('excellent' salary, 'career/lifetime of employment', 'common sense', tight tolerances) and drops the long weekend and the experienced colleagues.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B5",
+    "4": "B3",
+    "5": "E"
+  }
+}

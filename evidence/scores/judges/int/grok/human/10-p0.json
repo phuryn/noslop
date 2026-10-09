@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3,
+    "4": 4
+  },
+  "send": "2",
+  "tells": {
+    "1": "The relative clause 'which gives you more options during the week' is a stock softener, and 'applies to you too' is slightly off.",
+    "2": "none",
+    "3": "Formulaic 'As a current member… when the new rate starts for you' compresses the terms and drops the new price.",
+    "4": "Formal announcement voice — 'will increase,' 'will take effect,' and 'to give you more options' — reads like a template."
+  },
+  "reason": "Version 2 is what a skilled studio owner would send: both prices and dates are clear, the rhythm is spoken, and nothing is padded. Version 4 is the most templated; 1 is a little loose and 3 a little flattened.",
+  "label_to_arm": {
+    "1": "track2/B3-int",
+    "2": "B3",
+    "3": "track2/A-int",
+    "4": "O"
+  }
+}

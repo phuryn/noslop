@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 5,
+    "3": 3,
+    "4": 2,
+    "5": 4
+  },
+  "send": "4",
+  "tells": {
+    "1": "none",
+    "2": "The stacked template: results list, broad leadership lesson, recommendation, and engagement question.",
+    "3": "The stock takeaway about meeting patients 'where they already are.'",
+    "4": "The closing engagement question feels appended rather than necessary.",
+    "5": "Conspicuous conversational styling and sentence fragments, followed by a generic operational lesson."
+  },
+  "reason": "Version 1 sounds the most unforced, but version 4 has the strongest concise opening and avoids the minimizing 'all we did' claim. These are judgments about editorial style, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "O",
+    "3": "B3",
+    "4": "A",
+    "5": "C"
+  }
+}

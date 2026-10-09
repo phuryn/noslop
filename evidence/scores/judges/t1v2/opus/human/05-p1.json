@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 2,
+    "3": 1,
+    "4": 3,
+    "5": 4
+  },
+  "send": "2",
+  "tells": {
+    "1": "The inflated lead-in 'The consequences are significant:' before the bullets, plus wordier phrasing like 'There is currently no system'.",
+    "2": "Mild: every bullet uses the same bold-lead-sentence pattern, and 'This hurts in four ways:' announces the list. Otherwise clean.",
+    "3": "Mostly none. 'The effects add up:' is a slight stock transition, and the casual tone ('who the client will actually accept', 'Keep match quality up') feels a bit loose for a PRD.",
+    "4": "The rigidly parallel unbolded bullets, introduced by the formulaic 'This causes four problems:'.",
+    "5": "The bare label 'Consequences:' used as a lead-in, plus the clunky tacked-on clause 'to inform the decision on broader rollout'."
+  },
+  "reason": "Version 3 reads most like a person talking, but its casual register slightly undercuts a PRD. Version 2 keeps the precise, professional tone while avoiding the inflated or formulaic lead-ins in 1, 4, and 5, so it's the one to send.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B",
+    "3": "C",
+    "4": "A",
+    "5": "B2"
+  }
+}

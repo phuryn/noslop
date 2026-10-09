@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 2,
+    "3": 1,
+    "4": 4,
+    "5": 3
+  },
+  "send": "3",
+  "tells": {
+    "1": "The closing phrase stacks generic promotional benefits: 'a practical way,' 'a fuller picture,' and 'make the most.'",
+    "2": "none",
+    "3": "none",
+    "4": "The conspicuously folksy wording feels engineered, and 'get the full picture' is an inflated marketing promise.",
+    "5": "The vague phrase 'helps guide care as your dog ages' gives the explanation a slightly templated finish."
+  },
+  "reason": "Version 3 is direct, restrained, and easy to follow, with a clean price statement and no promotional padding. These are stylistic judgments, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B5",
+    "3": "A",
+    "4": "C",
+    "5": "B3"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 3,
+    "4": 2,
+    "5": 5
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "stock triad: the heat, the cold, and everything in between",
+    "3": "colon-plus-list apprenticeship line feels templated",
+    "4": "stock phrase everything in between and overly neat parallel belonging lines",
+    "5": "stilted phrasing: Our crews did that work"
+  },
+  "reason": "Version 1 sounds like a real person at a co-op: specific, appreciative, and conversational without leaning on stock AI phrasing. I would publish it because it keeps the milestone, member value, and apprenticeship CTA clear.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B5",
+    "3": "B3",
+    "4": "O",
+    "5": "A"
+  }
+}

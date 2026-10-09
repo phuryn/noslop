@@ -1,0 +1,17 @@
+{
+  "dropped": [
+    {
+      "item": "Explicit framing that '400 sq ft meant making choices' (merged into the 'earn its place' sentence; nuance largely retained)",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "'we could make a start' became 'we made a start', shifting from possibility/capability to a statement of fact",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 5,
+    "3": 4,
+    "4": 1,
+    "5": 3
+  },
+  "reason": "V4 keeps every fact and nuance except 'catch your breath'. V1 also drops 'glad to have you along'. V5 drops that line and the 'wherever you are with your winter preparations' line. V3 adds unsupported claims ('Most of us are in the same boat', 'just got'), and V2 drops the most content, including 'catch your breath', the welcome warmth and the winter-prep framing.",
+  "label_to_arm": {
+    "1": "B2",
+    "2": "A",
+    "3": "C",
+    "4": "B3",
+    "5": "B"
+  }
+}

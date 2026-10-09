@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 5,
+    "3": 6,
+    "4": 4,
+    "5": 2,
+    "6": 1
+  },
+  "send": "6",
+  "tells": {
+    "1": "The seasonal opener feels tacked on: 'As autumn settles over the hills, thank you...' is slightly disconnected.",
+    "2": "Uses polished donor-speak like 'heartfelt thank you' and 'a reminder of what your support makes possible'.",
+    "3": "Stilted and overly formal phrasing such as 'In a season where we are all focusing on the coming autumn'.",
+    "4": "Tone is clipped and the ending 'you're welcome' is ambiguous and undercuts the thank-you message.",
+    "5": "Slightly mechanical paired logic: 'your donations are what let us... They're also the reason...'",
+    "6": "none"
+  },
+  "reason": "Version 6 feels most like a real person speaking directly to supporters: concrete, warm, and unforced. Versions 2 and 3 feel least human due to over-polished donor-speak and stilted formality.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "O",
+    "3": "E",
+    "4": "A",
+    "5": "B5",
+    "6": "C"
+  }
+}

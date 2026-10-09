@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 4,
+    "3": 2,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "The phrase 'the training is paid' is an awkward, slightly robotic construction.",
+    "2": "The phrase 'cutting money off monthly bills' is unnatural and likely AI-generated.",
+    "3": "The vivid contrast 'blazing heat and freezing cold' feels like an AI-generated flourish.",
+    "4": "none"
+  },
+  "reason": "Version 4 reads as the most natural and balanced, with a clear human voice and no awkward phrasing; version 3 is strong but slightly over-polished.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "C",
+    "4": "O"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 2,
+    "5": 5
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Outline headers and the stiff line 'shows the form for the movement' read like a summary, not finished store copy.",
+    "3": "Clichés ('Never miss a session again,' 'watch your progress grow!') plus mangled renewal wording ('within 24-hours prior').",
+    "4": "Stock 'Whether you're healing…' triad and an even bullet cadence that could swap with version 5.",
+    "5": "Empty filler: 'guidance you can trust,' 'always,' and 'unlock more of what the app has to offer.'"
+  },
+  "reason": "Version 1 is the one I'd publish: spoken choices like 'tweak' and 'nudge' sound like a person, and the claims stay clear and compliant. The rest are a flat outline, a cliché feature list with a bad renewal line, or the same copy with extra empty polish.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "E",
+    "4": "B3",
+    "5": "O"
+  }
+}

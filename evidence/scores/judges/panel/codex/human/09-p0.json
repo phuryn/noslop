@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 5,
+    "4": 3,
+    "5": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "Stacked stock empathy phrases and repeated apologies make the response feel templated.",
+    "4": "none",
+    "5": "Repeated apologies and product naming feel formulaic, though neither indicates AI authorship."
+  },
+  "reason": "Version 1 is direct, considerate, and easy to scan, with an explicit no-cost replacement and clear next step. Version 2 is similarly strong but more casual; version 4 slightly crowds the resolution paragraph, while 3 and 5 add unnecessary ceremony.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "O",
+    "4": "B3",
+    "5": "E"
+  }
+}

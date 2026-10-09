@@ -1,0 +1,11 @@
+{
+  "send": "1",
+  "reason": "Version 1 keeps every fact, commitment, and caveat, including the 'schedule you can plan a life around' line that Version 4 drops, and it keeps my voice nearly word for word; its only losses are the bold headers and the word 'closely.' Version 3 changes the tone and meaning ('weekends get busy,' 'taste the third plate'), and Version 2 is all-caps and drops content.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "E",
+    "3": "C",
+    "4": "A"
+  },
+  "picked_arm": "B5"
+}

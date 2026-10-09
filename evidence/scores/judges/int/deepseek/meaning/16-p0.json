@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1
+  },
+  "reason": "Version 3 stays closest to the original wording and retains all original reflections with no additions. Version 1 keeps the original meaning but slightly drops the 'usual things' framing, while Version 2 omits several original commitments (lessons that went well/badly, questions that changed explanations, being ready but taking time) and replaces them with writer-supplied details.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "track2/B3-int",
+    "3": "track2/A-int"
+  }
+}

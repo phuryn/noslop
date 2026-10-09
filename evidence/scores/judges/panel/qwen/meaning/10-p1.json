@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1,
+    "4": 4
+  },
+  "reason": "Version 3 preserves all key facts and the stated reason for adding classes with minimal change. Version 1 is close but drops some nuance, while versions 2 and 4 add or alter details such as 'workout,' help commitments, renewal timing, or class start timing.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "B3",
+    "4": "E"
+  }
+}

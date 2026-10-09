@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2,
+    "4": 4,
+    "5": 5
+  },
+  "send": "3",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "slightly formulaic 'Thanks for reaching out' / 'Thanks for your patience' framing",
+    "4": "abrupt, impersonal phrasing ('The bike', 'reply to this message')",
+    "5": "corporate empathy boilerplate ('That's not the experience we want you to have', 'again, my apologies for the inconvenience')"
+  },
+  "reason": "Version 3 is the best balance of warmth, clarity, and professionalism for a support reply; version 1 feels the most human but is a bit informal, while version 5 is overly formulaic.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B3",
+    "3": "B5",
+    "4": "A",
+    "5": "O"
+  }
+}

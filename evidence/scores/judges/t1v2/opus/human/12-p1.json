@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 5,
+    "4": 2,
+    "5": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Slightly formulaic 'This talk covers what the team learned and what other utilities should consider' framing",
+    "3": "Generic opener plus 'This talk explores' and 'practical considerations for utilities looking to make better use of'",
+    "4": "Stock 'This talk covers what the team learned' closer, though otherwise tight",
+    "5": "Abstract thesis-style opener and padded 'the lessons from that work and the practical considerations' phrasing"
+  },
+  "reason": "Version 1's first-person voice matches the 'We Already Had' title, and 'what worked, what didn't' sounds like a real practitioner pitching a talk. Versions 3 and 5 open with a generic claim and use stock phrases like 'explores' and 'practical considerations.'",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "O",
+    "4": "B",
+    "5": "B2"
+  }
+}

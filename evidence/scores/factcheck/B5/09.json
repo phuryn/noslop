@@ -1,0 +1,25 @@
+{
+  "dropped": [
+    {
+      "item": "Empathy statement acknowledging this isn't the experience the company wants the customer to have ('That's not the experience we want you to have')",
+      "severity": "minor"
+    },
+    {
+      "item": "Closing repeated apology for the inconvenience ('again, my apologies for the inconvenience')",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "'I apologize for the wait in getting back to you' became 'sorry it took us so long to get back to you', which characterizes the delay as long rather than just acknowledging a wait",
+      "severity": "minor"
+    },
+    {
+      "item": "'we will send you a replacement battery' became 'we're sending you a replacement battery', which shifts from a future commitment to an action implied to be in progress",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Generic cozy filler ('sneaking a taste,' 'a quiet cup of tea with the last crumb') with no concrete product details",
+    "3": "Paired staccato fragments ('A little measuring done. A little joy delivered.' / 'Less measuring. More making.') and a tacked-on uplift line ('Give yourself something to look forward to each month')"
+  },
+  "reason": "Version 1 is the only one with checkable specifics: the Vermont mill, a named bestseller, a subscriber count and a customer story. Those details make it the most credible and human, even though its prose is a bit plain. Versions 2 and 3 rely on interchangeable mood copy, and 3 piles on the rhythmic slogan fragments that read as AI polish.",
+  "label_to_arm": {
+    "1": "track2/B2-int",
+    "2": "track2/A-int",
+    "3": "O"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 2,
+    "5": 5
+  },
+  "reason": "V1 keeps every fact and nuance. V4 and V2 only drop content: V4 loses the long-term-perspective sentence, and V2 also loses the ecology/land-management/policy context. V3 changes meaning by replacing '2025 season' with 'last year's fires' and recasting the perspective and decisions points, while V5 adds unsupported claims ('growing problem', 'unique insights', 'how fire is changing', 'this year's').",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "B3",
+    "3": "C",
+    "4": "A",
+    "5": "E"
+  }
+}

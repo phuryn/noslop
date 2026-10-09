@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 2,
+    "3": 7,
+    "4": 4,
+    "5": 3,
+    "6": 1,
+    "7": 6
+  },
+  "send": "2",
+  "tells": {
+    "1": "Overly balanced, list-of-three phrase and polished AI-style closing.",
+    "2": "none",
+    "3": "Formal AI-style constructions like 'better served by' and 'come away with nothing more than'.",
+    "4": "Formal 'better served by' and abrupt, clipped ending.",
+    "5": "Awkward 'the kind, sensible thing' and symmetrical paragraph structure.",
+    "6": "none (punctuation/run-on issues are human, not AI)",
+    "7": "Passive 'to be paid for later' and near-paraphrase symmetry with Version 1."
+  },
+  "reason": "Version 2 is the most publishable: it reads naturally and clearly, with strong human tone and no noticeable AI stiffness. Version 6 feels most human but needs copyediting, so I would not send it as-is.",
+  "label_to_arm": {
+    "1": "V6A",
+    "2": "B5",
+    "3": "O",
+    "4": "A",
+    "5": "C",
+    "6": "E",
+    "7": "V6C"
+  }
+}

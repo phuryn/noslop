@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 3,
+    "4": 2
+  },
+  "reason": "Version 1 only merges two sentences and keeps every fact and caveat; 4 adds a mild 'only' but keeps 'target date', and 3 also drops 'target date'. Version 2 changes the meaning by saying 'the only big piece left', which implies smaller pieces remain, and it also drops 'target date'.",
+  "label_to_arm": {
+    "1": "B2",
+    "2": "C",
+    "3": "B",
+    "4": "A"
+  }
+}

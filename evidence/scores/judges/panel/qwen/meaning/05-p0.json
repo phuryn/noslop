@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 1,
+    "4": 3
+  },
+  "reason": "Version 3 stays closest to the original wording and preserves all facts, metrics, caveats, and lists. Version 1 is nearly as faithful but adds an explicit commitment that the system handles routine reassignments; Version 4 preserves most content but introduces small nuance shifts, while Version 2 omits key sections and strengthens or loosens several commitments.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "E",
+    "3": "B3",
+    "4": "C"
+  }
+}

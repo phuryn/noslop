@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 3,
+    "3": 5,
+    "4": 1,
+    "5": 2
+  },
+  "send": "4",
+  "tells": {
+    "1": "Generic framing and hedging: 'can reveal leaks that might otherwise go unnoticed' and 'practical considerations for utilities that want to make better use of'.",
+    "2": "Mostly none; the 'what the team learned and what other utilities should consider' structure is a little formulaic.",
+    "3": "Stacked hedges and stock phrasing: 'can help reveal', 'This talk explores', 'help reduce', 'shares lessons', 'practical considerations for utilities looking to make better use of'.",
+    "4": "'What worked, what didn't' is a familiar stock phrase, but otherwise none.",
+    "5": "None; it is clean and direct, if a bit flat."
+  },
+  "reason": "Version 4 has a real voice. It is first person, which matches the 'We' in the title, and it uses concrete phrasing like 'leaks nobody knew about' and 'what didn't', which adds credibility. Versions 1 and 3 lean on hedged, generic abstract language.",
+  "label_to_arm": {
+    "1": "B2",
+    "2": "A",
+    "3": "O",
+    "4": "C",
+    "5": "B"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "send": "4",
+  "reason": "Version 4 keeps the role, the 15-year peatland focus, the ecology–management–policy setting, the long view of challenges and questions, and the talk’s exact claim about the 2025 season and research informing later decisions. The others add unsupported claims, recast 2025 as “last year,” or drop that long-term perspective.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "C",
+    "3": "A",
+    "4": "B5"
+  },
+  "picked_arm": "B5"
+}

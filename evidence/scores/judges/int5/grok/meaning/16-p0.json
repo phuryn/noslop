@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2
+  },
+  "reason": "Version 1 keeps nearly every original fact and nuance, dropping only “found myself.” Version 3 keeps the substance but changes degree (“never” for “not much thought”) and adds “just.” Version 2’s additions match the answers, yet it drops unaddressed original meaning (lesson outcomes, readiness to go, and the reflection on leaving the room).",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "track2/B5-int",
+    "3": "B5"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 5,
+    "2": 2,
+    "3": 1,
+    "4": 3,
+    "5": 4
+  },
+  "reason": "Version 3 preserves the most original details. Version 2 keeps nearly all points but drops 'other health markers'; Version 4 is close but omits the closing practical/fuller-picture benefit; Version 5 changes the 'more than vaccines' focus and drops guidance; Version 1 weakens the recommendation and omits baseline/symptom details.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "C",
+    "3": "B5",
+    "4": "B3",
+    "5": "A"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 1,
+    "4": 3,
+    "5": 5
+  },
+  "send": "3",
+  "tells": {
+    "1": "Stock empathy language and repeated apologies make it feel templated.",
+    "2": "none",
+    "3": "none",
+    "4": "none",
+    "5": "Repeated apologies and product naming feel formulaic, though neither reliably indicates AI."
+  },
+  "reason": "Version 3 balances warmth, professionalism, and a clear resolution without unnecessary repetition. Version 2 feels natural but slightly more casual; version 4's closing is somewhat abrupt.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "C",
+    "3": "B3",
+    "4": "A",
+    "5": "E"
+  }
+}

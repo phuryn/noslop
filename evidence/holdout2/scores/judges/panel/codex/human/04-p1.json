@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2
+  },
+  "send": "2",
+  "tells": {
+    "1": "The closing phrase adds generic praise and explains the significance of an already clear result.",
+    "2": "none",
+    "3": "none"
+  },
+  "reason": "Version 2 is direct, credible and lets the audit result speak for itself. Version 3 is also natural, but its opening is slightly wordier; version 1 weakens the concrete outcome with a promotional flourish.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B3",
+    "3": "A"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 5,
+    "3": 2,
+    "4": 3,
+    "5": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Cozy filler and clichés such as 'kept us on our toes' and 'catch your breath' make the warmth feel manufactured.",
+    "3": "The welcome arrives only at the end, which feels slightly reassembled, though the voice is otherwise natural.",
+    "4": "The smoothed-over inclusive phrasing ('We're glad to have you along', 'Wherever you are...') feels templated.",
+    "5": "The delayed welcome and the way the fondant notice is folded into the workshop paragraph feel assembled from content blocks."
+  },
+  "reason": "Version 1 is the most convincing as a human-written newsletter intro because it welcomes the reader early, keeps the tone warm and practical, and avoids padded phrasing. Version 3 is a close second for naturalness, but its structure is slightly less purposeful.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "O",
+    "3": "C",
+    "4": "B3",
+    "5": "B5"
+  }
+}

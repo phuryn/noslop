@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2
+  },
+  "reason": "Version 2 keeps all core facts and the original idea of history and a future worth caring for, with only mild wording softening. Version 3 is close but changes 'founder' to 'run' and implies a current Asheville location; Version 1 changes the universal future claim to 'most' and adds the idea of an 'old instrument.'",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "C"
+  }
+}

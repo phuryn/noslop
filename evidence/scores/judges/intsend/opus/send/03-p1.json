@@ -1,0 +1,11 @@
+{
+  "send": "2",
+  "reason": "Version 2 keeps every fact and nearly all of my original wording, including 'hourly'. Its only changes are the heading format and the dropped bold labels. Version 4 adds 'much sooner' and a chattier tone, and version 3 changes the PDF bug and the tone.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "track2/A-int",
+    "3": "E",
+    "4": "C"
+  },
+  "picked_arm": "track2/A-int"
+}

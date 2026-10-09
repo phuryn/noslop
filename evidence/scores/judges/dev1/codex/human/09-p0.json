@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 5,
+    "4": 4,
+    "5": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "Stacked courtesy formulas, generic empathy, and repeated apologies make the reply feel padded and templated.",
+    "4": "none",
+    "5": "none"
+  },
+  "reason": "Version 1 balances a specific apology, a clear remedy, and an easy next step without unnecessary wording. The differences among the shorter versions are small; version 3 feels the most formulaic, though that does not establish AI authorship.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "O",
+    "4": "B5",
+    "5": "C"
+  }
+}

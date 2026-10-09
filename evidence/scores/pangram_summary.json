@@ -1,0 +1,424 @@
+{
+  "groups": {
+    "gen/E-write": {
+      "n": 16,
+      "fraction_human": 0.79,
+      "fraction_ai": 0.21,
+      "fraction_ai_assisted": 0.0,
+      "labels": {
+        "AI": 3,
+        "Human": 12,
+        "Mixed": 1
+      }
+    },
+    "t1/A": {
+      "n": 16,
+      "fraction_human": 0.04,
+      "fraction_ai": 0.9,
+      "fraction_ai_assisted": 0.06,
+      "labels": {
+        "AI": 14,
+        "Mixed": 2
+      }
+    },
+    "t1/B": {
+      "n": 16,
+      "fraction_human": 0.05,
+      "fraction_ai": 0.88,
+      "fraction_ai_assisted": 0.06,
+      "labels": {
+        "AI": 14,
+        "Mixed": 2
+      }
+    },
+    "t1/B2": {
+      "n": 16,
+      "fraction_human": 0.03,
+      "fraction_ai": 0.97,
+      "fraction_ai_assisted": 0.0,
+      "labels": {
+        "AI": 15,
+        "Mixed": 1
+      }
+    },
+    "t1/B3": {
+      "n": 16,
+      "fraction_human": 0.07,
+      "fraction_ai": 0.89,
+      "fraction_ai_assisted": 0.04,
+      "labels": {
+        "AI": 14,
+        "Mixed": 2
+      }
+    },
+    "t1/C": {
+      "n": 16,
+      "fraction_human": 0.02,
+      "fraction_ai": 0.98,
+      "fraction_ai_assisted": 0.0,
+      "labels": {
+        "AI": 15,
+        "Mixed": 1
+      }
+    },
+    "t1/E": {
+      "n": 15,
+      "fraction_human": 0.87,
+      "fraction_ai": 0.13,
+      "fraction_ai_assisted": 0.0,
+      "labels": {
+        "Human": 13,
+        "AI": 2
+      }
+    },
+    "t1/O": {
+      "n": 16,
+      "fraction_human": 0.04,
+      "fraction_ai": 0.96,
+      "fraction_ai_assisted": 0.0,
+      "labels": {
+        "AI": 15,
+        "Mixed": 1
+      }
+    },
+    "track3/A": {
+      "n": 4,
+      "fraction_human": 0.0,
+      "fraction_ai": 0.78,
+      "fraction_ai_assisted": 0.22,
+      "labels": {
+        "AI": 3,
+        "Mixed": 1
+      }
+    },
+    "track3/A-ask": {
+      "n": 4,
+      "fraction_human": 0.19,
+      "fraction_ai": 0.56,
+      "fraction_ai_assisted": 0.25,
+      "labels": {
+        "Mixed": 2,
+        "AI": 2
+      }
+    },
+    "track3/A-int": {
+      "n": 4,
+      "fraction_human": 0.0,
+      "fraction_ai": 0.79,
+      "fraction_ai_assisted": 0.21,
+      "labels": {
+        "AI": 3,
+        "Mixed": 1
+      }
+    },
+    "track3/A-notes": {
+      "n": 4,
+      "fraction_human": 0.45,
+      "fraction_ai": 0.55,
+      "fraction_ai_assisted": 0.0,
+      "labels": {
+        "Mixed": 1,
+        "AI": 2,
+        "Human": 1
+      }
+    },
+    "track3/B2": {
+      "n": 4,
+      "fraction_human": 0.0,
+      "fraction_ai": 0.84,
+      "fraction_ai_assisted": 0.16,
+      "labels": {
+        "AI": 3,
+        "Mixed": 1
+      }
+    },
+    "track3/B2-ask": {
+      "n": 4,
+      "fraction_human": 0.52,
+      "fraction_ai": 0.48,
+      "fraction_ai_assisted": 0.0,
+      "labels": {
+        "AI": 1,
+        "Mixed": 2,
+        "Human": 1
+      }
+    },
+    "track3/B2-int": {
+      "n": 4,
+      "fraction_human": 0.03,
+      "fraction_ai": 0.9,
+      "fraction_ai_assisted": 0.06,
+      "labels": {
+        "AI": 3,
+        "Mixed": 1
+      }
+    },
+    "track3/B2-notes": {
+      "n": 4,
+      "fraction_human": 0.92,
+      "fraction_ai": 0.08,
+      "fraction_ai_assisted": 0.0,
+      "labels": {
+        "Mixed": 2,
+        "Human": 2
+      }
+    },
+    "track3/C": {
+      "n": 4,
+      "fraction_human": 0.0,
+      "fraction_ai": 0.86,
+      "fraction_ai_assisted": 0.14,
+      "labels": {
+        "AI": 3,
+        "Mixed": 1
+      }
+    },
+    "track3/D": {
+      "n": 4,
+      "fraction_human": 0.0,
+      "fraction_ai": 1.0,
+      "fraction_ai_assisted": 0.0,
+      "labels": {
+        "AI": 4
+      }
+    },
+    "track3/E": {
+      "n": 4,
+      "fraction_human": 1.0,
+      "fraction_ai": 0.0,
+      "fraction_ai_assisted": 0.0,
+      "labels": {
+        "Human": 4
+      }
+    },
+    "track3/H": {
+      "n": 4,
+      "fraction_human": 1.0,
+      "fraction_ai": 0.0,
+      "fraction_ai_assisted": 0.0,
+      "labels": {
+        "Human": 4
+      }
+    }
+  },
+  "track3_per_text": {
+    "H": {
+      "1": [
+        1.0,
+        1.0
+      ],
+      "7": [
+        1.0,
+        1.0
+      ],
+      "8": [
+        1.0,
+        1.0
+      ],
+      "9": [
+        1.0,
+        1.0
+      ]
+    },
+    "D": {
+      "1": [
+        0.0,
+        0.039
+      ],
+      "7": [
+        0.0,
+        0.0
+      ],
+      "8": [
+        0.0,
+        0.04
+      ],
+      "9": [
+        0.0,
+        0.016
+      ]
+    },
+    "E": {
+      "1": [
+        1.0,
+        0.025
+      ],
+      "7": [
+        1.0,
+        0.037
+      ],
+      "8": [
+        1.0,
+        0.036
+      ],
+      "9": [
+        1.0,
+        0.041
+      ]
+    },
+    "A": {
+      "1": [
+        0.0,
+        0.042
+      ],
+      "7": [
+        0.0,
+        0.0
+      ],
+      "8": [
+        0.0,
+        0.043
+      ],
+      "9": [
+        0.0,
+        0.043
+      ]
+    },
+    "B2": {
+      "1": [
+        0.0,
+        0.04
+      ],
+      "7": [
+        0.0,
+        0.0
+      ],
+      "8": [
+        0.0,
+        0.041
+      ],
+      "9": [
+        0.0,
+        0.017
+      ]
+    },
+    "C": {
+      "1": [
+        0.0,
+        0.023
+      ],
+      "7": [
+        0.0,
+        0.0
+      ],
+      "8": [
+        0.0,
+        0.04
+      ],
+      "9": [
+        0.0,
+        0.031
+      ]
+    },
+    "A-notes": {
+      "1": [
+        0.78,
+        0.134
+      ],
+      "7": [
+        0.0,
+        0.0
+      ],
+      "8": [
+        1.0,
+        0.584
+      ],
+      "9": [
+        0.0,
+        0.13
+      ]
+    },
+    "B2-notes": {
+      "1": [
+        0.83,
+        0.417
+      ],
+      "7": [
+        0.84,
+        0.351
+      ],
+      "8": [
+        1.0,
+        0.867
+      ],
+      "9": [
+        1.0,
+        0.727
+      ]
+    },
+    "A-ask": {
+      "1": [
+        0.6,
+        0.202
+      ],
+      "7": [
+        0.18,
+        0.097
+      ],
+      "8": [
+        0.0,
+        0.216
+      ],
+      "9": [
+        0.0,
+        0.0
+      ]
+    },
+    "B2-ask": {
+      "1": [
+        0.0,
+        0.117
+      ],
+      "7": [
+        0.43,
+        0.107
+      ],
+      "8": [
+        0.65,
+        0.241
+      ],
+      "9": [
+        1.0,
+        0.32
+      ]
+    },
+    "B2-int": {
+      "1": [
+        0.0,
+        0.041
+      ],
+      "7": [
+        0.0,
+        0.0
+      ],
+      "8": [
+        0.0,
+        0.042
+      ],
+      "9": [
+        0.13,
+        0.187
+      ]
+    },
+    "A-int": {
+      "1": [
+        0.0,
+        0.043
+      ],
+      "7": [
+        0.0,
+        0.0
+      ],
+      "8": [
+        0.0,
+        0.044
+      ],
+      "9": [
+        0.0,
+        0.033
+      ]
+    }
+  },
+  "track3_spearman_human_share_vs_fraction_human": 0.78,
+  "track3_n": 40
+}

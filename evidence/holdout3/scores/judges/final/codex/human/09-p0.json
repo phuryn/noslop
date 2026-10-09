@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3,
+    "4": 5,
+    "5": 4,
+    "6": 6
+  },
+  "send": "2",
+  "tells": {
+    "1": "The slogan 'a real trade with real prospects' feels generic beside the concrete shop-floor detail.",
+    "2": "none",
+    "3": "'A trade that people will hire you for' feels like a deliberate attempt to sound plainspoken.",
+    "4": "The closing stacks recruitment formulas: 'real trade with real prospects', 'always in demand' and 'If that sounds like you'.",
+    "5": "The accumulation of folksy phrases—'rolling up your sleeves', 'proper trade', 'Sound like you?'—feels manufactured.",
+    "6": "none"
+  },
+  "reason": "Version 2 has the strongest balance of natural voice, readable structure and concrete information, though I'd soften 'always in demand'. These are stylistic judgments, not reliable evidence of AI authorship; version 6's roughness does not make it read like skilled editing.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "B3",
+    "3": "A",
+    "4": "O",
+    "5": "C",
+    "6": "E"
+  }
+}

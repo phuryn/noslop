@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Bolded dates and headers plus slogan lines such as \"Near misses are our early warning\" and \"It's how we keep each other safe.\"",
+    "3": "The stock line \"Near misses are our early warning\" and the redundant triad \"injury, damage or harm.\""
+  },
+  "reason": "Version 1 reads like a site manager: plain, specific, and free of slogan padding, so it is the most credible note to send. Versions 2 and 3 add corporate emphasis and stock phrasing that sound polished rather than written for the people on site.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "O",
+    "3": "B3"
+  }
+}

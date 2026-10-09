@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 5,
+    "4": 2,
+    "5": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Formulaic section headings and abstract consultant phrasing feel machine-polished.",
+    "3": "Bolded keyword leads and the repeated 'Mitigation:' pattern make it feel templated.",
+    "4": "none",
+    "5": "Generic, perfectly parallel risk/reinvestment bullets and safe corporate phrasing read as AI-assisted."
+  },
+  "reason": "Version 1 has the most credible human voice: clear, practical, and not over-templated. Version 4 feels authentically human but is too rough to send, while 2, 3, and 5 read like polished but generic AI-assisted revisions.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "O",
+    "4": "E",
+    "5": "B3"
+  }
+}

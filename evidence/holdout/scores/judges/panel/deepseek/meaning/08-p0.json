@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 1
+  },
+  "reason": "Version 3 best preserves the original's facts and nuances, including 'privilege,' 'sound like themselves again,' and music in homes for years. Version 2 keeps the core meaning but drops the 'find their voice' nuance and weakens 'privilege' to 'glad'; Version 1 changes the sentiment most by losing the caring-for-the-future and privilege elements.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "C"
+  }
+}

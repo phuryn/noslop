@@ -1,0 +1,11 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2
+  },
+  "reason": "Both versions preserve the key facts and £15 credit commitment, but Version 1 is slightly more faithful because it retains the closing thanks, while Version 2 omits it and also slightly rephrases the opening apology.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3"
+  }
+}

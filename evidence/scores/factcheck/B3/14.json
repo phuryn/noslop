@@ -1,0 +1,12 @@
+{
+  "dropped": [
+    {
+      "item": "Opening line of 3/6, 'Now we have two floors,' which framed the then-and-now contrast. The fact is still stated in 1/6.",
+      "severity": "minor"
+    }
+  ],
+  "changed": [],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

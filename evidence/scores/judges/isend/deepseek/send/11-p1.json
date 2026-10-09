@@ -1,0 +1,11 @@
+{
+  "send": "4",
+  "reason": "Version 4 stays closest to the original meaning and voice, keeping the schedule/lifestyle points, pay, and responsibilities intact without adding or dropping commitments. It reads like a lightly tightened version of the draft.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "E",
+    "3": "C",
+    "4": "B5"
+  },
+  "picked_arm": "B5"
+}

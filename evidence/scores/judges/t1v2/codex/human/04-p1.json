@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 5,
+    "4": 3,
+    "5": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "The concentration of folksy wording—“pointy,” “hard bit,” “natter”—can feel like a deliberate attempt to manufacture informality, though humans also write this way.",
+    "4": "none",
+    "5": "none"
+  },
+  "reason": "Version 1 is clear, warm and economical, with an easy conversational rhythm; I'd publish it. Versions 2, 4 and 5 are effectively tied editorially, so their required ordering reflects slight rhythm preferences, not meaningful evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "B",
+    "2": "A",
+    "3": "C",
+    "4": "B2",
+    "5": "O"
+  }
+}

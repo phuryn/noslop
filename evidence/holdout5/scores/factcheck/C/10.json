@@ -1,0 +1,26 @@
+{
+  "dropped": [
+    {
+      "item": "The explicit statement that the talk will explore the practical challenges of fitting prostheses for children as they grow. The edit gives only the title and the general point about changing needs.",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "'With 15 years of experience' (general professional experience) became 'they've spent 15 years fitting prostheses', which narrows the experience to fitting prostheses specifically.",
+      "severity": "minor"
+    },
+    {
+      "item": "'supporting children through those changes' became 'through each stage', which suggests distinct stages that the original did not mention.",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "'always keeping comfort, function and everyday life at the heart of it' adds 'always', which is slightly stronger than the original 'at the centre of the conversation'.",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

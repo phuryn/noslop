@@ -1,0 +1,1354 @@
+{
+  "main 16": {
+    "human": {
+      "grok": {
+        "pairs": {
+          "B3>A": {
+            "better": 7,
+            "tie": 2,
+            "worse": 7,
+            "n": 16,
+            "p": 1.0
+          },
+          "B3>C": {
+            "better": 2,
+            "tie": 2,
+            "worse": 12,
+            "n": 16,
+            "p": 0.013
+          },
+          "B3>E": {
+            "better": 8,
+            "tie": 2,
+            "worse": 5,
+            "n": 15,
+            "p": 0.581
+          },
+          "A>C": {
+            "better": 2,
+            "tie": 1,
+            "worse": 13,
+            "n": 16,
+            "p": 0.007
+          },
+          "E>A": {
+            "better": 4,
+            "tie": 1,
+            "worse": 10,
+            "n": 15,
+            "p": 0.18
+          },
+          "B3>O": {
+            "better": 15,
+            "tie": 0,
+            "worse": 1,
+            "n": 16,
+            "p": 0.001
+          },
+          "A>O": {
+            "better": 13,
+            "tie": 1,
+            "worse": 2,
+            "n": 16,
+            "p": 0.007
+          }
+        },
+        "texts": 16,
+        "send": {
+          "C": 21,
+          "A": 5,
+          "O": 1,
+          "B3": 5
+        }
+      },
+      "deepseek": {
+        "pairs": {
+          "B3>A": {
+            "better": 7,
+            "tie": 3,
+            "worse": 6,
+            "n": 16,
+            "p": 1.0
+          },
+          "B3>C": {
+            "better": 3,
+            "tie": 0,
+            "worse": 13,
+            "n": 16,
+            "p": 0.021
+          },
+          "B3>E": {
+            "better": 14,
+            "tie": 0,
+            "worse": 1,
+            "n": 15,
+            "p": 0.001
+          },
+          "A>C": {
+            "better": 1,
+            "tie": 0,
+            "worse": 15,
+            "n": 16,
+            "p": 0.001
+          },
+          "E>A": {
+            "better": 1,
+            "tie": 2,
+            "worse": 12,
+            "n": 15,
+            "p": 0.003
+          },
+          "B3>O": {
+            "better": 11,
+            "tie": 1,
+            "worse": 4,
+            "n": 16,
+            "p": 0.118
+          },
+          "A>O": {
+            "better": 7,
+            "tie": 4,
+            "worse": 5,
+            "n": 16,
+            "p": 0.774
+          }
+        },
+        "texts": 16,
+        "send": {
+          "C": 23,
+          "A": 2,
+          "O": 2,
+          "B3": 5
+        }
+      },
+      "qwen": {
+        "pairs": {
+          "B3>A": {
+            "better": 10,
+            "tie": 4,
+            "worse": 2,
+            "n": 16,
+            "p": 0.039
+          },
+          "B3>C": {
+            "better": 2,
+            "tie": 1,
+            "worse": 13,
+            "n": 16,
+            "p": 0.007
+          },
+          "B3>E": {
+            "better": 12,
+            "tie": 2,
+            "worse": 1,
+            "n": 15,
+            "p": 0.003
+          },
+          "A>C": {
+            "better": 1,
+            "tie": 1,
+            "worse": 14,
+            "n": 16,
+            "p": 0.001
+          },
+          "E>A": {
+            "better": 2,
+            "tie": 2,
+            "worse": 11,
+            "n": 15,
+            "p": 0.022
+          },
+          "B3>O": {
+            "better": 8,
+            "tie": 4,
+            "worse": 4,
+            "n": 16,
+            "p": 0.388
+          },
+          "A>O": {
+            "better": 3,
+            "tie": 2,
+            "worse": 11,
+            "n": 16,
+            "p": 0.057
+          }
+        },
+        "texts": 16,
+        "send": {
+          "C": 22,
+          "A": 1,
+          "O": 4,
+          "B3": 5
+        }
+      },
+      "codex": {
+        "pairs": {
+          "B3>A": {
+            "better": 4,
+            "tie": 4,
+            "worse": 8,
+            "n": 16,
+            "p": 0.388
+          },
+          "B3>C": {
+            "better": 9,
+            "tie": 2,
+            "worse": 5,
+            "n": 16,
+            "p": 0.424
+          },
+          "B3>E": {
+            "better": 14,
+            "tie": 0,
+            "worse": 1,
+            "n": 15,
+            "p": 0.001
+          },
+          "A>C": {
+            "better": 9,
+            "tie": 3,
+            "worse": 4,
+            "n": 16,
+            "p": 0.267
+          },
+          "E>A": {
+            "better": 0,
+            "tie": 0,
+            "worse": 15,
+            "n": 15,
+            "p": 0.0
+          },
+          "B3>O": {
+            "better": 13,
+            "tie": 1,
+            "worse": 2,
+            "n": 16,
+            "p": 0.007
+          },
+          "A>O": {
+            "better": 14,
+            "tie": 1,
+            "worse": 1,
+            "n": 16,
+            "p": 0.001
+          }
+        },
+        "texts": 16,
+        "send": {
+          "A": 15,
+          "C": 6,
+          "B3": 9,
+          "O": 2
+        }
+      },
+      "opus": {
+        "pairs": {
+          "B3>A": {
+            "better": 5,
+            "tie": 2,
+            "worse": 9,
+            "n": 16,
+            "p": 0.424
+          },
+          "B3>C": {
+            "better": 5,
+            "tie": 1,
+            "worse": 10,
+            "n": 16,
+            "p": 0.302
+          },
+          "B3>E": {
+            "better": 5,
+            "tie": 0,
+            "worse": 10,
+            "n": 15,
+            "p": 0.302
+          },
+          "A>C": {
+            "better": 4,
+            "tie": 2,
+            "worse": 10,
+            "n": 16,
+            "p": 0.18
+          },
+          "E>A": {
+            "better": 8,
+            "tie": 3,
+            "worse": 4,
+            "n": 15,
+            "p": 0.388
+          },
+          "B3>O": {
+            "better": 14,
+            "tie": 1,
+            "worse": 1,
+            "n": 16,
+            "p": 0.001
+          },
+          "A>O": {
+            "better": 15,
+            "tie": 0,
+            "worse": 1,
+            "n": 16,
+            "p": 0.001
+          }
+        },
+        "texts": 16,
+        "send": {
+          "A": 9,
+          "C": 15,
+          "O": 1,
+          "B3": 7
+        }
+      },
+      "panel4_pooled": {
+        "pairs": {
+          "B3>A": {
+            "better": 28,
+            "tie": 13,
+            "worse": 23,
+            "n": 64,
+            "p": 0.576
+          },
+          "B3>C": {
+            "better": 16,
+            "tie": 5,
+            "worse": 43,
+            "n": 64,
+            "p": 0.001
+          },
+          "B3>E": {
+            "better": 48,
+            "tie": 4,
+            "worse": 8,
+            "n": 60,
+            "p": 0.0
+          },
+          "A>C": {
+            "better": 13,
+            "tie": 5,
+            "worse": 46,
+            "n": 64,
+            "p": 0.0
+          },
+          "E>A": {
+            "better": 7,
+            "tie": 5,
+            "worse": 48,
+            "n": 60,
+            "p": 0.0
+          },
+          "B3>O": {
+            "better": 47,
+            "tie": 6,
+            "worse": 11,
+            "n": 64,
+            "p": 0.0
+          },
+          "A>O": {
+            "better": 37,
+            "tie": 8,
+            "worse": 19,
+            "n": 64,
+            "p": 0.022
+          }
+        }
+      }
+    },
+    "meaning": {
+      "grok": {
+        "pairs": {
+          "B3>A": {
+            "better": 13,
+            "tie": 1,
+            "worse": 2,
+            "n": 16,
+            "p": 0.007
+          },
+          "B3>C": {
+            "better": 15,
+            "tie": 1,
+            "worse": 0,
+            "n": 16,
+            "p": 0.0
+          },
+          "B3>E": {
+            "better": 15,
+            "tie": 0,
+            "worse": 0,
+            "n": 15,
+            "p": 0.0
+          },
+          "A>C": {
+            "better": 11,
+            "tie": 2,
+            "worse": 3,
+            "n": 16,
+            "p": 0.057
+          },
+          "E>A": {
+            "better": 0,
+            "tie": 1,
+            "worse": 14,
+            "n": 15,
+            "p": 0.0
+          }
+        },
+        "texts": 16
+      },
+      "deepseek": {
+        "pairs": {
+          "B3>A": {
+            "better": 12,
+            "tie": 1,
+            "worse": 3,
+            "n": 16,
+            "p": 0.035
+          },
+          "B3>C": {
+            "better": 11,
+            "tie": 2,
+            "worse": 3,
+            "n": 16,
+            "p": 0.057
+          },
+          "B3>E": {
+            "better": 15,
+            "tie": 0,
+            "worse": 0,
+            "n": 15,
+            "p": 0.0
+          },
+          "A>C": {
+            "better": 10,
+            "tie": 1,
+            "worse": 5,
+            "n": 16,
+            "p": 0.302
+          },
+          "E>A": {
+            "better": 1,
+            "tie": 0,
+            "worse": 14,
+            "n": 15,
+            "p": 0.001
+          }
+        },
+        "texts": 16
+      },
+      "qwen": {
+        "pairs": {
+          "B3>A": {
+            "better": 12,
+            "tie": 1,
+            "worse": 3,
+            "n": 16,
+            "p": 0.035
+          },
+          "B3>C": {
+            "better": 14,
+            "tie": 0,
+            "worse": 2,
+            "n": 16,
+            "p": 0.004
+          },
+          "B3>E": {
+            "better": 15,
+            "tie": 0,
+            "worse": 0,
+            "n": 15,
+            "p": 0.0
+          },
+          "A>C": {
+            "better": 12,
+            "tie": 0,
+            "worse": 4,
+            "n": 16,
+            "p": 0.077
+          },
+          "E>A": {
+            "better": 0,
+            "tie": 0,
+            "worse": 15,
+            "n": 15,
+            "p": 0.0
+          }
+        },
+        "texts": 16
+      },
+      "codex": {
+        "pairs": {
+          "B3>A": {
+            "better": 14,
+            "tie": 0,
+            "worse": 2,
+            "n": 16,
+            "p": 0.004
+          },
+          "B3>C": {
+            "better": 15,
+            "tie": 0,
+            "worse": 1,
+            "n": 16,
+            "p": 0.001
+          },
+          "B3>E": {
+            "better": 15,
+            "tie": 0,
+            "worse": 0,
+            "n": 15,
+            "p": 0.0
+          },
+          "A>C": {
+            "better": 13,
+            "tie": 0,
+            "worse": 3,
+            "n": 16,
+            "p": 0.021
+          },
+          "E>A": {
+            "better": 1,
+            "tie": 0,
+            "worse": 14,
+            "n": 15,
+            "p": 0.001
+          }
+        },
+        "texts": 16
+      },
+      "opus": {
+        "pairs": {
+          "B3>A": {
+            "better": 13,
+            "tie": 0,
+            "worse": 3,
+            "n": 16,
+            "p": 0.021
+          },
+          "B3>C": {
+            "better": 12,
+            "tie": 1,
+            "worse": 3,
+            "n": 16,
+            "p": 0.035
+          },
+          "B3>E": {
+            "better": 14,
+            "tie": 0,
+            "worse": 1,
+            "n": 15,
+            "p": 0.001
+          },
+          "A>C": {
+            "better": 10,
+            "tie": 0,
+            "worse": 6,
+            "n": 16,
+            "p": 0.454
+          },
+          "E>A": {
+            "better": 0,
+            "tie": 2,
+            "worse": 13,
+            "n": 15,
+            "p": 0.0
+          }
+        },
+        "texts": 16
+      },
+      "panel4_pooled": {
+        "pairs": {
+          "B3>A": {
+            "better": 51,
+            "tie": 3,
+            "worse": 10,
+            "n": 64,
+            "p": 0.0
+          },
+          "B3>C": {
+            "better": 55,
+            "tie": 3,
+            "worse": 6,
+            "n": 64,
+            "p": 0.0
+          },
+          "B3>E": {
+            "better": 60,
+            "tie": 0,
+            "worse": 0,
+            "n": 60,
+            "p": 0.0
+          },
+          "A>C": {
+            "better": 46,
+            "tie": 3,
+            "worse": 15,
+            "n": 64,
+            "p": 0.0
+          },
+          "E>A": {
+            "better": 2,
+            "tie": 1,
+            "worse": 57,
+            "n": 60,
+            "p": 0.0
+          }
+        }
+      }
+    }
+  },
+  "fresh 8": {
+    "human": {
+      "grok": {
+        "pairs": {
+          "B3>A": {
+            "better": 5,
+            "tie": 0,
+            "worse": 3,
+            "n": 8,
+            "p": 0.727
+          },
+          "B3>C": {
+            "better": 2,
+            "tie": 2,
+            "worse": 4,
+            "n": 8,
+            "p": 0.688
+          },
+          "A>C": {
+            "better": 2,
+            "tie": 1,
+            "worse": 5,
+            "n": 8,
+            "p": 0.453
+          },
+          "B3>O": {
+            "better": 7,
+            "tie": 0,
+            "worse": 1,
+            "n": 8,
+            "p": 0.07
+          },
+          "A>O": {
+            "better": 5,
+            "tie": 2,
+            "worse": 1,
+            "n": 8,
+            "p": 0.219
+          }
+        },
+        "texts": 8,
+        "send": {
+          "C": 5,
+          "B3": 8,
+          "A": 3
+        }
+      },
+      "deepseek": {
+        "pairs": {
+          "B3>A": {
+            "better": 3,
+            "tie": 3,
+            "worse": 2,
+            "n": 8,
+            "p": 1.0
+          },
+          "B3>C": {
+            "better": 2,
+            "tie": 1,
+            "worse": 5,
+            "n": 8,
+            "p": 0.453
+          },
+          "A>C": {
+            "better": 2,
+            "tie": 0,
+            "worse": 6,
+            "n": 8,
+            "p": 0.289
+          },
+          "B3>O": {
+            "better": 4,
+            "tie": 0,
+            "worse": 4,
+            "n": 8,
+            "p": 1.0
+          },
+          "A>O": {
+            "better": 4,
+            "tie": 1,
+            "worse": 3,
+            "n": 8,
+            "p": 1.0
+          }
+        },
+        "texts": 8,
+        "send": {
+          "O": 3,
+          "C": 8,
+          "B3": 3,
+          "A": 2
+        }
+      },
+      "qwen": {
+        "pairs": {
+          "B3>A": {
+            "better": 5,
+            "tie": 0,
+            "worse": 3,
+            "n": 8,
+            "p": 0.727
+          },
+          "B3>C": {
+            "better": 3,
+            "tie": 1,
+            "worse": 4,
+            "n": 8,
+            "p": 1.0
+          },
+          "A>C": {
+            "better": 1,
+            "tie": 1,
+            "worse": 6,
+            "n": 8,
+            "p": 0.125
+          },
+          "B3>O": {
+            "better": 5,
+            "tie": 1,
+            "worse": 2,
+            "n": 8,
+            "p": 0.453
+          },
+          "A>O": {
+            "better": 4,
+            "tie": 1,
+            "worse": 3,
+            "n": 8,
+            "p": 1.0
+          }
+        },
+        "texts": 8,
+        "send": {
+          "O": 2,
+          "C": 5,
+          "B3": 6,
+          "A": 3
+        }
+      },
+      "codex": {
+        "pairs": {
+          "B3>A": {
+            "better": 2,
+            "tie": 1,
+            "worse": 5,
+            "n": 8,
+            "p": 0.453
+          },
+          "B3>C": {
+            "better": 5,
+            "tie": 2,
+            "worse": 1,
+            "n": 8,
+            "p": 0.219
+          },
+          "A>C": {
+            "better": 7,
+            "tie": 1,
+            "worse": 0,
+            "n": 8,
+            "p": 0.016
+          },
+          "B3>O": {
+            "better": 7,
+            "tie": 0,
+            "worse": 1,
+            "n": 8,
+            "p": 0.07
+          },
+          "A>O": {
+            "better": 7,
+            "tie": 1,
+            "worse": 0,
+            "n": 8,
+            "p": 0.016
+          }
+        },
+        "texts": 8,
+        "send": {
+          "C": 3,
+          "B3": 7,
+          "A": 6
+        }
+      },
+      "opus": {
+        "pairs": {
+          "B3>A": {
+            "better": 4,
+            "tie": 0,
+            "worse": 4,
+            "n": 8,
+            "p": 1.0
+          },
+          "B3>C": {
+            "better": 3,
+            "tie": 2,
+            "worse": 3,
+            "n": 8,
+            "p": 1.0
+          },
+          "A>C": {
+            "better": 3,
+            "tie": 2,
+            "worse": 3,
+            "n": 8,
+            "p": 1.0
+          },
+          "B3>O": {
+            "better": 6,
+            "tie": 0,
+            "worse": 2,
+            "n": 8,
+            "p": 0.289
+          },
+          "A>O": {
+            "better": 7,
+            "tie": 1,
+            "worse": 0,
+            "n": 8,
+            "p": 0.016
+          }
+        },
+        "texts": 8,
+        "send": {
+          "O": 1,
+          "A": 7,
+          "B3": 7,
+          "C": 1
+        }
+      },
+      "panel4_pooled": {
+        "pairs": {
+          "B3>A": {
+            "better": 15,
+            "tie": 4,
+            "worse": 13,
+            "n": 32,
+            "p": 0.851
+          },
+          "B3>C": {
+            "better": 12,
+            "tie": 6,
+            "worse": 14,
+            "n": 32,
+            "p": 0.845
+          },
+          "A>C": {
+            "better": 12,
+            "tie": 3,
+            "worse": 17,
+            "n": 32,
+            "p": 0.458
+          },
+          "B3>O": {
+            "better": 23,
+            "tie": 1,
+            "worse": 8,
+            "n": 32,
+            "p": 0.011
+          },
+          "A>O": {
+            "better": 20,
+            "tie": 5,
+            "worse": 7,
+            "n": 32,
+            "p": 0.019
+          }
+        }
+      }
+    },
+    "meaning": {
+      "grok": {
+        "pairs": {
+          "B3>A": {
+            "better": 6,
+            "tie": 0,
+            "worse": 2,
+            "n": 8,
+            "p": 0.289
+          },
+          "B3>C": {
+            "better": 7,
+            "tie": 1,
+            "worse": 0,
+            "n": 8,
+            "p": 0.016
+          },
+          "A>C": {
+            "better": 4,
+            "tie": 2,
+            "worse": 2,
+            "n": 8,
+            "p": 0.688
+          }
+        },
+        "texts": 8
+      },
+      "deepseek": {
+        "pairs": {
+          "B3>A": {
+            "better": 6,
+            "tie": 0,
+            "worse": 2,
+            "n": 8,
+            "p": 0.289
+          },
+          "B3>C": {
+            "better": 6,
+            "tie": 1,
+            "worse": 1,
+            "n": 8,
+            "p": 0.125
+          },
+          "A>C": {
+            "better": 5,
+            "tie": 1,
+            "worse": 2,
+            "n": 8,
+            "p": 0.453
+          }
+        },
+        "texts": 8
+      },
+      "qwen": {
+        "pairs": {
+          "B3>A": {
+            "better": 6,
+            "tie": 0,
+            "worse": 2,
+            "n": 8,
+            "p": 0.289
+          },
+          "B3>C": {
+            "better": 6,
+            "tie": 2,
+            "worse": 0,
+            "n": 8,
+            "p": 0.031
+          },
+          "A>C": {
+            "better": 2,
+            "tie": 2,
+            "worse": 4,
+            "n": 8,
+            "p": 0.688
+          }
+        },
+        "texts": 8
+      },
+      "codex": {
+        "pairs": {
+          "B3>A": {
+            "better": 6,
+            "tie": 0,
+            "worse": 2,
+            "n": 8,
+            "p": 0.289
+          },
+          "B3>C": {
+            "better": 6,
+            "tie": 1,
+            "worse": 1,
+            "n": 8,
+            "p": 0.125
+          },
+          "A>C": {
+            "better": 3,
+            "tie": 1,
+            "worse": 4,
+            "n": 8,
+            "p": 1.0
+          }
+        },
+        "texts": 8
+      },
+      "opus": {
+        "pairs": {
+          "B3>A": {
+            "better": 6,
+            "tie": 1,
+            "worse": 1,
+            "n": 8,
+            "p": 0.125
+          },
+          "B3>C": {
+            "better": 5,
+            "tie": 1,
+            "worse": 2,
+            "n": 8,
+            "p": 0.453
+          },
+          "A>C": {
+            "better": 2,
+            "tie": 2,
+            "worse": 4,
+            "n": 8,
+            "p": 0.688
+          }
+        },
+        "texts": 8
+      },
+      "panel4_pooled": {
+        "pairs": {
+          "B3>A": {
+            "better": 24,
+            "tie": 0,
+            "worse": 8,
+            "n": 32,
+            "p": 0.007
+          },
+          "B3>C": {
+            "better": 25,
+            "tie": 5,
+            "worse": 2,
+            "n": 32,
+            "p": 0.0
+          },
+          "A>C": {
+            "better": 14,
+            "tie": 6,
+            "worse": 12,
+            "n": 32,
+            "p": 0.845
+          }
+        }
+      }
+    }
+  },
+  "new fresh 8": {
+    "human": {
+      "grok": {
+        "pairs": {
+          "B3>A": {
+            "better": 4,
+            "tie": 0,
+            "worse": 4,
+            "n": 8,
+            "p": 1.0
+          },
+          "B3>O": {
+            "better": 6,
+            "tie": 1,
+            "worse": 1,
+            "n": 8,
+            "p": 0.125
+          },
+          "A>O": {
+            "better": 7,
+            "tie": 0,
+            "worse": 1,
+            "n": 8,
+            "p": 0.07
+          }
+        },
+        "texts": 8,
+        "send": {
+          "A": 6,
+          "B3": 8,
+          "O": 2
+        }
+      },
+      "deepseek": {
+        "pairs": {
+          "B3>A": {
+            "better": 3,
+            "tie": 2,
+            "worse": 3,
+            "n": 8,
+            "p": 1.0
+          },
+          "B3>O": {
+            "better": 6,
+            "tie": 1,
+            "worse": 1,
+            "n": 8,
+            "p": 0.125
+          },
+          "A>O": {
+            "better": 6,
+            "tie": 1,
+            "worse": 1,
+            "n": 8,
+            "p": 0.125
+          }
+        },
+        "texts": 8,
+        "send": {
+          "A": 5,
+          "B3": 9,
+          "O": 2
+        }
+      },
+      "qwen": {
+        "pairs": {
+          "B3>A": {
+            "better": 3,
+            "tie": 1,
+            "worse": 4,
+            "n": 8,
+            "p": 1.0
+          },
+          "B3>O": {
+            "better": 4,
+            "tie": 4,
+            "worse": 0,
+            "n": 8,
+            "p": 0.125
+          },
+          "A>O": {
+            "better": 6,
+            "tie": 2,
+            "worse": 0,
+            "n": 8,
+            "p": 0.031
+          }
+        },
+        "texts": 8,
+        "send": {
+          "B3": 8,
+          "A": 7,
+          "O": 1
+        }
+      },
+      "codex": {
+        "pairs": {
+          "B3>A": {
+            "better": 5,
+            "tie": 1,
+            "worse": 2,
+            "n": 8,
+            "p": 0.453
+          },
+          "B3>O": {
+            "better": 7,
+            "tie": 0,
+            "worse": 1,
+            "n": 8,
+            "p": 0.07
+          },
+          "A>O": {
+            "better": 6,
+            "tie": 0,
+            "worse": 2,
+            "n": 8,
+            "p": 0.289
+          }
+        },
+        "texts": 8,
+        "send": {
+          "A": 5,
+          "B3": 9,
+          "O": 2
+        }
+      },
+      "opus": {
+        "pairs": {
+          "B3>A": {
+            "better": 2,
+            "tie": 0,
+            "worse": 6,
+            "n": 8,
+            "p": 0.289
+          },
+          "B3>O": {
+            "better": 8,
+            "tie": 0,
+            "worse": 0,
+            "n": 8,
+            "p": 0.008
+          },
+          "A>O": {
+            "better": 8,
+            "tie": 0,
+            "worse": 0,
+            "n": 8,
+            "p": 0.008
+          }
+        },
+        "texts": 8,
+        "send": {
+          "A": 8,
+          "B3": 8
+        }
+      },
+      "panel4_pooled": {
+        "pairs": {
+          "B3>A": {
+            "better": 15,
+            "tie": 4,
+            "worse": 13,
+            "n": 32,
+            "p": 0.851
+          },
+          "B3>O": {
+            "better": 23,
+            "tie": 6,
+            "worse": 3,
+            "n": 32,
+            "p": 0.0
+          },
+          "A>O": {
+            "better": 25,
+            "tie": 3,
+            "worse": 4,
+            "n": 32,
+            "p": 0.0
+          }
+        }
+      }
+    },
+    "meaning": {
+      "grok": {
+        "pairs": {
+          "B3>A": {
+            "better": 4,
+            "tie": 0,
+            "worse": 4,
+            "n": 8,
+            "p": 1.0
+          }
+        },
+        "texts": 8
+      },
+      "deepseek": {
+        "pairs": {
+          "B3>A": {
+            "better": 4,
+            "tie": 0,
+            "worse": 4,
+            "n": 8,
+            "p": 1.0
+          }
+        },
+        "texts": 8
+      },
+      "qwen": {
+        "pairs": {
+          "B3>A": {
+            "better": 4,
+            "tie": 0,
+            "worse": 4,
+            "n": 8,
+            "p": 1.0
+          }
+        },
+        "texts": 8
+      },
+      "codex": {
+        "pairs": {
+          "B3>A": {
+            "better": 4,
+            "tie": 0,
+            "worse": 4,
+            "n": 8,
+            "p": 1.0
+          }
+        },
+        "texts": 8
+      },
+      "opus": {
+        "pairs": {
+          "B3>A": {
+            "better": 4,
+            "tie": 0,
+            "worse": 4,
+            "n": 8,
+            "p": 1.0
+          }
+        },
+        "texts": 8
+      },
+      "panel4_pooled": {
+        "pairs": {
+          "B3>A": {
+            "better": 16,
+            "tie": 0,
+            "worse": 16,
+            "n": 32,
+            "p": 1.0
+          }
+        }
+      }
+    }
+  },
+  "agreement": {
+    "human": {
+      "grok": {
+        "agrees_with_majority_of_others": 0.82,
+        "n": 145
+      },
+      "deepseek": {
+        "agrees_with_majority_of_others": 0.78,
+        "n": 134
+      },
+      "qwen": {
+        "agrees_with_majority_of_others": 0.74,
+        "n": 132
+      },
+      "codex": {
+        "agrees_with_majority_of_others": 0.72,
+        "n": 136
+      },
+      "opus": {
+        "agrees_with_majority_of_others": 0.76,
+        "n": 144
+      },
+      "pairwise": {
+        "grok~deepseek": 0.73,
+        "grok~qwen": 0.72,
+        "grok~codex": 0.67,
+        "grok~opus": 0.81,
+        "deepseek~qwen": 0.77,
+        "deepseek~codex": 0.64,
+        "deepseek~opus": 0.65,
+        "qwen~codex": 0.61,
+        "qwen~opus": 0.64,
+        "codex~opus": 0.69
+      }
+    },
+    "meaning": {
+      "grok": {
+        "agrees_with_majority_of_others": 0.96,
+        "n": 100
+      },
+      "deepseek": {
+        "agrees_with_majority_of_others": 0.92,
+        "n": 102
+      },
+      "qwen": {
+        "agrees_with_majority_of_others": 0.97,
+        "n": 102
+      },
+      "codex": {
+        "agrees_with_majority_of_others": 0.95,
+        "n": 105
+      },
+      "opus": {
+        "agrees_with_majority_of_others": 0.92,
+        "n": 102
+      },
+      "pairwise": {
+        "grok~deepseek": 0.93,
+        "grok~qwen": 0.97,
+        "grok~codex": 0.98,
+        "grok~opus": 0.91,
+        "deepseek~qwen": 0.93,
+        "deepseek~codex": 0.9,
+        "deepseek~opus": 0.93,
+        "qwen~codex": 0.96,
+        "qwen~opus": 0.93,
+        "codex~opus": 0.93
+      }
+    }
+  }
+}

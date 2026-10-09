@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 4,
+    "3": 1,
+    "4": 2,
+    "5": 5
+  },
+  "send": "4",
+  "tells": {
+    "1": "Announces “four problems,” then four same-shaped bullets in one even, contraction-free cadence.",
+    "2": "Bold section labels and bold sentence-leads on every bullet, locked into the same parallel template.",
+    "3": "none",
+    "4": "Casual phrasing is spread evenly over a still-perfect four-part list (punchy bold line, one tidy sentence).",
+    "5": "“The consequences are significant” is a stock pivot, and the rest is a near-duplicate of the same template."
+  },
+  "reason": "Version 3 is the only one that sounds like a person writing—typos, a broken table, thoughts that trail off—but it is not finished enough to send. Version 4 keeps that human cadence while staying complete, precise, and credible, unlike the interchangeable polish of 1, 2, and 5.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "E",
+    "4": "C",
+    "5": "O"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 4,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "The section headings are gone, so it reads as flattened, over-edited copy. Lines like 'start at the mixing' and the vague 'Keep it as long as you like' feel slightly off.",
+    "2": "Formulaic parallel fragments ('A little measuring done. A little joy delivered.' / 'Less measuring. More making.') stacked in a stock rhythm.",
+    "3": "Generic filler and a stock triplet ('the ones that make life worth living', 'relax, recharge and enjoy'), plus a rhetorical-question opener and a 'Your kitchen, your rules' heading that doesn't match its section.",
+    "4": "none (only the slightly clunky heading 'Skip the weighing out.')"
+  },
+  "reason": "Version 4 keeps a clear landing-page structure with specific, plain-spoken copy and no formulaic fragments or filler. Version 3 also misdescribes the product as a 'box of your favorite baked goods' and is the least credible.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "O",
+    "3": "gen/E-write",
+    "4": "B3"
+  }
+}

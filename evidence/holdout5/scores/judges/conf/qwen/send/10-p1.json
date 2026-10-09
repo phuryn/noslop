@@ -1,0 +1,13 @@
+{
+  "send": "5",
+  "reason": "It keeps the original facts and pronouns without overstating the 15 years, and it retains the focus on ongoing fit, clinical experience, decisions, and comfort, function, and everyday life. The tone is clear and natural while staying close to the writer's intent.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "V6A",
+    "3": "V6C",
+    "4": "E",
+    "5": "B5",
+    "6": "A"
+  },
+  "picked_arm": "B5"
+}

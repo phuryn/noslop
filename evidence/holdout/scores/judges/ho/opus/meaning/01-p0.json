@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 5,
+    "4": 3,
+    "5": 4
+  },
+  "reason": "V1 keeps every fact and nuance, and V2 and V4 lose only small details (\"real\" money, \"everything in between\"; V4 recasts members' ownership as \"made it count\"). V5 drops the \"next up\" sequencing and turns \"a path into\" into \"leads to,\" while V3 adds the most claims that aren't in the original (\"blazing/freezing,\" \"lasting career,\" a \"can lead\" hedge).",
+  "label_to_arm": {
+    "1": "B2",
+    "2": "B3",
+    "3": "C",
+    "4": "B",
+    "5": "A"
+  }
+}

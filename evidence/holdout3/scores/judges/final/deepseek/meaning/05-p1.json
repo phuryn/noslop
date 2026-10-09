@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 1,
+    "4": 4,
+    "5": 5
+  },
+  "reason": "Version 3 preserves the date-change rationale, volunteer request, and team confirmation wording most accurately. Version 2 is close but changes 'we'll confirm' to 'I'll send'; versions 1 and 4 omit the 'get everything right' rationale, and version 5 alters the lighting-rig issue and drops the calendar-update request.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "C",
+    "3": "B5",
+    "4": "A",
+    "5": "E"
+  }
+}

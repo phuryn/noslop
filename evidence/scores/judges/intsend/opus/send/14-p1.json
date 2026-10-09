@@ -1,0 +1,11 @@
+{
+  "send": "3",
+  "reason": "It keeps every fact and commitment from my draft and adds only details I gave: Middlemarch as the first sale, Mr. Okafor's weekly visits, and the 2020 $38,000 GoFundMe. It invents nothing and reads plainly, like me. Version 1 is also faithful but leaves out those details, while 4 makes up anecdotes and 2 changes facts and tone.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "E",
+    "3": "track2/B5-int",
+    "4": "C"
+  },
+  "picked_arm": "track2/B5-int"
+}

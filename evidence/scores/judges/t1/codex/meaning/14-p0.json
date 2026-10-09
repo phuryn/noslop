@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1
+  },
+  "reason": "Version 3 preserves the original’s facts, caveats, and substantive nuances most closely. Version 1 drops books from the space-allocation choices and the acknowledgment that visits helped the shop grow, while Version 2 adds unsupported details and stronger claims, including stocking what they loved, a first-week sale, and customers being the reason the shop survives.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "B"
+  }
+}

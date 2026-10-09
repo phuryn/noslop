@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2,
+    "4": 4
+  },
+  "reason": "Version 1 keeps every section heading, claim, and commitment nearly intact, while 3 narrows 'the good part' to stirring and baking and drops 'homemade'. Version 2 also narrows the hero, drops 'quiet', and adds 'all to yourself'; version 4 cuts the section headings ('Less measuring. More making.', 'Make room for a monthly bake', 'One kit. $34 a month.') and condenses the copy further.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B",
+    "3": "B3",
+    "4": "A"
+  }
+}

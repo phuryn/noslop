@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 1,
+    "3": 3,
+    "4": 2
+  },
+  "reason": "Version 2 stays closest to the original wording and preserves all facts and commitments. Version 4 is nearly exact but adds a small explicit claim about the system handling routine reassignments, while Versions 3 and 1 are faithful paraphrases with only minor wording shifts.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B3",
+    "3": "B5",
+    "4": "A"
+  }
+}

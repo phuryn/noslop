@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 3,
+    "4": 5,
+    "5": 1
+  },
+  "send": "5",
+  "tells": {
+    "1": "none",
+    "2": "Slightly formal self-reference ('Brasa Norte is looking') and a colon list after 'hands-on' feel stiffer.",
+    "3": "Smooths out direct address into slightly generic phrasing like 'We want someone who's done this before.'",
+    "4": "Bold 'What you'll do' / 'What we're after' headings and verb-list paragraph are a common AI job-post structure.",
+    "5": "none"
+  },
+  "reason": "Version 5 reads like a real chef wrote it, with concrete, vivid details and a clear structure. It balances personality, clarity, and credibility better than the others.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "A",
+    "3": "B3",
+    "4": "O",
+    "5": "C"
+  }
+}

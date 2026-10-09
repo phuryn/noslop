@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 3,
+    "3": 1,
+    "4": 2
+  },
+  "send": "3",
+  "tells": {
+    "1": "none",
+    "2": "Stacked recruitment promises and conspicuous kitchen imagery, especially the oddly specific 'third plate of the night,' feel manufactured.",
+    "3": "The inherited 'pressure cooker' metaphor and 'when it counts' phrasing sound generic despite the tighter editing.",
+    "4": "The polished three-part promise about days off, finite nights, and planning a life sounds like recruitment boilerplate."
+  },
+  "reason": "Version 3 reads most like a restrained professional edit; version 4 is close, while version 2 oversells and version 1 lacks publication-level polish. Before publishing 3, I'd verify its added promises about working hours and menu influence, which the original doesn't establish.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "O",
+    "3": "A",
+    "4": "B3"
+  }
+}

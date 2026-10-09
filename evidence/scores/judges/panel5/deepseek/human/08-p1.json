@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 6,
+    "3": 2,
+    "4": 5,
+    "5": 4,
+    "6": 1
+  },
+  "send": "6",
+  "tells": {
+    "1": "none",
+    "2": "Flat, clipped sentences and no contractions make it sound template-like.",
+    "3": "The closing benefit phrase 'more out of the checkup' feels slightly tacked on.",
+    "4": "Em dashes and the polished 'make the most of' phrasing feel AI-edited.",
+    "5": "Starts naturally but shifts into formal 'it is highly beneficial' pamphlet wording.",
+    "6": "none"
+  },
+  "reason": "Version 6 sounds most like a natural, conversational human writer while staying clear and credible, so it would be my choice to publish.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "B5",
+    "4": "O",
+    "5": "E",
+    "6": "C"
+  }
+}

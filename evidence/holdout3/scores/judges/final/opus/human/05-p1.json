@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 2,
+    "3": 1,
+    "4": 6,
+    "5": 4,
+    "6": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "Formulaic motivational filler ('The more of us there are, the faster it goes', 'really coming together') plus a bolded call-to-action line",
+    "2": "Light, uniform polish with the bolded date, but no strong tells",
+    "3": "none (it reads as human, with typos, a broken sentence, a misplaced comma and the unclear 'mounting them')",
+    "4": "Heavy assistant-style cheer: 'Good news on the technical side:', 'Many hands make this go fast, and we'd love to have you!', 'coming together beautifully', and a ✨ emoji",
+    "5": "Templated sign-off ('Deep Time is coming together well') and a slightly over-smooth structure",
+    "6": "Very uniform, sanitized phrasing ('That gives us some extra time'), but it's minimal and close to neutral"
+  },
+  "reason": "Version 3 is the most obviously human, but it is garbled and drops the point about the install, so it isn't sendable. Version 2 is clear, concise and highlights the key date without the cheerful filler that marks 1, 4 and 5 as AI-polished.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B3",
+    "3": "E",
+    "4": "O",
+    "5": "B5",
+    "6": "A"
+  }
+}

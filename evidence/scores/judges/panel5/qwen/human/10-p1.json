@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 5,
+    "3": 6,
+    "4": 4,
+    "5": 3,
+    "6": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "The phrase 'On a happier note' feels like a forced cheerful pivot, and 'we'll be glad to help' is canned.",
+    "3": "Stiff wording like 'effective' and 'at which time,' plus 'stay tuned...!', feels templated and over-bright.",
+    "4": "none major, though it is a little blunt and transactional.",
+    "5": "'the $135 rate starts for you then' sounds slightly mechanical.",
+    "6": "The polished phrasing 'will take effect for you' feels corporate/boilerplate rather than personal."
+  },
+  "reason": "Version 1 reads most like a skilled human note: direct, warm, and uncluttered. It gives the pricing date, member grace period, and class update without sounding overly formal or artificially cheerful.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "C",
+    "3": "E",
+    "4": "A",
+    "5": "B5",
+    "6": "O"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 2,
+    "4": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Emoji bullets, repeated details and a generic hashtag stack feel templated.",
+    "3": "Very safe, generic phrasing makes it feel a little impersonal.",
+    "4": "The compressed opening sentence crams in the attractions and reads more like a summary than an invitation."
+  },
+  "reason": "Version 1 has the most natural, warm cadence and gives all necessary details without feeling overproduced. The others are clear but either too templated or too spare to feel like a skilled human invitation.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "O",
+    "3": "B3",
+    "4": "A"
+  }
+}

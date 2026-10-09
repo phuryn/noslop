@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 4,
+    "4": 1
+  },
+  "reason": "Version 4 preserves the original facts and commitments most closely, narrowly ahead of version 1, which also drops the explicit reassurance of help. Version 2 adds a promise of a new battery and shifts company commitments to the individual sender; version 3 omits the crucial assurance that the replacement is at no cost.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "E",
+    "4": "B3"
+  }
+}

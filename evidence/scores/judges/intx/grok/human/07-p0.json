@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "The 'with only … left' bolt-on and redundant 'target date' make it sound edited into a stock status cadence.",
+    "3": "Three evenly paced sentences plus the stock phrase 'The remaining piece is' read like a template.",
+    "4": "none"
+  },
+  "reason": "Version 1 is what a skilled teammate would actually post: specific, brief, and colloquial without filler. Versions 2 and 3 lean on status-update scaffolding, while 4 is human but looser than it needs to be.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "track2/A-int",
+    "3": "O",
+    "4": "C"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2,
+    "4": 4
+  },
+  "reason": "Version 1 is closest, preserving nearly all facts and the caveat 'not much thought,' despite omitting 'found myself' and 'usual.' Version 3 keeps 'usual' but weakens the caveat, Version 2 changes several nuances, and Version 4 adds or alters multiple facts and commitments.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "C",
+    "3": "A",
+    "4": "E"
+  }
+}

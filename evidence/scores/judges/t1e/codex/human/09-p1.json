@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 3,
+    "3": 2,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "Stock empathy such as “That's not the experience we want you to have,” followed by a redundant closing apology, creates a template-like feel.",
+    "2": "none",
+    "3": "none",
+    "4": "none"
+  },
+  "reason": "Version 4 balances a specific apology, a clear remedy, and a natural invitation to reply; version 3 is similarly effective but slightly clipped. Version 2 feels personal but repetitive, while version 1 relies most heavily on generic service language; these are stylistic impressions, not proof of authorship.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "E",
+    "3": "A",
+    "4": "B3"
+  }
+}

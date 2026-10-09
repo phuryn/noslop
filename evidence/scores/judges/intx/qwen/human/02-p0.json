@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 4,
+    "3": 5,
+    "4": 1,
+    "5": 2
+  },
+  "send": "4",
+  "tells": {
+    "1": "none",
+    "2": "Very clean, generic wording and a templated feature-proof-ask structure.",
+    "3": "Awkward duplicated greeting and repetitive “Would you be open” phrasing.",
+    "4": "none",
+    "5": "none"
+  },
+  "reason": "Version 4 feels most like a real person because it uses concrete operational details, candid capacity limits, and a specific, credible ask. Version 5 is a safer polished alternative, but 4 has more human texture and trust-building specificity.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "track2/A-int",
+    "3": "E",
+    "4": "track2/B5-int",
+    "5": "C"
+  }
+}

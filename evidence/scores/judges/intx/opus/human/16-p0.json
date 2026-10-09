@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 2,
+    "4": 5,
+    "5": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none; the specifics (period 4 AP Chem, elephant toothpaste, Amina Yusuf the pharmacist, the embarrassed relief) feel lived-in, though the sentences are a bit choppy",
+    "2": "generic, balanced reflection ('Some lessons had gone beautifully; others...') with no concrete people or moments, plus a tidy 'ready to go, but...' closer",
+    "3": "none; it reads as an unpolished human draft with repetitive 'I had had' and a filler 'Anyway', weak but not AI-like",
+    "4": "near-copy of 2 with the 'I found myself doing' framing and the same abstract, symmetrical summary of a career",
+    "5": "staccato fragment-chopping ('I straightened... I checked... I wiped...') layered on the same generic content, which suggests a 'humanized' rewrite"
+  },
+  "reason": "Version 1 is the only one with concrete, credible details and an honest, slightly uncomfortable admission, which make it feel personal rather than templated. Versions 2, 4 and 5 share a smooth but generic arc, and version 3 is human but clumsy.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "track2/A-int",
+    "3": "E",
+    "4": "O",
+    "5": "C"
+  }
+}

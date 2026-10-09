@@ -1,0 +1,11 @@
+{
+  "send": "4",
+  "reason": "It keeps every fact—the 15-minute sync, bulk invoice updates, and the PDF currency-symbol fix—and stays closest to the original concise wording and voice.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "E",
+    "3": "C",
+    "4": "track2/A-int"
+  },
+  "picked_arm": "track2/A-int"
+}

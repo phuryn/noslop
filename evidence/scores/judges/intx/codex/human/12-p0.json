@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 5,
+    "3": 4,
+    "4": 1,
+    "5": 3
+  },
+  "send": "4",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "The accumulation of precise figures, a named-person anecdote, and candid admissions feels engineered to signal authenticity; these details also exceed the shared factual basis.",
+    "4": "The familiar 'what worked, what didn't' formula is a weak tell in otherwise natural prose.",
+    "5": "Generic conference phrasing—'This talk explores,' 'practical considerations,' and 'make better use'—creates a polished but impersonal feel."
+  },
+  "reason": "Version 4 has the strongest speaker voice, clear stakes, and an appropriate conference tone while staying close to the supplied facts. Version 1 is admirably direct, version 5 is more generic, version 3 needs substantial factual verification, and version 2 needs copyediting; none of these stylistic judgments establishes AI authorship.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "E",
+    "3": "track2/B5-int",
+    "4": "C",
+    "5": "O"
+  }
+}

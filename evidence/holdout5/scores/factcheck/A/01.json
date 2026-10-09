@@ -1,0 +1,25 @@
+{
+  "dropped": [
+    {
+      "item": "\"For a site this size, that matters\": the point that the water saving is significant given the plant's scale",
+      "severity": "minor"
+    },
+    {
+      "item": "\"But it's good to pause and recognise progress when it happens\": the reflective note about recognising progress",
+      "severity": "minor"
+    },
+    {
+      "item": "\"A special thank you\": the emphasis 'special' singling out the night shift is softened to a plain 'Thank you'",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "\"it helps with running costs\" became \"cuts running costs\", a slightly stronger and more definite claim of cost reduction",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

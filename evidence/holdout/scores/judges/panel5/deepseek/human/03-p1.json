@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 5,
+    "4": 2,
+    "5": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Formulaic enumeration ('it does two things') with markdown-bold feature headings.",
+    "3": "Compressed summary-style lead and the abrupt 'It adds two things.'",
+    "4": "none",
+    "5": "Markdown-bold section headings plus the canned 'there's no such thing as a silly question' line."
+  },
+  "reason": "Version 1 reads the most like a skilled human wrote it: plain, warm, clear prose without over-structured formatting or formulaic signposting. I would send it because it feels credible and natural while still explaining the update and next steps clearly.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "C",
+    "3": "B3",
+    "4": "A",
+    "5": "O"
+  }
+}

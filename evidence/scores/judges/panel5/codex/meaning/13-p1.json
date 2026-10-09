@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 2,
+    "5": 5
+  },
+  "reason": "Version 1 preserves the substance most closely; version 4 slightly strengthens mitigation commitments and drops targeted outreach, while version 2 strengthens expected investment returns. Version 3 adds claims about irreversible causes and consolidating resources in one place; version 5 loses numerous specific mitigations and caveats and replaces landlord notice deadlines with acting before landlords make contact.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "C",
+    "3": "B5",
+    "4": "A",
+    "5": "E"
+  }
+}

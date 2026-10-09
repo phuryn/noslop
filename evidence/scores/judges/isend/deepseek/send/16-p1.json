@@ -1,0 +1,11 @@
+{
+  "send": "2",
+  "reason": "Version 2 keeps the original facts, reflective tone, and nearly all wording, making only minor changes that don't alter the meaning.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "A",
+    "3": "E",
+    "4": "C"
+  },
+  "picked_arm": "A"
+}

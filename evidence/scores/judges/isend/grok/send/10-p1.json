@@ -1,0 +1,11 @@
+{
+  "send": "2",
+  "reason": "It keeps every fact and commitment—the December 1 increase, the March 1 rate for current members, Sunday evening classes for more weekly options, and times coming soon—in the same plain voice. The others drop a purpose, add an unstated workout or renewal claim, or change the tone.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B5",
+    "3": "C",
+    "4": "E"
+  },
+  "picked_arm": "B5"
+}

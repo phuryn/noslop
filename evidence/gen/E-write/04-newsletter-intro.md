@@ -1,0 +1,3 @@
+This week in The Allotment Letter issue #112 we're planting garlic, a great activity to do as we head into the colder months of the year and the reward when you pull up your first garlic bulb next summer will make it all worthwhile. Just think of all the yummy garlic dishes you can make. Even just watching the green shoots emerging in the spring will be a bonus.
+
+We show you how to plant garlic this week and as always please feel free to ask us any questions you may have. Also don't forget we're holding a seed swap at the Millbrook Community Hall this coming Saturday, October 18th. Come along and swap seeds with us!

@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 4,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "Overly neat parallel triple and a generic 'meeting patients where they already are' lesson.",
+    "2": "Formulaic 'My takeaway is...' plus an engagement-bait closing question.",
+    "3": "Classic AI LinkedIn structure: 'Here's what that meant in practice:' followed by bullets and 'The lesson for me:'.",
+    "4": "none"
+  },
+  "reason": "Version 4 reads like a real operator sharing specific, slightly messy details and limitations, which makes it more credible and human than the polished but generic alternatives.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "track2/A-int",
+    "3": "O",
+    "4": "track2/B3-int"
+  }
+}

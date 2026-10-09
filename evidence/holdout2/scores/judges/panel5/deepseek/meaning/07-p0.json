@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "Version 1 preserves all key facts, numbers, commitments, and caveats; Version 2 drops only a minor safety sentiment. Version 3 omits several details, including 'harm', 'early warning', 'prompt, accurate', and 'without exception'.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "B3",
+    "3": "A"
+  }
+}

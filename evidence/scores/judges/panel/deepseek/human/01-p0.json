@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 1,
+    "4": 5,
+    "5": 4
+  },
+  "send": "3",
+  "tells": {
+    "1": "Awkward list introduced by 'This allows us to' with lines starting 'Have', 'Reduce', 'Allow'—a common AI formatting pattern.",
+    "2": "Use of LinkedIn cliché 'meeting patients where they already are' and overly compressed, no-question ending.",
+    "3": "none",
+    "4": "Overly concise, formulaic structure: stat + solution + result + CTA, lacking a distinct personal voice.",
+    "5": "Clean bullet list with 'Here's what that meant in practice:' and 'The lesson for me:'—a structured format characteristic of AI-generated LinkedIn posts."
+  },
+  "reason": "Version 3 reads most natural and conversational while remaining clear and credible; it has a personal voice and a useful engagement question.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "B3",
+    "3": "C",
+    "4": "A",
+    "5": "O"
+  }
+}

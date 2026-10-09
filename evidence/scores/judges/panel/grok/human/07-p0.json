@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Nominalized opener plus padded 'target date' reads like a polished status template.",
+    "3": "'The remaining piece' coordinated with 'target date' is stock AI status phrasing.",
+    "4": "Three evenly clipped sentences and the 'The remaining piece is X' inversion feel like an AI clarity rewrite."
+  },
+  "reason": "Version 1 sounds like a real Slack note—contractions, 'big piece left,' and 'hit Nov 3'—while 2–4 share a stiff nominalized opener and corporate padding, with 4 the most template-like.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B3",
+    "4": "O"
+  }
+}

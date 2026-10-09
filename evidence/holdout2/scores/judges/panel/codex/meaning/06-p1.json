@@ -1,0 +1,11 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2
+  },
+  "reason": "Version 1 preserves the original wording apart from an apostrophe change. Version 2 also preserves all substantive meaning, facts, numbers, and instructions, but introduces minor synonymous wording changes.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A"
+  }
+}

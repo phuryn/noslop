@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 5,
+    "4": 4,
+    "5": 2
+  },
+  "send": "5",
+  "tells": {
+    "1": "“BUILT FOR REAL RECOVERY” and “keep you moving forward” add stock promotional language to otherwise natural copy.",
+    "2": "Repeated explanatory clauses make the copy feel mechanical: “so you get a notification,” “so your physical therapist can see.”",
+    "3": "Stacks generic reassurance and motivational phrases: “guidance you can trust,” “always know,” and “keep your recovery moving.”",
+    "4": "“Gives you more of what the app has to offer” sounds like placeholder copy rather than a concrete reason to subscribe.",
+    "5": "“Stay consistent” and “see how far you've come” retain a mildly formulaic motivational cadence."
+  },
+  "reason": "Version 1 has the most natural conversational rhythm, but I would publish 5 for its clear structure, restrained claims, and concise pricing copy. These are editorial judgments about how the writing reads, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "O",
+    "4": "B5",
+    "5": "B3"
+  }
+}

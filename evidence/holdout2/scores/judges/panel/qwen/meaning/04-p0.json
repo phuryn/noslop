@@ -1,0 +1,11 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2
+  },
+  "reason": "Version 1 preserves the original fact that Ashby Mill came to us and keeps the core sequence of events, while Version 2 changes that to merely having a problem. Both omit the final commendation, but Version 2 loses a slightly more specific engagement nuance.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 6,
+    "3": 2,
+    "4": 3,
+    "5": 4,
+    "6": 5
+  },
+  "send": "3",
+  "tells": {
+    "1": "none: it reads like original small-business copy, with a redundant step 3 that repeats the heading and filler like 'Simply' and 'valuable insight'",
+    "2": "Polished salesy flourishes ('how your crops are really doing', 'deserve a closer look') and a mixed metaphor: 'Maps in your inbox' followed by 'maps in hand'",
+    "3": "Slightly formulaic benefit clause tacked on at the end ('and they help you spot areas that need a closer look')",
+    "4": "Over-compressed phrasing ('build the images into crop health maps'), which reads as edited for brevity rather than written",
+    "5": "Generic marketing opener ('Get a clear view of crop health across your fields') and a stiff 'Receive your…' imperative",
+    "6": "Awkward, clipped step 3 ('We count the 48 hours from the flight.') that reads like a mechanical rewrite to avoid repeating the heading"
+  },
+  "reason": "Version 3 opens by saying plainly what the service is, gives price, minimum and area in one clean sentence, and each step adds information without hype or awkward phrasing. Version 1 feels the most human but is redundant and clunky. Versions 2, 5 and 6 drift into marketing gloss or stilted compression.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "C",
+    "3": "B5",
+    "4": "B3",
+    "5": "O",
+    "6": "A"
+  }
+}

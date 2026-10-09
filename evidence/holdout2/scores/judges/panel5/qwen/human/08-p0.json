@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 1,
+    "4": 3
+  },
+  "send": "3",
+  "tells": {
+    "1": "none",
+    "2": "the removed aside makes the voice feel flattened and slightly sanitized",
+    "3": "none",
+    "4": "none, though it is indistinguishable from 3, which makes it feel duplicated rather than distinct"
+  },
+  "reason": "The version with the full self-deprecating aside and polished typography reads most like a finished human blog opening. The version without the aside feels a little flatter and less personally voiced.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "B5",
+    "4": "O"
+  }
+}

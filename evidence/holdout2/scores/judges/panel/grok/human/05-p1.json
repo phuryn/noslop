@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Two attractions jammed into one broken clause, plus a stock 'free, so come' connector",
+    "3": "Emoji-framed headline, 'Here's what's on' bullets, and a repeated icon logistics block"
+  },
+  "reason": "Version 1 sounds like someone at the farm actually inviting people: specific, warm, and unfussy. Version 2 is flatter and grammatically tangled, and version 3 stacks every stock event-post device.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "O"
+  }
+}

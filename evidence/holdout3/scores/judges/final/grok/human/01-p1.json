@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 5,
+    "4": 6,
+    "5": 4,
+    "6": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "The coached clarification 'I want to be clear... It comes from,' then a second 'grateful,' sounds outlined rather than spoken.",
+    "3": "The thanks arc is cut off, so it lands on a flat template line about work still ahead.",
+    "4": "'This milestone happened because of' and 'small fraction' are generic, and the post never returns to thanks.",
+    "5": "'I wanted to take a moment to recognise the hard work and dedication,' echoed by 'recognition it deserves' and 'our vision,' is stock LinkedIn phrasing.",
+    "6": "'Simply believed' and 'a good moment to pause and say thank you' are formulaic softeners."
+  },
+  "reason": "Version 1 sounds like a specific person refusing credit in their own words ('isn't mine,' 'slow,' 'small slice,' 'I'm lucky,' 'say thanks') while still working as a clear thank-you. The others either sand that voice into interchangeable phrasing or, in version 5, lean on familiar corporate lines.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "O",
+    "3": "B3",
+    "4": "A",
+    "5": "E",
+    "6": "B5"
+  }
+}

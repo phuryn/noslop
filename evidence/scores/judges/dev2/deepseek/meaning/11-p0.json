@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 3,
+    "4": 1
+  },
+  "reason": "Version 4 stays closest to the original and preserves all commitments. Version 2 keeps the full set of facts including the schedule benefit, while versions 3 and 1 drop that commitment, with 1 also softening a few details.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "C",
+    "3": "A",
+    "4": "B3"
+  }
+}

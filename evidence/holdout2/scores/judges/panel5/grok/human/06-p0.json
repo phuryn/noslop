@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 3,
+    "4": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Smart apostrophe in 'you're' plus the stiffer 'Check that' / 'Once' wording reads like a light AI paraphrase.",
+    "3": "'Check that' and 'Once' are a slightly formal, template-like swap for plainer support language.",
+    "4": "none"
+  },
+  "reason": "Version 1 is what a skilled help writer would ship: a colon into the steps, 'make sure,' and the precise 'press and hold.' Versions 2 and 3 feel like synonym edits, and 4's period plus shortened 'hold' is a small craft slip even though the voice is natural.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "O",
+    "3": "B3",
+    "4": "B5"
+  }
+}

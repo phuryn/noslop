@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 3,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "Redundant restatement ('run longer on each charge, so you can go further between charges') plus padded reassurance ('happy to walk you through it, step by step… no such thing as a silly question') inside a templated bold-header layout",
+    "2": "Tautological 'so' clause ('longer battery life, so they run longer on each charge'); otherwise plain",
+    "3": "Templated bold-label feature list with a stock reassurance closer ('No question is too small')",
+    "4": "none (only the mildly stock 'no question is too small')"
+  },
+  "reason": "Version 4 puts the date and app delivery first, names the firmware in the subject, and drops filler such as the redundant battery 'so' clause, so it reads like a practiced human writer. Version 1 piles on redundancy and boilerplate warmth in the most formulaic structure.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "A",
+    "3": "C",
+    "4": "B3"
+  }
+}

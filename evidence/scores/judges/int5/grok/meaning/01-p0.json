@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2
+  },
+  "reason": "Version 2 keeps the original claims, outcomes, and lesson, losing only the closing question. Version 3 keeps that question but shifts nuances (“all we did,” “try texts,” a weaker lesson), while version 1, though its new details come from the writer, drops the original lesson and call-versus-text account and substantially recasts the result.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "B5",
+    "3": "track2/A-int"
+  }
+}

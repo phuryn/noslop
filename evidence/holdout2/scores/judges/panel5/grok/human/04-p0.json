@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 4,
+    "4": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "Em-dash closer that praises a “clear result” and a team “committed to maintaining high food safety standards.”",
+    "4": "Tacked-on values line (“The team there holds itself to high food safety standards”) that the facts do not earn."
+  },
+  "reason": "Version 2 is direct, credible, and free of puffery, so it reads like a skilled case-study writer. Version 3’s evaluative flourish is the clearest AI tell; version 4’s extra standards sentence is the same habit in plainer clothes.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "O",
+    "4": "B5"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 5,
+    "4": 1,
+    "5": 3
+  },
+  "send": "4",
+  "tells": {
+    "1": "Slightly templated CTA, but otherwise natural.",
+    "2": "Stiff corporate phrasing and back-to-back asks.",
+    "3": "Duplicate greeting, repeated openers, and awkward phrasing make it feel unedited.",
+    "4": "none",
+    "5": "Clean but generic; the metric phrasing feels a bit polished rather than conversational."
+  },
+  "reason": "Version 4 sounds most like a real person: plain language, a concrete offer, and a conversational ask without sounding sloppy. It balances clarity, credibility, and human feel better than the others.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "O",
+    "3": "E",
+    "4": "C",
+    "5": "B3"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "dropped": [
+    {
+      "item": "Feature/section labels 'Faster bank feed sync', 'Bulk invoice editing', and 'PDF export' (scannable names for each item; the content itself is fully retained)",
+      "severity": "minor"
+    }
+  ],
+  "changed": [],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

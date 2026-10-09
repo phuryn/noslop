@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 5,
+    "3": 4,
+    "4": 3,
+    "5": 2
+  },
+  "reason": "Version 1 keeps the facts, 99.2% rate, 250-mile same-day offer, and 15-minute fit discussion, shifting only the help question into a stated desire. The others diverge more: 5 drops the discussion purpose, 4 recasts last-minute needs as picking up loads, 3 adds “anywhere” and “occasional,” and 2 adds unsupported quantity while softening scope and the 15-minute ask.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "E",
+    "3": "C",
+    "4": "A",
+    "5": "B3"
+  }
+}

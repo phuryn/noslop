@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 1,
+    "4": 3
+  },
+  "reason": "Version 3 keeps every fact, headline idea, and nuance (homemade, tea, last crumb, one kit for $34, free US shipping, cancel anytime), changing only the wording. Version 1 changes the most: it adds new claims (\"amazing,\" \"Whether it's your first time baking…\") and a second CTA, and drops the slow-down and quiet-moment framing. Version 2 drops \"homemade\" and the \"Less measuring\" idea, and Version 4 removes three section headlines and narrows \"the good part\" to \"the mixing.\"",
+  "label_to_arm": {
+    "1": "E",
+    "2": "B3",
+    "3": "C",
+    "4": "A"
+  }
+}

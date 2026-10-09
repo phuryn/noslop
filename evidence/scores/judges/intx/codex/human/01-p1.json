@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 1,
+    "3": 2,
+    "4": 5,
+    "5": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "A familiar LinkedIn template: three benefits, a broad leadership lesson, and an engagement question.",
+    "2": "none",
+    "3": "The stock phrase 'meeting patients where they already are' turns a concrete result into a generic takeaway.",
+    "4": "No clear AI tell; repetitive explanations and awkward syntax mainly suggest insufficient editing.",
+    "5": "Conversational wording overlays a formulaic structure, including punchy fragments and the 'isn't just ... It's ...' construction."
+  },
+  "reason": "Version 2 reads most like an experienced operator sharing results: it explains the mechanism, acknowledges uneven outcomes, and questions causality. I would publish it provided its added details are accurate; version 3 is the strongest concise alternative.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "track2/B5-int",
+    "3": "track2/A-int",
+    "4": "E",
+    "5": "C"
+  }
+}

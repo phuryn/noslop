@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 4,
+    "4": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "The bold label-plus-benefit structure and stock 'Fixed a bug where' phrasing feel a bit templated.",
+    "2": "none",
+    "3": "The clipped 'instead of one by one' breaks parallelism and sounds paraphrased.",
+    "4": "The bare headings, unlabeled bullets, and formulaic bug-fix sentence feel template-generated."
+  },
+  "reason": "Version 2 is the cleanest and most direct, with a user-facing fix and no unnecessary formatting. It reads like a human editor trimmed boilerplate while keeping the notes clear and credible.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "track2/B3-int",
+    "3": "B3",
+    "4": "track2/A-int"
+  }
+}

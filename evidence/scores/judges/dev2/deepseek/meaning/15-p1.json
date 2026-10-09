@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 3,
+    "4": 1
+  },
+  "reason": "Version 2 preserves nearly all key promises, numbers, premium value, and caveats. Version 4 keeps most core recovery wording but drops the Premium 'unlock more' commitment; Version 3 loses the 'see how far you've come' and intro clarity nuances; Version 1 omits several benefit claims such as proper form/technique, consistency, and progress over time.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "B5",
+    "4": "B3"
+  }
+}

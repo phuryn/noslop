@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 3,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "Several stock support phrases and repeated apologies make it feel templated: 'Thank you for reaching out', 'That's not the experience we want you to have', 'again, my apologies for the inconvenience'.",
+    "2": "The clipped, impersonal phrasing, especially 'The bike' and 'If you have questions, reply to this message', reads like an over-compressed template.",
+    "3": "The solution appears before any acknowledgment or thanks, then the empathy line feels inserted, especially the cliché 'That's not the experience we want you to have'.",
+    "4": "Only mild support clichés, such as 'Thanks for reaching out' and 'Thanks for your patience'; otherwise it sounds natural."
+  },
+  "reason": "Version 4 is the best balance of warmth, clarity, and efficiency, with a natural order and no over-apologizing. It resolves the issue quickly while still sounding like a person.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "track2/A-int",
+    "3": "track2/B5-int",
+    "4": "B5"
+  }
+}

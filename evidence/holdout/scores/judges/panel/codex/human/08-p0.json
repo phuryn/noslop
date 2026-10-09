@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 4,
+    "4": 1
+  },
+  "send": "1",
+  "tells": {
+    "1": "The balanced 'history and a future worth caring for' sentiment feels slightly formulaic.",
+    "2": "'It's a real privilege' and 'put music back in people's homes' add stock warmth; 'looking after what comes next' feels strained.",
+    "3": "The combination of 'history—and a future,' 'It's a privilege,' and 'find their voice again' feels like conventional promotional polish.",
+    "4": "none"
+  },
+  "reason": "Version 4 has the most convincing working craftsperson's voice, though its final sentence is awkward. I'd publish version 1 for its clear chronology, concise credentials, and restrained warmth; these are stylistic judgments, not evidence of authorship.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "C",
+    "3": "O",
+    "4": "A"
+  }
+}

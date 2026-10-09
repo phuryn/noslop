@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 5
+  },
+  "reason": "Version 1 keeps every fact and nuance; 2 and 3 only drop content (the long-term perspective, and in 3 also the ecology/management/policy setting). Version 4 alters meaning ('last year's fires', 'what happens next'), and 5 drops the talk's focus while adding unsupported claims ('growing problem', 'unique insights', 'how fire is changing').",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "A",
+    "3": "B3",
+    "4": "C",
+    "5": "E"
+  }
+}

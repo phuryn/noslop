@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 3,
+    "3": 1,
+    "4": 2,
+    "5": 5
+  },
+  "send": "3",
+  "tells": {
+    "1": "Generic conference phrasing: 'shares lessons' and 'practical considerations' give little sense of the speaker's perspective.",
+    "2": "The cluster of precise figures, a named field technician, and conspicuous candor feels engineered for authenticity; those added facts need verification.",
+    "3": "The familiar 'what worked, what didn't' formula is the only noticeable stock phrasing.",
+    "4": "none",
+    "5": "No clear AI-specific tell; repetitive bureaucratic phrasing, duplicated labels, and broken character encoding suggest poor editing."
+  },
+  "reason": "Version 3 sounds natural and gives the talk a clear purpose while preserving the shared factual content. Version 4 is tighter but less personal; version 2 is engaging, but its additional claims cannot be substantiated from the other versions, and style alone cannot establish authorship.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "track2/B5-int",
+    "3": "C",
+    "4": "track2/A-int",
+    "5": "E"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 3,
+    "3": 1,
+    "4": 2,
+    "5": 5
+  },
+  "reason": "Version 3 preserves nearly all meaning and commitments; version 4 drops the family acknowledgment, while version 2 also drops the reassurance about questions. Version 1 additionally risks implying availability from October 20 in its subject, while version 5 suggests rollout is already underway, introduces plugging in, and omits explicit step-by-step support.",
+  "label_to_arm": {
+    "1": "B",
+    "2": "A",
+    "3": "B2",
+    "4": "B3",
+    "5": "C"
+  }
+}

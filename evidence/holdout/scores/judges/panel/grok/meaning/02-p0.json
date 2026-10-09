@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3
+  },
+  "reason": "Version 2 keeps the tentative “I think,” the interest ask, the job facts, and the conditional offer to share more. Version 1 preserves those facts but softens the ask and changes the closing commitment, while version 3 replaces uncertainty with “I saw” and adds an unstated “good fit” judgment.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "C"
+  }
+}

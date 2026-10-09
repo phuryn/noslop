@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1
+  },
+  "reason": "Version 3 preserves the original facts, timing, price, and caveats most completely, with only minor wording changes. Version 1 is faithful but drops the inclusive winter-preparation welcome, while Version 2 adds unsupported nuances such as 'Most of us are in the same boat' and 'just got'.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "B3"
+  }
+}

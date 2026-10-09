@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2,
+    "4": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "The comprehensive memo template and generic phrases such as 'full brand experience' feel somewhat automated.",
+    "2": "Repeated 'Mitigation:' labels, bolded bullet openings, and noun-heavy phrasing give it a mechanically standardized feel.",
+    "3": "Conversational wording sits over an unchanged template, especially the repeated 'Mitigation:' labels and 'Finance to complete' constructions.",
+    "4": "Repeated 'I recommend' and 'we need to think' formulations, with a circular passage about measuring success, suggest possible generated padding."
+  },
+  "reason": "Version 1 best matches a skilled editor's memo: direct recommendation, readable reasoning, and actions expressed with clear subjects and verbs. Version 4 sounds conversational but is repetitive and less decision-ready; these rankings assess writing, not actual authorship.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "O",
+    "3": "B3",
+    "4": "gen/E-write"
+  }
+}

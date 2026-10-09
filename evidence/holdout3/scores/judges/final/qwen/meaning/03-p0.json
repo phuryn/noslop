@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 5,
+    "2": 3,
+    "3": 2,
+    "4": 4,
+    "5": 1
+  },
+  "reason": "Version 5 preserves the core product facts, price, launch date, discount, community thank-you, day-one sign-up, and desk-colour detail most closely. Version 3 is very faithful and keeps the explicit no-pressure caveat, but slightly changes the community/discount nuance and purpose phrasing; Version 2 adds a readiness/subject change, Version 4 omits several nuances, and Version 1 adds the unoriginal claim of 'your favourite inks'.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "C",
+    "3": "B5",
+    "4": "A",
+    "5": "B3"
+  }
+}

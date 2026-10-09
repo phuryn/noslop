@@ -1,0 +1,13 @@
+{
+  "send": "1",
+  "reason": "It keeps all the original facts, commitments, and caveats, with only minimal wording changes. It also preserves the original tone and structure most closely.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "V6A",
+    "3": "B5",
+    "4": "E",
+    "5": "V6C",
+    "6": "C"
+  },
+  "picked_arm": "A"
+}

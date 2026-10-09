@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 2,
+    "3": 1,
+    "4": 4,
+    "5": 3
+  },
+  "send": "3",
+  "tells": {
+    "1": "Standard LinkedIn template: a bulleted rule-of-three benefits list, a 'The lesson for me:' takeaway line and a closing engagement question",
+    "2": "none (the clunky phrasing, missing bullets and 'utilising' read as an unpolished human writer, not AI)",
+    "3": "The 'A no-show isn't just a hole in the schedule. It's someone who...' negation-reframe construction",
+    "4": "The cliché 'meeting patients where they already are' delivered as a tidy moral",
+    "5": "A compressed rule-of-three outcome sentence (fewer empty chairs / less phone time / more patients get care)"
+  },
+  "reason": "Version 3 has a natural first-person voice, concrete detail and a specific call to action ('try texts for a month'), so it reads most like a skilled practice owner. Version 2 sounds human but is too clumsy to publish, and Versions 1 and 4 lean on LinkedIn templates and clichés.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "E",
+    "3": "C",
+    "4": "B3",
+    "5": "A"
+  }
+}

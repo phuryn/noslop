@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 5,
+    "4": 1,
+    "5": 3
+  },
+  "reason": "Version 4 stays closest to the original wording and key caveats; version 2 is nearly as close but drops the 'much' hedge. Version 5 keeps the reflective tone but rephrases some nuances, while version 1 flattens the hedge more sharply; version 3 omits key specifics and adds unrelated generalizations.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "A",
+    "3": "E",
+    "4": "B3",
+    "5": "C"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "dropped": [
+    {
+      "item": "\"and other health markers\": bloodwork screens more than kidneys, liver, and blood sugar",
+      "severity": "minor"
+    },
+    {
+      "item": "\"make the most of their yearly checkup\": the framing of the panel as adding value to the annual visit",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "\"should include more than vaccines\" (a recommendation) became \"is about more than shots\" (a description), which weakens the advice",
+      "severity": "minor"
+    },
+    {
+      "item": "\"Bloodwork can help spot changes\" became \"Bloodwork can catch changes\", which slightly overstates certainty",
+      "severity": "minor"
+    },
+    {
+      "item": "\"a fuller picture of your dog's health\" became \"the full picture\", which overstates what the panel provides",
+      "severity": "minor"
+    },
+    {
+      "item": "\"Annual testing\" became \"It\" (bloodwork), so the emphasis on repeating the test every year is now only implied by \"year after year\"",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "\"at their next visit\" adds a time framing that suggests getting the panel at the upcoming appointment",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

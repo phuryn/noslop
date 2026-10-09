@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2
+  },
+  "reason": "Version 1 matches the original word for word except for an apostrophe style. Version 3 only rewords 'Check that' and 'Once', and Version 2 also shortens 'Press and hold' to 'Hold'. All three keep every fact and number, including 4×6 labels, gap markers and 3 seconds.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "B5",
+    "3": "A"
+  }
+}

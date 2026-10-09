@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2
+  },
+  "reason": "Version 2 preserves all facts, numbers, deadline, and the 'unless you see a reason not to' caveat almost exactly. Version 3 is also faithful but slightly rephrases, while Version 1 loses the explicit caveat by changing it to 'I'd like to go with Tilburg'.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "C"
+  }
+}

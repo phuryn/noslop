@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 5,
+    "4": 2,
+    "5": 4
+  },
+  "reason": "Version 1 is most faithful because it preserves the key facts, date, invitation, and the original’s broader 'generosity' nuance, losing only some Land Rover imagery. Version 4 is close but narrows 'generosity' to 'donations' and weakens 'we’d love' to 'we’d like'; Versions 2 and 5 add or change nuances, while Version 3 omits major invitation and appreciation details.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "C",
+    "3": "E",
+    "4": "B5",
+    "5": "A"
+  }
+}

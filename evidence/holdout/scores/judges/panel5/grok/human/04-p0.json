@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 5,
+    "4": 1,
+    "5": 4
+  },
+  "send": "4",
+  "tells": {
+    "1": "Neat three-item workshop list and a stock 'Wherever you are...' closer that doesn't really connect to the ask.",
+    "2": "The welcome line is dumped at the end, and 'you're not alone' is immediately repeated as 'same boat.'",
+    "3": "Cozy cliché stack ('on our toes', 'catch your breath') plus an em-dash sign-off, with the welcome buried.",
+    "4": "none",
+    "5": "Welcome parked after the news, 'catch your breath' padded in, and the fondant crammed onto the workshop paragraph."
+  },
+  "reason": "Version 4 reads like a club editor: welcome first, plain sympathy, a spoken workshop invite, and a short close, without the buried welcomes and padded comfort lines that make 2, 3 and 5 feel assembled. I'd send it because it is the clearest and most credible of the set.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "C",
+    "3": "O",
+    "4": "A",
+    "5": "B5"
+  }
+}

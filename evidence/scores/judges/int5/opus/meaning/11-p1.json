@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2
+  },
+  "reason": "Version 3 keeps every fact and commitment, losing only 'closely'. Version 1 weakens 'a real say' to 'a say'. Version 2 correctly uses the writer's answers but drops the original promises of real days off, nights that actually end, a plannable schedule and a real say in how things are done.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "track2/B5-int",
+    "3": "B5"
+  }
+}

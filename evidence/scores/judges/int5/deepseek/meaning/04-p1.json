@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1
+  },
+  "reason": "Version 3 stays closest to the original wording and retains all facts and commitments unchanged. Version 1 has only minor synonym changes, while Version 2 slightly restructures the reminder and hardest-part sentences but keeps the core facts.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "track2/B5-int",
+    "3": "track2/A-int"
+  }
+}

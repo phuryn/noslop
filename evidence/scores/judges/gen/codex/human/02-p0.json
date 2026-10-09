@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 1,
+    "4": 3
+  },
+  "send": "3",
+  "tells": {
+    "1": "none",
+    "2": "The padded closing phrase 'whether that fits what you need' feels slightly formulaic.",
+    "3": "none",
+    "4": "Two consecutive questions repeat the same invitation, with generic phrasing like 'discuss where we might fit.'"
+  },
+  "reason": "Version 3 balances concrete evidence, a relevant offer, and a direct call request without sounding overworked. Version 2 is close; 4 adds redundant politeness, while 1's repeated greeting and tentative introduction undermine its professionalism.",
+  "label_to_arm": {
+    "1": "gen/E-write",
+    "2": "A",
+    "3": "B3",
+    "4": "O"
+  }
+}

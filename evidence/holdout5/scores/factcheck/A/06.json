@@ -1,0 +1,34 @@
+{
+  "dropped": [
+    {
+      "item": "Acknowledgment that Aoife is unhappy about the deduction ('I understand you're unhappy'). It was replaced with an apology.",
+      "severity": "minor"
+    },
+    {
+      "item": "'As a goodwill gesture' framing for the reduction to £90. Without it, the reduction reads as a plain option rather than a concession that doesn't admit the deduction was wrong.",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "'I understand you're unhappy about the £150 deducted' became 'Sorry about the £150 we deducted'. Acknowledging her feelings became an apology for the deduction itself, which in a deposit dispute could be read as admitting fault or regret.",
+      "severity": "minor"
+    },
+    {
+      "item": "Actor changed from 'We can send you photos' to 'I can send you photos', shifting the commitment from the company to an individual.",
+      "severity": "minor"
+    },
+    {
+      "item": "Call to action changed from 'Please let us know how you'd like to proceed' (open-ended, reply to the company) to 'Tell me which you'd prefer' (framed as a choice between options, reply to an individual).",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "'also' in 'we can also reduce it', which makes the photos and the reduction explicitly combinable. This conflicts slightly with 'which you'd prefer', which frames them as alternatives.",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

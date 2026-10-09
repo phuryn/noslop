@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 2,
+    "3": 6,
+    "4": 3,
+    "5": 4,
+    "6": 1
+  },
+  "send": "6",
+  "tells": {
+    "1": "Stilted phrasing: \"when the $135 rate takes effect for you\" feels impersonal.",
+    "2": "none",
+    "3": "Overly formal legalistic line: \"at which time your monthly membership will renew at the new rate of $135.\"",
+    "4": "Mildly bureaucratic phrasing: \"will take effect for you.\"",
+    "5": "Clipped phrase: \"then move to $135\" reads as overly abrupt or over-shortened.",
+    "6": "none"
+  },
+  "reason": "Version 6 reads the most like a skilled human wrote it: the subject line and body are conversational, clear, and warm without sounding corporate. It explains the price change and grandfathering naturally, so I would send it.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B5",
+    "3": "E",
+    "4": "O",
+    "5": "B3",
+    "6": "C"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1,
+    "4": 5,
+    "5": 6,
+    "6": 4
+  },
+  "send": "3",
+  "tells": {
+    "1": "none",
+    "2": "none; the bare 'reply to this message' just reads slightly curt",
+    "3": "none",
+    "4": "Stacked apologies and a 'thank you for your patience' sign-off (clunky template, not distinctly AI)",
+    "5": "'That's not the experience we want you to have' plus a doubled apology/patience closer",
+    "6": "Bookended 'Thanks for reaching out' / 'Thanks for your patience' filler"
+  },
+  "reason": "Version 3 is the most natural. It takes personal ownership ('I'll email you,' 'I'll help'), uses a warm but brief tone and contains no filler. Version 1 is a close, slightly more formal alternative, while 5 and 6 pad the message with stock courtesy phrases.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "C",
+    "4": "E",
+    "5": "O",
+    "6": "B5"
+  }
+}

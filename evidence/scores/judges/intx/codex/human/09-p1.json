@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 3,
+    "5": 5
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "Repeated apologies and repeated product naming make it feel formulaic.",
+    "4": "The stock reassurance, \"That's not the experience we want you to have,\" adds little.",
+    "5": "Stacked courtesy phrases, generic reassurance, and a repeated apology make it feel padded."
+  },
+  "reason": "Version 1 combines a specific apology, a clear remedy, and personal ownership in natural language. Version 2 is similarly strong but slightly more impersonal; these stylistic judgments do not establish authorship.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "track2/A-int",
+    "3": "E",
+    "4": "track2/B5-int",
+    "5": "O"
+  }
+}

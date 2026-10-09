@@ -1,0 +1,11 @@
+{
+  "send": "4",
+  "reason": "It preserves the facts, commitments, and caveats—including the predictable schedule and preferred rather than required live-fire experience—and keeps my direct, conversational voice.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "A",
+    "3": "C",
+    "4": "B5"
+  },
+  "picked_arm": "B5"
+}

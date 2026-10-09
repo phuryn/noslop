@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+  },
+  "reason": "Versions 1 and 2 keep the ~80% status, the Android biometric flow as the sole remainder, and the Nov 3 target-date commitment; version 1 matches most closely. Version 3 renames the flow to “login” and drops “target date,” while version 4 is least faithful because “only big piece” adds an unsupported size claim and no longer says that flow is the entire remainder.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "B5",
+    "4": "C"
+  }
+}

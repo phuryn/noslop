@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 5,
+    "3": 1,
+    "4": 3,
+    "5": 2
+  },
+  "send": "3",
+  "tells": {
+    "1": "Redundant phrasing 'Can you decide' and 'We need your call'",
+    "2": "Use of an 'Options:' label before the bullet list",
+    "3": "none",
+    "4": "Slightly formulaic paired conditionals: 'If you're happy... If you'd rather...'",
+    "5": "Awkward phrasing 'They're £164k against Corvane's £182k'"
+  },
+  "reason": "Version 3 is the clearest and most natural: it gives the deadline, options, recommendation, and a simple call to action without unnecessary labels or over-explaining. It reads like a busy professional wrote it.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "O",
+    "3": "B3",
+    "4": "C",
+    "5": "A"
+  }
+}

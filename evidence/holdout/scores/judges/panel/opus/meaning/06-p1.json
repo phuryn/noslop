@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2
+  },
+  "reason": "Version 3 matches the original except for an apostrophe. Version 2 moves the compatibility check earlier, which keeps the 'before applying' caveat, but drops its explicit wording. Version 1 adds an 'easy fix' claim and a brush, and softens the firm 50°F requirement into 'try to work when it's at least 50°F out.'",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B3",
+    "3": "A"
+  }
+}

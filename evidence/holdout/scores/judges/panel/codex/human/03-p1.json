@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 4,
+    "4": 2
+  },
+  "send": "2",
+  "tells": {
+    "1": "Stacked stock reassurances—'happy to walk you through it,' 'no such thing as a silly question,' and 'Kestrel family'—make the warmth feel templated.",
+    "2": "none",
+    "3": "The accumulation of conversational touches—'does two things,' 'Just keep,' 'No question is too small,' and 'Warmly'—feels deliberately engineered to sound friendly.",
+    "4": "'No question is too small' adds a canned reassurance to an otherwise direct email."
+  },
+  "reason": "Version 2 is clear, respectful, and approachable without overworking the friendliness; it gives the benefits and installation steps in a natural order. Version 4 is a close second, but its opening foregrounds the firmware number and rollout logistics before explaining the value.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "A",
+    "3": "C",
+    "4": "B3"
+  }
+}

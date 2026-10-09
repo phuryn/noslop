@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2,
+    "4": 4
+  },
+  "send": "3",
+  "tells": {
+    "1": "none",
+    "2": "Apply-then-“before applying” contradiction, plus flat stock phrasing (“well ventilated,” “exposing it to rain,” “Once cured”).",
+    "3": "Even template cadence and generic how-to diction (“well ventilated,” “thin, even layer”) with little voice.",
+    "4": "Same backwards compatibility warning and canned step list as 2, plus a curly apostrophe."
+  },
+  "reason": "Version 1 sounds like someone talking through the job; 2 and 4 are the same polished template with a step-order error. Version 3 keeps the clear procedure and puts the fabric check before you apply, so that is the one I would publish.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B3",
+    "4": "O"
+  }
+}

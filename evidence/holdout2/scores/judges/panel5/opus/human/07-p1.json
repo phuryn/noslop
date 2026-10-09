@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 1,
+    "4": 4
+  },
+  "send": "3",
+  "tells": {
+    "1": "The uplifting closer 'It's how we look out for each other' is a stock sentiment line. The bullet-like instructions are also forced into prose, with an awkward 'And log every near miss...'.",
+    "2": "Slight padding, such as the 'Near misses are our early warning. Prompt, accurate reports...' framing and 'without exception'. Otherwise fairly clean.",
+    "3": "Very few. The headed template structure is a little formulaic, but the wording is plain and economical.",
+    "4": "Bolding on every header, date and number, plus the 'It's how we keep each other safe' sign-off. It reads as polished AI formatting with an inspirational flourish."
+  },
+  "reason": "Version 3 is the tightest and most direct. It keeps every instruction clear and skimmable without motivational filler or heavy formatting, which suits a site safety notice. Version 4 has the same content but is the most over-styled and slogan-like.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "B3",
+    "3": "A",
+    "4": "O"
+  }
+}

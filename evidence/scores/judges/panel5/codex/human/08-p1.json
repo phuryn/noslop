@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 3,
+    "3": 2,
+    "4": 6,
+    "5": 4,
+    "6": 1
+  },
+  "send": "6",
+  "tells": {
+    "1": "none",
+    "2": "The sales wrap-up, 'a simple way to get the full picture,' feels generic and overstates what the panel provides.",
+    "3": "The vague phrase 'helps guide care' feels like a stock benefit statement.",
+    "4": "The closing sentence stacks generic benefits: 'a practical way,' 'a fuller picture,' and 'make the most of their yearly checkup.'",
+    "5": "The closing promise of 'a fuller picture' and 'more out of the checkup' adds promotional padding.",
+    "6": "none"
+  },
+  "reason": "Version 6 is direct, restrained, and easy to read, with a clear explanation followed by the price; version 3 is a close second. These are editorial impressions, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "C",
+    "3": "B3",
+    "4": "O",
+    "5": "B5",
+    "6": "A"
+  }
+}

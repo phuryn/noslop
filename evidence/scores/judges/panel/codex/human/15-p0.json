@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 1,
+    "4": 3,
+    "5": 5
+  },
+  "send": "3",
+  "tells": {
+    "1": "Stock promises such as “Never miss a session again” and “watch your progress grow,” though these are also common in human marketing copy.",
+    "2": "Conspicuously conversational phrasing—“give you a nudge,” “tweak your plan,” “bouncing back”—feels applied to make the copy sound personable.",
+    "3": "none",
+    "4": "Repeated explanatory padding: “what to do and how to do it right” and “proper form and technique.”",
+    "5": "Layers of generic reassurance and vague benefits: “guidance you can trust,” “always know,” and “unlock more of what the app has to offer.”"
+  },
+  "reason": "Version 3 is direct, restrained, and easy to scan; I would send it after verifying what Premium includes and preserving the explicit statement that the app is free to use. These rankings reflect editorial impressions, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "C",
+    "3": "A",
+    "4": "B3",
+    "5": "O"
+  }
+}

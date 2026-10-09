@@ -1,0 +1,25 @@
+{
+  "dropped": [
+    {
+      "item": "Reassurance that 'there's no such thing as a silly question' when contacting support",
+      "severity": "minor"
+    },
+    {
+      "item": "Closing thanks: 'Thank you for being part of the Kestrel family'",
+      "severity": "minor"
+    },
+    {
+      "item": "Support team described as 'happy to' help, a warmth nuance",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "Original says Crowd Focus 'helps your hearing aids bring the voice in front of you forward'. The edit says it 'brings the voice in front of you forward', a slightly more absolute claim.",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

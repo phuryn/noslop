@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3,
+    "4": 4
+  },
+  "send": "2",
+  "tells": {
+    "1": "Unnamed bio that nearly restates the abstract, with stock 'the talk covers' summary cadence.",
+    "2": "none",
+    "3": "'would otherwise go unnoticed,' the off idiom 'making more of their own pressure data,' and a nameless 'They' bio.",
+    "4": "Formulaic 'This talk explores' / 'might otherwise go unnoticed' / 'practical considerations' template and appositive bio."
+  },
+  "reason": "Version 2 sounds like a practitioner: specific results, a real caveat, and a point of view, so it is the abstract worth sending. The others are generic program copy, and 3 and 4 lean on stock AI abstract phrasing.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "track2/B5-int",
+    "3": "B5",
+    "4": "O"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 3,
+    "3": 1,
+    "4": 5,
+    "5": 2
+  },
+  "send": "3",
+  "tells": {
+    "1": "none",
+    "2": "Abstracted closer that the biggest operational win was meeting patients where they already are.",
+    "3": "Bolted-on lesson that the biggest operational wins come from reaching people where they already are.",
+    "4": "Full template cadence: 'Here's what that meant,' parallel bullets, and 'The lesson for me.'",
+    "5": "Overly neat epigram that every no-show is an untreated patient and a wasted slot."
+  },
+  "reason": "Version 3 sounds most like a capable operator telling a real story, with specific asides and a natural close, while 4 is a stock LinkedIn template and 1 is too rough to feel skilled. I would send 3 because it stays clear and credible without losing a human voice.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "B3",
+    "3": "C",
+    "4": "O",
+    "5": "A"
+  }
+}

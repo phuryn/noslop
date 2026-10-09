@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 3,
+    "3": 1,
+    "4": 2
+  },
+  "reason": "Version 3 keeps nearly every fact and nuance. Version 4 drops some details (\"Those visits helped us get here,\" \"anniversary to celebrate,\" \"every book\"). Version 2 adds invented claims (\"started with what we loved,\" \"first week,\" \"reread a dozen times,\" \"never gave it back\"), while Version 1 cuts the choices/earn-its-place content and adds or distorts facts (\"a little over 400,\" \"bursting at the seams,\" \"day one,\" garbled post 5).",
+  "label_to_arm": {
+    "1": "E",
+    "2": "C",
+    "3": "B3",
+    "4": "A"
+  }
+}

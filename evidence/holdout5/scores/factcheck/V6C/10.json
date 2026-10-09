@@ -1,0 +1,22 @@
+{
+  "dropped": [
+    {
+      "item": "The speaker will 'reflect on' the decisions involved; the edit folds this into 'talk about', losing the reflective framing",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "The original gives 15 years of experience in general alongside their current role as a consultant prosthetist at Limbwise. The edit says the 15 years were spent specifically 'as a consultant prosthetist at Limbwise in Sheffield', which narrows the claim to that role and employer.",
+      "severity": "major"
+    }
+  ],
+  "added": [
+    {
+      "item": "'always keeping comfort, function and everyday life at the heart' adds 'always', which slightly strengthens the original",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

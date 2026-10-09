@@ -1,0 +1,11 @@
+{
+  "send": "4",
+  "reason": "Version 4 keeps the same features, $7.99 auto-renewal terms, and medical caveat, and it still sounds like the original voice. The others drop claims, overpromise, or change the subscription wording.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "E",
+    "3": "C",
+    "4": "B5"
+  },
+  "picked_arm": "B5"
+}

@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 1
+  },
+  "reason": "Version 3 keeps the hedge, interest ask, terms, and conditional offer intact. Version 2 preserves the uncertainty but softens the ask and swaps the interest-conditional offer for sharing more at the chat, while version 1 is least faithful because it turns “I think” into “I saw” and adds a “good fit” claim.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B3",
+    "3": "A"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 5,
+    "4": 4,
+    "5": 2
+  },
+  "reason": "V1 keeps every fact, commitment and nuance. V5 only drops 'closely', and V2 drops 'a schedule you can plan a life around'. V4 softens and reinterprets several points ('slammed' becomes 'busy/fun part', 'nights that end at a decent hour', 'care whether' becomes 'taste'). V3 loses many commitments (no pressure-cooker kitchen, a real say, calm under pressure, nights that end) and adds new ones ('not limited to', 'must', 'work well with others', 'me' instead of 'us').",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "E",
+    "4": "C",
+    "5": "B5"
+  }
+}

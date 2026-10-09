@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 5,
+    "3": 3,
+    "4": 1,
+    "5": 2
+  },
+  "reason": "Version 4 stays closest to the original wording and preserves all key facts and caveats; version 5 is nearly as close with only minor rephrasing. Versions 3 and 1 omit or adjust small nuances, while version 2 changes the square footage detail and loses the core point of post 2.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "E",
+    "3": "A",
+    "4": "B3",
+    "5": "B5"
+  }
+}

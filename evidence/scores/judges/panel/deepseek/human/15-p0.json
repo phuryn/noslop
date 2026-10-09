@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 4,
+    "3": 5,
+    "4": 1,
+    "5": 2
+  },
+  "send": "4",
+  "tells": {
+    "1": "none",
+    "2": "Clichéd, exclamation-heavy motivation and an awkward subscription sentence.",
+    "3": "Overly smooth, benefit-stacked AI cadence ('guidance you can trust', 'keep your recovery moving').",
+    "4": "none",
+    "5": "Template-like structure and stock phrases ('nudge', 'see how far you've come')."
+  },
+  "reason": "Version 4 reads like a skilled human writer: warm, clear, and credible without the formulaic polish of the more AI-sounding options.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "E",
+    "3": "O",
+    "4": "C",
+    "5": "B3"
+  }
+}

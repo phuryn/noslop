@@ -1,0 +1,10 @@
+{
+  "send": "1",
+  "reason": "Version 1 keeps the original meaning and tone exactly: about 80% done, only the Android biometric flow remains, and still on track for Nov 3.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "B5"
+  },
+  "picked_arm": "A"
+}

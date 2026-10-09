@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 4,
+    "3": 1,
+    "4": 2
+  },
+  "reason": "Version 3 only splits one sentence, and Version 4 adds light rewording without changing meaning. Version 1 drops the 'small job now' nuance, while Version 2 drops it too, cuts the invitation to chat and share ideas, and adds a wrong 'this Saturday' claim (the next Saturday is Oct 10).",
+  "label_to_arm": {
+    "1": "C",
+    "2": "E",
+    "3": "A",
+    "4": "B3"
+  }
+}

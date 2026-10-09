@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 4,
+    "4": 1,
+    "5": 5
+  },
+  "send": "4",
+  "tells": {
+    "1": "Template triad ('talk through... go over... and catch up') and a hedged closer that doesn't match the ask.",
+    "2": "Welcome line tacked on at the end, then a close that stacks three stock sentiments.",
+    "3": "Says the same thing twice ('you're not alone' / 'same boat'), then parks the welcome at the end.",
+    "4": "none",
+    "5": "Performed opener ('Well... certainly kept us on our toes'), a buried welcome, and an em-dash sign-off."
+  },
+  "reason": "Version 4 opens where a newsletter should, invites people to the workshop in a specific voice, and stops without padding. The others bury the welcome, lean on parallel lists and hedges, or perform casualness.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "B5",
+    "3": "C",
+    "4": "A",
+    "5": "O"
+  }
+}

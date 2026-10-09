@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 3,
+    "4": 5,
+    "5": 2
+  },
+  "reason": "Version 1 stays closest to the original; 5 follows with only tiny omissions; 3 drops the schedule-planning commitment; 2 adds/changes phrasing and details; 4 omits or distorts several key requirements and nuances.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "C",
+    "3": "A",
+    "4": "E",
+    "5": "B5"
+  }
+}

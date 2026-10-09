@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 6,
+    "2": 3,
+    "3": 7,
+    "4": 2,
+    "5": 1,
+    "6": 5,
+    "7": 4
+  },
+  "send": "4",
+  "tells": {
+    "1": "CV-style opener and a cliché closer, “at the heart of the conversation.”",
+    "2": "Empty rhythmic beat: “It stays something to think about.”",
+    "3": "Abstract compression: “Growth brings changing needs, making fit an ongoing consideration rather than a single appointment.”",
+    "4": "Formulaic closing triad of comfort, function and everyday life.",
+    "5": "none",
+    "6": "Seamless template ending in “at the heart of the conversation.”",
+    "7": "Stiff, even cadence and the awkward closer “in view.”"
+  },
+  "reason": "Version 5 is the only draft with ordinary human slips and no shared formula, so it ranks most human, but it is too thin and careless to publish. I would send version 4: it sounds like a person talking about the work, and it stays clear and credible without the abstract compression and stock closing triad of the smoother versions.",
+  "label_to_arm": {
+    "1": "V6C",
+    "2": "B5",
+    "3": "O",
+    "4": "C",
+    "5": "E",
+    "6": "V6A",
+    "7": "A"
+  }
+}

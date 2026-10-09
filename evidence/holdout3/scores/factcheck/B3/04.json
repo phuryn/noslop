@@ -1,0 +1,25 @@
+{
+  "dropped": [
+    {
+      "item": "The Land Rover described as 'a reminder of what your support makes possible', explicitly tying the vehicle to donor impact",
+      "severity": "minor"
+    },
+    {
+      "item": "The Land Rover described as 'a welcome addition to the team'",
+      "severity": "minor"
+    },
+    {
+      "item": "'heartfelt' intensifier on the thank you",
+      "severity": "minor"
+    }
+  ],
+  "changed": [],
+  "added": [
+    {
+      "item": "'the team is looking forward to it', a new claim about the team's anticipation (loosely paraphrases 'welcome addition')",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

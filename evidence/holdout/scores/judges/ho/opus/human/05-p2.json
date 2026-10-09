@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 5,
+    "3": 3,
+    "4": 1,
+    "5": 6,
+    "6": 2
+  },
+  "send": "4",
+  "tells": {
+    "1": "Templated '•' bullet list for just two numbers, with the arithmetic spelled out in a parenthetical '(£18k cheaper)'",
+    "2": "'Options:' header label before a two-item bullet list, which feels like a formatted template inside a casual Slack message",
+    "3": "Bullet list for two prices plus the redundant '(£18k cheaper)' parenthetical, giving a tidy, formulaic structure",
+    "4": "none",
+    "5": "Unicode '•' bullets and a rigid ask/options/recommendation/CTA template, with the parenthetical savings repeating the obvious",
+    "6": "Slightly over-spelled reply instructions in two separate conditional sentences, though it otherwise reads naturally"
+  },
+  "reason": "Version 4 leads with the recommendation and folds the numbers into one plain sentence, so it is the quickest to act on and the least templated. The bulleted versions (1, 2, 3, 5) follow a near-identical formulaic structure that is overkill for a two-option Slack ask.",
+  "label_to_arm": {
+    "1": "B",
+    "2": "O",
+    "3": "B2",
+    "4": "A",
+    "5": "B3",
+    "6": "C"
+  }
+}

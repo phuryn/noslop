@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 3,
+    "3": 1,
+    "4": 2
+  },
+  "reason": "Version 3 is nearly verbatim and preserves all original facts and commitments. Version 4 also keeps the facts fully intact, while Version 2 is close but drops 'date' and Version 1 adds 'big,' slightly weakening the original's singular remaining piece.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B5",
+    "3": "B3",
+    "4": "A"
+  }
+}

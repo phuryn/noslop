@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 4,
+    "4": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "Uniformly packaged reasoning and repeated 'Mitigation:' labels give it a template-driven feel.",
+    "2": "none",
+    "3": "Bold thesis statements followed by evenly structured explanations make the prose feel mechanically polished.",
+    "4": "Repeated 'We will' sentences feel like a systematic active-voice rewrite and turn proposed mitigations into commitments."
+  },
+  "reason": "Version 2 has the most natural internal voice, though its repetition and vague mitigations need editing. I would send version 1 for its clarity, specificity, and measured tone, after verifying the lease assumptions; these stylistic judgments do not establish AI authorship.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "E",
+    "3": "O",
+    "4": "A"
+  }
+}

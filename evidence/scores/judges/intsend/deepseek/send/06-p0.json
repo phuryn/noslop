@@ -1,0 +1,11 @@
+{
+  "send": "2",
+  "reason": "It stays closest to the original voice and structure, keeps the main emotional hooks and practical caveats intact, and does not add details that would shift the message.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "C",
+    "3": "track2/B5-int",
+    "4": "E"
+  },
+  "picked_arm": "C"
+}

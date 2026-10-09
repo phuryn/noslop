@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2
+  },
+  "reason": "Version 1 preserves the original’s substance and caveats most closely. Version 3 slightly strengthens proposed mitigations into firm “we will” commitments, while Version 2 omits specific mitigations and timing requirements, strengthens the traffic forecast, and replaces landlord notice deadlines with a decision before landlords make contact.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "E",
+    "3": "A"
+  }
+}

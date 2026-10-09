@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 1,
+    "4": 3,
+    "5": 5
+  },
+  "reason": "Versions 4 and 2 keep every fact. Version 4 drops only the 'many hands' encouragement, while version 2 shifts 'we'll confirm details' to 'I'll send details'. Versions 1 and 3 also lose the 'get everything right' rationale and the closing sentiment, and version 5 invents a lighting-rig backstory, drops the calendar-update request and 'back on track', and blurs what is being mounted.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "B3",
+    "4": "B5",
+    "5": "E"
+  }
+}

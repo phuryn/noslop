@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 3,
+    "4": 2,
+    "5": 5
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Generic courtesy bookends—“Thanks for reaching out” and “Thanks for your patience”—make it feel more templated.",
+    "3": "none",
+    "4": "none",
+    "5": "Stacked apologies and stock empathy, especially “That's not the experience we want you to have,” add length without useful information."
+  },
+  "reason": "Version 1 combines a specific apology, a clear remedy, and personal ownership in natural language. Version 4 is a close second but ends somewhat abruptly; these are stylistic judgments, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B5",
+    "3": "B3",
+    "4": "A",
+    "5": "O"
+  }
+}

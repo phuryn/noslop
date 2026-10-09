@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 3,
+    "3": 2,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "Matched fragment pairs used as slogans ('A little measuring done. A little joy delivered.' / 'Less measuring. More making.'), plus a list of fragments ('An afternoon with the oven on. Something homemade to share.')",
+    "2": "Generic uplift closer ('Give yourself something to look forward to each month') that adds mood but no information",
+    "3": "Mostly clean; the soft redundancy 'for as long as you like, and cancel whenever you want' is the main tell",
+    "4": "none"
+  },
+  "reason": "Version 4 is the only one with concrete, checkable details (the Vermont mill, a real subscriber story, the top kit, the subscriber count), and that makes it the most persuasive and human. Publish it only after confirming that the testimonial and the numbers are real and that the customer has given permission.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B5",
+    "3": "track2/A-int",
+    "4": "track2/B5-int"
+  }
+}

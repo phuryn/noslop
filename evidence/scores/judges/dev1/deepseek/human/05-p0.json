@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 5,
+    "4": 1,
+    "5": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "Formal summary phrase 'The consequences are significant:' and bolded parallel impact bullets read as templated.",
+    "2": "Minor: the uniform bolded bullet lead-ins and 'What this costs:' are polished but AI-like.",
+    "3": "Explicit enumeration 'This causes four problems:' and over-structured headings are a strong tell.",
+    "4": "Slight casual over-styling: contractions and fragments cluster in 'who's free... who's on shift.'",
+    "5": "Generic stakeholder framing 'This causes problems for clients, coordinators, and agencies:' with plain parallel bullets."
+  },
+  "reason": "Version 4 has the most natural human voice, but version 2 is the better publish-ready PRD: clearer, scannable, and credible without sounding stiff.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B3",
+    "3": "A",
+    "4": "C",
+    "5": "B5"
+  }
+}

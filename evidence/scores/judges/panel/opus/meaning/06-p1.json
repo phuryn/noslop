@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 4,
+    "4": 2
+  },
+  "reason": "Version 2 keeps every claim and section, only dropping the minor 'little joy' tagline. Version 4 slightly merges the bake-scenario list, and Version 1 cuts the section headings while keeping the facts. Version 3 replaces the 'slow down' message and adds unsupported claims ('something new every month', beginners to experienced bakers).",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "E",
+    "4": "B3"
+  }
+}

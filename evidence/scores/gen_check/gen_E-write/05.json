@@ -1,0 +1,12 @@
+{
+  "unsupported_specifics": [
+    "How long it takes to find a replacement caregiver will need to be recorded starting when the callout is recorded in the system, and ending when the replacement caregiver is confirmed.",
+    "Coordinators need to be aware of the status of the rescheduling process, and have the ability to intervene if necessary.",
+    "Visits can be rescheduled with a caregiver that meets all of the requirements.",
+    "how satisfied the coordinators are with the process"
+  ],
+  "request_facts_missing_or_changed": [
+    "The request's goal is to cut coordinator manual work, which implies a reduction from the current manual process. The text instead measures the reduction 'compared to when the feature first starts being used', which sets the baseline after the feature is already in place."
+  ],
+  "language_errors": []
+}

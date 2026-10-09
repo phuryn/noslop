@@ -1,0 +1,11 @@
+{
+  "send": "1",
+  "reason": "Version 1 keeps the original voice and adds the details I wanted: four-day week, 180 covers on Friday, small kitchen, whole-animal butchery, 100% covered health insurance, and promoting from within without overpromising specifics.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "E",
+    "3": "C",
+    "4": "track2/A-int"
+  },
+  "picked_arm": "track2/B5-int"
+}

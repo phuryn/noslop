@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 3,
+    "4": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "The rhetorical question and phrases like “a bunch” and “That's fixed” feel like a deliberate attempt to sound conversational.",
+    "3": "none",
+    "4": "none"
+  },
+  "reason": "Version 1 is clear, easy to scan, and appropriately matter-of-fact, with useful feature labels. Version 4 is similarly natural, version 3 slightly clipped, and version 2 more performatively casual; none reliably establishes AI authorship.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "C",
+    "3": "B",
+    "4": "A"
+  }
+}

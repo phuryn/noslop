@@ -1,0 +1,11 @@
+{
+  "send": "2",
+  "reason": "It states what I mean by on time, leads with regular routes without promising more capacity than we have, and keeps the ask to an intro call. The language is direct, and the fleet size and temperature monitoring details reflect what I said.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "track2/B5-int",
+    "3": "C",
+    "4": "E"
+  },
+  "picked_arm": "track2/B5-int"
+}

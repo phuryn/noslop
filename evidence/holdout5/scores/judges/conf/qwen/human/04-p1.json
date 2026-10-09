@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 6,
+    "3": 1,
+    "4": 4,
+    "5": 5,
+    "6": 7,
+    "7": 2
+  },
+  "send": "3",
+  "tells": {
+    "1": "none",
+    "2": "The filler phrase 'October is here' and 'simply walk in' give it a generic, lightly promotional AI sheen.",
+    "3": "none",
+    "4": "The 'It's October, which means...' seasonal setup feels formulaic.",
+    "5": "Identical to version 4, so it shares the same formulaic seasonal opener.",
+    "6": "Over-enthusiastic tone plus odd capitalization and punctuation ('Did You Know?', 'Flu Jabs', 'over 65's', 'Open') feels machine-generated or unedited.",
+    "7": "The repetition in 'opened a new branch... open' is a small artificial-sounding flaw."
+  },
+  "reason": "Version 3 is crisp, warm, and clear without clichés or overhyped wording. It reads like a competent human editor writing a practical local-health newsletter.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "O",
+    "3": "B5",
+    "4": "V6C",
+    "5": "V6A",
+    "6": "E",
+    "7": "C"
+  }
+}

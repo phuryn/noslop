@@ -1,0 +1,45 @@
+{
+  "dropped": [
+    {
+      "item": "Leaks found this way 'might otherwise go unnoticed', so the data reveals hidden leaks",
+      "severity": "minor"
+    },
+    {
+      "item": "The considerations are aimed at utilities looking to make better use of their existing pressure data",
+      "severity": "minor"
+    },
+    {
+      "item": "The considerations are described as 'practical'",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "'Can help reveal leaks' was strengthened to 'can be very helpful in locating leaks', which raises the certainty and emphasis",
+      "severity": "minor"
+    },
+    {
+      "item": "The scope of the considerations narrowed from making better use of existing pressure data in general to 'using pressure data to find leaks'",
+      "severity": "minor"
+    },
+    {
+      "item": "'Non-revenue water' in the abstract became the unexplained abbreviation 'NRW', which may be unclear to some readers",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "The speaker is named 'Mr. Matela'",
+      "severity": "major"
+    },
+    {
+      "item": "The speaker's gender ('Mr.', 'he') is specified",
+      "severity": "major"
+    }
+  ],
+  "invented_specifics": [
+    "Mr. Matela",
+    "he"
+  ],
+  "meaning_preserved": 3
+}

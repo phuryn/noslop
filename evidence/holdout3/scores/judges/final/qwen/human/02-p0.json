@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 5,
+    "4": 6,
+    "5": 2,
+    "6": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Formulaic soft opener and 'good fit' phrasing feel generic and AI-safe.",
+    "3": "Asking whether 'Reel North Cinemas' would try it sounds slightly impersonal and template-like.",
+    "4": "none; it reads more like an unedited human draft than AI copy.",
+    "5": "The 'I wanted to see if you'd be open' opener is a common AI/hedging pattern.",
+    "6": "The corporate phrasing 'Would Reel North Cinemas be open' feels slightly synthetic."
+  },
+  "reason": "Version 1 sounds the most natural, specific, and personable while still staying clear and commercial. It feels like a real supplier writing to a cinema group rather than a polished but generic template.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "O",
+    "3": "B3",
+    "4": "E",
+    "5": "A",
+    "6": "B5"
+  }
+}

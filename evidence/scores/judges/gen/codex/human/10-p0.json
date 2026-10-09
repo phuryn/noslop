@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Generic padding: “to give you more options during the week” and “Thank you for being part of our community.”",
+    "3": "The stock closing about “continued support” is the closest thing to an AI tell; the awkward wording is not evidence of AI.",
+    "4": "Mildly formulaic language: “more options during the week” and “part of our community.”"
+  },
+  "reason": "Version 1 is direct, courteous, and precise about when existing members will pay more; version 4 is nearly as strong. Version 2 adds generic warmth, while version 3 introduces an unsupported class start date and makes the March 1 pricing transition ambiguous; none of these stylistic features reliably establishes authorship.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "O",
+    "3": "gen/E-write",
+    "4": "B3"
+  }
+}

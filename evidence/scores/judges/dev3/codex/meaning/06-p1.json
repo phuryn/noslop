@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 4,
+    "4": 1
+  },
+  "reason": "Version 4 most closely preserves the original’s meaning and commitments; version 2 slightly narrows “the good part” to stirring and baking, while version 1 loses the explicit quiet-moment nuance. Version 3 also drops the time-saving benefit and makes the subscription wording less precise with “Each kit is $34 a month” and “Keep it.”",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B3",
+    "3": "A",
+    "4": "B5"
+  }
+}

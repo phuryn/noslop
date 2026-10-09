@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 4,
+    "4": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "none",
+    "4": "none"
+  },
+  "reason": "Version 2 is concise and natural for Slack, combining progress and remaining work before giving the target-date update. The others differ mainly in rhythm; none has a distinctive AI-writing tell.",
+  "label_to_arm": {
+    "1": "track2/B3-int",
+    "2": "track2/A-int",
+    "3": "O",
+    "4": "B3"
+  }
+}

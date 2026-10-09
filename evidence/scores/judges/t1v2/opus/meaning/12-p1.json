@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 4,
+    "4": 1
+  },
+  "reason": "V4 keeps nearly every fact and hedge, and V1 drops the 'help' hedge and the general claim about unnoticed leaks. V2 asserts the leaks 'had gone unnoticed', drops the hedge and inflates the speaker to 'helped lead'; V3 adds a claim about most utilities, 'leaks nobody knew about', and a new promise to cover 'what didn't' work.",
+  "label_to_arm": {
+    "1": "B",
+    "2": "A",
+    "3": "C",
+    "4": "B2"
+  }
+}

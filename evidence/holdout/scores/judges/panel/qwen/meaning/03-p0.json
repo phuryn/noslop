@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3
+  },
+  "reason": "Version 2 preserves the core facts, date, app process, step-by-step support, and no-question reassurance without adding new facts; Version 1 is close but changes “between charges” to “plugging in” and drops “step by step.” Version 3 loses the no-question reassurance and the closing appreciation.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B3",
+    "3": "A"
+  }
+}

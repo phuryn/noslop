@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1
+  },
+  "reason": "Version 3 keeps every fact, date, rate and the 'more options during the week' rationale with no added or narrowed meaning. Version 1 is nearly as faithful but narrows 'the change' to 'the price change'; Version 2 drops the reason for adding Sunday classes and softens 'part of our community' to 'a member'.",
+  "label_to_arm": {
+    "1": "track2/B3-int",
+    "2": "track2/A-int",
+    "3": "B3"
+  }
+}

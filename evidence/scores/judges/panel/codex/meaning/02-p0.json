@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 4,
+    "4": 2
+  },
+  "reason": "Version 2 preserves the core service, figures, delivery needs, and meeting request most closely; version 4 slightly shifts last-minute delivery coverage to picking up loads. Version 1 adds “anywhere” and narrows last-minute needs to “occasional,” while version 3 adds an unsupported volume claim (“a lot”) and makes regular-route coverage less explicit.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B3",
+    "3": "E",
+    "4": "A"
+  }
+}

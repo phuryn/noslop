@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2,
+    "4": 4
+  },
+  "send": "3",
+  "tells": {
+    "1": "none",
+    "2": "The generic opening and stock phrases such as “This talk explores” and “practical considerations” give it a templated feel.",
+    "3": "Repeated “This talk covers” and “It also covers” create slightly mechanical signposting.",
+    "4": "none"
+  },
+  "reason": "Version 1 reads most naturally, but it strengthens both the causal claim and the speaker’s leadership role beyond what the other versions establish. I would send 3 for its concrete, measured account; 2 feels generic, while 4 needs substantial copyediting.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "O",
+    "3": "B3",
+    "4": "E"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 3,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "Places the resolution before the apology and uses the scripted line 'That's not the experience we want you to have.'",
+    "2": "Overly polished and formulaic, with multiple apologies and 'again, my apologies for the inconvenience.'",
+    "3": "Overly terse and clipped, especially 'If you have questions, reply to this message.'",
+    "4": "none"
+  },
+  "reason": "Version 4 sounds the most natural and genuine, balancing empathy with a clear resolution and avoiding formulaic filler. Versions 2 and 1 lean on customer-service clichés, while 3 feels too abrupt.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "O",
+    "3": "track2/A-int",
+    "4": "B5"
+  }
+}

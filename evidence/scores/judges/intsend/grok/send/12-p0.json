@@ -1,0 +1,11 @@
+{
+  "send": "none",
+  "reason": "Version 2 is the only draft that includes the added facts, but it credits the full drop from 14% to 9% to this project (“We did it”), which you said you would not claim. The others omit those facts and bio details, and version 3 also names the wrong speaker.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "track2/B5-int",
+    "3": "E",
+    "4": "track2/A-int"
+  },
+  "picked_arm": "none"
+}

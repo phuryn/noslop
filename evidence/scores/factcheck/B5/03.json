@@ -1,0 +1,16 @@
+{
+  "dropped": [
+    {
+      "item": "Bold feature labels/names ('Faster bank feed sync', 'Bulk invoice editing', 'PDF export') identifying each item",
+      "severity": "minor"
+    },
+    {
+      "item": "Explicit framing of the PDF item as a bug fix ('Fixed a bug where...'); it now reads as a before/after behavior change, though it still sits under 'Fixes'",
+      "severity": "minor"
+    }
+  ],
+  "changed": [],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

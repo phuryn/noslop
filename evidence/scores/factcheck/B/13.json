@@ -1,0 +1,29 @@
+{
+  "dropped": [
+    {
+      "item": "The characterization of mall traffic decline as 'structural' (original: 'Mall traffic is structurally declining'). The edit says only that traffic 'has been eroding', which loses the claim that the decline is long-term and systemic.",
+      "severity": "minor"
+    },
+    {
+      "item": "The explicit claim that 'The flagship and online are where our brand performs best'. The edit keeps the supporting detail but drops this summary assertion.",
+      "severity": "minor"
+    },
+    {
+      "item": "The explicit statement that the stores 'depend on foot traffic'. It is now only implied by the eroding-traffic sentence.",
+      "severity": "minor"
+    },
+    {
+      "item": "'Renewal decisions' as part of what starts 9 to 12 months out. The edit mentions only 'renewal talks with landlords'.",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "'Both offer stronger potential returns on incremental investment' became 'Both should return more on incremental investment'. The edit expresses a firmer expectation than the original's hedged 'potential returns'.",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 3,
+    "4": 1
+  },
+  "reason": "Version 2 keeps nearly every fact, feature and caveat but drops what Premium unlocks. Version 4 keeps the features but rewrites the legal subscription text (dropping 'billed monthly') and adds 'Why people use' framing, while 3 drops the consistency and 'know what to do right' claims and 1 also loses proper form and seeing how far you've come.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B2",
+    "3": "B",
+    "4": "C"
+  }
+}

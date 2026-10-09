@@ -1,0 +1,46 @@
+{
+  "dropped": [
+    {
+      "item": "Subject line no longer mentions 'replacement' (was 'battery replacement'), so it no longer signals the resolution",
+      "severity": "minor"
+    },
+    {
+      "item": "'Thank you for reaching out' opening acknowledgment",
+      "severity": "minor"
+    },
+    {
+      "item": "'That's not the experience we want you to have' – the company's stance on the failure",
+      "severity": "minor"
+    },
+    {
+      "item": "Closing thanks for patience and repeated apology for the inconvenience",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "'replacement battery' became 'new battery', which implicitly promises a brand-new unit rather than just a replacement",
+      "severity": "minor"
+    },
+    {
+      "item": "Commitment to email tracking moved from 'we' (the company) to 'I' (the individual agent)",
+      "severity": "minor"
+    },
+    {
+      "item": "Offer of help moved from 'we'll be glad to help' (team) to 'I'll help' (individual agent)",
+      "severity": "minor"
+    },
+    {
+      "item": "'the wait in getting back to you' became 'it took us so long', a stronger admission of delay",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "'still under its 2-year warranty' adds 'still', emphasizing that the bike is within the warranty window",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

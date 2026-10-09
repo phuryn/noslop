@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "Version 1 preserves the original facts and commitments most completely, while Version 2 is nearly as faithful but softens the 'real say' nuance. Version 3 adds only writer-supplied facts but omits or weakens several original points, such as being slammed on weekends, planning a life around the schedule, working closely with the chef, and having a 'real' say.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "track2/A-int",
+    "3": "track2/B3-int"
+  }
+}

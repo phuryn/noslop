@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 4,
+    "4": 5,
+    "5": 1,
+    "6": 6
+  },
+  "send": "5",
+  "tells": {
+    "1": "Step 3 only repeats its heading, and “some valuable insight” is empty filler.",
+    "2": "Even three-step template capped with stock “clear view” / “closer look” phrasing.",
+    "3": "Stiff “maps reach you” personification plus a tacked-on “and they help you” clause.",
+    "4": "Unnatural collocation: “build the images into crop health maps.”",
+    "5": "none",
+    "6": "“We count the 48 hours from the flight” over-explains a detail no reader asked about."
+  },
+  "reason": "Version 5 is the only draft that sounds like a person selling a service: specific, rhythmic, and benefit-led without inventing the offer. The rest are either drafty and repetitive or smoothed into the same stiff closer-look template.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "O",
+    "3": "B5",
+    "4": "B3",
+    "5": "C",
+    "6": "A"
+  }
+}

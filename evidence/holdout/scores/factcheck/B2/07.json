@@ -1,0 +1,22 @@
+{
+  "dropped": [
+    {
+      "item": "Thanks to the customer for her patience",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "The open invitation to 'let us know if you have any other questions' became a specific instruction to 'reply to this email' if anything else comes up",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "Replying to this email is named as the way to get in touch",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

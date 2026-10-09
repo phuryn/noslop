@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 3,
+    "3": 1,
+    "4": 2
+  },
+  "reason": "Version 3 preserves the original substance most exactly; version 4 follows closely but makes routine automation slightly more categorical. Version 2 adds narrower or stronger claims (living nearby rather than being close enough, actual harm rather than risk), while version 1 omits the secondary goals and non-goals, makes metrics optional, and changes the median-time endpoint from confirmed replacement to rescheduling, which can include escalation.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "C",
+    "3": "B3",
+    "4": "A"
+  }
+}

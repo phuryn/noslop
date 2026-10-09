@@ -1,0 +1,11 @@
+{
+  "send": "1",
+  "reason": "It keeps every fact, commitment, and caveat, including 'structurally declining', 'stronger potential returns', the six-month outreach, severance, pop-up/wholesale, and the Q1 2027 phased wind-down. Its tone also stays closest to the original. Version 3 drops 'structurally' and turns proposed mitigations into firm 'we will' commitments; version 4 overstates the returns and shifts the voice; version 2 loses many specifics.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "E",
+    "3": "track2/A-int",
+    "4": "C"
+  },
+  "picked_arm": "track2/B5-int"
+}

@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 4,
+    "4": 5,
+    "5": 6,
+    "6": 1
+  },
+  "send": "6",
+  "tells": {
+    "1": "Slight corporate framing in 'I want to be clear about where it comes from. It comes from...'",
+    "2": "none",
+    "3": "Use of 'every tonne of that 1,000' is slightly awkward, and the closing is a standard LinkedIn sign-off.",
+    "4": "Staccato one-line paragraphs and formal phrasing like 'small fraction' feel template-like.",
+    "5": "Overly effusive and adjective-heavy language ('really special', 'incredibly important', 'talented, patient and careful').",
+    "6": "none"
+  },
+  "reason": "Version 6 reads most like a skilled human because its phrasing is concrete and unforced ('most people never see it', 'small slice'), while lower-ranked versions become more formal, clipped, or over-enthusiastic. I would publish 6 because it credits the team clearly, stays warm, and avoids a generic corporate ending.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B3",
+    "3": "B5",
+    "4": "A",
+    "5": "E",
+    "6": "C"
+  }
+}

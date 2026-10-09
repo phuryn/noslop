@@ -1,0 +1,12 @@
+{
+  "dropped": [],
+  "changed": [
+    {
+      "item": "Original says the pilot is 'informing the decision on broader rollout.' The edit says 'We'll use the results to decide on broader rollout.' This is a slight shift toward the results being the basis of the decision rather than one input to it.",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

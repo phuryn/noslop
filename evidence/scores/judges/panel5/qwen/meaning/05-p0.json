@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 3,
+    "4": 1,
+    "5": 5
+  },
+  "reason": "Version 4 stays closest to the original wording and retains all facts, metrics, caveats, and non-goals; versions 2 and 3 are also faithful with only minor wording changes, version 1 is a complete but looser paraphrase, and version 5 omits key secondary goals and non-goals while broadening or strengthening some commitments.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B5",
+    "4": "B3",
+    "5": "E"
+  }
+}

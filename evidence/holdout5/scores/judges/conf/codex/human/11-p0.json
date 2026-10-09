@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 7,
+    "4": 1,
+    "5": 3,
+    "6": 6,
+    "7": 5
+  },
+  "send": "4",
+  "tells": {
+    "1": "The neatly arranged sensory details and familiar 'waiting for my life to start' ending make the transformation feel packaged.",
+    "2": "The parallel declarations about gratitude and money feel slightly engineered to underline the lesson.",
+    "3": "none",
+    "4": "The breath 'held all day' and life-starting conclusion are familiar emotional shortcuts, although the pacing helps.",
+    "5": "The uninterrupted progression from hardship to gratitude to revelation feels conspicuously smooth.",
+    "6": "The compressed ending, 'no longer waiting for my life to start,' turns a momentary feeling into an overly definitive resolution.",
+    "7": "The neatly arranged sensory details and familiar 'waiting for my life to start' ending make the transformation feel packaged."
+  },
+  "reason": "Version 4 has the strongest balance of natural rhythm, clarity and emotional restraint; version 3's roughness does not compensate for its confused chronology and run-on sentences. These are stylistic judgments, not evidence of AI authorship; versions 1 and 7 are identical, so their required separate ranks are arbitrary.",
+  "label_to_arm": {
+    "1": "V6C",
+    "2": "C",
+    "3": "E",
+    "4": "B5",
+    "5": "O",
+    "6": "A",
+    "7": "V6A"
+  }
+}

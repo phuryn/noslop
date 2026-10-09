@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 2,
+    "4": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Generic subject and the redundant 'longer battery life... run longer on each charge' make it feel templated.",
+    "3": "The 'Kestrel family' warmth and 'go further before plugging in' sound like generic AI marketing copy.",
+    "4": "The phrase 'there's no such thing as a silly question' is overly familiar and canned."
+  },
+  "reason": "Version 1 feels most like a careful human support email: specific subject, plain steps, and reassurance without forced cheer. Version 3 is clear and friendly, but its marketing clichés make it slightly less credible.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "C",
+    "4": "O"
+  }
+}

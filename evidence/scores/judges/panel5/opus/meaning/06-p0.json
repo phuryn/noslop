@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 5,
+    "5": 3
+  },
+  "reason": "V1 keeps every fact, commitment and section, dropping only the 'A little joy delivered' tagline that V2–V5 also drop. V2 and V5 change a heading and V5 merges the scenario options, V3 cuts the section headings and narrows 'the good part', and V4 replaces the tagline and adds new claims ('bake something new every month', beginner/expert framing).",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B5",
+    "3": "A",
+    "4": "E",
+    "5": "B3"
+  }
+}

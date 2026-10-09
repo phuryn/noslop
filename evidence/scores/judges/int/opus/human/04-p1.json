@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 3,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "Em dash aside ('before the first frost—a small job now…') combined with the colon punchline 'Then comes the hardest part: leaving them alone' gives it a slightly polished, templated rhythm",
+    "2": "none (slightly flattened phrasing: 'It's a small job now, and it gives us…' reads like an em dash split into two sentences)",
+    "3": "none (identical to version 2, with the same flattened sentence split)",
+    "4": "Mild colon-reveal setup ('Then comes the hardest part: leaving them alone'), though in a gardening newsletter it reads as an ordinary human joke"
+  },
+  "reason": "Version 4 keeps the warm, wry voice ('Then comes the hardest part', 'And a reminder') without the em dash flourish of version 1, so it reads most like a real allotment newsletter. Versions 2 and 3 are word-for-word identical and clean, but a little flatter, so their order relative to each other is arbitrary.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "track2/B3-int",
+    "3": "B3",
+    "4": "track2/A-int"
+  }
+}

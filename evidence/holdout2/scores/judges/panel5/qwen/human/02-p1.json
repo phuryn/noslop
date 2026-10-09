@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2,
+    "4": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "The 'work, keep in touch or relax' empathy list feels slightly templated.",
+    "2": "Redundant apologies and formal 'receive' give it a polished but generic customer-service sheen.",
+    "3": "Repeating 'nine hours' immediately after mentioning it feels mechanical.",
+    "4": "The missing thank-you or closing makes it feel abruptly trimmed rather than fully edited."
+  },
+  "reason": "Version 1 reads most like a careful human note because it is direct, specific, and apologetic without overdoing it. Version 2 is competent but more formulaic, while version 4 feels incomplete.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "O",
+    "3": "A",
+    "4": "B3"
+  }
+}

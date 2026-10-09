@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2
+  },
+  "send": "2",
+  "tells": {
+    "1": "Stiff “Check that” / “Once calibration finishes” cadence reads like a generated troubleshooting template.",
+    "2": "none",
+    "3": "Same mechanical “Once calibration finishes” closer as version 1; the curly apostrophe is polish, not a more human voice."
+  },
+  "reason": "Version 2’s “Make sure” and “When” sound like ordinary help-desk wording, while 1 and 3 share a slightly more templated check-then-once pattern. I’d publish 2 for equal clarity with a more natural human feel.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "O"
+  }
+}

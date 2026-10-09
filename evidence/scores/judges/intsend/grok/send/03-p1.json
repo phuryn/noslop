@@ -1,0 +1,11 @@
+{
+  "send": "2",
+  "reason": "Version 2 keeps the same facts and nearly the original wording: 15-minute sync instead of hourly, bulk invoice updates, and currency symbols that didn’t display correctly. The others add emphasis, change the voice, or misstate the PDF bug as symbols not showing up.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "track2/A-int",
+    "3": "track2/B5-int",
+    "4": "E"
+  },
+  "picked_arm": "track2/A-int"
+}

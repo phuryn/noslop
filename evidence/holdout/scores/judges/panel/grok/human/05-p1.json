@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3,
+    "4": 4
+  },
+  "send": "2",
+  "tells": {
+    "1": "Tidy decision-memo shape ending in a scripted “Reply yes to confirm, or tell me if…”",
+    "2": "The paired if/if close is a little symmetrically neat",
+    "3": "One packed block capped by the same stock confirm-or-switch line",
+    "4": "The “Options:” label before a two-item list"
+  },
+  "reason": "Version 2 reads like a colleague asking in plain speech, with a clear comparison and a soft confirm. The others share a decision-template cadence, and version 4’s “Options:” heading is the most mechanical.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "C",
+    "3": "A",
+    "4": "O"
+  }
+}

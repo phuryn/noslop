@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 1,
+    "4": 3
+  },
+  "send": "3",
+  "tells": {
+    "1": "The tea-and-last-crumb imagery feels like stock cozy-brand copy, though there is no strong tell.",
+    "2": "Generic emotional promises such as “moments ... that make life worth living” and “relax, recharge and enjoy” substitute for specific benefits.",
+    "3": "The familiar “stirring, baking, and sneaking a taste” trio is slightly formulaic; otherwise, no strong tell.",
+    "4": "Stacked fragments and symmetrical slogans—“A little measuring done. A little joy delivered” and “Less measuring. More making”—make the polish feel mechanical."
+  },
+  "reason": "Version 3 has the best balance of warmth, clear product information, and useful section headings. These rankings reflect editorial impressions, not reliable evidence of AI authorship; before publishing, I would clarify which ingredients customers must supply.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "gen/E-write",
+    "3": "B3",
+    "4": "O"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2,
+    "4": 4
+  },
+  "reason": "Version 1 most fully preserves the original's facts, numbers, commitments, and caveats with only minor wording changes. Version 3 is nearly as faithful but adds slight phrasing and softens a few details, while versions 2 and 4 lose more nuance, with 4 omitting the most benefit details.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "B3",
+    "3": "C",
+    "4": "A"
+  }
+}

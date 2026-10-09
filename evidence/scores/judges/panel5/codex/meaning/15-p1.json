@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 5,
+    "2": 3,
+    "3": 2,
+    "4": 1,
+    "5": 4
+  },
+  "reason": "Version 4 preserves nearly all meaning; version 3 omits Premium’s added benefits, while version 2 also narrows free access to free downloading and omits viewing accumulated progress. Version 5 introduces therapist-provided “routines” and stronger ease/precision claims; version 1 makes an absolute reminder promise, broadens free-use wording, changes subscription timing terms, and alters the medical caveat.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "A",
+    "3": "B3",
+    "4": "B5",
+    "5": "C"
+  }
+}

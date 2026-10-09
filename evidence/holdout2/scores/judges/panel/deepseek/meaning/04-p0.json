@@ -1,0 +1,11 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2
+  },
+  "reason": "Version 1 preserves the original's wording and nuance that Ashby Mill came to us with both the problem and the monitoring need, while Version 2 drops the 'came to us' framing. Both omit the closing praise clause, but Version 1 stays closer overall.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3"
+  }
+}

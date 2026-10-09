@@ -1,0 +1,11 @@
+{
+  "send": "1",
+  "reason": "It keeps every fact, the “small job now” payoff, the hardest-part caveat, and the full seed-swap invitation in the original voice. The others drop or reframe those points, add “this Saturday,” or shift the tone.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "C",
+    "3": "E",
+    "4": "track2/B5-int"
+  },
+  "picked_arm": "track2/A-int"
+}

@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 1,
+    "4": 3
+  },
+  "reason": "Version 3 preserves the original meaning most closely; version 2 strengthens the claim that customer visits were essential to the shop’s survival. Version 4 omits meaningful details about book selection and customers’ contribution, while version 1 adds unsupported selection motives, a personal favorite, a first-week timeframe, and more specific speculation about rereading and borrowing.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B5",
+    "3": "B3",
+    "4": "A"
+  }
+}

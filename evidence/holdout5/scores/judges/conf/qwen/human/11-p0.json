@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 5,
+    "3": 3,
+    "4": 4,
+    "5": 2,
+    "6": 6,
+    "7": 7
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "The reflective summary is overly smooth and explanatory, especially 'none of the money I'd made there had felt'.",
+    "3": "The phrase 'with a carrier bag of shopping and her cardigan pulled tight' is grammatically neat but slightly unnatural.",
+    "4": "The closing 'no longer waiting for my life to start' tidies the emotion into a slogan-like statement.",
+    "5": "The spatial setup 'on a doorstep off Bishopthorpe Road, in front of a terraced house' feels awkwardly assembled.",
+    "6": "It is verbatim the same as version 2, which makes it feel like a generated variant rather than a distinct authored draft.",
+    "7": "Run-on sentence structure, misplaced 'about four months now', and blunt telling make it feel unedited."
+  },
+  "reason": "Version 1 has the most natural rhythm, concrete detail, and an earned emotional turn without overexplaining. Versions 2 and 6 are verbatim identical, so I ranked the repeated draft slightly lower as less authored, while version 7 is clearly unpolished.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "V6C",
+    "3": "O",
+    "4": "A",
+    "5": "C",
+    "6": "V6A",
+    "7": "E"
+  }
+}

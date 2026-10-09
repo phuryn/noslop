@@ -1,0 +1,16 @@
+{
+  "dropped": [
+    {
+      "item": "'we're glad to have you along' (welcoming sentiment toward readers)",
+      "severity": "minor"
+    },
+    {
+      "item": "'catch your breath' (part of the sympathetic wish after a tough season)",
+      "severity": "minor"
+    }
+  ],
+  "changed": [],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

@@ -1,0 +1,30 @@
+{
+  "dropped": [
+    {
+      "item": "Tagline 'A little measuring done. A little joy delivered.' removed",
+      "severity": "minor"
+    },
+    {
+      "item": "Section heading 'Less measuring. More making.' replaced; the 'more making' framing is lost",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "'Skip weighing out the dry ingredients' became 'You don't have to weigh anything out.' This broadens the scope from dry ingredients to everything, which could imply no measuring at all (wet ingredients presumably still need measuring). The new heading 'We measure the dry ingredients' partly offsets this.",
+      "severity": "minor"
+    },
+    {
+      "item": "'Give yourself something to look forward to each month' (an invitation to the reader) became 'Every month, you get something to look forward to' (a statement about what the product delivers)",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "'so you can skip the scale' implies no scale is needed at all, while the original only says dry ingredients are pre-measured",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

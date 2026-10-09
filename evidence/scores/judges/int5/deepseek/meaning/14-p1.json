@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "Version 1 stays closest to the original with only a minor wording change. Version 2 is mostly faithful but adds an unsupported stronger claim; Version 3 uses allowed writer facts but drops more original sentiments like 'you came through the door' and 'Those visits helped us get here.'",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "B5",
+    "3": "track2/B5-int"
+  }
+}

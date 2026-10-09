@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 3,
+    "4": 1
+  },
+  "reason": "Version 4 is nearly verbatim. Version 2 only spells out what the original already implies ('the system handles routine reassignments'). Version 3 drops the 'typically' hedge, and Version 1 makes several small shifts: 'validate' becomes 'test whether realistic', it adds 'confirm targets then', it adds 'who lives close enough', and 'escalated' becomes 'passed'.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B",
+    "4": "B3"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2
+  },
+  "reason": "Version 1 keeps every fact, date, price, the rationale ('more options during the week'), and the 'questions about the change' scope; Version 3 keeps all facts but drops the more-options rationale and softens the community thanks. Version 2 adds content not in the original (classes 'starting soon', a membership 'renewal' framing), drops the rationale, and broadens 'any questions about the change' to 'any questions'.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "E",
+    "3": "A"
+  }
+}

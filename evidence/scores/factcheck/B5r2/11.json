@@ -1,0 +1,25 @@
+{
+  "dropped": [
+    {
+      "item": "\"a schedule you can plan a life around\": the explicit promise of a predictable, plannable schedule",
+      "severity": "minor"
+    },
+    {
+      "item": "\"actually\" in \"nights that actually end\": slight loss of emphasis on reliably finishing at night",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "\"running the kitchen when it counts\" became \"you'll run the kitchen when the chef's out\". The original's vaguer scope (critical moments) is narrowed to specifically when the chef is absent.",
+      "severity": "minor"
+    },
+    {
+      "item": "\"keep standards high without turning the kitchen into a pressure cooker\" moved from a listed duty of the sous chef to a general restaurant preference (\"We want standards high...\"), which weakens the sous chef's ownership of it.",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

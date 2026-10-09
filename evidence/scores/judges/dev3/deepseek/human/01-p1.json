@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 5,
+    "4": 4,
+    "5": 1
+  },
+  "send": "5",
+  "tells": {
+    "1": "The tidy three-part benefit list and the takeaway 'meeting patients where they already are' feel slightly AI-canned.",
+    "2": "The balanced three-outcome sentence ('fewer empty chairs and less phone time ... and more patients...') has an AI cadence.",
+    "3": "Wordy, formal reflection and corporate phrasing ('What I took from this is that sometimes...'; 'closing that gap matters for the practice and for the people we serve') sound AI-generated.",
+    "4": "The templated structure with 'Here's what that meant in practice:' and bullet points is a strong AI-formatting tell.",
+    "5": "Mild: the closing takeaway 'reaching people where they already are' is a common AI-style phrase, though the rest reads naturally."
+  },
+  "reason": "Version 5 reads most like a skilled human wrote it: it is specific, conversational, and ends with a natural question, without the polished templates or formal framing of the others.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "B5",
+    "4": "O",
+    "5": "C"
+  }
+}

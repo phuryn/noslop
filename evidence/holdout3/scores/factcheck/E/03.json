@@ -1,0 +1,52 @@
+{
+  "dropped": [
+    {
+      "item": "Benefit rationale: subscription means you can keep writing without a last-minute dash to restock",
+      "severity": "minor"
+    },
+    {
+      "item": "'and that's it' (signals no additional costs or commitments beyond £12/month)",
+      "severity": "minor"
+    },
+    {
+      "item": "Explicit framing of Refill Club as a 'subscription'",
+      "severity": "minor"
+    },
+    {
+      "item": "'join us from day one' framing of the sign-up call to action",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "Call to action reframed from joining Refill Club from day one to 'take up this offer' (the 20% discount)",
+      "severity": "minor"
+    },
+    {
+      "item": "P.S. shifted from 'Not sure it's for you?' (undecided reader) to 'If you are not interested' (uninterested reader)",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "Bottles are 'your favourite inks', which implies personalisation or choice of ink that the original never mentions",
+      "severity": "major"
+    },
+    {
+      "item": "'a brand new way to buy ink' and 'It's a simple idea'",
+      "severity": "minor"
+    },
+    {
+      "item": "'just £12' price framing",
+      "severity": "minor"
+    },
+    {
+      "item": "P.S. says upcoming emails will be about 'what we have been working on'",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [
+    "of your favourite inks"
+  ],
+  "meaning_preserved": 4
+}

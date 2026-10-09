@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 6,
+    "2": 1,
+    "3": 5,
+    "4": 2,
+    "5": 3,
+    "6": 4
+  },
+  "send": "2",
+  "tells": {
+    "1": "Formulaic scaffolding: bolded feature labels, a bolded 'When and how you'll get it' header, padded restatements ('longer battery life… go further between charges') and the stock 'there's no such thing as a silly question' reassurance.",
+    "2": "none",
+    "3": "Bulleted 'Label: explanation' list with a colon-led feature name, plus the stock 'no question is too small' closer.",
+    "4": "Announces 'It adds two things.' then gives the second 'thing' its own one-line paragraph, a slightly mechanical enumeration.",
+    "5": "Bolded feature-label template and section header with cozy filler ('so you can go further before plugging in', 'No question is too small').",
+    "6": "Tautology: 'longer battery life, so they run longer on each charge', plus 'adds two improvements' signposting."
+  },
+  "reason": "Version 2 puts the key facts (free, firmware 3.4, October 20) in the subject and first line, and explains both features without padding or template headers. It is the clearest, most credible message for older hearing-aid users and reads like a confident human editor wrote it.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B",
+    "3": "B2",
+    "4": "B3",
+    "5": "C",
+    "6": "A"
+  }
+}

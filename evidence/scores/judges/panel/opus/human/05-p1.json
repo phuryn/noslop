@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 5,
+    "4": 3,
+    "5": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "The bulleted impacts all follow the same bolded-label-then-explanation template, and 'The effects add up:' is a stock setup line, though the conversational phrasing ('who the client will actually accept') softens it.",
+    "2": "None. The typos ('caregeivers', 'there is a number of'), the broken table, the dangling unfinished sections and the rambling phrasing all point to a human first draft.",
+    "3": "The generic setup 'The consequences are significant:' leads into perfectly parallel bold-lead bullets, and it closes on the participial tail ', informing the decision on broader rollout.'",
+    "4": "The announced count 'This causes four problems:' is followed by four rigidly uniform 'Label. Explanation.' bullets, with fully symmetric subheadings throughout.",
+    "5": "The punchy colon setup 'What this costs:' introduces templated bold-lead bullets, the same polished skeleton as versions 3 and 4."
+  },
+  "reason": "Version 2 is plainly human but unfinished and sloppy. Versions 3–5 are near-identical polished rewrites. Version 1 keeps the clean structure with more natural, conversational wording ('who's on shift', 'chase for updates'), so it reads most like a skilled PM and is the one I'd send.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "E",
+    "3": "O",
+    "4": "A",
+    "5": "B3"
+  }
+}

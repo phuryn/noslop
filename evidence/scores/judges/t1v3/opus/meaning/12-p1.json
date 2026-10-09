@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 3,
+    "4": 2
+  },
+  "reason": "V1 keeps the hedges ('might otherwise have gone unnoticed', 'helped bring down') and the bio's role; V4 drops 'help' and the 'might otherwise' caveat but adds nothing. V3 also overstates causation and adds a leadership claim ('helped lead the effort'), and V2 is least faithful because it adds an industry-wide claim, the stronger 'leaks nobody knew about', and a new commitment to share 'what didn't' work.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "C",
+    "3": "A",
+    "4": "B"
+  }
+}

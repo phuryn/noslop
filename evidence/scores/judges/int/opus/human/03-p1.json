@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 3,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "Bolded-style 'Label: explanation' pattern on every bullet, even without the bold formatting",
+    "2": "Heavy formatting: bold title, italic date, and a bold inline label on every bullet",
+    "3": "Bold inline-header bullets ('**Faster bank feed sync:**') applied uniformly to a three-item list",
+    "4": "none"
+  },
+  "reason": "Version 4 reads like a person writing a short changelog: plain headers, direct sentences and the conventional 'Fixed a bug where…' phrasing, without the bold-label-colon scaffolding. With only three items, the labels add structure without making the notes easier to scan.",
+  "label_to_arm": {
+    "1": "track2/B3-int",
+    "2": "O",
+    "3": "B3",
+    "4": "track2/A-int"
+  }
+}

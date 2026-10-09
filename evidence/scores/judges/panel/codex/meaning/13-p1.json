@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 3,
+    "3": 2,
+    "4": 1
+  },
+  "reason": "Version 4 preserves the original most closely; version 3 makes proposed mitigations more definite with “we will” and drops the explicit targeting of outreach. Version 2 strengthens potential returns into expected outperformance, while version 1 omits several concrete safeguards and commitments and replaces landlord notice deadlines with deciding before landlords make contact.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "C",
+    "3": "A",
+    "4": "B3"
+  }
+}

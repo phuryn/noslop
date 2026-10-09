@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2
+  },
+  "reason": "Version 2 keeps almost every claim, including early detection, the baseline over time, age 7 and $129; it only drops the 'practical way to get a fuller picture' line and slightly strengthens 'help spot' to 'catch.' Version 3 also keeps the core claims but drops 'noticeable' and the 'more than vaccines' framing, while Version 1 loses the before-symptoms and baseline points entirely and adds 'highly beneficial' and 'many other markers.'",
+  "label_to_arm": {
+    "1": "E",
+    "2": "B3",
+    "3": "A"
+  }
+}

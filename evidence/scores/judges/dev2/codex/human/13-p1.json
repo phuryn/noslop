@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 4,
+    "4": 1,
+    "5": 5
+  },
+  "send": "4",
+  "tells": {
+    "1": "The repeated risk-label-plus-'Mitigation:' construction feels mechanically filled in.",
+    "2": "Smoother sentences still sit inside a conspicuously uniform template, especially the repeated 'Mitigation:' entries.",
+    "3": "The systematic switch to 'We will' sounds like a mechanical active-voice edit and implies approval before leadership has decided.",
+    "4": "Residual corporate abstractions such as 'full brand experience' and 'clear performance thresholds' sound generic without supporting specifics.",
+    "5": "Conversational substitutions feel overworked: 'let it slide,' 'walk away cleanly,' and 'make the final call' sacrifice precision without adding insight."
+  },
+  "reason": "Version 4 best balances personal ownership, professional tone, and conditional language appropriate to a proposal. These are stylistic judgments, not reliable evidence of authorship; all five still need financial support and a firmer decision timeline.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B3",
+    "3": "A",
+    "4": "B5",
+    "5": "C"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2,
+    "4": 4
+  },
+  "send": "2",
+  "tells": {
+    "1": "Stiff status-template diction: \"The remaining piece is\" and a redundant \"target date.\"",
+    "2": "none",
+    "3": "Light paraphrase that swaps the team's \"biometric flow\" for generic \"biometric login.\"",
+    "4": "Stock \"with only ... left\" packaging, with \"only\" adding a bit of soft spin."
+  },
+  "reason": "Version 2 reads like a person posting a standup note: exact term, conversational \"what's left,\" and no padded date. Version 4 is the most machine-shaped, and version 1 is a little memo-stiff.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "track2/B5-int",
+    "3": "B5",
+    "4": "track2/A-int"
+  }
+}

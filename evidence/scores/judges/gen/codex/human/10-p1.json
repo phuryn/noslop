@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 1,
+    "4": 3
+  },
+  "send": "3",
+  "tells": {
+    "1": "none",
+    "2": "The stock closing about continued support is formulaic, though not evidence of AI authorship.",
+    "3": "none",
+    "4": "The generic community thank-you and padded phrasing feel slightly templated, though neither reliably indicates AI."
+  },
+  "reason": "Version 3 is direct, natural, and explicit about when existing members move to $135; version 1 is a close second. Version 4 is slightly more padded and assumes every recipient is a current member, while version 2 has an unclear opening reference and ambiguous wording about the March 1 cutoff.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "gen/E-write",
+    "3": "A",
+    "4": "O"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "send": "4",
+  "reason": "It keeps every fact and commitment (order number, missed 3 October date, new Saturday 24 October date, £45 refund in progress) and stays close to my tone. Version 1 adds an admission of fault and says the refund is already done, version 2 drops the thank-you, and version 3 changes the voice and frames the refund as a goodwill apology.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "E",
+    "4": "B5"
+  },
+  "picked_arm": "B5"
+}

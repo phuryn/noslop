@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 4,
+    "4": 1
+  },
+  "reason": "Version 4 stays closest to the original wording and preserves key nuances exactly; version 2 drops small caveats like 'much' and 'found myself,' version 1 paraphrases and adds or shifts meaning slightly, and version 3 omits or alters several important details.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "E",
+    "4": "B3"
+  }
+}

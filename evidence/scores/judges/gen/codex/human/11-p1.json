@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 2,
+    "4": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "The oddly specific 'third plate of the night' feels like a manufactured detail meant to convey authenticity.",
+    "2": "none",
+    "3": "The polished trio 'real days off, nights that actually end, and a schedule you can plan a life around' oversells what the stated opening hours establish.",
+    "4": "Stock phrases such as 'when it counts' and 'a real say' accumulate into a generic recruitment voice beneath the conversational surface."
+  },
+  "reason": "Version 1 best balances a distinct voice, concrete responsibilities, and readable prose, though its scheduling promises still need verification. Version 2 sounds plausibly human but is repetitive and less skillfully edited; these rankings assess the writing, not actual authorship.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "gen/E-write",
+    "3": "B3",
+    "4": "O"
+  }
+}

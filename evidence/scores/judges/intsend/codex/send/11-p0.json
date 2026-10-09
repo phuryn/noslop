@@ -1,0 +1,11 @@
+{
+  "send": "1",
+  "reason": "It keeps my voice and incorporates the concrete details I supplied, including the four-day week, employee health coverage, and the demands of Friday service. It also avoids promising a closing time or overstating the sous chef’s say in decisions.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "track2/A-int",
+    "3": "E",
+    "4": "C"
+  },
+  "picked_arm": "track2/B5-int"
+}

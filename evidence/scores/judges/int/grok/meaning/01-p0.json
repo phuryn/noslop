@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "Version 1 keeps the original numbers, outcomes, and lesson with only small wording shifts and no unsupported additions. Version 2 drops that more patients got timely care and softens the lesson, while version 3 drops the original rationale and lesson and recasts the cause and result, even though its new details come from the writer's answers.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "track2/A-int",
+    "3": "track2/B3-int"
+  }
+}

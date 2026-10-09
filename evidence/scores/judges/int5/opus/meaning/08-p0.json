@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1
+  },
+  "reason": "Version 3 keeps every claim, the hedges, and the $129 framing intact. Version 1 draws its new facts from the writer's answers (1 in 5, the unnamed beagle, softening the age 7 cutoff) but drops the 'more than vaccines' framing and the 'fuller picture' point; Version 2 ranks last because it asserts the panel 'can be added to the yearly checkup,' which the writer said they didn't know, and weakens 'can help spot' to 'can show.'",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "track2/A-int",
+    "3": "B5"
+  }
+}

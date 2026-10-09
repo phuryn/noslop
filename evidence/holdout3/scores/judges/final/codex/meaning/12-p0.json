@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 1,
+    "4": 5,
+    "5": 4
+  },
+  "reason": "Version 3 preserves the original most closely, followed by 2 with a slight shift from welcoming help to needing it; version 1 omits only the repeated invitation to help plant. Version 5 strengthens the appeal and adds a benefit-oriented framing, while version 4 strengthens the need for help and drops the invitation to meet neighbours.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "B5",
+    "4": "E",
+    "5": "C"
+  }
+}

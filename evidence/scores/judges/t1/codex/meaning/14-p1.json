@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 1
+  },
+  "reason": "Version 3 preserves the original’s substantive meaning most closely. Version 2 drops the book-level selection constraint and explicit acknowledgment that visits helped the shop grow, while Version 1 adds unsupported selection motives, stronger causal claims, a personal favorite, and more specific speculation about the books’ histories.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B"
+  }
+}

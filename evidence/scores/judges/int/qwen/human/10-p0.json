@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2,
+    "4": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "The phrase 'when the new rate starts for you' sounds stiff and slightly mechanical.",
+    "3": "Its polished corporate cadence and overexplicit phrasing ('will take effect for you') feel templated.",
+    "4": "The line 'the $135 rate applies to you too' is awkward and unnatural in this context."
+  },
+  "reason": "Version 1 is concise, warm, and clear enough, with the least corporate stiffness. Version 3 is polished but more templated, while Versions 2 and 4 have small unnatural phrases.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "track2/A-int",
+    "3": "O",
+    "4": "track2/B3-int"
+  }
+}

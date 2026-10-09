@@ -1,0 +1,11 @@
+{
+  "send": "4",
+  "reason": "It sounds like us and uses the details I supplied—Mr. Okafor, Middlemarch, and the fundraiser—without inventing anecdotes. It keeps the uncertainty about where those early books are now and adds no unconfirmed party details or instructions for submitting memories.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "track2/A-int",
+    "3": "C",
+    "4": "track2/B5-int"
+  },
+  "picked_arm": "track2/B5-int"
+}

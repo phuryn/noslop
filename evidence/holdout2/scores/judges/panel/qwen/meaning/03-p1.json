@@ -1,0 +1,11 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1
+  },
+  "reason": "Version 2 preserves slightly more of the original detail, including that the engine cutaway display is added 'to the booth' and refers to the 'engine cutaway display specs.' Version 1 is very close but omits those small details, making Version 2 the more faithful.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A"
+  }
+}

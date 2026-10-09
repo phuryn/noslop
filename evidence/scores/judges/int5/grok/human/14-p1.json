@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Too-perfect invented color the others don't share: Middlemarch as the first sale, Mr. Okafor in every week for a decade, and an exact $38,000 GoFundMe.",
+    "3": "Marketing-template cadence: “every shelf, every table, every book,” the em-dash pivot, and “One of the lovely things…”",
+    "4": "The same stock tricolon (“Every shelf, every table, every book had to earn its place”) plus the generic “Those visits helped us get here.”"
+  },
+  "reason": "Version 1 sounds like a bookseller: warm, a little uneven, and free of fake lore. Versions 3 and 4 share a polished template, and version 2’s cinematic anecdotes would be a credibility risk to publish.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "track2/B5-int",
+    "3": "O",
+    "4": "track2/A-int"
+  }
+}

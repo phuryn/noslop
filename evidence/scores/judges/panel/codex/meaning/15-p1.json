@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2,
+    "4": 4
+  },
+  "reason": "Version 1 preserves nearly all substantive details; version 3 omits Premium’s added benefits, while version 2 narrows free-to-start to free download and omits consistency and progress-review benefits. Version 4 adds a never-miss guarantee, broadens free use, changes renewal terms while dropping the explicit cancellation deadline, and alters the medical caveat.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B3",
+    "4": "E"
+  }
+}

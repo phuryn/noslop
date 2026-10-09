@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 2,
+    "4": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "Mild salesy padding in 'so you'll be among the first to taste it', but otherwise natural.",
+    "2": "Emoji-bulleted 'Here's what's on:' list with bolded-style labels, plus an emoji logistics block that repeats the date and time already given.",
+    "3": "none",
+    "4": "Filler like 'celebrating apples', 'which means you'll be among the very first' and 'We'd love to see you there'."
+  },
+  "reason": "Version 1 reads like a real farm post. It is tight and specific, leads with the key details, and ends on a warm sign-off without the emoji-template structure of 2 or the padding of 4. Version 3 is just as clean but a bit flat for an invitation.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "O",
+    "3": "A",
+    "4": "B5"
+  }
+}

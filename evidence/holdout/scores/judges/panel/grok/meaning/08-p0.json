@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "Version 1 keeps the founding facts, the 400-piano figure, and the claim that every piano has a history and a future worth caring for, with losses limited to softening “privilege” and recasting “find their voice” / “bring music into homes.” Version 2 keeps the restoration commitment more fully but reframes founder as “run,” blurs the Asheville start, and adds “back.” Version 3 replaces the future-worth-caring-for idea with a new “most have years left” claim and drops the privilege, music, and “years to come” commitments.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "C",
+    "3": "A"
+  }
+}

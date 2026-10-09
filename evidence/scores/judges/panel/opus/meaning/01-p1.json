@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 1,
+    "3": 2,
+    "4": 3
+  },
+  "reason": "Version 2 keeps every point (lesson, both-sides benefit, question), though it adds 'showed up quickly' and 'for a month' and turns 'sometimes' into 'a lot of'. Version 3 drops the closing question and the both-sides line and turns the general lesson into a single claim. Version 4 drops the lesson and the both-sides line and hardens 'hit or miss' and 'worth testing'. Version 1 also drops the lesson and the both-sides line, plus the front-desk hours, 'when they need it' and 'empty chairs', and hardens the call to action.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "C",
+    "3": "B3",
+    "4": "A"
+  }
+}

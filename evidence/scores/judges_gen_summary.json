@@ -1,0 +1,141 @@
+{
+  "human/codex": {
+    "texts": 16,
+    "verdicts": 32,
+    "mean_rank": {
+      "A": 1.59,
+      "B3": 1.66,
+      "O": 2.94,
+      "gen/E-write": 3.81
+    },
+    "pairwise": {
+      "gen/E-write>O": {
+        "win": 2,
+        "tie": 2,
+        "loss": 12,
+        "p": 0.013
+      },
+      "gen/E-write>B3": {
+        "win": 0,
+        "tie": 0,
+        "loss": 16,
+        "p": 0.0
+      },
+      "gen/E-write>A": {
+        "win": 0,
+        "tie": 0,
+        "loss": 16,
+        "p": 0.0
+      },
+      "B3>O": {
+        "win": 14,
+        "tie": 0,
+        "loss": 2,
+        "p": 0.004
+      },
+      "A>O": {
+        "win": 14,
+        "tie": 0,
+        "loss": 2,
+        "p": 0.004
+      },
+      "B3>A": {
+        "win": 6,
+        "tie": 2,
+        "loss": 8,
+        "p": 0.791
+      }
+    },
+    "send_picks": {
+      "A": 14,
+      "B3": 16,
+      "O": 2
+    }
+  },
+  "human/opus": {
+    "texts": 16,
+    "verdicts": 32,
+    "mean_rank": {
+      "A": 1.97,
+      "B3": 2.16,
+      "O": 3.59,
+      "gen/E-write": 2.28
+    },
+    "pairwise": {
+      "gen/E-write>O": {
+        "win": 10,
+        "tie": 3,
+        "loss": 3,
+        "p": 0.092
+      },
+      "gen/E-write>B3": {
+        "win": 7,
+        "tie": 2,
+        "loss": 7,
+        "p": 1.0
+      },
+      "gen/E-write>A": {
+        "win": 7,
+        "tie": 1,
+        "loss": 8,
+        "p": 1.0
+      },
+      "B3>O": {
+        "win": 14,
+        "tie": 1,
+        "loss": 1,
+        "p": 0.001
+      },
+      "A>O": {
+        "win": 16,
+        "tie": 0,
+        "loss": 0,
+        "p": 0.0
+      },
+      "B3>A": {
+        "win": 5,
+        "tie": 5,
+        "loss": 6,
+        "p": 1.0
+      }
+    },
+    "send_picks": {
+      "A": 17,
+      "B3": 15
+    }
+  },
+  "human/both": {
+    "pairwise": {
+      "gen/E-write>O": {
+        "win": 12,
+        "tie": 5,
+        "loss": 15
+      },
+      "gen/E-write>B3": {
+        "win": 7,
+        "tie": 2,
+        "loss": 23
+      },
+      "gen/E-write>A": {
+        "win": 7,
+        "tie": 1,
+        "loss": 24
+      },
+      "B3>O": {
+        "win": 28,
+        "tie": 1,
+        "loss": 3
+      },
+      "A>O": {
+        "win": 30,
+        "tie": 0,
+        "loss": 2
+      },
+      "B3>A": {
+        "win": 11,
+        "tie": 7,
+        "loss": 14
+      }
+    }
+  }
+}

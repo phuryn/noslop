@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 5,
+    "3": 2,
+    "4": 4,
+    "5": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Vague, repetitive summary and clichés such as with a bang or with a whimper.",
+    "3": "Generalized, balanced reflection with few concrete distinctive details.",
+    "4": "Smooth but formulaic phrasing and abstract summary rather than lived specificity.",
+    "5": "Over-clean parallelism and generic introspection; teach again feels slightly unnatural."
+  },
+  "reason": "Version 1 feels most lived-in because of concrete classroom details, mixed emotions, and a slightly imperfect voice. The others are clearer in places but drift toward generic, polished AI-style summary.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "E",
+    "3": "C",
+    "4": "O",
+    "5": "track2/A-int"
+  }
+}

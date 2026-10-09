@@ -1,0 +1,13 @@
+{
+  "send": "4",
+  "reason": "It keeps every fact: 5,000 units a month, free samples, and a call next week. It also stays closest to my original wording and tone, changing only a couple of words. The others either add things I didn't say (version 3's 'beautiful' and 'Hi there', version 5's 'see how they hold up') or reword the email more than needed.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "V6A",
+    "3": "E",
+    "4": "A",
+    "5": "C",
+    "6": "V6C"
+  },
+  "picked_arm": "A"
+}

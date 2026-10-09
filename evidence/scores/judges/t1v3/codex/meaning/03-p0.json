@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+  },
+  "reason": "Version 1 preserves all substantive content; version 2 is nearly equivalent but slightly broadens the specific PDF bug fix into a general correctness claim. Version 3 also omits the explicit benefit of sooner transactions, while version 4 adds the stronger claim “much sooner” and an unsupported detail about opening invoices individually.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "B",
+    "4": "C"
+  }
+}

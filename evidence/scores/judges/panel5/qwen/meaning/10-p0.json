@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 3,
+    "4": 1,
+    "5": 5
+  },
+  "reason": "Version 4 keeps all key facts, dates, prices, member commitments, and class details most directly. Version 5 is least faithful because it adds the idea that classes are starting soon and that the member's membership will renew at the new rate.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "C",
+    "3": "A",
+    "4": "B5",
+    "5": "E"
+  }
+}

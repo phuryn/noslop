@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 4,
+    "4": 1
+  },
+  "send": "2",
+  "tells": {
+    "1": "The stock phrase 'I found myself' slightly distances the narrator from the action.",
+    "2": "none",
+    "3": "Repeated sentence splitting makes the rhythm feel mechanically simplified.",
+    "4": "none"
+  },
+  "reason": "Version 4 feels most individual through its particular memories and uncomfortable admissions, though its transitions are abrupt. I would publish version 2 for its controlled rhythm, coherent focus, and understated ending; these stylistic judgments cannot establish authorship.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "track2/A-int",
+    "3": "B5",
+    "4": "track2/B5-int"
+  }
+}

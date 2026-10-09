@@ -1,0 +1,25 @@
+{
+  "dropped": [
+    {
+      "item": "The explanation of the problem Crowd Focus solves: noisy places like restaurants, gatherings, and shops 'can make it hard to follow a conversation'",
+      "severity": "minor"
+    },
+    {
+      "item": "'So you can go further between charges' (largely restates the longer battery life point)",
+      "severity": "minor"
+    },
+    {
+      "item": "Support team described as 'happy to' help, a warmth nuance",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "Crowd Focus scope: the original names restaurants, gatherings, and shops as examples of hard settings and describes the feature in general terms. The edit says 'in restaurants, at family gatherings, and in busy shops, it helps…', which slightly ties the feature to those settings.",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

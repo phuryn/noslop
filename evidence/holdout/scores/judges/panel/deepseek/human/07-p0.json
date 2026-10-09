@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 1,
+    "4": 3
+  },
+  "send": "3",
+  "tells": {
+    "1": "none",
+    "2": "Overly brief and missing a closing/next-step line, making it feel cut off.",
+    "3": "none",
+    "4": "Passive, formal phrasing like 'has now been fixed' and 'is being processed' feels template-like."
+  },
+  "reason": "Version 3 sounds the most natural and human, with a warm but clear apology and an easy follow-up offer; it balances empathy and clarity without sounding stiff.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "C",
+    "4": "O"
+  }
+}

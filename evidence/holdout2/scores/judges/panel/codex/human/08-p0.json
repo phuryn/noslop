@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 1
+  },
+  "send": "3",
+  "tells": {
+    "1": "“But here we are” feels like a stock conversational tag, though it is not a reliable AI tell.",
+    "2": "“But here we are” feels like a stock conversational tag, though it is not a reliable AI tell.",
+    "3": "none"
+  },
+  "reason": "Version 3 lets the understated owl joke land without an extra conversational flourish. Versions 1 and 2 are textually identical apart from apostrophe typography; 2 takes the forced tie-break for publication polish, not stronger evidence of human authorship.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "O",
+    "3": "B3"
+  }
+}

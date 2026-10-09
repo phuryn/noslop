@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "Version 1 keeps the original's hedged “helped” non-revenue-water claim, unnoticed-leak point, talk framing, and bio without adding unsupported facts. Version 2 stays mostly faithful but drops that hedge and nuance, while version 3 hardens the drop the writer asked to keep soft and omits the bio's core claim that the speaker helped do the work.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "track2/A-int",
+    "3": "track2/B3-int"
+  }
+}

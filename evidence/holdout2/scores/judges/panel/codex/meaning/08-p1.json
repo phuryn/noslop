@@ -1,0 +1,11 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1
+  },
+  "reason": "Version 2 preserves all of the original wording and meaning apart from apostrophe typography. Version 1 removes “but here we are,” losing a small nuance of amused acceptance while preserving the facts and numbers.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 2,
+    "4": 5,
+    "5": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Every bullet starts with a bolded label and colon, a templated AI format",
+    "3": "Forced casual tone, like the rhetorical question 'Need to change a bunch of invoices?' and 'That's fixed.'",
+    "4": "none (its problems look human: a misused apostrophe in 'PDF's', a header repeated as a question, an exclamation mark, and lost list structure)",
+    "5": "Uniform bold-label-plus-colon bullets, though the wording is tighter than version 2"
+  },
+  "reason": "Version 1 is plain, accurate and scannable, with no decorative formatting or forced voice, which is what good release notes need. Versions 2 and 5 are clean but templated, version 3 tries too hard to sound casual, and version 4 is sloppy and less scannable.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "O",
+    "3": "C",
+    "4": "E",
+    "5": "B3"
+  }
+}

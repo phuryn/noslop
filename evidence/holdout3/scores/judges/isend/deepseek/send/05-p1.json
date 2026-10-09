@@ -1,0 +1,11 @@
+{
+  "send": "4",
+  "reason": "It best preserves the original meaning, key details, and warm tone while keeping the volunteer request clear and natural.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "E",
+    "3": "A",
+    "4": "C"
+  },
+  "picked_arm": "C"
+}

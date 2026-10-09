@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 2,
+    "3": 4,
+    "4": 1,
+    "5": 3
+  },
+  "send": "4",
+  "tells": {
+    "1": "Every rationale and risk item opens with a bolded summary phrase (e.g., 'Mall traffic is structurally declining.', 'Flexibility.'), the stock AI list template, along with stock phrasing like 'structurally declining' and 'natural exit'",
+    "2": "Section headers are slightly over-casual ('Why I think this is right', 'What could go wrong, and what we'd do about it'), which reads as deliberately humanized; otherwise none",
+    "3": "Inconsistent risk-item punctuation (colon in some, period in others) from incomplete editing, with 'structurally'-style phrasing partly retained ('spread management attention and cash thin')",
+    "4": "none",
+    "5": "Markdown ## headers and unbolded memo header lines make a leadership memo look like a generated document"
+  },
+  "reason": "Version 4 is the tightest. It has consistent parallel structure, active mitigations and next steps, and no bolded-lead-in template or markdown scaffolding, so it reads like a competent operator wrote it. Version 2 sounds the most personal but is a bit too chatty for a leadership decision memo.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "C",
+    "3": "B2",
+    "4": "B",
+    "5": "A"
+  }
+}

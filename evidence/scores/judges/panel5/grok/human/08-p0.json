@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 5,
+    "3": 1,
+    "4": 6,
+    "5": 4,
+    "6": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Stacked sales closer: 'practical way to get a fuller picture' and 'more out of the checkup'",
+    "3": "Soft-sell tag, 'a simple way to get the full picture'",
+    "4": "Em-dash gloss plus 'fuller picture' and 'make the most of their yearly checkup'",
+    "5": "none",
+    "6": "Flat, compressed summary voice ('before symptoms appear,' 'costs $129')"
+  },
+  "reason": "Version 3 has the most natural pet-owner voice, but version 1 is the one I'd publish: it's precise, credible, and stops at the price instead of upselling. Versions 2 and 4 give themselves away with polished value-add closers.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "B5",
+    "3": "C",
+    "4": "O",
+    "5": "E",
+    "6": "A"
+  }
+}

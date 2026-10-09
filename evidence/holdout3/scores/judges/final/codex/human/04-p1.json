@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 5,
+    "3": 4,
+    "4": 1,
+    "5": 6,
+    "6": 3
+  },
+  "send": "4",
+  "tells": {
+    "1": "The stacked conversational touches—“We can't wait to see it,” “Maybe you,” “Either way”—feel slightly engineered for informality.",
+    "2": "Stock warmth: “heartfelt thank you,” “a welcome addition to the team” and “a reminder of what your support makes possible.”",
+    "3": "The seasonal opening and “glad to have it joining the team” add somewhat formulaic warmth.",
+    "4": "none",
+    "5": "none",
+    "6": "“As autumn settles over the hills” feels like a decorative stock opening, awkwardly attached to the direct thank-you."
+  },
+  "reason": "Version 4 is clear, credible and welcoming, with the restraint of a skilled newsletter editor; version 1 has more personality but occasionally sounds rehearsed. These are stylistic judgments, not reliable evidence of AI authorship: version 5 feels plausibly human but is the least polished.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "O",
+    "3": "B5",
+    "4": "A",
+    "5": "E",
+    "6": "B3"
+  }
+}

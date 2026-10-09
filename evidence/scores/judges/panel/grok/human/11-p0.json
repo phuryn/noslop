@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 3,
+    "4": 2,
+    "5": 5
+  },
+  "send": "4",
+  "tells": {
+    "1": "none",
+    "2": "Stacked lifestyle triad: 'real days off, nights that actually end, and a schedule you can plan a life around.'",
+    "3": "Conversational tic 'honestly' plus an over-explained salt image and 'decent hour' oversell.",
+    "4": "Too-neat antithesis ('pressure cooker') and tagline closer ('your kind of kitchen') in unbroken ad cadence.",
+    "5": "Generic 'What you'll do / What we're after' headers on cloned, slightly broken-parallel prose."
+  },
+  "reason": "Only version 1 sounds like someone typing between services; the rest share the same polished metaphors. I'd still publish 4, which keeps the slammed-weekend voice and the real claims without the all-caps mess or the heavier lifestyle padding.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "B3",
+    "3": "C",
+    "4": "A",
+    "5": "O"
+  }
+}

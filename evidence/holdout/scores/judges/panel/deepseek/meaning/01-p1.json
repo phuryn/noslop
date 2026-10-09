@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1
+  },
+  "reason": "Version 3 preserves the core ownership/credit to crews and members and keeps the apprenticeship details exact. Version 1 retains ownership but slightly shifts 'paid training' to 'paid spots'; Version 2 loses the 'belongs to members' nuance.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B3"
+  }
+}

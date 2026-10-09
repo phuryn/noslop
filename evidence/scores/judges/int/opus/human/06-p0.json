@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 1,
+    "4": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "Paired parallel fragments ('A little measuring done. A little joy delivered.' / 'Less measuring. More making.') that sound like a formulaic tagline",
+    "2": "none",
+    "3": "none stylistically, but the named testimonial (Rosa Delgado, sold out in an hour) appears in no other version and may be invented proof",
+    "4": "Generic closer 'Give yourself something to look forward to each month' tacked onto an otherwise concrete section"
+  },
+  "reason": "Version 3 reads most human because of its concrete anecdote, but I wouldn't publish an unverified named testimonial. Version 2 is the tightest and cleanest of the rest, with no slogan-style fragments or filler.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "track2/A-int",
+    "3": "track2/B3-int",
+    "4": "B3"
+  }
+}

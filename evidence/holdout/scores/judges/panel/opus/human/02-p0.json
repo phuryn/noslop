@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 1,
+    "4": 4
+  },
+  "send": "3",
+  "tells": {
+    "1": "Slightly templated closer ('I'm happy to share more if you're interested') and a soft 'so I wondered' segue that reads formulaic",
+    "2": "Stock recruiter phrasing ('might be a good fit', 'share more details if it sounds interesting')",
+    "3": "none",
+    "4": "Curly typographic apostrophes and the stilted 'if it sounds of interest'"
+  },
+  "reason": "Version 3 is the tightest. It gives the role, ship, start date, pay and rota with no filler, and its 'I can share more then' close sounds like a real person rather than a template. Version 4's odd phrasing and Version 1's near-identical template wording make them feel the most machine-polished.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "B3",
+    "4": "O"
+  }
+}

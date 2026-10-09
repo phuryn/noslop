@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1
+  },
+  "send": "1",
+  "tells": {
+    "1": "The polished 'Every shelf, every table, every book' triad feels formulaic, though it isn't evidence of AI authorship.",
+    "2": "The same rhetorical triad stands out; post 5 also feels flattened into a generic observation.",
+    "3": "none"
+  },
+  "reason": "Version 3 reads most human: concise, specific, and grounded in a customer relationship, but its unique factual anecdote needs verification before publication. I would send version 1 because it retains warmth and gives the reflection in post 5 a clearer purpose than version 2 does.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "track2/A-int",
+    "3": "track2/B2-int"
+  }
+}

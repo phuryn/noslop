@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 5,
+    "4": 4,
+    "5": 6,
+    "6": 2
+  },
+  "send": "2",
+  "tells": {
+    "1": "The tacked-on 'Before, they didn't' restates what the previous sentence already said.",
+    "2": "none",
+    "3": "Rigid bold-label template with perfectly parallel benefit lines and stock 'Fixed a bug where' phrasing.",
+    "4": "Same feature-label template and matching benefit cadence, only slightly sanded down.",
+    "5": "Section headers repeated as questions, then answered in formulaic changelog voice.",
+    "6": "none"
+  },
+  "reason": "Version 2 sounds like a person writing for users: specific, lightly conversational, and not locked to one template, so that is what I would publish. The others are either interchangeable changelog templates, slightly clumsy, or too rough to read as skilled release notes.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "C",
+    "3": "O",
+    "4": "B3",
+    "5": "E",
+    "6": "A"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 3,
+    "3": 6,
+    "4": 5,
+    "5": 2,
+    "6": 1
+  },
+  "send": "1",
+  "tells": {
+    "1": "Every bullet follows the same 'short claim. explanatory sentence.' template, with tidy rule-of-three lists throughout.",
+    "2": "Bolded lead-in sentences on every bullet, plus a breezy filler transition ('The effects add up').",
+    "3": "Generic intensifier transition ('The consequences are significant:') plus bolded lead-in bullets and 'There is currently no system…'",
+    "4": "Punchy fragment header ('What this costs:') followed by uniformly bolded lead-in bullets.",
+    "5": "Mild: perfectly parallel claim-then-explanation bullets with uniform rhythm, though it avoids bolding and transitions.",
+    "6": "none"
+  },
+  "reason": "Version 6 is plainly the human original: typos, wordiness, a broken table, and empty sections. That also makes it unsendable. Version 1 keeps all its content and states it cleanly, precisely, and with appropriate restraint for a PRD, without the bold-lead-in or 'significant' flourishes that make 2–4 read as machine-polished.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "O",
+    "4": "B3",
+    "5": "B5",
+    "6": "E"
+  }
+}

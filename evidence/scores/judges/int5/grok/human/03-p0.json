@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2,
+    "4": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Abrupt redundant closer 'Before, they didn't.'",
+    "3": "none",
+    "4": "Formulaic bold lead-in labels on every bullet"
+  },
+  "reason": "Version 1 has natural parallel phrasing and a standard release-note voice without filler or templated formatting. Version 3 is nearly as clean, while 2 forces an awkward contrast and 4 uses a common AI bullet-label pattern.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "B5",
+    "3": "track2/A-int",
+    "4": "O"
+  }
+}

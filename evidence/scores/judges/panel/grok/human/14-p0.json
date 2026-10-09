@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 3,
+    "4": 2,
+    "5": 5
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Soft-focus stock lines (\"One of the lovely things,\" \"Those visits helped us get here\") and a tidy couldn't/could antithesis.",
+    "3": "Vague, compressed phrasing (\"started with what we could\") that reads like a template with the specifics cut out.",
+    "4": "Press-release clichés: \"special milestone\" and \"bursting at the seams.\"",
+    "5": "Anaphoric tricolon (\"every shelf, every table, every book\") and mirrored \"Maybe\" sentences."
+  },
+  "reason": "Version 1 sounds like a bookseller—specific, a little wry, and casually uneven—while 2, 3, and 5 are the same smoothed template and 4 is too thin and cliché-ridden to publish.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B3",
+    "3": "A",
+    "4": "E",
+    "5": "O"
+  }
+}

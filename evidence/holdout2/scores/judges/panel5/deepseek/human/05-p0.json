@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "emoji-heavy bullet-point structure, 'Here's what's on' formatting, and excessive hashtags",
+    "4": "dense, compressed summary-style phrasing with little warmth or conversational flow"
+  },
+  "reason": "Version 1 reads as the most natural, warm, and credible invitation while still staying clear and purposeful. Version 3 is the most obviously templated and AI-influenced.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "B3",
+    "3": "O",
+    "4": "A"
+  }
+}

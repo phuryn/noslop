@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 1,
+    "4": 5,
+    "5": 3
+  },
+  "reason": "Version 3 keeps nearly every fact, commitment, and caveat. Version 4 is least faithful: it changes the auto-renewal and cancellation terms, adds claims ('free to use,' 'never miss a session'), and weakens the medical disclaimer, while 1 drops the consistency and progress-tracking benefits and 5 drops that Premium unlocks more.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "B5",
+    "4": "E",
+    "5": "B3"
+  }
+}

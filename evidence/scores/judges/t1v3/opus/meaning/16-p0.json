@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 3,
+    "3": 1,
+    "4": 2
+  },
+  "reason": "Version 4 drops only the 'found myself doing the usual things' framing, while Version 3 also turns the hedged 'hadn't given much thought' into an absolute 'hadn't thought'. Version 2 shifts several nuances ('never really,' 'teach them better'), and Version 1 changes the core idea to 'always thought of retirement as a date... never as a way of leaving the room,' losing the hedge and the 'spent so long' sense of preoccupation.",
+  "label_to_arm": {
+    "1": "B",
+    "2": "C",
+    "3": "A",
+    "4": "B3"
+  }
+}

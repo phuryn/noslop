@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 3,
+    "3": 2,
+    "4": 6,
+    "5": 1,
+    "6": 4,
+    "7": 7
+  },
+  "send": "5",
+  "tells": {
+    "1": "Even environment–cost–demand balance and the stock closer about stopping to recognise progress.",
+    "2": "Says the surprise twice, then lands on the formula line about stopping to recognise progress.",
+    "3": "Livelier ending, but still the machine-versus-people pivot and a neat triple list of new ways of working.",
+    "4": "Compressed template with broken parallelism: 'better for the environment and cuts running costs'.",
+    "5": "none",
+    "6": "Redundant surprise plus the same stock 'recognise the progress' closer as version 2.",
+    "7": "Over-smoothed rephrasing ('arrives on site', 'pause and recognise progress') with no spoken roughness."
+  },
+  "reason": "Version 5 is the only draft that breaks the shared machine-versus-people arc: it opens with a real aside, uses an idiom, and thanks people like a colleague. The rest are polished variants of one template, and 7 is the smoothest and least human of that set.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "V6A",
+    "3": "C",
+    "4": "A",
+    "5": "E",
+    "6": "V6C",
+    "7": "O"
+  }
+}

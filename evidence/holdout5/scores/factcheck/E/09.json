@@ -1,0 +1,82 @@
+{
+  "dropped": [
+    {
+      "item": "The safety rationale: divers and techs are people the company wants 'back on the next rotation', which starts with a supervisor trusted to 'run a tight, safe operation'. The edit has no mention of safety.",
+      "severity": "major"
+    },
+    {
+      "item": "The explicit statement that the stop/go call 'stays yours'. The supervisor's retained authority over the call is no longer stated directly.",
+      "severity": "minor"
+    },
+    {
+      "item": "The framing of a well-run operation versus one 'held together with tape', and that the candidate should want to run the former.",
+      "severity": "minor"
+    },
+    {
+      "item": "The implied experience background ('years in the water and on the deck'), reduced to a generic 'must have the experience'.",
+      "severity": "minor"
+    },
+    {
+      "item": "Specific detail on time off: no emails or 'quick questions' from the vessel. The edit keeps only 'won't be bothered'.",
+      "severity": "minor"
+    },
+    {
+      "item": "'A team that backs its supervisors'",
+      "severity": "minor"
+    },
+    {
+      "item": "'A bit of respect for your time' as a selling point in the closing.",
+      "severity": "minor"
+    },
+    {
+      "item": "The option to 'send a short message' instead of calling.",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "Original: the supervisor makes the call 'when conditions or kit say it's not right', meaning authority to stop or abort for conditions or equipment. Edit: 'call a dive if you feel it's right'. The trigger (conditions or kit) is lost, and the sense is ambiguous or reversed (calling it when right versus calling it off when not right).",
+      "severity": "major"
+    },
+    {
+      "item": "Application method. Original: 'We'd rather talk to you than read a CV', so call or send a short message about your last few jobs. Edit invites applicants to send 'a brief CV', which reverses the stated preference against CVs.",
+      "severity": "major"
+    },
+    {
+      "item": "Original: divers and techs should come back on the next rotation, a safety meaning. Edit: 'We want our Divers and Techs to want to work with you', a likeability or rapport meaning.",
+      "severity": "major"
+    },
+    {
+      "item": "Original: 'nobody here will lean on you to make a different one', meaning no pressure to change the supervisor's call. Edit: 'never be pressured into making the wrong decision', which is weaker and leaves open who judges what is 'wrong'.",
+      "severity": "minor"
+    },
+    {
+      "item": "'Kit that's looked after' (well maintained) became 'all the right kit' (having appropriate equipment).",
+      "severity": "minor"
+    },
+    {
+      "item": "'More for the right experience' became 'more for the right person'. The criterion shifts from experience to a vaguer fit.",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "'for our Supervisors to enjoy working with our team'",
+      "severity": "minor"
+    },
+    {
+      "item": "'a great company with a fantastic team' (unsupported hype)",
+      "severity": "minor"
+    },
+    {
+      "item": "'see if we can be of mutual benefit'",
+      "severity": "minor"
+    },
+    {
+      "item": "'Are you ... looking for a great 28/28 role' (hype)",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [],
+  "meaning_preserved": 3
+}

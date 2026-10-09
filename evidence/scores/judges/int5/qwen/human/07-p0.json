@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "mildly generic phrasing in 'what's left' gives it a lightly templated feel",
+    "3": "choppy three-sentence structure and 'The remaining piece' sound formulaic",
+    "4": "'The Android biometric flow is what's left' feels slightly mechanical"
+  },
+  "reason": "Version 1 reads most like a natural Slack update: concise, precise, and efficiently structured without sounding stiff. It keeps the right level of detail while sounding like a person giving a quick team status.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "B5",
+    "3": "O",
+    "4": "track2/B5-int"
+  }
+}

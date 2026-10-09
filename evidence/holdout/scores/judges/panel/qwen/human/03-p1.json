@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "The flat, mechanical phrasing—especially “Firmware 3.4… It adds two things.”—reads a bit templated.",
+    "3": "Redundant boilerplate such as “longer battery life, so they run longer on each charge” makes it feel generic.",
+    "4": "The overly chirpy “there's no such thing as a silly question” feels forced and AI-trying-to-be-friendly."
+  },
+  "reason": "Version 1 is the most natural and user-friendly: it explains the benefits clearly, gives simple instructions, and keeps the warmth without sounding canned. It also avoids the more obvious templated or forced phrasing in the other versions.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B3",
+    "3": "A",
+    "4": "O"
+  }
+}

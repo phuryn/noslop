@@ -1,0 +1,20 @@
+{
+  "dropped": [],
+  "changed": [
+    {
+      "item": "The original says the offer is framed 'as if' it were a discount, without naming who frames it. The edit says the agency explicitly 'pitch[es] it like a discount,' which attributes the framing to the agency.",
+      "severity": "minor"
+    },
+    {
+      "item": "The original calls them 'errors' that can shift an obligation between parties. The edit calls them 'slips,' which slightly downplays their seriousness.",
+      "severity": "minor"
+    },
+    {
+      "item": "'Spanish-English legal documents' became 'between Spanish and English for legal work,' a slight broadening from documents specifically.",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

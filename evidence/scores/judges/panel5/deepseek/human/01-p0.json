@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 6,
+    "2": 1,
+    "3": 3,
+    "4": 4,
+    "5": 5,
+    "6": 2
+  },
+  "send": "2",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "ends with a tidy, generic takeaway rather than a conversational question",
+    "4": "corporate/AI cliché like \"closing that gap matters for the practice and for the people we serve\"",
+    "5": "over-structured with \"Here's what that meant in practice\" and bullet points, a common AI formatting pattern",
+    "6": "none"
+  },
+  "reason": "Version 2 reads like a real person sharing an operational insight: it has a clear narrative, concrete details, and a natural engagement question. It balances credibility and human feel better than the others.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "C",
+    "3": "B3",
+    "4": "B5",
+    "5": "O",
+    "6": "A"
+  }
+}

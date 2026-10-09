@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 5,
+    "4": 1,
+    "5": 3
+  },
+  "reason": "Version 4 keeps the most original commitments and nuances, while versions 2 and 5 retain the core warranty, no-cost replacement, and tracking details with only minor omissions. Version 1 adds 'new' battery, and version 3 drops the explicit 'at no cost' commitment, making them less faithful.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B3",
+    "3": "E",
+    "4": "B5",
+    "5": "A"
+  }
+}

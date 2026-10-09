@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 1,
+    "4": 3
+  },
+  "reason": "Versions 3 and 2 preserve the substantive facts and commitments most closely, with 3 retaining the full product name in the body. Version 4 slightly generalizes the warranty justification and changes tracking responsibility from “we” to “I”; version 1 also makes that responsibility personal and adds an unsupported promise that the replacement battery will be new.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B3",
+    "4": "B"
+  }
+}

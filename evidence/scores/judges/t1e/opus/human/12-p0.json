@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 3,
+    "3": 1,
+    "4": 2
+  },
+  "send": "2",
+  "tells": {
+    "1": "Vague, generic framing ('This talk explores', 'practical considerations', 'make better use of') and a dangling-modifier bio opener that never names the speaker.",
+    "2": "Placeholder 'The speaker is…' instead of a name, plus a tidy 'This talk covers… It also covers…' structure.",
+    "3": "none",
+    "4": "Placeholder 'The speaker' and upgraded claims ('helped lead the effort', 'had gone unnoticed') that overstate the original."
+  },
+  "reason": "Version 3 reads most human: it uses the speaker's name, the insider acronym NRW, and a clunky committee-report style, but its duplicated 'Abstract' and garbled apostrophe mean it can't go out as is. Version 2 is clean, specific and faithful to the claims, while 4 is tighter but inflates the speaker's role. In practice, send 2 with the speaker's name in place of 'The speaker.'",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B3",
+    "3": "E",
+    "4": "A"
+  }
+}

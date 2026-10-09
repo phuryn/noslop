@@ -1,0 +1,11 @@
+{
+  "send": "4",
+  "reason": "It includes the demo and Amina’s visit without inventing details, and it captures my relief, sadness, embarrassment, and uncertainty about what comes next. It also drops the calendar framing and classroom reflections I said didn’t fit or should be cut.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "E",
+    "3": "track2/A-int",
+    "4": "track2/B5-int"
+  },
+  "picked_arm": "track2/B5-int"
+}

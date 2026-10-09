@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 5,
+    "2": 1,
+    "3": 3,
+    "4": 4,
+    "5": 2
+  },
+  "reason": "Version 2 preserves the original's dates, penalties, rationale, mitigations, placeholders, and next-step commitments almost verbatim, with only trivial wording changes. Version 5 is next; Versions 3 and 4 remain substantively faithful but introduce more paraphrase or an unsupported irreversibility nuance, and Version 1 generalizes away several key caveats.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "B3",
+    "3": "C",
+    "4": "B5",
+    "5": "A"
+  }
+}

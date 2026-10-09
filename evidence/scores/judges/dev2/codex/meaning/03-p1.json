@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 1,
+    "4": 3
+  },
+  "reason": "Version 3 preserves the original claims almost verbatim; versions 2 and 4 are substantively equivalent, with 2 retaining slightly more precise original wording. Version 1 adds emphasis with “much sooner” and changes editing invoices individually to opening them individually.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B3",
+    "3": "A",
+    "4": "B5"
+  }
+}

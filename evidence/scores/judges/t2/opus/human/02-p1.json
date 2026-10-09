@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "Generic template structure (capability claim, stat, 'could we help', 15-minute ask) with no detail specific to the prospect",
+    "2": "The opening 'Fairview is a regional grocery chain, and refrigerated freight is what we do' is a stiff relevance bridge that tells the prospect what their own company is",
+    "3": "Choppy one-sentence paragraphs and polished filler phrasing ('finished last year with a 99.2% on-time rate', 'discuss where we might fit') that read like a stock template"
+  },
+  "reason": "Version 2 has concrete, checkable details: a named reference, remote temperature monitoring, and an honest definition of 'on time.' These build credibility and read like a real salesperson. Versions 1 and 3 are clean but interchangeable boilerplate.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "track2/B2-int",
+    "3": "O"
+  }
+}

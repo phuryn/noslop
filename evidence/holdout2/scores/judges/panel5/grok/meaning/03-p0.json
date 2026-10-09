@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2
+  },
+  "reason": "Version 1 keeps every fact, name, caveat, and action item intact. Version 3 retains “to the booth” and “display” specs but lightly rephrases the closing, while version 2 drops both of those specifics.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "B3",
+    "3": "A"
+  }
+}

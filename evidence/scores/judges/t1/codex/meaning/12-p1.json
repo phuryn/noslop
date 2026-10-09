@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "Version 1 stays closest, though it strengthens the abstract’s qualified contribution to the reduction. Version 2 adds claims about most utilities, previously unknown leaks, and coverage of what failed; version 3 adds an unsupported leadership role and more directly attributes the reduction to the pressure-data effort.",
+  "label_to_arm": {
+    "1": "B",
+    "2": "C",
+    "3": "A"
+  }
+}

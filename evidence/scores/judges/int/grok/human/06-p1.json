@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3,
+    "4": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "The Rosa Delgado story is too neatly packaged: a named subscriber, a wholesome bake with her daughter, and a perfect sold-out punchline.",
+    "3": "Smooth tricolon ('stirring, baking, and sneaking a taste') plus the generic closer 'Give yourself something to look forward to each month.'",
+    "4": "Slogan cadence: 'A little measuring done. A little joy delivered,' 'Less measuring. More making,' and stacked sentence fragments."
+  },
+  "reason": "Version 2 feels the most human because of the specific bake and spoken rhythm, but the anecdote is too perfect to trust and fights the slow-down promise. I'd send version 1: idiomatic and credible, without the fragment-slogan voice that makes 4, and to a lesser extent 3, read generated.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "track2/B3-int",
+    "3": "B3",
+    "4": "O"
+  }
+}

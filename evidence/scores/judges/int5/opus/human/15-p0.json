@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1,
+    "4": 4
+  },
+  "send": "2",
+  "tells": {
+    "1": "Flat, stripped-down phrasing with repetitive sentence openings ('Stepwise is free to download. Stepwise Premium costs...') and no hook. It reads like a mechanical de-AI pass.",
+    "2": "Vague upsell filler: 'to get more of what the app has to offer' says nothing about what Premium includes.",
+    "3": "Specifics that appear in no other version (exactly 312 exercises, the Gwen Harper testimonial, PT-built custom programs). They read as human but may be invented.",
+    "4": "Stacked marketing stock phrases ('guidance you can trust,' 'so you always know,' 'keep your recovery moving,' 'unlock more of what the app has to offer')."
+  },
+  "reason": "Version 3 has the most human voice and the strongest hook, but its added count, testimonial and Premium feature can't be verified, which is a real credibility and App Store risk for a health app. Version 2 is warm, clear and accurate, so it's the safest to publish once its vague Premium line is replaced with real features.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "B5",
+    "3": "track2/B5-int",
+    "4": "O"
+  }
+}

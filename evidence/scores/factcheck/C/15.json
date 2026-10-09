@@ -1,0 +1,54 @@
+{
+  "dropped": [
+    {
+      "item": "\"guidance you can trust\": the trust/credibility framing of the opening line",
+      "severity": "minor"
+    },
+    {
+      "item": "\"always\" and \"right\" in \"so you always know what to do and how to do it right\"; the edit says only \"so you know what to do and how to do it\"",
+      "severity": "minor"
+    },
+    {
+      "item": "\"to unlock more of what the app has to offer\": the statement that Premium unlocks additional features is softened to \"If you want more\"",
+      "severity": "minor"
+    },
+    {
+      "item": "\"billed monthly\" wording replaced by \"costs $7.99 per month\", so the explicit billing cadence is implied rather than stated",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "\"Every video is filmed by a licensed physical therapist\" became \"A licensed physical therapist films every one\", which could be read as a single therapist filming all videos",
+      "severity": "minor"
+    },
+    {
+      "item": "\"working on strength and mobility\" became \"just building strength and mobility\"; adding \"just\" slightly downplays this use case",
+      "severity": "minor"
+    },
+    {
+      "item": "\"proper form and technique\" became \"exactly how each movement should look\"; \"exactly\" adds a slightly stronger certainty",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "\"Recovering at home is easier when you know you're doing the exercises right\": a new framing claim that recovery is easier",
+      "severity": "minor"
+    },
+    {
+      "item": "Header \"WHY PEOPLE USE STEPWISE\" implies an existing user base, which the original does not claim",
+      "severity": "minor"
+    },
+    {
+      "item": "\"simple, clear routines\": the exercises are recast as \"routines\"",
+      "severity": "minor"
+    },
+    {
+      "item": "\"Please\" added to the medical disclaimer",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

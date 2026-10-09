@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1
+  },
+  "reason": "Version 3 keeps nearly every claim, including early detection, the baseline and guiding care, and drops only the closing value pitch. Version 1 also drops 'helping guide care' and firms up 'can help spot' to 'can show'. Version 2 loses the 'before symptoms appear' early-detection point and the baseline concept, and adds 'highly beneficial' and 'many other markers'.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "E",
+    "3": "B3"
+  }
+}

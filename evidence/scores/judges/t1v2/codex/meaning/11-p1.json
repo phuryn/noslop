@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1,
+    "4": 4
+  },
+  "reason": "Version 3 preserves the original most fully; version 1 slightly weakens the close collaboration with the chef, while version 2 omits the explicit promise of a schedule you can plan a life around. Version 4 adds a stronger promise about finishing at a decent hour and a specific tasting duty, while softening how busy weekends are.",
+  "label_to_arm": {
+    "1": "B",
+    "2": "A",
+    "3": "B2",
+    "4": "C"
+  }
+}

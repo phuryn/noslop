@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 4,
+    "4": 5,
+    "5": 2
+  },
+  "send": "5",
+  "tells": {
+    "1": "Stripped-down, uniform declarative sentences ('Stepwise is for...', 'Stepwise is free to download') that read like a mechanical de-fluffing pass rather than marketing copy",
+    "2": "none (only human quirks: the clichéd 'Never miss a session again', the exclamation point, and the boilerplate '24-hours prior' phrasing)",
+    "3": "Specifics that look invented and can't be verified: a testimonial from 'Gwen Harper', an exact '312' exercise count, a Premium feature claim, and an 'In our experience... more than...' contrast framing",
+    "4": "Generic filler phrasing ('guidance you can trust', 'keep your recovery moving', 'unlock more of what the app has to offer') plus neatly parallel bolded benefit leads",
+    "5": "A slightly over-smoothed conversational tone ('Maybe you're bouncing back...', 'keep you moving forward'), though it reads naturally"
+  },
+  "reason": "Version 2 has the uneven, slightly clunky feel of real human-written store copy. Version 5 keeps that natural voice but is clearer and more polished, and unlike Version 3 it makes no unverifiable claims, so it's the safest and strongest one to publish.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "E",
+    "3": "track2/B5-int",
+    "4": "O",
+    "5": "C"
+  }
+}

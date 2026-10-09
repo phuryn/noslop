@@ -1,0 +1,7 @@
+{
+  "id": 7,
+  "arm": "B5",
+  "reply1": "The text is a short status update with every fact already in it, so I edited it directly without interviewing the writer.\n\n<final>\nThe mobile login migration to the new auth service is about 80% done. The Android biometric flow is what's left, and we're still on track for Nov 3.\n</final>",
+  "asked": false,
+  "final": "The mobile login migration to the new auth service is about 80% done. The Android biometric flow is what's left, and we're still on track for Nov 3."
+}

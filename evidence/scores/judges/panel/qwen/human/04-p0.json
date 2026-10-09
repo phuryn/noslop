@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 1,
+    "4": 5,
+    "5": 3
+  },
+  "send": "3",
+  "tells": {
+    "1": "Safe, slightly templated wording such as 'a chat and a few ideas' feels a little generic.",
+    "2": "The smoothed-over cadence and tidy colon in 'Then comes the hardest part:' feel AI-polished.",
+    "3": "The chirpy exclamation and 'natter' could read as performed folksiness, though they suit the context.",
+    "4": "Short, list-like sentences and 'the Millbrook Community Hall' make it feel mechanically assembled.",
+    "5": "The em-dash appositive and very polished rhythm are common AI-editing fingerprints."
+  },
+  "reason": "Version 3 has the most convincing newsletter voice: friendly, practical, and specific enough to feel like a real editor rather than a template. It keeps the instructions clear while sounding least generic.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "C",
+    "4": "E",
+    "5": "O"
+  }
+}

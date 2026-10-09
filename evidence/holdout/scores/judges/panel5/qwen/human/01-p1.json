@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 4,
+    "4": 1,
+    "5": 5
+  },
+  "send": "4",
+  "tells": {
+    "1": "none",
+    "2": "The number is our members' too feels a bit abstract and contrived.",
+    "3": "Everything in between and giving members some of the credit feel generic and conceptually off.",
+    "4": "The heat, cold, and everything in between phrase and parallel belongs structure feel slightly templated.",
+    "5": "Blazing/freezing adjectives, exclamation, and lasting career give it a hyped, generic AI sheen."
+  },
+  "reason": "Version 4 is the strongest to publish: it is warm, clear, credible, and makes the co-op milestone feel shared before moving cleanly to the apprenticeship call. It has a small cliché, but still reads most like a skilled human post.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "B5",
+    "4": "O",
+    "5": "C"
+  }
+}

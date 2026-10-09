@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2,
+    "4": 4,
+    "5": 5
+  },
+  "send": "2",
+  "tells": {
+    "1": "none",
+    "2": "Stock strategy language such as 'brand pull' and 'concentrate talent and inventory' gives parts a generic consulting voice.",
+    "3": "Repeated 'We will' commitments make proposed mitigations sound mechanically certain before leadership has approved the plan.",
+    "4": "Conspicuously conversational substitutions such as 'run out,' 'walk away cleanly,' and 'make the final call' feel like an imposed casual voice.",
+    "5": "Repeated 'Mitigation:' labels and uniformly packaged bullets make the memo feel assembled from a template."
+  },
+  "reason": "Version 2 best balances a credible professional voice, clear structure, and appropriately conditional proposals; version 1 sounds natural but is repetitive and underedited. I would send version 2 after verifying its added commitments and lease assumptions and correcting the decision window implied by the October date; these stylistic judgments do not establish authorship.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "track2/B5-int",
+    "3": "track2/A-int",
+    "4": "C",
+    "5": "O"
+  }
+}

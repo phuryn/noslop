@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 2
+  },
+  "reason": "Versions 1 and 4 preserve all original facts, numbers, and commitments most closely, with 1 being the most literal. Version 2 slightly changes wording and omits 'target date', while version 3 adds the unoriginal qualifier 'big'.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "B5",
+    "3": "C",
+    "4": "A"
+  }
+}

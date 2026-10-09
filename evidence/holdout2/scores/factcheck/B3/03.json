@@ -1,0 +1,12 @@
+{
+  "dropped": [
+    {
+      "item": "The engine cutaway display is to be added specifically 'to the booth' (the edit omits the destination, though context implies it)",
+      "severity": "minor"
+    }
+  ],
+  "changed": [],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

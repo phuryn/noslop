@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2,
+    "4": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Flat, template-like phrasing, especially \"is what's left\".",
+    "3": "Slightly formal \"target date\" makes it feel more like a status report than a quick Slack update.",
+    "4": "Choppy, repetitive sentence structure and the generic phrase \"remaining piece\"."
+  },
+  "reason": "Version 1 sounds most like a natural Slack update: conversational, specific, and easy to skim while clearly giving progress, remaining work, and the date. It feels human without being sloppy.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "track2/B5-int",
+    "3": "track2/A-int",
+    "4": "O"
+  }
+}

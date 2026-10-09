@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 3,
+    "3": 2,
+    "4": 4,
+    "5": 1
+  },
+  "send": "5",
+  "tells": {
+    "1": "Generic, frictionless phrasing with no concrete detail beyond the stats. Each line is a tidy one-sentence paragraph that reads like a template.",
+    "2": "none. The double greeting, repeated 'Would you be open' and run-on phrasing are human sloppiness, not AI polish.",
+    "3": "Slightly smoothed, agreeable phrasing ('we'd be glad to pitch in', 'the occasional last-minute run') that feels lightly polished, but no strong tell.",
+    "4": "Bland, evenly balanced structure close to version 1. It is a stats line followed by a neat rhetorical question, with nothing specific to the sender.",
+    "5": "none"
+  },
+  "reason": "Version 5 has specific, slightly unflattering details: what 'on time' means, a 42-truck capacity limit, and the compressor failure that led to temperature monitoring. Those details build credibility and sound like a real operator. The other versions are interchangeable pitches, and version 2 is human but sloppy.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "E",
+    "3": "C",
+    "4": "track2/A-int",
+    "5": "track2/B5-int"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "send": "4",
+  "reason": "It keeps all the key facts and the welcoming tone of the original, with only very small wording changes. It reads most like the writer’s own announcement.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "E",
+    "4": "B5"
+  },
+  "picked_arm": "B5"
+}

@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 4,
+    "4": 1,
+    "5": 5
+  },
+  "send": "4",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "none",
+    "4": "none",
+    "5": "none"
+  },
+  "reason": "Version 4 sounds natural for Slack while keeping progress, remaining work, and timing clear. These are close stylistic judgments, not reliable evidence of AI authorship; version 5 adds wordiness and changes the scope slightly with 'only big piece left.'",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B3",
+    "3": "A",
+    "4": "B5",
+    "5": "C"
+  }
+}

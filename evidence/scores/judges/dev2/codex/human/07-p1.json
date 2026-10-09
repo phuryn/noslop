@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 5,
+    "5": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "none",
+    "4": "The phrasing 'is the remaining piece' feels slightly stiff and formulaic, though it isn't evidence of AI authorship.",
+    "5": "none"
+  },
+  "reason": "Version 1 is clear, conversational, and credible without sounding labored. Version 5 sounds natural too, but 'only big piece left' introduces a qualification about the remaining work that the other versions don't make.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "O",
+    "3": "A",
+    "4": "B3",
+    "5": "C"
+  }
+}

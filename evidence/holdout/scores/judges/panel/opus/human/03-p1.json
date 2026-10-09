@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 1,
+    "4": 4
+  },
+  "send": "3",
+  "tells": {
+    "1": "Circular battery line ('longer battery life, so they run longer on each charge') that adds no information",
+    "2": "Stock reassurance phrases stacked at the close ('No question is too small', 'part of the Kestrel family') plus bolded mini-headers",
+    "3": "none",
+    "4": "Filler restatements and clichés ('go further between charges', 'step by step', 'no such thing as a silly question', 'Kestrel family')"
+  },
+  "reason": "Version 3 puts the date and the action up front, gives each benefit once without padding, and stays warm without stock reassurances. That makes it the clearest and most credible email for an older hearing-aid audience.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "B3",
+    "4": "O"
+  }
+}

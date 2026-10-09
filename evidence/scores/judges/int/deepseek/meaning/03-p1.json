@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "Version 1 preserves the original meaning and wording most exactly, including the bug-fix nuance; version 2 has minor wording changes, and version 3 has slightly more changes such as 'Releases' and omitting 'editing them'.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "track2/B3-int",
+    "3": "B3"
+  }
+}

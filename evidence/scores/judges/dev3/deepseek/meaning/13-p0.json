@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 1,
+    "4": 3
+  },
+  "reason": "Version 3 stays closest to the original's specific meaning and retains key nuances like 'targeted outreach' and the exact risk mitigations. Version 2 is nearly as close but softens 'capture' and drops 'targeted,' while Version 4 adds an unsupported causal claim and Version 1 paraphrases too loosely, losing financial and structural specificity.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B3",
+    "4": "B5"
+  }
+}

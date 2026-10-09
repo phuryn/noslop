@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 4,
+    "3": 1,
+    "4": 2
+  },
+  "reason": "Version 3 keeps every fact, number, and nuance. Version 4 drops only 'a schedule you can plan a life around.' Version 1 softens 'slammed' to 'busy,' changes 'nights that actually end' to 'a decent hour,' and narrows 'a real say' to 'your opinion will count.' Version 2 drops many commitments (no pressure cooker, a real say, calm under pressure, nights that end, keeping the crew steady) and adds new ones ('not limited to,' experience 'a must').",
+  "label_to_arm": {
+    "1": "C",
+    "2": "E",
+    "3": "B3",
+    "4": "A"
+  }
+}

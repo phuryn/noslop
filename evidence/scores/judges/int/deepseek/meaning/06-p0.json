@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2
+  },
+  "reason": "Version 1 stays closest to the original structure and promises, with only a minor loss like 'homemade.' Version 3 drops the explicit 'look forward to each month' line, while Version 2 replaces an entire original section with the supplied testimonial and loses more of the original monthly-bake message.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "track2/B3-int",
+    "3": "track2/A-int"
+  }
+}

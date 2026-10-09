@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1,
+    "4": 4
+  },
+  "send": "3",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "none",
+    "4": "none"
+  },
+  "reason": "Version 3 is concise, natural, and easy to scan; version 1 is similarly strong but slightly more formal. Version 2 adds conversational padding, while version 4 feels more mechanical in its sentence rhythm, though none has a convincing AI-specific tell.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "C",
+    "3": "track2/B5-int",
+    "4": "O"
+  }
+}

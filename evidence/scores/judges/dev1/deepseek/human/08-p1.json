@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 1,
+    "4": 5,
+    "5": 3
+  },
+  "send": "3",
+  "tells": {
+    "1": "Uses a slightly generic benefit phrase ('fuller picture') and pronoun shift.",
+    "2": "Em-dash asides and marketing-style wrap-up feel AI-polished.",
+    "3": "None",
+    "4": "Clipped, summary-like compression without conversational warmth.",
+    "5": "Ends abruptly at the price, giving it an unfinished feel."
+  },
+  "reason": "Version 3 reads as the most natural, conversational human writing while staying clear and credible, so it would be my choice to publish.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "O",
+    "3": "C",
+    "4": "A",
+    "5": "B3"
+  }
+}

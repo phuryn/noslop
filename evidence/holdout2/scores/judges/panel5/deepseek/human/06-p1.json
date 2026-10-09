@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 3,
+    "3": 1,
+    "4": 2
+  },
+  "send": "3",
+  "tells": {
+    "1": "Drops 'Press and' before 'hold,' making the instruction slightly terse and less standard.",
+    "2": "Uses the formulaic 'Make sure you're using' opening that is common in generated steps.",
+    "3": "none",
+    "4": "Straight apostrophe in 'you're' gives it a plain-text, less human-polished typographic feel."
+  },
+  "reason": "Version 3 reads like a careful human editor: it uses a clear colon, precise 'Check that' and 'Press and hold,' a natural 'Once,' and proper typographic punctuation.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "A",
+    "3": "O",
+    "4": "B3"
+  }
+}

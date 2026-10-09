@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 4,
+    "3": 2,
+    "4": 6,
+    "5": 5,
+    "6": 1
+  },
+  "send": "6",
+  "tells": {
+    "1": "none",
+    "2": "The opening reassurance and broad closing invitation feel like a standard newsletter frame.",
+    "3": "The balanced three-part phrases—especially the workshop invitation—feel slightly rehearsed.",
+    "4": "Accumulated stock warmth: 'kept us on our toes', 'our thoughts are turning' and 'wherever you are' soften and lengthen straightforward points.",
+    "5": "Stock transitions and a generic closing qualification make the voice feel polished but interchangeable.",
+    "6": "none"
+  },
+  "reason": "Version 6 has the strongest combination of clear information, natural rhythm and a credible invitation from someone running the workshop; version 3 is a close second. These are stylistic judgments, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B3",
+    "3": "B",
+    "4": "O",
+    "5": "B2",
+    "6": "A"
+  }
+}

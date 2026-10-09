@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 4,
+    "4": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "The generic community thank-you and unnecessary explanation of why extra classes help feel slightly templated.",
+    "2": "none",
+    "3": "Stock phrases such as “We wanted to let you know” and “stay tuned,” plus padded appreciation, make it feel formulaic.",
+    "4": "“To give you more options during the week” adds a predictable promotional gloss to an otherwise straightforward announcement."
+  },
+  "reason": "Version 2 is direct, easy to scan, and clear about when existing members will pay more, without unnecessary cushioning. These stylistic cues inform the ranking but do not establish whether AI was involved.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "E",
+    "4": "O"
+  }
+}

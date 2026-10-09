@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "none",
+    "2": "smooth, generic closing (Let me know if I've missed anything) feels slightly templated",
+    "3": "bolded section labels and over-structured summary are typical AI formatting"
+  },
+  "reason": "Version 1 feels most human because of its informal note shorthand and direct closing, while version 3 reads templated due the bold labels. I would send version 2 because it preserves the same content with a more polished, client-friendly close.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "O"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "send": "5",
+  "reason": "It keeps every fact and commitment: the £150 deduction for the scratched front element, the 'we consider' stance, the photo offer, and the goodwill reduction to £90 with a £60 refund. It also stays close to the original's tone. The other versions either apologise in a way that implies fault (1, 2), drop the goodwill framing (1, 2), soften our position to the past tense (4), or contain errors (6).",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "V6C",
+    "4": "V6A",
+    "5": "B5",
+    "6": "E"
+  },
+  "picked_arm": "B5"
+}

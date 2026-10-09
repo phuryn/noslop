@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 5,
+    "4": 3,
+    "5": 1,
+    "6": 6
+  },
+  "send": "5",
+  "tells": {
+    "1": "Mildly formulaic empathy phrase",
+    "2": "No closing pleasantry; clipped template feel",
+    "3": "Unnatural collocation 'I appreciate the inconvenience'",
+    "4": "Slightly abrupt directness and no closing remark",
+    "5": "none",
+    "6": "Filler phrase 'I can tell you that' plus repeated thanks and formal ordinal dates"
+  },
+  "reason": "Version 5 sounds most human because it uses natural, accountable phrasing while clearly stating the refund. Version 1 is clean and professional but slightly more templated.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "A",
+    "3": "O",
+    "4": "B3",
+    "5": "C",
+    "6": "E"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 5,
+    "4": 3,
+    "5": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "polished em-dash construction and the formulaic phrase 'make the most of their yearly checkup'",
+    "4": "abrupt ending after the price, lacking a closing benefit or conversational follow-through",
+    "5": "overly clipped, flat sentences and the dry 'costs $129' phrasing"
+  },
+  "reason": "Version 1 reads as the most natural, skilled human draft while staying clear and persuasive, so it is the one I would publish. Versions 3 and 5 feel the most AI-shaped, with formulaic polish and over-shortening respectively.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "C",
+    "3": "O",
+    "4": "B3",
+    "5": "A"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 3,
+    "3": 2,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "none",
+    "2": "The carefully arranged mundane details and balanced reflections feel slightly manufactured.",
+    "3": "The transition from classroom rituals to lasting influence to reluctant departure feels unusually tidy.",
+    "4": "The closing contrast between readiness and lingering is a familiar, neatly packaged emotional resolution."
+  },
+  "reason": "Version 4 has the strongest combination of directness, concrete detail, and natural pacing; 3 and 2 are close, while 1 feels repetitive and underedited. These stylistic impressions do not establish AI authorship, and the added memories in versions 2–4 should be accurate if published as personal nonfiction.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "O",
+    "3": "A",
+    "4": "B3"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 3,
+    "4": 2
+  },
+  "reason": "Version 1 keeps every fact and commitment, and Version 4 drops only 'closely' from the work with the chef. Version 3 drops the 'schedule you can plan a life around' promise, while Version 2 softens 'slammed' to 'busy', adds 'nights that end at a decent hour', and recasts caring about salt as tasting plates.",
+  "label_to_arm": {
+    "1": "B2",
+    "2": "C",
+    "3": "A",
+    "4": "B"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1
+  },
+  "reason": "Version 3 is closest to the original and adds nothing; Version 1 keeps the same facts and offer with only minor wording changes. Version 2 uses writer-supplied details but drops the original last-minute delivery option, so it is less faithful.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "track2/B5-int",
+    "3": "track2/A-int"
+  }
+}

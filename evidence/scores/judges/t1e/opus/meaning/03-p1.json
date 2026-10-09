@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1
+  },
+  "reason": "Version 3 keeps every fact nearly verbatim and only drops the bold feature labels. Version 1 reframes the bug fix slightly but stays accurate, while Version 2 changes 'didn't display correctly' to 'wasn't showing up' and adds the exaggeration 'a lot quicker'.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "E",
+    "3": "A"
+  }
+}

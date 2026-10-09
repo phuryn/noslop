@@ -1,0 +1,12 @@
+{
+  "dropped": [
+    {
+      "item": "The characterization of the consequences as 'significant' ('The consequences are significant:' became 'What this costs:')",
+      "severity": "minor"
+    }
+  ],
+  "changed": [],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

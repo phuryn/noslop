@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 5,
+    "3": 4,
+    "4": 2,
+    "5": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Mechanical benefit list introduced by 'This allows us to' with stilted parallel phrasing.",
+    "3": "Compressed summary with no conversational hook or CTA; ends on the cliché 'meeting patients where they already are.'",
+    "4": "none",
+    "5": "Template-like structure with 'Here's what that meant in practice:' bullets and a 'The lesson for me:' wrap-up."
+  },
+  "reason": "Version 1 reads like a real practitioner telling a specific, natural story and ends with a genuine question. It avoids the templated structure and clichés that make the others feel more generated.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "E",
+    "3": "B3",
+    "4": "A",
+    "5": "O"
+  }
+}

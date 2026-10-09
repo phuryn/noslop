@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 4,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "Repeated explanatory clauses ('so you…') and flat sentence rhythms make the copy feel mechanically simplified.",
+    "2": "Stock encouragement such as 'keep you moving forward' and 'look back at how far you've come' feels like generic wellness copy.",
+    "3": "Stacked reassurance and vague benefits: 'guidance you can trust,' 'always know,' and 'unlock more of what the app has to offer.'",
+    "4": "The vague Premium benefit, 'adds more to the app,' reads like placeholder copy."
+  },
+  "reason": "Version 4 has the strongest balance of direct language, useful detail, and restraint, though its Premium benefits need specificity before publication. Version 2 has a more conversational voice but more stock marketing language; these are stylistic judgments, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "O",
+    "4": "B"
+  }
+}

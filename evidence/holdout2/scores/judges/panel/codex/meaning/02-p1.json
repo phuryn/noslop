@@ -1,0 +1,11 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2
+  },
+  "reason": "Both versions preserve the outage facts, approximate numbers, and automatic £15 credit commitment, while omitting the examples of disruption and closing apology. Version 1 is more faithful because it also retains the original's thanks for customers' patience, which version 2 removes.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3,
+    "4": 4
+  },
+  "send": "2",
+  "tells": {
+    "1": "The em-dash aside ('frost—a small job...') feels like a polished AI flourish.",
+    "2": "none",
+    "3": "Slight thesaurus-like paraphrase: 'Pick,' 'break,' and 'some ideas' replace simpler, more natural wording.",
+    "4": "Clunky over-explained relative clause 'which is leaving them alone.'"
+  },
+  "reason": "Version 2 is the most natural, unadorned newsletter copy with no obvious AI styling; version 1 is close but slightly over-polished, while 3 and 4 show increasing paraphrase awkwardness.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "track2/A-int",
+    "3": "B5",
+    "4": "track2/B5-int"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 1,
+    "4": 3,
+    "5": 5
+  },
+  "send": "2",
+  "tells": {
+    "1": "none",
+    "2": "The neat 'Every shelf, every table, every book' sequence and paired 'Maybe' sentences feel formulaic.",
+    "3": "Conspicuous casual touches such as 'Not bad' and the borrowed-book joke feel deliberately inserted; 'My favorite' also breaks the collective voice.",
+    "4": "The same patterned rhetoric as version 2, with a flatter emotional register.",
+    "5": "Unsupported specificity: the named customer, first purchase, and exact fundraiser total create apparent authenticity without corroboration."
+  },
+  "reason": "Version 3 has the liveliest conversational voice, but I would publish version 2 for its warmth, clarity, and consistent narrator. Version 1 feels unforced but needs editing; version 5 introduces substantial factual claims absent from the others, and these stylistic judgments do not establish AI authorship.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "O",
+    "3": "C",
+    "4": "track2/A-int",
+    "5": "track2/B5-int"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 3,
+    "4": 2
+  },
+  "send": "4",
+  "tells": {
+    "1": "none",
+    "2": "Template-style bolded section labels ('What you'll do:', 'What we're after:') plus the stacked rule-of-three 'real days off, nights that actually end, and a schedule you can plan a life around'",
+    "3": "Keeps the polished triplet 'real days off, nights that actually end, and a schedule you can plan a life around' and the tidy three-part 'run the line..., keep the crew steady..., and still care...' sentence",
+    "4": "Copywriter flourishes like 'without turning the kitchen into a pressure cooker' and the neatly balanced three-part opening sentence"
+  },
+  "reason": "Version 1 is unmistakably human (all caps, typos, run-ons), but it reads as sloppy and less credible to strong candidates. Version 4 keeps the warmth and specifics while trimming the most formulaic AI patterns, so it's the best one to publish.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "O",
+    "3": "B3",
+    "4": "A"
+  }
+}

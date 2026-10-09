@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 4,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "The tidy, abstract pairing 'history and a future worth caring for' feels slightly copywritten.",
+    "2": "The vague, pseudo-profound line 'it's worth looking after what comes next' feels constructed.",
+    "3": "Glossy brochure clichés and em-dash polish, especially 'find their voice again'.",
+    "4": "none"
+  },
+  "reason": "Version 4 sounds most like a real craftsperson: plain, concrete, and unpretentious. It has the strongest human feel and credibility, even if it is slightly less polished than Version 1.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "C",
+    "3": "O",
+    "4": "A"
+  }
+}

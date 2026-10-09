@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 4,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "Slightly clunky repeated pronoun structure ('It's... and it gives...') and flat 'After that' transition.",
+    "2": "Over-polished em dash and colon transition feel AI-smoothed.",
+    "3": "Duplicate of version 1; same clunky rhythm without original variation.",
+    "4": "none"
+  },
+  "reason": "Version 4 reads as the most natural, confident newsletter voice, avoiding the repetition in 1/3 and the over-polished punctuation in 2. Versions 1 and 3 are identical, so their adjacent ranks are by order.",
+  "label_to_arm": {
+    "1": "track2/B3-int",
+    "2": "O",
+    "3": "B3",
+    "4": "track2/A-int"
+  }
+}

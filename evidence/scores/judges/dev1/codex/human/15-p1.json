@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 4,
+    "4": 5,
+    "5": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "Repeated explanatory phrasing makes the feature list slightly mechanical, though there is no strong tell.",
+    "2": "none",
+    "3": "Stacked conversational touches—'nudge,' 'tweak,' 'bouncing back'—feel deliberately engineered to sound human.",
+    "4": "Generic reassurance and inflated promises: 'guidance you can trust,' 'always know,' and 'BUILT FOR REAL RECOVERY.'",
+    "5": "The Premium benefit, 'more of what the app has to offer,' reads like placeholder marketing copy."
+  },
+  "reason": "Version 2 best balances approachable language, useful detail, and restraint for an App Store listing; version 1 is credible but somewhat flat. These rankings reflect editorial impressions, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "C",
+    "4": "O",
+    "5": "B5"
+  }
+}

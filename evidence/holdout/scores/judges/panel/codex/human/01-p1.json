@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "none",
+    "2": "The familiar pairing of 'blazing heat and freezing cold' feels slightly canned.",
+    "3": "'The number is our members’ too' feels mechanically compressed, and 'cutting money off monthly bills' is awkward.",
+    "4": "The symmetrical 'belongs to our crews' / 'belongs to our members' structure and 'everything in between' feel formulaic."
+  },
+  "reason": "Version 1 feels the most unforced, but I’d publish version 2 for its energy, smoother phrasing, and appropriately qualified career promise. These are editorial impressions, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "B3",
+    "4": "O"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 6,
+    "2": 3,
+    "3": 1,
+    "4": 2,
+    "5": 4,
+    "6": 5
+  },
+  "send": "3",
+  "tells": {
+    "1": "\"I appreciate the inconvenience this delay has caused\" is a stiff, template-style empathy line that misuses \"appreciate\"",
+    "2": "none",
+    "3": "The \"I know how frustrating it is to wait for something you've been looking forward to\" line is a slightly generic empathy flourish",
+    "4": "none",
+    "5": "Joining the apology and the empathy line with \", and I understand\" feels a little formulaic",
+    "6": "Repetitive filler (\"Thank you for your patience\" twice, \"I can tell you that\"). This reads more like clumsy human writing than AI"
+  },
+  "reason": "Version 3 takes clear ownership (\"that's on us\") and says the refund has already been done, so it sounds like a real person who acted. The other versions are tidy but more templated, and 6 is padded and repetitive.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B3",
+    "3": "C",
+    "4": "B5",
+    "5": "A",
+    "6": "E"
+  }
+}

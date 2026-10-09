@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 1,
+    "3": 2,
+    "4": 3
+  },
+  "reason": "Version 4 preserves nearly all original facts, nuances, caveats, and the lesson, omitting only the closing question. Version 1 keeps the core points with minor wording changes, while Version 2 alters the lesson and drops the closing-gap point, and Version 3 omits both that point and the lesson entirely.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B3",
+    "3": "A",
+    "4": "B5"
+  }
+}

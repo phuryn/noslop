@@ -1,0 +1,11 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2
+  },
+  "reason": "Version 1 keeps the successful Nordwind outcome, the offshore-wind ask, the blurb offer, the thanks, and the open invitation to dig in. Version 2 drops “successfully,” adds “with them,” and replaces the thanks and broader reply line with a narrower questions prompt.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A"
+  }
+}

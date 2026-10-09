@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3,
+    "4": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "Mild: 'This hurts in four ways:' announces a count before the list, though the phrasing is still natural.",
+    "2": "None significant. The conversational register ('who the client will actually accept', 'bunch up') reads human, but it's a bit casual for a PRD.",
+    "3": "Signposting with 'This causes four problems:', plus perfectly parallel unbolded bullets and a 'X; the system handles Y' contrast that reads templated.",
+    "4": "The generic hype lead-in 'The consequences are significant:', the 'There is currently no system that…' construction, and a trailing participle clause ('…coordinator effort, informing the decision on broader rollout')."
+  },
+  "reason": "Version 2 sounds most like a person talking, but Version 1 keeps that directness in a tighter, more professional register suited to a PRD. It is also free of the filler and stock phrasing in 3 and 4.",
+  "label_to_arm": {
+    "1": "B",
+    "2": "C",
+    "3": "A",
+    "4": "O"
+  }
+}

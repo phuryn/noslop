@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 4,
+    "3": 2,
+    "4": 1
+  },
+  "reason": "Version 4 keeps every fact and commitment; it drops only the redundant closing thanks and apology. Version 3 is similar but also drops the offer of help. Version 1 shifts the commitments from 'we' to 'I'. Version 2 keeps the courtesies but omits 'at no cost', the reply's key commitment.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "E",
+    "3": "A",
+    "4": "B3"
+  }
+}

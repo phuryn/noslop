@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 1,
+    "4": 3
+  },
+  "reason": "Version 3 preserves the original most closely; version 2 makes the implied handling of routine reassignments explicit, while version 4 slightly strengthens the match-quality commitment with “must.” Version 1 introduces more drift: proximity becomes residential proximity, risks become asserted harms, “meet” becomes “should meet,” and target confirmation gains a specific timing commitment.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B3",
+    "4": "B5"
+  }
+}

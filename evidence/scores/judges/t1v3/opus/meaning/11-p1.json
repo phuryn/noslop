@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 4,
+    "3": 1,
+    "4": 2
+  },
+  "reason": "Version 3 keeps every fact, number and commitment. Version 4 drops 'closely' and 'actually', Version 1 drops the 'schedule you can plan a life around' promise, and Version 2 softens 'slammed' and recasts the salt line and 'nights that end' ('at a decent hour'), shifting several nuances.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "B3",
+    "4": "B"
+  }
+}

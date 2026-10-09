@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 3,
+    "4": 5,
+    "5": 1
+  },
+  "reason": "Version 5 most faithfully preserves all original facts, numbers, and commitments, with 2 and 3 close behind. Version 1 adds an unstated inbox-delivery commitment, and version 4 loses the 48-hour-from-flight and closer-look purpose nuances.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B3",
+    "3": "A",
+    "4": "E",
+    "5": "B5"
+  }
+}

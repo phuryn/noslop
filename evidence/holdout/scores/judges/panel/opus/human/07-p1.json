@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1,
+    "4": 4
+  },
+  "send": "3",
+  "tells": {
+    "1": "none; 'I'm so sorry' and 'Thanks for bearing with us' lean a little effusive, but they sound natural",
+    "2": "none; it's just abrupt, with no closing offer to help",
+    "3": "none",
+    "4": "Passive constructions ('has now been fixed', 'is being processed') plus the stock 'Thanks for your patience, and please let us know if you have any other questions' closer"
+  },
+  "reason": "Version 3 is direct, takes ownership in active voice, gives the refund timeline and an easy next step, and adds no filler. Version 4 reads most templated because of its passive phrasing and boilerplate sign-off.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B3",
+    "4": "O"
+  }
+}

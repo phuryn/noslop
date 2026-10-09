@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "Versions 1 and 2 preserve the key facts and ask, with version 1 slightly more faithful because it retains the original Highlights/Ask structure. Version 3 omits that the Nordwind pilot completed successfully and adds the specificity of working on next steps 'with them,' making it less faithful.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "B5",
+    "3": "A"
+  }
+}

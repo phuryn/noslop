@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 4,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "The 'which means you'll be among the very first' clause spells out a payoff the reader already gets.",
+    "2": "none",
+    "3": "Emoji-bookended headline, 'Here's what's on' bullet list, repeated date and place icons, and stuffed hashtags.",
+    "4": "none"
+  },
+  "reason": "Version 4 is clear, warm, and specific without template padding, so it is the one I would publish. Version 3 is an obvious social-post formula, version 1 slightly over-explains, and version 2 is thinner with a broken sentence.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "A",
+    "3": "O",
+    "4": "B3"
+  }
+}

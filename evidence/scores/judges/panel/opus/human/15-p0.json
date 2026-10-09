@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 4,
+    "4": 3,
+    "5": 5
+  },
+  "send": "1",
+  "tells": {
+    "1": "Every bullet ends in a tidy 'so you can/so your PT can' justification, which feels a little templated",
+    "2": "none",
+    "3": "Over-friendly filler that tries too hard to sound casual ('Maybe you're bouncing back,' 'keep you moving forward,' 'get moving')",
+    "4": "Flattened, stripped tone plus the vague 'unlocks additional features'; it reads like an over-corrected rewrite",
+    "5": "Generic marketing phrases ('guidance you can trust,' 'keep your recovery moving,' 'unlock more of what the app has to offer')"
+  },
+  "reason": "Version 2 has the slightly clunky, exclamation-marked quality of real app-store copy, but its subscription wording is awkward. Version 1 keeps the same plain facts, cleans up the language and the legal text, and avoids the empty marketing phrases in versions 3 and 5, so it's the best one to publish.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "E",
+    "3": "C",
+    "4": "A",
+    "5": "O"
+  }
+}

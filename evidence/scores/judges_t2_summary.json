@@ -1,0 +1,87 @@
+{
+  "human/codex": {
+    "texts": 6,
+    "verdicts": 18,
+    "mean_rank": {
+      "O": 2.78,
+      "track2/A-int": 2.06,
+      "track2/B2-int": 1.17
+    },
+    "pairwise": {
+      "track2/B2-int>track2/A-int": {
+        "win": 5,
+        "tie": 0,
+        "loss": 1,
+        "p": 0.219
+      },
+      "track2/B2-int>O": {
+        "win": 6,
+        "tie": 0,
+        "loss": 0,
+        "p": 0.031
+      },
+      "track2/A-int>O": {
+        "win": 5,
+        "tie": 0,
+        "loss": 1,
+        "p": 0.219
+      }
+    },
+    "send_picks": {
+      "track2/B2-int": 12,
+      "O": 3,
+      "track2/A-int": 3
+    }
+  },
+  "human/opus": {
+    "texts": 6,
+    "verdicts": 18,
+    "mean_rank": {
+      "O": 3.0,
+      "track2/A-int": 2.0,
+      "track2/B2-int": 1.0
+    },
+    "pairwise": {
+      "track2/B2-int>track2/A-int": {
+        "win": 6,
+        "tie": 0,
+        "loss": 0,
+        "p": 0.031
+      },
+      "track2/B2-int>O": {
+        "win": 6,
+        "tie": 0,
+        "loss": 0,
+        "p": 0.031
+      },
+      "track2/A-int>O": {
+        "win": 6,
+        "tie": 0,
+        "loss": 0,
+        "p": 0.031
+      }
+    },
+    "send_picks": {
+      "track2/B2-int": 18
+    }
+  },
+  "human/both": {
+    "pairwise": {
+      "track2/B2-int>track2/A-int": {
+        "win": 11,
+        "tie": 0,
+        "loss": 1
+      },
+      "track2/B2-int>O": {
+        "win": 12,
+        "tie": 0,
+        "loss": 0
+      },
+      "track2/A-int>O": {
+        "win": 11,
+        "tie": 0,
+        "loss": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 4,
+    "3": 2,
+    "4": 1,
+    "5": 5
+  },
+  "reason": "Version 4 is nearly verbatim, and Version 3 keeps all facts but turns the mitigations into firm 'we will' commitments. Versions 1 and 2 add small distortions ('for good reasons we can't reverse'; 'should return more' drops the 'potential' hedge), while Version 5 drops many specifics (no early-termination penalties, six-month outreach, retention tracking, redeployment and severance, pop-up/wholesale options) and adds unsupported claims.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "C",
+    "3": "A",
+    "4": "B3",
+    "5": "E"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 3,
+    "4": 2
+  },
+  "send": "4",
+  "tells": {
+    "1": "none",
+    "2": "The service summary followed by two consecutive questions feels formulaic, though not uniquely AI-written.",
+    "3": "“Could we help” and “where we might fit” sound like generic outreach-template phrasing.",
+    "4": "none"
+  },
+  "reason": "Version 1 feels most individually authored because it defines its performance claim and acknowledges concrete limitations, but the breakdown history distracts from the initial pitch. I would send version 4 for its direct language, compact structure, and single clear request.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "O",
+    "3": "track2/A-int",
+    "4": "B5"
+  }
+}

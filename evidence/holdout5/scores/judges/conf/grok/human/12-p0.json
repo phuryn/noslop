@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 7,
+    "4": 2,
+    "5": 5,
+    "6": 6,
+    "7": 3
+  },
+  "send": "4",
+  "tells": {
+    "1": "none",
+    "2": "stock 'explore the night sky' in a too-even, one-job-per-sentence cadence",
+    "3": "exclamation and em dash inside a stock 'Join us for a free public' / 'Everyone is welcome' template",
+    "4": "none",
+    "5": "formulaic 'Join us for a free public' opener plus padded 'It's an evening outdoors, so...'",
+    "6": "exclamation and an illogical 'so' linking being welcome to bringing warm clothes",
+    "7": "performed coziness: 'night under the stars' and 'peer through' stacked on a cheerful exclamation"
+  },
+  "reason": "Version 1 is the only notice with uneven, slightly faulty local voice; 4 keeps that human register while staying clear and credible. The 'Join us for a free public' cluster reads templated, with 3 the most machine-polished.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "V6C",
+    "3": "O",
+    "4": "V6A",
+    "5": "B5",
+    "6": "A",
+    "7": "C"
+  }
+}

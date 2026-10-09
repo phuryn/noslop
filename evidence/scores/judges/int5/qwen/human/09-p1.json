@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 4,
+    "4": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "Slightly awkward ordering and the canned line 'That's not the experience we want you to have.'",
+    "2": "Common support cliché 'Thanks for reaching out,' though otherwise natural.",
+    "3": "Overloaded with formulaic apologies and stock support phrases.",
+    "4": "Overly clipped and impersonal phrasing, especially 'The bike' and 'If you have questions, reply to this message.'"
+  },
+  "reason": "Version 2 feels the most like a skilled human support reply: it is clear, warm, concise, and resolves the issue without over-apologizing. It balances empathy and action better than the others.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "B5",
+    "3": "O",
+    "4": "track2/A-int"
+  }
+}

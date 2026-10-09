@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2,
+    "4": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "The comprehensive, evenly structured checklist feels templated, especially where confident business claims precede the unfinished financial analysis.",
+    "2": "Repeated 'Mitigation:' labels and 'Finance to complete' constructions give the memo a mechanically standardized voice.",
+    "3": "Repeated recommendation language and abstract phrases such as 'the most effective way possible' resemble AI padding, though neither establishes AI authorship.",
+    "4": "Bold lead-ins on nearly every bullet, uniform risk-treatment formulas, and generic labels such as 'Flexibility' make the presentation feel heavily templated."
+  },
+  "reason": "Version 1 best combines executive clarity with natural, direct sentences; version 3 sounds more individual but is repetitive and less precise. I would send version 1 after validating its unsupported claims and completing the financial figures and deadlines.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "gen/E-write",
+    "4": "O"
+  }
+}

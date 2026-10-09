@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 1,
+    "4": 4,
+    "5": 5
+  },
+  "reason": "Version 3 preserves the substantive details and explicitly unchanged risk most closely; version 2 follows closely, while versions 1 and 4 slightly soften technical precision or omit explicit emphasis on danger. Version 5 adds unsupported sworn-translator status and a one-way language direction, equates post-editing with translation, and turns a qualified dispute-risk claim into a definite lawsuit and higher bill.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B3",
+    "4": "B5",
+    "5": "E"
+  }
+}

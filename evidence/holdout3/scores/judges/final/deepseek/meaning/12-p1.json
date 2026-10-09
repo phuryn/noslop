@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 4,
+    "3": 5,
+    "4": 2,
+    "5": 1
+  },
+  "reason": "Version 5 is nearly verbatim; version 4 is closest after that. Version 1 retains all key details despite rephrasing, while version 2 omits the final planting-help appeal and version 3 also omits the neighbour-meeting element.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B3",
+    "3": "E",
+    "4": "A",
+    "5": "B5"
+  }
+}

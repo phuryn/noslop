@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2
+  },
+  "reason": "Version 2 preserves all substantive details, while version 3 omits the stated benefit of more class options during the week. Version 1 adds unsupported commitments that memberships renew on March 1 and Sunday evening classes start soon; the original only says the new rate takes effect March 1 and class times will be shared soon.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "B3",
+    "3": "A"
+  }
+}

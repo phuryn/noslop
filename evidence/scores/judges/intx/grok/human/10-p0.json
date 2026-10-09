@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 4,
+    "3": 3,
+    "4": 1,
+    "5": 2
+  },
+  "send": "5",
+  "tells": {
+    "1": "Filler opener “We wanted to let you know” and stiff “at which time” legalese that clashes with the casual close.",
+    "2": "Brochure-smooth cadence, especially “will take effect for you” and the padded “to give you more options during the week.”",
+    "3": "Stacked casual pivots: “Quick heads-up,” “On a happier note,” and “we’ll be glad to help.”",
+    "4": "none",
+    "5": "Stock benefit add-on: “so you’ll have more options during the week.”"
+  },
+  "reason": "Versions 4 and 5 read most like a skilled person writing a price notice: direct, unpadded, and free of performed cheer. I’d send 5 — the grandfathered rate is unambiguous, the tone is natural, and it stays warm without version 3’s spin.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "O",
+    "3": "C",
+    "4": "track2/A-int",
+    "5": "track2/B5-int"
+  }
+}

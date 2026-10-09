@@ -1,0 +1,13 @@
+{
+  "send": "5",
+  "reason": "It keeps every fact, including 'all repair tickets', the 2 Nov and 16 Nov dates, the read-only caveat and the Friday training deadline, without adding commitments. It also matches my bullet format, bold text, emoji and friendly tone, while version 3 drops 'all' and versions 1, 2, 4 and 6 add claims or change the voice.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B5",
+    "3": "V6A",
+    "4": "E",
+    "5": "V6C",
+    "6": "A"
+  },
+  "picked_arm": "V6C"
+}

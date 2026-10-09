@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 5,
+    "5": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "The compression strips away personality, especially in the vague “we started with what we could.”",
+    "3": "The polished three-part “Every shelf, every table, every book” and paired “Maybe” sentences feel formulaic.",
+    "4": "Redundant framing: the anniversary opening announces an anniversary to celebrate, and the next two posts repeat the space comparison.",
+    "5": "“An anniversary to celebrate” and “Those visits helped us get here” feel like generic connective padding."
+  },
+  "reason": "Version 1 has the strongest individual voice: “Not bad,” stocking what they loved, and the friend who never returned a book give it warmth and specificity. Version 2 is clean but less memorable; the others lean more heavily on polished repetition and generic sentiment, though none of these traits establishes AI authorship.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B",
+    "4": "O",
+    "5": "B3"
+  }
+}

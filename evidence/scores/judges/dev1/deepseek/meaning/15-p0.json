@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 1,
+    "4": 3
+  },
+  "reason": "Version 3 stays closest to the original wording and retains all key facts, numbers, premium value, and caveats. Version 2 is also faithful but paraphrases more; Version 4 drops the Premium unlock-more promise, and Version 1 omits several original trust, clarity, and progress details.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "B5",
+    "4": "B3"
+  }
+}

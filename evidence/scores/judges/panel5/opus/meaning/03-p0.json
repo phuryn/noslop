@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 5,
+    "3": 3,
+    "4": 1,
+    "5": 4
+  },
+  "reason": "Version 4 keeps every fact nearly word for word, and Versions 1 and 3 only lightly reframe the PDF fix. Version 5 adds emphasis the original lacks ('much sooner'), and Version 2 adds 'a lot quicker' and changes the bug from symbols displaying incorrectly to symbols not showing up at all.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "E",
+    "3": "B5",
+    "4": "A",
+    "5": "C"
+  }
+}

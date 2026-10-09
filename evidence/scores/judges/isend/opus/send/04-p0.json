@@ -1,0 +1,11 @@
+{
+  "send": "1",
+  "reason": "Version 1 keeps every fact, step and invitation and changes almost none of my wording; 3 is close but more reworded, 2 shifts the tone ('natter', exclamation), and 4 drops the chat-and-ideas invite and adds 'this Saturday'. Before sending, check the date: 18 October 2026 is a Sunday, not a Saturday.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "B5",
+    "4": "E"
+  },
+  "picked_arm": "A"
+}

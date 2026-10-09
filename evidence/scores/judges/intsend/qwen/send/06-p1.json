@@ -1,0 +1,11 @@
+{
+  "send": "3",
+  "reason": "It keeps the original structure, warm tone, and core commitments while staying within the facts provided. It also preserves the key emotional promise of having something to look forward to each month.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "track2/B5-int",
+    "3": "C",
+    "4": "E"
+  },
+  "picked_arm": "C"
+}

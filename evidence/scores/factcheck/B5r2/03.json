@@ -1,0 +1,21 @@
+{
+  "dropped": [
+    {
+      "item": "Feature labels/names ('Faster bank feed sync', 'Bulk invoice editing', 'PDF export') that identify each item",
+      "severity": "minor"
+    },
+    {
+      "item": "Explicit statement that the PDF item was a bug fix ('Fixed a bug where...'), though placement under 'Fixes' still implies it",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "'your transactions show up sooner' became 'new transactions show up sooner', a slight shift in wording but not in meaning",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

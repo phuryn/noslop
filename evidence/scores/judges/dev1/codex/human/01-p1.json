@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 5,
+    "3": 3,
+    "4": 4,
+    "5": 1
+  },
+  "send": "5",
+  "tells": {
+    "1": "The generic takeaway about 'the biggest operational wins' and 'meeting people where they already are' feels formulaic.",
+    "2": "The stacked LinkedIn conventions—results list, moral, recommendation, and closing engagement question—feel templated.",
+    "3": "The closing 'How are you handling no-shows?' feels appended to solicit engagement; the results sentence is awkwardly compressed.",
+    "4": "The conspicuously conversational phrasing and sequence of sentence fragments feel engineered for informality.",
+    "5": "The phrase 'meeting patients where they already are' is a stock business-writing takeaway."
+  },
+  "reason": "Version 5 has the strongest balance of directness, flow, and restraint; version 1 is close but spends more words explaining its lesson. These are stylistic judgments, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "O",
+    "3": "A",
+    "4": "C",
+    "5": "B3"
+  }
+}

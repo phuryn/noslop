@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 2,
+    "5": 5,
+    "6": 6
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "The post ends flatly on 'small fraction', like a safe AI compression rather than a deliberate close.",
+    "3": "The meta setup 'I want to be clear about where it comes from. It comes from...' feels over-explained and formulaic.",
+    "4": "The closing line 'a good moment to pause and say thank you' is a stock LinkedIn phrase.",
+    "5": "It stops abruptly after the scale point, and 'The work is careful and repetitive' sounds slightly synthetic.",
+    "6": "Heavy corporate clichés: 'really special milestone', 'hard work and dedication', 'our vision'."
+  },
+  "reason": "Version 1 feels the most grounded, specific and unforced, with concrete detail and a natural note of thanks. The others are serviceable but more templated, abrupt or reliant on generic LinkedIn phrasing.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "O",
+    "4": "B5",
+    "5": "B3",
+    "6": "E"
+  }
+}

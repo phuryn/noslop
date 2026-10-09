@@ -1,0 +1,13 @@
+{
+  "send": "3",
+  "reason": "Version 3 keeps every fact (mycelium replacing polystyrene, 5,000 units a month, free samples, a call next week) and stays nearly word-for-word in my own voice. The only changes are small wording tweaks like 'short call' and 'work for you.' The others either add claims and errors (1), get wordier (2, 4, 6), or sound stilted (5).",
+  "label_to_arm": {
+    "1": "E",
+    "2": "V6A",
+    "3": "A",
+    "4": "V6C",
+    "5": "B5",
+    "6": "C"
+  },
+  "picked_arm": "A"
+}

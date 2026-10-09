@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 1,
+    "3": 2,
+    "4": 3
+  },
+  "reason": "Version 2 preserves the original’s facts, nuances, subscription terms, and caveats most completely. Version 1 ranks last because it changes the renewal/cancellation wording and adds an absolute “never miss” claim.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "C",
+    "3": "B3",
+    "4": "A"
+  }
+}

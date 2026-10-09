@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+  },
+  "reason": "Version 1 preserves the substantive wording most closely, followed by version 2's minor paraphrases; version 3 slightly broadens the bug-fix statement into an assurance that currency symbols display correctly. Version 4 adds the unsupported detail that invoices previously required opening individually and strengthens “sooner” to “much sooner.”",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B5",
+    "3": "B3",
+    "4": "C"
+  }
+}

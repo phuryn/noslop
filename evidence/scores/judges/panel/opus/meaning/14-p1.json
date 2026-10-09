@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 4,
+    "4": 3
+  },
+  "reason": "Version 2 keeps nearly every fact and nuance, losing only a redundant restatement of 'two floors.' Version 1 drops 'Those visits helped us get here' and 'every book,' and adds 'to a friend.' Version 4 invents details ('what we loved,' 'first week,' 'a dozen times,' a borrowed book never returned). Version 3 changes '400 sq ft' to 'a little over 400,' adds 'pining' and 'bursting at the seams,' drops most of the thank-you, and garbles the bookshelf point.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "E",
+    "4": "C"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2
+  },
+  "reason": "Version 1 most closely preserves the original meaning and soft causal claim without adding unsupported facts. Version 3 is close but drops the \"might otherwise go unnoticed\" nuance and weakens the original \"helped reduce\" framing; Version 2 uses allowed writer details but loses key original bio content about the speaker's role in the leak-reduction work.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "track2/B3-int",
+    "3": "track2/A-int"
+  }
+}

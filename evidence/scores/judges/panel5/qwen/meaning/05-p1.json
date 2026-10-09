@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 5,
+    "3": 1,
+    "4": 3,
+    "5": 2
+  },
+  "reason": "Version 3 preserves all facts, numbers, caveats, and commitments with only trivial wording changes. Version 5 is nearly as faithful but slightly explicates that the system handles routine reassignments; Version 4 is also close but makes more small wording shifts, while Version 1 softens or alters a few nuances and Version 2 omits key secondary goals and non-goals.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "E",
+    "3": "B3",
+    "4": "B5",
+    "5": "A"
+  }
+}

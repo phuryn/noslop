@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 5,
+    "5": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "Polished, symmetrical phrasing and a decorative em dash: 'Every shelf, every table, every book had to earn its place.'",
+    "4": "Clichéd wording like 'special milestone' and 'bursting at the seams with books.'",
+    "5": "Generic, frictionless phrases like 'we could make a start' and 'Those visits helped us get here.'"
+  },
+  "reason": "Version 1 reads most like a skilled human bookseller: warm, specific in voice, and unpretentious, with natural humor. It avoids the polished generic gratitude and clichés that mark the other versions.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "track2/B5-int",
+    "3": "O",
+    "4": "E",
+    "5": "track2/A-int"
+  }
+}

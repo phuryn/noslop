@@ -1,0 +1,25 @@
+{
+  "dropped": [
+    {
+      "item": "Subject line no longer mentions the 5th player (it still appears in the body)",
+      "severity": "minor"
+    },
+    {
+      "item": "'more crossings' flavor detail about what the extra player adds",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "Subject changed from 'The Tidekeepers is here' (implies available now) to 'lands October 21'. This is consistent with the body's launch date and arguably more accurate.",
+      "severity": "minor"
+    },
+    {
+      "item": "Call to action narrowed from a general 'Want one?' to 'If you haven't [preordered]', and 'on October 21' became 'from October 21'",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

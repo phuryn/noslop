@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 6,
+    "3": 5,
+    "4": 4,
+    "5": 1,
+    "6": 2
+  },
+  "send": "5",
+  "tells": {
+    "1": "The neat parallel taglines and fragment imagery feel slightly engineered rather than spontaneous.",
+    "2": "The repeated 'pre-measured' idea and generic praise words like 'amazing', 'scrumptious', and 'yummy' make it sound unpolished and automated.",
+    "3": "Phrases like 'start at the mixing' and 'gives you a bake' are slightly unidiomatic and give a machine-paraphrased impression.",
+    "4": "'Skip the weighing out' and 'which leaves' sound like awkward filler a human editor would tighten.",
+    "5": "none",
+    "6": "The smooth triadic rhythms and perfectly packaged reassurance feel a little templated, even though the copy is clean."
+  },
+  "reason": "Version 5 sounds the most natural and specific, with conversational lines like 'skip the scale' and 'keep it going' that feel warm without being cute. It is clear, credible, and easy to publish as is.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "E",
+    "3": "A",
+    "4": "B3",
+    "5": "C",
+    "6": "B5"
+  }
+}

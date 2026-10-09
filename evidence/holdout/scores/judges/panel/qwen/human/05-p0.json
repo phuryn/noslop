@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "The neatly packaged cost comparison and reply-yes instruction feel slightly templated.",
+    "3": "The Options heading and formatted bullets look template-driven.",
+    "4": "It over-explains and pads a simple request, which feels AI-polished."
+  },
+  "reason": "Version 1 is concise, scannable, and decision-ready, with a clear recommendation and deadline. The others are either slightly templated or unnecessarily wordy.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "O",
+    "4": "C"
+  }
+}

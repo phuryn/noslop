@@ -1,0 +1,11 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2
+  },
+  "reason": "Version 1 preserves more of the original's precise wording and details, including 'to the booth' and 'engine cutaway display specs'; Version 2 omits 'to the booth' and shortens 'display specs' to 'specs', slightly reducing precision while keeping the core meaning intact.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 2,
+    "5": 5
+  },
+  "reason": "Versions 1 and 4 keep every fact, date, price, and the 'more options' rationale; 4 slightly narrows 'the change' to 'the price change.' Version 2 keeps all facts but adds editorial framing ('happier note', 'glad to help'), Version 3 drops the 'more options during the week' rationale, and Version 5 adds a renewal mechanic and implies the classes start soon, drops the rationale, and broadens the questions invitation.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "C",
+    "3": "A",
+    "4": "B5",
+    "5": "E"
+  }
+}

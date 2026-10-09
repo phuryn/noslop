@@ -1,0 +1,11 @@
+{
+  "send": "2",
+  "reason": "It keeps every fact and the original hedge: the pressure-data work 'helped' bring non-revenue water from 14% to 9%. It adds no new claims. Version 1 invents a speaker name and has encoding errors, Version 3 inflates the role to 'helped lead' and drops the hedge, and Version 4 promises to cover 'what didn't' work and adds a 'most utilities' claim.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "B5",
+    "3": "A",
+    "4": "C"
+  },
+  "picked_arm": "B5"
+}

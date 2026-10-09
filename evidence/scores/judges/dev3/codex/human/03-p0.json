@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 5,
+    "4": 3,
+    "5": 4
+  },
+  "send": "2",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "The rhetorical question and stacked casual phrases feel like a deliberate attempt to sound human.",
+    "4": "none",
+    "5": "“Before, they didn't” adds redundant, conspicuously conversational commentary."
+  },
+  "reason": "Version 2 is clear, restrained, and easy to scan—well suited to release notes. Versions 1 and 4 are close alternatives; these stylistic judgments do not establish whether AI was involved.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "C",
+    "4": "O",
+    "5": "B5"
+  }
+}

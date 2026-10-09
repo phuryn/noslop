@@ -1,0 +1,11 @@
+{
+  "send": "1",
+  "reason": "It preserves every fact and the release timing while keeping the clear, straightforward tone of the original. The wording stays close to what I wrote without adding emphasis or unnecessary commentary.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "E",
+    "4": "B5"
+  },
+  "picked_arm": "A"
+}

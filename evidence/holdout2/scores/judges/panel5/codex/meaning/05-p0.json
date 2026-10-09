@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1
+  },
+  "reason": "Version 3 most fully preserves the activities, start-to-finish demonstrations, first-tasting invitation, and invitation to bring an appetite. Version 1 omits the appetite detail, while version 2 also omits the explicit start-to-finish scope and assurance that attendees will be among the first to taste Quiet Field.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "B5"
+  }
+}

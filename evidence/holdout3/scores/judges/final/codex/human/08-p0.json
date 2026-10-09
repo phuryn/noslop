@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 6,
+    "5": 5,
+    "6": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "“We count the 48 hours from the flight” feels like an editorial clarification awkwardly inserted into customer copy.",
+    "4": "Stock sales padding: “For just”, “valuable insight”, “Simply” and “Sit back”.",
+    "5": "Forced conversational polish: “really doing” and “patches deserve a closer look”; “in your inbox” also introduces an unsupported delivery detail.",
+    "6": "The generic benefit opener “Get a clear view” and polished “capturing images to build” phrasing feel slightly templated."
+  },
+  "reason": "Version 1 is direct, credible and easy to scan, with concrete booking details and a useful, restrained description of the maps. These rankings reflect editorial feel, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "B5",
+    "3": "A",
+    "4": "E",
+    "5": "C",
+    "6": "O"
+  }
+}

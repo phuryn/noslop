@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 3,
+    "3": 1,
+    "4": 2
+  },
+  "reason": "Version 3 preserves the original's facts, commitments, and nuances most completely, including the Crowd Focus details, rollout steps, support reassurance, and closing thank-you. Version 4 is close but slightly alters the Crowd Focus wording, while Versions 2 and 1 drop the closing thank-you and some support nuance.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "B5",
+    "4": "C"
+  }
+}

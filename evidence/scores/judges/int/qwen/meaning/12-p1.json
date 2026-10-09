@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 1
+  },
+  "reason": "Version 3 most closely preserves the original abstract’s meaning, including the soft causal phrasing and caveat that leaks might otherwise have gone unnoticed, without adding unsupported facts. Version 2 is faithful but slightly less complete, while Version 1 adds writer-supplied details but loses some of the original talk framing and soft attribution around the reduction.",
+  "label_to_arm": {
+    "1": "track2/B3-int",
+    "2": "track2/A-int",
+    "3": "B3"
+  }
+}

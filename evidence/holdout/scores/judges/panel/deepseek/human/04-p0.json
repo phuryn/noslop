@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 2,
+    "4": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Starts with a formulaic welcome and uses flat, declarative sentences, ending abruptly without a warm close.",
+    "3": "Leans on the cliché “Most of us are in the same boat” and the casual “just got... in” can feel performatively informal.",
+    "4": "Uses the awkward phrase “we’re turning to helping” and a balanced rule-of-three list that feels AI-polished."
+  },
+  "reason": "Version 1 has the most natural, warm human voice with a strong hook and relaxed flow; it balances personality, clarity and credibility better than the others.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "A",
+    "3": "C",
+    "4": "B3"
+  }
+}

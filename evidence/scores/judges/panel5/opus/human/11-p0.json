@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 3,
+    "3": 2,
+    "4": 1,
+    "5": 6,
+    "6": 4
+  },
+  "send": "4",
+  "tells": {
+    "1": "Forced casualness ('and honestly, that's the fun part', 'your opinion will actually count') plus tidy bold labels on every section",
+    "2": "Slightly over-smoothed rhythm, with the stock triad 'real days off, nights that actually end, and a schedule you can plan a life around'",
+    "3": "Mild template polish ('keeping standards high without turning the kitchen into a pressure cooker'), but otherwise plain and natural",
+    "4": "Same 'pressure cooker' flourish and triad; little else stands out",
+    "5": "none (all caps, run-on punctuation and typos read as an unskilled human, not AI)",
+    "6": "Neat bold-label scaffolding ('What you'll do:', 'What we're after:') with en/em dashes, which gives it a templated feel"
+  },
+  "reason": "Version 4 is clear, warm and specific without looking formatted for a template or straining to sound casual. Version 5 is obviously human but unprofessional, and Version 1 overcorrects with inserted conversational filler.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B5",
+    "3": "A",
+    "4": "B3",
+    "5": "E",
+    "6": "O"
+  }
+}

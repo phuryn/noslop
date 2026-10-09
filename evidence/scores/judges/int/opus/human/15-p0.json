@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 3,
+    "4": 1
+  },
+  "send": "1",
+  "tells": {
+    "1": "The stock opener 'Whether you're healing from surgery, managing an injury, or working on strength and mobility' is a triad template, but the rest is lean.",
+    "2": "Generic filler like 'guidance you can trust', 'keep your recovery moving', 'BUILT FOR REAL RECOVERY', and the vague upsell 'unlock more of what the app has to offer'.",
+    "3": "none. It is plain and a bit flat, but has no obvious AI phrasing.",
+    "4": "It keeps the 'Whether you're...' triad. Its specifics (312 exercises, Gwen Harper testimonial, 4.6 rating from 1,900 reviews, founder note) don't appear in any other version and can't be verified."
+  },
+  "reason": "Version 4 reads most human because of its founder voice and concrete details, but those details are unverified, and a patient-outcome testimonial is risky on a health listing. Version 1 is the cleanest and most credible copy that's safe to publish as-is; if Version 4's facts are confirmed true, it would be the stronger choice.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "O",
+    "3": "track2/A-int",
+    "4": "track2/B3-int"
+  }
+}

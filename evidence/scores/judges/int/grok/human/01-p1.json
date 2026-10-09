@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 2,
+    "4": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Stock LinkedIn template: 'Here's what that meant,' a neat bullet triad, a generic lesson, and an engagement question.",
+    "3": "Rule-of-three payoff and the cliché about meeting patients where they already are.",
+    "4": "'My takeaway is,' the same meeting-people cliché, and a closing engagement question."
+  },
+  "reason": "Version 1 reads like someone who ran the change: it names a cost, a person, a partial failure, and what it does not know. The others recycle the same polished no-show platitudes and LinkedIn lesson structure.",
+  "label_to_arm": {
+    "1": "track2/B3-int",
+    "2": "O",
+    "3": "B3",
+    "4": "track2/A-int"
+  }
+}

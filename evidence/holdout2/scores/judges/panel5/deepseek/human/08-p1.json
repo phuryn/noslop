@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 2,
+    "4": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "The added 'but here we are' reads as a predictable conversational filler beat common in AI edits.",
+    "3": "The same 'but here we are' aside is the main tell, though the curly punctuation feels more polished.",
+    "4": "Identical to 3, so it has the same 'but here we are' tell."
+  },
+  "reason": "Version 1 is tightest and most understated, letting the owl detail and final punchline land without a predictable aside. I would send it because it feels most like a confident human writer.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "B5",
+    "4": "O"
+  }
+}

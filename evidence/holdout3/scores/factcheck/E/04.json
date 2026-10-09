@@ -1,0 +1,50 @@
+{
+  "dropped": [
+    {
+      "item": "The explicit call to action and what the open day offers: 'Please come along, meet the team and hear more about the work you help us do'",
+      "severity": "major"
+    },
+    {
+      "item": "Closing thanks addressed to all kinds of supporters: 'Whether you've donated, raised funds or cheered us on, thank you for being part of it'",
+      "severity": "minor"
+    },
+    {
+      "item": "The link between donors' generosity and the team's ability to respond: 'your generosity helps us be there when we're needed'",
+      "severity": "minor"
+    },
+    {
+      "item": "The Land Rover described as 'a welcome addition to the team and a reminder of what your support makes possible'",
+      "severity": "minor"
+    },
+    {
+      "item": "Land Rover framed as 'due to arrive' (scheduled), now 'looking forward to taking delivery'. The scheduling sense is softened.",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "Timing of the season: the original says autumn has arrived ('As autumn settles over the hills'), while the edit says it is still ahead ('focusing on the coming autumn')",
+      "severity": "minor"
+    },
+    {
+      "item": "Scope of the invitation: the original invites everyone, while the edit makes it conditional with 'If you are in the area'",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "'we have been pretty busy this year' as a characterization of the workload",
+      "severity": "minor"
+    },
+    {
+      "item": "Land Rover described as 'brand new' rather than simply 'new'",
+      "severity": "minor"
+    },
+    {
+      "item": "Conditional 'If you are in the area' on the open day invitation",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

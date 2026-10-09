@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3
+  },
+  "reason": "Version 2 matches the original most closely, including the same wording and punctuation, while Version 1 is substantively identical but uses different apostrophe styling. Version 3 omits 'but here we are', slightly weakening the original’s wry caveat.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B5",
+    "3": "B3"
+  }
+}

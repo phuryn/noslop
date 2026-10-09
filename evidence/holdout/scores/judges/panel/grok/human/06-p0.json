@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Listicle hook, then a 'Before you start' fabric check dropped in after the sealing step.",
+    "3": "Says to apply Seam Grip, then to check compatibility before applying; impersonal close ('Once cured,' 'before packing').",
+    "4": "Same apply-then-check contradiction and clipped manual cadence; a curly apostrophe is the only difference from 3."
+  },
+  "reason": "Version 1 is the only draft that puts the fabric check before you seal and still sounds like a person giving directions, so it is the one I would publish. Version 2 is chattier but structurally sloppy; 3 and 4 are near-duplicates whose contradiction hurts credibility.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "C",
+    "3": "A",
+    "4": "O"
+  }
+}

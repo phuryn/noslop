@@ -1,0 +1,58 @@
+{
+  "dropped": [
+    {
+      "item": "The lesson/takeaway: 'sometimes the biggest operational wins come from meeting people where they already are'",
+      "severity": "minor"
+    },
+    {
+      "item": "'Closing that gap matters for both the practice and the people we serve' (the stated dual benefit to practice and patients)",
+      "severity": "minor"
+    },
+    {
+      "item": "Front desk teams 'spent hours' leaving voicemails (the scale of time wasted)",
+      "severity": "minor"
+    },
+    {
+      "item": "'when they need it': the timeliness aspect of patients getting care",
+      "severity": "minor"
+    },
+    {
+      "item": "'The change was simple': framing that the fix was easy",
+      "severity": "minor"
+    },
+    {
+      "item": "Benefit framed as 'fewer empty chairs' (the capacity/utilization angle) is reduced to 'fewer missed appointments'",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "Voicemails 'rarely got returned' became 'never got returned', which overstates an absolute",
+      "severity": "minor"
+    },
+    {
+      "item": "Call to action strengthened from 'it's worth testing' to 'this is something that you should trial'",
+      "severity": "minor"
+    },
+    {
+      "item": "'If you run a multi-location practice' became 'If you have multiple practices', a slight shift in audience framing",
+      "severity": "minor"
+    },
+    {
+      "item": "'a patient who didn't get treated' became 'a patient that may need treatment', which hedges the claim",
+      "severity": "minor"
+    },
+    {
+      "item": "Closing question changed from 'What's worked for you' (asking for successes) to 'What do you do' (asking for current practice)",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "'most of the time we'd have to leave a voicemail': a frequency claim not stated in the original",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

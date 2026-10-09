@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 4,
+    "3": 1,
+    "4": 2,
+    "5": 6,
+    "6": 3
+  },
+  "send": "3",
+  "tells": {
+    "1": "Awkward non-idiomatic phrase 'I appreciate the inconvenience this delay has caused'.",
+    "2": "Abrupt, formulaic and lacks a closing/thanks; 'We'll now deliver it' is slightly stiff.",
+    "3": "none",
+    "4": "Mild template-like structure, though 'like we promised' adds naturalness.",
+    "5": "Overly formal and inflated phrasing ('I am so sorry to hear that', 'I can tell you that').",
+    "6": "Generic empathy phrase 'I understand the delay has been inconvenient' and no sign-off."
+  },
+  "reason": "Version 3 sounds most like a skilled human wrote it because it is specific, takes ownership naturally, and avoids corporate boilerplate while still being warm. I would send it because it pairs empathy with clear action and credible completed-refund wording.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B3",
+    "3": "C",
+    "4": "B5",
+    "5": "E",
+    "6": "A"
+  }
+}

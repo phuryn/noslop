@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 1,
+    "3": 2,
+    "4": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "Bold section labels and an em dash in the title give it a templated, AI-structured feel.",
+    "2": "none",
+    "3": "Reads like a cleaned-up paraphrase: smooth and generic, but lacks concrete details or a distinct voice.",
+    "4": "Casual touches like 'We're after someone' and the lowercase title feel like surface-level humanization over the same thin copy."
+  },
+  "reason": "Version 2 stands out because it grounds the pitch in specific, credible details and proof points, making it feel authentic and useful; the others are polished but generic variations of the same copy.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "track2/B3-int",
+    "3": "B3",
+    "4": "track2/A-int"
+  }
+}

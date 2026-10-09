@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "over-clean parallel structure and choppy sentence splitting make it feel mechanically edited",
+    "3": "bolted-on proper-noun details and explicit emotion labeling feel like an AI attempt at authenticity",
+    "4": "the cushioning phrase 'found myself' plus neat gerund list feels AI-smoothed"
+  },
+  "reason": "Version 1 feels the most lived-in and naturally paced, with concrete small actions and reflection that do not overexplain. Version 4 is close but slightly canned, while 2 is clean but mechanical and 3's added specifics feel forced.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "B3",
+    "3": "track2/B3-int",
+    "4": "O"
+  }
+}

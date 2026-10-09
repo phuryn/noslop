@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 5,
+    "3": 6,
+    "4": 1,
+    "5": 3,
+    "6": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none; only a slightly tidy, even rhythm",
+    "2": "Filler pleasantries ('We're glad to have you along', 'Wherever you are with your winter preparations') and a three-part list in the workshop line",
+    "3": "Two stacked three-part lists ('put the kettle on, catch your breath and enjoy…' and 'Bring your questions, brush up… and catch up…')",
+    "4": "The em-dash in the sign-off and a stock three-part list in the workshop line, though the voice ('kept us on our toes') feels genuine",
+    "5": "Choppy, over-casual rewrite with redundancy ('you're not alone. Most of us are in the same boat') that sounds deliberately 'humanized'",
+    "6": "Smooth, templated phrasing with a three-part list ('talk through your questions, brush up on the practicalities and catch up…')"
+  },
+  "reason": "Version 4 has the most distinct personal voice, but it puts the welcome at the end and leans on an em-dash. Version 1 keeps the warmth, opens with the welcome, avoids padded three-part lists and gives the key details cleanly, so it's the one I'd send.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "B",
+    "4": "O",
+    "5": "C",
+    "6": "B2"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "send": "4",
+  "reason": "It keeps all the key facts, commitments, subscription terms, and medical caveats from the original while reading naturally and close to the writer’s intended tone. It is the most faithful and polished of the options.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "E",
+    "3": "C",
+    "4": "B5"
+  },
+  "picked_arm": "B5"
+}

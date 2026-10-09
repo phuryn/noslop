@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2,
+    "4": 4,
+    "5": 5
+  },
+  "send": "1",
+  "tells": {
+    "1": "The stock phrase 'the care they need when they need it'; otherwise direct and economical.",
+    "2": "The staged conversational rhythm, three consecutive outcome fragments, and generic operational takeaway feel overworked.",
+    "3": "The 'meeting patients where they already are' lesson adds a familiar business cliché to an otherwise focused account.",
+    "4": "The formulaic sequence of hook, reveal, benefits list, moral, recommendation, and engagement question.",
+    "5": "none"
+  },
+  "reason": "Version 1 reads most like a skilled editor's publishable post: specific, concise, and grounded in the operational change without belaboring the lesson. Version 5 has plausible human roughness, but its awkward syntax and repetition weaken it under the skilled-writer criterion; these stylistic judgments do not establish authorship.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "B3",
+    "4": "O",
+    "5": "E"
+  }
+}

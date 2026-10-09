@@ -1,0 +1,21 @@
+{
+  "dropped": [],
+  "changed": [
+    {
+      "item": "'often while most of us are asleep' became 'often while the rest of us are asleep', which widens the scope from most staff to everyone else",
+      "severity": "minor"
+    },
+    {
+      "item": "The general reflection 'it's good to pause and recognise progress when it happens' became the situation-specific 'For now, though, it's worth stopping to recognise the progress we've made'",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "'the drop in water use has surprised us' adds an explicit claim of surprise, though this is close to 'bigger than we expected'",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

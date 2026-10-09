@@ -1,0 +1,11 @@
+{
+  "send": "3",
+  "reason": "Only version 3 keeps the corrected facts and caveats: two-way texting as the real driver, about $1,400 a month, 11 hours a week saved, phoning patients over 70, Sopot stuck at 12%, and the summer confound, without the oversimplified “all we did was text” claim.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "E",
+    "3": "track2/B5-int",
+    "4": "track2/A-int"
+  },
+  "picked_arm": "track2/B5-int"
+}

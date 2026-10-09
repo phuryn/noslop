@@ -1,0 +1,33 @@
+{
+  "dropped": [
+    {
+      "item": "Closing engagement question/call to action: 'What's worked for you in reducing no-shows?'",
+      "severity": "minor"
+    },
+    {
+      "item": "Framing that the change was simple ('The change was simple')",
+      "severity": "minor"
+    },
+    {
+      "item": "'when they need it': the timeliness of care as a benefit",
+      "severity": "minor"
+    },
+    {
+      "item": "Explicit statement that closing the gap matters for both the practice and the people served (practice-side benefit now only implied via 'slot someone else could have used')",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "'sometimes the biggest operational wins come from...' became 'the biggest operational wins often come from...' (frequency/certainty strengthened)",
+      "severity": "minor"
+    },
+    {
+      "item": "Framed as a personal lesson learned ('The lesson for me') became a general opinion ('I think')",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

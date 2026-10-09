@@ -1,0 +1,11 @@
+{
+  "send": "1",
+  "reason": "It preserves all the original facts and the request for a brief fit conversation without adding new claims or awkward phrasing. It also reads clean, direct, and natural.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "E",
+    "3": "C",
+    "4": "A"
+  },
+  "picked_arm": "B5"
+}

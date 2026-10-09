@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2,
+    "4": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none; the only weakness is that post 5 bolts the best-seller fact onto the thank-you, which is a human editing seam, not an AI pattern",
+    "2": "rhetorical cadence: 'every shelf, every table, every book' plus the paired 'Maybe it's been reread. Maybe it's been passed along.' wistful anaphora, with no concrete details anywhere",
+    "3": "generic sentimental filler ('One of the lovely things about ten years in a bookshop is that...') that sounds warm but says nothing specific",
+    "4": "stacked polish tells: em dash reveal ('two floors of books—and an anniversary'), colon setup line, 'Maybe... Maybe...' anaphora, and a 'Now we have two floors' restatement"
+  },
+  "reason": "Version 1 is the only one with real, checkable specifics (Middlemarch, Mr. Okafor, the $38,000 GoFundMe, the harbor history best seller), which make it credible and unmistakably human. The other three are interchangeable warm generalities that could describe any shop's anniversary. Send it only if those facts are accurate.",
+  "label_to_arm": {
+    "1": "track2/B3-int",
+    "2": "track2/A-int",
+    "3": "B3",
+    "4": "O"
+  }
+}

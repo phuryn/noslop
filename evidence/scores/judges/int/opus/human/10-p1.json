@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 4,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "Filler benefit line 'so you'll have more options during the week' doesn't fit Sunday classes",
+    "2": "Padded benefit clause 'which gives you more options during the week' plus a restating sentence ('After that, the $135 rate applies to you too')",
+    "3": "Formal corporate phrasing ('will increase', 'will take effect for you') and a tacked-on purpose clause 'to give you more options during the week'",
+    "4": "none"
+  },
+  "reason": "Version 4 is the tightest. It states the price change and the grandfathering in two clear sentences and skips the illogical 'more options during the week' line about Sunday classes. It reads like a studio owner writing directly to members.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "track2/B3-int",
+    "3": "O",
+    "4": "track2/A-int"
+  }
+}

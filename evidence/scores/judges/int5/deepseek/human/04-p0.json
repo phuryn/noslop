@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2,
+    "4": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Overly formal date phrasing with 'on Saturday, Oct 18, at' and slightly smoothed-out syntax.",
+    "3": "Em dash construction 'frost—a small job...' reads like an AI-style stylistic upgrade.",
+    "4": "Clunky reordering: 'The hardest part comes after that, which is leaving them alone' and abrupt 'Also, put...'"
+  },
+  "reason": "Version 1 is the most natural and conversational for a community newsletter; it avoids over-polished grammar and clunky rewrites, so I would send it.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "B5",
+    "3": "O",
+    "4": "track2/B5-int"
+  }
+}

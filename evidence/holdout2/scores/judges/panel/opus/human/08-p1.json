@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "The tacked-on 'but here we are' is a stock conversational shrug that softens an otherwise dry, deadpan line.",
+    "2": "none",
+    "3": "Same 'but here we are' filler; the typographic curly apostrophes are a weak signal of machine-generated or post-processed text, though a word processor could also produce them."
+  },
+  "reason": "The three versions are nearly identical. Version 2 ends the first paragraph on the understated 'slightly excessive response to an owl', which lands the joke more cleanly and confidently. The other two dilute it with a cliché tag.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "O"
+  }
+}

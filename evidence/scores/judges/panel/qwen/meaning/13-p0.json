@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+  },
+  "reason": "Version 1 preserves nearly all facts, dates, caveats, and mitigations with only minor wording changes; Version 2 is close but softens 'capture' to 'serve' and drops 'targeted.' Version 3 remains broadly faithful but paraphrases away some precision, while Version 4 omits or changes several key details and mitigations.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "C",
+    "4": "E"
+  }
+}

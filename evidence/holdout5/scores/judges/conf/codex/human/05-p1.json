@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 5,
+    "3": 7,
+    "4": 4,
+    "5": 6,
+    "6": 2,
+    "7": 3
+  },
+  "send": "6",
+  "tells": {
+    "1": "none",
+    "2": "Stacked friendliness—paired emojis, 'Just a quick heads-up,' and 'Got questions or feeling stuck?'—feels templated.",
+    "3": "none",
+    "4": "The emoji greeting and sign-off surrounding neatly labeled bullets feel like a stock Slack rewrite.",
+    "5": "The same stacked friendliness as version 2, with a slightly less informative opening.",
+    "6": "none",
+    "7": "none"
+  },
+  "reason": "Version 1 reads most like a confident colleague; I would send version 6 because its concise bullets make the dates and required actions easiest to scan in Slack. Version 3 ranks last for wordiness and weak organization; these judgments concern editorial quality and stylistic impressions, not proof of AI authorship.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "V6C",
+    "3": "E",
+    "4": "O",
+    "5": "V6A",
+    "6": "A",
+    "7": "C"
+  }
+}

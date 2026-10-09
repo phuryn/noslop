@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 2
+  },
+  "reason": "Version 1 preserves nearly all meaning; version 4 slightly strengthens “hadn’t given much thought” to “hadn’t thought.” Version 2 adds or shifts nuances such as “the whole drive” and teaching “better,” while version 3 invents careful preparation, replaces specific reflections with broad claims, and omits key details.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "C",
+    "3": "E",
+    "4": "A"
+  }
+}

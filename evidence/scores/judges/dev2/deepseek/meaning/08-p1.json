@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 3,
+    "4": 1
+  },
+  "reason": "Version 4 stays closest to the original; version 1 is nearly as close but slightly rephrases the age wording and drops the closing benefit. Version 3 keeps the main recommendation and closing value but omits 'other health markers,' while version 2 changes the opening recommendation and loses the closing practical benefit/guidance nuance.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "A",
+    "3": "C",
+    "4": "B3"
+  }
+}

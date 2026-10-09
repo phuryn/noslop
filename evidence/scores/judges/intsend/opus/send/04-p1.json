@@ -1,0 +1,11 @@
+{
+  "send": "4",
+  "reason": "Version 4 keeps every fact (frost timing, sunny well-drained spot, cloves pointed end up, the Oct 18 swap at Millbrook Community Hall, the chat and ideas) and my own phrasing, changing only the em dash to a full stop. Version 3 drops the chat and ideas and adds 'this Saturday'. Version 2 shifts the voice ('natter', exclamation marks), and version 1 reads clunkier than my draft.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "C",
+    "3": "E",
+    "4": "track2/A-int"
+  },
+  "picked_arm": "track2/A-int"
+}

@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 7,
+    "3": 5,
+    "4": 1,
+    "5": 4,
+    "6": 3,
+    "7": 6
+  },
+  "send": "4",
+  "tells": {
+    "1": "Neat, slogan-like closer ('These results are yours.') and a stacked three-part benefits sentence ('good for the environment, eases our running costs, and...')",
+    "2": "Formulaic arc: a three-part benefits list, the 'None of this happens just because a machine arrives' pivot, and the stock 'pause and recognise progress' sign-off",
+    "3": "Redundant emphasis ('surprised us. It's bigger than we expected.') plus a colon-led triplet ('New equipment, new routines, new ways of working:')",
+    "4": "none",
+    "5": "Stock 'A machine doesn't do that on its own' pivot and the rhetorical 'To our night shift team: thank you.' line",
+    "6": "Still follows the template's 'machine doesn't do it alone' pivot and three-item list, though trimmed",
+    "7": "Same as 3: the redundant 'surprised us. It's bigger than we expected' and the colon-fronted triplet of 'new' items"
+  },
+  "reason": "Version 4 has the plain, slightly uneven voice of a real company post, including curly quotes, an understated 'It might not sound like much', and a modest claim of 'significantly less water' with no inflated surprise. Its one clumsy repetition ('to our customers... to our customers') is easy to fix, whereas the other versions all share the same polished AI template of pivot lines, three-part lists and recognise-progress sign-offs.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "O",
+    "3": "V6A",
+    "4": "E",
+    "5": "B5",
+    "6": "A",
+    "7": "V6C"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Three evenly weighted sentences and the formal 'remaining piece' label feel like an outline turned into prose.",
+    "3": "A comma-and yokes the leftover work and the schedule into one awkward sentence.",
+    "4": "The 'and' coordinates unequal facts (percent done and what's left) in a stiff, template-like way."
+  },
+  "reason": "Version 1 sounds like someone typing in Slack: 'with only … left' is idiomatic and the two sentences carry the status without extra packaging. The others lean on the stiffer 'remaining piece' frame or force unrelated facts together.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "O",
+    "3": "B3",
+    "4": "track2/B3-int"
+  }
+}

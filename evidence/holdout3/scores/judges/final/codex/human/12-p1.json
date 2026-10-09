@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 2,
+    "3": 6,
+    "4": 4,
+    "5": 1,
+    "6": 3
+  },
+  "send": "5",
+  "tells": {
+    "1": "The stacked invitations and enthusiastic closing feel slightly formulaic.",
+    "2": "none",
+    "3": "The conspicuous conversational phrasing and sentimental 'give these young trees a good start' feel engineered for warmth.",
+    "4": "none",
+    "5": "none",
+    "6": "The closing repeats the planting purpose in a familiar promotional cadence."
+  },
+  "reason": "Version 5 is clear, welcoming and economical, with all the practical details and no strained friendliness. These rankings judge editorial effect, not authorship; none of these features reliably establishes AI involvement.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "A",
+    "3": "C",
+    "4": "E",
+    "5": "B3",
+    "6": "B5"
+  }
+}

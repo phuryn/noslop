@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 5,
+    "4": 4,
+    "5": 6,
+    "6": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Slight cliché pile-up with 'rolling up your sleeves' and 'proper trade with a future' makes it feel a little formulaic.",
+    "3": "The slogan-like 'real trade with real prospects' and generic 'skills that are always in demand' feel AI-polished.",
+    "4": "The compressed first paragraph and slightly awkward 'a trade that people will hire you for' read like an edited rewrite.",
+    "5": "Formal rhetorical opening and repeated 'career for life'/'lifetime of employment' phrasing feel template-generated.",
+    "6": "Colon-delivered slogan 'real trade with real prospects:' and 'If that sounds like you' CTA feel formulaic."
+  },
+  "reason": "Version 1 reads most naturally human: it has concrete workshop detail, relaxed UK shop-floor phrasing, and avoids the formulaic slogans and CTAs that make the others feel more templated.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "C",
+    "3": "B5",
+    "4": "A",
+    "5": "E",
+    "6": "O"
+  }
+}

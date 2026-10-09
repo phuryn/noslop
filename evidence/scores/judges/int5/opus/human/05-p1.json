@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 1,
+    "4": 3
+  },
+  "send": "3",
+  "tells": {
+    "1": "Bolded inline lead-ins on every bullet, introduced by the stock line 'The consequences are significant:'",
+    "2": "The bullets keep a rigid claim-then-elaboration template, and the secondary goals echo each other ('Keep match quality up:' / 'Keep clients...').",
+    "3": "none",
+    "4": "Stiff nominalized phrasing carried over from the AI draft ('Give coordinators visibility into...', 'Preserve match quality:'), and the consequences are crammed into one dense paragraph."
+  },
+  "reason": "Version 3 is clean and specific, uses plain verbs ('how much coordinator effort drops', 'Replacements must meet...'), and has no formatting tics, so it reads most like a skilled PM wrote it. Version 4 drops the useful 'not routine reassignments' contrast and buries scannable consequences in prose, and Version 1 has the most obvious AI scaffolding.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "track2/B5-int",
+    "3": "B5",
+    "4": "track2/A-int"
+  }
+}

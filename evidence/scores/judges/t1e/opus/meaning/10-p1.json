@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2
+  },
+  "reason": "Version 1 keeps every fact, date, price, commitment and the 'more options' rationale. Version 3 drops that rationale, and Version 2 also changes meaning by saying the classes are 'starting soon' (not just the times), adding a renewal mechanism, narrowing 'current member' to monthly members, and dropping both the rationale and 'about the change.'",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "E",
+    "3": "A"
+  }
+}

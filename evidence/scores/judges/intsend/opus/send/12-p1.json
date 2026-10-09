@@ -1,0 +1,11 @@
+{
+  "send": "4",
+  "reason": "Version 4 keeps my facts and hedges, including 'helped bring non-revenue water down' and the lessons and considerations for other utilities, and it reads like my own voice. Version 3 says 'We did it' about the whole 14% to 9% drop, which is the attribution I said I couldn't claim. Version 2 invents a speaker name and has encoding errors.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "E",
+    "3": "track2/B5-int",
+    "4": "C"
+  },
+  "picked_arm": "C"
+}

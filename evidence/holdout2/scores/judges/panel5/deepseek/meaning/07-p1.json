@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1
+  },
+  "reason": "Version 3 preserves the original facts, caveats, and safety sentiment most fully, while Version 1 drops the 'keep each other safe' nuance and Version 2 omits 'or harm' and 'without exception'.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "B5"
+  }
+}

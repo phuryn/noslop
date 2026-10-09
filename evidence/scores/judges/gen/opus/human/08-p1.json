@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 1,
+    "3": 3,
+    "4": 2
+  },
+  "send": "4",
+  "tells": {
+    "1": "Em dashes plus a promotional closer ('a practical way to get a fuller picture of your dog's health and make the most of their yearly checkup') that sounds like generic marketing.",
+    "2": "none. It reads like a real clinic staffer: wordy ('it is important to have blood work performed', 'keep on top of'), with a comma splice and an unfinished last sentence.",
+    "3": "Heavily trimmed and very even. The bare '$129' ending feels abrupt, and dropping the vaccine contrast weakens the hook.",
+    "4": "Mild 'which helps guide care' filler, but the phrasing is natural overall ('before you'd notice symptoms')."
+  },
+  "reason": "Version 2 sounds the most human but is truncated and clunky, so it can't be published as is. Version 4 keeps the useful vaccine contrast, reads naturally, and avoids the salesy em-dash closer in Version 1.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "gen/E-write",
+    "3": "A",
+    "4": "B3"
+  }
+}

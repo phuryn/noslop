@@ -1,0 +1,21 @@
+{
+  "dropped": [
+    {
+      "item": "Nordwind pilot was completed 'successfully'. The edit says only that it is 'complete', which loses the positive outcome.",
+      "severity": "minor"
+    },
+    {
+      "item": "Thanks to readers for their continued support",
+      "severity": "minor"
+    }
+  ],
+  "changed": [],
+  "added": [
+    {
+      "item": "Next steps are explicitly 'with them' (Nordwind). The original only said 'we're working on next steps' without naming a counterparty, though this was implied.",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

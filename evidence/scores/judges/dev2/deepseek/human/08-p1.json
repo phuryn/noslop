@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 5,
+    "4": 3,
+    "5": 1
+  },
+  "send": "5",
+  "tells": {
+    "1": "Uses formulaic AI-friendly phrases like 'health markers' and 'baseline to track over time.'",
+    "2": "Mostly natural, but 'baseline to track over time' still sounds templated.",
+    "3": "Overly polished marketing ending ('a practical way... make the most...') reads AI-generated.",
+    "4": "Clinical, clipped phrasing like 'Each year's results also give your veterinarian a baseline to compare against' feels stiff.",
+    "5": "none"
+  },
+  "reason": "Version 5 is the most conversational, natural, and persuasive while staying clear and credible; version 3 is the most over-polished and marketing-like.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "B5",
+    "3": "O",
+    "4": "A",
+    "5": "C"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none. The sections are thin and a bit flat, but the copy rests on concrete, checkable details (Ledger Hill Mill, 2,800 subscribers, Rosa Delgado's fundraiser) rather than mood.",
+    "2": "Paired parallel fragments used as filler: 'A little measuring done. A little joy delivered.' and 'Less measuring. More making.', along with a cozy-vignette fragment list ('An afternoon with the oven on. Something homemade to share.').",
+    "3": "Generic cozy imagery ('a quiet cup of tea with the last crumb') and a redundant close ('for as long as you like, and cancel whenever you want') that repeats the hero line instead of adding information."
+  },
+  "reason": "Version 1 is the only one with specifics: a named mill, a real subscriber count and a customer story. That makes it credible and distinctly human. Versions 2 and 3 repeat the same pre-measured/free-shipping point in vague lifestyle language, and 2 leans hardest on the symmetrical fragment formula.",
+  "label_to_arm": {
+    "1": "track2/B2-int",
+    "2": "O",
+    "3": "track2/A-int"
+  }
+}

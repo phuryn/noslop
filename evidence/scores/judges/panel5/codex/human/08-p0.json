@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 6,
+    "3": 3,
+    "4": 2,
+    "5": 4,
+    "6": 5
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "The closing phrase stacks generic benefits: 'a practical way,' 'a fuller picture,' and 'make the most of their yearly checkup.'",
+    "3": "The combination of 'hits 7,' 'something’s off,' and 'a simple way to get the full picture' feels deliberately casual and slightly overworked.",
+    "4": "none",
+    "5": "none",
+    "6": "The final clause adds a familiar promotional summary that largely repeats the paragraph’s existing point."
+  },
+  "reason": "Version 1 is direct, specific, and restrained, with a clean price statement; version 4 is a close second. Version 5 sounds naturally written but needs tightening, while the longer promotional endings weaken versions 2 and 6; these are stylistic judgments, not reliable evidence of authorship.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "O",
+    "3": "C",
+    "4": "B3",
+    "5": "E",
+    "6": "B5"
+  }
+}

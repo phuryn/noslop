@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 5,
+    "3": 3,
+    "4": 2,
+    "5": 1
+  },
+  "reason": "Version 5 preserves nearly all original facts, commitments, and nuances with only minor phrasing changes. Version 4 is very close but softens a few original nuances, Version 3 changes the hero promise slightly, Version 1 compresses and alters more phrasing, and Version 2 adds new claims not present in the original.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "E",
+    "3": "B3",
+    "4": "C",
+    "5": "B5"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 5,
+    "4": 4,
+    "5": 1
+  },
+  "send": "5",
+  "tells": {
+    "1": "Flattened, over-smoothed phrasing ('Our crews did that work, in summer heat and winter cold') loses the warmth a person would bring to a thank-you",
+    "2": "none",
+    "3": "Stock intensifiers ('blazing heat and freezing cold', 'every single install', 'lasting career') plus an exclamation point make it read as generic promotional copy",
+    "4": "Colon-driven compression ('The number is our members' too:', 'program: 12 spots, paid training...') crams the members' thank-you into the crew paragraph and reads like a condensed summary",
+    "5": "Mild parallel framing ('That number belongs to... It also belongs to...'), though it reads as deliberate rhetoric rather than filler"
+  },
+  "reason": "Version 5 has the most natural voice: clear credit to crews and members, a punchy fragment list for the apprenticeship details, and no hype. Version 3 leans on stock intensifiers, and Version 4 merges the two thank-yous into one cramped paragraph.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B5",
+    "3": "C",
+    "4": "B3",
+    "5": "O"
+  }
+}

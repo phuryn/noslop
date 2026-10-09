@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 1,
+    "4": 3
+  },
+  "send": "3",
+  "tells": {
+    "1": "Em-dash antithesis (“history—and a future”) plus “find their voice” and “It’s a privilege.”",
+    "2": "Balanced slogan “a history and a future worth caring for.”",
+    "3": "none",
+    "4": "Vague literary paraphrase “worth looking after what comes next,” with “a real privilege” and “sound like themselves.”"
+  },
+  "reason": "Version 3 sounds like a working restorer: specific, plain, and slightly unpolished. The others recycle the same history/future slogan, privilege language, or instrument-personification that reads as generated marketing copy.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B3",
+    "3": "A",
+    "4": "C"
+  }
+}

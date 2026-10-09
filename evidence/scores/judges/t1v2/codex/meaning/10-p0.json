@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 1,
+    "4": 3
+  },
+  "reason": "Version 3 best preserves the facts, commitments, and reason for adding classes; version 2 omits that reason, while version 4 also makes the monthly nature of current members’ continued payments less explicit. Version 1 preserves the core details but adds a workout-specific assumption and an explicit promise to help.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B2",
+    "4": "B"
+  }
+}

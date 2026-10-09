@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2,
+    "4": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Anonymous 'the speaker' bio and vague, formulaic references to 'lessons' and 'considerations' without concrete details.",
+    "3": "Anonymous 'the speaker' bio and an overly compressed, generic summary with no supporting specifics.",
+    "4": "Opens with a broad truism and uses stock phrases like 'practical considerations' and 'make better use.'"
+  },
+  "reason": "Version 1 reads most like a skilled human wrote it because it has concrete results, named personnel, candid operational caveats, and a clear first-person perspective. The others are generic and lack the specific, credible details that make an abstract feel human.",
+  "label_to_arm": {
+    "1": "track2/B3-int",
+    "2": "B3",
+    "3": "track2/A-int",
+    "4": "O"
+  }
+}

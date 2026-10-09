@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 4,
+    "4": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "Over-formatted bold 'Feature:' bullets and the phrase 'Fixed a bug where...'",
+    "2": "none",
+    "3": "Awkward 'Releases October 14' phrasing and clipped 'instead of one by one'",
+    "4": "Markdown-heavy boilerplate with a generic 'Fixed a bug where...' fix line"
+  },
+  "reason": "Version 2 reads like a direct, plain human-edited changelog; it states fixes as outcomes and avoids the 'fixed a bug where' construction. I would send it for clarity, credibility, and human feel.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "track2/B3-int",
+    "3": "B3",
+    "4": "track2/A-int"
+  }
+}

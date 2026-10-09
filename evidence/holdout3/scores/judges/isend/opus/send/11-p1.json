@@ -1,0 +1,11 @@
+{
+  "send": "3",
+  "reason": "Version 3 keeps nearly every fact and nuance (fear as a practical problem, not a flaw; surprise at not minding; oddly restful; the room metaphor) in my own register. Its only loss is the 'not triumphant' contrast, which 'quietly astonished' largely carries. Version 1 adds a casual 'sure' and 'a lot of' and drops the surprise, Version 2 cuts the character-flaw point, and Version 4 changes facts and drops the ending image.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B5",
+    "4": "E"
+  },
+  "picked_arm": "B5"
+}

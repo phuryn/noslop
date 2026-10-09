@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 5,
+    "3": 3,
+    "4": 2,
+    "5": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "The stock question-and-reassurance opener and conspicuously casual wording feel manufactured; the compatibility warning also arrives after the application instruction.",
+    "3": "The compatibility warning follows the application instruction, suggesting sentence-level polish without a full sequencing check.",
+    "4": "none",
+    "5": "The same sequencing problem as version 3: the compatibility warning arrives after the application instruction."
+  },
+  "reason": "Version 1 has the clearest sequence, useful paragraph breaks, and an explicit instruction to maintain the temperature throughout curing. These are editorial judgments, not reliable evidence of authorship; versions 3 and 5 differ only in apostrophe typography, so their relative ranks are arbitrary.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "C",
+    "3": "O",
+    "4": "B3",
+    "5": "A"
+  }
+}

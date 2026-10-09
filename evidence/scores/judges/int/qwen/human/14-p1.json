@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 2,
+    "4": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Redundant mention of the two floors and a vaguely cozy, generic tone that feels templated.",
+    "3": "Smooth but generic sentiment with no concrete specifics, giving it a polished AI sheen.",
+    "4": "Repeats the two-floors idea and leans on formulaic parallel sentences."
+  },
+  "reason": "Version 1 reads most human because its specific local details, named customers, and lived-in history give it credibility and warmth. The other versions are clear but more generic, repetitive, and safely polished.",
+  "label_to_arm": {
+    "1": "track2/B3-int",
+    "2": "O",
+    "3": "B3",
+    "4": "track2/A-int"
+  }
+}

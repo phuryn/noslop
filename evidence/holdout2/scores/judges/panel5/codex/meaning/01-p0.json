@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 1
+  },
+  "reason": "Versions 3 and 2 preserve essentially all substantive meaning; 3 narrowly edges 2 by keeping the introduction request and offer to provide a blurb distinct. Version 1 omits that the Nordwind pilot completed successfully and adds that next steps are being pursued 'with them,' which the original does not explicitly state.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B5",
+    "3": "B3"
+  }
+}

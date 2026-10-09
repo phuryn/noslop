@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2
+  },
+  "reason": "Version 1 keeps nearly all original facts and nuance, including the fuller-picture benefit at the yearly checkup. Version 3 keeps the baseline tracking/care-guidance point but drops the final benefit, while Version 2 loses that care-guidance nuance and the fuller-picture framing while adding 'can be added.'",
+  "label_to_arm": {
+    "1": "track2/B3-int",
+    "2": "track2/A-int",
+    "3": "B3"
+  }
+}

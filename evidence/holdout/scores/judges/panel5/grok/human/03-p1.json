@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 2,
+    "4": 3,
+    "5": 5
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Markdown bold headers, a rhetorical-question pivot, and a Kestrel-family sign-off.",
+    "3": "The battery line restates itself: longer battery life, so they run longer on each charge.",
+    "4": "Stock family closer, and the opening promises two benefits then only develops one.",
+    "5": "Template bold headers, family sign-off, and the patronizing no-silly-question line."
+  },
+  "reason": "Version 1 reads like a person writing a clear product note: a specific subject, plain paragraphs, and a natural uneven emphasis on Crowd Focus. The others lean on template structure, stock warmth, or redundant gloss, so I would send 1.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "C",
+    "3": "A",
+    "4": "B5",
+    "5": "O"
+  }
+}

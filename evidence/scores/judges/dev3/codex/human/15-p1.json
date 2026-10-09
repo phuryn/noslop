@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 4,
+    "4": 5,
+    "5": 1
+  },
+  "send": "5",
+  "tells": {
+    "1": "Generic promotional padding: “Built for real recovery” and “get more of what the app has to offer.”",
+    "2": "Concentrated conversational polish: “nudge,” “tweak,” “bouncing back,” and “stick with it” make the friendliness feel deliberate.",
+    "3": "“Unlocks additional features” is a stock placeholder; the rest is plain rather than distinctly AI-like.",
+    "4": "Stacked marketing formulas: “guidance you can trust,” “keep you on track,” and “unlock more,” alongside the overpromise “always know.”",
+    "5": "A few familiar stock phrases remain, especially “stay consistent” and “see how far you've come.”"
+  },
+  "reason": "Version 5 has the best balance of approachable language, concrete information, and restraint, though it should explain what Premium includes before publication. These rankings reflect editorial impressions, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "C",
+    "3": "A",
+    "4": "O",
+    "5": "B3"
+  }
+}

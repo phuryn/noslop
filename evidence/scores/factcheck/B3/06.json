@@ -1,0 +1,16 @@
+{
+  "dropped": [
+    {
+      "item": "Tagline 'A little measuring done. A little joy delivered.'",
+      "severity": "minor"
+    },
+    {
+      "item": "Section headline 'Less measuring. More making.' (replaced by 'Skip the weighing out.'; the 'more making' framing is lost)",
+      "severity": "minor"
+    }
+  ],
+  "changed": [],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

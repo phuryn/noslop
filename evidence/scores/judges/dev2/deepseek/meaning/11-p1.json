@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2,
+    "4": 4
+  },
+  "reason": "Version 2 is most faithful, retaining all key facts, figures, and commitments with only cosmetic wording changes. Version 3 keeps the schedule commitment but paraphrases more and adds minor nuance; versions 1 and 4 drop the 'schedule you can plan a life around' commitment, with 4 paraphrasing more heavily.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "C",
+    "4": "B5"
+  }
+}

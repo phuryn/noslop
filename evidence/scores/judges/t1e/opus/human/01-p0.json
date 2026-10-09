@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "none",
+    "2": "The neat three-part benefits sentence ('fewer empty chairs... less phone time... more patients get the care they need when they need it') is slightly too polished.",
+    "3": "Templated LinkedIn scaffolding: 'The change was simple:', 'Here's what that meant in practice:' with a tidy three-item bullet list, and an inserted 'The lesson for me' takeaway.",
+    "4": "The tacked-on platitude 'the biggest operational win came from meeting patients where they already are'."
+  },
+  "reason": "Version 1 has the clumsy, run-on texture of a real practice owner, but its rambling list and grammar weaken credibility. Version 2 keeps the concrete facts and plain voice, cuts the filler, and avoids the formulaic hooks and moralizing lessons in 3 and 4, so it's the one I'd publish.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "A",
+    "3": "O",
+    "4": "B3"
+  }
+}

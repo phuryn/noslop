@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "The generic 'Thank you for your patience' closer, which also thanks customers for something they had no choice about",
+    "2": "none",
+    "3": "The padded triplet 'whether you were trying to work, keep in touch or relax at home' and a second apology tacked onto the end"
+  },
+  "reason": "Version 2 is the tightest and most direct. It apologises once, gives the facts and remedy, and stops without stock filler. Version 3 adds a formulaic list and a redundant closing apology that make it feel templated.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "O"
+  }
+}

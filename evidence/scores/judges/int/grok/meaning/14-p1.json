@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2
+  },
+  "reason": "Version 2 stays nearly verbatim and adds nothing. Version 3 only compresses a few nuances (the two “maybe” possibilities become “or”; the two-floor contrast is not restated). Version 1 drops the small-space reflection and the books-still-on-shelves theme and adds “neighbors who keep reading it,” which neither the thread nor the answers support.",
+  "label_to_arm": {
+    "1": "track2/B3-int",
+    "2": "track2/A-int",
+    "3": "B3"
+  }
+}

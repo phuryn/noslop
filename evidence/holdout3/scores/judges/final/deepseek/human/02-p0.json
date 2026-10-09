@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 5,
+    "4": 4,
+    "5": 3,
+    "6": 6
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "Formulaic polite opener and closer ('I wanted to see if you'd be open to trying...' / 'Happy to send samples...')",
+    "4": "Over-polished, balanced phrasing ('good fit', 'give your teams a chance')",
+    "5": "none",
+    "6": "No AI tell; errors are human and unskilled ('trialing in a cider', 'cinema's')"
+  },
+  "reason": "Version 1 is the clearest and most natural: it is polite, concise, includes all key details, and avoids both stiffness and over-familiarity. Versions 3 and 4 feel more templated, while version 6 is unpolished.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "C",
+    "3": "A",
+    "4": "O",
+    "5": "B3",
+    "6": "E"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "dropped": [
+    {
+      "item": "Crews worked in 'everything in between' (all conditions, not just heat and cold)",
+      "severity": "minor"
+    },
+    {
+      "item": "'real' qualifier on the money saved on monthly bills",
+      "severity": "minor"
+    },
+    {
+      "item": "Explicit framing that the milestone number 'belongs to' the crews (the edit credits them with installing the systems instead)",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "Timing of the apprenticeship: 'Next up: we're opening' (upcoming) became 'We're now opening' (open now)",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

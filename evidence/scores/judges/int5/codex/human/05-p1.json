@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 2,
+    "4": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "Mildly formulaic parallel consequence bullets, though they serve a useful scanning function in a PRD.",
+    "2": "The generic transition 'The consequences are significant' and extensive bolding make the structure feel mechanically emphasized.",
+    "3": "Slightly forced informality in 'Keep match quality up' and 'measure how much coordinator effort drops.'",
+    "4": "Compressed business phrasing such as 'Reduce coordinator manual work on call-out handling' feels less natural than the surrounding prose."
+  },
+  "reason": "Version 1 best balances direct language, readable structure, and a professional tone; these stylistic judgments do not establish authorship. Before sending, I would fix the shared substantive flaw: escalation should not count as completed rescheduling.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "O",
+    "3": "B5",
+    "4": "track2/A-int"
+  }
+}

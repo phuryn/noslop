@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2,
+    "4": 4,
+    "5": 5
+  },
+  "send": "2",
+  "tells": {
+    "1": "none",
+    "2": "“Give coordinators visibility” is stock corporate phrasing, though not evidence of AI authorship.",
+    "3": "“This hurts in four ways” feels like a deliberately conversational wrapper around a formulaic list.",
+    "4": "The closing “to inform the decision on broader rollout” feels mechanically appended.",
+    "5": "“The consequences are significant” announces importance without adding information; several other phrases are unnecessarily padded."
+  },
+  "reason": "Version 1 has the most natural voice; version 2 is the strongest PRD to send because its restrained language and heading structure make it easy to navigate. All five need the same substantive correction: escalation is not completed rescheduling and should be measured separately.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B",
+    "4": "B2",
+    "5": "O"
+  }
+}

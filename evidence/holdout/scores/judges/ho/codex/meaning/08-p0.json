@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 3,
+    "5": 5
+  },
+  "reason": "Version 1 preserves nearly all the original meaning; version 2 retains the privilege and long-term purpose but adds slight implications about current location and returning music to homes. Version 4 loses the explicit long-term horizon, version 3 also drops the idea of restoring the instruments’ voices, and version 5 replaces every piano’s future worth caring for with an unsupported claim about most having playing years left.",
+  "label_to_arm": {
+    "1": "B",
+    "2": "C",
+    "3": "B3",
+    "4": "B2",
+    "5": "A"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "dropped": [
+    {
+      "item": "'catch your breath' as part of the wish that readers have had a moment to rest",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "'you're in good company' became 'you're not alone. Most of us are in the same boat', which turns a loose reassurance into a broader claim that most beekeepers had poor harvests",
+      "severity": "minor"
+    },
+    {
+      "item": "Fondant 'in stock' became 'just got ... in', which adds a sense of recent arrival",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "'Most of us are in the same boat': a generalisation about how widespread poor harvests were",
+      "severity": "minor"
+    },
+    {
+      "item": "'just' implies the fondant arrived recently",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

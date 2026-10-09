@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 4,
+    "3": 1,
+    "4": 2
+  },
+  "send": "4",
+  "tells": {
+    "1": "Rhythmic parallel lines ('Every shelf, every table, every book had to earn its place'; 'Maybe it's been reread. Maybe it's been passed along.') and a generic 'Those visits helped us get here' closer.",
+    "2": "An em dash plus the stock 'One of the lovely things about…:' setup, on top of the same tricolon and 'Maybe… Maybe…' cadence as version 1.",
+    "3": "No strong stylistic tell. Its risk is credibility: specifics like Middlemarch, Mr. Okafor and the $38,000 GoFundMe appear in no other version and may be invented.",
+    "4": "Faint: the 'earn its place' line and 'One of the lovely things about ten years in a bookshop' still feel templated, but the cadence is more natural."
+  },
+  "reason": "Version 3 reads most human because of its concrete details, but those facts appear nowhere else and could be fabricated, so I wouldn't publish it unverified. Version 4 has the cleanest, most natural phrasing without inventing claims.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "O",
+    "3": "track2/B5-int",
+    "4": "B5"
+  }
+}

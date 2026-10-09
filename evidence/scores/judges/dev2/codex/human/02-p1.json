@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 5,
+    "4": 4,
+    "5": 1
+  },
+  "send": "5",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "Two consecutive questions repeat the ask, giving the email a formulaic sales-template feel.",
+    "4": "“We'd be glad to pitch in” adds generic friendliness without adding useful information.",
+    "5": "none"
+  },
+  "reason": "Version 5 combines concrete proof, natural industry language, and a clear, buyer-focused ask. Version 2 is a close second for concision; these stylistic differences do not establish AI authorship.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "B3",
+    "3": "O",
+    "4": "C",
+    "5": "A"
+  }
+}

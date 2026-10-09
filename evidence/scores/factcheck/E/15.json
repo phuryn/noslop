@@ -1,0 +1,74 @@
+{
+  "dropped": [
+    {
+      "item": "Cancellation condition: auto-renewal can be avoided by canceling at least 24 hours before the end of the current period (the deadline for canceling is gone)",
+      "severity": "major"
+    },
+    {
+      "item": "Subscription can be managed or canceled 'anytime'",
+      "severity": "minor"
+    },
+    {
+      "item": "Premium unlocks more of what the app offers (the edit no longer says what upgrading gives you)",
+      "severity": "minor"
+    },
+    {
+      "item": "Purpose of the videos: seeing proper form and technique for each movement",
+      "severity": "minor"
+    },
+    {
+      "item": "Progress sharing happens 'between visits'",
+      "severity": "minor"
+    },
+    {
+      "item": "Reminders are set on a schedule that fits your day",
+      "severity": "minor"
+    },
+    {
+      "item": "'So you always know what to do and how to do it right'",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "Renewal terms: 'renews automatically unless canceled at least 24 hours before the end of the current period' became 'will automatically renew within 24-hours prior to the end of the current period'. This changes a cancellation deadline into a statement about when renewal happens.",
+      "severity": "major"
+    },
+    {
+      "item": "Disclaimer: 'not a substitute for professional medical advice' became 'not intended to provide medical advice'",
+      "severity": "minor"
+    },
+    {
+      "item": "Consultation advice: 'before starting any exercise program' became 'before performing an exercise', which is a different scope",
+      "severity": "minor"
+    },
+    {
+      "item": "Sharing: the PT can see your progress (and adjust your plan) became you send progress 'to improve your treatment plan', which shifts both the mechanism and who acts",
+      "severity": "minor"
+    },
+    {
+      "item": "'Download and get started at no cost' became 'free to download and use', which implies ongoing free use rather than a free starting point",
+      "severity": "minor"
+    },
+    {
+      "item": "Subscription management is now available 'after purchase' rather than 'anytime'",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "'Never miss a session again', an absolute promise not in the original",
+      "severity": "minor"
+    },
+    {
+      "item": "Premium 'will be charged to your Apple ID account'",
+      "severity": "minor"
+    },
+    {
+      "item": "'You can turn off auto-renewal'",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [],
+  "meaning_preserved": 3
+}

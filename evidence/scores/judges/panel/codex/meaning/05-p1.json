@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+  },
+  "reason": "Version 1 preserves the original meaning most closely; version 2 slightly strengthens routine automation into an assertion, while version 3 changes proximity to residence, risks to definite harms, and requirements to weaker expectations. Version 4 omits the secondary goals and non-goals, changes the median-time metric from confirmed replacement to rescheduling (which includes escalation), and loses several consequences and the rollout-decision purpose.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "C",
+    "4": "E"
+  }
+}

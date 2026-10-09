@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 2,
+    "5": 5
+  },
+  "send": "4",
+  "tells": {
+    "1": "none",
+    "2": "slightly stiff/formal turn in 'when the $135 rate takes effect for you'",
+    "3": "generic boilerplate like 'to give you more options during the week' and 'part of our community'",
+    "4": "clipped phrasing in 'then move to $135' and a somewhat formulaic benefit line",
+    "5": "overly formal, legalistic phrasing like 'at which time your monthly membership will renew at the new rate'"
+  },
+  "reason": "Version 4 is the clearest, most concise, and still warm enough to send; version 1 reads most human but is a bit more casual and wordy for a pricing notice.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "O",
+    "4": "B3",
+    "5": "E"
+  }
+}

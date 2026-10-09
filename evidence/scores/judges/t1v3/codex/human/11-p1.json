@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 3,
+    "4": 5,
+    "5": 1
+  },
+  "send": "5",
+  "tells": {
+    "1": "Several neatly balanced lists and recruitment slogans make the voice feel constructed, especially 'real days off, nights that actually end, and a schedule you can plan a life around.'",
+    "2": "The 'third plate of the night' feels like decorative specificity: vivid, but an odd benchmark for maintaining standards during busy service.",
+    "3": "Phrases such as 'when it counts,' 'a real say,' and 'the kind of person cooks want to work for' accumulate into polished but generic recruitment copy.",
+    "4": "‘Honestly,’ ‘actually count,’ and the closing rhetorical question make the conversational voice feel deliberately manufactured. 'A decent hour' also introduces an unsupported promise.",
+    "5": "Some stock recruitment language remains, particularly 'ready for the next step up' and 'running the kitchen when it counts.'"
+  },
+  "reason": "Version 5 has the best balance of conversational rhythm, useful detail, and restraint; version 2 is a close second. These are judgments about editorial effect, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B",
+    "3": "B3",
+    "4": "C",
+    "5": "A"
+  }
+}

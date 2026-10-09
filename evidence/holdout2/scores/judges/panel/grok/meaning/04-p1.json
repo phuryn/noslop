@@ -1,0 +1,11 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1
+  },
+  "reason": "Version 2 keeps the fact that Ashby Mill came to us with the problem, while Version 1 drops that and rewords the opening more heavily. Both omit the commitment nuance and similarly soften the system’s purpose, but Version 2 stays closer overall.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A"
+  }
+}

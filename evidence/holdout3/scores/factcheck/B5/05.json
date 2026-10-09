@@ -1,0 +1,25 @@
+{
+  "dropped": [
+    {
+      "item": "Bold emphasis on the new date (Thursday 19 Nov) and on the volunteer request, which made the key action items stand out",
+      "severity": "minor"
+    },
+    {
+      "item": "Attribution that 'the team' fixed the lighting rig issue",
+      "severity": "minor"
+    },
+    {
+      "item": "Encouraging line 'Many hands make this go fast, and we'd love to have you!'",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "'coming together beautifully' softened to 'coming together well'",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

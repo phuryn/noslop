@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Smooth rhetorical triad and em-dash pacing; no named people, titles, or specific numbers.",
+    "3": "Generic nostalgia with an awkward casual phrase ('We wouldn't be here without you coming in').",
+    "4": "Flattened paraphrase of 2; the reflective line is more generic and stiffer."
+  },
+  "reason": "Version 1 has concrete, credible details and a less templated voice, so it reads as the most genuinely human. The others read as polished but generic rewrites.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "O",
+    "3": "B5",
+    "4": "track2/A-int"
+  }
+}

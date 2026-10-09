@@ -1,0 +1,11 @@
+{
+  "send": "1",
+  "reason": "Version 1 preserves the original facts, tone, and key phrases like 'real trade with real prospects' and 'skills that are always in demand' with only minor edits that don't change the meaning.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "E",
+    "3": "C",
+    "4": "A"
+  },
+  "picked_arm": "B5"
+}

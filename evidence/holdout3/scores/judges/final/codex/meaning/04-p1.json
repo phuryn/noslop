@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 5,
+    "4": 4,
+    "5": 3
+  },
+  "reason": "Version 1 stays closest; version 2 slightly strengthens dependence on donations, while version 5 omits the seasonal context and replaces the closing thanks with a welcome. Version 4 loses several invitation and appreciation details and shifts autumn’s timing; version 3 adds unsupported details and changes the Land Rover’s expected arrival into a definite commitment.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "B5",
+    "3": "C",
+    "4": "E",
+    "5": "A"
+  }
+}

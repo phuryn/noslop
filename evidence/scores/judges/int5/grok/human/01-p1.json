@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Canned takeaway that the win is 'meeting patients where they already are,' capped with a generic engagement question.",
+    "3": "Stock LinkedIn template: 'Here's what that meant in practice,' a tidy three-bullet list, then a moral.",
+    "4": "Aphoristic sign-off that the biggest operational wins come from 'meeting people where they already are.'"
+  },
+  "reason": "Version 1 is the only post with uneven operator detail, named exceptions, and real caveats; the others sand that off into the same smooth lesson, so it is both more credible and the one I would publish.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "track2/A-int",
+    "3": "O",
+    "4": "B5"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 3,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "none",
+    "2": "flat, repetitive sentence rhythm and phrasing such as 'Our crews did that work' and 'Our members get something out of it too'",
+    "3": "stock emphasis and formulaic transition: 'blazing heat,' 'freezing cold,' 'every single install,' and 'What's next:'",
+    "4": "the cliché 'the heat, the cold, and everything in between' gives it a templated feel"
+  },
+  "reason": "Version 4 is the most publish-ready: clear, balanced, and warm while keeping the co-op's voice credible. It has one minor cliché, but it communicates the milestone and apprenticeship CTA better than the others.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "C",
+    "4": "O"
+  }
+}

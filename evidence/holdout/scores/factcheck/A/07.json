@@ -1,0 +1,16 @@
+{
+  "dropped": [
+    {
+      "item": "Invitation to contact support with any other questions ('please let us know if you have any other questions')",
+      "severity": "minor"
+    },
+    {
+      "item": "Thanks for the customer's patience",
+      "severity": "minor"
+    }
+  ],
+  "changed": [],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

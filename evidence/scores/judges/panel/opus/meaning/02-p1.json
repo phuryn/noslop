@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+  },
+  "reason": "V1 keeps every fact, the tentative offer and the 'where we might fit' purpose, adding only 'anywhere' and 'occasional'; V2 turns the question into a firm claim ('We could cover') but keeps the fit purpose. V3 makes the same claim and also drops the meeting's purpose, while V4 adds an unsupported volume claim ('a lot of'), narrows the offer to 'some of' their needs and softens '15 minutes' to 'about 15 minutes'.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B3",
+    "4": "E"
+  }
+}

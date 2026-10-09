@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 6,
+    "2": 1,
+    "3": 2,
+    "4": 4,
+    "5": 3,
+    "6": 5
+  },
+  "send": "3",
+  "tells": {
+    "1": "Stock marketing phrases like 'guidance you can trust', 'keep your recovery moving' and 'unlock more of what the app has to offer'",
+    "2": "none",
+    "3": "Uniformly polished three-part bullet pattern (label + full sentence + 'so you...' clause) is slightly templated",
+    "4": "Forced folksy register ('Maybe you're bouncing back', 'tweak your plan', 'keep you moving forward') reads like a deliberate casualness pass",
+    "5": "Vague filler 'get more of what the app has to offer' and the 'keep your recovery moving' cliché",
+    "6": "Over-flattened, affect-stripped phrasing ('Each video shows the form for the movement') that reads like a mechanical de-fluffing pass"
+  },
+  "reason": "Version 2 has the slightly clunky, exclamation-marked voice of a real developer listing, but its subscription copy is awkward and less clear. Version 3 keeps the clarity and correct terms of the polished versions without their marketing filler, so it is the most credible to publish.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "E",
+    "3": "B3",
+    "4": "C",
+    "5": "B5",
+    "6": "A"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2
+  },
+  "reason": "Version 1 keeps the offer, price, free US shipping, cancel-anytime, and each section’s meaning with only light rephrasing. Version 3 keeps that structure but drops “something to look forward to” and turns the optional images into “plan on,” while version 2 replaces that section, drops “stay as long as you like,” and headlines the fundraiser sell-out without its caveat, even though its new details come from the writer.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "track2/B5-int",
+    "3": "track2/A-int"
+  }
+}

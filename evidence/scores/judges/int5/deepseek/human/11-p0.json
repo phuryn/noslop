@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Slightly formulaic transition ('Day to day, you'll...') and a more generic, smoothed-over voice.",
+    "3": "Markdown-style bold section labels and template-like 'What you'll do / What we're after' structure.",
+    "4": "Inconsistent 'four-day week' despite being open Wed–Sun, plus a cluster of trust signals that feel over-inserted."
+  },
+  "reason": "Version 1 reads most like a real chef/owner wrote it: direct, specific, and confident without formatting or credibility overkill. It has the strongest voice and no obvious inconsistencies.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "B5",
+    "3": "O",
+    "4": "track2/B5-int"
+  }
+}

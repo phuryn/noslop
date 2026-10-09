@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 1,
+    "3": 2,
+    "4": 3
+  },
+  "reason": "Version 2 keeps the facts, caveats, timelines, and proposed commitments with only light paraphrase. Version 3 retains those specifics but turns proposed mitigations into “we will” commitments and softens “capture” to “serve”; version 4 shifts several claims (structural vs long-term decline, site performance vs a faster site, potential vs expected returns); version 1 drops many mitigations, deadlines, and caveats and recasts the financial section as savings.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "B3",
+    "3": "A",
+    "4": "C"
+  }
+}

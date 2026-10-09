@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 5,
+    "4": 4,
+    "5": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "The '+'-style subject line and the filler benefit phrase 'so you'll have more options during the week' feel templated.",
+    "3": "The formal legalistic phrasing 'at which time your monthly membership will renew at the new rate' is a strong AI-style tell.",
+    "4": "The phrase 'will take effect for you' and the polished-but-stiff tone read like an AI-generated business update.",
+    "5": "none"
+  },
+  "reason": "Version 1 reads most like a skilled human wrote it: it is warm, plain-spoken, and reassures current members without sounding corporate or templated. I would send it because it balances the price change with the positive class addition in a natural, customer-friendly way.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "track2/B5-int",
+    "3": "E",
+    "4": "O",
+    "5": "track2/A-int"
+  }
+}

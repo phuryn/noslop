@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 1,
+    "3": 3,
+    "4": 2
+  },
+  "send": "4",
+  "tells": {
+    "1": "Generic benefit padding ('to give you more options during the week', which is odd for a Sunday class) plus a stiff, formal 'As a current member, you'll keep...' and an evenly polished, templated structure.",
+    "2": "none (it reads human but has real flaws: 'These classes will begin on December 1st' has no referent, and the 'don't worry' sentence is a run-on)",
+    "3": "Tacked-on justification clause ('so you'll have more options during the week') that adds no information and is slightly illogical.",
+    "4": "none (only a mildly templated closing line: 'If you have questions... just reply')"
+  },
+  "reason": "Version 2 sounds most like a real person but contains a confusing opening error, so it isn't sendable as is. Version 4 is the clearest and most concise, with no filler, and still sounds natural, so it's the best one to send.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "gen/E-write",
+    "3": "B3",
+    "4": "A"
+  }
+}

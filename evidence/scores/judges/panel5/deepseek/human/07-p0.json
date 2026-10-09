@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 5,
+    "4": 1,
+    "5": 4
+  },
+  "send": "4",
+  "tells": {
+    "1": "Slightly formal 'target date' and the compressed 'with only ... left' phrasing read a bit stiff.",
+    "2": "none",
+    "3": "Clunky reordering: 'The Android biometric flow is the remaining piece' sounds AI-formal.",
+    "4": "none",
+    "5": "Overly neat staccato sentences and the formal 'remaining piece' construction feel AI-written."
+  },
+  "reason": "Version 4 is the cleanest, clearest, and most natural for a quick Slack update, avoiding stiffness and unnecessary words. I would send that one.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "B3",
+    "4": "B5",
+    "5": "O"
+  }
+}

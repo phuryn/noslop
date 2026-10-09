@@ -1,0 +1,13 @@
+{
+  "send": "3",
+  "reason": "It keeps the same offer, capacity, free samples, and request for a call next week. It also preserves my straightforward, friendly tone without adding claims or unnecessary wording.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "E",
+    "3": "A",
+    "4": "B5",
+    "5": "V6C",
+    "6": "V6A"
+  },
+  "picked_arm": "A"
+}

@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 5,
+    "4": 1,
+    "5": 3
+  },
+  "send": "4",
+  "tells": {
+    "1": "The bio mechanically repeats the result and awkwardly describes finding leaks 'in existing pressure data.'",
+    "2": "The generic opening and 'practical considerations' phrasing give it a polished but interchangeable conference-abstract feel.",
+    "3": "'This talk explores' and 'It shares lessons' create a formulaic promotional cadence, compounded by repeated hedging.",
+    "4": "none",
+    "5": "The stock 'what worked, what didn't' promise and conspicuous conversational touches feel somewhat engineered."
+  },
+  "reason": "Version 4 is direct, economical, and appropriate for a conference program, with the clearest standalone bio. Version 5 has more voice, but adds a broad claim about most utilities and promises discussion of failures that the other versions do not establish; these stylistic judgments cannot determine authorship.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B2",
+    "3": "O",
+    "4": "B",
+    "5": "C"
+  }
+}

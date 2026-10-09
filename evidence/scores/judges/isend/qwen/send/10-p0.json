@@ -1,0 +1,11 @@
+{
+  "send": "2",
+  "reason": "It preserves all the original facts and tone, including the current-member rate through March 1, the new rate on March 1, the Sunday evening classes with more weekly options, and the invitation to reply with questions. It also keeps the original subject line and community appreciation.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B5",
+    "3": "C",
+    "4": "E"
+  },
+  "picked_arm": "B5"
+}

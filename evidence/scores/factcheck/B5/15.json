@@ -1,0 +1,25 @@
+{
+  "dropped": [
+    {
+      "item": "Exercises described as 'clear, easy-to-follow'",
+      "severity": "minor"
+    },
+    {
+      "item": "'so you always know what to do': the 'always' assurance is softened to 'Each one shows you what to do'",
+      "severity": "minor"
+    },
+    {
+      "item": "Reminders framed as something that 'keep you on track'",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "Progress sharing: the original says the user shares ('Share progress with your PT. Let your physical therapist see...'). The edit says 'Your physical therapist can see how you're doing,' which drops the idea that the user chooses to grant access.",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

@@ -1,0 +1,26 @@
+{
+  "stage": "STAGE_SUCCESS",
+  "version": "4.0",
+  "prediction": "We believe that this entire text is AI-assisted.",
+  "prediction_short": "Mixed",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 1.0,
+  "fraction_human": 0.0,
+  "headline": "AI Assisted",
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 1,
+  "num_human_segments": 0,
+  "windows": [
+    {
+      "label": "AI-Assisted",
+      "ai_assistance_score": 0.5587513446807861,
+      "confidence": "Medium",
+      "start_index": 0,
+      "end_index": 537,
+      "word_count": 92,
+      "token_length": 109,
+      "is_humanized": false,
+      "humanizer_score": 0.00851941853761673
+    }
+  ]
+}

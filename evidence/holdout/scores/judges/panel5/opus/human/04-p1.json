@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 4,
+    "3": 5,
+    "4": 1,
+    "5": 2
+  },
+  "send": "4",
+  "tells": {
+    "1": "Stacked three-part lists ('put the kettle on, catch your breath and enjoy…', 'talk through…, brush up…, catch up…') with the warmer framing smoothed into neutral phrasing",
+    "2": "Over-tidied structure: the welcome is moved to the top, the fondant line stands alone, and it ends on a clipped one-line sign-off, which reads a bit sterile",
+    "3": "Choppy one-idea paragraphs and a mismatched closer ('Wherever you are with your winter preparations, we'd love to hear how your season went') created by mechanical restructuring",
+    "4": "The em dash in the closing line, plus the familiar three-item lists, though both are common in human writing",
+    "5": "Redundant restatement ('you're not alone. Most of us are in the same boat') and terse fragments ('£35 a head. Bring your questions…') that feel deliberately casual"
+  },
+  "reason": "Version 4 has the most natural, distinctive voice ('Well…certainly kept us on our toes', 'It's been a tough one'), and its closing welcome works as a lead-in to the report. The other versions read like edits that either flatten that voice or rearrange it awkwardly.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "A",
+    "3": "B3",
+    "4": "O",
+    "5": "C"
+  }
+}

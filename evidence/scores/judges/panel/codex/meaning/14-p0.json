@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 1,
+    "4": 3
+  },
+  "reason": "Version 3 preserves nearly all meaning and caveats; version 2 makes minor omissions and adds a friend as the possible recipient. Version 4 adds unsupported preferences and speculative details, while version 1 changes the stated size, invents longing for the original shop, strengthens claims about surviving books, and drops more substantive meaning.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "A",
+    "3": "B3",
+    "4": "C"
+  }
+}

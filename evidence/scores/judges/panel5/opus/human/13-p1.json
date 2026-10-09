@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 1,
+    "3": 6,
+    "4": 3,
+    "5": 2,
+    "6": 5
+  },
+  "send": "5",
+  "tells": {
+    "1": "Uniformly polished consultant phrasing ('redirect the capital and operating dollars they consume') with markdown ## headers and an evenly balanced section template",
+    "2": "none",
+    "3": "Bolded lead-in labels on every numbered and bulleted item, plus a repeated 'Mitigation:' template that reads machine-structured",
+    "4": "Over-smoothed conversational headings ('What could go wrong, and what we'd do about it', 'Why I think this is right') that read like a casual rewrite of a polished template",
+    "5": "Slightly awkward paraphrase ('declining for good reasons we can't reverse'), but otherwise little stands out",
+    "6": "Templated 'Mitigation:' labels and stock phrasing ('structural decline', 'incremental investment') mirroring the polished AI draft"
+  },
+  "reason": "Version 2 is clearly the rough human original but is too loose to send. Version 5 keeps the full structure and specifics in plain, natural language, and its prose risk section avoids the templated bold-label pattern of 3 and 6.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "E",
+    "3": "O",
+    "4": "C",
+    "5": "B5",
+    "6": "B3"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 1,
+    "4": 3
+  },
+  "send": "3",
+  "tells": {
+    "1": "Accumulated stock warmth: 'kept us on our toes', 'catch your breath', and 'glad to have you along' make the welcome feel padded.",
+    "2": "Consecutive reassurance formulas—'you're not alone' and 'Most of us are in the same boat'—repeat the point and introduce an unsupported claim.",
+    "3": "none",
+    "4": "The closing 'Wherever you are with your winter preparations' feels mechanically attached to a request about the past season."
+  },
+  "reason": "Version 3 has the strongest editorial structure: an opening welcome, useful information, and a direct invitation to reply. It preserves warmth without repetitive reassurance or unnecessary framing; these are stylistic judgments, not proof of authorship.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "C",
+    "3": "A",
+    "4": "B3"
+  }
+}

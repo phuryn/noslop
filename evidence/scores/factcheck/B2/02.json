@@ -1,0 +1,12 @@
+{
+  "dropped": [],
+  "changed": [
+    {
+      "item": "The direct meeting request ('Would you have 15 minutes next week to discuss...?') became a conditional statement ('If you have 15 minutes next week, I'd like to talk...'), which softens the call to action from an explicit question to an implied invitation.",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

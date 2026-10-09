@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "Version 1 keeps the original claims, qualifiers, and mitigation framing with only minor wording shifts. Version 2 drops “performs best” and softens capture/targeted intent, while version 3 also drops “structurally,” turns potential returns into “should return more,” and recasts proposed mitigations as “we will” commitments.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "track2/B3-int",
+    "3": "track2/A-int"
+  }
+}

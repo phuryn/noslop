@@ -1,0 +1,20 @@
+{
+  "dropped": [
+    {
+      "item": "The explicit claim 'It isn't cheaper' (post-editing is not actually a cheaper version of the work)",
+      "severity": "minor"
+    },
+    {
+      "item": "The claim that machine output's fluency is 'exactly what makes it dangerous'",
+      "severity": "minor"
+    },
+    {
+      "item": "The word 'just' in 'I've just been paid a third of my rate', which carried the sense that the only result is lower pay",
+      "severity": "minor"
+    }
+  ],
+  "changed": [],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

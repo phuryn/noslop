@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 4,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "none",
+    "2": "The phrase \"we'd be glad to pitch in\" adds generic friendliness without adding substance.",
+    "3": "Two consecutive questions create a formulaic sales cadence; \"last-minute delivery needs\" sounds unnecessarily abstract.",
+    "4": "none"
+  },
+  "reason": "Version 4 combines concrete evidence, natural wording, and a clear invitation focused on the recipient's needs. Version 1 is similarly strong and concise; these stylistic judgments do not establish AI authorship.",
+  "label_to_arm": {
+    "1": "B",
+    "2": "C",
+    "3": "O",
+    "4": "A"
+  }
+}

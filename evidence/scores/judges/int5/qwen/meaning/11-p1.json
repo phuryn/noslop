@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1
+  },
+  "reason": "Version 3 stays closest to the original with no unsupported additions, losing only the emphatic 'real' before 'say.' Version 1 is also faithful but drops 'closely' and paraphrases more, while Version 2 adds only writer-supplied facts but omits original commitments such as real days off, predictable schedule, and having a real say.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "track2/B5-int",
+    "3": "track2/A-int"
+  }
+}

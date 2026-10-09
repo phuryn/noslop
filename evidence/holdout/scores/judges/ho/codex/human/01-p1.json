@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 5,
+    "4": 3,
+    "5": 6,
+    "6": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "The matching 'belongs to our crews' and 'belongs to our members' passages feel slightly formulaic.",
+    "2": "none",
+    "3": "'Our members get something out of it too' feels mechanically casual and understates the central benefit.",
+    "4": "'Blazing heat and freezing cold' and 'lasting career' add stock promotional emphasis.",
+    "5": "'Our members made it count too' forces a rhetorical connection without clearly explaining their contribution.",
+    "6": "The symmetrical credit-giving paragraphs followed by 'Next up:' and a three-part fragment feel templated."
+  },
+  "reason": "Version 2 reads most naturally, with less staged rhetoric; I would publish version 1 because its paragraphing gives the thanks, member benefit, and recruitment announcement room to land. These are stylistic judgments, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "B2",
+    "2": "B3",
+    "3": "A",
+    "4": "C",
+    "5": "B",
+    "6": "O"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "send": "1",
+  "reason": "It keeps the same facts, lesson, and recommendation without adding new claims, and it reads closest to the original voice.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "A",
+    "3": "E",
+    "4": "C"
+  },
+  "picked_arm": "B5"
+}

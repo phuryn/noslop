@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 6,
+    "3": 1,
+    "4": 3,
+    "5": 7,
+    "6": 2,
+    "7": 5
+  },
+  "send": "3",
+  "tells": {
+    "1": "Clipped, template-like phrasing ('samples are free') and curly apostrophes, unlike the other versions, suggest a pasted, machine-polished draft.",
+    "2": "Hedged, padded phrasing ('I wanted to ask if you'd consider', 'at no cost', 'uses now') that reads like a smoothed rewrite.",
+    "3": "none",
+    "4": "The compressed 'samples are free' fragment feels generically optimized, not personal.",
+    "5": "Word-for-word identical to version 2, with the same padded hedging. That points to templated or generated output.",
+    "6": "No AI tell. It reads like an unpolished human draft: double greeting, stacked adjectives ('sustainable, high quality and beautiful'), odd '(Mycelium)' capitalization, '5000' with no comma, and a missing question mark.",
+    "7": "Over-compressed, slightly unnatural phrasing ('Would Hearth & Wick try...', 'see if they'd fit') that feels like aggressive AI tightening."
+  },
+  "reason": "Version 3 sounds most like a real person: 'hop on a call' and 'see how they hold up' give the free samples a concrete purpose while staying brief and clean. Version 6 feels human but is too sloppy to send, and the rest read as interchangeable polished rewrites.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "V6A",
+    "3": "C",
+    "4": "A",
+    "5": "V6C",
+    "6": "E",
+    "7": "B5"
+  }
+}

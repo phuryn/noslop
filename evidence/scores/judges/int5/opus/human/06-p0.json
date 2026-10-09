@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2,
+    "4": 4
+  },
+  "send": "3",
+  "tells": {
+    "1": "none; it reads like plain, slightly flat brand copy, but its specifics (Ledger Hill Mill, Rosa Delgado, 2,800 subscribers) appear in no other version and may be invented",
+    "2": "The 'Maybe it's...' list of cozy vignettes followed by the generic 'Give yourself something to look forward to each month'",
+    "3": "none; at most a mild triad of cozy images in the 'monthly bake' section",
+    "4": "Stacked parallel slogans and fragments ('A little measuring done. A little joy delivered.' / 'Less measuring. More making.' / 'One kit. $34 a month.')"
+  },
+  "reason": "Version 1 sounds most human because of its concrete names and numbers, but those claims aren't in the other versions and could be fabricated, so I'd only publish them after verification. Version 3 is clean, warm and free of filler or slogan rhythm, which makes it the safest version to publish.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "B5",
+    "3": "track2/A-int",
+    "4": "O"
+  }
+}

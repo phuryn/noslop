@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 4,
+    "4": 6,
+    "5": 1,
+    "6": 5
+  },
+  "send": "5",
+  "tells": {
+    "1": "Several polished emotional contrasts and a perfectly resolved closing metaphor make the reflection feel slightly over-composed.",
+    "2": "The consistently explicit, orderly sentences suggest a smoothing pass that sacrifices some rhythmic individuality.",
+    "3": "Removing the character-flaw contrast leaves 'the kindest thing' less motivated, suggesting mechanical trimming.",
+    "4": "none",
+    "5": "The closing hidden-room metaphor gives the experience a suspiciously tidy literary resolution.",
+    "6": "Inserted casualness such as 'sure' and 'harder to spot' feels applied to an otherwise carefully polished narrative."
+  },
+  "reason": "Version 5 best balances precision, rhythm and emotional restraint; its shorter admission that the narrator hardly minded lets the change register without overexplaining it. These are stylistic impressions, not reliable evidence of authorship: version 4's roughness offers no guarantee of human origin and weakens it as publishable prose.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B5",
+    "3": "A",
+    "4": "E",
+    "5": "B3",
+    "6": "C"
+  }
+}

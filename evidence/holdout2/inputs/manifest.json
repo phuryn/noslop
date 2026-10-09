@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "file": "01-investor-update-email.md",
+    "source_model": "claude-sonnet-5-5",
+    "genre": "Investor update email"
+  },
+  {
+    "id": 2,
+    "file": "02-outage-apology-email-to-custom.md",
+    "source_model": "codex gpt-6-astra (medium)",
+    "genre": "Outage apology email to customers"
+  },
+  {
+    "id": 3,
+    "file": "03-meeting-recap-email-to-a-clien.md",
+    "source_model": "claude-sonnet-5-5",
+    "genre": "Meeting recap email to a client"
+  },
+  {
+    "id": 4,
+    "file": "04-case-study-paragraph.md",
+    "source_model": "codex gpt-6-astra (medium)",
+    "genre": "Case study paragraph"
+  },
+  {
+    "id": 5,
+    "file": "05-event-invitation-post.md",
+    "source_model": "claude-sonnet-5-5",
+    "genre": "Event invitation post"
+  },
+  {
+    "id": 6,
+    "file": "06-faq-answer-on-a-product-help-p.md",
+    "source_model": "codex gpt-6-astra (medium)",
+    "genre": "FAQ answer on a product help page"
+  },
+  {
+    "id": 7,
+    "file": "07-internal-announcement-of-a-new.md",
+    "source_model": "claude-sonnet-5-5",
+    "genre": "Internal announcement of a new policy"
+  },
+  {
+    "id": 8,
+    "file": "08-personal-blog-post-opening.md",
+    "source_model": "codex gpt-6-astra (medium)",
+    "genre": "Personal blog post opening"
+  }
+]

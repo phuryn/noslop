@@ -1,0 +1,12 @@
+{
+  "dropped": [
+    {
+      "item": "Benefit explanation that faster sync means transactions show up sooner",
+      "severity": "minor"
+    }
+  ],
+  "changed": [],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

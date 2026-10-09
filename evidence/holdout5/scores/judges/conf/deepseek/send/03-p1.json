@@ -1,0 +1,13 @@
+{
+  "send": "4",
+  "reason": "Version 4 keeps all the original facts and the preorder commitment, preserves the bulleted structure and casual voice, and only makes minor wording updates that still read like the original.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "E",
+    "3": "B5",
+    "4": "V6C",
+    "5": "V6A",
+    "6": "A"
+  },
+  "picked_arm": "V6C"
+}

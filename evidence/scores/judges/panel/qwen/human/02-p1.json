@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2,
+    "4": 5,
+    "5": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Slightly mechanical CTA phrasing: \"talk about whether that fits what you need.\"",
+    "3": "Very trimmed, template-like brevity; the CTA feels a bit abrupt.",
+    "4": "Duplicated greeting and repeated \"Would you be open\" make it feel unedited.",
+    "5": "Formal, generic phrasing like \"We provide\" and back-to-back questions feel more AI-polished than personal."
+  },
+  "reason": "Version 1 is the most natural because it is clear, specific, and lightly conversational without sounding sloppy. It also makes the ask feel low-pressure and relevant to the prospect.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B3",
+    "4": "E",
+    "5": "O"
+  }
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "file": "01-linkedin-post.md",
+    "source_model": "claude-sonnet-5-5",
+    "genre": "LinkedIn post"
+  },
+  {
+    "id": 2,
+    "file": "02-cold-email-to-a-potential-part.md",
+    "source_model": "codex gpt-6-astra (medium)",
+    "genre": "Cold email to a potential partner"
+  },
+  {
+    "id": 3,
+    "file": "03-product-launch-email-to-custom.md",
+    "source_model": "claude-sonnet-5-5",
+    "genre": "Product launch email to customers"
+  },
+  {
+    "id": 4,
+    "file": "04-newsletter-intro.md",
+    "source_model": "codex gpt-6-astra (medium)",
+    "genre": "Newsletter intro"
+  },
+  {
+    "id": 5,
+    "file": "05-slack-update-to-the-team.md",
+    "source_model": "claude-sonnet-5-5",
+    "genre": "Slack update to the team"
+  },
+  {
+    "id": 6,
+    "file": "06-customer-support-reply.md",
+    "source_model": "codex gpt-6-astra (medium)",
+    "genre": "Customer support reply"
+  },
+  {
+    "id": 7,
+    "file": "07-blog-post-paragraph-how-to-or-.md",
+    "source_model": "claude-sonnet-5-5",
+    "genre": "Blog post paragraph (how-to or opinion)"
+  },
+  {
+    "id": 8,
+    "file": "08-landing-page-section.md",
+    "source_model": "codex gpt-6-astra (medium)",
+    "genre": "Landing page section"
+  },
+  {
+    "id": 9,
+    "file": "09-job-post-intro.md",
+    "source_model": "claude-sonnet-5-5",
+    "genre": "Job post intro"
+  },
+  {
+    "id": 10,
+    "file": "10-speaker-bio.md",
+    "source_model": "codex gpt-6-astra (medium)",
+    "genre": "Speaker bio"
+  },
+  {
+    "id": 11,
+    "file": "11-personal-essay-paragraph.md",
+    "source_model": "claude-sonnet-5-5",
+    "genre": "Personal essay paragraph"
+  },
+  {
+    "id": 12,
+    "file": "12-community-event-announcement.md",
+    "source_model": "codex gpt-6-astra (medium)",
+    "genre": "Community event announcement"
+  }
+]

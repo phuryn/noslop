@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 4,
+    "4": 2
+  },
+  "reason": "V2 keeps every fact and nuance, including the 'more options during the week' purpose and 'part of our community,' changing only 'As a current member' to 'If you're.' V4 keeps all facts and the original's direct framing but generalizes the subject to 'prices' and adds minor framing ('happier note,' 'glad to help'); V1 drops the 'more options' rationale, and V3 also drops it and narrows 'the change' to 'the price change.'",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "B",
+    "4": "C"
+  }
+}

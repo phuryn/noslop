@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1
+  },
+  "send": "3",
+  "tells": {
+    "1": "Section headers ('Highlights', 'Ask') on a three-item email feel templated, but the sentences themselves are plain.",
+    "2": "Bolded 'Label: explanation' bullets, a markdown-bolded subject line, and filler softeners like 'really' and 'As always'.",
+    "3": "none"
+  },
+  "reason": "Version 3 states the three facts and the ask in plain, compact prose, the way a founder would write to people who know the company, without scaffolding or filler. Version 1 is close behind, while Version 2's bold-label bullets and markdown in an email read most like AI output.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "O",
+    "3": "A"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2
+  },
+  "reason": "Version 1 keeps every core fact (date, time, location, free entry, pressing demos 'start to finish', and the 'among the first to taste' first pour of Quiet Field), dropping only minor flourishes and some hashtags. Version 2 keeps the facts but also drops the 'start to finish' detail and the 'be among the very first to taste it' promise, and it omits the closing 'See you in the orchard!'",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A"
+  }
+}

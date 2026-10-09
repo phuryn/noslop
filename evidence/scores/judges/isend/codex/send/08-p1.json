@@ -1,0 +1,11 @@
+{
+  "send": "4",
+  "reason": "It preserves the original facts, caveats, and practical framing, including that bloodwork can help detect changes and provide a fuller picture. The conversational tone also feels closest to how I wrote the original.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "E",
+    "4": "B5"
+  },
+  "picked_arm": "B5"
+}

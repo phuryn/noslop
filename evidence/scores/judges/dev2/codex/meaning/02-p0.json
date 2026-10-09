@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 1,
+    "4": 4
+  },
+  "reason": "Version 3 preserves the service claims and tentative offer most closely; version 2 slightly shifts last-minute delivery to picking up loads. Version 1 adds the broader promise of delivery “anywhere” within 250 miles, while version 4 turns an exploratory offer to help into a firmer commitment to cover routes and deliveries.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B3",
+    "4": "B5"
+  }
+}

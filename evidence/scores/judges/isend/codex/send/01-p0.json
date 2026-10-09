@@ -1,0 +1,11 @@
+{
+  "send": "3",
+  "reason": "It preserves the facts, the mixed results from calls, and the qualified takeaway and recommendation. It also stays closest to my straightforward tone without adding claims or a testing timeline.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "E",
+    "3": "B5",
+    "4": "A"
+  },
+  "picked_arm": "B5"
+}

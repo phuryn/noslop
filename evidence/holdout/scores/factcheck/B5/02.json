@@ -1,0 +1,12 @@
+{
+  "dropped": [],
+  "changed": [
+    {
+      "item": "The offer to share more information was conditional and open-ended ('Happy to share more if it sounds of interest'). The edit ties it to the call ('I can tell you more then'), implying details come only during the chat.",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

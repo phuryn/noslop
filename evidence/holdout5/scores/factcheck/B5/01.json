@@ -1,0 +1,12 @@
+{
+  "dropped": [
+    {
+      "item": "The thank-you to the night shift is no longer marked as 'special', so it loses some emphasis compared with the general thanks.",
+      "severity": "minor"
+    }
+  ],
+  "changed": [],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

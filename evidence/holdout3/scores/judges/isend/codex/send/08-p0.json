@@ -1,0 +1,11 @@
+{
+  "send": "4",
+  "reason": "It keeps the price, coverage, minimum booking and 48-hour deadline from the flight, while preserving that the maps help identify areas needing a closer look. It also matches my straightforward tone without adding promises or delivery details.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "A",
+    "3": "C",
+    "4": "B5"
+  },
+  "picked_arm": "B5"
+}

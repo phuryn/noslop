@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "Version 1 preserves the original wording, hedge, and intent almost exactly. Version 2 keeps the original 'I think' hedge but slightly softens the interest ask, while Version 3 changes that hedge and reframes interest as a fit assessment.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "C"
+  }
+}

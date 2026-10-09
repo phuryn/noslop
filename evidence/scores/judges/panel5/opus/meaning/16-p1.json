@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 5,
+    "2": 3,
+    "3": 2,
+    "4": 1,
+    "5": 4
+  },
+  "reason": "Version 4 drops only 'found myself doing the usual things' and keeps every hedge, while 3 drops 'found myself' and hardens 'hadn't given much thought' into 'hadn't thought'. Versions 2 and 5 overstate this as 'never thought', 2 shifts 'teach again' to 'teach better', and 5 reframes the retirement sentence. Version 1 contradicts the original with 'carefully prepared' and adds bang/whimper and good/bad years while losing the specific details.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "C",
+    "3": "A",
+    "4": "B3",
+    "5": "B5"
+  }
+}

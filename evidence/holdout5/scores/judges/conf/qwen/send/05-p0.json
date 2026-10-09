@@ -1,0 +1,13 @@
+{
+  "send": "6",
+  "reason": "It preserves all the facts, dates, and requests while matching the original's friendly Slack tone, formatting, and emojis.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "E",
+    "3": "B5",
+    "4": "V6A",
+    "5": "C",
+    "6": "V6C"
+  },
+  "picked_arm": "V6C"
+}

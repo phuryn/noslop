@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Light corporate smoothing ('Outcomes depend,' 'measure the reduction') that reads like a synonym pass over the same draft.",
+    "3": "Stiff nominalizations ('manual work on call-out handling,' 'visibility into') and the four impacts flattened into one evenly paced paragraph.",
+    "4": "Filler signpost 'The consequences are significant' plus bold mini-headlines on every bullet and goal."
+  },
+  "reason": "Version 1 is clear, complete, and conversational without template flourishes. Version 2 is a slight polish of that voice, 3 is smoother but stiffer, and 4’s bold labels and filler transition read as generated.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "track2/B5-int",
+    "3": "track2/A-int",
+    "4": "O"
+  }
+}

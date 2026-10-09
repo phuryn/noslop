@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3
+  },
+  "reason": "Version 2 preserves the original factual wording most closely; version 1 is nearly equivalent but broadens the PDF fix into an unqualified statement that symbols now display correctly. Version 3 changes incorrect currency-symbol display to a missing symbol and strengthens “sooner” to “a lot quicker.”",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "E"
+  }
+}

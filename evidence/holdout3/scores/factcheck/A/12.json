@@ -1,0 +1,12 @@
+{
+  "dropped": [],
+  "changed": [
+    {
+      "item": "The closing call to action changed from inviting readers to 'help us get these young trees in the ground' to 'meet your neighbours while we get the trees in the ground'. The reader's role shifts from planting to socialising while organisers plant. The earlier 'could use your help' keeps the main ask intact.",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

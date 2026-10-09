@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 5,
+    "4": 4,
+    "5": 3
+  },
+  "reason": "V1 is nearly verbatim, and V2 only weakens the causal 'so' to 'and'. V5 also drops the causal link and makes the offer to share contingent on the chat, V4 drops the offer to share more entirely, and V3 turns the hedged 'I think' into a certain 'I saw' and adds an unstated 'good fit' claim.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B2",
+    "3": "C",
+    "4": "B",
+    "5": "B3"
+  }
+}

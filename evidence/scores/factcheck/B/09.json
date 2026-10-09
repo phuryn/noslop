@@ -1,0 +1,42 @@
+{
+  "dropped": [
+    {
+      "item": "\"That's not the experience we want you to have\": an expression of the company's standards and empathy",
+      "severity": "minor"
+    },
+    {
+      "item": "\"we'll be glad to help\": the warm offer of assistance in the call to action",
+      "severity": "minor"
+    },
+    {
+      "item": "\"Thank you for your patience\" and the closing second apology for the inconvenience",
+      "severity": "minor"
+    },
+    {
+      "item": "\"only\" in \"after only five months\", which softened the emphasis that the failure was premature",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "Actor of the tracking email changed from \"We'll email you\" (the company) to \"I'll email you\" (the individual agent personally)",
+      "severity": "minor"
+    },
+    {
+      "item": "\"Your bike is covered by our 2-year warranty\" became \"The Metro 2 is covered by our 2-year warranty\". The scope shifted from this customer's specific bike to the model line in general.",
+      "severity": "minor"
+    },
+    {
+      "item": "\"I apologize for the wait in getting back to you\" became \"sorry it took us so long to get back to you\". This is a stronger admission of delay.",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "Explicit eligibility reasoning: \"a battery that stopped charging after five months qualifies\". The original implied this but did not state it as a warranty-qualification rule.",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

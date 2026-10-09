@@ -1,0 +1,11 @@
+{
+  "send": "none",
+  "reason": "Version 4 is closest to my voice, but “hadn't thought” removes the qualification in “hadn’t given much thought.” None preserves that nuance along with the original’s facts and restrained tone.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "E",
+    "3": "B5",
+    "4": "A"
+  },
+  "picked_arm": "none"
+}

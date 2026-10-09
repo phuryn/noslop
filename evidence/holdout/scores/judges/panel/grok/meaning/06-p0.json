@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "Version 1 matches the original in facts, order, and caveats. Version 2 keeps every requirement with only light paraphrase and a compatibility-check reorder, while version 3 adds an “easy fix” claim, specifies wipe/brush methods, and weakens “keep at or above 50°F” to “try to work” at that temperature.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "C"
+  }
+}

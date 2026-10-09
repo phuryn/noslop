@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3,
+    "4": 4
+  },
+  "send": "2",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "none",
+    "4": "Two consecutive questions make the close feel formulaic; 'last-minute delivery needs' is unnecessarily abstract."
+  },
+  "reason": "Version 2 combines clear evidence, concrete trucking language, and a natural meeting request without wasting words. Version 1 has more warmth, version 3 is slightly more generic, and version 4 feels more scripted; none provides reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B",
+    "4": "O"
+  }
+}

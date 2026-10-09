@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 1,
+    "4": 3
+  },
+  "send": "3",
+  "tells": {
+    "1": "A 'The consequences are significant:' lead-in followed by bolded-label bullets in a uniform claim-then-elaboration pattern, plus bold-label primary goals.",
+    "2": "The four problem bullets keep the identical short-claim-then-elaboration template, a leftover of the bold-label structure.",
+    "3": "Mild: the same parallel claim-then-elaboration rhythm in the problem bullets, though the plainer wording ('hurt', 'how much coordinator effort drops') softens it.",
+    "4": "Stiff noun-stacked phrasing such as 'Reduce coordinator manual work on call-out handling' and 'Give coordinators visibility into what the system did and why'."
+  },
+  "reason": "Version 3 reads most like a practiced PM wrote it, with plain verbs, no bold scaffolding or 'consequences are significant' framing, and slightly crisper fixes than 2 (e.g., 'Replacements must meet...'). Version 4's prose paragraph helps but keeps stiff nominal phrasing and drops the useful 'not routine reassignments' contrast.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "track2/B5-int",
+    "3": "B5",
+    "4": "track2/A-int"
+  }
+}

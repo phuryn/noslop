@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 2,
+    "4": 6,
+    "5": 5,
+    "6": 3
+  },
+  "send": "3",
+  "tells": {
+    "1": "none",
+    "2": "Chatty hedge ('honestly, that's the fun part') and the stock reassurance that your opinion will 'actually count.'",
+    "3": "Invented salt-on-the-third-plate detail, plus 'actually' and 'real' as authenticity markers.",
+    "4": "Bold 'What you'll do / What we're after' template and the stacked 'plan a life around' pitch.",
+    "5": "Even, interchangeable paragraph rhythm and the generic 'kind of person cooks want to work for.'",
+    "6": "Same pressure-cooker and salt-plate formula, plus the lifestyle line about planning a life around the schedule."
+  },
+  "reason": "Only version 1 sounds like a chef actually hiring; among the rewrites, 3 keeps that slammed-weekend voice and the original ask without bold job-post scaffolding or the extra lifestyle sales line, so that is the one I would publish.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "C",
+    "3": "A",
+    "4": "O",
+    "5": "B3",
+    "6": "B5"
+  }
+}

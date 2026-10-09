@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 6,
+    "4": 3,
+    "5": 4,
+    "6": 5
+  },
+  "send": "4",
+  "tells": {
+    "1": "none. It reads as an unedited human draft, with a duplicated 'Abstract Abstract', mojibake in 'Authorityâ€™s', stiff 'Mr. Matela' phrasing and repetitive wording.",
+    "2": "The tidy 'what worked, what didn't, and what other utilities should think about' triad. It also adds claims the source doesn't support: that some things didn't work and that nobody knew about the leaks.",
+    "3": "Generic AI phrasing: 'This talk explores', 'reveal leaks that might otherwise go unnoticed', 'practical considerations' and 'make better use of'.",
+    "4": "The hedge 'leaks that would otherwise go unnoticed', though it is otherwise plain and natural.",
+    "5": "Overly neat compression, and it inflates the speaker's role to 'helped lead the effort', a credibility risk the source doesn't support.",
+    "6": "A templated 'This talk covers… It also covers…' structure plus the stock phrase 'might otherwise have gone unnoticed'."
+  },
+  "reason": "Version 1 is clearly the human original but too rough to send. Version 4 keeps the facts accurate without inflating anything, reads naturally in first person, and is clear, whereas 2 adds unsupported claims and 5 overstates the speaker's role.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "C",
+    "3": "O",
+    "4": "B5",
+    "5": "A",
+    "6": "B3"
+  }
+}

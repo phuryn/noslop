@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+  },
+  "reason": "Version 1 keeps nearly every fact, including the subscription terms and that Premium unlocks more; Version 2 drops that Premium unlocks more, and Version 3 also loses 'stay consistent' and 'see how far you've come'. Version 4 changes the renewal terms ('renew within 24 hours prior' instead of 'cancel at least 24 hours before'), adds 'free to use' and 'never miss a session', and weakens the medical disclaimer.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B3",
+    "3": "A",
+    "4": "E"
+  }
+}

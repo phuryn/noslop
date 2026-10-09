@@ -1,0 +1,29 @@
+{
+  "dropped": [],
+  "changed": [
+    {
+      "item": "The work was described as 'careful, repetitive work' and became 'slow, repetitive work'. This swaps praise for the team's care for a new claim that the work is slow.",
+      "severity": "minor"
+    },
+    {
+      "item": "'It rarely gets noticed' became 'most people never see it'. Going from 'rarely' to 'never' slightly strengthens the claim, and the framing shifts from recognition to visibility.",
+      "severity": "minor"
+    },
+    {
+      "item": "'I want to be clear about where it comes from' became 'it isn't mine to take credit for'. Explaining where the number comes from is now an explicit disclaimer of personal credit.",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "The author explicitly says the achievement 'isn't mine to take credit for', a self-effacing claim not stated in the original.",
+      "severity": "minor"
+    },
+    {
+      "item": "'I'm lucky to work alongside you' replaces 'I'm grateful to work alongside you', adding a 'lucky' framing.",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

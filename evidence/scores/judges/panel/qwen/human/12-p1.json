@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 4,
+    "3": 3,
+    "4": 2,
+    "5": 1
+  },
+  "send": "5",
+  "tells": {
+    "1": "Clunky repetition, passive phrasing, and formatting artifacts make it feel unedited rather than polished.",
+    "2": "Safe, generic conference-copy phrases like “This talk explores” and “practical considerations” give it a smoothed-over AI feel.",
+    "3": "Mechanical repetition of “covers” and the slightly awkward “putting their own pressure data to the same use” feel formulaic.",
+    "4": "The compressed phrase “find leaks in existing pressure data” is semantically off in a way typical of AI summarization.",
+    "5": "none"
+  },
+  "reason": "Version 5 sounds most like a real person describing a practical session, with a natural voice and concrete outcomes. It is clear, credible, and engaging enough to publish despite the slightly generic bio.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "O",
+    "3": "B3",
+    "4": "A",
+    "5": "C"
+  }
+}

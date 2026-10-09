@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 1,
+    "4": 4
+  },
+  "send": "3",
+  "tells": {
+    "1": "Overly stripped and slightly curt ('If you have questions, reply to this message.'), as if trimmed mechanically. It drops warmth cues like 'only' and 'just'.",
+    "2": "Formulaic 'Thank you for your patience' tacked onto the apology paragraph.",
+    "3": "none",
+    "4": "Stacked boilerplate empathy ('That's not the experience we want you to have', 'we'll be glad to help', 'again, my apologies for the inconvenience') with a redundant thank-you and apology at the close."
+  },
+  "reason": "Version 3 is concise and warm, apologizes once, states the fix clearly, and closes naturally without filler. Version 4 piles on stock customer-service phrases and repeats its apology.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "track2/B3-int",
+    "3": "B3",
+    "4": "O"
+  }
+}

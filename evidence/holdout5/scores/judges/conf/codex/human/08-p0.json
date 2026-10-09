@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 5,
+    "4": 3,
+    "5": 2,
+    "6": 6,
+    "7": 7
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "“With time for work and time for care” adds a polished, symmetrical slogan without useful information.",
+    "3": "“With time for work and time for care” feels formulaic; “Make time for your work” is less concrete than the other steps.",
+    "4": "“With time for work and time for care” interrupts otherwise natural, conversational copy with generic marketing language.",
+    "5": "none",
+    "6": "The balanced opening and “time set aside for work and care” create an overly composed, generic marketing rhythm.",
+    "7": "none"
+  },
+  "reason": "Version 1 combines clear booking details with natural phrasing and an appropriate, reassuring tone; version 5 is similarly credible but somewhat flat. These are stylistic judgments, not proof of authorship: version 7 feels like a rough human draft, but its errors and formatting fall short of skilled, publishable copy.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "V6A",
+    "3": "V6C",
+    "4": "C",
+    "5": "A",
+    "6": "O",
+    "7": "E"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "The forced bridge, \"The number is our members' too,\" and awkward \"cutting money off monthly bills\" feel mechanically assembled.",
+    "4": "The mirrored \"belongs to our crews\" / \"belongs to our members\" structure and \"everything in between\" feel formulaic."
+  },
+  "reason": "Version 1 combines warmth, clear information, and a credible apprenticeship promise: \"can lead\" avoids version 2's implied guarantee. These rankings reflect editorial impressions, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B3",
+    "4": "O"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 5,
+    "3": 4,
+    "4": 3,
+    "5": 1
+  },
+  "send": "5",
+  "tells": {
+    "1": "none",
+    "2": "Generic conference phrasing—“This talk explores,” “practical considerations,” and “make better use”—makes it feel templated.",
+    "3": "Repeated “covers” and cumbersome phrasing such as “before putting their own pressure data to the same use.”",
+    "4": "The stock “what worked, what didn't” promise and clustered conversational touches feel somewhat manufactured.",
+    "5": "none"
+  },
+  "reason": "Version 5 is concise, specific, and well suited to a conference submission; version 1 is a close second. These rankings reflect editorial impressions, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "O",
+    "3": "B3",
+    "4": "C",
+    "5": "B"
+  }
+}

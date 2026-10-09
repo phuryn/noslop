@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 6,
+    "3": 1,
+    "4": 5,
+    "5": 2,
+    "6": 4
+  },
+  "send": "3",
+  "tells": {
+    "1": "Stock phrases 'a future worth caring for' and 'find their voice again'",
+    "2": "Em-dash flourish plus stacked clichés: 'It's a privilege', 'find their voice again', 'for years to come'",
+    "3": "none",
+    "4": "Ceremonial 'It's a real privilege' and the tacked-on 'for years to come'",
+    "5": "Brochure phrasing in 'a history and a future worth caring for'",
+    "6": "Aphoristic opener 'Every piano has a history, and a future worth caring for' followed by 'find their voice again' and 'for years to come'"
+  },
+  "reason": "Version 3 swaps the stock sentiments for plain, specific claims ('years of playing left in them', 'sound right again'), which sound like a craftsman talking. The facts are equally clear in every version, so the voice is what separates them.",
+  "label_to_arm": {
+    "1": "B2",
+    "2": "O",
+    "3": "A",
+    "4": "C",
+    "5": "B3",
+    "6": "B"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 1,
+    "4": 3
+  },
+  "send": "3",
+  "tells": {
+    "1": "Templated bold-label sections ('What you'll do:', 'What we're after:') over generic, detail-free copy, with 'real' used as a stock intensifier ('real days off', 'real say')",
+    "2": "Uniformly smooth, generic prose with no concrete specifics (covers, crew size, benefits); reads like a de-formatted pass on version 1",
+    "3": "none",
+    "4": "Slightly over-smoothed restructuring ('so you can plan a life around the schedule') and colon-joined clause; otherwise generic like 2"
+  },
+  "reason": "Version 3 has the specifics that sell a kitchen job and are hard to fake: whole-animal butchery, 180 Friday covers, a crew of six, a four-day week, covered health insurance, and real promotion stories. Those details make it the most credible and the most human. The other three share the same polished but generic copy, and 1 adds template-style headers.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B3",
+    "3": "track2/B3-int",
+    "4": "track2/A-int"
+  }
+}

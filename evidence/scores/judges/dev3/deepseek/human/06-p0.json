@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 3,
+    "4": 2,
+    "5": 5
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Unnatural phrasing like 'start at the mixing' and 'Each month gives you a bake'.",
+    "3": "Overly balanced/choppy fragments, e.g. 'A little measuring done. A little joy delivered.'",
+    "4": "Templated structure and generic phrases like 'get straight to the good part'.",
+    "5": "Ungrammatical 'Skip the weighing out' and formal 'which leaves' construction."
+  },
+  "reason": "Version 1 reads the most natural and concrete ('skip the scale', 'fun part') while keeping a warm, human cadence. It is clear, credible, and publishable as-is.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "O",
+    "4": "B5",
+    "5": "B3"
+  }
+}

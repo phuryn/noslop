@@ -1,0 +1,11 @@
+{
+  "send": "4",
+  "reason": "It preserves the original facts, lesson, and recommendation in the same voice without adding new claims. It is the closest to what the writer meant, even though it drops the final question.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "E",
+    "3": "A",
+    "4": "B5"
+  },
+  "picked_arm": "B5"
+}

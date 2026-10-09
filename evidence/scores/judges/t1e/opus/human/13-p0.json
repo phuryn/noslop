@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 4,
+    "4": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "Polished, uniform consulting-template structure (Recommendation / Why now / Rationale / Risks and mitigations), with every bullet expanded to the same smooth, balanced length.",
+    "2": "none",
+    "3": "Bolded lead-in phrases on every rationale, reinvestment and risk bullet, plus the stock 'I'm happy to walk through...' closer.",
+    "4": "Markdown ## headers in an internal memo, and every mitigation rewritten into a parallel 'We will...' sentence."
+  },
+  "reason": "Version 2 reads most like a real person's draft: the phrasing is loose and repetitive, and the mitigations are vague. It is weaker on clarity and credibility, though. Version 1 keeps the polished structure and specific detail without the heavy bolding or markdown headers, so it is the strongest memo to actually send.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "E",
+    "3": "O",
+    "4": "A"
+  }
+}

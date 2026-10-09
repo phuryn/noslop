@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 6,
+    "5": 5,
+    "6": 2,
+    "7": 7
+  },
+  "send": "6",
+  "tells": {
+    "1": "none, though the 'quick heads-up' opener is slightly stock",
+    "2": "none; the bulleted structure is tidy but plausible for a human manager",
+    "3": "none; wordy, memo-ish phrasing ('The date for changeover will be on') reads as an unedited human draft",
+    "4": "Wave and raised-hands emoji bookends plus bolded bullet labels, a templated chatbot Slack format",
+    "5": "Emoji bookends and bold label-colon bullets, the stock AI announcement template",
+    "6": "none",
+    "7": "Same emoji-bookended, bold-labelled bullet template with padded phrasing ('Got questions or feeling stuck? Just drop them…')"
+  },
+  "reason": "Version 6 is clear, complete and warm without the emoji-and-bold formatting that marks 4, 5 and 7 as AI-generated. It also avoids the clunky wordiness of 3 and keeps a natural closing thanks that 2 lacks.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "E",
+    "4": "V6A",
+    "5": "O",
+    "6": "B5",
+    "7": "V6C"
+  }
+}

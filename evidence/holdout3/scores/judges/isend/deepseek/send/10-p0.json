@@ -1,0 +1,11 @@
+{
+  "send": "2",
+  "reason": "Version 2 preserves the original facts, caveats, and long-term perspective while reading naturally, with only minor wording changes. The other versions either add or omit meaning—especially version 4, which changes the 2025 season reference to 'last year's fires.'",
+  "label_to_arm": {
+    "1": "E",
+    "2": "B5",
+    "3": "A",
+    "4": "C"
+  },
+  "picked_arm": "B5"
+}

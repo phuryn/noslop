@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 4,
+    "4": 2
+  },
+  "send": "2",
+  "tells": {
+    "1": "The filler line 'so you'll have more options during the week' doesn't fit Sunday classes. 'If you're a current member' is an odd hedge in an email to members.",
+    "2": "none",
+    "3": "Formal, padded phrasing ('Starting December 1... will increase', 'will take effect for you', 'to give you more options') with each idea in its own paragraph and a stock 'Thank you for being part of our community' sign-off.",
+    "4": "The boilerplate benefit line 'so you'll have more options during the week' is mildly off, since Sunday isn't a weekday."
+  },
+  "reason": "Version 2 is the tightest and clearest. It states the price, the grandfathering for current members, and the new classes without filler, and it skips the illogical 'more options during the week' line that the other versions share. Version 3 reads most like polished template output.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "track2/A-int",
+    "3": "O",
+    "4": "B5"
+  }
+}

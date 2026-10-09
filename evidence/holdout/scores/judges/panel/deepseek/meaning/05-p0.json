@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1
+  },
+  "reason": "Version 3 stays closest to the original wording, facts, and caveats; version 1 is faithful but more paraphrased, and version 2 drops the 'unless you see a reason not to' caveat by stating Tilburg as the direct preference.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B3"
+  }
+}

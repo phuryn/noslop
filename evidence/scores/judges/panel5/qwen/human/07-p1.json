@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 1,
+    "3": 2,
+    "4": 5,
+    "5": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "The phrase 'The remaining piece is' feels formulaic and slightly mechanical.",
+    "2": "none",
+    "3": "The wording is a little padded; 'about 80% of the way through moving' expands a simple point.",
+    "4": "The phrasing 'is the remaining piece' reads like a stiff, mechanical rephrase.",
+    "5": "'Android biometric login is what's left' feels flat and slightly generic."
+  },
+  "reason": "Version 2 is the best send because it is concise, clear, and sounds like a natural Slack status update. Version 3 is slightly more conversational, but Version 2 is cleaner and more professional.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "A",
+    "3": "C",
+    "4": "B3",
+    "5": "B5"
+  }
+}

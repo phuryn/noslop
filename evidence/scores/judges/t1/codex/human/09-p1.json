@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 3,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "Stacked apologies and stock reassurance make it feel padded and templated.",
+    "2": "none",
+    "3": "The explanation that the failed battery 'qualifies' feels mechanical; the apology reads like an item added afterward.",
+    "4": "none"
+  },
+  "reason": "Version 4 combines a clear resolution with natural warmth and personal ownership. Version 2 is also strong, but its closing invitation feels slightly abrupt; these are stylistic judgments, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "A",
+    "3": "B",
+    "4": "C"
+  }
+}

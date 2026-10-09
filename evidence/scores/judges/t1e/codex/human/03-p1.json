@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2,
+    "4": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Bold labels on every bullet feel mildly templated and repeat information in the sentences.",
+    "3": "The repeated bold-label structure feels mildly templated, though the wording is concise.",
+    "4": "Forced casualness—especially 'a bunch' and the exclamation mark—feels manufactured."
+  },
+  "reason": "Version 1 is direct, natural, and easy to scan without unnecessary formatting; version 3 is a close second. Version 4's awkward phrasing and punctuation errors weaken its credibility; none of these stylistic traits establishes AI authorship.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "O",
+    "3": "B3",
+    "4": "E"
+  }
+}

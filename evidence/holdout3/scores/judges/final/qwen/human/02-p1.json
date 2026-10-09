@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 5,
+    "3": 3,
+    "4": 2,
+    "5": 4,
+    "6": 6
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "generic marketing phrase 'good fit' and a templated rhythm",
+    "3": "formulaic soft opener ('I wanted to see if...')",
+    "4": "none",
+    "5": "polished but generic wording such as 'good fit'",
+    "6": "none"
+  },
+  "reason": "Version 1 is concise, credible, and buyer-focused while keeping the ask low-pressure. Version 4 sounds warm and human, but 1 is the most professional version to send.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "B3",
+    "3": "A",
+    "4": "C",
+    "5": "O",
+    "6": "E"
+  }
+}

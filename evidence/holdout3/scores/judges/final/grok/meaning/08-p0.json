@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 5,
+    "3": 3,
+    "4": 2,
+    "5": 4
+  },
+  "reason": "Version 1 keeps the price, counties, 40-hectare minimum, delivery within 48 hours of the flight, and the maps’ role in helping you spot areas, with only light paraphrase. Version 4 is next; 3 upgrades the maps so they “show” problem areas; 5 adds inbox delivery and several softer changes; 2 is least faithful because it drops both the flight-based timing caveat and the spotting purpose.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "E",
+    "3": "A",
+    "4": "B5",
+    "5": "C"
+  }
+}

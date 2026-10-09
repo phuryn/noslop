@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 1,
+    "4": 2,
+    "7": 3,
+    "3": 4,
+    "2": 5,
+    "5": 6,
+    "6": 7
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Slight repetitive phrasing: 'smooth job' then 'the smooth kind'",
+    "3": "Unnatural phrase: 'done enough years'",
+    "4": "none",
+    "5": "Awkward elliptical phrase: 'running the first kind'",
+    "6": "Boilerplate recruiter phrasing: 'great company with a fantastic team' and 'mutual benefit'",
+    "7": "Slightly formal/stilted: 'the former' and 'are people we want to see back'"
+  },
+  "reason": "Version 1 is the strongest: it sounds like a real supervisor speaking directly to an experienced peer, is concise, respects the reader's judgment, and avoids recruiter boilerplate.",
+  "label_to_arm": {
+    "1": "V6A",
+    "2": "A",
+    "3": "C",
+    "4": "V6C",
+    "5": "B5",
+    "6": "E",
+    "7": "O"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 3,
+    "4": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Generic promotional framing ('It has some great new features') that adds nothing.",
+    "3": "Every bullet starts with a bolded inline label and colon, a templated pattern that also slightly duplicates the headings.",
+    "4": "Bolded inline-header bullets ('**Faster bank feed sync:**') plus Title Case in the heading, a formulaic structure."
+  },
+  "reason": "Version 1 is clear, scannable and plainly worded, with no decorative formatting or hype, so it reads like a competent human wrote it. Versions 3 and 4 add redundant bold labels, and Version 2 has accurate content but is unstructured, inconsistent and slightly salesy.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "gen/E-write",
+    "3": "B3",
+    "4": "O"
+  }
+}

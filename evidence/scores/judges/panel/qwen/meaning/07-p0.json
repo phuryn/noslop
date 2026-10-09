@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2
+  },
+  "reason": "Version 1 preserves the original facts and phrasing most directly. Version 3 is also faithful but adds 'only,' while Version 2 introduces 'big piece,' which could imply smaller remaining work not stated in the original.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "C",
+    "3": "A"
+  }
+}

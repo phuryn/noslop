@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 5,
+    "3": 3,
+    "4": 1,
+    "5": 4
+  },
+  "reason": "Version 4 keeps the figures, hedges, and lesson, omitting only the closing question. Version 1 drops the dual-benefit line and turns “sometimes” into a claim that this was the biggest win; 3 also loses that lesson and hardens “hit or miss”; 5 keeps the themes but adds unsupported claims (results appeared quickly; try texts for a month) and shifts caveats; 2 is least faithful, changing “rarely” to “never” and dropping the lesson.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "E",
+    "3": "A",
+    "4": "B5",
+    "5": "C"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 4,
+    "3": 1,
+    "4": 2
+  },
+  "reason": "Version 3 preserves the original most closely, mainly omitting the panel’s stated value; version 4 also makes its availability during the yearly checkup explicit. Version 1 strengthens the recommendation to specifically require bloodwork and drops its role in guiding care, while version 2 changes the age threshold, omits other health markers, and overstates a “fuller picture” as “the full picture.”",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "B2",
+    "4": "B"
+  }
+}

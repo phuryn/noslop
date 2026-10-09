@@ -1,0 +1,11 @@
+{
+  "send": "2",
+  "reason": "Version 2 preserves the original facts, tone, and commitments most faithfully while reading cleanly and naturally. It avoids the added spin in version 1 and the all-caps distortions in version 3.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B5",
+    "3": "E",
+    "4": "A"
+  },
+  "picked_arm": "B5"
+}

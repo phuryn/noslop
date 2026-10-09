@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 4,
+    "4": 1
+  },
+  "reason": "Version 4 keeps the original facts, numbers, and caveats with only minor omissions. Version 2 is a close paraphrase with small shifts such as “routines” and “exactly”; version 1 drops more commitments (doing exercises right, staying consistent, seeing progress); version 3 adds a “never miss a session” promise and changes the 24-hour renewal caveat and medical disclaimer.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "E",
+    "4": "B3"
+  }
+}

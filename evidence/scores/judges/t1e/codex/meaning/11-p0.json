@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1
+  },
+  "reason": "Version 3 preserves all substantive details, while version 1 omits the explicit promise of a schedule you can plan a life around. Version 2 loses several commitments and expectations, including nights that end, calm leadership, attention to seasoning, and meaningful input, while adding open-ended responsibilities and making prior experience explicitly mandatory.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "E",
+    "3": "B3"
+  }
+}

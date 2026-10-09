@@ -1,0 +1,12 @@
+{
+  "dropped": [],
+  "changed": [
+    {
+      "item": "Polite request 'Can you reply \"yes\" to confirm, or let me know...' became the more direct imperative 'Reply \"yes\" to confirm, or tell me...'; the call to action is unchanged, only the tone is firmer",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

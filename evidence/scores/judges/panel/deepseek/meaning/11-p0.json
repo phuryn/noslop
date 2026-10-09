@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1,
+    "4": 4
+  },
+  "reason": "Version 3 preserves all original facts and commitments with minimal wording changes; version 1 also preserves the substance but paraphrases more; version 2 drops the 'schedule you can plan a life around' benefit; version 4 loses several key nuances and adds promotional fluff.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B3",
+    "4": "E"
+  }
+}

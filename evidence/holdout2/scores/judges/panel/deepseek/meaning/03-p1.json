@@ -1,0 +1,11 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2
+  },
+  "reason": "Version 1 preserves the action item wording more exactly, including 'engine cutaway display specs'; version 2 drops 'display' from that item, a minor specificity loss.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3"
+  }
+}

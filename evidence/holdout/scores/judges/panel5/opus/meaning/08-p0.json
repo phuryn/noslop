@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 3,
+    "3": 1,
+    "4": 2
+  },
+  "reason": "Version 3 keeps every fact and sentiment, including 'find its voice again' and 'privilege'. Version 4 keeps nearly all of it with minor rephrasing ('I run... in Asheville' shifts the location from where the business started to where it is now), Version 2 drops the privilege and finding-its-voice ideas, and Version 1 narrows 'every piano has a future' to 'most have years of playing left' and loses 'worth caring for' and 'privilege'.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "B5",
+    "4": "C"
+  }
+}

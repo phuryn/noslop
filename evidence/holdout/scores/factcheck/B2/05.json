@@ -1,0 +1,12 @@
+{
+  "dropped": [],
+  "changed": [
+    {
+      "item": "The polite request \"Can you reply 'yes' to confirm, or let me know if you'd prefer Corvane?\" became a direct instruction: \"Reply 'yes' to confirm, or tell me if you'd prefer Corvane.\" The tone is slightly more directive, but the action asked for is the same.",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

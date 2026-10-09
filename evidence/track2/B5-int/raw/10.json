@@ -1,0 +1,7 @@
+{
+  "id": 10,
+  "arm": "B5",
+  "reply1": "Everything the email needs is already in the draft, so I rewrote it without asking questions. I moved the price change to the front and merged the two rate sentences. The closing thanks stays because the genre calls for it.\n\n<final>\nSubject: Membership pricing update + Sunday evening classes\n\nHi everyone,\n\nOn December 1, the unlimited monthly membership goes from $119 to $135. If you're a current member, you'll stay at $119 until March 1, and then you'll move to the $135 rate.\n\nWe're also adding Sunday evening classes, so you'll have more options during the week. We'll share the class times soon.\n\nThanks for being part of our community. If you have any questions about the price change, just reply to this email.\n</final>",
+  "asked": false,
+  "final": "Subject: Membership pricing update + Sunday evening classes\n\nHi everyone,\n\nOn December 1, the unlimited monthly membership goes from $119 to $135. If you're a current member, you'll stay at $119 until March 1, and then you'll move to the $135 rate.\n\nWe're also adding Sunday evening classes, so you'll have more options during the week. We'll share the class times soon.\n\nThanks for being part of our community. If you have any questions about the price change, just reply to this email."
+}

@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2,
+    "4": 4
+  },
+  "reason": "Version 1 stays closest to the original wording and meaning. Version 3 is next closest, then Version 2; Version 4 paraphrases most and loses the 'small job now' nuance.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B5",
+    "3": "B3",
+    "4": "C"
+  }
+}

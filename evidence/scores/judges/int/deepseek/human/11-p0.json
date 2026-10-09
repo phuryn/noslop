@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3,
+    "4": 4
+  },
+  "send": "2",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "slightly over-polished parallel phrasing like 'real days off, nights that actually end, and a schedule you can plan a life around'",
+    "4": "Markdown-style bold headings and section labels"
+  },
+  "reason": "Version 2 feels most authentic because it includes concrete operational details and a named employee story, while version 4 is the most obviously AI-formatted.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "track2/B3-int",
+    "3": "B3",
+    "4": "O"
+  }
+}

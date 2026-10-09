@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 3,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "Generic marketing phrases like 'fuller picture' and 'more out of the checkup' make it feel slightly templated.",
+    "2": "Flat, clipped, and generic; it reads like a cleaned-up summary rather than a person with a viewpoint.",
+    "3": "Over-polished cadence and em-dash framing, plus stock phrasing like 'make the most of their yearly checkup,' feel AI-smoothed.",
+    "4": "none"
+  },
+  "reason": "Version 4 feels most human because it uses concrete detail, plausible clinical judgment, and candid cost-aware language. The others are clear but more generic and marketing-polished.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "track2/A-int",
+    "3": "O",
+    "4": "track2/B5-int"
+  }
+}

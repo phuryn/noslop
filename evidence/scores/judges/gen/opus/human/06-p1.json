@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 4,
+    "3": 1,
+    "4": 2
+  },
+  "send": "3",
+  "tells": {
+    "1": "Stock lines like \"the ones that make life worth living\" and the triplet \"relax, recharge and enjoy\". The hero also wrongly says the box contains baked goods when it ships ingredients.",
+    "2": "Formulaic parallel fragments, such as \"A little measuring done. A little joy delivered.\" and \"Less measuring. More making.\"",
+    "3": "none",
+    "4": "Over-compressed, with the section headings stripped out. The phrase \"start at the mixing\" is slightly awkward."
+  },
+  "reason": "Version 3 keeps the warm, specific imagery (the tea, the last crumb, sneaking a taste) without the slogan-style fragments of version 2 or the clichés and inaccuracy of version 1. Its headings also give the landing page clearer structure than version 4.",
+  "label_to_arm": {
+    "1": "gen/E-write",
+    "2": "O",
+    "3": "B3",
+    "4": "A"
+  }
+}

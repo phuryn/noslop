@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "4": 3,
+    "3": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Generic cozy imagery like 'sneaking a taste' and 'quiet cup of tea' substitutes for concrete proof.",
+    "3": "Formulaic slogan pairings such as 'A little measuring done. A little joy delivered.' and 'Less measuring. More making.' feel machine-polished.",
+    "4": "Bolded headings and the templated aspirational line 'Give yourself something to look forward to each month' make it feel more generated than voiced."
+  },
+  "reason": "Version 1 feels most human because it uses concrete details, social proof, and slightly imperfect brand-specific copy. It also has the strongest credibility for a landing page.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "track2/A-int",
+    "3": "O",
+    "4": "B5"
+  }
+}

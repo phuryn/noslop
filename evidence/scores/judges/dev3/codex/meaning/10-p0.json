@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 3,
+    "4": 1
+  },
+  "reason": "Version 4 preserves all facts and commitments, including addressing the recipient as a current member; version 2 makes that status conditional. Version 3 also omits the stated benefit of more weekly options and the community acknowledgment, while version 1 adds an emotional judgment, a workout assumption, and an explicit promise to help.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B3",
+    "3": "A",
+    "4": "B5"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "send": "2",
+  "reason": "It is the only version that keeps the writer's key nuances: two-way texting, the 11 hours saved, the cost, and the caveats about elderly patients, Sopot, and summer. It stays accurate without overstating the result.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "track2/B5-int",
+    "3": "track2/A-int",
+    "4": "E"
+  },
+  "picked_arm": "track2/B5-int"
+}

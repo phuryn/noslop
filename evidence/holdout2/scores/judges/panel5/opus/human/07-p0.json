@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 3,
+    "3": 1,
+    "4": 2
+  },
+  "send": "3",
+  "tells": {
+    "1": "Bold formatting on dates, numbers and headers, plus the closing line 'It's how we keep each other safe.' Together they read like a template.",
+    "2": "Mostly clean. It keeps the slightly padded 'early warning' and 'without exception' emphasis, and the bold subject line clashes with the plain headers.",
+    "3": "None. It is the leanest version, though 'injury or damage' drops 'harm' and the final bullet loses 'without exception'.",
+    "4": "'It's how we look out for each other' is a neat moral closer of the kind AI tends to add. 'We expect you to attend' also sounds a little stiff."
+  },
+  "reason": "Version 3 is the tightest and most natural. It cuts the motivational filler and stays easy to scan on site, and it reads like a manager wrote it quickly and clearly. Version 4 sounds human but buries the actions in prose, and Version 1's heavy bolding and slogan-style lines feel the most generated.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B3",
+    "3": "A",
+    "4": "B5"
+  }
+}

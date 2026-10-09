@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 5,
+    "5": 4
+  },
+  "reason": "Version 1 preserves the original most closely; 2 slightly shifts timing from “next” to “now,” and 3 reframes members’ shared credit and the co-op’s purpose. Version 5 adds extreme weather and a “lasting” career prospect, while 4 makes the strongest commitment change by replacing a “path into” a career with training that “leads to” one and reducing members’ shared ownership to receiving benefits.",
+  "label_to_arm": {
+    "1": "B2",
+    "2": "B3",
+    "3": "B",
+    "4": "A",
+    "5": "C"
+  }
+}

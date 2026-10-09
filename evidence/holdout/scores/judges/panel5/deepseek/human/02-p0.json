@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 5,
+    "5": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "The close 'I'm happy to share more if you're interested' is a boilerplate AI phrase.",
+    "3": "'Might be a good fit' is a stock recruiter/AI phrase.",
+    "4": "'If it sounds of interest' is stilted and likely AI-generated.",
+    "5": "none"
+  },
+  "reason": "Version 1 reads most natural and direct, avoiding the boilerplate closers and stock phrases that make the others feel less human. It's the one I'd send.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "C",
+    "4": "O",
+    "5": "B5"
+  }
+}

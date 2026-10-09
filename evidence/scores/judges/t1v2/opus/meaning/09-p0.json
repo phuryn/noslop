@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 4,
+    "4": 1
+  },
+  "reason": "Version 4 keeps every fact and commitment, including 'only five months', the apology for the wait, and 'we'll' send and email. Version 1 is nearly as close but drops 'we'll be glad to help'. Version 2 shifts the tracking and help commitments from the team to 'I' and drops 'replacement' from the subject, while Version 3 adds a new claim that the failure 'qualifies' under the warranty, also shifts to 'I'll email', and drops 'only'.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "B",
+    "4": "B2"
+  }
+}

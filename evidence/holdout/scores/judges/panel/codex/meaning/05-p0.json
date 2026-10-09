@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3
+  },
+  "reason": "Version 2 preserves all facts, the decision request, and the explicit caveat most directly; version 1 retains them with slightly more rephrasing. Version 3 removes “Unless you see a reason not to,” making the Tilburg recommendation less explicitly conditional, though it still allows Anita to choose Corvane.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B3",
+    "3": "A"
+  }
+}

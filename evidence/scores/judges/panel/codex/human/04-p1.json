@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 5,
+    "4": 3,
+    "5": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "The succession of short instructions feels mechanically simplified; 'ignore them until next summer' also sacrifices credibility for informality.",
+    "4": "The combination of 'pointy', 'hard bit' and 'natter' slightly overworks the conversational voice.",
+    "5": "The transitions feel mechanically smoothed, particularly 'and it gives us' and 'After that, the hardest part is'."
+  },
+  "reason": "Version 1 has the best rhythm and a warm, restrained voice suited to a community newsletter; version 2 is a close second. These are editorial judgments about how the prose reads, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "A",
+    "3": "E",
+    "4": "C",
+    "5": "B3"
+  }
+}

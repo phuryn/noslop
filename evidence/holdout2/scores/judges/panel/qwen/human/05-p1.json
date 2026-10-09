@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1
+  },
+  "send": "3",
+  "tells": {
+    "1": "Emoji-heavy template structure and stock phrases like 'all things apple' and 'good appetite for autumn' feel slightly manufactured.",
+    "2": "Flat, compressed info-dump style with a slightly awkward list-like sentence makes it feel more summarized than written.",
+    "3": "Mild redundancy in 'for the first time' and 'among the first' gives it a faintly polished-but-generic AI sheen."
+  },
+  "reason": "Version 3 is the clearest, most credible, and warmest without leaning on decorative formatting. It feels like a skilled human edit for an event invitation, while 1 is a bit too templated and 2 too bare.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "A",
+    "3": "B3"
+  }
+}

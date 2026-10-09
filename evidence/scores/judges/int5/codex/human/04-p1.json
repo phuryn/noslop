@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 3,
+    "3": 2,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "none",
+    "4": "none"
+  },
+  "reason": "Version 4 has the most natural conversational rhythm and clear, practical wording; version 3 is a close second. Version 2 feels slightly more packaged, while version 1 has a clumsier 'which is' construction, but none contains a convincing AI-writing tell.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "O",
+    "3": "track2/A-int",
+    "4": "B5"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 5,
+    "2": 3,
+    "3": 1,
+    "4": 4,
+    "5": 2
+  },
+  "reason": "Version 3 retains the most original commitments, including the character-flaw contrast, the watching detail, and the not-triumphant/astonished caveat. Version 5 is close but drops the triumph contrast and watching; Version 2 omits the character-flaw contrast; Version 4 adds/paraphrases; Version 1 changes or omits major elements.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "A",
+    "3": "B3",
+    "4": "C",
+    "5": "B5"
+  }
+}

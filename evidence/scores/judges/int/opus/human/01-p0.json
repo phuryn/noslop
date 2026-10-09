@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2,
+    "4": 4
+  },
+  "send": "2",
+  "tells": {
+    "1": "Sweeping benefit triad ('fewer empty chairs, less phone time for the front desk, and more patients getting the care they need when they need it') plus the abstract 'meeting patients where they already are' moral",
+    "2": "none",
+    "3": "Generic engagement-bait closing question ('What's worked for you in reducing no-shows?') and the tidy 'My takeaway is...' lesson line",
+    "4": "Formulaic LinkedIn scaffolding: one-line hook, 'Here's what that meant in practice:' bulleted triad, 'The lesson for me: sometimes the biggest wins...' aphorism, and engagement-question sign-off"
+  },
+  "reason": "Version 2 has specific, checkable details (cost, 11 hours saved, Joanna in Gdańsk, Sopot stuck at 12%) and honest caveats about seasonality, so it reads as lived experience and gives readers practical advice. The others repeat the same polished claims with generic lessons, and Version 4 has the most template-like structure.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "track2/B3-int",
+    "3": "track2/A-int",
+    "4": "O"
+  }
+}

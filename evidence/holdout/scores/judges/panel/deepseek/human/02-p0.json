@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2,
+    "4": 4
+  },
+  "send": "2",
+  "tells": {
+    "1": "Tentative AI-style opener and formulaic CTA ('I think you're currently... if you're interested').",
+    "2": "none",
+    "3": "Slightly clipped closing ('I can share more then') and tentative 'I think you're currently'.",
+    "4": "Unnatural phrase 'if it sounds of interest'."
+  },
+  "reason": "Version 2 is the most credible and natural: it references having seen Callum's current role rather than guessing, and its tone is warm but still professional.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "B3",
+    "4": "O"
+  }
+}

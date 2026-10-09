@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1
+  },
+  "send": "3",
+  "tells": {
+    "1": "Generic, low-specificity sentiment padded with paired rhetorical fragments ('Maybe it's been reread. Maybe it's been passed along.') and a reflective post (5/6) that adds no information",
+    "2": "Same padding as 1, plus a stock em-dash reveal in 1/6 and the gushing 'One of the lovely things about…' framing",
+    "3": "Mostly none; only the boilerplate thank-you line ('Those visits helped us get here') feels templated"
+  },
+  "reason": "Version 3 is the tightest and the only one with a concrete, memorable anecdote (Middlemarch, Mr. Okafor), which is what makes a local-shop thread feel real. It also has a clearer call to action. Before posting, confirm the anecdote is true and that Mr. Okafor is happy to be named, because a made-up detail would undercut the credibility it adds.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "O",
+    "3": "track2/B2-int"
+  }
+}

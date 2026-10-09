@@ -1,0 +1,25 @@
+{
+  "dropped": [
+    {
+      "item": "Closing engagement question / call to action: \"What's worked for you in reducing no-shows?\"",
+      "severity": "major"
+    },
+    {
+      "item": "The framing that the change was simple (\"The change was simple\")",
+      "severity": "minor"
+    },
+    {
+      "item": "\"Closing that gap matters for both the practice and the people we serve\": the point that reducing no-shows benefits both the practice and patients",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "The original's lesson was hedged and general: \"sometimes the biggest operational wins come from meeting people where they already are.\" The edit turns it into a definite claim about this case: \"the biggest operational win came from meeting patients where they already are.\" This implies text reminders were the organization's single biggest operational win, which the original never claimed.",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

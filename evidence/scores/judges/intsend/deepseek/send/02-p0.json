@@ -1,0 +1,11 @@
+{
+  "send": "3",
+  "reason": "Version 3 includes the 2-hour on-time definition, leads with regular routes, adds the 42-truck capacity caveat and temperature monitoring, and keeps the ask to an intro call only.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "C",
+    "3": "track2/B5-int",
+    "4": "track2/A-int"
+  },
+  "picked_arm": "track2/B5-int"
+}

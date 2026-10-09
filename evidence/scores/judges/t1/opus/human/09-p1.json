@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 3,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "none, though it is so trimmed that it feels slightly clipped (\"If you have questions before then, reply to this message.\")",
+    "2": "Stacked stock phrases: \"Thank you for reaching out,\" \"That's not the experience we want you to have,\" a closing \"Thank you for your patience,\" and a repeated apology",
+    "3": "Over-explained logic (\"so a battery that stopped charging after five months qualifies\") reads like a model justifying its conclusion",
+    "4": "none"
+  },
+  "reason": "Version 4 sounds like one real person taking ownership (\"I'll email,\" \"I'll help\"), with a natural, warm register and no filler. Version 2 piles up customer-service boilerplate and double apologies, the clearest AI pattern.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "O",
+    "3": "B",
+    "4": "C"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 5,
+    "4": 1,
+    "5": 3,
+    "6": 6
+  },
+  "send": "4",
+  "tells": {
+    "1": "Very tidy parallel bullets and neutral PM language feel slightly templated.",
+    "2": "Bolded mini-heads and evenly balanced clauses give it a generated listicle sheen.",
+    "3": "'The consequences are significant' is a generic, abstract transition.",
+    "4": "none",
+    "5": "'This causes four problems' is mechanically enumerative rather than naturally written.",
+    "6": "none"
+  },
+  "reason": "Version 4 has the most natural cadence and concrete phrasing while staying clear enough for a PRD. It sounds like a person explaining the operational pain, not just formatting requirements.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "B3",
+    "3": "O",
+    "4": "C",
+    "5": "A",
+    "6": "E"
+  }
+}

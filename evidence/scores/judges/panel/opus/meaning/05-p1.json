@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 4,
+    "4": 3
+  },
+  "reason": "Version 2 keeps every fact, number, and caveat almost word for word. Version 1 is nearly as close but adds the claim that the system handles routine reassignments, and Version 4 introduces small shifts such as 'test whether the 30-minute target is realistic' and 'confirm targets then.' Version 3 drops the secondary goals and non-goals entirely and adds new commitments ('all affected visits', 'significantly decrease').",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "E",
+    "4": "C"
+  }
+}

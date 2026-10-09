@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 5,
+    "3": 4,
+    "4": 2,
+    "5": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Repeated 'Would you be open to' stems and the clumsy 'Hi, We' opening",
+    "3": "One brochure sentence plus two evenly stacked questions",
+    "4": "Inserted failure-to-fix anecdote and sudden stats that do not belong in a first touch",
+    "5": "Voice-stripped compression into a generic help-plus-15-minutes template"
+  },
+  "reason": "Version 1 reads like a salesperson: short, specific, and lightly colloquial without errors or self-sabotage. The others are repetitive, brochure-flat, or padded with details a skilled first-touch writer would leave out.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "E",
+    "3": "O",
+    "4": "track2/B5-int",
+    "5": "track2/A-int"
+  }
+}

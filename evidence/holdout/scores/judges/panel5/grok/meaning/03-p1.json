@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 3,
+    "4": 1
+  },
+  "reason": "Version 4 keeps the product claims, October 20 rollout, and support commitments, dropping only the “go further between charges” nuance. Version 2 is next because it stays accurate and retains the no-silly-question assurance; version 3 omits that assurance, and version 1 narrows Crowd Focus to one person and changes charging to “plugging in.”",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B3",
+    "3": "A",
+    "4": "B5"
+  }
+}

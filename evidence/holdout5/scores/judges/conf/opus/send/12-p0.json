@@ -1,0 +1,13 @@
+{
+  "send": "4",
+  "reason": "Version 4 keeps every fact and caveat (free, public, 14 November, Heptonstall playing field, six telescopes, warm clothes, Methodist hall talk if cloudy) in the writer's own plain voice. Version 6 is closer word for word, but 'Everyone is welcome, so bring warm clothes' adds a cause-and-effect link the writer never made.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "V6C",
+    "3": "E",
+    "4": "B5",
+    "5": "V6A",
+    "6": "A"
+  },
+  "picked_arm": "B5"
+}

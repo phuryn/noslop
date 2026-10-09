@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 3,
+    "3": 2,
+    "4": 5,
+    "5": 1
+  },
+  "reason": "Version 5 preserves the offer and low-pressure caveat most fully; version 3 is close but omits explicit reassurance, while version 2 also strengthens the restocking benefit to “never.” Version 1 adds unsupported “favourite inks,” and version 4 introduces several shifts, including “nearly ready,” assumed customer tenure, and a guarantee against running out mid-page.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "A",
+    "3": "B3",
+    "4": "C",
+    "5": "B5"
+  }
+}

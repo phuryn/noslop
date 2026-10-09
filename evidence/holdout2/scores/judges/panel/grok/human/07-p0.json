@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Brochure bolding plus the slogan closer ('early warning' / 'how we keep each other safe').",
+    "3": "The shared 'early warning' slogan and a markdown-bold Subject label."
+  },
+  "reason": "Version 1 is the one I would send: it is clear, scannable, and sounds like a site lead, without poster slogans or markdown. Versions 2 and 3 read as polished rewrites of the same note; 2 is the most designed, and 3 is closer to a person but still smoothed and less scannable.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "O",
+    "3": "B3"
+  }
+}

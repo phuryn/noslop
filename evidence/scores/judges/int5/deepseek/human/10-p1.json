@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 4,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "The conditional phrase \"and then you'll move to the $135 rate\" feels slightly mechanical.",
+    "2": "The clipped phrasing \"when the new rate starts for you\" reads as a somewhat awkward condensation.",
+    "3": "Formal template language like \"will take effect for you\" and \"to give you more options during the week\" reads as polished AI copy.",
+    "4": "none"
+  },
+  "reason": "Version 4 reads as the most natural and human while still being clear about the price change and grandfathering; it avoids stiff or overly formal phrasing.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "track2/A-int",
+    "3": "O",
+    "4": "B5"
+  }
+}

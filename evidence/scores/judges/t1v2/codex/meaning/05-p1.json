@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1,
+    "4": 4
+  },
+  "reason": "Version 3 preserves the original most closely; version 1 makes system handling of routine reassignments explicit, while version 2 drops the qualifier “typically” from the phone-and-text workflow. Version 4 introduces larger shifts, including proximity becoming residence, risks becoming definite harms, and a new commitment to confirm targets before the pilot.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B",
+    "3": "B2",
+    "4": "C"
+  }
+}

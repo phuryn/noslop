@@ -1,0 +1,11 @@
+{
+  "send": "3",
+  "reason": "It preserves the original facts and commitments exactly, keeps the subject line and tone close to the original, and reads naturally.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "track2/A-int",
+    "3": "track2/B5-int",
+    "4": "E"
+  },
+  "picked_arm": "track2/B5-int"
+}

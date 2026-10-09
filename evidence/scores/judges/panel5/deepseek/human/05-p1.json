@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 6,
+    "2": 4,
+    "3": 2,
+    "4": 3,
+    "5": 5,
+    "6": 1
+  },
+  "send": "6",
+  "tells": {
+    "1": "none",
+    "2": "Highly parallel structure and 'This causes four problems:' lead-in are typical AI-generated PRD phrasing.",
+    "3": "Near-identical wording to version 2 with light conversational edits; reads like a paraphrase.",
+    "4": "Bolded bullet lead-ins and 'What this costs:' framing feel like AI-generated formatting.",
+    "5": "Formal, evenly balanced phrasing with bolded consequences ('The consequences are significant:') reads AI-polished.",
+    "6": "none"
+  },
+  "reason": "I chose 6 because it explains the problem and goals in a clear, credible, natural voice without stiff AI-style formatting. Versions 4 and 5 read as AI-polished because of their heavy bolded framing, while 1 is human but too rough.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "A",
+    "3": "B5",
+    "4": "B3",
+    "5": "O",
+    "6": "C"
+  }
+}

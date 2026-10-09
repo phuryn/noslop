@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "The 'which means' clause restates an obvious benefit, a stock AI connective, and 'celebrating apples' is generic filler.",
+    "3": "The middle sentence collapses two offers into a broken parallel ('demos, where you can watch... and the first pour'), like an over-compressed summary.",
+    "4": "Emoji-framed headline, 'Here's what's on' icon bullets, a repeated date/place block, 'all things apple', and extra hashtags form a stock event-post template."
+  },
+  "reason": "Version 1 is warm, specific, and evenly paced without template furniture or padding, so it is the one I would publish. Version 2 is close but slightly explanatory; 3 is clipped and ungrammatical; 4 reads like a generated social template.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "B5",
+    "3": "A",
+    "4": "O"
+  }
+}

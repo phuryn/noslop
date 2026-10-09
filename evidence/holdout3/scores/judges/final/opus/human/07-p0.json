@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 6,
+    "2": 2,
+    "3": 3,
+    "4": 5,
+    "5": 4,
+    "6": 1
+  },
+  "send": "5",
+  "tells": {
+    "1": "Stacked staccato negation-reversals ('It's not. It's a different, worse job.' / 'It isn't cheaper work. It's...' / 'It didn't. It just moved...') that read as a formulaic rhetorical rhythm",
+    "2": "Very even, polished cadence with a tidy tricolon ('one misplaced modal verb, one false friend..., or one quietly dropped negation'), though few overt tells",
+    "3": "Punchy 'It didn't. It moved somewhere cheaper, more rushed, and less visible' reversal plus a slightly flowery 'where the machine betrayed it'",
+    "4": "'It isn't cheaper. It's the same liability...' contrast framing, plus the 'which is exactly what makes it dangerous:' colon setup and 'has simply moved'",
+    "5": "Tidy three-beat lists and the 'It didn't.' one-line reversal before the closing line",
+    "6": "none"
+  },
+  "reason": "Version 6 is clearly human, with non-native slips, uneven punctuation and genuine frustration, but it is too rough to publish. Version 5 keeps the sharpest argument, uses readable paragraph breaks and has fewer formulaic reversals than 1, 3 or 4, so it is the best to send.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B5",
+    "4": "O",
+    "5": "B3",
+    "6": "E"
+  }
+}

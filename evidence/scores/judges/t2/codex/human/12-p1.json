@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Generic conference boilerplate such as “shares lessons” and “practical considerations,” paired with a bio that repeats the abstract instead of identifying the speaker.",
+    "3": "The anonymous bio recycles the abstract’s central claim and metric, suggesting mechanical compression rather than purposeful editing."
+  },
+  "reason": "Version 1 gives attendees concrete reasons to attend, acknowledges limits on attribution, and establishes the speaker’s credentials. Version 3 is cleaner than version 2, but both lose the specificity and individual judgment that make version 1 credible; these stylistic differences do not establish AI authorship.",
+  "label_to_arm": {
+    "1": "track2/B2-int",
+    "2": "O",
+    "3": "track2/A-int"
+  }
+}

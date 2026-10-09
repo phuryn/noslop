@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 5,
+    "2": 4,
+    "3": 3,
+    "4": 2,
+    "5": 1
+  },
+  "reason": "Version 5 keeps the premium benefit, recovery outcomes, price, renewal caveat, and medical disclaimer with only minor hedges. Version 4 drops what Premium unlocks and “keep your recovery moving”; 3 shifts meaning (“routines,” “easier,” “just”); 2 omits consistency and progress-tracking claims; 1 misstates the renewal window, implies the app is free to use, and adds a “never miss a session” promise.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "A",
+    "3": "C",
+    "4": "B3",
+    "5": "B5"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "send": "3",
+  "reason": "It preserves all the original facts, commitments, and caveats, including the exception-only coordinator goal and the secondary goals/non-goals. It also reads closest to the original PRD voice, with only minor wording and formatting changes.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "E",
+    "3": "track2/B5-int",
+    "4": "track2/A-int"
+  },
+  "picked_arm": "track2/B5-int"
+}

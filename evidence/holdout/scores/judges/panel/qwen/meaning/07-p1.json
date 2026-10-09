@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2
+  },
+  "reason": "Version 2 preserves all key facts and the closing gratitude/support invitation, while Version 3 omits the thanks and Version 1 omits both the thanks and the invitation.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "B3"
+  }
+}

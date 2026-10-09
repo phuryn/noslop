@@ -1,0 +1,20 @@
+{
+  "dropped": [
+    {
+      "item": "The stated reason for the delay: to get everything 'just right' (quality/polish), not just extra time",
+      "severity": "minor"
+    },
+    {
+      "item": "Attribution of the lighting fix to the team ('The team got it sorted')",
+      "severity": "minor"
+    },
+    {
+      "item": "Encouragement and rationale for volunteering ('Many hands make this go fast, and we'd love to have you!')",
+      "severity": "minor"
+    }
+  ],
+  "changed": [],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

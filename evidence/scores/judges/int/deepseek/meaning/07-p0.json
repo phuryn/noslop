@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1
+  },
+  "reason": "All three preserve the original facts, but version 3 stays closest to the original wording and clause order without added emphasis; version 1 combines the first two ideas, and version 2 introduces 'only ... left' though semantically equivalent.",
+  "label_to_arm": {
+    "1": "track2/B3-int",
+    "2": "track2/A-int",
+    "3": "B3"
+  }
+}

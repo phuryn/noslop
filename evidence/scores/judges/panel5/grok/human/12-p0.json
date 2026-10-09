@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 6,
+    "2": 5,
+    "3": 4,
+    "4": 1,
+    "5": 2,
+    "6": 3
+  },
+  "send": "4",
+  "tells": {
+    "1": "none",
+    "2": "Brochure cadence built on the stock line 'might otherwise go unnoticed.'",
+    "3": "Formulaic 'otherwise have gone unnoticed' plus a repeated 'covers' frame.",
+    "4": "none",
+    "5": "The unnoticed-leaks template, then the off idiom 'making more of their own pressure data.'",
+    "6": "Over-compressed cause-and-effect and the blur 'find leaks in existing pressure data.'"
+  },
+  "reason": "Version 4 sounds like a practitioner talking—idiomatic, specific, and uneven in a human way—without version 1's draft errors. Versions 2 and 3 are clear but locked to the same smooth template, so 4 is the one I would send.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "O",
+    "3": "B3",
+    "4": "C",
+    "5": "B5",
+    "6": "A"
+  }
+}

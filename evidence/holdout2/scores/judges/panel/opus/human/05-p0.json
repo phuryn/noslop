@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2
+  },
+  "send": "3",
+  "tells": {
+    "1": "Emoji-bulleted list with bolded-style labels and colon explanations ('Pressing demos: watch...', 'Free entry: come for...'), plus a redundant emoji logistics block repeating the date and time",
+    "2": "none",
+    "3": "Slightly padded phrasing like 'so you'll be among the first to taste it', but largely none"
+  },
+  "reason": "Version 3 is clear and warm, puts the date and time first, and closes with a natural sign-off, without the templated emoji structure and repetition of Version 1. Version 2 is the most plainly human but is a bit flat for an invitation, so 3 strikes the better balance of credibility and appeal.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "A",
+    "3": "B3"
+  }
+}

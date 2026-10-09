@@ -1,0 +1,12 @@
+{
+  "dropped": [
+    {
+      "item": "Opening line 'October is here' (timing flourish; the 1 October date is retained)",
+      "severity": "minor"
+    }
+  ],
+  "changed": [],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 2,
+    "5": 5
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "Slightly mechanical rhythm from three similarly structured declarative sentences; not a reliable AI tell.",
+    "4": "none",
+    "5": "Stacks progress, remaining work, and deadline into one sentence, giving it a slightly stitched-together feel; not a reliable AI tell."
+  },
+  "reason": "Version 1 sounds conversational and assured, with natural phrasing suited to a team Slack update. Version 4 is a close second for its compact structure; none provides strong evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B3",
+    "3": "O",
+    "4": "A",
+    "5": "B"
+  }
+}

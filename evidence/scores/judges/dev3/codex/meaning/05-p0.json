@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+  },
+  "reason": "Version 1 preserves the original most closely; version 2 adds a slightly firmer assertion that the system handles routine reassignments, while version 3 strengthens “affect” to “hurt.” Version 4 changes proximity to where caregivers live, turns risks into asserted harms, weakens matching requirements to “should,” and adds a commitment to confirm targets when baselines are measured.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "B5",
+    "4": "C"
+  }
+}

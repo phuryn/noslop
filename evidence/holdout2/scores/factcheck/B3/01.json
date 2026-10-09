@@ -1,0 +1,16 @@
+{
+  "dropped": [
+    {
+      "item": "Explicit statement that the $1.2M ARR milestone was crossed in Q3. The Q3 framing of the email still implies it.",
+      "severity": "minor"
+    },
+    {
+      "item": "'As always' framing that replying is a standing, ongoing invitation",
+      "severity": "minor"
+    }
+  ],
+  "changed": [],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

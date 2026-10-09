@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+  },
+  "reason": "V1 keeps every fact and the tentative offer, changing only the sentence structure. V2 turns the question into a hedged 'could cover' and slightly reframes the ask, V3 adds 'anywhere' and 'occasional', and V4 hardens the offer into a firm 'We can cover' commitment.",
+  "label_to_arm": {
+    "1": "B2",
+    "2": "A",
+    "3": "C",
+    "4": "B"
+  }
+}

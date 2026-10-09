@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 6,
+    "4": 5,
+    "5": 2,
+    "6": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Stock lines shared with the polished drafts ('spread management attention and cash thin,' 'pulled into renewal terms by default') and a generic sign-off.",
+    "3": "Markdown ## headers, an impersonal recommendation, and lockstep 'We will' mitigations.",
+    "4": "Bold slogan lead-ins and a repeated 'Mitigation:' label on every risk.",
+    "5": "none",
+    "6": "Repeated 'Mitigation:' tags and canned strategy diction ('structural decline,' 'incremental investment')."
+  },
+  "reason": "Version 1 sounds like a person owning the decision in plain language, and 5 is unmistakably human though too rough to send. The others slide toward the same even template; I would send 1 because it stays clear and credible without reading as generated.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B5",
+    "3": "A",
+    "4": "O",
+    "5": "E",
+    "6": "B3"
+  }
+}

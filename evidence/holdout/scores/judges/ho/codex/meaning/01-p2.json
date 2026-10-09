@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 5,
+    "3": 4,
+    "4": 1,
+    "5": 3
+  },
+  "reason": "Version 4 preserves the original most closely, followed by 1; version 5 shifts members’ shared ownership of the milestone toward making it count. Version 3 adds unsupported weather extremes and a lasting-career prospect, while version 2 makes the strongest commitment change by saying training leads to a career rather than offering a path into one.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "C",
+    "4": "B2",
+    "5": "B"
+  }
+}

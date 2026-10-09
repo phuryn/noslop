@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2,
+    "4": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "none",
+    "4": "none"
+  },
+  "reason": "Version 1 is concise, natural, and easy to scan; version 3 feels conversational but introduces a slight qualification with “only big piece.” Versions 2 and 4 read a little more mechanically, though none contains a reliable AI-writing tell.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "O",
+    "3": "C",
+    "4": "B3"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "dropped": [
+    {
+      "item": "Exercises described as 'easy-to-follow' and that you 'always' know what to do",
+      "severity": "minor"
+    },
+    {
+      "item": "Premium unlocks additional app features ('to unlock more of what the app has to offer') and the 'Upgrade' call to action",
+      "severity": "minor"
+    },
+    {
+      "item": "Purpose of progress sharing: 'keep your recovery moving'",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "Progress sharing changed from user-initiated ('Let your physical therapist see') to a passive statement that the PT can see your progress. The actor and control shift from user to PT.",
+      "severity": "minor"
+    },
+    {
+      "item": "PT adjusting the plan changed from a purpose enabled by sharing ('so they can adjust') to a flat statement that the PT adjusts it ('and adjust your plan'), which is slightly more certain",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "Claim that each exercise comes with a clear video. The original's '300+ video exercises' broadly supports this, but the intro did not originally tie every exercise to a video.",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 5,
+    "4": 4,
+    "5": 3,
+    "6": 6
+  },
+  "send": "2",
+  "tells": {
+    "1": "none",
+    "2": "The therapeutic neatness of 'practical problem, not a flaw in my character' and the 'room in my own house' simile feel AI-polished.",
+    "3": "One dense paragraph with a colon list and a perfect closing metaphor reads like a generated rewrite.",
+    "4": "Slightly forced 'know how already' and the tidy ending metaphor are AI tells.",
+    "5": "Overly aphoristic line about 'nobody expected me to already know how' plus the same room simile.",
+    "6": "Stacked polished clauses ('didn't feel triumphant so much as quietly astonished') and generic AI cadence."
+  },
+  "reason": "Version 1 has the most authentic human voice but remains unpolished. Version 2 preserves that voice while correcting the errors and keeping a natural, publishable rhythm.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "C",
+    "3": "B3",
+    "4": "B5",
+    "5": "A",
+    "6": "O"
+  }
+}

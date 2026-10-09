@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1,
+    "4": 4,
+    "5": 5
+  },
+  "send": "1",
+  "tells": {
+    "1": "Neat three-beat closer ('what worked, what didn't, and what other utilities should think about') plus a title echo ('data we already had').",
+    "2": "Template frame ('everyday operations,' 'gone unnoticed,' 'this talk covers what the team learned and what other utilities should consider').",
+    "3": "none",
+    "4": "Even AI cadence: 'might otherwise have gone unnoticed,' then 'This talk covers... It also covers...' and 'putting their own pressure data to the same use.'",
+    "5": "Stock abstract diction: 'This talk explores,' 'might otherwise go unnoticed,' 'It shares lessons,' 'practical considerations,' 'make better use of.'"
+  },
+  "reason": "Version 3 is the only raw engineer draft—named speaker, NRW shorthand, awkward sentences, and a real encoding glitch—while 1 keeps a credible first-person voice and is clear enough to publish. Versions 4 and 5 are smoothed into generic talk-abstract cadence.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "E",
+    "4": "B3",
+    "5": "O"
+  }
+}

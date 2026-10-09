@@ -1,0 +1,13 @@
+{
+  "send": "6",
+  "reason": "It keeps all the original facts, caveats, and the no-obligation offer while reading naturally and closest to the writer's tone. It preserves the balanced message that plans may suit some families but need careful checking.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "E",
+    "3": "V6A",
+    "4": "V6C",
+    "5": "C",
+    "6": "B5"
+  },
+  "picked_arm": "B5"
+}

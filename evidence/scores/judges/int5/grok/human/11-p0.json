@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "The schedule pitch is a little too neatly tripled: real days off, nights that end, and a life you can plan.",
+    "2": "Recruiter smoothing: 'We're after someone who's…and who's ready,' plus the fussier 'care about whether.'",
+    "3": "Stacked proof the other drafts lack, including a four-day week that contradicts Wednesday through Sunday.",
+    "4": "Bold What you'll do / What we're after / Pay headers, the stock AI job-post template."
+  },
+  "reason": "Version 1 is the one I'd publish: consistent we/you voice, no template chrome, and no claims the other drafts don't share. The rest either sand that voice into HR phrasing, wrap it in section labels, or embellish it into a schedule contradiction.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "track2/A-int",
+    "3": "track2/B5-int",
+    "4": "O"
+  }
+}

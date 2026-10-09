@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 1,
+    "3": 2,
+    "4": 4,
+    "5": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "Inserted 'and honestly, that's the fun part' and 'your opinion will actually count' read like a forced casual-voice pass; the opening is also broken into choppy short sentences.",
+    "2": "none. The bold section labels are standard for job posts.",
+    "3": "Removing the bold headers leaves a uniform run of 'You'll…' paragraphs, which flattens the scannability a job post needs.",
+    "4": "Over-trimmed phrasing like 'nights that end' (losing 'actually') and 'cooks want to work for you' feels mechanically tightened, and it loses some punch.",
+    "5": "It drops 'a schedule you can plan a life around' and adds a tidy colon construction ('hands-on: you'll be…'), a small polished-edit feel."
+  },
+  "reason": "Version 2 has the most natural, confident kitchen voice and uses bold section labels that make it easy to scan as a job post. Version 1's inserted 'honestly' and choppy rhythm feel like an artificial attempt to sound casual.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "O",
+    "3": "B3",
+    "4": "B",
+    "5": "A"
+  }
+}

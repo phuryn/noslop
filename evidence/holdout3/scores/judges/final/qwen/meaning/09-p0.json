@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 3,
+    "5": 5
+  },
+  "reason": "Version 1 preserves nearly all facts and claims; version 2 remains very close and keeps the application caveat while paraphrasing the prospects idea, whereas version 4 drops the trade/prospects claim. Version 3 changes several nuances, and version 5 adds or strengthens multiple claims.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "A",
+    "3": "C",
+    "4": "B3",
+    "5": "E"
+  }
+}

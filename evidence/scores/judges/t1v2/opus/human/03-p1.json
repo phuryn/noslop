@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 2,
+    "3": 3,
+    "4": 1,
+    "5": 4
+  },
+  "send": "4",
+  "tells": {
+    "1": "Forced casual voice: the rhetorical question ('Need to change a bunch of invoices?') and the punchy 'That's fixed.' read like an AI trying to sound conversational.",
+    "2": "Bold-label 'Feature: description' list structure (here without formatting); otherwise it is terse and plain.",
+    "3": "Templated bold-label bullets ('**Faster bank feed sync:** …') with uniform parallel phrasing.",
+    "4": "none",
+    "5": "Bold-label bullets plus slightly padded phrasing ('instead of editing them one by one') make it the most template-polished."
+  },
+  "reason": "Version 4 is clear and complete, keeps the user benefit ('so your transactions show up sooner') and uses plain sentence-case headings without the bold-label bullets common in AI output. Version 1's chatty tone undermines credibility, and 3 and 5 feel templated.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B",
+    "3": "B2",
+    "4": "A",
+    "5": "O"
+  }
+}

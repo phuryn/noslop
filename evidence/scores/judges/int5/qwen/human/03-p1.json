@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 3,
+    "3": 1,
+    "4": 2
+  },
+  "send": "3",
+  "tells": {
+    "1": "The clipped 'Before, they didn't.' feels like an artificial attempt at plain-spokenness.",
+    "2": "Bolded mini-headings and perfectly parallel bullets feel templated.",
+    "3": "none",
+    "4": "none"
+  },
+  "reason": "Version 3 reads most like a careful human editor: concise, clear, and unforced. Version 4 is close but a little wordier, while 2 feels over-structured and 1 has an awkward closing fix.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "O",
+    "3": "track2/A-int",
+    "4": "track2/B5-int"
+  }
+}

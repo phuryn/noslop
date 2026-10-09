@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 3,
+    "3": 4,
+    "4": 1,
+    "5": 2
+  },
+  "send": "4",
+  "tells": {
+    "1": "Clunky 'A bug ... caused it' plus an abrupt close with no offer to help.",
+    "2": "Pure support-macro voice, especially 'it has now been fixed' and the stock patience/questions close.",
+    "3": "Unnatural 'A bug in the ParkWise app caused it.'",
+    "4": "none",
+    "5": "Generic question invite tacked on in a predictable template rhythm."
+  },
+  "reason": "Version 4 is what a skilled agent would send: warm, accountable, and idiomatic without sounding macro-written. The others are either clumsily phrased or generic templates.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "O",
+    "3": "B5",
+    "4": "C",
+    "5": "B3"
+  }
+}

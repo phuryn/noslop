@@ -1,0 +1,11 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2
+  },
+  "reason": "Version 1 is effectively verbatim (only the apostrophe character differs), while Version 2 swaps in synonyms ('Make sure' for 'Check that', 'When' for 'Once'). Both preserve every fact, number, and step, so the ranking reflects only Version 1's closer wording.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 6,
+    "2": 3,
+    "3": 1,
+    "4": 5,
+    "5": 4,
+    "6": 2
+  },
+  "send": "3",
+  "tells": {
+    "1": "None—raw human, not AI; the all-caps, missing spaces, and excessive exclamation points are human error, not model output.",
+    "2": "Too smoothly parallel and hook-driven; the vivid 'salt is right on the third plate' detail reads like polished AI copy rather than natural kitchen talk.",
+    "3": "The bold 'The job / Who we want / Pay' labels are a light AI-formatting tell, but the actual wording sounds human.",
+    "4": "Formulaic bold headings plus slightly clunky wording ('work full time, hands-on, on the line...') feel AI-edited.",
+    "5": "Polished but generic; 'The pay is' and 'has done this before' make it feel slightly stiffer than the stronger versions.",
+    "6": "Mostly natural, but the stock phrases 'pressure cooker' and 'real say' still point to AI-generated drafting."
+  },
+  "reason": "Version 3 has the strongest balance of credible kitchen voice, clear scannable structure, and practical detail; it reads like a real chef wrote it, not a template.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "B3",
+    "3": "C",
+    "4": "O",
+    "5": "A",
+    "6": "B5"
+  }
+}

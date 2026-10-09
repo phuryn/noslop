@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 1,
+    "4": 3
+  },
+  "reason": "Version 3 keeps nearly every fact and nuance ('Pedalpath Metro 2', 'only five months', 'your bike', 'we'll email you'), dropping only the closing courtesies; Version 2 additionally drops the brand name. Version 4 drops 'replacement' from the subject, shifts commitments to 'I'll', and broadens 'questions' to 'anything'; Version 1 drops 'only' and the offer to help, adds an eligibility claim ('qualifies'), and shifts coverage from 'your bike' to the model.",
+  "label_to_arm": {
+    "1": "B",
+    "2": "A",
+    "3": "B3",
+    "4": "C"
+  }
+}

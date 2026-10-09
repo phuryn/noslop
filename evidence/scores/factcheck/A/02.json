@@ -1,0 +1,16 @@
+{
+  "dropped": [],
+  "changed": [
+    {
+      "item": "The original asks a question ('Could we help Fairview Markets cover regular routes or last-minute delivery needs?'). The edit states it as an assertion ('We could cover Fairview Markets' regular routes...'), which sounds more certain and presumptive.",
+      "severity": "minor"
+    },
+    {
+      "item": "'last-minute delivery needs' became 'pick up last-minute loads', which narrows the general delivery-needs framing to picking up loads.",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

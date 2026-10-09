@@ -1,0 +1,11 @@
+{
+  "send": "3",
+  "reason": "It keeps my facts and uncertainty, adds the true details about Mr. Okafor and the fundraiser, and sounds like our bookshop. It doesn’t invent stories, claim to know where that copy of Middlemarch is, or add unconfirmed party details.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "track2/A-int",
+    "3": "track2/B5-int",
+    "4": "E"
+  },
+  "picked_arm": "track2/B5-int"
+}

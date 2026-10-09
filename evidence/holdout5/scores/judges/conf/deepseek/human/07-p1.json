@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 7,
+    "2": 3,
+    "3": 6,
+    "4": 2,
+    "5": 5,
+    "6": 1,
+    "7": 4
+  },
+  "send": "6",
+  "tells": {
+    "1": "none",
+    "2": "The balanced, formulaic hedge about a plan deserving a close read and the polished CTA feel templated.",
+    "3": "Stock phrases like 'take your time before you sign anything' and 'clearer sense of your options' feel templated.",
+    "4": "Mildly formulaic polite closer inviting the reader to leave with a clearer idea.",
+    "5": "The repeated 'deserves a close read of the small print' construction and 'clearer sense of your options' feel AI-like.",
+    "6": "Mildly formal stock phrase 'better served by putting money aside', but otherwise fairly human.",
+    "7": "The very balanced qualifier 'none of this means... only that...' is an AI-style hedge."
+  },
+  "reason": "Version 6 is the clearest and most naturally concise, avoids the most obvious AI-style hedges, and still includes a credible no-obligation CTA.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "C",
+    "3": "V6C",
+    "4": "B5",
+    "5": "V6A",
+    "6": "A",
+    "7": "O"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 6,
+    "4": 4,
+    "5": 3,
+    "6": 5
+  },
+  "send": "2",
+  "tells": {
+    "1": "none",
+    "2": "Too smooth: a neat three-part personality list and an evenly paced benefit chain with no rough edge.",
+    "3": "The 'Sound like you?' closer, plus stock lines like 'rolling up your sleeves' and 'a proper trade with a future.'",
+    "4": "Empty 'real trade with real prospects' padding plus the stock 'If that sounds like you' closer.",
+    "5": "Empty parallel 'It's a real trade with real prospects' and a run of same-length sentences.",
+    "6": "Stock 'If that sounds like you' closer and the slightly unnatural 'a trade that people will hire you for.'"
+  },
+  "reason": "Version 1 is the only draft with a real employer's rough voice; among the polished rewrites, version 2 is the one a skilled person might actually have written, without the stock closers and 'real trade' padding that mark 3–6. I'd publish 2 because it keeps the facts, the shop-floor credibility, and a natural British tone while being clearer than the original.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "B3",
+    "3": "C",
+    "4": "O",
+    "5": "B5",
+    "6": "A"
+  }
+}

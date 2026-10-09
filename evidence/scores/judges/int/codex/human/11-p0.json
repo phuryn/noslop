@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 4,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "Stacked three-part lists and polished recruitment phrases such as 'a real say' make the voice feel somewhat manufactured.",
+    "2": "The familiar 'organized, calm ... kind of person cooks want to work for' formula feels generic despite the conversational flow.",
+    "3": "Template headings paired with stock conversational language give it the strongest assembled feel; headings alone aren't an AI tell.",
+    "4": "The inherited 'third plate of the night' detail feels contrived: consistency would be more telling much later in service."
+  },
+  "reason": "Version 4 feels most grounded in an actual workplace and gives applicants useful specifics; I'd publish it if those facts are verified, since it adds substantive claims absent from the others. Versions 2 and 1 read more naturally than 3, though none of these stylistic differences establishes AI authorship.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "track2/A-int",
+    "3": "O",
+    "4": "track2/B3-int"
+  }
+}

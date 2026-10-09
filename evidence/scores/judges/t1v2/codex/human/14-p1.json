@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 3,
+    "4": 2,
+    "5": 5
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Redundant scene-setting and explanatory padding, especially repeating the two floors and adding 'Those visits helped us get here.'",
+    "3": " conspicuously balanced repetition: 'Every shelf, every table, every book' and the paired 'Maybe' sentences.",
+    "4": "Stacked casual touches ('Not bad,' 'honestly,' the borrowed-book joke) feel deliberately engineered; 'My favorite' also abruptly changes the speaker.",
+    "5": "Repeated anniversary and floor-count information, combined with polished three-part repetition and paired 'Maybe' sentences."
+  },
+  "reason": "Version 1 is restrained, clear and credible, with warmth that doesn't feel performed. Version 4 has more personality but introduces an unexplained personal voice; these rankings assess the writing, not establish its authorship.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B2",
+    "3": "B",
+    "4": "C",
+    "5": "O"
+  }
+}

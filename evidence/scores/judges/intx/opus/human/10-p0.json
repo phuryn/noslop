@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 3,
+    "4": 1,
+    "5": 5
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Generic filler like \"to give you more options during the week\" (odd for a Sunday class) and the stock \"Thank you for being part of our community\"",
+    "3": "The same rationale clause, \"so you'll have more options during the week,\" adds nothing and doesn't quite fit Sunday",
+    "4": "none",
+    "5": "Staged casual warmth: \"Quick heads-up,\" \"On a happier note,\" and \"we'll be glad to help\" read like an attempt to sound human"
+  },
+  "reason": "Version 4 has the natural quirks of a real studio owner (\"1st,\" a comma splice, exclamation points), but Version 1 is the cleanest send: every fact is clear, it has no filler or forced cheer, and it still sounds like a person wrote it.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "O",
+    "3": "track2/B5-int",
+    "4": "E",
+    "5": "C"
+  }
+}

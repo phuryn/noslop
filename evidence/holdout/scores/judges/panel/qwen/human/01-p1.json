@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 2,
+    "4": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Flat, slightly unnatural phrasing such as “Our crews did that work” and list-like sentences.",
+    "3": "The compressed, slightly awkward line “The number is our members' too” feels machine-edited.",
+    "4": "Exclamation and clichéd intensifiers like “blazing heat and freezing cold” and “every single install” make it feel generic."
+  },
+  "reason": "Version 1 sounds plainspoken, grateful, and specific without sounding promotional or padded. It has the most credible co-op voice and the cleanest call to action.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "A",
+    "3": "B3",
+    "4": "C"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 5,
+    "3": 2,
+    "4": 6,
+    "5": 7,
+    "6": 3,
+    "7": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "The stacked conversational touches feel deliberately casual, especially “settle this quickly” and “which way you'd like to go.”",
+    "3": "none",
+    "4": "Stock empathy and goodwill phrases, combined with the awkward “which we consider goes beyond,” feel mechanically assembled.",
+    "5": "none",
+    "6": "“See the basis for the deduction” and “Please let us know how you’d like to proceed” give it a template-like formality.",
+    "7": "The familiar empathy–explanation–goodwill sequence and padded “if you'd like that” feel somewhat formulaic."
+  },
+  "reason": "Version 1 is clear, professional and natural, with a concrete explanation and remedy; version 3 is close, but its closing unnecessarily frames photos and a reduction as alternatives. These are stylistic judgments, not reliable evidence of AI authorship; version 5’s errors make it less suitable as skilled customer support writing.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "C",
+    "3": "A",
+    "4": "V6C",
+    "5": "E",
+    "6": "O",
+    "7": "V6A"
+  }
+}

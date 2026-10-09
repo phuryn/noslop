@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3,
+    "4": 4
+  },
+  "reason": "Versions 2 and 1 keep every fact, number and date intact. Version 2's wording is almost verbatim, while Version 1 only slightly rephrases the bug fix. Version 3 adds the intensifier 'much sooner', and Version 4 adds 'a lot quicker', drops 'instead of one by one', and changes the bug from symbols displaying incorrectly to symbols not showing up at all.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "C",
+    "4": "E"
+  }
+}

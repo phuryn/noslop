@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 2,
+    "4": 3,
+    "5": 5
+  },
+  "reason": "Version 1 stays closest to the original wording and details, with 3 and 4 making only minor synonym or punctuation changes. Version 2 paraphrases more and slightly weakens or alters nuances, while version 5 adds/changes details and omits the invitation to chat and share ideas.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "B3",
+    "4": "B5",
+    "5": "E"
+  }
+}

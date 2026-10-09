@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1
+  },
+  "reason": "Version 3 keeps the original schedule promises and “real say,” losing only “closely.” Version 1 weakens that to “a say,” and version 2 drops both the life-schedule commitments and any say in how things are done, though its new details match the writer’s answers.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "track2/B5-int",
+    "3": "B5"
+  }
+}

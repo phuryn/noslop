@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 2
+  },
+  "reason": "Version 1 stays closest to the original facts and caveats, with only negligible compression. Version 4 is very faithful but omits a few nuances; Version 2 adds or strengthens details not in the original; Version 3 changes the 400 sq ft fact and alters several key nuances.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "C",
+    "3": "E",
+    "4": "A"
+  }
+}

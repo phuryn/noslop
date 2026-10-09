@@ -1,0 +1,11 @@
+{
+  "send": "4",
+  "reason": "It preserves the release date, features, and fix without changing their meaning. The wording stays clear and direct, matching the original tone.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "C",
+    "3": "B5",
+    "4": "A"
+  },
+  "picked_arm": "A"
+}

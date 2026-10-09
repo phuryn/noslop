@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1
+  },
+  "reason": "Version 3 preserves the original’s meaning and welcoming caveat most closely; version 1 drops the reassurance that readers are welcome wherever they are with winter preparations. Version 2 adds unsupported claims that most readers had disappointing harvests and that the fondant has just arrived.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "B3"
+  }
+}

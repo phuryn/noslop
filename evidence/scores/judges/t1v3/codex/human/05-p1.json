@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 3,
+    "4": 2,
+    "5": 5
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Generic emphasis ('The consequences are significant') and wordier constructions make the prose feel mechanically polished.",
+    "3": "'This hurts in four ways' feels like an inserted conversational flourish in otherwise professional requirements writing.",
+    "4": "'This causes four problems' mechanically announces the list, though the rest reads naturally for a PRD.",
+    "5": "The accumulation of casual phrases ('sit uncovered', 'actually accept', 'bunch up', 'in the loop') feels deliberately humanized and sometimes reduces precision."
+  },
+  "reason": "Version 1 best balances direct language, readable pacing, and professional restraint; these are stylistic judgments, not evidence of authorship. Before sending any version, I would fix the shared measurement flaw: escalating a visit does not mean it has been rescheduled.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "O",
+    "3": "B",
+    "4": "A",
+    "5": "C"
+  }
+}

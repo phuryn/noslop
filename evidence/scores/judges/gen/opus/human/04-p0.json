@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 2,
+    "4": 3
+  },
+  "send": "3",
+  "tells": {
+    "1": "none",
+    "2": "Em dash plus the colon-reveal line 'Then comes the hardest part: leaving them alone'",
+    "3": "none",
+    "4": "Colon-reveal punchline 'Then comes the hardest part: leaving them alone'"
+  },
+  "reason": "Version 1 reads most human, but its run-ons and 'yummy' make it amateurish, and it gives no planting guidance. Version 3 has the same useful, clear content as 2 and 4 without the em dash or the dramatic colon reveal, so it reads as a skilled human editor wrote it.",
+  "label_to_arm": {
+    "1": "gen/E-write",
+    "2": "O",
+    "3": "B3",
+    "4": "A"
+  }
+}

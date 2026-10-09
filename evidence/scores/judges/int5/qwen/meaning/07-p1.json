@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3
+  },
+  "reason": "Version 2 preserves all key facts, including the exact 'Android biometric flow' wording and the 'Nov 3 target date'. Version 1 is nearly as faithful but omits 'target date', while Version 3 changes 'biometric flow' to 'biometric login' and also omits 'target date'.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "track2/A-int",
+    "3": "B5"
+  }
+}

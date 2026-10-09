@@ -1,0 +1,11 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2
+  },
+  "reason": "Both drop the closing claim about the team’s commitment to food safety, but version 1 keeps the fact that Ashby Mill came to the company, while version 2 replaces that with a vaguer “had.”",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3"
+  }
+}

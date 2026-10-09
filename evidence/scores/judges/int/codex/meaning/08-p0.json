@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "Version 1 preserves the most meaning, including the fuller-picture benefit, though it drops the practical-value framing. Version 2 omits that benefit entirely; version 3 also removes the explicit care-guidance benefit, changes “noticeable symptoms” to any symptoms, and adds that the panel can be added to the checkup.",
+  "label_to_arm": {
+    "1": "track2/B3-int",
+    "2": "B3",
+    "3": "track2/A-int"
+  }
+}

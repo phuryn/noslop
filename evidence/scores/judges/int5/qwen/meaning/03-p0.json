@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "Version 1 preserves all facts and is closest to the original wording, while version 2 makes only minor equivalent phrasing changes. Version 3 is least faithful because it rephrases the fix as a general current-state claim and omits the explicit bug-fix framing.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "track2/B5-int",
+    "3": "B5"
+  }
+}

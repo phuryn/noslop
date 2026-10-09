@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 5,
+    "4": 3,
+    "5": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "formal, generic corporate phrasing such as “price will increase” and “take effect for you”",
+    "3": "padded phrasing (“We wanted to let you know”), stiff “effective December 1st,” and a comma splice in the Sunday-classes sentence",
+    "4": "none",
+    "5": "forced upbeat transition (“On a happier note”) after a price increase"
+  },
+  "reason": "Version 1 is concise, clear, and warm without sounding canned, making it the most usable customer email. It gives the key dates and grandfathering terms plainly while keeping the community tone.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "O",
+    "3": "E",
+    "4": "A",
+    "5": "C"
+  }
+}

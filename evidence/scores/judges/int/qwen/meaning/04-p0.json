@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1
+  },
+  "reason": "Version 3 keeps the original wording and connections most closely, including 'that gives', 'Then comes', and 'And a reminder'. Versions 1 and 2 are identical, so their strict order is arbitrary to satisfy the no-ties requirement.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "track2/B3-int",
+    "3": "track2/A-int"
+  }
+}

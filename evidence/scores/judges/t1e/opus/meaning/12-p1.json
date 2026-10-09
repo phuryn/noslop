@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2
+  },
+  "reason": "Version 2 keeps every fact and hedge, including 'might otherwise have gone unnoticed' and 'helped bring down'. Version 3 overstates the claims by dropping both hedges and adding a leadership role ('helped lead'), but Version 1 is least faithful because it invents a speaker name and gender ('Mr. Matela'), drops the 'otherwise unnoticed' nuance, and intensifies to 'very helpful'.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "B3",
+    "3": "A"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "send": "4",
+  "reason": "It includes the key facts and caveats from the writer's answers, especially two-way texting, the 11 hours saved, cost, and the limitations. The other versions make the change sound like a simple magic fix.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "C",
+    "3": "E",
+    "4": "track2/B5-int"
+  },
+  "picked_arm": "track2/B5-int"
+}

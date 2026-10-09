@@ -1,0 +1,10 @@
+{
+  "send": "3",
+  "reason": "Version 3 keeps the original's facts and wording, including 'flow' and 'target date'. Version 2's 'only big piece left' implies smaller pieces remain, and version 1 swaps 'flow' for 'login'.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "C",
+    "3": "A"
+  },
+  "picked_arm": "A"
+}

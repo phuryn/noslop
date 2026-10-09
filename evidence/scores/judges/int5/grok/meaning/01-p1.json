@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3
+  },
+  "reason": "Version 2 keeps nearly every original claim and only drops the closing question. Version 1 drops an outcome and softens the lesson and call to action, while version 3 omits the core lesson and several original points even though its added details come from the writer.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "B5",
+    "3": "track2/B5-int"
+  }
+}

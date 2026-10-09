@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2
+  },
+  "reason": "Version 1 preserves all facts, numbers, and caveats with only trivial wording changes. Version 3 keeps the facts but changes the conditional offer to share more, while Version 2 adds a 'good fit' assessment and changes 'I think' to 'I saw,' altering the original nuance.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "B3"
+  }
+}

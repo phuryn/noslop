@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 5,
+    "4": 3,
+    "5": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "Formulaic bold label, colon, and repeated 'instead of' contrast, closed with a generic benefit clause.",
+    "2": "none",
+    "3": "none",
+    "4": "Templated feature labels plus the unnatural date line 'Releases October 14.'",
+    "5": "Rhetorical question and the cutesy closer 'That's fixed.'"
+  },
+  "reason": "Version 2 is the most natural skilled voice—plain, correct, and unforced—while version 1 is what I would publish for its scannable labels, complete wording, and credible bug note. Version 5's cheer and version 3's broken outline read least like a careful human editor.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "A",
+    "3": "E",
+    "4": "B3",
+    "5": "C"
+  }
+}

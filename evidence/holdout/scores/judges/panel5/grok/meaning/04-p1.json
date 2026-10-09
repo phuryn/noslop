@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 4,
+    "3": 1,
+    "4": 2
+  },
+  "reason": "Version 3 keeps the facts, workshop offer, rest beat, and welcome-regardless-of-prep commitment almost intact. Version 4 only loosens that link and a few wordings; version 1 drops the unconditional welcome and recasts the workshop; version 2 adds unsupported claims (“most of us,” “just got”) and hardens softer statements.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "B5",
+    "4": "B3"
+  }
+}

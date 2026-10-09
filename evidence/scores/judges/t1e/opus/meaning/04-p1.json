@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2
+  },
+  "reason": "Version 3 only changes punctuation and keeps every fact and nuance, and Version 1 just splits sentences without changing meaning. Version 2 adds 'this Saturday', drops the 'small job now' and 'hardest part' framing, and omits the invitation to come for a chat and ideas for next season.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "E",
+    "3": "A"
+  }
+}

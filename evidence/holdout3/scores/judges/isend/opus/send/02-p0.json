@@ -1,0 +1,11 @@
+{
+  "send": "4",
+  "reason": "Version 4 keeps every fact, the trial framing, and the sample offer, and it reads almost exactly like my original. Version 3 swaps 'dry' for 'crisp' and sounds more eager than I meant, and version 1 changes 'send samples' to 'bring some in' and is sloppy.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "B5",
+    "3": "C",
+    "4": "A"
+  },
+  "picked_arm": "A"
+}

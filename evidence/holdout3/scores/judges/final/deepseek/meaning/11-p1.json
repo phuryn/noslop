@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 5,
+    "3": 3,
+    "4": 4,
+    "5": 1
+  },
+  "reason": "Version 5 stays closest to the original, preserving nearly all facts and key caveats like 'not triumphant' and 'character flaw.' Version 1 is almost as faithful but drops the 'not triumphant' nuance; Versions 3 and 4 lose or alter more nuances, and Version 2 substantially rewrites and changes meaning.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "E",
+    "3": "C",
+    "4": "A",
+    "5": "B3"
+  }
+}

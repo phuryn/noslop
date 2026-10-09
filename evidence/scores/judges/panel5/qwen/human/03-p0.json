@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 5,
+    "3": 6,
+    "4": 3,
+    "5": 2,
+    "6": 1
+  },
+  "send": "6",
+  "tells": {
+    "1": "The blunt follow-up 'Before, they didn't.' feels tacked on and slightly unnatural.",
+    "2": "The rhetorical question and 'bunch' phrasing feel forced-casual rather than professional.",
+    "3": "Loose structure and mechanical slips such as 'PDF's' make it feel unedited.",
+    "4": "The date line 'Releases October 14' is slightly unidiomatic.",
+    "5": "none",
+    "6": "none"
+  },
+  "reason": "Version 6 is concise, scannable, and credible while still sounding natural. It avoids the awkwardness of the earlier drafts and is the most suitable to publish.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "C",
+    "3": "E",
+    "4": "B3",
+    "5": "A",
+    "6": "O"
+  }
+}

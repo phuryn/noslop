@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1,
+    "4": 4
+  },
+  "send": "3",
+  "tells": {
+    "1": "Formulaic opener and close ('I wondered if you'd be interested... I'm happy to share more if you're interested') reads like a standard outreach template.",
+    "2": "Abrupt close 'I can share more then' and generic role framing feel less polished and slightly truncated.",
+    "3": "none",
+    "4": "Unidiomatic phrase 'if it sounds of interest' and slightly stilted 'Happy to share more'."
+  },
+  "reason": "Version 3 reads most like a skilled human recruiter because it uses researched phrasing and a natural soft-fit framing. It is clear, credible, and free of the minor formulaic or awkward phrasing in the others.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "C",
+    "4": "O"
+  }
+}

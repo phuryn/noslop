@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 1
+  },
+  "reason": "Version 3 best preserves the original’s scope and connection between testing, tracking changes, and guiding care; version 2 omits the explicit care-guidance benefit and fuller-picture rationale. Version 1 changes 'after age 7' to 'once your dog hits 7' and strengthens 'a fuller picture' to 'the full picture,' overstating completeness.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B"
+  }
+}

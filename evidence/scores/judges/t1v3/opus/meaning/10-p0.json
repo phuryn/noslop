@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 3,
+    "4": 1
+  },
+  "reason": "V4 keeps every fact, date, price, the 'more options during the week' rationale, and the reply invitation. V1 keeps all facts but adds a 'glad to help' promise and a 'happier note' framing. V3 drops the rationale for the Sunday classes. V2 also drops it and narrows the reply invitation to just the 'price change'.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B",
+    "3": "A",
+    "4": "B3"
+  }
+}

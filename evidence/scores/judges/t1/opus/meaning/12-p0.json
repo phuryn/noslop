@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3
+  },
+  "reason": "Version 2 drops the 'help' hedge only in the abstract, implying the data alone cut non-revenue water. Version 1 keeps that hedge but adds a claim that 'most water utilities' collect this data and promises to cover 'what didn't' work. Version 3 drops the abstract hedge, states as fact that the leaks had gone unnoticed, and inflates the speaker's role to 'helped lead the effort.'",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B",
+    "3": "A"
+  }
+}

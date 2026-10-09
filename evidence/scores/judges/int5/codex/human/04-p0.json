@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2,
+    "4": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "none",
+    "4": "The awkward phrase 'comes after that, which is leaving them alone' feels mechanically rephrased, though it does not establish AI authorship."
+  },
+  "reason": "Version 1 has the strongest rhythm and a warm, economical voice suited to a gardening newsletter; version 3 comes very close. Version 2 is clear but slightly more pedestrian, while version 4 introduces awkwardness without improving clarity.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B5",
+    "3": "track2/A-int",
+    "4": "track2/B5-int"
+  }
+}

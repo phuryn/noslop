@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "The polished 'Every shelf, every table, every book' triad feels slightly formulaic, though it isn't evidence of AI authorship.",
+    "2": "none",
+    "3": "The same polished triad, coupled with a more impersonal opening to post 5, makes the voice feel slightly generic."
+  },
+  "reason": "Version 2 reads most naturally, but its added anecdote about Middlemarch and Mr. Okafor needs verification before publication. I'd send version 1: it retains warmth that version 3 slightly diminishes without introducing unsupported factual details.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "track2/B2-int",
+    "3": "track2/A-int"
+  }
+}

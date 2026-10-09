@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2
+  },
+  "reason": "Version 1 keeps nearly every point in a looser voice: consistency, seeing how far you've come, and the full subscription and medical caveats. Version 3 keeps the facts and caveats word for word but drops 'helps you stay consistent,' 'guidance you can trust,' and 'keep your recovery moving.' Version 2 drops all of those, plus the self-tracking line ('see how far you've come'), and weakens 'proper form and technique' to 'the form.'",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B"
+  }
+}

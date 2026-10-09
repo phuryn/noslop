@@ -1,0 +1,17 @@
+{
+  "dropped": [
+    {
+      "item": "Framing of the end-of-day tasks as 'the usual things' the narrator 'found myself doing', which conveyed habit and near-automatic routine",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "'hadn't given much thought to how I would actually leave the room' became 'hadn't thought about how I would actually leave the room', turning 'little thought' into 'no thought'",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2,
+    "4": 4
+  },
+  "reason": "Version 1 best preserves the original claims and qualified lesson; version 3 makes the lesson a stronger claim about this being the biggest operational win. Version 2 overstates the failure of calls and drops the lesson, while version 4 adds unsupported claims that texting was the only change, results appeared quickly, and a one-month trial is appropriate.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "A",
+    "3": "B3",
+    "4": "C"
+  }
+}

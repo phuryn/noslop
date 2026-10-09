@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2,
+    "4": 4
+  },
+  "send": "2",
+  "tells": {
+    "1": "Generic offer of 'regular routes or last-minute delivery needs' with no specific detail about the sender or Fairview.",
+    "2": "none",
+    "3": "Interchangeable 'We'd like to help... where we might fit' framing that could go to any prospect.",
+    "4": "Three one-line paragraphs stacked as polished questions ('Could we help...', 'Would you have...'), which reads like a template."
+  },
+  "reason": "Version 2 defines its on-time metric, admits capacity limits and a past equipment failure, and gives concrete fleet details. That candor and specificity build credibility in a way the other three generic, interchangeable pitches don't.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "track2/B5-int",
+    "3": "B5",
+    "4": "O"
+  }
+}

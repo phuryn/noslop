@@ -1,0 +1,33 @@
+{
+  "dropped": [],
+  "changed": [
+    {
+      "item": "Original says results don't happen 'just because a machine arrives' (the machine contributes, but people matter too). The edit says 'a machine turning up doesn't make any of that happen', which overstates it by implying the machine contributes nothing.",
+      "severity": "minor"
+    },
+    {
+      "item": "Night shift working 'often' while most are asleep became 'usually', which raises the frequency claim.",
+      "severity": "minor"
+    },
+    {
+      "item": "'Without the same strain on resources' (less strain than before) became 'without piling more pressure on resources' (no added pressure), which shifts the comparison.",
+      "severity": "minor"
+    },
+    {
+      "item": "Closing 'Thank you to everyone involved' (broad) became 'Thank you, all of you'. Coming right after the paragraph addressed to the night shift as 'you', it could read as thanking only the night shift.",
+      "severity": "minor"
+    },
+    {
+      "item": "'For a site this size, that matters' became 'At this scale, that's a big deal', which slightly intensifies the claim.",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "'surprised even us' adds an implication that the company would normally expect to be unsurprised, beyond 'bigger than we expected'.",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

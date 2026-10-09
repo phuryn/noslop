@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2
+  },
+  "reason": "Version 2 keeps 'only five months,' 'as soon as it ships,' and the thanks for patience, losing only minor warmth. Version 3 drops the thanks for patience and narrows 'in the meantime' to 'before then,' while Version 1 drops 'only,' softens 'as soon as' to 'when,' and loses both the patience thanks and the offer of help.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "track2/B3-int",
+    "3": "B3"
+  }
+}

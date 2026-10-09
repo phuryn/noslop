@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+  },
+  "reason": "Version 1 keeps every sentence's content nearly verbatim, dropping only redundant labels. Version 2 is equally complete but lightly rephrased. Version 3 drops the 'so your transactions show up sooner' benefit, and Version 4 overstates it as 'much sooner', a claim the original doesn't make.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "B",
+    "4": "C"
+  }
+}

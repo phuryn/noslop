@@ -1,0 +1,11 @@
+{
+  "send": "3",
+  "reason": "Version 3 keeps the original facts, subscription details, and medical disclaimer intact while staying closest to the original wording and tone. It reads like a natural, slightly tightened version of the draft.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B5",
+    "4": "E"
+  },
+  "picked_arm": "B5"
+}

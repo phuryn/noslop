@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 5,
+    "3": 4,
+    "4": 6,
+    "5": 3,
+    "6": 1
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Stacked stock softeners—“I wanted to see,” “a good fit,” and “a chance to”—give it a lightly templated feel.",
+    "3": "none",
+    "4": "none",
+    "5": "The generic “I wanted to see if you'd be open” opener adds a mildly templated feel.",
+    "6": "none"
+  },
+  "reason": "Version 6 has the most natural personal voice, but I'd send version 1 for its concise, specific offer and clear next step. Version 4's errors undermine skilled execution; neither errors nor polished phrasing reliably establish AI authorship.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "O",
+    "3": "B3",
+    "4": "E",
+    "5": "A",
+    "6": "C"
+  }
+}

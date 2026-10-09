@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 6,
+    "4": 4,
+    "5": 2,
+    "6": 5
+  },
+  "send": "2",
+  "tells": {
+    "1": "Over-smoothed: the long sentences are split into short, even ones, and phrases are simplified ('working out how to teach again', 'changed how I explained'), so the rhythm is flat.",
+    "2": "none",
+    "3": "none. It reads as unpolished human writing ('I had had good years and I had had bad years', 'Anyway'), with generic phrasing and clichés ('with a bang or with a whimper').",
+    "4": "The filler 'I found myself doing' and the hedge 'hadn't given much thought', along with typographic curly apostrophes, read like a polishing pass.",
+    "5": "Mild: cutting 'the usual things' loses the quiet irony of routine on a final day. Otherwise clean.",
+    "6": "Forced staccato ('I straightened the lab stools. I checked the taps. I wiped...') and grafted-on casual phrasing ('chewed over', 'I just took my time') look like a deliberate humanizer pass."
+  },
+  "reason": "Version 2 has the most natural, controlled rhythm. The colon list and semicolon carry the understated tone, and nothing feels padded or artificially roughened. Version 3 is human but unskilled, and versions 4 and 6 show signs of over-editing in opposite directions.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "A",
+    "3": "E",
+    "4": "O",
+    "5": "B3",
+    "6": "C"
+  }
+}

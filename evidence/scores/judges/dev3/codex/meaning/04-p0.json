@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1,
+    "4": 4
+  },
+  "reason": "Version 3 preserves the original most exactly, followed closely by version 1; version 2 slightly loosens specificity by changing “a few ideas” to “some ideas.” Version 4 drops the explicit “this week” timing and “small job” characterization and adds an ownership implication with “our seed swap.”",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "B5",
+    "3": "A",
+    "4": "C"
+  }
+}

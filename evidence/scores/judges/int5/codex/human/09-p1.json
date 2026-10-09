@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "Stacked courtesy phrases, repeated apologies, and the generic reassurance 'That's not the experience we want you to have.'",
+    "4": "The generic reassurance 'That's not the experience we want you to have' adds little; placing 'Thanks for writing to us' midway feels mechanically rearranged."
+  },
+  "reason": "Version 1 balances warmth, accountability, and a clear resolution without belaboring the apology. Version 2 is credible but slightly abrupt; 4 feels less naturally organized, and 3 sounds the most templated.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "track2/A-int",
+    "3": "O",
+    "4": "track2/B5-int"
+  }
+}

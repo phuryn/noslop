@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 5,
+    "5": 4
+  },
+  "reason": "Version 1 stays closest overall to the original's feature/benefit wording, pricing, and caveats; version 2 is a near paraphrase. Version 3 drops a few benefit/unlock nuances, version 5 omits more progress/form detail, and version 4 materially alters the subscription cancellation terms and weakens the medical disclaimer.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "C",
+    "3": "B3",
+    "4": "E",
+    "5": "A"
+  }
+}

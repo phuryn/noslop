@@ -1,0 +1,21 @@
+{
+  "dropped": [
+    {
+      "item": "Sense that the season 'kept us on our toes' (challenging and unpredictable, beyond just 'tough')",
+      "severity": "minor"
+    },
+    {
+      "item": "'Wherever you are with your winter preparations, we're glad to have you along': warm, inclusive sign-off sentiment",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "Workshop framing shifted from 'a chance to talk through your questions' (discussion opportunity) to the imperative 'Bring your questions'",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

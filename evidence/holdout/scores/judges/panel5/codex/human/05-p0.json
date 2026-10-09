@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 5,
+    "3": 1,
+    "4": 2,
+    "5": 3
+  },
+  "send": "3",
+  "tells": {
+    "1": "The unnecessary 'Options:' heading makes a simple request feel slightly templated.",
+    "2": "Separate paragraphs for the request, recommendation and reply instructions make a short message feel overmanaged.",
+    "3": "none",
+    "4": "none",
+    "5": "'Can you decide' followed by 'We need your call' redundantly restates the request."
+  },
+  "reason": "Version 3 leads with a clear recommendation and fits the prices, deadline and requested response into one natural, concise paragraph. These are editorial judgments about how the messages read, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "C",
+    "3": "A",
+    "4": "B3",
+    "5": "B5"
+  }
+}

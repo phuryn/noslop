@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 5,
+    "4": 4,
+    "5": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "The polished three-part promise about days off, nights ending, and planning a life feels like generic recruitment copy.",
+    "3": "“Honestly, that's the fun part” and “your opinion will actually count” feel like deliberate attempts to manufacture conversational authenticity.",
+    "4": "“Full time, hands-on, on the line most nights and running the kitchen” feels mechanically compressed and reads awkwardly.",
+    "5": "“It's a schedule you can plan a life around” feels like a stock recruitment promise inserted between more concrete statements."
+  },
+  "reason": "Version 1 has the most convincing voice and the least promotional padding, so I'd publish it. These are stylistic judgments, not reliable evidence of AI authorship; all five share the oddly chosen “third plate,” where a later plate would better convey sustained attention during a busy service.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "C",
+    "4": "O",
+    "5": "B5"
+  }
+}

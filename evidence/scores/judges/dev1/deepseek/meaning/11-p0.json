@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 4,
+    "3": 1,
+    "4": 2
+  },
+  "reason": "Version 3 is nearly verbatim and preserves all key commitments. Version 4 keeps the core facts but drops small nuances like 'actually' and 'closely'; Version 1 retains the schedule benefit but softens 'slammed' and adds 'decent hour'; Version 2 omits the 'schedule you can plan a life around' commitment.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B3",
+    "4": "B5"
+  }
+}

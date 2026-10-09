@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1,
+    "4": 4,
+    "5": 5
+  },
+  "send": "3",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "none",
+    "4": "Slightly formulaic polish in phrases like 'will take effect for you,' though nothing reliably indicates AI.",
+    "5": "Stacked conversational cues—'Quick heads-up,' 'On a happier note,' and 'we'll be glad to help'—make the friendliness feel manufactured."
+  },
+  "reason": "Version 3 makes the price increase and existing-member timing easy to scan, with straightforward warmth and no unnecessary explanation. These rankings reflect editorial judgment about the writing, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "B5",
+    "3": "A",
+    "4": "O",
+    "5": "C"
+  }
+}

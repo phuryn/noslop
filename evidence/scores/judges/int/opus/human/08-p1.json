@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3,
+    "4": 4
+  },
+  "send": "2",
+  "tells": {
+    "1": "Closing sales line 'gives you a fuller picture of your dog's health' is a slightly generic marketing flourish",
+    "2": "none",
+    "3": "Abrupt price-only ending with no call to action reads like a trimmed draft rather than a deliberate close",
+    "4": "Em dashes plus the padded tagline 'a practical way to get a fuller picture... and make the most of their yearly checkup'"
+  },
+  "reason": "Version 2 is tight, clear, and ends with a concrete, credible action (add it to the checkup) without promotional filler. Version 4 shows the most AI polish with em dashes and a stacked benefit tagline, while 3 ends too abruptly to be useful.",
+  "label_to_arm": {
+    "1": "track2/B3-int",
+    "2": "track2/A-int",
+    "3": "B3",
+    "4": "O"
+  }
+}

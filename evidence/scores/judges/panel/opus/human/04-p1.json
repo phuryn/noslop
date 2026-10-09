@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 5,
+    "3": 2,
+    "4": 3,
+    "5": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "mild colon-reveal ('comes the hard bit: leave them alone'), though the colloquial voice ('natter', 'pointy end up') carries it",
+    "2": "em dash plus the polished 'small job now that gives us something to look forward to' framing and the 'Then comes the hardest part:' reveal",
+    "3": "none (choppy, repetitive sentences read as plainly human; but 'this Saturday' is inaccurate if sent 10 days ahead, and 'plant out' is the wrong term for cloves)",
+    "4": "smoothly balanced, generic phrasing ('a small job now... something to look forward to', 'a chat and a few ideas for next season')",
+    "5": "the 'Then comes the hardest part:' colon reveal and the tidy closing triad, carried over from version 2"
+  },
+  "reason": "Version 1 has the most natural, specific voice for a local allotment newsletter and keeps every useful detail. Version 3 feels human but is clunkier and less accurate. Note that Oct 18, 2026 falls on a Sunday, so the 'Saturday' date in all five versions should be checked before sending.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "O",
+    "3": "E",
+    "4": "B3",
+    "5": "A"
+  }
+}

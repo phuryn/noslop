@@ -1,0 +1,17 @@
+{
+  "dropped": [
+    {
+      "item": "Framing of the call's purpose as discussing 'where we might fit' (exploratory, fit-finding) reduced to a generic 'talk'",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "Original asks a tentative question ('Could we help Fairview Markets cover regular routes or last-minute delivery needs?'). The edit turns it into a confident assertion ('We could cover Fairview Markets' regular routes or last-minute deliveries'), which raises certainty and drops the invitation for the recipient to weigh in.",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

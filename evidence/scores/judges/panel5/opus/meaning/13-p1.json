@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 5,
+    "2": 3,
+    "3": 1,
+    "4": 4,
+    "5": 2
+  },
+  "reason": "Version 3 is nearly verbatim; Version 5 makes small changes ('serve' instead of 'capture', dropping 'targeted', firmer 'we will' commitments), and Versions 2 and 4 drift further ('reasons we can't reverse', 'should return more', investments recast as outcomes). Version 1 drops key facts and commitments: no early-termination penalties, the default-renewal risk, six-month outreach, redeployment and severance, and pop-up/wholesale options.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "B5",
+    "3": "B3",
+    "4": "C",
+    "5": "A"
+  }
+}

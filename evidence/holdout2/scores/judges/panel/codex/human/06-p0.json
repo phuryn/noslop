@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "none"
+  },
+  "reason": "All three read like competent human-written help copy. I’d publish version 2 for its concise wording, using its typographic apostrophe only as a forced tie-breaker over version 1; version 3 is equally clear but slightly wordier.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "O",
+    "3": "A"
+  }
+}

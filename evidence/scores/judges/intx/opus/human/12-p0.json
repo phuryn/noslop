@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 5,
+    "4": 4,
+    "5": 2
+  },
+  "send": "5",
+  "tells": {
+    "1": "Specifics and candor feel bolted on: a named tech, $85K, 30% false positives, a self-undercutting ML aside. These details and the speaker's name (Dr. Naomi Fischer, not Mr. Matela) appear in no other version, so they may be invented.",
+    "2": "none. It reads like a stiff human draft, with a duplicated 'Abstract' label, mojibake ('Authorityâ€™s') and bureaucratic passive voice.",
+    "3": "Generic AI phrasing: 'might otherwise go unnoticed,' 'This talk explores,' 'practical considerations,' 'make better use of.'",
+    "4": "Flat, compressed summary with no voice. It's a bit too tidy ('what other utilities should weigh').",
+    "5": "A mild 'what worked, what didn't' formula, but otherwise none."
+  },
+  "reason": "Version 5 has a natural first-person voice and a clear hook, and it makes no claims beyond the shared facts. Version 1 is vivid but adds unverified figures, a named employee and a different speaker identity, which is a credibility risk to check before sending. Version 2 is clearly human but needs cleanup.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "E",
+    "3": "O",
+    "4": "track2/A-int",
+    "5": "C"
+  }
+}

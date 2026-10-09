@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 6,
+    "4": 5,
+    "5": 3,
+    "6": 2
+  },
+  "send": "6",
+  "tells": {
+    "1": "none",
+    "2": "Boilerplate 'please update your calendars and any related plans', plus a bolded date in an otherwise bare, templated update",
+    "3": "Stacked cheerleading filler ('extra breathing room to get everything just right', 'Many hands make this go fast', 'coming together beautifully ✨')",
+    "4": "Flat template phrasing ('please update your calendars and any related plans') with an unstated reason dressed up as 'some extra time'",
+    "5": "Bolded call to action and the filler line 'The more of us there are, the faster it goes'",
+    "6": "Mild stock phrasing in 'any related plans'"
+  },
+  "reason": "Version 1 reads most human but has a broken sentence ('we're going to install') and an unclear 'mounting them', so it isn't sendable as written. Version 6 is clear, complete, and warm without the polished-AI flourishes of 3 and 5.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "B3",
+    "3": "O",
+    "4": "A",
+    "5": "C",
+    "6": "B5"
+  }
+}

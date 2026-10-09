@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 5,
+    "4": 3,
+    "5": 1
+  },
+  "send": "5",
+  "tells": {
+    "1": "Slightly stiff restructuring ('The hardest part comes after that, which is leaving them alone'), which reads like a colon-reveal that was mechanically unwound",
+    "2": "Tidy 'Then comes the hardest part:' colon reveal and a frictionless 'small job now that gives us something to look forward to' cadence",
+    "3": "Em dash plus the 'Then comes the hardest part:' colon reveal, with uniformly polished, curly-quoted rhythm",
+    "4": "none; it reads human but unpolished (repetitive 'It's... It's...', choppy sentences, 'plant out' misused for garlic, and 'this Saturday, Oct 18' may clash with the send date)",
+    "5": "none; the 'After that comes the hard bit:' setup is a mild echo of the colon-reveal pattern, but the voice carries it"
+  },
+  "reason": "Version 5 has a distinct, warm voice ('garlic-planting time!', 'hard bit', 'natter') that suits an allotment newsletter, and it keeps all the practical detail. Versions 2 and 3 are polished to the point of feeling templated, 4 is clearly human but sloppy, and 1 is clean but slightly stilted.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "track2/A-int",
+    "3": "O",
+    "4": "E",
+    "5": "C"
+  }
+}

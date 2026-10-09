@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 3,
+    "4": 1
+  },
+  "send": "2",
+  "tells": {
+    "1": "Generic promotional phrasing: 'a practical way,' 'a fuller picture,' and 'make the most of' stack benefits without adding substance.",
+    "2": "none",
+    "3": "Conversational substitutions such as 'past 7' and 'before you'd notice' feel applied to an otherwise formulaic marketing paragraph.",
+    "4": "The anecdote has a timeline mismatch: 'Last year' introduces a beagle described as doing well 'three years later,' suggesting insufficiently checked storytelling."
+  },
+  "reason": "Version 4 has the strongest human voice, with concrete observations and clinical judgment, but its statistic and anecdote need verification and its timeline needs repair. I would publish version 2 for its clear, restrained explanation and straightforward price disclosure; these rankings assess the prose, not actual authorship.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "track2/A-int",
+    "3": "B5",
+    "4": "track2/B5-int"
+  }
+}

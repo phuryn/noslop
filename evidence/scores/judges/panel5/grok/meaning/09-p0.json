@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 3,
+    "4": 2,
+    "5": 5
+  },
+  "reason": "Version 1 keeps every material fact and commitment, dropping only redundant courtesy. Versions 4 and 3 are accurate cuts that omit the promise to help and the closing apologies, version 2 also shifts company actions to the writer and changes the subject and offer, and version 5 drops “at no cost” while adding that the five months were of use.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "C",
+    "3": "A",
+    "4": "B3",
+    "5": "E"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 3,
+    "4": 2,
+    "5": 5
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "stock support phrases and repeated apologies, such as 'Thank you for reaching out' and 'That's not the experience we want you to have'",
+    "3": "clipped, impersonal phrasing, especially 'The bike' and the blunt 'reply to this message'",
+    "4": "none",
+    "5": "stilted mixed register, with formal lines like 'please accept my apology' alongside 'just hit reply', plus awkward passive wording"
+  },
+  "reason": "Version 1 is the best publishable reply because it feels natural while keeping the subject, warranty, and next steps clear. Version 4 is slightly more casual and human, but Version 1 is more polished and credible for customer support.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "O",
+    "3": "A",
+    "4": "C",
+    "5": "E"
+  }
+}

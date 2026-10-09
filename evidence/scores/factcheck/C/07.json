@@ -1,0 +1,17 @@
+{
+  "dropped": [],
+  "changed": [
+    {
+      "item": "Original says the Android biometric flow is THE remaining piece (implying it is the only remaining work); the edit says it is 'the only big piece left', implying smaller pieces may also remain.",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "Implication that other, smaller pieces of work remain besides the Android biometric flow ('only big piece left').",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

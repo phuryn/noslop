@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2
+  },
+  "reason": "Version 1 keeps every fact, hedge and the conditional offer. Version 3 keeps the 'I think' hedge but changes the offer to share more if interested into sharing more during the chat. Version 2 turns the uncertain 'I think' into a confident 'I saw' and adds an unstated judgment that Callum 'might be a good fit'.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "B3"
+  }
+}

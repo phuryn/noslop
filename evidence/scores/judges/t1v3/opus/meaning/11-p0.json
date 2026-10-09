@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2,
+    "4": 4
+  },
+  "reason": "V2 keeps every fact and commitment, while V3 drops small nuances such as 'closely' and 'actually' and V1 cuts the 'schedule you can plan a life around' promise outright. V4 changes the most: 'slammed' becomes merely 'busy', it adds claims like nights ending 'at a decent hour' and tasting the plate, and it narrows 'a real say in how we do things' to 'your opinion will count'.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "B",
+    "4": "C"
+  }
+}

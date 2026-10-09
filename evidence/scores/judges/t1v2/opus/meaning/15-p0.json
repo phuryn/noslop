@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 1,
+    "4": 3
+  },
+  "reason": "Version 3 keeps nearly every claim, including consistency, 'how far you've come', 'keep you moving' and Premium offering more; its only drift is lightly rephrased subscription wording and an added 'just'. Version 2 drops that Premium unlocks more, Version 4 drops 'know what to do and how to do it right' and the consistency claim, and Version 1 drops the most: consistency, seeing how far you've come, and doing it right.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B2",
+    "3": "C",
+    "4": "B"
+  }
+}

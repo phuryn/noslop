@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 4,
+    "4": 3,
+    "5": 5
+  },
+  "send": "2",
+  "tells": {
+    "1": "Even template rhythm and stiff phrasing like 'start at no cost' with no spoken cadence.",
+    "2": "none",
+    "3": "Stock lines: 'Never miss a session again' and 'watch your progress grow!'",
+    "4": "Vague hedge 'unlocks additional features' instead of a concrete benefit.",
+    "5": "Empty filler: 'guidance you can trust' and 'unlock more of what the app has to offer.'"
+  },
+  "reason": "Version 2 is the one I'd publish: it names the real worry of doing the exercises wrong, sounds spoken rather than templated, and still gets the price and renewal terms right. The others sand off that voice, hedge the premium pitch, or slip into stock filler.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "C",
+    "3": "E",
+    "4": "A",
+    "5": "O"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2,
+    "4": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "“Maybe it's” lifestyle tricolon closed with a generic “something to look forward to”",
+    "3": "Stock “good part” / “sneaking a taste” beats and a tea-and-last-crumb mood montage instead of proof",
+    "4": "Slogan symmetry: “A little measuring done. A little joy delivered.” and “Less measuring. More making.”"
+  },
+  "reason": "Version 1 keeps a mill, a named baker, and a subscriber count in an uneven founder voice; 2–4 replace that proof with the same cozy template, and 4 is the most mechanically polished. I would still publish 1, because those specifics do more for a landing page than smoother generic warmth.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "B5",
+    "3": "track2/A-int",
+    "4": "O"
+  }
+}

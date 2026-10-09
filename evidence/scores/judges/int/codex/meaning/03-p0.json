@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3
+  },
+  "reason": "Version 2 preserves the original factual wording most closely, including the specific bug-fix claim. Versions 1 and 3 slightly broaden that claim to currency symbols displaying correctly generally; version 3 also makes the release timing marginally more definitive with “Release date.”",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "track2/A-int",
+    "3": "track2/B3-int"
+  }
+}

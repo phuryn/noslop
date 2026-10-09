@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2,
+    "4": 4,
+    "5": 5
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Flat, generic paraphrase and the vague line \"started with what we could\" drain the voice.",
+    "3": "Soft filler like \"and an anniversary to celebrate\" and \"One of the lovely things\" feels like manufactured warmth.",
+    "4": "Repetition of \"two floors\" and the formulaic \"Every shelf, every table, every book\" triad feel templated.",
+    "5": "Cliché stacking and awkward phrasing, especially \"shelves of books you've purchased from us\"."
+  },
+  "reason": "Version 1 sounds most like a real bookseller because of its casual rhythm, concrete details, and specific, slightly messy human touches. The others are progressively more generic, redundant, or cliché, with 5 feeling the most machine-written.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B3",
+    "4": "O",
+    "5": "E"
+  }
+}

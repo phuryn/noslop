@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 4,
+    "3": 2,
+    "4": 1
+  },
+  "send": "3",
+  "tells": {
+    "1": "The repeated 'Every...' and 'Maybe...' constructions give the sentiment a slightly rehearsed rhythm.",
+    "2": "The same patterned repetition remains, while 'After ten years' makes the shelf reflection feel flatter and more generic.",
+    "3": "The familiar 'had to earn its place' phrasing is the clearest remaining trace of formulaic copy.",
+    "4": "none"
+  },
+  "reason": "Version 4 reads most human because its particular people, books and setbacks give the shop a lived history, though those details need verification. I would publish 3: it preserves the warmth, removes redundant setup and avoids introducing unsupported factual claims; stylistic signals alone cannot establish AI authorship.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "track2/A-int",
+    "3": "B3",
+    "4": "track2/B3-int"
+  }
+}

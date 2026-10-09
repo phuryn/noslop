@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 6,
+    "3": 3,
+    "4": 4,
+    "5": 2,
+    "6": 5
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "formal filler and imprecise phrasing, especially 'will change from' and 'at which time'",
+    "3": "the chirpy pivot 'On a happier note' feels a little forced in a price-increase email",
+    "4": "none",
+    "5": "none",
+    "6": "slightly mechanical wording in 'the $135 rate starts for you then'"
+  },
+  "reason": "Version 1 is the most balanced: precise about the increase and grace period, warm without being breezy, and easy to send as-is. Version 5 is a close second, while version 2 feels padded and version 3 is personable but a little too casual for the message.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "E",
+    "3": "C",
+    "4": "A",
+    "5": "B3",
+    "6": "B5"
+  }
+}

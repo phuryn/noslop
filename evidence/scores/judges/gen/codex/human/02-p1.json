@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 3,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "none",
+    "2": "The closing phrase 'whether that fits what you need' feels slightly padded and generic.",
+    "3": "Two consecutive questions repeat the same ask, creating a formulaic, overly tentative close.",
+    "4": "none"
+  },
+  "reason": "Version 4 combines concrete evidence, a relevant offer, and a direct invitation in natural language. Version 2 is close; 3 repeats itself, while 1's duplicate greeting and hesitant introduction weaken it without indicating AI authorship.",
+  "label_to_arm": {
+    "1": "gen/E-write",
+    "2": "A",
+    "3": "O",
+    "4": "B3"
+  }
+}

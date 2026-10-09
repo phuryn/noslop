@@ -1,0 +1,13 @@
+{
+  "send": "5",
+  "reason": "It keeps every fact, caveat, and the no-obligation offer, and stays closest to the original wording and balanced tone.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "V6A",
+    "3": "E",
+    "4": "A",
+    "5": "B5",
+    "6": "V6C"
+  },
+  "picked_arm": "B5"
+}

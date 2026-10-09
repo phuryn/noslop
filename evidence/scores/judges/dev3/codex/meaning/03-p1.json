@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 4,
+    "3": 1,
+    "4": 2
+  },
+  "reason": "Version 3 preserves the original claims most precisely, followed by version 4’s equivalent paraphrases. Version 1 slightly generalizes the prior PDF issue with “Before, they didn’t,” while version 2 adds emphasis with “much sooner” and changes editing invoices individually to opening them individually.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "C",
+    "3": "A",
+    "4": "B3"
+  }
+}

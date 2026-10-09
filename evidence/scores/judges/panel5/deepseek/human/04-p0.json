@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 2,
+    "4": 6,
+    "5": 3,
+    "6": 5
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "slightly clunky 'plant each one pointed end up' and the formal date punctuation 'on Saturday, Oct 18, at'",
+    "3": "em dash and the very balanced, slightly generic clause 'a small job now that gives us something...'",
+    "4": "flat, overly smoothed sentence rhythm and stock phrase 'a few ideas for next season'",
+    "5": "none",
+    "6": "stock phrases like 'It's a small job now, and it gives us something...' and 'a few ideas' with little distinct voice"
+  },
+  "reason": "Version 1 has the most natural, specific human voice ('hard bit', 'natter') while staying clear and credible. The others smooth or simplify the language in ways that make them feel more generic or AI-edited.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B5",
+    "3": "O",
+    "4": "A",
+    "5": "E",
+    "6": "B3"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 5,
+    "2": 3,
+    "3": 2,
+    "4": 4,
+    "5": 1
+  },
+  "reason": "Version 5 is identical to the original; versions 3 and 2 preserve its requirements, with 3 retaining the compatibility caveat most explicitly. Version 4 slightly narrows the removal instruction by omitting “peeling,” while version 1 weakens the temperature requirement to “try” and adds an unsupported assurance that the fix is easy.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B3",
+    "3": "B2",
+    "4": "B",
+    "5": "A"
+  }
+}

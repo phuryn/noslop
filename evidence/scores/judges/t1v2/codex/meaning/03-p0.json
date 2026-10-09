@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2,
+    "4": 4
+  },
+  "reason": "Versions 2 and 3 preserve all substantive information, with 2 retaining the original feature labels. Version 1 adds slight emphasis and an assumption about opening invoices individually; version 4 omits the explicit benefit of sooner transaction visibility and broadens the specific bug fix into a general claim of correct currency-symbol display.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B2",
+    "3": "A",
+    "4": "B"
+  }
+}

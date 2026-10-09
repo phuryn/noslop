@@ -1,0 +1,11 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2
+  },
+  "reason": "Version 1 keeps every fact and nuance, including that the pilot completed 'successfully' and the thanks for continued support. Version 2 drops 'successfully' and the thanks, adds 'with them' to the next steps, and narrows 'dig into anything' to 'questions'.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A"
+  }
+}

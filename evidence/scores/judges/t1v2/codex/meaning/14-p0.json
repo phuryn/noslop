@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 1,
+    "3": 2,
+    "4": 3
+  },
+  "reason": "Version 2 preserves the original’s substantive meaning and nuances most closely; version 3 drops the appreciation expressed by “one of the lovely things.” Version 4 omits books earning their place and visits helping the shop grow, while version 1 adds unsupported details and stronger claims, including stocking personal favorites, first-week sales, and customers being the reason the shop survives.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B",
+    "3": "B2",
+    "4": "A"
+  }
+}

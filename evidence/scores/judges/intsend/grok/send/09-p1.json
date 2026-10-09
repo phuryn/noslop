@@ -1,0 +1,11 @@
+{
+  "send": "4",
+  "reason": "Version 4 keeps the same facts and commitments—the five-month failure, the delay apology, the line that this isn’t the experience you want, the 2-year warranty, a no-cost replacement, and tracking when it ships—in your voice. The others drop a commitment or that meaning, or change the tone.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "track2/A-int",
+    "3": "C",
+    "4": "track2/B5-int"
+  },
+  "picked_arm": "track2/B5-int"
+}

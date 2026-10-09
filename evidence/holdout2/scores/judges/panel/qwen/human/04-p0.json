@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "The phrase “came to us with... a need for” feels like a standard case-study template, and “They then passed” is a slightly mechanical transition.",
+    "2": "none",
+    "3": "The closing flourish—“a clear result for a team committed to maintaining high food safety standards”—reads like added promotional copy rather than a necessary factual detail."
+  },
+  "reason": "Version 2 is the cleanest and most credible, with a natural rhythm and no unnecessary marketing gloss. It reads like a skilled human editor trimmed it for clarity.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "O"
+  }
+}

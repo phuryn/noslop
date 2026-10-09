@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "“Near misses are our early warning” and the generic closing add a slightly templated corporate polish.",
+    "3": "“It's how we look out for each other” feels like an added warmth cue; the conversational rewrite also buries actions in a dense paragraph.",
+    "4": "The accumulation of an early-warning metaphor, a solidarity slogan and a generic thank-you feels formulaic."
+  },
+  "reason": "Version 1 is direct, easy to scan and appropriately matter-of-fact for a mandatory site policy, with little unnecessary language. These are stylistic judgments, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "B5",
+    "4": "O"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 2,
+    "3": 3,
+    "4": 7,
+    "5": 6,
+    "6": 1,
+    "7": 4
+  },
+  "send": "6",
+  "tells": {
+    "1": "Passive 'left to be paid for later' and the tidy reassurance at the end feel slightly templated.",
+    "2": "The spaced-out caveats and soft CTA are clean but a little generic and optimized.",
+    "3": "The compact triad of risks and the neat 'Just read the small print' pivot feel machine-polished.",
+    "4": "none",
+    "5": "The condensed, list-like warnings and 'provider's terms alter' sound synthetic.",
+    "6": "The empathy–caveats–CTA structure is very smooth, though the phrasing itself is natural.",
+    "7": "The balanced concessions and polished 'come away with nothing more than' line feel formulaic."
+  },
+  "reason": "Version 6 is the strongest because it sounds conversational, specific, and reassuring without pushing the reader. It keeps the caution clear and avoids the more synthetic phrasing found in several variants.",
+  "label_to_arm": {
+    "1": "V6C",
+    "2": "C",
+    "3": "B5",
+    "4": "E",
+    "5": "A",
+    "6": "V6A",
+    "7": "O"
+  }
+}

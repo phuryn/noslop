@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "Version 1 best preserves the tentative offer through “could,” while version 2 strengthens it to “can.” Version 3 adds an unrestricted “anywhere” coverage claim and narrows last-minute needs to “occasional” runs; all three retain the stated numbers and meeting request.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B",
+    "3": "C"
+  }
+}

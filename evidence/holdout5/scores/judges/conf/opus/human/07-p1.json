@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 6,
+    "4": 1,
+    "5": 7,
+    "6": 5,
+    "7": 4
+  },
+  "send": "2",
+  "tells": {
+    "1": "A formulaic reassurance pair ('None of this means a plan is wrong for you. It just deserves a close read...') followed by a polished soft-sell closer.",
+    "2": "The tidy 'You're welcome to leave with nothing more than a clearer idea of your options' closer. Otherwise it reads naturally.",
+    "3": "The hedge-then-reassure pattern ('None of this means... It just deserves a close read of the small print first'), set in one evenly polished block.",
+    "4": "none",
+    "5": "Long, symmetrically balanced sentences ('None of this means a plan is wrong for you, only that it deserves...') with uniform smooth cadence throughout.",
+    "6": "Near-identical to 3: the same hedged 'None of this means...' reassurance and the same uniformly smooth phrasing.",
+    "7": "The stilted inversion 'the provider's terms alter' and the neatly balanced 'for some families they are. Others will be better off without one.'"
+  },
+  "reason": "Version 4 has the typos, run-ons and clunky phrasing of a genuine human draft, but it isn't publishable as is. Version 2 keeps all its content in clear, natural, well-paragraphed prose without overworked rhythm, so it is the best one to send.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B5",
+    "3": "V6C",
+    "4": "E",
+    "5": "O",
+    "6": "V6A",
+    "7": "A"
+  }
+}

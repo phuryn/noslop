@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 6,
+    "5": 2,
+    "6": 5
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Stock warmth ('One of the lovely things,' 'make a start') and a tidy maybe/maybe cadence",
+    "3": "Same sanded template, plus a neat moral closer ('Those visits helped us get here')",
+    "4": "Milestone clichés ('special milestone,' 'bursting at the seams') and an empty 'understatement' that never lands a detail",
+    "5": "Even, generic phrasing with almost no concrete detail ('earn its place,' 'came through the door')",
+    "6": "Rule-of-three anaphora, em dash, and stacked 'Maybe' sentences"
+  },
+  "reason": "Version 1 sounds like a shop owner: wry, specific, and willing to leave a joke in the borrowed book. The others smooth that into the same polished anniversary template, and 4 is too thin and tangled to publish.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B5",
+    "3": "B3",
+    "4": "E",
+    "5": "A",
+    "6": "O"
+  }
+}

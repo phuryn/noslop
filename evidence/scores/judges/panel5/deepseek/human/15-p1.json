@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 6,
+    "4": 4,
+    "5": 5,
+    "6": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Evenly parallel section headers and bullets make it read like a clean AI-edited summary.",
+    "3": "Flat, literal feature-list phrasing with a bare 'Pricing' heading and vague 'unlocks additional features.'",
+    "4": "Stock marketing filler like 'guidance you can trust' and 'unlock more of what the app has to offer.'",
+    "5": "Clichéd motivational phrases ('Never miss a session again', 'watch your progress grow!') and a tonal shift in the legal note.",
+    "6": "Polished but slightly synthesized; leans on standard phrases like 'proper form and technique' and 'get more of what the app has to offer.'"
+  },
+  "reason": "Version 1 has the most natural, specific hook and conversational rhythm, making it feel written by a skilled human for this exact purpose. Version 6 is close, but slightly more templated in places, so I would send 1.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B3",
+    "3": "A",
+    "4": "O",
+    "5": "E",
+    "6": "B5"
+  }
+}

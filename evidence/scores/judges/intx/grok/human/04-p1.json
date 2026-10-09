@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 5,
+    "4": 2,
+    "5": 4
+  },
+  "send": "2",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "\"Finally, a quick reminder\" is a stock signpost for only the second item, and the choppy sentence chain flattens the voice",
+    "4": "none",
+    "5": "em dash appositive (\"frost—a small job now\") is a classic AI smoothing tic"
+  },
+  "reason": "Version 2 sounds like a person writing to allotment neighbors: idiomatic, specific, and unfussy, with the joke landing cleanly. The others either stay a little clumsy, sand off that voice, or pick up familiar machine habits.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "C",
+    "3": "E",
+    "4": "track2/A-int",
+    "5": "O"
+  }
+}

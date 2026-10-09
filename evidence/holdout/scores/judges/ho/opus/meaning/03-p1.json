@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 5
+  },
+  "reason": "V1 keeps every fact, the 'helps' hedge on Crowd Focus, the reassurance, and the closing thanks. V2 and V3 each soften one nuance: V2 drops the thank-you, and V3 drops the 'helps' hedge and 'step by step'. V4 and V5 drop the reassurance, overstate Crowd Focus, and alter (V4) or remove (V5) the thank-you.",
+  "label_to_arm": {
+    "1": "B2",
+    "2": "B3",
+    "3": "C",
+    "4": "B",
+    "5": "A"
+  }
+}

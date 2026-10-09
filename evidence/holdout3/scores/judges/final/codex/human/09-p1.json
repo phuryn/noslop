@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 5,
+    "4": 3,
+    "5": 1,
+    "6": 6
+  },
+  "send": "5",
+  "tells": {
+    "1": "The slogan-like repetition of 'real trade with real prospects' and the sweeping promise of skills 'always in demand'.",
+    "2": "Stock recruitment phrases accumulate: 'real trade with real prospects', 'come out the other end', and 'If that sounds like you'.",
+    "3": "none",
+    "4": "'A trade that people will hire you for' feels deliberately plainspoken but less natural than the surrounding copy.",
+    "5": "'Skills that are always in demand' is a generic assurance in otherwise clean, purposeful copy.",
+    "6": "The concentrated use of 'rolling up your sleeves', 'proper trade with a future', and 'Sound like you?' makes the conversational voice feel manufactured."
+  },
+  "reason": "Version 5 has the strongest balance of natural rhythm, clear structure and useful detail, though I would soften its employment promise. Version 3 feels plausibly human but less professionally edited; these rankings assess editorial effect, not actual authorship.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "O",
+    "3": "E",
+    "4": "A",
+    "5": "B3",
+    "6": "C"
+  }
+}

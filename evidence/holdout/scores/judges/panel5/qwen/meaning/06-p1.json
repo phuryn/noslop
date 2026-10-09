@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 3
+  },
+  "reason": "Version 1 is identical to the original, and Version 2 preserves all facts despite minor reordering. Version 4 is faithful but slightly changes 'remove' to 'pull it off,' while Version 3 adds or softens details such as 'easy fix,' brushing, and 'try to work when it's at least 50°F.'",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "C",
+    "4": "B5"
+  }
+}

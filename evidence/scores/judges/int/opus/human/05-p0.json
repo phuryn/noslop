@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 3,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "Bolded inline lead-ins on every bullet and goal, introduced by the stock line 'The consequences are significant:'",
+    "2": "none",
+    "3": "Bolded inline lead-ins on every bullet and goal, a templated list structure",
+    "4": "Minor 'X, not Y' contrast ('only for exceptions, not routine reassignments'), otherwise none"
+  },
+  "reason": "Version 4 keeps the scannable bullet structure a PRD needs but drops the bold lead-ins. Its phrasing is plainer and more direct ('Agencies pay for it', 'Show coordinators what the system did'), so it reads like a practiced PM. Version 2 is similarly clean, but folding the impacts into one dense paragraph makes them harder to scan.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "track2/A-int",
+    "3": "B3",
+    "4": "track2/B3-int"
+  }
+}

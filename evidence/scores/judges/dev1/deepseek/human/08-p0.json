@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 5,
+    "3": 2,
+    "4": 1,
+    "5": 3
+  },
+  "send": "4",
+  "tells": {
+    "1": "Over-polished marketing phrasing with em-dash flourishes and stacked benefit phrases.",
+    "2": "Clipped, flat sentences with an abrupt price-drop ending.",
+    "3": "Slightly clinical and reserved; the explanatory clause feels a little generic.",
+    "4": "Mild 'fuller picture' cliché, but otherwise reads naturally.",
+    "5": "Forced casualness in phrases like 'hits 7' and 'something's off'."
+  },
+  "reason": "Version 4 is the most balanced: it is clear and credible, sounds warmly professional rather than templated, and gives a concrete benefit without over-polishing.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "A",
+    "3": "B3",
+    "4": "B5",
+    "5": "C"
+  }
+}

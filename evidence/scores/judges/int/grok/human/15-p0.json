@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 3,
+    "4": 1
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Slogan padding and a vague upsell: 'guidance you can trust,' 'keep your recovery moving,' and 'unlock more of what the app has to offer.'",
+    "3": "Stock recovery phrasing: 'how to do it right,' 'Whether you're healing…,' and 'see how far you've come.'",
+    "4": "Credibility stuffing—an unsourced 'Gwen Harper' outcome and a hedged 'about 1,900 reviews' dropped into the audience section."
+  },
+  "reason": "Version 4 has the only real voice, but its extra patient story, rating, and feature claims look invented. Version 1 is the one to publish: clear, specific, and free of slogan filler or unverifiable proof.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "O",
+    "3": "B3",
+    "4": "track2/B3-int"
+  }
+}

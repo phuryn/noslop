@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 4,
+    "4": 5,
+    "5": 1
+  },
+  "reason": "Version 5 preserves nearly all facts and nuances, including the age threshold, markers, baseline tracking, and practical benefit. Version 2 is close but omits the final benefit, while Versions 1, 3, and 4 lose or change key details such as other health markers, the vaccine nuance, baseline tracking, or pre-symptom detection.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B3",
+    "3": "A",
+    "4": "E",
+    "5": "B5"
+  }
+}

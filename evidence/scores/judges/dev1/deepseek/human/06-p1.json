@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 5,
+    "3": 1,
+    "4": 3,
+    "5": 4
+  },
+  "send": "2",
+  "tells": {
+    "1": "The awkward noun phrase 'Skip the weighing out' reads unidiomatically.",
+    "2": "none",
+    "3": "The heading 'We measure the dry ingredients' is flat and literal, like a feature list rather than human copy.",
+    "4": "The phrase 'so you can start at the mixing' is unidiomatic and slightly unnatural.",
+    "5": "The clipped, symmetrically balanced opener ('A little measuring done. A little joy delivered.') feels like AI-generated marketing lyricism."
+  },
+  "reason": "Version 2 reads the most natural and conversational while staying clear and warm. It avoids awkward phrasing and over-stylized fragments, which makes it the strongest choice to publish.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "C",
+    "3": "B5",
+    "4": "A",
+    "5": "O"
+  }
+}

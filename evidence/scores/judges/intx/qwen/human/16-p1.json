@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 5,
+    "4": 4,
+    "5": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "safe, generic phrasing and the slightly awkward 'teach again' make it feel smoothed over rather than voiced",
+    "3": "vague summary, repetitive 'I had had' constructions, and the cliché 'with a bang or with a whimper'",
+    "4": "bolted-on proper nouns and the elephant-toothpaste demo feel like synthetic specificity rather than organically remembered detail",
+    "5": "near-duplicate of 2 with a more mechanical list structure and no distinctive voice"
+  },
+  "reason": "Version 1 has the most natural voice, concrete action, and understated emotional complexity. The others are either too generic, too clunky, or over-specific in a way that feels forced.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "O",
+    "3": "E",
+    "4": "track2/B5-int",
+    "5": "track2/A-int"
+  }
+}

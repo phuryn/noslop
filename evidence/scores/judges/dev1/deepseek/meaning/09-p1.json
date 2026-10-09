@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 1,
+    "4": 3
+  },
+  "reason": "Version 3 keeps the original facts and commitments most exactly; version 1 follows closely; version 4 is slightly less precise in wording; version 2 changes 'replacement battery' to 'new battery' and omits key subject detail.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "B3",
+    "4": "B5"
+  }
+}

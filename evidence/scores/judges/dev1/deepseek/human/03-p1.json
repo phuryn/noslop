@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 5,
+    "3": 2,
+    "4": 4,
+    "5": 3
+  },
+  "send": "5",
+  "tells": {
+    "1": "none",
+    "2": "Clipped phrasing and repetition ('Bank feed sync: feeds now sync') read like a compressed generated summary.",
+    "3": "Plain Markdown headings and a standard 'Fixed a bug where...' structure feel like a generated summary.",
+    "4": "Template-like bold lead-ins and positive spin ('now display correctly') without naming the bug.",
+    "5": "Formulaic 'Fixed a bug where...' and polished release-note template structure."
+  },
+  "reason": "Version 5 best balances polish, clarity, and credibility while still sounding user-focused; Version 1 has the strongest human voice but is slightly too casual for release notes.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B5",
+    "3": "A",
+    "4": "B3",
+    "5": "O"
+  }
+}

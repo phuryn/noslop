@@ -1,0 +1,11 @@
+{
+  "send": "1",
+  "reason": "Version 1 keeps every fact, target, caveat, secondary goal and non-goal, adds no new claims, and stays close to my plain, direct voice. Version 3 adds that the system handles routine reassignments, and Version 4 shifts some meanings (\"test whether realistic,\" \"confirm targets then\") and reads more casual. Version 2 drops the secondary goals and non-goals entirely.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "E",
+    "3": "A",
+    "4": "C"
+  },
+  "picked_arm": "B5"
+}

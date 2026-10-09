@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 7,
+    "2": 2,
+    "3": 4,
+    "4": 5,
+    "5": 6,
+    "6": 1,
+    "7": 3
+  },
+  "send": "6",
+  "tells": {
+    "1": "Stock empathy opener ('I understand you're unhappy') and a stiff, template-like register ('we consider damage beyond normal wear and tear', 'the £60 difference')",
+    "2": "Formulaic validation opener ('I can see why you're unhappy'), though the rest reads naturally",
+    "3": "Opens with an apology for a deduction it then defends, which reads like a generic softening move rather than a considered choice",
+    "4": "Same validation opener as 2, plus an awkward grammatical seam ('we consider goes beyond') that suggests an edit of 2",
+    "5": "Formula opener and neatly paired, evenly weighted offer sentences that feel templated",
+    "6": "none",
+    "7": "none (clearly human, but has errors such as 'your not happy' and 'want me too', plus a defensive opening and an accusatory 'you have scratched')"
+  },
+  "reason": "Version 6 reads like a confident human agent: it is plain and specific, frames the £90 offer as a way to settle quickly, and avoids stock empathy formulas. Version 7 is unmistakably human but too error-strewn and confrontational to send.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "V6A",
+    "3": "A",
+    "4": "V6C",
+    "5": "B5",
+    "6": "C",
+    "7": "E"
+  }
+}

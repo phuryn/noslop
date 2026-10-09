@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 5,
+    "4": 3,
+    "5": 2
+  },
+  "send": "5",
+  "tells": {
+    "1": "none",
+    "2": "Overly uniform formal headings and parallel structure; stiff phrase like 'cost a lot in capital and labor.'",
+    "3": "Template-like bolded labels and repeated 'Risk. Mitigation:' pattern with clinical wording.",
+    "4": "Duplicated 'Risk. Mitigation:' format and more clinical, uniform tone than versions 1 or 5.",
+    "5": "The mitigation sentences are highly parallel ('we'd start,' 'we'd communicate,' 'we'd set,' 'we'd plan'), creating a slightly patterned rhythm."
+  },
+  "reason": "Version 5 best balances a leadership-ready structure with plain, direct language and human tone. It is polished enough to be credible but avoids the stiff or template-like feel of versions 2-4.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "O",
+    "4": "B3",
+    "5": "B5"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2,
+    "4": 4
+  },
+  "reason": "Version 1 preserves the original most closely; version 3 retains all substantive details but makes current-member status conditional, while version 2 also omits the stated benefit of more scheduling options. Version 4 preserves the prices and dates but adds an emotional framing, assumes the classes are workouts, and adds an explicit offer of help.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "A",
+    "3": "B3",
+    "4": "C"
+  }
+}

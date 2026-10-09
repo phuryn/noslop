@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 4,
+    "4": 1
+  },
+  "reason": "V4 keeps every fact and the 'helped reduce' hedge intact; V1 keeps the hedge but adds a 'most utilities' generalization and a 'what didn't work' commitment, while V2 drops the 'helped' hedge in the abstract (claiming the leak work itself cut non-revenue water) and the 'otherwise unnoticed' nuance. V3 is least faithful: it drops the hedge, asserts direct causation in both sections, and inflates the speaker's role to 'helped lead the effort.'",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B",
+    "3": "A",
+    "4": "B2"
+  }
+}

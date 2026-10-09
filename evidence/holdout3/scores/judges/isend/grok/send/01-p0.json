@@ -1,0 +1,11 @@
+{
+  "send": "3",
+  "reason": "Version 3 keeps the milestone, the hand-sorting categories, credit to the Bradford team’s skill, patience and care, the donor thanks, and the caveat that 1,000 tonnes is only a small part, in the same plain voice. The others drop “care,” change “careful” to “slow,” or add claims and cut the waste caveat.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "B5",
+    "4": "E"
+  },
+  "picked_arm": "B5"
+}

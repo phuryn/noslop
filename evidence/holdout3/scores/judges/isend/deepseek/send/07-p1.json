@@ -1,0 +1,11 @@
+{
+  "send": "4",
+  "reason": "Version 4 keeps the specific legal examples, the same liability/risk argument, and the original voice, just tightening a few transitions.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B5",
+    "3": "E",
+    "4": "A"
+  },
+  "picked_arm": "A"
+}

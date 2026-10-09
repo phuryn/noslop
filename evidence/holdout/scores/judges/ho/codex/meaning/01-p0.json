@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 3,
+    "4": 5,
+    "5": 2
+  },
+  "reason": "Version 1 preserves the meaning most closely; version 5 slightly changes timing and omits the full weather range, while version 3 shifts members’ shared ownership of the milestone into making it count. Version 2 strengthens a career pathway into an assured outcome, while version 4 adds unsupported weather extremes and career longevity and changes paid training to paid spots.",
+  "label_to_arm": {
+    "1": "B2",
+    "2": "A",
+    "3": "B",
+    "4": "C",
+    "5": "B3"
+  }
+}

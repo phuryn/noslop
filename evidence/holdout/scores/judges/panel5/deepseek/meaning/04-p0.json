@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 1,
+    "4": 3
+  },
+  "reason": "Version 3 retains the most original details and nuances, including 'catch your breath' and the original closing. Version 2 is close but omits that phrase; version 4 drops the 'glad to have you along' nuance, and version 1 adds the unsupported 'most of us are in the same boat.'",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B3",
+    "3": "B5",
+    "4": "A"
+  }
+}

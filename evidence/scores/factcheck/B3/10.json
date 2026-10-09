@@ -1,0 +1,12 @@
+{
+  "dropped": [],
+  "changed": [
+    {
+      "item": "The original tells the reader directly that they are a current member ('As a current member, you'll keep...'). The edit makes this conditional ('If you're a current member...'). The practical meaning for recipients is the same.",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

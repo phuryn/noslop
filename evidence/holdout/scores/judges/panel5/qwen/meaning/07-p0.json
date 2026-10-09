@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 2
+  },
+  "reason": "Version 1 preserves all key facts, the refund timing, the gratitude, and the invitation to ask questions with only minor rewording. Version 4 is close but omits the thanks and adds a specific reply-to-email instruction; Version 2 omits the support invitation, and Version 3 changes wording such as 'duplicate charge' to 'extra charge' and 'being processed' to 'started'.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "A",
+    "3": "C",
+    "4": "B3"
+  }
+}

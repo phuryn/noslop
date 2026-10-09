@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 4,
+    "4": 5,
+    "5": 2
+  },
+  "send": "5",
+  "tells": {
+    "1": "none",
+    "2": "The concentration of named anecdotes, precise figures, and caveats can feel deliberately engineered to signal authenticity.",
+    "3": "The punchy three-part benefits sequence and broad operational lesson feel formulaic.",
+    "4": "The tidy progression from results to benefits to a generic lesson and engagement question reads like a LinkedIn template.",
+    "5": "The takeaway about meeting patients where they already are is generic and adds little."
+  },
+  "reason": "Version 2 has the strongest individual voice and most convincing operational texture, although its additional factual claims need verification. I would publish version 5 for its concise, clear delivery without those extra unsupported details; these stylistic judgments do not establish authorship.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "track2/B5-int",
+    "3": "C",
+    "4": "O",
+    "5": "track2/A-int"
+  }
+}

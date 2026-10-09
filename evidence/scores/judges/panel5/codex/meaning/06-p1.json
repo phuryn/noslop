@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 5,
+    "3": 3,
+    "4": 2,
+    "5": 1
+  },
+  "reason": "Version 5 preserves the original meaning most closely, followed by 4; version 3 slightly weakens the quiet-moment nuance, while version 1 makes subscription continuity less clear with “Keep it.” Version 2 adds promises of something new every month and suitability for beginners and experienced bakers, while losing the original’s emphasis on slowing down.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "E",
+    "3": "C",
+    "4": "B3",
+    "5": "B5"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 5,
+    "4": 3,
+    "5": 1
+  },
+  "reason": "Version 5 keeps every fact, date, fee, and commitment with only trivial synonyms. Version 1 preserves the delivery and refund wording exactly but drops the thanks; version 4 also drops the thanks and rephrases the delivery commitment; version 2 weakens “promised,” shifts the apology to “sorry to hear,” and adds a refund motive; version 3 marks the refund as already done, softens delivery to “we can,” and adds feelings the original does not state.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "E",
+    "3": "C",
+    "4": "B3",
+    "5": "B5"
+  }
+}

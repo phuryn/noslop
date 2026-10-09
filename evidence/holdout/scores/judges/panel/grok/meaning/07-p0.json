@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3
+  },
+  "reason": "Version 2 keeps the bug, refund status, 5-day timeline, and invitation to ask more, with only a minor reply-channel detail added. Version 1 drops that invitation, and version 3 changes duplicate/processing wording and adds a broader promise to help.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "C"
+  }
+}

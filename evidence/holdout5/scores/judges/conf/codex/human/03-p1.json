@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 7,
+    "3": 4,
+    "4": 5,
+    "5": 3,
+    "6": 6,
+    "7": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Generic launch hype and unsupported urgency: 'be quick about it!' These are also common human marketing habits.",
+    "3": "Repeated three-part lists ('More explorers, more crossings...' and 'New tools, new twists...') make the playfulness feel engineered.",
+    "4": "Stacked three-part lists and the stock 'Want one?' transition give it a formulaic marketing rhythm.",
+    "5": "The paired 'more...' and 'new...' sequences retain a conspicuously patterned rhythm inside otherwise natural prose.",
+    "6": "The template heading 'Here's what's in the box' introduces 'A 5th player,' sacrificing literal sense for a familiar marketing format.",
+    "7": "none"
+  },
+  "reason": "Version 1 best balances direct information, believable personality, and a clear next step; version 7 is similarly natural but ends without an explicit purchase invitation. These rankings assess editorial effect, not authorship: awkwardness does not establish humanity, and polish does not establish AI use.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "E",
+    "3": "V6C",
+    "4": "O",
+    "5": "B5",
+    "6": "V6A",
+    "7": "A"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 3,
+    "3": 2,
+    "4": 4,
+    "5": 1
+  },
+  "send": "5",
+  "tells": {
+    "1": "Generic, low-stakes filler like 'and an anniversary to celebrate' and 'Those visits helped us get here', with flattened rhythm and no personality",
+    "2": "Polished cadence: em dash, the 'every shelf, every table, every book' triad, and paired 'Maybe it's... Maybe it's...' sentences",
+    "3": "none. It reads like a clumsy human draft (inconsistent formatting, the 'pine for' cliché, a garbled sentence in 5/6)",
+    "4": "Overly compressed and sterile, as if summarized. Gratitude and nostalgia are stated without any texture.",
+    "5": "none. The specific, wry details ('Not bad.', 'borrowed it and never gave it back') feel human, though the switch from 'we' to 'My' is slightly inconsistent"
+  },
+  "reason": "Version 5 has a warm, casual voice with concrete, funny details that suit a local bookshop's anniversary thread. Version 3 feels human but is clumsy, and versions 1, 2 and 4 read as polished or flattened AI variants.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "O",
+    "3": "E",
+    "4": "A",
+    "5": "C"
+  }
+}

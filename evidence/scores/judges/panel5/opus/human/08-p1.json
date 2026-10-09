@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 6,
+    "4": 3,
+    "5": 5,
+    "6": 2
+  },
+  "send": "4",
+  "tells": {
+    "1": "none. It reads like real clinic copy, with a rhetorical-question opener and a slightly clunky, repetitive marker list ('to check... to monitor').",
+    "2": "Tidy, even sentence rhythm and a generic 'helps guide care as your dog ages' clause, but no strong tell.",
+    "3": "Two em-dashes plus a tacked-on promotional benefit tag ('a practical way to get a fuller picture... make the most of their yearly checkup').",
+    "4": "none. It is lean and direct; at most, it is a little clipped.",
+    "5": "A formulaic closing benefit line ('a practical way to get a fuller picture of your dog's health and more out of the checkup') appended to the price.",
+    "6": "A softer version of the closing benefit-tag pattern ('a simple way to get the full picture'), though the casual voice ('hits 7', 'something's off') feels natural."
+  },
+  "reason": "Version 4 delivers the recommendation, the reason, the baseline benefit and the price with no filler or salesy add-on, so it reads as credible and professional. Versions 3 and 5 lose credibility to the boilerplate 'fuller picture' closer, and version 1 feels authentic but is wordier and less persuasive.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "B3",
+    "3": "O",
+    "4": "A",
+    "5": "B5",
+    "6": "C"
+  }
+}

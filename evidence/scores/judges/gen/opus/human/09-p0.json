@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 3,
+    "4": 1
+  },
+  "send": "1",
+  "tells": {
+    "1": "none; just a slightly polished, symmetrical double apology ('I'm sorry... and sorry...')",
+    "2": "Stock empathy filler and redundant bookends: 'That's not the experience we want you to have,' plus 'Thank you for your patience, and again, my apologies for the inconvenience.'",
+    "3": "Over-trimmed to the point of curtness ('reply to this message', 'The bike is covered'), which reads like an aggressive de-padding pass",
+    "4": "none; its flaws are human ones, like the awkward 'I have gone ahead and will send' and 'your battery in your Metro 2'"
+  },
+  "reason": "Version 4 reads most like a real agent typing quickly, with clumsy phrasing and a practical offer of installation help, while Version 2 shows the clearest AI padding. Version 1 is the best one to send: it's warm, concise and clear, without 2's filler, 3's curtness or 4's errors.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "O",
+    "3": "A",
+    "4": "gen/E-write"
+  }
+}

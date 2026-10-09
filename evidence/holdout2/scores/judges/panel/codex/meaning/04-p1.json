@@ -1,0 +1,11 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2
+  },
+  "reason": "Version 1 preserves that Ashby Mill came to the provider with the problem, while Version 2 omits that detail. Both retain the system change and zero pest findings at the BRC audit, but omit the original’s characterization of the team as committed to high food safety standards.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3"
+  }
+}

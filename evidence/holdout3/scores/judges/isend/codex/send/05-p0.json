@@ -1,0 +1,11 @@
+{
+  "send": "3",
+  "reason": "It keeps the date change, resolved lighting issue, request for four volunteers, and commitment to confirm details. It also preserves the warm, upbeat tone without sounding overdone.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "A",
+    "3": "B5",
+    "4": "C"
+  },
+  "picked_arm": "B5"
+}

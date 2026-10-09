@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 3
+  },
+  "reason": "Version 1 stays closest to the original's meaning and caveats. Version 2 is nearly as faithful but slightly flattens 'hadn't given much thought' to 'hadn't thought'; Version 4 preserves the hedged reflection better than Version 3, which changes it to an absolute 'never thought.'",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "B5",
+    "4": "C"
+  }
+}

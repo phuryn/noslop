@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 6,
+    "4": 5,
+    "5": 7,
+    "6": 4,
+    "7": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Tidy parallel bullet list with clipped imperatives and no closing pleasantry; reads like a generated template.",
+    "3": "Emoji bookends plus bold date labels and 'Got questions or feeling stuck?' are a stock AI Slack formula.",
+    "4": "Emoji/bullet formatting and 'Quick heads-up on a change to...' read as ChatGPT-style Slack copy.",
+    "5": "Most formulaic of the emoji/bullet variants; 'Got questions or feeling stuck?' and 'you're all set' are predictable AI phrases.",
+    "6": "Stiff formal prose with no contractions and corporate phrasing like 'It is important that all staff receive training'; reads like a memo rather than native Slack chat.",
+    "7": "Plain but overly tidy paragraph structure with three even topic blocks and a standard sign-off; minimal human asides."
+  },
+  "reason": "Version 1 feels the most natural and human for Slack: clear, warm, concise, and not over-formatted. The emoji-heavy bullet versions read the most AI-generated, while 6 is authentic but too stiff.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "V6A",
+    "4": "O",
+    "5": "V6C",
+    "6": "E",
+    "7": "B5"
+  }
+}

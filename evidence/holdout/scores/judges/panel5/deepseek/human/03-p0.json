@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 4,
+    "4": 5,
+    "5": 2
+  },
+  "send": "2",
+  "tells": {
+    "1": "The clichéd warmth of 'there's no such thing as a silly question' and the phrase 'bring the voice in front of you forward' sound template-like.",
+    "2": "Mostly natural; the closest tell is the stock support line 'No question is too small.'",
+    "3": "Mechanical structure ('Firmware 3.4 adds two improvements') and a missing warm sign-off make it feel dry and AI-plain.",
+    "4": "The vague 'It adds two things' and abrupt, under-explained battery sentence feel like AI-summarized copy.",
+    "5": "The 'Crowd Focus is for places like...' transition and generic 'no question is too small' closing feel slightly formulaic."
+  },
+  "reason": "Version 2 is the most concise, specific, and conversational, with natural warmth and phrasing; it reads like a helpful human note while still giving clear instructions.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "C",
+    "3": "A",
+    "4": "B3",
+    "5": "B5"
+  }
+}

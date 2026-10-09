@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 3,
+    "3": 1,
+    "4": 2
+  },
+  "reason": "Version 3 matches the original in substance. Version 4 keeps every fact, number, and caveat, only reordering the compatibility check so it still occurs before application. Version 2 narrows the 50°F requirement to the cure period, and version 1 weakens it to “try to,” adds “easy fix,” and changes application and leak-check details.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B5",
+    "3": "A",
+    "4": "B3"
+  }
+}

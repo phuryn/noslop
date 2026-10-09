@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 4,
+    "4": 1
+  },
+  "reason": "Version 4 stays closest to the original wording and preserves key facts, caveats, and commitments; Version 1 is nearly as faithful, while Version 2 slightly weakens 'capture' to 'serve' and drops 'targeted,' and Version 3 introduces more paraphrase and loses nuance such as 'structurally' and 'potential returns.'",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "A",
+    "3": "C",
+    "4": "B3"
+  }
+}

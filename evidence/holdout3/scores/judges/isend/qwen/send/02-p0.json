@@ -1,0 +1,11 @@
+{
+  "send": "4",
+  "reason": "It keeps all the original facts, tentative tone, and commitments, including the trial, pricing, and sample offer. It reads naturally and closest to what the writer meant.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "E",
+    "3": "C",
+    "4": "A"
+  },
+  "picked_arm": "A"
+}

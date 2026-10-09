@@ -1,0 +1,124 @@
+{
+  "what": "Extended Track 3: the author's own pre-ChatGPT writing (10 excerpts), aggregate numbers only. No excerpt text or anything derived from it is published.",
+  "pangram_fraction_human_measured": {
+    "human original": {
+      "n": 10,
+      "min": 1.0,
+      "median": 1.0,
+      "mean": 1.0,
+      "max": 1.0
+    },
+    "AI draft from outline": {
+      "n": 10,
+      "min": 0.0,
+      "median": 0.0,
+      "mean": 0.0,
+      "max": 0.0
+    },
+    "v5 interview": {
+      "n": 10,
+      "min": 0.0,
+      "median": 0.12,
+      "mean": 0.23,
+      "max": 0.87
+    },
+    "reasoning-first interview (v5i)": {
+      "n": 10,
+      "min": 0.0,
+      "median": 0.47,
+      "mean": 0.47,
+      "max": 1.0
+    },
+    "v5 with the writer's notes": {
+      "n": 4,
+      "min": 0.84,
+      "median": 0.93,
+      "mean": 0.92,
+      "max": 1.0
+    },
+    "reasoning-first with the writer's notes (v5i)": {
+      "n": 4,
+      "min": 1.0,
+      "median": 1.0,
+      "mean": 1.0,
+      "max": 1.0
+    }
+  },
+  "words_kept_share_of_output_in_5word_runs_from_H": {
+    "AI draft from outline": {
+      "n": 10,
+      "min": 0.0,
+      "median": 0.02,
+      "mean": 0.02,
+      "max": 0.08
+    },
+    "v5 interview": {
+      "n": 10,
+      "min": 0.04,
+      "median": 0.14,
+      "mean": 0.14,
+      "max": 0.22
+    },
+    "reasoning-first interview (v5i)": {
+      "n": 10,
+      "min": 0.02,
+      "median": 0.14,
+      "mean": 0.18,
+      "max": 0.66
+    },
+    "v5 with the writer's notes": {
+      "n": 10,
+      "min": 0.08,
+      "median": 0.51,
+      "mean": 0.44,
+      "max": 0.85
+    },
+    "reasoning-first with the writer's notes (v5i)": {
+      "n": 10,
+      "min": 0.09,
+      "median": 0.61,
+      "mean": 0.57,
+      "max": 0.86
+    }
+  },
+  "pangram_estimated_from_words_kept_NOT_MEASURED_isotonic": {
+    "AI draft from outline": {
+      "min": 0.0,
+      "median": 0.0,
+      "max": 0.07,
+      "excerpts_estimated_at_least_0.67": 0
+    },
+    "v5 interview": {
+      "min": 0.0,
+      "median": 0.25,
+      "max": 0.56,
+      "excerpts_estimated_at_least_0.67": 0
+    },
+    "reasoning-first interview (v5i)": {
+      "min": 0.0,
+      "median": 0.27,
+      "max": 1.0,
+      "excerpts_estimated_at_least_0.67": 1
+    },
+    "v5 with the writer's notes": {
+      "min": 0.08,
+      "median": 0.96,
+      "max": 1.0,
+      "excerpts_estimated_at_least_0.67": 7
+    },
+    "reasoning-first with the writer's notes (v5i)": {
+      "min": 0.09,
+      "median": 1.0,
+      "max": 1.0,
+      "excerpts_estimated_at_least_0.67": 9
+    }
+  },
+  "estimate_fit": {
+    "training_points": 40,
+    "loo_abs_error_isotonic_mean_median_max": [
+      0.081,
+      0.0,
+      0.649
+    ]
+  }
+}

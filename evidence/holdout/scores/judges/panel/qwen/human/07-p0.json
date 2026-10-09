@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 3,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "Passive, templated phrasing such as 'is being processed' and 'Thanks for your patience' makes it feel canned.",
+    "2": "The refund line 'it should reach you' sounds slightly unnatural, and the tone is abruptly thin.",
+    "3": "The casual, breezy warmth ('I'm so sorry', 'Thanks for bearing with us') feels a little performative for a billing issue.",
+    "4": "none"
+  },
+  "reason": "Version 4 is clear, accountable, and professional while still sounding like a person. It resolves the issue without overdoing the apology or becoming too casual.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "A",
+    "3": "C",
+    "4": "B3"
+  }
+}

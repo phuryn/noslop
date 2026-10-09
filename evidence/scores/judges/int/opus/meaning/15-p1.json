@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2
+  },
+  "reason": "Version 3 keeps the original's claims and nuances, including 'Let your PT see' and 'see how far you've come', and everything it adds (312 videos, Gwen Harper, the 4.6 rating, custom programs, the founder's reason) comes from the writer's answers. Version 1 is close but drops 'unlock more' and the 'let' consent framing; Version 2 drifts further, recasting 'see how far you've come' as 'track your progress over time' and dropping the 'how to do it right' assurance.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "track2/A-int",
+    "3": "track2/B3-int"
+  }
+}

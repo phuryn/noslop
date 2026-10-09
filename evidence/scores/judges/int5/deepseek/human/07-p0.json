@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 3,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "Uses 'Android biometric login' as a noun phrase for the remaining task; slightly less natural than 'biometric flow.'",
+    "2": "Stiff/corporate phrasing like 'The remaining piece is...' and 'target date.'",
+    "3": "Overly smoothed packaging ('with only...left') plus redundant 'target date' feels AI-polished.",
+    "4": "none"
+  },
+  "reason": "Version 4 reads most like a skilled human Slack update: it is precise about the 'biometric flow,' uses casual 'what's left,' and avoids unnecessary corporate filler like 'target date.'",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "O",
+    "3": "track2/A-int",
+    "4": "track2/B5-int"
+  }
+}

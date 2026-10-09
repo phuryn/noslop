@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 5,
+    "4": 2,
+    "5": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Mechanical compression: “start at the mixing” sounds unnatural, and “Keep it as long as you like” makes the subscription less clear.",
+    "3": "Stacked parallel slogans and sentence fragments, especially “A little measuring done. A little joy delivered,” make the warmth feel manufactured.",
+    "4": "none",
+    "5": "The familiar “Less measuring, more making” formula and “Maybe ... Maybe ... Either way” sequence feel templated."
+  },
+  "reason": "Version 1 has the strongest balance of natural warmth, clear subscription terms, and scannable section headings; version 4 comes close but has clumsier phrasing. These rankings reflect editorial impressions, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "A",
+    "3": "O",
+    "4": "B3",
+    "5": "C"
+  }
+}

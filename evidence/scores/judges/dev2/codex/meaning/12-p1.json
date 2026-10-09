@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 4,
+    "4": 1
+  },
+  "reason": "Version 4 best preserves the facts, qualified causality, and caveats; version 1 slightly strengthens certainty by changing “might” to “would.” Version 2 adds a leadership role and stronger causal claims, while version 3 introduces broader unsupported claims about utilities and previously unknown leaks, plus a new commitment to discuss what worked and what didn’t.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "A",
+    "3": "C",
+    "4": "B3"
+  }
+}

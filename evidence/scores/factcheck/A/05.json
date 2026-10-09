@@ -1,0 +1,17 @@
+{
+  "dropped": [],
+  "changed": [
+    {
+      "item": "'The consequences are significant' became 'This causes four problems'. The emphasis on significance is gone and the consequences are now framed as a count of problems.",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "Goal 2 now states outright that 'the system handles routine reassignments'. The original only said coordinators should not step in for routine reassignments, which implied this.",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

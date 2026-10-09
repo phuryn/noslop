@@ -1,0 +1,44 @@
+{
+  "dropped": [
+    {
+      "item": "The talk will 'draw on that experience' (his 15 years of research). The explicit link between his background and the talk's content is gone.",
+      "severity": "minor"
+    },
+    {
+      "item": "'the questions facing those responsible for peatland resilience'. The framing of open questions is collapsed into 'what wildfire demands of the people'.",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "'what the 2025 season means' became 'what last year's fires mean'. An explicit year is replaced by a relative reference. This assumes the summit takes place in 2026, which the original never states, and would be wrong or confusing if the text is read at another time.",
+      "severity": "major"
+    },
+    {
+      "item": "'His work provides a long-term perspective on the challenges posed by wildfire' became 'That long view gives him a clear sense of what wildfire demands'. The subject shifts from his work offering a perspective to others, to him personally having a 'clear sense', which is a stronger claim of certainty.",
+      "severity": "minor"
+    },
+    {
+      "item": "'the 2025 season' became 'fires'. The scope narrows from a whole fire season (which could include conditions, absence of fires, or policy response) to the fires themselves.",
+      "severity": "minor"
+    },
+    {
+      "item": "'how research can inform the decisions that follow' became 'how research can help shape what happens next'. Decision-making by people is generalised to outcomes in general.",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "The implied claim that the 2025 fire season was 'last year' relative to the summit or the reader.",
+      "severity": "major"
+    },
+    {
+      "item": "The characterisation that he has a 'clear sense' of what wildfire demands, a mildly stronger assertion of authority.",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [
+    "last year's fires"
+  ],
+  "meaning_preserved": 4
+}

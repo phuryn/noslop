@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2
+  },
+  "reason": "Version 2 is most faithful because it preserves the milestone, crew and member credit, and the apprenticeship details, including the original 'path into a career.' Version 3 is next because it keeps member ownership and 'real money,' while Version 1 weakens the member claim and changes a path into a career to a program that 'leads to' a career.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "C"
+  }
+}

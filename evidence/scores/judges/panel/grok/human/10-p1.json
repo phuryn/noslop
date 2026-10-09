@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 5,
+    "4": 1,
+    "5": 4
+  },
+  "send": "4",
+  "tells": {
+    "1": "Even template rhythm and the padded purpose clause 'to give you more options during the week.'",
+    "2": "none",
+    "3": "Filler opener 'We wanted to let you know,' bureaucratic 'at which time,' and exclamation-mark enthusiasm.",
+    "4": "none",
+    "5": "Sunday classes are dropped in with no link to the news, and 'Thanks for being a member' is a flat generic close."
+  },
+  "reason": "Version 4 reads like someone actually delivering a price increase: an honest subject, a plain-language grace period, and a natural turn to the new classes. The others share a template cadence, and version 3 adds throat-clearing and bureaucratic phrasing.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B3",
+    "3": "E",
+    "4": "C",
+    "5": "A"
+  }
+}

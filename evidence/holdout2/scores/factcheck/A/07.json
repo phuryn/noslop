@@ -1,0 +1,28 @@
+{
+  "dropped": [
+    {
+      "item": "'harm' removed from the near miss definition (original: 'injury, damage or harm'; edit: 'injury or damage'), which slightly narrows what counts as a near miss",
+      "severity": "minor"
+    },
+    {
+      "item": "'without exception' removed from the instruction to log every near miss within 24 hours, which weakens the emphasis on strict compliance",
+      "severity": "minor"
+    },
+    {
+      "item": "Framing that near misses are 'our early warning'",
+      "severity": "minor"
+    },
+    {
+      "item": "Reports should be 'accurate' as well as prompt",
+      "severity": "minor"
+    },
+    {
+      "item": "Closing rationale: 'It's how we keep each other safe'",
+      "severity": "minor"
+    }
+  ],
+  "changed": [],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

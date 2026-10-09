@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3,
+    "4": 4
+  },
+  "send": "2",
+  "tells": {
+    "1": "The cozy three-part vignette ('An afternoon with the oven on, something homemade to share, or a quiet cup of tea with the last crumb') reads as stock warmth, and dropping the section headers flattens the page into one blurred block.",
+    "2": "Mostly none. The 'stirring, baking, and sneaking a taste' triplet is a bit formulaic, but it reads as ordinary copywriting.",
+    "3": "Stacked parallel fragments ('A little measuring done. A little joy delivered.' / 'Less measuring. More making.' / 'One kit. $34 a month.') form a staccato rhythm typical of AI-polished copy.",
+    "4": "No AI tells. It reads as unskilled human writing: the duplicated CTA ('Get started Get your monthly baking kit'), the redundant 'You don't have to measure our pre-measured dry ingredients', and filler like 'It's that simple' and 'amazing' used twice."
+  },
+  "reason": "Version 2 keeps clear section structure and a warm, specific voice without the gimmicky fragment rhythm of Version 3 or the compression of Version 1. Version 4 is clearly human but too clumsy and repetitive to publish.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "O",
+    "4": "E"
+  }
+}

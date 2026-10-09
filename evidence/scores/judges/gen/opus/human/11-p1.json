@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 4,
+    "4": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "The 'without turning the kitchen into a pressure cooker' line is a slightly polished, punny contrast, but otherwise none",
+    "2": "none; its clunky clichés ('keep your head when everyone else is losing theirs', 'not for the faint of heart') read as genuinely human",
+    "3": "Templated bold headers ('What you'll do:', 'What we're after:') plus the tidy tricolon 'real days off, nights that actually end, and a schedule you can plan a life around'",
+    "4": "The rhythmic tricolon 'real days off, nights that actually end, and a schedule you can plan a life around'"
+  },
+  "reason": "Version 2 sounds most like a real chef wrote it, but it's vague, repetitive and generic, so it's the weakest ad. Version 1 keeps the specific, confident voice of 3 and 4 without the bold-header template or the triple-beat flourish, so it reads most naturally among the strong versions.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "gen/E-write",
+    "3": "O",
+    "4": "B3"
+  }
+}

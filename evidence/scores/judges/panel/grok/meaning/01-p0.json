@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 2
+  },
+  "reason": "Version 1 keeps the numbers, call caveats, and outcomes with only small hedge and omission shifts. Version 4 is next despite dropping the lesson and hardening “hit or miss” to failure; version 2 keeps more of the arc but adds a one-month trial, quick results, and stronger claims; version 3 is least faithful, changing “rarely” to “never,” no-shows to missed appointments, and “didn’t get treated” to “may need treatment.”}",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "C",
+    "3": "E",
+    "4": "A"
+  }
+}

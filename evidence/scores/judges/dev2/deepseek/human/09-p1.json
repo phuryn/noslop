@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 1,
+    "3": 5,
+    "4": 3,
+    "5": 2
+  },
+  "send": "5",
+  "tells": {
+    "1": "Repetitive 'sorry... and sorry...' structure and clipped close make it feel template-like.",
+    "2": "none",
+    "3": "Overly polished corporate empathy with multiple apologies and phrases like 'That's not the experience we want you to have.'",
+    "4": "Reads like a lightly edited near-copy of version 1, not an original human phrasing.",
+    "5": "none"
+  },
+  "reason": "Version 2 reads most naturally human, but version 5 is the best to send because it is concise, precise, and warm without being too casual or over-apologetic.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "O",
+    "4": "B5",
+    "5": "B3"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2,
+    "4": 4
+  },
+  "reason": "Version 2 keeps the price, free US shipping, cancel-anytime and stay-as-long-as-you-like terms, dry-ingredient limit, and monthly-ritual meaning with only minor compression. Version 3 is close but hedges the scenes and loosens weighing into “skip the scale”; version 1 swaps “the good part” for mixing and drops “make room”; version 4 changes the slowing-down promise and adds claims the original never makes, including a new bake every month and suitability for every skill level.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "C",
+    "4": "E"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 3,
+    "4": 1,
+    "5": 6,
+    "6": 5
+  },
+  "send": "4",
+  "tells": {
+    "1": "none",
+    "2": "repeated 'covers' framing and awkward phrase 'putting their own pressure data to the same use'",
+    "3": "generic conference-copy phrases like 'This talk explores' and 'practical considerations'",
+    "4": "none",
+    "5": "duplicated 'Abstract Abstract', encoding glitch in 'Authorityâ€™s', and stiff passive wording",
+    "6": "awkward phrase 'making more of their own pressure data' instead of 'making more use of'"
+  },
+  "reason": "Version 4 sounds most like a real practitioner speaking: concrete, first-person, and candid without becoming sloppy. It balances usefulness and credibility better than the more templated alternatives.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "O",
+    "4": "C",
+    "5": "E",
+    "6": "B5"
+  }
+}

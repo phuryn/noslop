@@ -1,0 +1,16 @@
+{
+  "dropped": [],
+  "changed": [
+    {
+      "item": "'pressed a flask of tea into my hands' became 'pushed a flask of tea into my hands', which shifts the gesture from gentle and insistent to more forceful",
+      "severity": "minor"
+    },
+    {
+      "item": "'I hadn't thought about the screens...' became 'I hadn't thought once about...', which intensifies the claim to not even a single thought",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

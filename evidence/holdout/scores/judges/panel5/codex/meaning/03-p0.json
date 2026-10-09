@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 3,
+    "4": 1
+  },
+  "reason": "Version 4 preserves the original’s facts, instructions, support commitments, and reassurance most fully; version 1 mainly omits the closing gratitude. Version 3 loses the explicit step-by-step support promise and introduces plugging in, while version 2 omits the reassurance about questions and makes Crowd Focus’s benefit more categorical.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "C",
+    "4": "B5"
+  }
+}

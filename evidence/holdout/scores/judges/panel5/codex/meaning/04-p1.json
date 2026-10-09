@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 1,
+    "4": 4
+  },
+  "reason": "Version 3 preserves the original most closely; version 2 drops the explicit rest-and-recovery nuance and shifts the winter-preparation qualifier, while version 1 also omits the explicit welcome regardless of preparation progress and slightly strengthens the workshop commitment. Version 4 adds unsupported claims that most beekeepers had disappointing harvests and that the fondant has just arrived, while making winter preparation more prescriptive.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "B5",
+    "4": "C"
+  }
+}

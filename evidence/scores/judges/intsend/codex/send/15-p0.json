@@ -1,0 +1,11 @@
+{
+  "send": "4",
+  "reason": "It captures my focus on helping patients stick with their exercises and includes the details I confirmed: 312 videos, PT-built custom programs in Premium, and Gwen’s example. It keeps the subscription terms and medical caveat without inventing details about progress tracking or sharing.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "C",
+    "3": "track2/A-int",
+    "4": "track2/B5-int"
+  },
+  "picked_arm": "track2/B5-int"
+}

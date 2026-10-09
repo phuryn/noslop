@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "Version 1 best preserves the qualified contribution to the reduction; version 2 largely preserves the meaning but makes that qualification less explicit. Version 3 uses supplied facts, but “We did it with our existing SCADA pressure sensors” overstates attribution despite the writer’s caveat, and “You'll leave knowing how” adds a stronger instructional promise.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "track2/A-int",
+    "3": "track2/B5-int"
+  }
+}

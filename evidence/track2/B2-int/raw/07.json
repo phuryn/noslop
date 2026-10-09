@@ -1,0 +1,7 @@
+{
+  "id": 7,
+  "arm": "B2",
+  "reply1": "This is an operational status update with all its facts present, so I'm rewriting it without questions. The original is already plain, so I made only light edits: merged the first two sentences and made the date read more naturally.\n\n<final>\nMobile login migration to the new auth service is about 80% done, and the Android biometric flow is the remaining piece. We're still on track for Nov 3.\n</final>",
+  "asked": false,
+  "final": "Mobile login migration to the new auth service is about 80% done, and the Android biometric flow is the remaining piece. We're still on track for Nov 3."
+}

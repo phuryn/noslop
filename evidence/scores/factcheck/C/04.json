@@ -1,0 +1,30 @@
+{
+  "dropped": [
+    {
+      "item": "Characterization of garlic planting as 'a small job now'",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "Original says 'we're planting garlic' (the newsletter's own activity); edit turns it into an instruction to the reader ('Get it in the ground')",
+      "severity": "minor"
+    },
+    {
+      "item": "'plant them' became 'push each one in', which specifies a planting method",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "'our seed swap' implies the newsletter or its community organizes the event",
+      "severity": "minor"
+    },
+    {
+      "item": "'It's garlic-planting time!' frames now as the season for planting",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

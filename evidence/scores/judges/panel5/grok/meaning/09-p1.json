@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 5,
+    "3": 4,
+    "4": 1,
+    "5": 2
+  },
+  "reason": "Version 4 keeps every fact and commitment, dropping only extra courtesy. Versions 5 and 1 preserve the free replacement, warranty, and tracking with less drift than 3, which changes the subject, “replacement” to “new,” and who will act, while 2 omits the no-cost commitment.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "E",
+    "3": "C",
+    "4": "B5",
+    "5": "B3"
+  }
+}

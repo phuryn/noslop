@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 5,
+    "4": 1,
+    "5": 4
+  },
+  "send": "4",
+  "tells": {
+    "1": "none",
+    "2": "The stacked, motivational cadence and ornamental detail about salting the third plate feel generated rather than recalled.",
+    "3": "It reads like a flattened paraphrase, with safe repeated phrasing and little distinctive voice.",
+    "4": "none",
+    "5": "The clean, near-duplicate phrasing and bland 'Pay is' line feel machine-smoothed rather personally written."
+  },
+  "reason": "Version 4 sounds most like a skilled human writing a real kitchen job post: specific, conversational, and organized without feeling canned. Version 1 has raw human energy, but Version 4 is clearer and more publishable.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "O",
+    "3": "A",
+    "4": "C",
+    "5": "B3"
+  }
+}

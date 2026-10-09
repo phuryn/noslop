@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "Tacked-on evaluative closer with an em dash ('—a clear result for a team committed to maintaining high food safety standards')"
+  },
+  "reason": "Version 2 is plain and natural, with a 'came to us' framing that suits a case study and an outcome stated without spin. Version 1 is nearly as good but slightly flatter, while Version 3 adds a generic, praise-heavy summary clause that reads like AI padding and weakens credibility.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "O"
+  }
+}

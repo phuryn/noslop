@@ -1,0 +1,21 @@
+{
+  "dropped": [],
+  "changed": [
+    {
+      "item": "Subject line changed from 'Mycelium inserts' (a specific product) to 'Mycelium packaging?' (broader term, now phrased as a question)",
+      "severity": "minor"
+    },
+    {
+      "item": "'Samples are free' (a general offer) became 'I'm happy to send free samples', which makes it a personal offer from the sender",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "Purpose for the samples: 'so you can see how they hold up' (implies the samples are for testing durability or performance)",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

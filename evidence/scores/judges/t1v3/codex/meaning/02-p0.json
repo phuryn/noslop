@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 2
+  },
+  "reason": "Version 1 best preserves the tentative offer and discussion of fit; version 4 retains the tentative offer but omits the meeting’s explicit purpose. Version 2 strengthens the offer to “can cover,” while version 3 adds “anywhere” to the delivery scope and narrows last-minute needs to “occasional” runs.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B",
+    "3": "C",
+    "4": "B3"
+  }
+}

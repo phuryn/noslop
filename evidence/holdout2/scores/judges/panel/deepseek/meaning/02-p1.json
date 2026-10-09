@@ -1,0 +1,11 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2
+  },
+  "reason": "Version 1 preserves more of the original’s key statements, including the thank-you, while Version 2 drops both closing sentences and slightly rephrases the opening. Both omit the examples about work, keeping in touch, or relaxing, but Version 2 loses more of the original nuance.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3"
+  }
+}

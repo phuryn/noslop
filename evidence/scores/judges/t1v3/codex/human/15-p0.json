@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 5,
+    "4": 1,
+    "5": 4
+  },
+  "send": "4",
+  "tells": {
+    "1": "Stock conversational phrases pile up: 'give you a nudge,' 'bouncing back,' and 'keep you moving forward.'",
+    "2": "Generic promotional padding, especially 'guidance you can trust' and 'unlock more of what the app has to offer.'",
+    "3": "'Adds more to the app' reads like a placeholder left after stripping out promotional language.",
+    "4": "none",
+    "5": "The awkward phrase 'shows the form for the movement' reads like a mechanical simplification."
+  },
+  "reason": "Version 4 best balances useful detail, natural phrasing, and restraint for an App Store description; version 1 has more personality but occasionally sounds forced. These are editorial judgments, not reliable evidence of AI authorship, and the Premium offering needs a concrete explanation in every version.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "O",
+    "3": "B",
+    "4": "B3",
+    "5": "A"
+  }
+}

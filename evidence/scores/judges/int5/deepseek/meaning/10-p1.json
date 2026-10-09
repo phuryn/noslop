@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2
+  },
+  "reason": "Version 1 preserves all key facts, numbers, timing, and rationale. Version 3 is nearly as faithful but slightly less precise in phrasing the price change, while Version 2 omits the 'more options during the week' nuance.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "track2/A-int",
+    "3": "track2/B5-int"
+  }
+}

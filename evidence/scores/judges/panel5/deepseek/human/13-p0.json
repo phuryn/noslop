@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 4,
+    "4": 6,
+    "5": 3,
+    "6": 5
+  },
+  "send": "2",
+  "tells": {
+    "1": "Slightly stiff corporate phrasing and the unnatural phrase 'for good reasons we can't reverse'.",
+    "2": "None",
+    "3": "Uniform parallel bullets and standard business jargon such as 'structural decline' and 'mitigations'.",
+    "4": "Templated bold lead-ins and repeated 'Mitigation:' tags make it feel overly AI-polished.",
+    "5": "None (human, but informal and unpolished).",
+    "6": "Markdown headings and very consistent paragraph structure with no human asides."
+  },
+  "reason": "Version 2 best balances clarity, credibility, and a natural human voice, avoiding both the overly templated feel of the polished versions and the sloppiness of the raw draft.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "C",
+    "3": "B3",
+    "4": "O",
+    "5": "E",
+    "6": "A"
+  }
+}

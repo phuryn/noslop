@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "Faint: the 'BUILT FOR REAL RECOVERY' header and 'how far you've come' are stock phrasing, but the conversational voice ('Maybe you're bouncing back', 'we'll give you a nudge') reads natural.",
+    "2": "Vague filler about the paid tier: 'Premium... adds more to the app' says nothing concrete; otherwise clean and plain.",
+    "3": "Over-flattened: stripped of any persuasion, with stiff phrasing like 'Each video shows the form for the movement' that no copywriter would ship for an App Store page.",
+    "4": "Stock marketing clichés: 'guidance you can trust', 'so you always know what to do and how to do it right', 'unlock more of what the app has to offer', 'keep your recovery moving'."
+  },
+  "reason": "Version 1 has a warm, specific, conversational voice that suits consumer App Store copy while keeping the required subscription and medical disclaimers intact. Versions 2 and 3 are clear but flat, and 4 leans on generic marketing boilerplate.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B",
+    "3": "A",
+    "4": "O"
+  }
+}

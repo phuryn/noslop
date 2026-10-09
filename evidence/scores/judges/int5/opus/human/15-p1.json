@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none. Its specifics (312 videos, a named user, what Premium actually unlocks, a point of view on adherence) read as a writer who knows the product. The opening sentence about skipping exercises is a bit clunky.",
+    "2": "Vague filler carried over from a template, such as 'get more of what the app has to offer' and 'keep your recovery moving'. The 'Maybe you're healing...' line reads as a mechanical rewording of 'Whether you're...'.",
+    "3": "Stock marketing phrasing like 'guidance you can trust', 'so you always know what to do', 'keep your recovery moving' and 'unlock more of what the app has to offer', with no concrete details.",
+    "4": "Over-flattened to the point of having no voice or reason to buy. The Premium line gives a price but no benefit, which looks like filler was stripped without real content being added."
+  },
+  "reason": "Version 1 is the only one with concrete, checkable details and a clear angle on the real problem (adherence), and it tells users what Premium actually gets them. Before publishing, confirm the Gwen Harper testimonial is real and consented, and that the outcome claim meets App Store health-claim guidelines.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "B5",
+    "3": "O",
+    "4": "track2/A-int"
+  }
+}

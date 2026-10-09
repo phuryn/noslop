@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "stock closer, “gives you a fuller picture”",
+    "3": "paired em dashes and a stacked sales closer (“practical way… fuller picture… make the most of”)",
+    "4": "tidy “which helps guide care” clause, then an abrupt price drop"
+  },
+  "reason": "Version 1 sounds like a clinic writer: specific, credible, and finished, with a practical add-on instead of benefit stacking. Version 3 is the most polished and the least human.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "track2/B3-int",
+    "3": "O",
+    "4": "B3"
+  }
+}

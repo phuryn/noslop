@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 1,
+    "3": 7,
+    "4": 2,
+    "5": 4,
+    "6": 3,
+    "7": 6
+  },
+  "send": "6",
+  "tells": {
+    "1": "Em-dash 'X for you, Y for them—all in one' headline and the tidy work-and-care pairing.",
+    "2": "none",
+    "3": "Rhetorical-question hook locked to the symmetrical time-for-work-and-time-for-care line.",
+    "4": "The stock closer about time for work and time for care.",
+    "5": "Stiff parallel session wording and the bolted-on 'you see the price before you book.'",
+    "6": "Generic filler: whatever needs your attention.",
+    "7": "Question opener plus the balanced time-for-work-and-time-for-care sentence."
+  },
+  "reason": "Version 2 is the only one that sounds spoken and local rather than rewritten, so it ranks as most human, but the typos and missing price make it unpublishable. I would send 6: it keeps a natural voice, states the offer cleanly, and drops the stock work-and-care cadence.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "E",
+    "3": "V6C",
+    "4": "C",
+    "5": "A",
+    "6": "B5",
+    "7": "V6A"
+  }
+}

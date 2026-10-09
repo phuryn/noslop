@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 3,
+    "3": 1,
+    "4": 2
+  },
+  "reason": "Version 3 is closest to the original wording and preserves all facts and nuances, while Version 4 is nearly identical but slightly rephrases a couple of clauses. Version 2 omits the 'small job now' nuance and changes the invitation wording slightly, and Version 1 omits the chat/ideas invitation and adds 'this Saturday'.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "C",
+    "3": "A",
+    "4": "B3"
+  }
+}

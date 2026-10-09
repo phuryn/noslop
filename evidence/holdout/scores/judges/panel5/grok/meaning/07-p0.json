@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1,
+    "4": 4
+  },
+  "reason": "Version 3 retains every original element, including the thanks and question invitation, with only minor rephrasing. Version 1 drops the thanks, version 2 drops both the thanks and the invitation, and version 4 alters apology intensity, app specificity, and refund status while adding a help promise.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "B5",
+    "4": "C"
+  }
+}

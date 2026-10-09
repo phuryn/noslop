@@ -1,0 +1,11 @@
+{
+  "send": "none",
+  "reason": "Version 1 overclaims that the pressure work caused the full non-revenue water reduction, contradicting the writer's caveat not to claim a split; versions 3 and 4 omit the speaker's name and credentials, and version 2 has the wrong speaker.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "E",
+    "3": "track2/A-int",
+    "4": "C"
+  },
+  "picked_arm": "none"
+}

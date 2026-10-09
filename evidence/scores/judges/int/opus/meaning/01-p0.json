@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1
+  },
+  "reason": "Version 2 keeps nearly all of the original's facts, the lesson and the closing question, with only light rewording. Version 3 drops the closing question and the 'matters for both' line, and turns the hedged 'sometimes the biggest wins' into a definite claim. Version 1 adds only facts from the writer's answers but cuts the most original content: the outcomes list, the 'every no-show' point, the lesson and the closing question.",
+  "label_to_arm": {
+    "1": "track2/B3-int",
+    "2": "track2/A-int",
+    "3": "B3"
+  }
+}

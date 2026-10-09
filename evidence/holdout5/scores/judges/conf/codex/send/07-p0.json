@@ -1,0 +1,13 @@
+{
+  "send": "6",
+  "reason": "It keeps the facts, caveats, alternatives and no-obligation offer intact, including the reassurance that a plan may still be right for you. The phrasing and paragraph breaks feel natural while preserving my thoughtful, low-pressure tone.",
+  "label_to_arm": {
+    "1": "V6A",
+    "2": "E",
+    "3": "A",
+    "4": "V6C",
+    "5": "C",
+    "6": "B5"
+  },
+  "picked_arm": "B5"
+}

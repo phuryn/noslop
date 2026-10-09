@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 4,
+    "3": 2,
+    "4": 1,
+    "5": 6,
+    "6": 5
+  },
+  "send": "4",
+  "tells": {
+    "1": "Opening with 'Would Reel North Cinemas be open to trying' plus the 'It could suit customers who...' line reads like a tidy, neutral rewrite with no personal voice.",
+    "2": "The 'I wanted to see if you'd be open to' opener and evenly split one-idea paragraphs feel templated.",
+    "3": "None. The run-ons, typos ('trialing in', 'cinema's') and clumsy phrasing are clearly human, just unpolished.",
+    "4": "None. The enthusiastic 'I'd love to', the concrete 'crisp' and the natural 'take in to a film' carry a real voice.",
+    "5": "Addressing the company in the third person ('Would Reel North Cinemas try') sounds stilted, as does the hedged 'could be a good fit'.",
+    "6": "Stock filler phrases like 'could be a good fit' and 'It'd give your teams a chance to', plus uniformly smoothed paragraphs."
+  },
+  "reason": "Version 4 keeps the facts clean while sounding like a real person who wants the deal, with warmth and one specific descriptor. Version 3 is the most obviously human but too error-ridden to send to a potential partner.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "A",
+    "3": "E",
+    "4": "C",
+    "5": "B3",
+    "6": "O"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "send": "4",
+  "reason": "It keeps the date change, lighting fix, and volunteer request intact while best matching the original's concise, upbeat tone and formatting.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "E",
+    "3": "A",
+    "4": "C"
+  },
+  "picked_arm": "C"
+}

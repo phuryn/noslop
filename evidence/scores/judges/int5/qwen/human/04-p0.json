@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 3,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "none",
+    "2": "the em dash and colon give it an overly packaged, AI-polished cadence",
+    "3": "smooth but generic rhythm, especially the stock pivot 'Then comes the hardest part:'",
+    "4": "none"
+  },
+  "reason": "Version 4 has the most natural, practical voice, with concrete verbs and clean pacing. It avoids the slightly templated flourish of 2 and 3 while reading like a person rather than a polished draft.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "O",
+    "3": "track2/A-int",
+    "4": "B5"
+  }
+}

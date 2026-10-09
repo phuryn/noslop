@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 1,
+    "3": 5,
+    "4": 3,
+    "5": 2
+  },
+  "send": "2",
+  "tells": {
+    "1": "Compresses capability, stat and offer into one dense paragraph, so it reads like a tidy template summary.",
+    "2": "none",
+    "3": "Stacks two questions as separate one-line paragraphs, a rhetorical 'Could we help...?' followed by a formal 'Would you have...?', which feels like a template; 'We provide refrigerated trucking' is also stiff.",
+    "4": "The ending 'Do you have 15 minutes next week to talk?' is clipped and doesn't give the reader a reason to say yes. It reads as functional rather than written with this reader in mind.",
+    "5": "'whether that fits what you need' is slightly hedged, safe filler, though 'pick up last-minute loads' sounds natural."
+  },
+  "reason": "Version 2 sounds like someone talking: 'the occasional last-minute run' and 'glad to pitch in' are warm without being salesy, and stating the 99.2% figure as deliveries arriving on time is concrete and credible. It also offers help before asking for time, which makes the ask feel earned.",
+  "label_to_arm": {
+    "1": "B",
+    "2": "C",
+    "3": "O",
+    "4": "B3",
+    "5": "A"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2
+  },
+  "reason": "Version 2 preserves the original wording and all facts, numbers, and caveats exactly. Version 3 keeps all key information with only a harmless reorder, while Version 1 slightly weakens the temperature requirement and adds minor phrasing nuances.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B3"
+  }
+}

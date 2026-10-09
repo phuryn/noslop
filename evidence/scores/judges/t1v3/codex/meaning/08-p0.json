@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+  },
+  "reason": "Version 1 best preserves the claims and caveats, though it drops the panel’s stated value; version 2 also drops that value, removes the qualification that symptoms are noticeable, and makes checkup availability explicit. Version 3 more directly recommends bloodwork and omits its role in guiding care, while version 4 makes the strongest changes: age 7 rather than after 7, any signs rather than noticeable symptoms, and a “full” rather than “fuller” picture.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "B",
+    "3": "A",
+    "4": "C"
+  }
+}

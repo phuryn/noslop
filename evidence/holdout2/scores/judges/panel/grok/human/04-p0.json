@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "Stiff “They then passed” leap and an even three-sentence template cadence.",
+    "2": "none",
+    "3": "Em-dash closer padded with empty praise (“a clear result for a team committed to…”)."
+  },
+  "reason": "Version 2 states the facts without puffery and uses “went on to,” which reads like a careful human avoiding a false causal claim. Version 3’s evaluative tag is the clearest machine tell.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "O"
+  }
+}

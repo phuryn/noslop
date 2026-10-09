@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "The familiar phrase 'meeting patients where they already are' makes the takeaway feel generic.",
+    "2": "The accumulation of caveats, precise details, and unresolved exceptions feels engineered to signal authenticity rather than selected for the reader.",
+    "3": "The formulaic progression from headline metric to three benefits, uplifting lesson, and engagement question.",
+    "4": "The generic 'My takeaway' sentence and appended engagement question feel templated."
+  },
+  "reason": "Version 1 has the strongest balance of clarity, restraint, and natural flow. Version 4 is close but overstates causality with 'All we did'; version 2 buries useful operational detail in distracting qualifications, while version 3 feels the most formulaic.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "track2/B3-int",
+    "3": "O",
+    "4": "track2/A-int"
+  }
+}

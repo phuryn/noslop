@@ -1,0 +1,11 @@
+{
+  "send": "1",
+  "reason": "Version 1 keeps every fact and commitment: the new 19 Nov date, the lighting fix, 4 volunteers Saturday, and 'we'll confirm details'. It still sounds like me, minus the bold and one throwaway line. Version 3 shifts the follow-up to 'I'll send details', version 2 garbles the lighting point and drops the reason for the delay, and version 4 drops the upbeat closing.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "E",
+    "3": "C",
+    "4": "A"
+  },
+  "picked_arm": "B5"
+}

@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 1,
+    "4": 3
+  },
+  "reason": "Version 3 preserves the original exactly in substance, and version 2 preserves all requirements while moving the compatibility check earlier. Version 4 narrows the temperature requirement to curing, while version 1 weakens it to advice about when to work and adds an unsupported assurance that the fix is easy.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B3",
+    "3": "A",
+    "4": "B5"
+  }
+}

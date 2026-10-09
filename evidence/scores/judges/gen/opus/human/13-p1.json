@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+  },
+  "send": "2",
+  "tells": {
+    "1": "none",
+    "2": "Template-perfect section scaffolding (Why now / Rationale / Risks and mitigations / Financial summary with [$X] placeholders), though the prose itself reads naturally",
+    "3": "Repeated 'Mitigation:' labels and uniform parallel bullet structure that feel auto-generated",
+    "4": "Bolded lead-in phrase on every list item plus stock phrasing like 'enhanced in-store experience' and 'I'm happy to walk through'"
+  },
+  "reason": "Version 1 is clearly human but rambling, vague and repetitive ('successful in closing the stores'), so it is weak for leadership. Version 2 keeps the strong structure and specifics of 3 and 4 but writes the mitigations as plain first-person commitments ('We will...'), which reads as the most credible and least templated.",
+  "label_to_arm": {
+    "1": "gen/E-write",
+    "2": "A",
+    "3": "B3",
+    "4": "O"
+  }
+}

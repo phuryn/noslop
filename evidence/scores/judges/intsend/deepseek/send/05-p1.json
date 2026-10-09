@@ -1,0 +1,11 @@
+{
+  "send": "1",
+  "reason": "It preserves the original structure, facts, commitments, and caveats almost exactly while making only minor tightening edits, so it reads like the writer's own draft.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "C",
+    "3": "track2/A-int",
+    "4": "E"
+  },
+  "picked_arm": "track2/B5-int"
+}

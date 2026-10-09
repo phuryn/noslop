@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 4,
+    "3": 2,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "The compatibility check comes after the application instruction, giving it a templated, assembled feel.",
+    "2": "It is virtually identical to version 1, with only the apostrophe style changing, which feels like a generated variant.",
+    "3": "The chirpy opening question and misplaced 'Before you start' after the application step feel formulaic.",
+    "4": "none"
+  },
+  "reason": "Version 4 is the clearest and most logically sequenced, with a practical tone that reads like a human edit. Version 3 is friendly but slightly canned, and versions 1 and 2 have awkward ordering.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "A",
+    "3": "C",
+    "4": "B3"
+  }
+}

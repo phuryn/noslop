@@ -1,0 +1,11 @@
+{
+  "send": "1",
+  "reason": "It keeps the 99.2% on-time claim tied to the 2-hour window, leads with regular routes while stating the 42-truck capacity limit, mentions remote temperature monitoring, and asks for an intro call without pushing a quote or trial.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "C",
+    "3": "track2/A-int",
+    "4": "E"
+  },
+  "picked_arm": "track2/B5-int"
+}

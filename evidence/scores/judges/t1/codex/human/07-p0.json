@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "Uniform, clipped sentences give it a slightly mechanical rhythm; 'target date' adds unnecessary formality.",
+    "4": "'Nov 3 target date' sounds slightly padded compared with 'Nov 3.'"
+  },
+  "reason": "Version 1 has the most natural Slack voice and rhythm, and 'only big piece left' avoids overstating how little work remains. Version 4 is concise and readable, version 2 feels crowded, and version 3 feels mechanical; these are stylistic judgments, not evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B",
+    "3": "O",
+    "4": "A"
+  }
+}

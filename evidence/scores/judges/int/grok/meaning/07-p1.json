@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2
+  },
+  "reason": "All three keep the ~80% progress, the Android biometric flow as the remaining work, and the Nov 3 on-track commitment. Version 1 changes nothing substantive; version 3 only joins clauses; version 2 adds “only,” slightly strengthening how exclusive the remaining work is.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "track2/A-int",
+    "3": "track2/B3-int"
+  }
+}

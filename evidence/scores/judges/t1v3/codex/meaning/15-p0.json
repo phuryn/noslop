@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 2,
+    "4": 3
+  },
+  "reason": "Version 1 preserves nearly all substantive content; version 3 omits that Premium unlocks more of the app. Version 4 introduces therapist-provided “routines” and an easier-recovery claim, while version 2 loses the more concrete commitments that users can start at no cost and view their progress.",
+  "label_to_arm": {
+    "1": "B",
+    "2": "A",
+    "3": "B3",
+    "4": "C"
+  }
+}

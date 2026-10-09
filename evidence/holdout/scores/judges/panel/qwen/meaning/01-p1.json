@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1
+  },
+  "reason": "Version 3 is most faithful, preserving the milestone, member credit, and exact apprenticeship details. Version 1 is next because it keeps the member-credit and 'real money' points, while Version 2 changes the member-ownership nuance and drops 'real' despite preserving paid training.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B3"
+  }
+}

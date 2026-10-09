@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2
+  },
+  "reason": "Version 1 most closely preserves the recommendation, early detection before noticeable symptoms, and baseline tracking. Version 3 makes bloodwork more explicitly mandatory and drops the 'noticeable' symptom qualifier; version 2 loses early detection and baseline tracking while adding a stronger 'highly beneficial' claim.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "E",
+    "3": "A"
+  }
+}

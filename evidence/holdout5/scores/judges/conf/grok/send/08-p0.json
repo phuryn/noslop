@@ -1,0 +1,13 @@
+{
+  "send": "2",
+  "reason": "It keeps every commitment: one combined booking on MacCurtain Street, the two half-day times, no separate arrangements, same-place time for work and care, four focused hours, and the €28 all-in price known before booking. The others drop the care-time line, broaden that caveat, or add claims you did not make.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "V6C",
+    "3": "A",
+    "4": "V6A",
+    "5": "C",
+    "6": "E"
+  },
+  "picked_arm": "V6C"
+}

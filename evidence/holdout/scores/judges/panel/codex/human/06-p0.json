@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 3,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "The canned question-and-reassurance opening and extra conversational padding feel manufactured, though neither proves AI authorship.",
+    "2": "none",
+    "3": "none",
+    "4": "none"
+  },
+  "reason": "Version 4 gives clear, natural instructions and puts the compatibility check before application. Versions 2 and 3 differ only in apostrophe typography, so their separate ranks are arbitrary; version 1 adds chatter without improving the guidance.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "O",
+    "4": "B3"
+  }
+}

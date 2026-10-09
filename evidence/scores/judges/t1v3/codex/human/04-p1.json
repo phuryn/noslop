@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2,
+    "4": 5,
+    "5": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "none",
+    "4": "none",
+    "5": "none"
+  },
+  "reason": "Version 1 has the strongest reader-facing voice: its lively opening, concrete verbs and conversational invitation suit a community gardening newsletter. Version 3 is the tightest alternative; the remaining differences are small editorial preferences, with no convincing AI tell in any version.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B3",
+    "3": "B",
+    "4": "O",
+    "5": "A"
+  }
+}

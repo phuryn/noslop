@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1,
+    "4": 4
+  },
+  "reason": "Version 3 keeps every duty, schedule promise, standard, and pay figure. Version 1 drops only the “plan a life around” nuance; version 2 adds a tasting duty and a “decent hour” promise and softens “slammed”; version 4 omits several duties and standards and changes the contact and the leadership quality sought.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "B3",
+    "4": "E"
+  }
+}

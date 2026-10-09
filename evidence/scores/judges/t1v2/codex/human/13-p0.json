@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 5,
+    "4": 1,
+    "5": 3
+  },
+  "send": "4",
+  "tells": {
+    "1": "Repeated “Mitigation:” labels make the risk section feel mechanically assembled.",
+    "2": "The systematic conversational makeover—“The numbers,” “Our people are affected,” “make the final call”—feels applied rather than natural to the writer.",
+    "3": "Bold thesis statements, abstract business language, and repeated “Mitigation:” labels create an overly templated rhythm.",
+    "4": "Some inherited corporate phrasing, especially “brand pull” and “capture customers,” still feels generic.",
+    "5": "Repeated “We will” sentences and awkward phrasing such as “declining structurally” suggest mechanical editing."
+  },
+  "reason": "Version 4 best balances direct language, concision, and a credible leadership tone; these are stylistic judgments, not reliable evidence of authorship. Before sending, I would correct the shared timing problem: October is already within the stated renewal window, and the actual notice deadlines should determine the decision date.",
+  "label_to_arm": {
+    "1": "B2",
+    "2": "C",
+    "3": "O",
+    "4": "B",
+    "5": "A"
+  }
+}

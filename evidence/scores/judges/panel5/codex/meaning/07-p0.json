@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 4,
+    "3": 1,
+    "4": 2
+  },
+  "reason": "Version 3 preserves the original most exactly; version 4 closely follows it, making the sole remaining piece explicit. Version 1 slightly narrows 'biometric flow' to 'biometric login' and drops the explicit target-date wording, while version 2 introduces 'big,' implying other smaller pieces may remain.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "C",
+    "3": "B3",
+    "4": "A"
+  }
+}

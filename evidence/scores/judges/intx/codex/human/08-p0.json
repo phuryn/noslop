@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 5,
+    "5": 4
+  },
+  "send": "2",
+  "tells": {
+    "1": "The closing reassurance about explaining rather than pushing feels self-consciously crafted to establish trust.",
+    "2": "none",
+    "3": "The generic sales phrase 'a simple way to get the full picture' overstates what the test provides.",
+    "4": "The closing stacks familiar promotional phrases: 'a practical way,' 'a fuller picture,' and 'make the most.'",
+    "5": "none"
+  },
+  "reason": "Version 1 feels most human through its specific observations and qualified advice, but its anecdote has a confusing timeline and its factual additions need verification. I would publish version 2 for its clarity, restraint, and concrete explanation of the benefit; stylistic tells alone do not establish AI authorship.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "track2/A-int",
+    "3": "C",
+    "4": "O",
+    "5": "E"
+  }
+}

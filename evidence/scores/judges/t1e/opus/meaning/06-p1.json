@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3
+  },
+  "reason": "Version 2 keeps every fact, commitment, and nuance, including the 'more time' benefit and the 'one kit' framing, with only light rephrasing. Version 1 keeps all the facts but drops the 'more time' benefit and turns 'give yourself something to look forward to' into a claim. Version 3 replaces the headline and adds new claims ('something new every month', suitable for first-time and experienced bakers) while dropping the slow, cozy moments.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "E"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 3,
+    "4": 1
+  },
+  "reason": "Version 4 best preserves the original acknowledgments and explicit offer of help; versions 2 and 3 retain the core facts and commitments but omit those nuances, with 2 more explicitly preserving the product name and tracking recipient. Version 1 additionally promises a new battery rather than merely a replacement and changes team commitments to personal ones.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B3",
+    "3": "A",
+    "4": "B5"
+  }
+}

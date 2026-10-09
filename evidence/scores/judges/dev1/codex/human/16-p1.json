@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 3,
+    "4": 5,
+    "5": 2
+  },
+  "send": "5",
+  "tells": {
+    "1": "The repeated short sentences can feel deliberately engineered for a conversational, poignant effect.",
+    "2": "The balanced semicolon construction and neatly resolved closing contrast feel slightly overpolished.",
+    "3": "none",
+    "4": "Filtering phrases such as 'I found myself doing' and 'hadn’t given much thought' soften the voice into something more generic.",
+    "5": "none"
+  },
+  "reason": "Version 1 has the most individual voice, particularly in the remembered teaching difficulties and understated final sentences. I would publish 5 for its direct opening, natural pacing, and emotional restraint; these stylistic impressions do not establish AI authorship.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B5",
+    "4": "O",
+    "5": "B3"
+  }
+}

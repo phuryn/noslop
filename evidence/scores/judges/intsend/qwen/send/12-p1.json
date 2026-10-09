@@ -1,0 +1,11 @@
+{
+  "send": "4",
+  "reason": "It includes the correct bio and the supplied specifics—timeframe, water savings, cost, false-positive rate, threshold-rule caveat, and the school leak example—while keeping the core message about using existing pressure data.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "E",
+    "3": "C",
+    "4": "track2/B5-int"
+  },
+  "picked_arm": "track2/B5-int"
+}

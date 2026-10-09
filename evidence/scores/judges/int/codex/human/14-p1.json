@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "The imagined afterlife of a purchased book feels like generic sentimental filler where a shop-specific memory would carry more weight.",
+    "3": "Repeated facts and conspicuously balanced rhythms—'Every shelf, every table, every book' and 'Maybe… Maybe…'—make the warmth feel rehearsed.",
+    "4": "'One of the lovely things about ten years in a bookshop' introduces a polished but generic reflection, reinforced by the repeated 'Maybe' phrasing."
+  },
+  "reason": "Version 1 earns its warmth through a named customer, a specific rescue amount, and an unexpected bestseller, assuming those details are accurate; its fifth post could use trimming. Version 2 is more economical than 3 and 4, whose repetition feels increasingly formulaic, though these are stylistic judgments rather than evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "track2/B3-int",
+    "2": "B3",
+    "3": "track2/A-int",
+    "4": "O"
+  }
+}

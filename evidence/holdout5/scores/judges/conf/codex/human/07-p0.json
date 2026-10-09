@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 2,
+    "3": 6,
+    "4": 1,
+    "5": 4,
+    "6": 3,
+    "7": 7
+  },
+  "send": "4",
+  "tells": {
+    "1": "Repeated reassurance and the polished closing feel formulaic; 'could be left to be paid for later' is unnecessarily indirect.",
+    "2": "The standalone reassurance paragraph and carefully comforting closing feel slightly scripted.",
+    "3": "Uniformly smooth, qualified sentences and phrases such as 'better served by' give it a generic editorial voice.",
+    "4": "The closing phrase 'nothing more than a clearer idea of your options' feels like stock soft-sell copy.",
+    "5": "The repeated reassurance and polished invitation create a slightly overmanaged tone.",
+    "6": "'Better served by' and 'the provider's terms alter' sound impersonal beside the conversational opening.",
+    "7": "none"
+  },
+  "reason": "Version 4 offers the best balance of natural phrasing, readable structure and sensitivity; version 2 is close but feels more deliberately packaged. Version 7 sounds spontaneous but needs substantial editing, and these stylistic impressions do not establish AI authorship.",
+  "label_to_arm": {
+    "1": "V6C",
+    "2": "C",
+    "3": "O",
+    "4": "B5",
+    "5": "V6A",
+    "6": "A",
+    "7": "E"
+  }
+}

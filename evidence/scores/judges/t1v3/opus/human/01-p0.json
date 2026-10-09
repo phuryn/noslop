@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 1,
+    "3": 2,
+    "4": 3,
+    "5": 5
+  },
+  "send": "2",
+  "tells": {
+    "1": "The 'A no-show isn't just a hole in the schedule. It's...' reframe, plus a tidy 'What I took from this:' lesson line before the stock engagement question.",
+    "2": "Mild: the 'fewer empty chairs, less phone time, more patients get care' triplet, though it's buried in a normal sentence.",
+    "3": "The 'biggest operational wins come from meeting people where they already are' platitude.",
+    "4": "A tacked-on aphorism ('meeting patients where they already are') and a polished three-part benefits list.",
+    "5": "Templated LinkedIn structure: 'The change was simple:', 'Here's what that meant in practice:' with a three-item bullet list, 'The lesson for me:', then a closing engagement question."
+  },
+  "reason": "Version 2 is tight and concrete and leads with the result. It skips the moralizing aphorism and listicle scaffolding, so it reads like a busy operator wrote it, while still ending with a natural prompt for replies.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B",
+    "4": "B3",
+    "5": "O"
+  }
+}

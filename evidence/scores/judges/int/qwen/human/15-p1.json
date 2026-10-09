@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 4,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "The awkward founder rationale and the tacked-on testimonial/rating details feel inserted rather than naturally integrated.",
+    "2": "Safe, generic phrasing and a template-like structure make it feel more functional than crafted.",
+    "3": "Stock motivational phrases such as 'guidance you can trust', 'real recovery', and 'unlock more of what the app has to offer'.",
+    "4": "none"
+  },
+  "reason": "Version 4 reads like clean, ready-to-publish App Store copy: clear, credible, and not over-written. Version 1 has more personality, but it needs editing and its extra claims make it less safe to send as-is.",
+  "label_to_arm": {
+    "1": "track2/B3-int",
+    "2": "track2/A-int",
+    "3": "O",
+    "4": "B3"
+  }
+}

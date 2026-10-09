@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 1,
+    "4": 3,
+    "5": 5,
+    "6": 6
+  },
+  "send": "3",
+  "tells": {
+    "1": "none",
+    "2": "Repeated 'Mitigation:' labels make the risk section feel mechanically assembled.",
+    "3": "Stock phrases such as 'full brand experience' and 'stronger potential returns' substitute polished assertions for supporting evidence.",
+    "4": "Conspicuously conversational substitutions such as 'run out,' 'let it slide,' and 'make the final call' suggest a systematic attempt to sound informal.",
+    "5": "Awkward paraphrases introduce meaning changes: 'declining for good reasons' and putting talent and inventory 'in one place.'",
+    "6": "Uniform bold lead-ins, repeated 'Mitigation:' labels, and abstract business phrasing create the strongest template feel."
+  },
+  "reason": "Version 3 best combines professional structure, direct sentences, and natural ownership; version 1 sounds spontaneous but needs substantial editing to read like a skilled executive memo. Before sending 3, I would verify the lease claims and correct the timing: October is already within the stated renewal window, and stylistic tells alone cannot establish AI authorship.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "B3",
+    "3": "A",
+    "4": "C",
+    "5": "B5",
+    "6": "O"
+  }
+}

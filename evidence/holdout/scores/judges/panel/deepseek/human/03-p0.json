@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 4,
+    "3": 1,
+    "4": 2
+  },
+  "send": "3",
+  "tells": {
+    "1": "The summary line 'Firmware 3.4 adds two improvements' and flat rollout wording feel like templated corporate/AI phrasing.",
+    "2": "The clipped 'It adds two things' and abrupt 'Your hearing aids will also run longer on each charge' feel like AI simplification.",
+    "3": "none",
+    "4": "The phrase 'Crowd Focus helps your hearing aids bring the voice in front of you forward' is slightly over-worded and awkward, a common AI over-explanation."
+  },
+  "reason": "Version 3 is the most natural and warm, with conversational phrasing and clear structure that doesn't feel templated. I would send it because it balances scannability, clarity, and human tone best.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "C",
+    "4": "O"
+  }
+}

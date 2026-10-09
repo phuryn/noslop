@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 5,
+    "3": 3,
+    "4": 2,
+    "5": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "Clichéd motivational phrasing like 'Never miss a session again' and 'watch your progress grow!'",
+    "2": "Reads like a dry summary with a plain opening and vague 'unlocks additional features'.",
+    "3": "Very even, templated bullet structure and the standard 'Whether you're healing...' formula.",
+    "4": "Vague benefit line 'unlock more of what the app has to offer' and slightly generic trust phrase 'guidance you can trust'.",
+    "5": "none"
+  },
+  "reason": "Version 5 reads most naturally human, but version 4 is the strongest app-store copy because it balances clarity, credibility, and warmth without becoming too casual.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "A",
+    "3": "B3",
+    "4": "O",
+    "5": "C"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "send": "4",
+  "reason": "It keeps all the key facts and commitments, including the schedule, pay, duties, and expectations, without adding new claims. It also preserves the original voice better than the others.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "E",
+    "4": "B5"
+  },
+  "picked_arm": "B5"
+}

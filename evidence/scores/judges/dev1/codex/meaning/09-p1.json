@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 3,
+    "3": 2,
+    "4": 1
+  },
+  "reason": "Version 4 preserves all substantive facts and commitments while retaining the thanks for patience. Versions 3 and 2 are nearly equivalent, with 3 retaining the full product reference; version 1 adds a promise of a new battery and changes team commitments to personal ones.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B3",
+    "4": "B5"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 4,
+    "4": 5,
+    "5": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "Stock phrases such as “We wanted to let you know” and “stay tuned,” with unnecessary exclamation marks.",
+    "4": "“On a happier note” feels like manufactured warmth; the explanation of the delayed increase is overdone.",
+    "5": "“When the new $135 rate will take effect for you” adds a mildly formulaic, administrative tone."
+  },
+  "reason": "Version 2 is direct, natural, and clear about both pricing dates without trying to soften the news with extra cheerfulness. These are stylistic judgments, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "E",
+    "4": "C",
+    "5": "O"
+  }
+}

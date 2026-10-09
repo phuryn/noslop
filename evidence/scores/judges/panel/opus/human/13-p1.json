@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 5,
+    "3": 2,
+    "4": 3,
+    "5": 1
+  },
+  "send": "3",
+  "tells": {
+    "1": "Uniform 'Mitigation:' labels and polished, consultant-style phrasing ('spread management attention and cash thin', 'stronger potential returns on incremental investment').",
+    "2": "A bolded summary lead-in on every list item, plus stock phrasing like 'structurally declining', 'natural exit' and 'I'm happy to walk through'.",
+    "3": "Bolded lead-ins on every bullet, though the prose itself is plain and conversational.",
+    "4": "Markdown ## headers in an internal memo, plus template phrasing ('full brand experience', 'incremental investment').",
+    "5": "none"
+  },
+  "reason": "Version 5 is clearly human but rambling, vague and repetitive ('subject to the whims', 'eggs in one basket'), so it is the least credible to leadership. Version 3 is just as clear and complete as the polished drafts but sounds like a real person arguing a case, so it is the best one to send.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "O",
+    "3": "C",
+    "4": "A",
+    "5": "E"
+  }
+}

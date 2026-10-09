@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 1,
+    "3": 2,
+    "4": 3
+  },
+  "reason": "Version 2 keeps the original warranty, replacement-battery, tracking, and apology commitments most exactly without adding facts; Version 3 retains those and the patience thanks but slightly reorders/condenses; Version 4 is close but drops that thanks; Version 1 changes 'replacement' to 'new' and softens the subject line.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B3",
+    "3": "B5",
+    "4": "A"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2,
+    "4": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "“I found myself doing the usual things” adds a familiar reflective formula where direct action would feel fresher.",
+    "3": "none",
+    "4": "The generic lesson about change and patience, followed by “With that said,” feels imposed on the scene rather than earned through it."
+  },
+  "reason": "Version 1 has the strongest combination of concrete detail, varied rhythm, and understated feeling; 3 is close, while 2 adds unnecessary framing. Version 4 is less precise and jumps confusingly from preparing for the last class to returning the keys; these are editorial judgments, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "O",
+    "3": "A",
+    "4": "gen/E-write"
+  }
+}

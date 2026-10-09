@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 2,
+    "4": 3
+  },
+  "reason": "V1 keeps every fact and caveat and drops only the closing 'practical way to get a fuller picture' line. V3 also drops that line and states the bloodwork recommendation more directly. V4 omits 'other health markers' and overstates 'fuller picture' as 'full picture' and 'noticeable symptoms' as 'any signs.' V2 loses the early-detection and baseline points and adds 'highly beneficial.'",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "E",
+    "3": "A",
+    "4": "C"
+  }
+}

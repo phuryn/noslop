@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 5,
+    "4": 1,
+    "5": 3
+  },
+  "send": "4",
+  "tells": {
+    "1": "Repeated 'Mitigation:' labels make the risk section feel mechanically assembled.",
+    "2": "Bold thesis statements followed by explanations create an overly uniform, template-driven rhythm.",
+    "3": "Conversational substitutions feel applied systematically; 'Our people are affected' adds informality without precision.",
+    "4": "The repeated 'Mitigation:' construction is the clearest remaining formulaic feature.",
+    "5": "Repeated 'We will' commitments give the risk section a scripted cadence."
+  },
+  "reason": "Version 4 reads most like a disciplined internal memo: concise, direct, and appropriately professional without conspicuous efforts to sound conversational. These are stylistic judgments, not evidence of authorship; every version still needs financial support and a clearer decision deadline.",
+  "label_to_arm": {
+    "1": "B2",
+    "2": "O",
+    "3": "C",
+    "4": "B",
+    "5": "A"
+  }
+}

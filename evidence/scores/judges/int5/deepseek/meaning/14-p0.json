@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 1
+  },
+  "reason": "Version 3 stays closest to the original with only a minor wording shift and no added facts. Version 2 introduces a slight new line in the thank-you, while Version 1 makes the most omissions and rewrites, even though it uses writer-supplied facts.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "B5",
+    "3": "track2/A-int"
+  }
+}

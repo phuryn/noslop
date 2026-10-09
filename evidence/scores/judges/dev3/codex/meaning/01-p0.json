@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 2,
+    "4": 3
+  },
+  "reason": "Version 1 preserves nearly all substantive meaning; version 3 changes the qualified lesson into a claim about the author's single biggest operational win, while version 4 omits that lesson, strengthens “hit or miss” to “weren't working,” and makes the recommendation more directive. Version 2 introduces the most unsupported claims and changes, including quick results, texting as the sole change, a one-month trial, and broader claims about operational wins.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "C",
+    "3": "B3",
+    "4": "A"
+  }
+}

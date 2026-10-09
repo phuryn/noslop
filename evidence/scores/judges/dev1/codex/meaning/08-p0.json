@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 1,
+    "4": 4
+  },
+  "reason": "Version 3 preserves the most meaning, including the panel’s fuller-picture benefit; version 2 omits that benefit, while version 1 also makes bloodwork an explicit recommendation and drops the care-guidance purpose. Version 4 changes “after age 7” to age 7, omits other health markers, and strengthens “fuller picture” to “full picture” and “noticeable symptoms” to any signs.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "B5",
+    "4": "C"
+  }
+}

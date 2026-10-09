@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 1
+  },
+  "reason": "Version 3 best preserves the original’s facts, commitments, and invitation to enjoy a monthly ritual; version 2 is close, but “Plan on an afternoon” makes the original’s suggested scene sound more like an expected time commitment. Version 1’s added facts are supported by the writer’s answers, but it drops much of the monthly ritual’s meaning and implies greater readiness with “start at the stirring.”",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "track2/A-int",
+    "3": "B5"
+  }
+}

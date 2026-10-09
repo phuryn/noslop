@@ -1,0 +1,26 @@
+{
+  "dropped": [
+    {
+      "item": "The speaker will 'reflect on' the decisions involved; the edit folds this into 'discuss', losing the reflective framing",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "Comfort, function and everyday life were 'at the centre of the conversation'; the edit says 'keeping ... in view', which weakens their stated priority",
+      "severity": "minor"
+    },
+    {
+      "item": "Fit was 'an ongoing consideration'; the edit says fit 'has to be checked repeatedly', which is more prescriptive and operational",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "Fit 'has to be checked repeatedly', an implied requirement for repeated checks that the original does not state",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 2,
+    "4": 3
+  },
+  "reason": "Version 1 keeps every fact intact. Version 3 only slightly rewords claims, while version 4 adds intensity and changes the old invoice workflow to opening items one at a time. Version 2 misstates the PDF bug as symbols not appearing and drops the one-by-one contrast.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "E",
+    "3": "B3",
+    "4": "C"
+  }
+}

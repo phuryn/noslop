@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2
+  },
+  "reason": "Version 2 most fully preserves the original’s qualified claims and talk commitments; version 3 slightly weakens fidelity by omitting that the leaks might otherwise go unnoticed and making the abstract’s causal link less explicit. Version 1’s added facts are all authorized, but it omits the speaker’s stated project involvement and leaves the talk’s promised coverage less explicit.",
+  "label_to_arm": {
+    "1": "track2/B3-int",
+    "2": "B3",
+    "3": "track2/A-int"
+  }
+}

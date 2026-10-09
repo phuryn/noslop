@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 4,
+    "3": 1,
+    "4": 2
+  },
+  "send": "4",
+  "tells": {
+    "1": "Formulaic 'Mitigation:' labels after every risk, with uniformly parallel, consultant-polished phrasing throughout",
+    "2": "A bolded inline lead-in on every rationale, reinvestment and risk item, plus the 'I'm happy to walk through' sign-off",
+    "3": "none",
+    "4": "Markdown '##' headers in what should be a plain memo, and very even, templated section structure"
+  },
+  "reason": "Version 3 is clearly a real person's rough draft, but its vague mitigations and loose phrasing make it weak to send. Version 4 keeps the polished structure, assigns clear owners in active voice ('We will…', 'Finance completes…'), and drops the bold-lead-in clutter, so it is the most credible and readable choice.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "O",
+    "3": "E",
+    "4": "A"
+  }
+}

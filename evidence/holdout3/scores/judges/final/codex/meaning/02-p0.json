@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 5,
+    "2": 1,
+    "3": 2,
+    "4": 4,
+    "5": 3
+  },
+  "reason": "Version 2 preserves the original most closely; 3 and then 5 make progressively firmer trial requests, with 5 also making sales evaluation more definite. Version 4 adds an unsupported “crisp” description and broadens the intended customer group, while 1 strengthens the suitability claim, omits the trial’s evaluation rationale, and changes sending samples into a commitment to bring them in.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "A",
+    "3": "B5",
+    "4": "C",
+    "5": "B3"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 1
+  },
+  "reason": "Version 3 keeps every fact, the thank-you, and the reassurance, losing only 'step by step' and the 'helps' hedge. Version 2 drops the thank-you line, and Version 1 drops both the thank-you and the 'no silly question' reassurance while also turning 'helps' into 'makes'.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "C"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "dropped": [],
+  "changed": [
+    {
+      "item": "The em dash between 'Everyone is welcome' and 'bring warm clothes' became ', so', which adds a causal link that wasn't in the original (welcome, therefore bring warm clothes). The instructions themselves are unchanged.",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

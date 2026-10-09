@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3
+  },
+  "reason": "Version 2 faithfully incorporates the writer’s supplied facts and caveats, including two-way texting, summer uncertainty, continued calls, and uneven clinic results. Version 1 omits those qualifications and attributes the reduction to reminders, while version 3 additionally overstates the change as “all we did” and introduces the unsupported claim that it helps patients “as much as” the practice.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "track2/B3-int",
+    "3": "track2/A-int"
+  }
+}

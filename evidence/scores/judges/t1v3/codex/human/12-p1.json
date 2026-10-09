@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 4,
+    "4": 5,
+    "5": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "The balanced 'what worked, what didn't' promise feels familiar and slightly formulaic.",
+    "2": "none",
+    "3": "'Find leaks in existing pressure data' is awkward compression; the leaks are inferred from the data.",
+    "4": "Generic conference language—'This talk explores,' 'practical considerations,' and 'make better use'—makes it feel templated.",
+    "5": "Repeated scaffolding—'This talk covers,' 'and how,' 'It also covers'—makes the abstract feel mechanically assembled."
+  },
+  "reason": "Version 2 is concise, concrete, and appropriate for a conference submission; version 1 has more personality but a broader, less specific opening. These are stylistic judgments, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B",
+    "3": "A",
+    "4": "O",
+    "5": "B3"
+  }
+}

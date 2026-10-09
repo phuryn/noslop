@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 3,
+    "3": 1,
+    "4": 2,
+    "5": 4
+  },
+  "send": "3",
+  "tells": {
+    "1": "Em-dash flourish ('two floors of books—and an anniversary to celebrate') plus the rhythmic triad 'every shelf, every table, every book'",
+    "2": "Tidy summary line 'Those visits helped us get here' and the stock closer 'an anniversary to celebrate'",
+    "3": "none",
+    "4": "Flat, compressed phrasing ('so we started with what we could') that sounds smoothed rather than voiced",
+    "5": "Triad 'every shelf, every table, every book' and the generic opener 'One of the lovely things about...'"
+  },
+  "reason": "Version 3 has a distinct voice and concrete details ('Not bad,' 'a friend borrowed it and never gave it back,' 'started with what we loved') that sound like a real bookseller. The others share the same symmetrical, polished scaffolding, with triads, tidy summary lines and an em dash, which reads as templated.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B2",
+    "3": "C",
+    "4": "A",
+    "5": "B"
+  }
+}

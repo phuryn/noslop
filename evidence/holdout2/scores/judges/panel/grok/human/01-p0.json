@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Empty opener plus stock closer ('continued support' / 'dig into anything').",
+    "3": "Markdown bold on every label, stacked with 'As always' and 'continued support.'"
+  },
+  "reason": "Version 1 is direct and slightly uneven the way a founder actually writes; 2 and 3 add template scaffolding and gratitude formulas, and 3's bold labels are the clearest machine tell. I'd send 1: same facts, no 'successfully' spin, no padding.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "O"
+  }
+}

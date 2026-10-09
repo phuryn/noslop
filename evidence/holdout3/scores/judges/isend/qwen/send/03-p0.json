@@ -1,0 +1,11 @@
+{
+  "send": "4",
+  "reason": "It keeps all the key facts, offer, launch date, and low-pressure caveat while reading closest to the original friendly, concise voice.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "E",
+    "4": "B5"
+  },
+  "picked_arm": "B5"
+}

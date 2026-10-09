@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 1,
+    "4": 4
+  },
+  "reason": "Version 3 keeps every fact and the 'more options during the week' purpose. Version 2 keeps them too but adds framing ('On a happier note', 'glad to help'). Version 1 drops the purpose of the Sunday classes. Version 4 adds claims that the classes start soon and that memberships 'renew', narrows eligibility to monthly members, and drops 'about the change'.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "B3",
+    "4": "E"
+  }
+}

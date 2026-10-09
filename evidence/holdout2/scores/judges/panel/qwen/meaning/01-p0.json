@@ -1,0 +1,11 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1
+  },
+  "reason": "Version 2 preserves all key facts and nuances, including the Nordwind pilot finishing successfully and the invitation to dig into anything, while only making minor wording changes. Version 1 is mostly faithful but omits the explicit 'successfully' detail and slightly narrows the closing invitation.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3"
+  }
+}

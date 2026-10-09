@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 5,
+    "3": 2,
+    "4": 3,
+    "5": 4
+  },
+  "reason": "Version 1 preserves the original meaning, facts, no-cost replacement commitment, tracking, and tone most fully. Version 2 omits the key 'at no cost' commitment, making it least faithful; versions 3, 4, and 5 keep the core facts but have minor omissions or wording changes.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "E",
+    "3": "B3",
+    "4": "A",
+    "5": "C"
+  }
+}

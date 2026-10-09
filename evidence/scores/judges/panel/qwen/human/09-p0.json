@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 5,
+    "3": 1,
+    "4": 2,
+    "5": 4
+  },
+  "send": "3",
+  "tells": {
+    "1": "none",
+    "2": "over-apologetic, wordy phrasing and awkward register shifts such as 'please accept my apology' and 'just hit reply'",
+    "3": "none",
+    "4": "none",
+    "5": "canned empathy formula, especially 'That's not the experience we want you to have,' plus repeated apologies"
+  },
+  "reason": "Version 3 sounds the most like a real support agent: concise, warm, direct, and free of canned apology language. Version 4 is a strong professional alternative, while Versions 2 and 5 feel more templated.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "E",
+    "3": "C",
+    "4": "B3",
+    "5": "O"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 1,
+    "3": 3,
+    "4": 2
+  },
+  "send": "2",
+  "tells": {
+    "1": "Generic enthusiasm such as 'amazing,' 'scrumptious,' and 'yummy,' alongside redundant explanations of pre-measured ingredients.",
+    "2": "The tea-and-last-crumb scene feels slightly stock, but there is no strong AI-writing tell.",
+    "3": "Stacked sentence fragments and symmetrical slogans, especially 'A little measuring done. A little joy delivered,' make the rhythm feel manufactured.",
+    "4": "Compression produces awkward wording: 'start at the mixing,' 'Each kit is $34 a month,' and the ambiguous 'Keep it as long as you like.'"
+  },
+  "reason": "Version 2 has the best balance of clear product information, warmth, natural rhythm, and scannable sections. These are editorial judgments about how the copy reads, not reliable evidence of who or what wrote it.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "B3",
+    "3": "O",
+    "4": "A"
+  }
+}

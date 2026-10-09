@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2,
+    "4": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "the vague, placeholder-style bio and the awkward phrase \"before making more of their own pressure data\"",
+    "3": "smooth but generic conference boilerplate like \"This talk explores\" and \"shares lessons\"",
+    "4": "compressed, unnatural phrasing such as \"should weigh before doing the same\" and \"helped use that existing data\""
+  },
+  "reason": "Version 1 feels most like a real practitioner: specific numbers, candid caveats, and a concrete field anecdote. The others are clearer in places but read generic or slightly machine-paraphrased.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "B5",
+    "3": "O",
+    "4": "track2/A-int"
+  }
+}

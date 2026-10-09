@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 6,
+    "2": 4,
+    "3": 2,
+    "4": 3,
+    "5": 5,
+    "6": 1,
+    "7": 7
+  },
+  "send": "4",
+  "tells": {
+    "1": "Stock opener 'Join us for a free public stargazing night' with an exclamation mark, and the template phrase 'explore the night sky'",
+    "2": "Very smooth and evenly paced, with no individual voice; 'explore the night sky' is a stock phrase",
+    "3": "Slightly over-polished conversational rhythm ('Wrap up warm, though'), but no strong tell",
+    "4": "none",
+    "5": "Generic, interchangeable phrasing ('for looking at the night sky', 'everyone is welcome'), as if built from a template",
+    "6": "none",
+    "7": "Em dash joining 'Everyone is welcome—bring warm clothes', plus curly quotes, the stock opener and 'explore the night sky'"
+  },
+  "reason": "Version 6 has the clumsy hallmarks of a real volunteer ('i.e. cloud', '6 telescopes', a missing comma), but it is the weakest copy to publish. Version 4 is clear and complete, and 'get a proper look' gives it a natural local voice, so it is the best one to send.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "V6C",
+    "3": "C",
+    "4": "V6A",
+    "5": "B5",
+    "6": "E",
+    "7": "O"
+  }
+}

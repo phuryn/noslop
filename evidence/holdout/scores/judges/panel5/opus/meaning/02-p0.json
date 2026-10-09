@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 3,
+    "4": 2
+  },
+  "reason": "Version 1 is nearly verbatim. Versions 4 and 3 keep the 'I think' hedge but turn the conditional offer ('happy to share more if it sounds of interest') into sharing more during the chat; 3 also softens 'interested' to 'want to hear about'. Version 2 replaces the hedge with certainty ('I saw') and adds a new fit judgment ('good fit').",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "B3",
+    "4": "B5"
+  }
+}

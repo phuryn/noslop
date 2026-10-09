@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 3,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "“Honestly, that's the fun part” feels like an inserted cue for authenticity; “your opinion will actually count” adds a generic recruiting promise.",
+    "2": "“Nights that actually end” and “a real say” feel like polished recruiting language rather than concrete information.",
+    "3": "The balanced three-part lists and familiar recruiting headings give it a slightly templated rhythm.",
+    "4": "The oddly specific “third plate of the night,” shared across all four, feels constructed to signal kitchen authenticity."
+  },
+  "reason": "Version 4 reads most naturally: direct, economical, and conversational without repeatedly emphasizing its sincerity. These are editorial impressions, not reliable evidence of AI authorship; every version would gain credibility from actual finishing times instead of vague schedule promises.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "O",
+    "4": "B"
+  }
+}

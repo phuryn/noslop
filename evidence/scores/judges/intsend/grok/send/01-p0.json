@@ -1,0 +1,11 @@
+{
+  "send": "1",
+  "reason": "Only this version keeps the corrected facts and caveats: two-way texting as the real driver, the $1,400 monthly cost, 11 hours saved, calling patients over 70, Sopot at 12%, and the summer confound, without naming a vendor or inventing metrics. The others still present simple reminders as a clean win and drop those qualifications.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "E",
+    "3": "C",
+    "4": "track2/A-int"
+  },
+  "picked_arm": "track2/B5-int"
+}

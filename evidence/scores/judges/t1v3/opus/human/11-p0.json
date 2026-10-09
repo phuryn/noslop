@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 5,
+    "5": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "none; it is a flattened copy of 1 with the bold section labels turned into prose, which makes it less scannable",
+    "3": "over-tightened edits ('needs', 'nights that end', 'cooks want to work for you') strip some voice, a sign of mechanical polishing",
+    "4": "forced casualness ('honestly, that's the fun part', 'your opinion will actually count') replaces the original swagger with a performed, chatty tone",
+    "5": "colon-joined clause ('hands-on: you'll be...') and the dropped 'schedule you can plan a life around' line read as compression-by-editor"
+  },
+  "reason": "Version 1 has the most confident, specific voice ('we like it that way', 'the third plate of the night'), and its bold labels and visible pay line suit how candidates skim job posts. The others either flatten that structure or, in 4's case, swap the voice for a performed casualness.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B3",
+    "3": "B",
+    "4": "C",
+    "5": "A"
+  }
+}

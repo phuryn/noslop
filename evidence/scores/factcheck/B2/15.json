@@ -1,0 +1,29 @@
+{
+  "dropped": [
+    {
+      "item": "Upgrading to Premium 'unlocks more of what the app has to offer'; the edit states only the price, not that Premium adds features beyond the free version",
+      "severity": "minor"
+    },
+    {
+      "item": "Call to action 'Download Stepwise and get started' is softened to the statement 'Stepwise is free to download'",
+      "severity": "minor"
+    },
+    {
+      "item": "Positioning of guidance as trustworthy ('guidance you can trust')",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "Progress sharing: the original has the user actively sharing ('Share progress with your PT', 'Let your physical therapist see'). The edit has the PT seeing progress ('Your physical therapist can see how you're doing'), which loses the sense that the user controls or initiates sharing",
+      "severity": "minor"
+    },
+    {
+      "item": "'Get started at no cost' (implies use at no cost) becomes 'free to download', which is narrower and covers only the download",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

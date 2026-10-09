@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 5,
+    "4": 4,
+    "5": 6,
+    "6": 1,
+    "7": 7
+  },
+  "send": "6",
+  "tells": {
+    "1": "Casual swaps like 'fiddled', 'lugged' and 'said sorry' sit unevenly against the polished cadence, which suggests a 'make it sound human' pass.",
+    "2": "Uniformly smooth, balanced sentences end in a neatly tied closing line ('for the first time in a long while...'). It is identical to version 4.",
+    "3": "The 'It happened on...' framing opener is stiff, and 'thanked me like that in the City' is slightly awkward.",
+    "4": "It is identical to version 2, with the same uniform polish and tidy cadence and nothing idiosyncratic.",
+    "5": "The ending compresses the emotional beat into a summary tagline ('no longer waiting for my life to start'), and 'the screens and the P&L, or' is clunky.",
+    "6": "none",
+    "7": "none. The comma splices, stray title and garbled facts (locked out 'for about four months') are clearly an unskilled human draft."
+  },
+  "reason": "Version 6 restructures the scene naturally, gets the paragraph break right before the reflection, and keeps the strongest detail and rhythm without sounding over-smoothed. Version 7 reads human but is too error-strewn and confused to publish.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "V6C",
+    "3": "O",
+    "4": "V6A",
+    "5": "A",
+    "6": "B5",
+    "7": "E"
+  }
+}

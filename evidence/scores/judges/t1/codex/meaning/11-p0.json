@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1
+  },
+  "reason": "Version 3 preserves nearly all commitments, only softening the promise of working closely with the chef; Version 1 omits the explicit promise of a schedule you can plan a life around. Version 2 adds a commitment to finishing at a decent hour and a specific plate-tasting action, while softening how busy weekends are.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "B"
+  }
+}

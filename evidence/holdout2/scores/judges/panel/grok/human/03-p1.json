@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2
+  },
+  "send": "2",
+  "tells": {
+    "1": "Bold one-word labels, especially the awkward “Addition:”, plus the stock “quick summary” opener, read like a template.",
+    "2": "none",
+    "3": "“Tell me if I missed anything” is blunt and slightly off-register beside an otherwise polished note."
+  },
+  "reason": "Version 2 reads like a concise client recap a person would send: decisions in prose, clear owners, and a natural close. Version 1’s labeled mini-sections feel machine-formatted, and version 3 is nearly as good but the closer is a touch off.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B3",
+    "3": "A"
+  }
+}

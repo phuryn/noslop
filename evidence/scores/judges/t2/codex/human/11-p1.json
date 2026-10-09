@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 1
+  },
+  "send": "3",
+  "tells": {
+    "1": "Stacked reassurance—“real days off, nights that actually end”—and generic claims about having a “real say” feel polished but formulaic.",
+    "2": "Stock phrases such as “when it counts” and the kitchen “pressure cooker” metaphor remain noticeable beneath the smoother prose.",
+    "3": "none"
+  },
+  "reason": "Version 3 gives candidates concrete working conditions, benefits, and examples of staff progression, making it the strongest choice if those added facts are accurate. Version 2 reads more naturally than 1, though neither style nor specificity establishes authorship.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "track2/A-int",
+    "3": "track2/B2-int"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 5,
+    "4": 3,
+    "5": 1
+  },
+  "reason": "V5 is nearly verbatim, and V1 only drops minor details like 'everything in between' and 'real'. V4 recasts members as having 'made it count', V2 reframes members as beneficiaries and firms 'a path into' to 'leads to' a career, and V3 adds the most: 'blazing/freezing', 'lasting career', and 'paid spots' in place of paid training.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "C",
+    "4": "B",
+    "5": "B2"
+  }
+}

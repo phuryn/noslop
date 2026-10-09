@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 1,
+    "4": 3
+  },
+  "reason": "Version 3 preserves the original’s facts and nuances while removing repetition; version 2 is nearly identical but drops the explicit appreciation in “one of the lovely things.” Version 4 loses the book-selection and customer-contribution nuances, while version 1 adds unsupported motivations, a personal narrator, stronger causal claims, and more specific speculation.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B2",
+    "3": "B",
+    "4": "A"
+  }
+}

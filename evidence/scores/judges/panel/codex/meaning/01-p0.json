@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2,
+    "4": 4
+  },
+  "reason": "Version 1 preserves the most meaning with only a slightly stronger personal takeaway; version 3 overstates calls’ ineffectiveness and omits the broader lesson, while version 2 additionally turns rarely returned voicemails into never-returned ones. Version 4 introduces unsupported claims about texting being the only change, results appearing quickly, and a one-month trial, while broadening the original’s qualified lesson.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "E",
+    "3": "A",
+    "4": "C"
+  }
+}

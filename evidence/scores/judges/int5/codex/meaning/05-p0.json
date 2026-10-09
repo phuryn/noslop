@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "Version 1 preserves the original commitments and caveats most closely. Version 2 slightly strengthens the match-quality goal with “must meet,” while Version 3 adds a commitment to confirm targets when baselines are measured, which the original leaves unspecified.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "B5",
+    "3": "track2/A-int"
+  }
+}

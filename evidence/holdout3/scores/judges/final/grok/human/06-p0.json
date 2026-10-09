@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 6,
+    "4": 5,
+    "5": 3,
+    "6": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Unnatural 'has been an inconvenience' and a stiff 'We'll now deliver it,' with no sign-off.",
+    "3": "'I appreciate the inconvenience' is an AI miscollocation, and the apostrophes are curly.",
+    "4": "none",
+    "5": "One over-smooth stock apology and an abrupt ending with no thanks.",
+    "6": "Invented feeling in 'something you've been looking forward to.'"
+  },
+  "reason": "Version 1 is what I would send: the new date is firm, the tone matches a formal 'Dear Mrs Abebe,' and nothing is invented or unfinished. Version 6 is the next most human but hedges the delivery; 4 sounds like a person yet not a skilled one, and 3 is the most obviously generated.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "B3",
+    "3": "O",
+    "4": "E",
+    "5": "A",
+    "6": "C"
+  }
+}

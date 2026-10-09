@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 1,
+    "4": 4
+  },
+  "send": "3",
+  "tells": {
+    "1": "The em-dash aside ('before the first frost—a small job') plus the colon reveal ('Then comes the hardest part: leaving them alone') is a familiar polished-AI cadence.",
+    "2": "none (clean, but 'After that, the hardest part is leaving them alone' flattens the punchline, which reads like a de-AI'd edit)",
+    "3": "Mild: the setup-colon-payoff line 'Then comes the hardest part: leaving them alone', though it's natural here.",
+    "4": "none (its problems are human ones: run-on sentences, 'yummy', and promising 'we show you how to plant garlic' without giving the steps)"
+  },
+  "reason": "Version 3 keeps the warm rhythm and the gentle joke while dropping the em-dash, and it gives clear, concrete instructions; version 4 feels human but rambles and omits the how-to. Before sending any version, check the date: October 18, 2026 falls on a Sunday, not a Saturday, and version 4's 'this coming Saturday' would point readers to October 10.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B3",
+    "3": "A",
+    "4": "gen/E-write"
+  }
+}

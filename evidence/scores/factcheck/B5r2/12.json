@@ -1,0 +1,29 @@
+{
+  "dropped": [
+    {
+      "item": "The original says the talk explores *how* Mesa Valley Water Authority used its existing data. The edit states that the authority did this but no longer says the talk walks through the method; it lists only lessons and considerations as talk content.",
+      "severity": "minor"
+    },
+    {
+      "item": "'Practical' qualifier on the considerations offered to utilities",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "Certainty raised: 'can help reveal leaks that might otherwise go unnoticed' became 'can reveal leaks that would otherwise go unnoticed'. Pressure data is now presented as revealing leaks outright rather than helping to, and leaks are presented as definitely going unnoticed rather than possibly.",
+      "severity": "minor"
+    },
+    {
+      "item": "Causal attribution of the NRW drop altered in the abstract. 'Used data ... to find leaks and help reduce non-revenue water from 14% to 9%' became 'used data ... to find leaks, and non-revenue water fell from 14% to 9%'. The explicit partial-contribution framing ('help reduce') is replaced by a juxtaposition that leaves the causal link implied and unhedged.",
+      "severity": "minor"
+    },
+    {
+      "item": "Scope of the considerations shifted. Original: considerations 'for utilities looking to make better use' of their data. Edit: 'what other utilities should consider before making better use'. This adds a temporal framing ('before') and a more prescriptive tone ('should').",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

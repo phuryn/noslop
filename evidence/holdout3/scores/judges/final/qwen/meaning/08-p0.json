@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 3,
+    "3": 2,
+    "4": 1,
+    "5": 5
+  },
+  "reason": "Version 4 preserves all key facts, timing, and purpose most directly, while Versions 3 and 2 remain faithful with only minor wording shifts. Version 1 adds an inbox detail and weakens the hectare specificity, and Version 5 omits the explicit 'of the flight' timing and the purpose of spotting areas needing a closer look.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B3",
+    "4": "B5",
+    "5": "E"
+  }
+}

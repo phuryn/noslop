@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2,
+    "4": 4
+  },
+  "send": "2",
+  "tells": {
+    "1": "Stock abstract scaffolding: \"This talk explores,\" \"shares lessons,\" and \"practical considerations,\" plus a bio that restates the same statistic.",
+    "2": "none",
+    "3": "Generic \"what the utility learned / what other utilities should weigh\" closer, and a bio that nearly repeats the abstract.",
+    "4": "Padded restatement: \"might otherwise have gone unnoticed,\" \"It also covers,\" and \"to the same use.\""
+  },
+  "reason": "Version 2 sounds like a practitioner: concrete results, a caveat, and a real opinion, while the others are interchangeable paraphrases built from conference-blurb filler.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "track2/B3-int",
+    "3": "track2/A-int",
+    "4": "B3"
+  }
+}

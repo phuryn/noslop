@@ -1,0 +1,26 @@
+{
+  "dropped": [
+    {
+      "item": "The contrastive 'yet' that links the £4,200 average cost to the plan possibly covering only certain services. The edit splits these into separate sentences, which weakens the implied point that a plan may not cover the full typical cost.",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "Original says the plan may only cover certain services, 'leaving extras... to be paid for later' (a stated consequence). Edit says it 'can leave you or your family paying later', which is slightly hedged and names an actor the original left unstated.",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "Identifies 'you or your family' as the ones paying later for extras",
+      "severity": "minor"
+    },
+    {
+      "item": "'simply' added before writing down wishes, framing it as the easier option",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

@@ -1,0 +1,11 @@
+{
+  "send": "1",
+  "reason": "It keeps all the original facts and the warm, practical tone, including the 'hardest part' line and the full seed-swap invitation. It is the closest to the drafted voice while remaining clear and sendable.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "E",
+    "3": "B5",
+    "4": "C"
+  },
+  "picked_arm": "A"
+}

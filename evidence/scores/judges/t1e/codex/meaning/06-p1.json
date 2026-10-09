@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "Version 1 preserves the original facts, terms, and experiential nuances most closely; version 2 retains the core offer but loses the explicit promise of more time for making and makes subscription duration less clear with “Keep it.” Version 3 adds promises of something new every month and suitability for beginners and experienced bakers, while losing the original emphasis on slowing down, sharing, and quiet enjoyment.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "E"
+  }
+}

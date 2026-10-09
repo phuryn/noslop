@@ -1,0 +1,11 @@
+{
+  "send": "1",
+  "reason": "It keeps the same facts, reason for the delay, volunteer request, and promise to confirm details, while preserving my friendly, positive tone.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "A",
+    "3": "E",
+    "4": "C"
+  },
+  "picked_arm": "B5"
+}

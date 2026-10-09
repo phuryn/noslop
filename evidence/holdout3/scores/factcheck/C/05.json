@@ -1,0 +1,26 @@
+{
+  "dropped": [
+    {
+      "item": "Attribution that 'the team' fixed the lighting rig issue",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "Who follows up with volunteers: 'we'll confirm details' (the group) became 'I'll send details' (the writer personally)",
+      "severity": "minor"
+    },
+    {
+      "item": "The extra time is no longer described as a benefit of the move ('That gives us a little extra breathing room'). It is now stated as the motive for it ('We want a bit more room'), which slightly reframes why the date changed",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "First-person commitment by the writer ('I'll send details')",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 3,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "Stock closing line 'Thanks for your continued support' tacked onto otherwise plain bullets",
+    "2": "Markdown bolding everywhere, including the subject line and bold 'label: explanation' bullets, plus a 'Highlights/Ask' template",
+    "3": "Templated 'Highlights' and 'Ask' section headers on a very short email",
+    "4": "none"
+  },
+  "reason": "Version 4 reads like a founder dashing off a confident note, with tight prose, a clear ask and no template scaffolding. The news is short enough that bullets and headers add structure without adding clarity.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "O",
+    "3": "B3",
+    "4": "A"
+  }
+}

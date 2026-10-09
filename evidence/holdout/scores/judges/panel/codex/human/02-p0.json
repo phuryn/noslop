@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "none",
+    "4": "none"
+  },
+  "reason": "Version 1 feels confident, personable and specific, assuming “I saw” accurately describes how the recruiter found Callum. Version 4 is similarly natural; version 2’s “sounds of interest” is slightly stiff, while version 3’s “I can share more then” makes further details feel conditional on a call.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "O",
+    "3": "B3",
+    "4": "A"
+  }
+}

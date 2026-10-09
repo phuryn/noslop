@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 6,
+    "4": 1,
+    "5": 5,
+    "6": 3
+  },
+  "send": "4",
+  "tells": {
+    "1": "Bold section labels plus a neat three-part lifestyle line ('real days off, nights that actually end, and a schedule you can plan a life around') read like a generated job-post template.",
+    "2": "Headers are gone, but the paragraphs stay evenly balanced and lean on the same stock contrasts ('pressure cooker,' 'a real say,' 'when it counts').",
+    "3": "none",
+    "4": "none",
+    "5": "The smoothest paraphrase of the set: even paragraph lengths, no aside, and the full rule-of-three benefits sentence left intact.",
+    "6": "The stock opener 'Day to day' and the intact 'plan a life around' triad, despite the more direct 'You've done this before.'"
+  },
+  "reason": "Version 4 is the one I'd publish: same facts, but shorter beats, a real aside, and concrete kitchen language instead of the shared slogan stack in 1, 2, 5, and 6. Version 3 is unmistakably unpolished human, but too sloppy and error-ridden to read as skilled or to send.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "A",
+    "3": "E",
+    "4": "C",
+    "5": "B3",
+    "6": "B5"
+  }
+}

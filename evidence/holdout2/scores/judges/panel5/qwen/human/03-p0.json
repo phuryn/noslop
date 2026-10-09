@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2,
+    "4": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "The closing imperative 'Tell me if I missed anything' sounds blunt and less idiomatic.",
+    "3": "The casual filler and slightly inconsistent bullet punctuation make it feel a bit drafted rather than polished.",
+    "4": "Bold section labels give a short email an overstructured, template-like AI feel."
+  },
+  "reason": "Version 1 is concise, professional, and naturally formatted for a client recap. It avoids the more obvious templated or overstructured signals while keeping the action items clear.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "B5",
+    "4": "O"
+  }
+}

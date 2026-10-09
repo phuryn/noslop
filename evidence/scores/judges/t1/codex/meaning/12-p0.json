@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "Version 1 stays closest, though it strengthens the abstract’s qualified contribution to reducing water loss. Version 2 additionally asserts previously unnoticed leaks and a leadership role; version 3 adds broader claims about most utilities and their collection motives, strengthens the unknown-leaks claim, and promises discussion of what did and didn’t work.",
+  "label_to_arm": {
+    "1": "B",
+    "2": "A",
+    "3": "C"
+  }
+}

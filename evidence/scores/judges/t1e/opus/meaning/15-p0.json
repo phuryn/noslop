@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "Version 1 keeps nearly everything and only drops that Premium unlocks more features; Version 2 keeps that but drops the 'stay consistent' and 'see how far you've come' benefits. Version 3 adds claims ('free to download and use', 'never miss a session'), loses the 24-hour cancellation window, and changes the medical-advice caveat.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "E"
+  }
+}

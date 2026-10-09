@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3
+  },
+  "reason": "Version 2 keeps every fact, date, price, rationale and commitment. Version 1 is also faithful but narrows 'questions about the change' to 'the price change'. Version 3 drops the stated purpose of the Sunday classes (more options during the week) and changes 'part of our community' to 'a member'.",
+  "label_to_arm": {
+    "1": "track2/B3-int",
+    "2": "B3",
+    "3": "track2/A-int"
+  }
+}

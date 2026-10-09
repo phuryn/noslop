@@ -1,0 +1,11 @@
+{
+  "send": "3",
+  "reason": "It preserves the release date, sync frequency, bulk editing capability, and PDF fix while keeping the original’s concise, matter-of-fact tone.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "E",
+    "3": "track2/A-int",
+    "4": "C"
+  },
+  "picked_arm": "track2/A-int"
+}

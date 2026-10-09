@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 3,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "The warmth feels slightly over-produced, especially the stacked cosy images, which can read as AI-polished rather than naturally spoken.",
+    "2": "It is clean but flattened and template-like, with safe generic phrasing and little distinctive voice.",
+    "3": "The wording is tidy but a little airless; phrases like “hard one” and “talk through the practicalities together” feel synonym-edited rather than naturally chosen.",
+    "4": "none"
+  },
+  "reason": "Version 4 sounds the most natural and publishable: direct, warm, and specific without trying too hard. Version 1 is personable but slightly over-fussy, while 3 is clear and 2 feels the most mechanical.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B3",
+    "3": "A",
+    "4": "C"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 2
+  },
+  "reason": "Version 1 keeps the original product name, warranty, replacement commitment, and tracking promise most exactly; Version 4 is nearly as close, Version 2 omits minor original wording, and Version 3 changes 'replacement battery' to 'new battery' and alters the subject line and other nuances.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "C",
+    "4": "B5"
+  }
+}

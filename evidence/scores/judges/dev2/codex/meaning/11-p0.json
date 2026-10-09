@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 3,
+    "3": 1,
+    "4": 2
+  },
+  "reason": "Version 3 preserves the original’s meaning and commitments most fully; version 4 drops the explicit promise of a schedule you can plan a life around, while version 2 also narrows running the kitchen to when the chef is out. Version 1 adds a stronger promise that nights end at a decent hour and changes caring about seasoning into explicitly tasting the third plate.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B5",
+    "3": "B3",
+    "4": "A"
+  }
+}

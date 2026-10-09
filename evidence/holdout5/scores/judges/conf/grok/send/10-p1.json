@@ -1,0 +1,13 @@
+{
+  "send": "none",
+  "reason": "None keeps the same facts and commitments. The rewrites misstate the 15 years, turn ongoing fit into repeated checks or a vague thought, weaken comfort, function and everyday life from the centre of the conversation, or change the speaker and scope of the talk.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B5",
+    "3": "E",
+    "4": "V6A",
+    "5": "A",
+    "6": "V6C"
+  },
+  "picked_arm": "none"
+}

@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 1,
+    "3": 2,
+    "4": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "none",
+    "2": "The polished moral takeaway beginning 'Every no-show' feels formulaic.",
+    "3": "The personal lesson about 'meeting patients where they already are' sounds like a stock business-writing conclusion.",
+    "4": "Overstructured presentation: a results list, a moral takeaway, a personal lesson, advice, and an engagement question."
+  },
+  "reason": "Version 2 reads most like a skilled human's publishable post: direct, concrete, and conversational, though its added operational claims need verification. Version 3 adds a canned reflection, version 4 feels heavily templated, and version 1 sounds spontaneous but repetitive and poorly edited; these are stylistic judgments, not proof of authorship.",
+  "label_to_arm": {
+    "1": "gen/E-write",
+    "2": "A",
+    "3": "B3",
+    "4": "O"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 3,
+    "5": 5
+  },
+  "send": "1",
+  "tells": {
+    "1": "Mild stock phrasing: “fits your day” and “see how far you've come.”",
+    "2": "“Unlocks additional features” is generic filler where specific Premium benefits would help.",
+    "3": "“Built for real recovery” sounds canned, and “adds more to the free app” is conspicuously vague.",
+    "4": "The accumulation of “nudge,” “bouncing back,” “stick with it,” and “keep you moving forward” feels like deliberately manufactured informality.",
+    "5": "Stacked promotional clichés, including “guidance you can trust,” “keep you on track,” and “unlock more of what the app has to offer.”"
+  },
+  "reason": "Version 1 best balances readable sales copy with concrete information and restraint; version 2 is clear but less polished. These rankings assess editorial feel, not proof of human or AI authorship.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "B5",
+    "4": "C",
+    "5": "O"
+  }
+}

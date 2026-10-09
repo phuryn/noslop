@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 5,
+    "2": 3,
+    "3": 2,
+    "4": 1,
+    "5": 4
+  },
+  "reason": "Version 4 preserves all substantive content; versions 3 and 2 omit the thanks, with 3 retaining the original delivery-date wording more precisely. Version 5 changes an ongoing refund to a future intention, while version 1 claims the refund is already complete, weakens the delivery commitment to availability, and adds assumptions about the customer's feelings.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B3",
+    "3": "A",
+    "4": "B5",
+    "5": "E"
+  }
+}

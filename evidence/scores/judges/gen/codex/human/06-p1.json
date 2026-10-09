@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1,
+    "4": 4
+  },
+  "send": "3",
+  "tells": {
+    "1": "none",
+    "2": "Repeated symmetrical slogans and sentence fragments make the rhythm feel manufactured: “A little measuring done. A little joy delivered.”",
+    "3": "“Give yourself something to look forward to each month” is generic lifestyle copy, though not a strong AI tell.",
+    "4": "Stacked clichés such as “life worth living” and “relax, recharge and enjoy” substitute broad sentiment for specific benefits."
+  },
+  "reason": "Version 3 combines clear section headings, concrete baking details, and an easy conversational rhythm. Version 1 feels natural but less polished; 2 overworks the cadence, while 4 blurs the distinction between a baking kit and delivered baked goods.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "O",
+    "3": "B3",
+    "4": "gen/E-write"
+  }
+}

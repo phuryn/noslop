@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Nominalized opener and redundant \"target date\" give it a corporate template voice.",
+    "3": "Three evenly clipped sentences and the inverted \"The remaining piece is...\" read like a filled-in status template.",
+    "4": "The comma plus \"with only ... left\" is a familiar AI status-update glue phrase."
+  },
+  "reason": "Version 1 sounds like someone typing in Slack: contractions, \"hit Nov 3,\" and \"only big piece left\" without corporate padding. The others share a stiff opener and \"target date,\" with 3 the most mechanical and 4 marked by the \"with only\" construction.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B3",
+    "3": "O",
+    "4": "A"
+  }
+}

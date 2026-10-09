@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 3,
+    "5": 5
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "none; the bare price at the end is abrupt but reads human",
+    "3": "the hedged 'can help spot' and 'track over time' read slightly generic and padded",
+    "4": "the tacked-on sales closer 'a simple way to get the full picture'",
+    "5": "em dashes plus the stacked closer 'a practical way to get a fuller picture... make the most of their yearly checkup'"
+  },
+  "reason": "Version 1 is clear, specific and credible, and it ends with a useful detail (the panel can be done during the yearly checkup) instead of a marketing flourish. Versions 4 and 5 drift into promotional AI-style closers.",
+  "label_to_arm": {
+    "1": "B",
+    "2": "A",
+    "3": "B2",
+    "4": "C",
+    "5": "O"
+  }
+}

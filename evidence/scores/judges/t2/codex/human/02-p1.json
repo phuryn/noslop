@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2
+  },
+  "send": "2",
+  "tells": {
+    "1": "Formulaic phrasing and two consecutive questions make the close feel templated.",
+    "2": "none",
+    "3": "The opening explains the recipient's own business to them, creating a forced sense of personalization."
+  },
+  "reason": "Version 2 is direct, natural, and easy to scan, with enough substance to justify a conversation. Version 3 adds useful credibility details but feels less tightly edited; version 1 has the most mechanical rhythm.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "track2/A-int",
+    "3": "track2/B2-int"
+  }
+}

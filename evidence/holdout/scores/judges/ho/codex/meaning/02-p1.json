@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1,
+    "4": 4,
+    "5": 5
+  },
+  "reason": "Version 3 preserves the original most closely; version 1 slightly weakens the causal connection, version 2 omits the offer to share more, and version 4 shifts that offer to the proposed chat. Version 5 makes the largest changes by replacing tentative knowledge (“I think”) with claimed observation (“I saw”) and adding a judgment that Callum might be a good fit.",
+  "label_to_arm": {
+    "1": "B2",
+    "2": "B",
+    "3": "A",
+    "4": "B3",
+    "5": "C"
+  }
+}

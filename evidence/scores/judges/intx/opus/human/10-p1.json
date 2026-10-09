@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 5,
+    "3": 3,
+    "4": 1,
+    "5": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none; at most, it is so evenly trimmed that it feels a little edited-down",
+    "2": "Upbeat spin and reassurance padding ('Quick heads-up', 'On a happier note', 'you don't have to pay the new price right away')",
+    "3": "Generic benefit filler: 'so you'll have more options during the week' doesn't fit Sunday classes",
+    "4": "none; the comma splice, '1st', '/month' and exclamation points read like a real small-business owner",
+    "5": "Polished template phrasing ('to give you more options during the week', 'Thank you for being part of our community')"
+  },
+  "reason": "Version 4 has the natural rough edges of a gym owner's email, but its comma splice and stiff 'at which time' make it weaker to send. Version 1 states the increase, the grandfathered rate and the new classes plainly, with no spin or filler, so it reads as honest and respectful.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "C",
+    "3": "track2/B5-int",
+    "4": "E",
+    "5": "O"
+  }
+}

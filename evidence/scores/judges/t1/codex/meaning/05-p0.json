@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2
+  },
+  "reason": "Version 1 best preserves the original commitments and caveats; version 3 slightly strengthens the description of phone-and-text coordination by dropping “typically.” Version 2 changes proximity to where caregivers live, turns risks into asserted harms, weakens match requirements with “should,” and adds a deadline for confirming targets.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "B"
+  }
+}

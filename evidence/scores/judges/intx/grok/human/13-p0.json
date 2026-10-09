@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 5,
+    "4": 2,
+    "5": 4
+  },
+  "send": "2",
+  "tells": {
+    "1": "none",
+    "2": "Markdown headers and evenly balanced consulting prose ('brand pull,' 'full brand experience,' 'spread management attention and cash thin').",
+    "3": "Bold lead-ins on every bullet and repeated 'Mitigation:' labels, plus stock phrasing like 'structurally declining.'",
+    "4": "Casual rewrite of the same outline — 'How they do,' 'how much people want our brand,' 'I'm glad to walk through the analysis' — still locked to bold, parallel bullets.",
+    "5": "Near-copy of the generated memo, with paraphrase stiffness ('declining structurally,' 'For what they return') and a sudden slide into 'we'd.'"
+  },
+  "reason": "Only version 1 sounds like a person thinking the decision through; 2–5 share one generated skeleton, and 3 is the most templated. I would still send 2: it is the clearest and most credible decision memo, without 3's formatting or 4's softened phrasing.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "track2/A-int",
+    "3": "O",
+    "4": "C",
+    "5": "track2/B5-int"
+  }
+}

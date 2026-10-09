@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2
+  },
+  "reason": "Version 1 keeps nearly everything but drops the 'found myself doing the usual things' framing. Version 3 keeps that but removes a hedge, turning 'hadn't given much thought' into 'hadn't thought'. Version 2 loses most specifics (stools, taps, bench, the drive home, students' questions changing explanations) and adds claims not in the original (careful preparation, 'bang or whimper', good and bad years).",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "E",
+    "3": "A"
+  }
+}

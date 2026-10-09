@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 2,
+    "4": 5,
+    "5": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "parallel subheads and triplet cadence read like AI-structured copy",
+    "3": "triplet-heavy sentence structure and polished but generic phrasing",
+    "4": "no AI cadence; unskilled ALL-CAPS formatting and boilerplate phrases",
+    "5": "standard AI triadic opening and overly symmetrical sentence flow"
+  },
+  "reason": "Version 1 has the strongest specific voice and concrete details; it reads like a real chef wrote it, whereas the others drift toward polished but generic templates.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "O",
+    "3": "A",
+    "4": "E",
+    "5": "B3"
+  }
+}

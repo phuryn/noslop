@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+  },
+  "reason": "Version 1 keeps every fact, commitment and nuance, while Version 2 drops 'a schedule you can plan a life around' and Version 3 softens 'slammed' to 'busy' and adds 'end at a decent hour' and 'taste' the plate. Version 4 loses the most: the crew-steadying, salt care, no-pressure-cooker, real say and nights-that-end details, and it adds 'not limited to', a hard 'must' on experience, and a 'work well with others' trait.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "C",
+    "4": "E"
+  }
+}

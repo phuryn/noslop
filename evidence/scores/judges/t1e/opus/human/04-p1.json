@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 4,
+    "4": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "none; it is plain and slightly flattened ('It's a small job now, and it gives us...'), as if smoothed over",
+    "2": "mild: the colon reveal ('Then comes the hardest part: leaving them alone'), though it reads naturally here",
+    "3": "em dash joining clauses plus the colon reveal, with curly quotes suggesting polished or generated copy",
+    "4": "none; it is choppy and repetitive ('It's... It's...', 'Then... Then'), more like a rushed human draft"
+  },
+  "reason": "Version 2 keeps the warm, natural rhythm and the punchy 'leaving them alone' payoff without the em-dash polish of 3 or the choppiness and lost detail of 4. Before sending, check the date: Oct 18, 2026 is a Sunday, and Version 4's 'this Saturday' would be wrong from today (Oct 8) in any case.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "O",
+    "4": "E"
+  }
+}

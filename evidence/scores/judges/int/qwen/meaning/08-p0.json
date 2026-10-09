@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3
+  },
+  "reason": "Version 2 preserves the key facts, price, baseline/guidance idea, and the fuller-picture checkup benefit with only minor wording changes. Version 1 drops the final benefit statement, while Version 3 loses the care-guidance purpose and adds a new 'can be added' detail.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "track2/B3-int",
+    "3": "track2/A-int"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 5,
+    "4": 4,
+    "5": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "Mild stock encouragement: “get a nudge” and “see how far you've come.”",
+    "2": "Generic promotional promises: “Never miss a session again” and “watch your progress grow!”",
+    "3": "Conspicuously casual phrasing—“bouncing back,” “give you a nudge,” “tweak your plan”—makes the warmth feel manufactured.",
+    "4": "Polished but empty assurances: “guidance you can trust,” “BUILT FOR REAL RECOVERY,” and “unlock more of what the app has to offer.”",
+    "5": "Repeated explanatory constructions make the copy slightly mechanical, particularly the feature bullets."
+  },
+  "reason": "Version 1 best balances clear features, credible language, and an approachable App Store voice; version 5 is restrained but less fluid. These are stylistic judgments, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "E",
+    "3": "C",
+    "4": "O",
+    "5": "A"
+  }
+}

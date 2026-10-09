@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 5,
+    "4": 4,
+    "5": 1
+  },
+  "reason": "Version 5 preserves nearly all substantive meaning; version 1 strengthens the qualified lesson into a personal superlative, while version 2 omits that lesson and makes phone calls sound categorically ineffective. Version 4 additionally broadens no-shows to missed appointments and changes rarely returned voicemails to never returned; version 3 introduces the most unsupported claims, including texting as the sole change, quick results, and a one-month trial.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "C",
+    "4": "E",
+    "5": "B5"
+  }
+}

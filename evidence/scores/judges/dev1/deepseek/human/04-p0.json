@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 5,
+    "3": 1,
+    "4": 4,
+    "5": 3
+  },
+  "send": "3",
+  "tells": {
+    "1": "None; plain but natural.",
+    "2": "Awkwardly inverted sentence 'The hardest part comes after, which is...' reads like a bad edit.",
+    "3": "None; the casual British phrasing feels authentic.",
+    "4": "Overly neutral phrasing and flat sequence ('After that...') sound AI-flattened.",
+    "5": "The em dash and paired colon constructions feel like AI polish."
+  },
+  "reason": "Version 3 has the most genuine voice and clear, lively instructions; it sounds like a real allotment holder rather than a polished template.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B5",
+    "3": "C",
+    "4": "B3",
+    "5": "O"
+  }
+}

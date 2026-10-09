@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 5,
+    "3": 2,
+    "4": 1,
+    "5": 3
+  },
+  "send": "3",
+  "tells": {
+    "1": "Formulaic 'Risk. Mitigation:' pairing and stiff phrases like 'redirect the capital and operating dollars they consume' read as generated corporate text.",
+    "2": "Overly parallel bolded lead-ins for each rationale and risk section create a polished but AI-structured feel.",
+    "3": "Clean and direct overall; mild tell is the consistent markdown-style headings and very even, clipped bullet rhythm.",
+    "4": "Strong human voice, but phrases like 'Extra investment in either should return more than the same money spent on the mall stores' sound like simplified AI-ROI language.",
+    "5": "The awkward phrase 'declining for good reasons we can't reverse' is semantically off, and the risks are flattened into prose in a way that feels AI-loose."
+  },
+  "reason": "Version 3 is the strongest to send: it is clear, scannable, and credible, balancing human tone with executive-ready polish. Version 4 reads as the most naturally human, but Version 3 is the better internal memo.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "O",
+    "3": "A",
+    "4": "C",
+    "5": "B5"
+  }
+}

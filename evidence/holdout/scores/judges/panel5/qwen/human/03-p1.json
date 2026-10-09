@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 5,
+    "3": 3,
+    "4": 2,
+    "5": 1
+  },
+  "send": "5",
+  "tells": {
+    "1": "The blunt setup 'It adds two things' feels mechanical and under-edited.",
+    "2": "The battery-life sentence is redundant and reads like a safe template.",
+    "3": "The 'Kestrel family' sign-off feels like generic added warmth.",
+    "4": "The bolded structure and 'silly question' line feel slightly over-packaged.",
+    "5": "none"
+  },
+  "reason": "Version 5 is the most concise, natural, and user-focused while still covering the features, timing, installation, and support. It reads like a skilled human product-marketing email rather than a generated announcement.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "B5",
+    "4": "O",
+    "5": "C"
+  }
+}

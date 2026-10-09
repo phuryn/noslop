@@ -1,0 +1,13 @@
+{
+  "send": "3",
+  "reason": "It keeps every fact and commitment: the £150 deduction for the scratched front element, damage 'beyond normal wear and tear', the photo offer, and the optional goodwill reduction to £90 with a £60 refund. It also keeps the original's measured tone. The others change the meaning in small ways (an apology, past-tense 'felt', dropping 'goodwill', 'settle quickly'), read awkwardly (5), or are unprofessional (6).",
+  "label_to_arm": {
+    "1": "V6A",
+    "2": "A",
+    "3": "B5",
+    "4": "C",
+    "5": "V6C",
+    "6": "E"
+  },
+  "picked_arm": "B5"
+}

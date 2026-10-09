@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1,
+    "4": 5,
+    "5": 4
+  },
+  "send": "3",
+  "tells": {
+    "1": "none",
+    "2": "Bold inline labels with colons on every bullet, a formulaic structure",
+    "3": "none",
+    "4": "none; it reads human but careless, with a duplicated 'What's new?', 'PDF's' and an exclamation point",
+    "5": "Forced conversational tone: a rhetorical question ('Need to change a bunch of invoices?') and the punchy fragment 'That's fixed.' on top of bold labels"
+  },
+  "reason": "Version 3 is clean, concise, consistently formatted and plain-spoken, so it reads like a competent human writer. Versions 2 and 5 show templated bold-label structure and performed casualness, and version 4 is human but sloppy.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "O",
+    "3": "track2/A-int",
+    "4": "E",
+    "5": "C"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 3,
+    "3": 1,
+    "4": 2,
+    "5": 4,
+    "6": 6
+  },
+  "send": "3",
+  "tells": {
+    "1": "Flat corporate phrasing ('We provide refrigerated trucking') and two stacked questions that sound templated",
+    "2": "Slightly hedged close ('whether that fits what you need'), but mostly none",
+    "3": "none",
+    "4": "none",
+    "5": "Generic soft-sell lines ('We'd like to help...', 'where we might fit') that read like a stock template",
+    "6": "none (the problems are human errors: a duplicated 'Hi', 'Would you be open' used twice, and awkward phrasing)"
+  },
+  "reason": "Version 3 sounds like a real person talking. It uses concrete, casual wording ('the occasional last-minute run', 'glad to pitch in'), states the 99.2% figure clearly, and makes a low-pressure ask. Version 4 is a close second for its tightness, while 6 reads as human but sloppy and 1 feels stiff and templated.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "A",
+    "3": "C",
+    "4": "B3",
+    "5": "B5",
+    "6": "E"
+  }
+}

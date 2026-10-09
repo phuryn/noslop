@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 6,
+    "2": 1,
+    "3": 2,
+    "4": 3,
+    "5": 5,
+    "6": 4
+  },
+  "send": "2",
+  "tells": {
+    "1": "Duplicate greeting and repeated 'Would you be open...' phrasing make it feel stitched/awkward.",
+    "2": "none",
+    "3": "none",
+    "4": "Generic 'where we might fit' closer and neutral 'We'd like to help' formula.",
+    "5": "Formal parallel 'Could we...' and 'Would you...' questions feel templated.",
+    "6": "Clipped CTA with no mention of fit reads like an over-pruned template."
+  },
+  "reason": "Version 2 reads most like a skilled human writer: concise, specific, and natural, with phrasing like 'pitch in' and a single clear call to action. It is the most credible and effective choice to send.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "C",
+    "3": "A",
+    "4": "B5",
+    "5": "O",
+    "6": "B3"
+  }
+}

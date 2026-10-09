@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 3,
+    "5": 6,
+    "6": 5,
+    "7": 7
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "'hop on a quick call' is a familiar sales cliché",
+    "3": "'at no cost' and 'uses now' sound stiff and generated",
+    "4": "none",
+    "5": "'Would Hearth & Wick try...' is an unnatural way to address a person",
+    "6": "duplicate of 3 with the same stiff phrasing",
+    "7": "double greeting and stacked adjectives ('sustainable, high quality and beautiful') feel AI-promotional"
+  },
+  "reason": "Version 1 is the strongest because it is direct, specific, and credible without hype. The near-identical 3 and 6 were separated only because ties are not allowed.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "C",
+    "3": "V6A",
+    "4": "A",
+    "5": "B5",
+    "6": "V6C",
+    "7": "E"
+  }
+}

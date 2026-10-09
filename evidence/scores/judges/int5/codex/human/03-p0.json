@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 4,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "none",
+    "2": "Repeated bold labels feel formulaic and add unnecessary formatting to short, clear bullets.",
+    "3": "“Before, they didn't” redundantly explains what the preceding sentence already implies.",
+    "4": "none"
+  },
+  "reason": "Version 4 is clear, concise, and ready to publish; version 1 is a close second. Version 2 feels overformatted for such brief notes, while version 3 adds an awkward redundancy; neither feature establishes AI authorship.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "O",
+    "3": "B5",
+    "4": "track2/A-int"
+  }
+}

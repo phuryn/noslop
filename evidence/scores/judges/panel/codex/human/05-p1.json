@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 5,
+    "4": 4,
+    "5": 1
+  },
+  "send": "5",
+  "tells": {
+    "1": "Generic framing such as “The consequences are significant,” followed by uniformly polished, bold-led bullets.",
+    "2": "none",
+    "3": "none; repetition, typos, and unfinished sections suggest an unedited draft, not specifically AI.",
+    "4": "Conspicuously casual substitutions such as “who the client will actually accept” and “call-outs bunch up” feel like an imposed conversational voice.",
+    "5": "none"
+  },
+  "reason": "Version 5 reads most like a carefully edited PRD: direct language, useful headings, and restrained formatting; version 2 is close. Before sending, I would distinguish confirmed replacements from escalations in the success metrics, since counting both as rescheduled obscures whether care is covered.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B3",
+    "3": "E",
+    "4": "C",
+    "5": "A"
+  }
+}

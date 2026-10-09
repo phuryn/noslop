@@ -1,0 +1,13 @@
+{
+  "send": "2",
+  "reason": "Version 2 keeps the original meaning, facts, and tone almost exactly, with only minor wording changes that still sound like me.",
+  "label_to_arm": {
+    "1": "V6A",
+    "2": "A",
+    "3": "V6C",
+    "4": "E",
+    "5": "B5",
+    "6": "C"
+  },
+  "picked_arm": "A"
+}

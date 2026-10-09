@@ -1,0 +1,11 @@
+{
+  "send": "2",
+  "reason": "It keeps the warranty coverage, free replacement, tracking email, and invitation to reply, while acknowledging both the battery failure and delayed response. It sounds direct and natural without repeating the apology.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "track2/A-int",
+    "3": "C",
+    "4": "track2/B5-int"
+  },
+  "picked_arm": "track2/A-int"
+}

@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 2,
+    "5": 5,
+    "6": 7,
+    "7": 6
+  },
+  "send": "4",
+  "tells": {
+    "1": "none",
+    "2": "Stock 'I can see why you're unhappy' opener plus 'gesture of goodwill' and 'if you'd like that'",
+    "3": "Scripted 'I understand you're unhappy' and 'how you'd like to proceed'",
+    "4": "none",
+    "5": "Ungrammatical 'which we consider goes beyond' inside the same goodwill template",
+    "6": "none",
+    "7": "Bureaucratic 'basis for the deduction' with 'Please let us know how you'd like to proceed'"
+  },
+  "reason": "Versions 1 and 4 sound like a skilled person handling a real dispute—specific and free of labeled empathy—while 2, 3, 5, and 7 recycle one goodwill-gesture script and 6 is human but too sloppy and accusatory to count as skilled. I would send 4: it is clear and credible without version 1’s slightly pushy 'settle this quickly' framing.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "V6A",
+    "3": "B5",
+    "4": "A",
+    "5": "V6C",
+    "6": "E",
+    "7": "O"
+  }
+}

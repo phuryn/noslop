@@ -1,0 +1,31 @@
+{
+  "dropped": [],
+  "changed": [
+    {
+      "item": "Original's 'conditions or kit' (a broad term covering sea state, visibility, current and so on) became 'the weather or the kit', which narrows the grounds for stopping the dive.",
+      "severity": "minor"
+    },
+    {
+      "item": "Original seeks a supervisor 'who wants to run the former' (the smooth-running kind of job), putting the emphasis on the candidate's own standards. Edit says 'We need ... for the first kind', which instead frames it as the company offering that kind of job.",
+      "severity": "minor"
+    },
+    {
+      "item": "Original's 'making the call when ... it's not right' (judgement over whether to proceed) became 'you stop it', a more specific action. This is broadly equivalent but slightly narrower.",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "The claim that an experienced person 'can tell within a day' whether a job is run well, which adds a timeframe the original doesn't state.",
+      "severity": "minor"
+    },
+    {
+      "item": "'actually maintained' adds an implied contrast with other employers that the original's 'looked after' doesn't carry.",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [
+    "within a day"
+  ],
+  "meaning_preserved": 4
+}

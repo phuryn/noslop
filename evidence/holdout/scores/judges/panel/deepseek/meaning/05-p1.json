@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2
+  },
+  "reason": "Version 3 preserves the original meaning, numbers, caveat, and request almost exactly. Version 1 is also faithful but slightly rephrases the request and confirmation wording; Version 2 changes the recommendation into a more assertive preference and drops the 'unless you see a reason not to' caveat.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B3"
+  }
+}

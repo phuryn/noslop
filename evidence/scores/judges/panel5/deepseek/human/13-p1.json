@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 2,
+    "4": 5,
+    "5": 6,
+    "6": 3
+  },
+  "send": "3",
+  "tells": {
+    "1": "none",
+    "2": "Template-like parity: every risk is followed by a 'Mitigation:' clause, with uniformly polished headings and structure.",
+    "3": "Overly clean casual-voice template with folksy headings like 'What could go wrong, and what we'd do about it' that still follow a predictable pattern.",
+    "4": "Nearly identical corporate AI memo structure with generic formal tone and uniform bold headings.",
+    "5": "Markdown-style headings and mechanical parallel structure; phrases like 'concentrate talent and inventory' feel AI-generated.",
+    "6": "Humanized AI voice with slightly unnatural idioms like 'for good reasons we can't reverse' and risk bullets turned into prose."
+  },
+  "reason": "Version 1 reads most like a real human draft, but Version 3 is the strongest combination of clear recommendation, complete detail, credibility, and natural executive voice, so I would send that.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "B3",
+    "3": "C",
+    "4": "O",
+    "5": "A",
+    "6": "B5"
+  }
+}

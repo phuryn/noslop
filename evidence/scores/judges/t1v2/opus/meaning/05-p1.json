@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 1,
+    "3": 2,
+    "4": 3
+  },
+  "reason": "Keys are version labels and values are ranks. Version 2 is nearly verbatim, dropping only 'significant'; version 3 adds that the system handles routine reassignments, which is implied; version 4 drops the 'typically' hedge, making a hedged claim absolute. Version 1 changes the most: it states that missed visits 'hurt' satisfaction and compliance instead of putting them 'at risk', turns 'validate' the target into testing whether it is 'realistic', adds when targets will be confirmed, softens 'meet' to 'should meet', and narrows 'close enough' to 'lives close enough'.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B2",
+    "3": "A",
+    "4": "B"
+  }
+}

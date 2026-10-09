@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 5,
+    "3": 4,
+    "4": 2,
+    "5": 1
+  },
+  "reason": "Version 5 stays closest to the original facts, offer, and no-pressure caveat. Version 4 follows, retaining the £12/no-extra-cost point but slightly shifting the subject/intro; versions 1 and 3 drop some caveats or closing nuance, and version 2 adds unsupported 'favourite inks' language.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "E",
+    "3": "A",
+    "4": "C",
+    "5": "B5"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 5,
+    "3": 3,
+    "4": 4,
+    "5": 1
+  },
+  "reason": "Versions 5, 1, and 3 best preserve the original facts, numbers, and caveats, with only minor wording changes; version 4 adds an unstated inbox-delivery commitment, and version 2 drops the 48-hour-from-flight caveat and the closer-look purpose.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "E",
+    "3": "A",
+    "4": "C",
+    "5": "B5"
+  }
+}

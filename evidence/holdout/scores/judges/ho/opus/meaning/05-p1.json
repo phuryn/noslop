@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 1,
+    "4": 3,
+    "5": 5
+  },
+  "reason": "Versions 3, 2 and 4 keep every fact, the Wednesday deadline, the 'unless you see a reason not to' caveat and the reply instruction; they differ only in bullet style or clause order, so they rank by closeness to the original wording. Version 1 keeps all facts but softens 'I need your call' into a request, while Version 5 drops the 'unless you see a reason not to' caveat and turns the recommendation into a stated preference.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B2",
+    "3": "B3",
+    "4": "B",
+    "5": "A"
+  }
+}

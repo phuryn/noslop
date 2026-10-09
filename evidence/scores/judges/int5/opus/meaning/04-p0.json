@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 1
+  },
+  "reason": "Version 3 is nearly word-for-word the original. Version 2 keeps every fact and the phrase 'a few ideas' and only rephrases the diary reminder, while Version 1 also keeps every fact but changes 'a few ideas' to 'some ideas', a slight shift in nuance.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "track2/B5-int",
+    "3": "track2/A-int"
+  }
+}

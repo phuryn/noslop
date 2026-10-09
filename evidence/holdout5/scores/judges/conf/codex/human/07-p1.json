@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 2,
+    "3": 1,
+    "4": 7,
+    "5": 3,
+    "6": 4,
+    "7": 6
+  },
+  "send": "3",
+  "tells": {
+    "1": "Repeated reassurance and the polished closing promise of leaving with 'nothing more than a clearer sense of your options'.",
+    "2": "The standalone 'None of this means a plan is wrong for you' feels like formulaic reassurance.",
+    "3": "The balanced 'kind and sensible' opening is somewhat generic; otherwise few conspicuous tells.",
+    "4": "none",
+    "5": "The reassuring opening, repeated qualification and soft closing feel overly patterned.",
+    "6": "The repeated reassurance and polished closing feel scripted, although naming the family makes the potential cost clearer.",
+    "7": "The symmetrical opening and closing, plus redundant reassurance, give it an overly smoothed cadence."
+  },
+  "reason": "Version 3 is direct, economical and warm enough for the subject, without repeatedly cushioning its advice. Version 4 has the strongest unpolished personal voice, but its punctuation, repetition and unsupported assumption about coverage make it the least publication-ready; stylistic tells alone cannot establish AI authorship.",
+  "label_to_arm": {
+    "1": "V6C",
+    "2": "C",
+    "3": "A",
+    "4": "E",
+    "5": "B5",
+    "6": "V6A",
+    "7": "O"
+  }
+}

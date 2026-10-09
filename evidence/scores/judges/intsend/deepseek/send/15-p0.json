@@ -1,0 +1,11 @@
+{
+  "send": "4",
+  "reason": "Version 4 stays closest to the original draft in tone and wording, keeps the same feature claims, subscription details, and medical caveats, and doesn't add unsupported specifics. It reads like a clean edit of what I wrote.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "E",
+    "3": "track2/B5-int",
+    "4": "C"
+  },
+  "picked_arm": "C"
+}

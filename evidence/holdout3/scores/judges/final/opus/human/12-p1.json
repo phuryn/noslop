@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 4,
+    "3": 2,
+    "4": 6,
+    "5": 1,
+    "6": 3
+  },
+  "send": "3",
+  "tells": {
+    "1": "Em dash plus a tacked-on, sentimental closer ('help us get these young trees in the ground!')",
+    "2": "Slightly awkward smoothing ('meet your neighbours while we get the trees in the ground') that reads like a paraphrase",
+    "3": "none",
+    "4": "Reworded flourishes ('60 saplings waiting to go in the ground', 'give these young trees a good start') that feel like stylistic rewriting rather than a notice",
+    "5": "none",
+    "6": "Closing triplet ending in an exclamation ('come along, meet your neighbours and help us…!') is a mild padded-rhythm tell"
+  },
+  "reason": "Version 5 has the unpolished feel of a real volunteer note ('21st', 'until', a run-on sentence), but it's clunky. Version 3 keeps the plain, natural voice while being the clearest and tightest, with nothing extra.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "A",
+    "3": "B3",
+    "4": "C",
+    "5": "E",
+    "6": "B5"
+  }
+}

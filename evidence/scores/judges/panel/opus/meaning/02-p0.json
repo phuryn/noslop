@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3,
+    "4": 4
+  },
+  "reason": "Version 2 keeps every fact and the tentative question, adding only the puffery 'a lot of'. Version 1 adds 'anywhere' and 'occasional', which change the scope slightly. Versions 3 and 4 turn the tentative question into a flat assertion ('We could cover...'), and 4 also drops the 'where we might fit' hedge.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "E",
+    "3": "A",
+    "4": "B3"
+  }
+}

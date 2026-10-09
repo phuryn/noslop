@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 3,
+    "4": 2
+  },
+  "send": "4",
+  "tells": {
+    "1": "none",
+    "2": "Templated bolded section headers (What you'll do / What we're after / Pay) and the stacked triad 'real days off, nights that actually end, and a schedule you can plan a life around'",
+    "3": "The rhythmic rule-of-three in the schedule line plus the too-neat 'without turning the kitchen into a pressure cooker' wordplay",
+    "4": "Overly polished cadence and the cute 'pressure cooker' pun; the opening 'We cook over fire, we're slammed... and we like it that way' feels engineered"
+  },
+  "reason": "Version 1 reads like a real owner's job post: clunky, clichéd, and repetitive, but authentic. Version 4 keeps the vivid, specific voice of the rewrites, cuts the most formulaic triad and the headers, and is the strongest post to actually publish.",
+  "label_to_arm": {
+    "1": "gen/E-write",
+    "2": "O",
+    "3": "B3",
+    "4": "A"
+  }
+}

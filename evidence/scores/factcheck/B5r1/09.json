@@ -1,0 +1,29 @@
+{
+  "dropped": [
+    {
+      "item": "Acknowledgment that this is not the experience the company wants the customer to have",
+      "severity": "minor"
+    },
+    {
+      "item": "Thanks for reaching out",
+      "severity": "minor"
+    },
+    {
+      "item": "Assurance that the team will be glad to help with questions",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "'If you have any questions in the meantime' became 'If you have questions before it arrives', which narrows the invitation to the period before delivery",
+      "severity": "minor"
+    },
+    {
+      "item": "'I apologize for the wait in getting back to you' became 'sorry it took us so long to get back to you', which slightly strengthens the admission of delay",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

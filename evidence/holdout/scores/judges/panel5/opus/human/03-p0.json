@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 3,
+    "4": 5,
+    "5": 1
+  },
+  "send": "5",
+  "tells": {
+    "1": "Circular padding: 'gives your hearing aids longer battery life, so they run longer on each charge' restates itself.",
+    "2": "Stock warm closer 'Thanks for being part of the Kestrel family' plus 'no question is too small' reads a bit templated.",
+    "3": "Bolded feature labels with a filler payoff ('so you can go further before plugging in') feel formatted for skimming rather than written.",
+    "4": "Bold-header listicle structure, redundant 'run longer on each charge, so you can go further between charges', and the cliché 'no such thing as a silly question'.",
+    "5": "none"
+  },
+  "reason": "Version 5 puts the key facts (what, free, when, where) in the first sentence, states the battery benefit once without padding, and has a specific subject line. It's the clearest and most natural for an older audience that needs the essentials fast.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B5",
+    "3": "C",
+    "4": "O",
+    "5": "B3"
+  }
+}

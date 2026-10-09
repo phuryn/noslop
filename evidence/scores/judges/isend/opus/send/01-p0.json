@@ -1,0 +1,11 @@
+{
+  "send": "1",
+  "reason": "Version 1 keeps every fact and hedge intact, including 'hit or miss,' 'rarely,' 'sometimes the biggest wins' and 'worth testing,' and reads naturally; its only loss is the closing question, which I can add back. The others overstate claims ('weren't working,' 'never returned,' 'should trial'), add details I didn't say ('showed up quickly,' 'for a month'), or drop the main lesson.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "A",
+    "3": "E",
+    "4": "C"
+  },
+  "picked_arm": "B5"
+}

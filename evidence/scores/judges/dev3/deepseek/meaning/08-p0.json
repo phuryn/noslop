@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 2,
+    "4": 3
+  },
+  "reason": "Version 1 preserves all key claims and caveats; Version 3 omits only the final value clause. Version 4 paraphrases closely but drops the 'other health markers' caveat and some final nuance, while Version 2 changes the recommendation to 'bloodwork' and omits the guidance and value points.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "A",
+    "3": "B3",
+    "4": "C"
+  }
+}

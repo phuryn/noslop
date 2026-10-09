@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3
+  },
+  "reason": "Version 2 keeps every fact and claim and changes only formatting. Version 1 drops the 'so your transactions show up sooner' benefit, and Version 3 adds an unsupported 'much sooner'; an added claim distorts the original more than a dropped, implied consequence.",
+  "label_to_arm": {
+    "1": "B",
+    "2": "A",
+    "3": "C"
+  }
+}

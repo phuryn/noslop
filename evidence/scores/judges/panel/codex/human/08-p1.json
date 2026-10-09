@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 3,
+    "3": 2,
+    "4": 1,
+    "5": 5
+  },
+  "send": "4",
+  "tells": {
+    "1": "none",
+    "2": "The stacked conversational phrases feel engineered, and 'get the full picture' is a generic, overpromising closer.",
+    "3": "none",
+    "4": "none",
+    "5": "The closing phrase stacks generic benefits—'a fuller picture' and 'make the most'—after the useful information is already complete."
+  },
+  "reason": "Version 4 best balances a natural clinic voice, clear explanation, and a straightforward price statement; version 3 is close but slightly more clipped. These rankings assess editorial feel, not evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "C",
+    "3": "A",
+    "4": "B3",
+    "5": "O"
+  }
+}

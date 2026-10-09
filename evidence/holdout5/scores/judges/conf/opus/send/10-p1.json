@@ -1,0 +1,13 @@
+{
+  "send": "6",
+  "reason": "Version 6 keeps every fact without adding any: 15 years of experience, not 15 years at Limbwise as versions 1 and 4 imply. It also keeps fit as an ongoing consideration and comfort, function and everyday life at the centre, without the stronger 'checked repeatedly' (5) or the dropped content and assigned gender (3).",
+  "label_to_arm": {
+    "1": "V6A",
+    "2": "C",
+    "3": "E",
+    "4": "V6C",
+    "5": "A",
+    "6": "B5"
+  },
+  "picked_arm": "B5"
+}

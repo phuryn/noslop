@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3
+  },
+  "reason": "Version 2 keeps every fact, number, and caveat with only minor wording shifts, while Version 1 also stays close but turns 'replacements meet' into 'must meet', which reads as a stronger requirement. Version 3 is least faithful: it drops 'not for routine reassignments' from goal 2, adds the claim that targets 'will be confirmed then', and folds the consequence bullets into prose, losing the 'outcomes depend on who is working' framing.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "track2/B5-int",
+    "3": "track2/A-int"
+  }
+}

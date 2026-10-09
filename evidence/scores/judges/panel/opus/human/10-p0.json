@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 5,
+    "3": 1,
+    "4": 3,
+    "5": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none; its stripped-down, almost over-trimmed evenness is the only faint sign of an editing pass",
+    "2": "\"On a happier note\" plus the benefit-padding clause \"so you have more ways to fit a workout into your week\"; the copy is over-smoothed and frames the price as bad news",
+    "3": "none; the comma splice, \"1st\" ordinals, exclamation points, and slightly clunky \"renew at the new rate\" read like a real studio owner",
+    "4": "the tacked-on benefit justification \"so you'll have more options during the week\", which doesn't quite fit Sunday classes",
+    "5": "the formulaic benefit clause \"to give you more options during the week\" and uniformly polished, template-like phrasing"
+  },
+  "reason": "Version 3 has the most natural human texture but also small errors, so I'd send Version 1. It states the increase, the grandfathered rate, and the new classes plainly, with no padding or spin, which keeps it credible.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "E",
+    "4": "B3",
+    "5": "O"
+  }
+}

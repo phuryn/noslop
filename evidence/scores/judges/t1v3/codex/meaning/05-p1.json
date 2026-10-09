@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 4,
+    "4": 1
+  },
+  "reason": "Version 4 preserves the original meaning most closely; version 1 slightly strengthens the routine-automation commitment, while version 2 removes the caveat that coordinators “typically” use phone and text. Version 3 introduces more substantive shifts, including proximity becoming residence, risks becoming asserted harms, weaker match requirements, and added timing for target confirmation.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B",
+    "3": "C",
+    "4": "B3"
+  }
+}

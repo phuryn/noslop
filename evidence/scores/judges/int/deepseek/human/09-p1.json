@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1,
+    "4": 4
+  },
+  "send": "3",
+  "tells": {
+    "1": "none",
+    "2": "Templated phrasing like 'as soon as it ships' and 'Thank you for your patience.'",
+    "3": "none",
+    "4": "Corporate filler phrases like 'That's not the experience we want you to have' and 'again, my apologies for the inconvenience.'"
+  },
+  "reason": "Version 3 is the most natural, empathetic, and concise while clearly stating the solution. Version 4 feels the most AI-generated because of its polished, formulaic apologies.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "track2/B3-int",
+    "3": "B3",
+    "4": "O"
+  }
+}

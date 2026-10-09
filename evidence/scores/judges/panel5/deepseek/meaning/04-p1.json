@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 5,
+    "3": 3,
+    "4": 4,
+    "5": 2
+  },
+  "reason": "Version 1 stays closest to the original with only punctuation/contraction changes. Versions 5 and 3 are also very faithful but have minor wording shifts; version 4 loses some context like 'this week'/'small job now,' and version 2 omits the invitation to come for a chat and ideas for next season.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "E",
+    "3": "B5",
+    "4": "C",
+    "5": "B3"
+  }
+}

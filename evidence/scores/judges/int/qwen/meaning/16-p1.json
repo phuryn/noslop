@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "Version 1 most closely preserves the original facts and nuance, while Version 2 is nearly as faithful but drops the explicit 'usual things' framing. Version 3 adds only writer-supplied facts but omits several original facts and strengthens 'hadn’t given much thought' to 'never considered.'",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "B3",
+    "3": "track2/B3-int"
+  }
+}

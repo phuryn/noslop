@@ -1,0 +1,11 @@
+{
+  "send": "1",
+  "reason": "Version 1 keeps every fact, caveat and thank-you, including the closing 'good moment to pause' line and the 'small part of the textile waste' caveat, and it stays closest to my own wording. Version 2 drops 'care' and the closing line, version 3 changes the tone and loses the scale caveat, and version 4 adds phrasing I didn't write, such as 'isn't mine to take credit for' and 'lucky.'",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "A",
+    "3": "E",
+    "4": "C"
+  },
+  "picked_arm": "B5"
+}

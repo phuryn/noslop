@@ -1,0 +1,11 @@
+{
+  "send": "1",
+  "reason": "Version 1 keeps all the original facts and caveats, including other health markers, baseline tracking, and the practical value of the $129 panel, while sounding like a natural, slightly tightened version of the original.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "E",
+    "3": "C",
+    "4": "A"
+  },
+  "picked_arm": "B5"
+}

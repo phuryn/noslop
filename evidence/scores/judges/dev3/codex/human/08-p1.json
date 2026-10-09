@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1,
+    "4": 4,
+    "5": 5
+  },
+  "send": "3",
+  "tells": {
+    "1": "none",
+    "2": "The closing benefit statement feels padded, repeating the value of testing in generic promotional language.",
+    "3": "none",
+    "4": "The clustered casual phrases feel deliberately conversational, while “get the full picture” overstates what the testing offers.",
+    "5": "The closing pair of generic benefits—“get a fuller picture” and “make the most”—feels like a formulaic marketing wrap-up."
+  },
+  "reason": "Version 3 is direct, restrained, and clear, with a straightforward price statement and no redundant sales pitch; version 1 is a close second. These rankings reflect editorial impressions, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "B5",
+    "3": "A",
+    "4": "C",
+    "5": "O"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 1
+  },
+  "reason": "Version 3 best preserves the specific bug-fix claim; versions 1 and 2 broaden it slightly into an unqualified statement that currency symbols display correctly. Those two are nearly equivalent, but version 2 retains the explicit comparison to editing invoices one by one.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "track2/B3-int",
+    "3": "track2/A-int"
+  }
+}

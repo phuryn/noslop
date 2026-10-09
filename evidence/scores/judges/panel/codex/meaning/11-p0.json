@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 4,
+    "3": 2,
+    "4": 1
+  },
+  "reason": "Version 4 preserves all substantive meaning; version 3 omits the explicit assurance of a schedule you can plan a life around. Version 1 adds a stronger promise of finishing at a decent hour and turns concern for seasoning into literal tasting, while version 2 drops several scheduling, leadership, and autonomy commitments and adds open-ended responsibilities.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "E",
+    "3": "A",
+    "4": "B3"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "dropped": [
+    {
+      "item": "400 sq ft meant making choices: every shelf, table, and book had to earn its place",
+      "severity": "minor"
+    },
+    {
+      "item": "They couldn't stock everything but could make a start",
+      "severity": "minor"
+    },
+    {
+      "item": "Wondering how they ever fit a bookshop inside the first space",
+      "severity": "minor"
+    },
+    {
+      "item": "'And you came through the door' (customers showed up even in the small space)",
+      "severity": "minor"
+    },
+    {
+      "item": "Specific thanks to those who bought a book, recommended the shop to a friend, or stopped in to browse over the past decade",
+      "severity": "minor"
+    },
+    {
+      "item": "Those visits helped us get here (customer visits as the reason for success)",
+      "severity": "minor"
+    },
+    {
+      "item": "A book sold early may have been reread or passed along",
+      "severity": "minor"
+    },
+    {
+      "item": "'An anniversary to celebrate' framing in the opening post",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "Size of the original space changed from '400 sq ft' to 'a little over 400 square feet'",
+      "severity": "minor"
+    },
+    {
+      "item": "Sentiment about the first space changed from wondering how they fit a bookshop in it to 'pine for that original space' (longing/nostalgia)",
+      "severity": "minor"
+    },
+    {
+      "item": "Certainty changed from a book 'might still be sitting on someone's shelf' to books 'probably still sitting on shelves'",
+      "severity": "minor"
+    },
+    {
+      "item": "'When we first opened' became 'day one', and the recipient became 'shelves of books you've purchased from us' (a garbled scope change from 'someone's shelf')",
+      "severity": "minor"
+    },
+    {
+      "item": "'Those visits helped us get here' strengthened to 'We wouldn't be here today without all of you'",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "Shop is 'bursting at the seams with books'",
+      "severity": "minor"
+    },
+    {
+      "item": "Original space described as 'crammed' and 'opened our doors to the public'",
+      "severity": "minor"
+    },
+    {
+      "item": "'To say that our little 400 square foot bookshop was small is an understatement'",
+      "severity": "minor"
+    },
+    {
+      "item": "Party described as 'fun'",
+      "severity": "minor"
+    },
+    {
+      "item": "Space was 'a little over' 400 square feet",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [
+    "a little over 400 square feet",
+    "books we sold on day one"
+  ],
+  "meaning_preserved": 4
+}

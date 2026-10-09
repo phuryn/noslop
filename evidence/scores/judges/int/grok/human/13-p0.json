@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Repeated 'Mitigation:' labels and colon-style next steps give it a template rhythm.",
+    "3": "Consultant diction ('structural decline,' 'capture customers,' 'targeted outreach') plus uniform Mitigation prefixes.",
+    "4": "Bold lead-ins on nearly every point, especially the one-word header 'Flexibility.'"
+  },
+  "reason": "Version 1 sounds like a colleague writing to leadership: plain headers, integrated risk language, and no bold scaffolding. Versions 2–4 grow more templated, and 4’s labeled parallelism is the clearest AI pattern; I would send 1 because it stays clear and credible without sounding generated.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "track2/B3-int",
+    "3": "B3",
+    "4": "O"
+  }
+}

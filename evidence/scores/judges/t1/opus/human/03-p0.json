@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3,
+    "4": 4
+  },
+  "send": "2",
+  "tells": {
+    "1": "Every bullet uses a 'Label: description' structure, which is mildly formulaic but common in real changelogs.",
+    "2": "none",
+    "3": "Bolded inline label before every bullet, plus bold and italic used on the title and date.",
+    "4": "Forced casual tone, such as the rhetorical 'Need to change a bunch of invoices?' and the punchy 'That's fixed.'"
+  },
+  "reason": "Version 2 is plain, specific and scannable, with proper headings and a user benefit stated without fuss, which is how a skilled product writer handles release notes. Version 4 overcorrects into chatty filler, and Version 3 leans on the bold-label bullet pattern that often signals AI formatting.",
+  "label_to_arm": {
+    "1": "B",
+    "2": "A",
+    "3": "O",
+    "4": "C"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "send": "2",
+  "reason": "It keeps what I meant: two-way rescheduling made the difference, the 11 hours saved matter most to me, and the results have exceptions and a possible seasonal explanation. It also reads like my own candid account without adding unsupported claims or advice.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "track2/B5-int",
+    "3": "C",
+    "4": "track2/A-int"
+  },
+  "picked_arm": "track2/B5-int"
+}

@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 3
+  },
+  "reason": "Versions 1 and 2 preserve the original facts and commitments most closely, with version 1 retaining the explicit feature labels. Version 4 drops the explicit benefit that transactions appear sooner; version 3 adds an unsupported claim about opening invoices individually and strengthens “sooner” to “much sooner.”",
+  "label_to_arm": {
+    "1": "B2",
+    "2": "A",
+    "3": "C",
+    "4": "B"
+  }
+}

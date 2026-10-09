@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 4,
+    "4": 5,
+    "5": 3
+  },
+  "reason": "Version 2 keeps every duty, qualifier, benefit, and pay figure with only harmless rewording. Version 1 drops “closely” and adds a “day to day” frame; 5 omits the life-plannable schedule; 3 softens “slammed,” turns salt care into a tasting task, and promises nights end at a decent hour; 4 drops multiple commitments and adds scope, voice, and requirement changes.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "B3",
+    "3": "C",
+    "4": "E",
+    "5": "A"
+  }
+}

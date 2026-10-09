@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2
+  },
+  "reason": "Version 2 keeps the prices, dates, current-member commitment through March 1, the classes’ purpose of more weekly options, and the open invite to ask about the change. Version 3 is close but narrows questions to the price change and adds “too”; version 1 drops the options purpose and recasts the community thanks as membership.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "B3",
+    "3": "track2/B3-int"
+  }
+}

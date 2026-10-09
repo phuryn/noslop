@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 1,
+    "4": 5,
+    "5": 4
+  },
+  "reason": "Version 3 preserves the original claims most precisely; versions 2 and 1 remain faithful but recast the PDF bug fix as a general statement of correct display. Version 5 adds an invoice-opening workflow and strengthens “sooner” to “much sooner,” while version 4 changes incorrect currency-symbol display to symbols not appearing at all.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "B3",
+    "3": "A",
+    "4": "E",
+    "5": "C"
+  }
+}

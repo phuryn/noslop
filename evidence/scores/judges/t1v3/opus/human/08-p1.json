@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 2,
+    "4": 5,
+    "5": 3
+  },
+  "send": "3",
+  "tells": {
+    "1": "The closing line 'a simple way to get the full picture' is a stock marketing wrap-up, though the rest reads naturally ('hits 7', 'something's off').",
+    "2": "none. It's terse and the price drops in abruptly, but nothing reads as AI.",
+    "3": "The 'which helps guide care as your dog ages' clause is slightly generic, but otherwise none.",
+    "4": "Stacked em dashes, the hedged 'can help spot... noticeable symptoms', and a tacked-on value-proposition close ('a practical way to get a fuller picture... make the most of their yearly checkup').",
+    "5": "The final clause 'can be done as part of the yearly checkup' restates what was already said, a mild filler tell."
+  },
+  "reason": "Version 3 is clear, credible and natural without padding, and it keeps the 'more than vaccines' hook and the 'before you'd notice' reader framing. Version 1 has the warmest voice but ends on a salesy cliché, and Version 4 shows the most obvious AI polish.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B3",
+    "4": "O",
+    "5": "B"
+  }
+}

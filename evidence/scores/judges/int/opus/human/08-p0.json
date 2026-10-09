@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 3,
+    "4": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Em dashes plus a salesy closing tagline ('a practical way to get a fuller picture... make the most of their yearly checkup') that restates the pitch",
+    "3": "Tacked-on benefit clause after the price ('gives you a fuller picture of your dog's health'), a mild marketing flourish",
+    "4": "Slightly flattened, generic phrasing ('can show changes', 'before symptoms appear') that reads a little sanitized"
+  },
+  "reason": "Version 1 is direct, conversational ('before you'd notice symptoms'), and ends cleanly on the price without padding, which reads as the most credible and human. Version 2 piles on em dashes and a promotional summary line that feels like AI-polished marketing copy.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "O",
+    "3": "track2/B3-int",
+    "4": "track2/A-int"
+  }
+}

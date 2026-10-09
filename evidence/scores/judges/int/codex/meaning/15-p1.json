@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1
+  },
+  "reason": "Version 3 preserves the original commitments and caveats while adding only writer-supplied facts. Version 1 omits what Premium unlocks but retains starting at no cost and support for consistency; version 2 also weakens free use to free download and drops the explicit consistency benefit.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "track2/A-int",
+    "3": "track2/B3-int"
+  }
+}

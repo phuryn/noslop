@@ -1,0 +1,11 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2
+  },
+  "reason": "Both drop the closing 'clear result for a team committed to high food safety standards' framing. Version 2 also loses 'came to us', the fact that Ashby Mill approached the company, while Version 1 keeps it.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3"
+  }
+}

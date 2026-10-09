@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "Version 1 keeps nearly all original meaning and commitments without adding unsupported facts. Version 2 drops the 'something to look forward to' promise, and Version 3 removes the whole 'Make room for a monthly bake' section, losing more original nuance despite its allowed subscriber fact.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "track2/A-int",
+    "3": "track2/B3-int"
+  }
+}

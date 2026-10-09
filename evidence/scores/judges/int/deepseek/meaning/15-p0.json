@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2
+  },
+  "reason": "Version 1 keeps the core original commitments while only adding writer-supplied facts (312 videos, Gwen Harper, rating, custom PT programs). Version 3 is mostly faithful but drops the Premium 'unlock more' value, and Version 2 drops that plus the 'stay consistent' recovery nuance.",
+  "label_to_arm": {
+    "1": "track2/B3-int",
+    "2": "track2/A-int",
+    "3": "B3"
+  }
+}

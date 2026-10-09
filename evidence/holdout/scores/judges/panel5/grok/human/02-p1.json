@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2,
+    "4": 5,
+    "5": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "\"sounds of interest\" is an awkward mix of \"sounds interesting\" and \"of interest\"",
+    "3": "\"I think you're currently... so I wondered\" is a formulaic hedge",
+    "4": "the vacancy leads and the candidate reason feels bolted on, then a curt close",
+    "5": "\"you might want to hear about\" is soft-sell phrasing with a thin close"
+  },
+  "reason": "Version 1 reads like a recruiter who actually looked: a specific observation, a natural fit line, then pay, rota, and a low-pressure ask. The others hedge, rearrange the pitch, or stumble on a phrase.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "O",
+    "3": "A",
+    "4": "B5",
+    "5": "B3"
+  }
+}

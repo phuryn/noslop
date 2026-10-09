@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2,
+    "4": 4,
+    "5": 5
+  },
+  "reason": "Version 1 preserves all key facts, caveats, and framing. Version 3 retains the medical facts and baseline guidance but omits the final value statement; Version 2 drops 'other health markers'; Version 4 loses the 'more than vaccines' nuance; Version 5 changes the recommendation into a question and omits the pre-symptom and baseline points.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "C",
+    "3": "B3",
+    "4": "A",
+    "5": "E"
+  }
+}

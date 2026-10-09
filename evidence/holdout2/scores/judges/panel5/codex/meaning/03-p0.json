@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1
+  },
+  "reason": "All three preserve the facts, numbers, commitments, and caveats. Version 3 stays closest to the original’s explicit framing and references, followed by version 1; version 2 slightly reduces specificity by omitting “to the booth” and shortening “engine cutaway display specs,” though context preserves the meaning.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "B5"
+  }
+}

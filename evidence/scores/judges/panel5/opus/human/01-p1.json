@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 5,
+    "3": 4,
+    "4": 6,
+    "5": 3,
+    "6": 2
+  },
+  "send": "6",
+  "tells": {
+    "1": "none. The run-on sentences, unbulleted list fragments and 'utilising' read like a genuine unpolished draft.",
+    "2": "Tidy summary line 'What I took from this is that sometimes the biggest operational wins come from meeting people where they already are,' plus the 'for the practice and for the people we serve' pairing.",
+    "3": "The polished three-part list ('fewer empty chairs, less phone time..., and more patients getting the care they need when they need it') feeding into a neat 'meeting patients where they already are' moral.",
+    "4": "Template LinkedIn structure: one-line hook, 'The change was simple:', 'Here's what that meant in practice:' with three bullets, 'The lesson for me:', then an engagement question.",
+    "5": "A slightly formulaic closing pair of a CTA plus an engagement question, but otherwise minimal.",
+    "6": "The 'A no-show isn't just a hole in the schedule. It's...' contrast construction."
+  },
+  "reason": "Version 1 reads most human but is too clunky to publish. Version 6 has the most natural first-person voice, concrete detail ('all we did was start texting people', 'try texts for a month') and a credible tone, so it is the strongest to send, ideally after removing the 'isn't just... It's' line.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "B5",
+    "3": "B3",
+    "4": "O",
+    "5": "A",
+    "6": "C"
+  }
+}

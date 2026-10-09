@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 4,
+    "4": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "Overly formulaic empathy phrases like 'That’s not the experience we want you to have' and 'again, my apologies for the inconvenience.'",
+    "4": "none"
+  },
+  "reason": "Version 2 reads most like a skilled human wrote it: it apologizes first, states the resolution directly, and avoids corporate filler. Version 3 is the most AI-sounding due to formulaic empathy, and Version 4 is a bit too curt.",
+  "label_to_arm": {
+    "1": "track2/B3-int",
+    "2": "B3",
+    "3": "O",
+    "4": "track2/A-int"
+  }
+}

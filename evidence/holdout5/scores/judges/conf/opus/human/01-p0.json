@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2,
+    "4": 4,
+    "5": 5,
+    "6": 6,
+    "7": 7
+  },
+  "send": "3",
+  "tells": {
+    "1": "Compressed punchy closers ('These results are yours.', 'At this scale, that's a big deal.') feel like a polish pass aimed at quotability",
+    "2": "none (its flaws are human ones: the repeated 'to our customers' and a slightly awkward 'It might not sound like much')",
+    "3": "Mild rule-of-three benefits list (environment, running costs, strain on resources), though it's kept fairly plain",
+    "4": "Tidy 'There's more to do... but it's good to stop and recognise progress when it happens' wrap-up formula",
+    "5": "'None of this happens just because a machine arrives' contrast setup, plus the stacked tricolons and 'pause and recognise progress' cadence",
+    "6": "Redundant emphasis ('surprised us. It's bigger than we expected') and a colon-led list ('New equipment, new routines, new ways of working:') for dramatic rhythm",
+    "7": "Same as 6: redundant 'surprised us. It's bigger than we expected' and the stylised colon list, here near-duplicate boilerplate"
+  },
+  "reason": "Version 2 reads most like an unpolished human draft, but it has clumsy repetition and a vague payoff. Version 3 keeps the concrete details and sincere thanks in plain, tight language, without the rhetorical flourishes of the heavier rewrites.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "E",
+    "3": "A",
+    "4": "B5",
+    "5": "O",
+    "6": "V6A",
+    "7": "V6C"
+  }
+}

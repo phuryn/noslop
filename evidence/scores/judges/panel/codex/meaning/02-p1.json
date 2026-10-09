@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2,
+    "4": 4
+  },
+  "reason": "Version 2 preserves the original most closely; version 3 slightly shifts last-minute delivery help toward picking up loads. Version 1 adds an unsupported volume claim (“a lot”), while version 4 broadens coverage to “anywhere” within 250 miles and narrows last-minute needs to “occasional” runs.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "B3",
+    "3": "A",
+    "4": "C"
+  }
+}

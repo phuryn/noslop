@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 3,
+    "3": 5,
+    "4": 1,
+    "5": 2
+  },
+  "reason": "Version 4 keeps every fact and nuance. Version 5 only strengthens the thank-you to 'we wouldn't be here without you'. Version 2 drops a few small phrases. Version 1 adds invented details (first week, reread a dozen times, a borrowed book never returned, 'started with what we loved'). Version 3 cuts the shelf-choices content and adds claims like 'a little over 400', 'bursting at the seams' and 'pine for'.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "E",
+    "4": "B3",
+    "5": "B5"
+  }
+}

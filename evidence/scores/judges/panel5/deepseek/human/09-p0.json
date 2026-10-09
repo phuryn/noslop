@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 6,
+    "4": 3,
+    "5": 5,
+    "6": 2
+  },
+  "send": "6",
+  "tells": {
+    "1": "none",
+    "2": "Terse, slightly formulaic closing: 'reply to this message' without warmth.",
+    "3": "Corporate empathy clichés and stacked apologies.",
+    "4": "Overly compressed next steps, creating a slightly abrupt, mechanical feel.",
+    "5": "Mixed formal/casual register and awkward phrasing like 'two year warranty' and 'just hit reply.'",
+    "6": "none"
+  },
+  "reason": "Version 6 is clear and concise, has a helpful subject line, and sounds warm but professional without over-apologizing.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "O",
+    "4": "B3",
+    "5": "E",
+    "6": "B5"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 5,
+    "3": 3,
+    "4": 4,
+    "5": 1
+  },
+  "send": "5",
+  "tells": {
+    "1": "The date line 'Releases October 14' feels slightly mechanical.",
+    "2": "Overly chatty rhetorical questions and the sloppy 'PDF's' apostrophe make it feel unedited.",
+    "3": "none",
+    "4": "The forced conversational question and 'That's fixed.' feel artificially breezy.",
+    "5": "The bold-label bullets and 'Fixed a bug' phrasing are a bit formulaic."
+  },
+  "reason": "Version 5 is the most publication-ready: concise, consistent, and user-focused without the chattiness of 2 or 4. It has a slight templated feel, but it best balances clarity, credibility, and human tone.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "E",
+    "3": "A",
+    "4": "C",
+    "5": "O"
+  }
+}

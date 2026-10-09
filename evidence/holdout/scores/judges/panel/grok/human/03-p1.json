@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 2,
+    "4": 3
+  },
+  "send": "3",
+  "tells": {
+    "1": "Symmetrical bold feature blurbs capped by the stock line 'No question is too small.'",
+    "2": "'There's no such thing as a silly question,' plus hedged, over-parallel phrasing that sands off every rough edge.",
+    "3": "Canned announcement rhythm: 'is coming,' 'adds two improvements,' 'The rollout begins.'",
+    "4": "Fact-packed appositive lede ('Firmware 3.4, a free update...') with a tacked-on cliché."
+  },
+  "reason": "Version 1 has the most natural spoken rhythm, while version 2 reads like a smoothed paraphrase full of support-script phrasing. I would send version 3: it states the update, benefits, and install steps clearly without vague claims or patronizing reassurance.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "O",
+    "3": "A",
+    "4": "B3"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2,
+    "4": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "“Never as a way of leaving the room” feels polished into an abstraction that is less natural than the underlying thought.",
+    "3": "The evenly balanced sentences feel slightly standardized, though nothing strongly signals AI.",
+    "4": "“Found myself doing” and “hadn’t given much thought” add softening language that makes the voice feel more generic."
+  },
+  "reason": "Version 1 has the most convincing individual voice: its varied rhythm and concrete recollections make the restrained ending feel earned. Version 3 is smoother but less distinctive; these are editorial judgments, not reliable evidence of authorship.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B",
+    "3": "A",
+    "4": "O"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 5,
+    "4": 4,
+    "5": 3,
+    "6": 6
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "mild generic positivity and formulaic update phrasing",
+    "3": "overly chipper embellishments and cliché lines, especially the sparkle emoji and “Many hands make this go fast”",
+    "4": "slightly stiff, template-like phrasing such as “an update on Deep Time:” and “install is back on track”",
+    "5": "the folksy line “The more of us there are, the faster it goes” feels a bit manufactured",
+    "6": "awkward, vague, and unfinished phrasing, especially “we’re going to install” and “mounting them”"
+  },
+  "reason": "Version 1 is the most convincing because it is concise, Slack-native, and avoids extra cheerleading. It would be the one to send since it clearly states the date change, fix, and volunteer ask without sounding over-polished.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "B5",
+    "3": "O",
+    "4": "A",
+    "5": "C",
+    "6": "E"
+  }
+}

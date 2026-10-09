@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 5,
+    "4": 4,
+    "5": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "The tidy 'with only...' clause and 'target date' phrasing feel slightly templated and corporate.",
+    "3": "The three short, evenly spaced sentences feel mechanical, especially 'The remaining piece is...'",
+    "4": "'The Android biometric flow is the remaining piece' sounds formulaic and status-report-ish.",
+    "5": "'Only big piece' and 'hit Nov 3' are natural but slightly vague/performative, which can read as AI trying to sound casual."
+  },
+  "reason": "Version 1 is the most natural Slack update: concise, clear, and human without sounding templated or over-polished. It conveys progress, remaining work, and timing in one easy line.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "A",
+    "3": "O",
+    "4": "B3",
+    "5": "C"
+  }
+}

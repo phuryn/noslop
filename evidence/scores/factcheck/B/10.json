@@ -1,0 +1,21 @@
+{
+  "dropped": [
+    {
+      "item": "Stated rationale for Sunday evening classes: 'to give you more options during the week'",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "'If you have any questions about the change' narrowed to 'questions about the price change', which could read as excluding questions about the new Sunday classes",
+      "severity": "minor"
+    },
+    {
+      "item": "'Thank you for being part of our community' became 'Thanks for being a member', which loses the community framing",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

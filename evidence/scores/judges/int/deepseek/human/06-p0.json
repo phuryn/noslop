@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "The customer story is dropped in abruptly and the heading 'Rosa baked hers...' creates an odd non-sequitur, as if inserted as social proof.",
+    "3": "Generic filler like 'Give yourself something to look forward to each month' and the more formal 'which leaves' construction.",
+    "4": "Overly formulaic paired slogans ('A little measuring done. A little joy delivered.' / 'Less measuring. More making.') and clipped fragments."
+  },
+  "reason": "V1 reads the most natural and unforced, with concrete, human phrasing and no obvious AI mannerisms. The other versions add formulaic slogans, generic filler, or an abruptly inserted testimonial.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "track2/B3-int",
+    "3": "B3",
+    "4": "O"
+  }
+}

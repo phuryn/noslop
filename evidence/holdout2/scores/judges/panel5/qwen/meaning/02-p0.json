@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "Version 1 preserves the core apology, acknowledgment of disruption, and thanks most closely. Version 2 keeps the usage examples but omits the explicit disruption acknowledgment and slightly changes 'whether' to 'when'; Version 3 also omits the gratitude closing.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B5",
+    "3": "B3"
+  }
+}

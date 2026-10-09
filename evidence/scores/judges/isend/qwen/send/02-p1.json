@@ -1,0 +1,11 @@
+{
+  "send": "2",
+  "reason": "It preserves the same facts and intent while reading cleanly and professionally, without added caveats or awkward phrasing.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B5",
+    "3": "E",
+    "4": "C"
+  },
+  "picked_arm": "B5"
+}

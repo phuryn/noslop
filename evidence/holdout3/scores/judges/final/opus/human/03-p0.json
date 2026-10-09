@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 6,
+    "3": 3,
+    "4": 1,
+    "5": 4,
+    "6": 5
+  },
+  "send": "4",
+  "tells": {
+    "1": "Stock closer 'makes your desk a little more colourful'; otherwise a tidy compression with no strong tells",
+    "2": "A bullet list that repeats the paragraph above it, plus the filler reassurance 'and that's it'",
+    "3": "An awkwardly tacked-on appositive ('our thank you for being part of our community'); otherwise none",
+    "4": "none",
+    "5": "none (it reads as an unpolished human draft: a dangling modifier, '3 x 30ml', a trailing ellipsis and a wordy P.S.)",
+    "6": "Over-trimmed to a flat, purely transactional summary with no warmth or voice"
+  },
+  "reason": "Version 4 has the most natural voice, with specific touches like 'stop mid-page' and 'nothing else to pay', and it puts the launch date before the discount, which feels human. It keeps the warmth without padding, while 2 is padded with a redundant list and 5 is clumsy, though clearly human.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "O",
+    "3": "B3",
+    "4": "C",
+    "5": "E",
+    "6": "A"
+  }
+}

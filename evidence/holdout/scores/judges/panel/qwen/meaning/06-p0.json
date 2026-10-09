@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "Version 1 is identical in meaning to the original, while Version 2 preserves all key facts with only a harmless reordering. Version 3 is least faithful because it softens the temperature requirement and slightly alters or adds details such as 'brush' and 'drips'.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "C"
+  }
+}

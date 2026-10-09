@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 3,
+    "3": 5,
+    "4": 1,
+    "5": 2
+  },
+  "reason": "V4 keeps nearly every claim, image and commitment, including 'the good part', 'homemade' and the three alternatives; V5 is close but softens 'quiet moment' and 'give yourself'. V2 narrows 'the good part' and merges the alternatives (dropping 'homemade'), V1 drops all section headlines, and V3 rewrites the headline, drops the tea moment and adds new claims about beginners and experts.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "E",
+    "4": "B5",
+    "5": "C"
+  }
+}

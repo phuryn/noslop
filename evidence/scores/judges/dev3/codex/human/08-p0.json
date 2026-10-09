@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 1,
+    "4": 4,
+    "5": 5
+  },
+  "send": "3",
+  "tells": {
+    "1": "The closing stacks generic benefits: 'a fuller picture' and 'more out of the checkup.'",
+    "2": "none",
+    "3": "none",
+    "4": "The cluster of casual phrases feels deliberately conversational; 'the full picture' overstates what bloodwork provides.",
+    "5": "The polished promotional ending repeats the value proposition through familiar phrases rather than adding information."
+  },
+  "reason": "Version 3 makes the recommendation directly, explains its value clearly, and ends with the price without a redundant sales pitch. These rankings reflect editorial impressions, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "B3",
+    "3": "A",
+    "4": "C",
+    "5": "O"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2,
+    "4": 4,
+    "5": 5
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "none (reads human, but sloppy: rhetorical-question headers, 'PDF's' apostrophe error, redundant 'What's new' heading)",
+    "3": "none (slightly flatter phrasing like 'instead of hourly')",
+    "4": "Bold-label bullets plus forced chatty touches ('Need to change a bunch of invoices?', 'That's fixed.')",
+    "5": "Templated bold-label-colon bullets that repeat the sentence that follows them"
+  },
+  "reason": "Versions 1 and 3 are plain, concise and correctly formatted, the way a skilled release-notes writer would do it. Version 1 edges ahead with the natural 'every hour' and 'You can now'. Version 2 feels human but careless, while 4 and 5 rely on the bolded-label bullet template common in AI output.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "E",
+    "3": "track2/A-int",
+    "4": "C",
+    "5": "O"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Template-style 'Highlights' and 'Ask' headings with short parallel bullet points make it feel AI-structured.",
+    "3": "Markdown-style bold headings and bold lead-in labels on each bullet are a strong AI-formatting signature."
+  },
+  "reason": "Version 1 reads like a direct, natural founder update and avoids the over-structured formatting of the other two. It is concise, clear, and credible, so I would send it as the most human-sounding option.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "O"
+  }
+}

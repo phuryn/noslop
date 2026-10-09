@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 5,
+    "4": 3,
+    "5": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "Slightly staged conversational beats: “Somehow we did. And then you walked through the door.”",
+    "2": "The distinctive shelf-life observation gets compressed into a generic “reread or passed along” summary.",
+    "3": "Stock celebratory phrases such as “special milestone” and “bursting at the seams”; otherwise, no strong tell.",
+    "4": "Low-information additions such as “an anniversary to celebrate” and “Those visits helped us get here.”",
+    "5": "Over-engineered rhythm: “Every shelf, every table, every book” followed later by matching “Maybe” sentences."
+  },
+  "reason": "Version 1 has the strongest voice, warmth and memorable detail, especially the friend who never returned the book. Version 3 may feel spontaneous, but its repetition and tangled fifth post put it last for skilled execution; these stylistic judgments do not establish AI authorship.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "E",
+    "4": "B3",
+    "5": "O"
+  }
+}

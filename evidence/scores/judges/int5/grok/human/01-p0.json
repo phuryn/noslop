@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 4,
+    "4": 2
+  },
+  "send": "2",
+  "tells": {
+    "1": "LinkedIn template scaffold: 'Here's what that meant in practice,' a neat three-bullet triad, then a labeled 'The lesson for me.'",
+    "2": "The balanced line that every no-show is both an untreated patient and a wasted slot is smoother than the rest; otherwise little.",
+    "3": "Frictionless summary voice, ending on the abstract cliché that the biggest wins come from meeting people where they already are.",
+    "4": "Labeled takeaway ('My takeaway is that...') wrapped around the same 'where they already are' platitude."
+  },
+  "reason": "Only version 2 has operator specifics, hedges, and uneven results, so it sounds like someone who actually ran the change; the others recycle one tidy hook-contrast-lesson template. I would publish 2 because that credibility and voice outweigh its looser structure.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "track2/B5-int",
+    "3": "B5",
+    "4": "track2/A-int"
+  }
+}

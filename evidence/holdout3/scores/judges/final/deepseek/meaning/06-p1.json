@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 2,
+    "4": 5,
+    "5": 3
+  },
+  "reason": "Version 1 is closest overall, and 3 preserves the key wording and commitments except for a minor omitted thank-you. Version 5 is next but drops the inconvenience acknowledgment, while 2 rephrases the delivery commitment more; version 4 is least faithful because it changes the refund to already completed and softens the delivery date.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "B3",
+    "3": "A",
+    "4": "C",
+    "5": "E"
+  }
+}

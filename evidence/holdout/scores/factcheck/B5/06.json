@@ -1,0 +1,26 @@
+{
+  "dropped": [
+    {
+      "item": "The opening framing that these steps are for resealing a leaky tent seam. The edit starts directly with the steps and never states their purpose.",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "The temperature requirement (at or above 50°F) was unscoped in the original and could apply to application as well as curing. The edit limits it to 'while it cures'.",
+      "severity": "minor"
+    },
+    {
+      "item": "'Remove any loose, peeling seam sealer' became 'If the old seam sealer is loose or peeling, gently pull it off'. The removal method is now specified as pulling.",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "'while it cures': ties the temperature condition specifically to the curing period",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

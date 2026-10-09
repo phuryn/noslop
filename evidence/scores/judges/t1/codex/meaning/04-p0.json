@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2
+  },
+  "reason": "Version 2 preserves all the original meaning and details. Version 3 makes minor shifts from “us” to “you” and “hardest” to “hard,” while version 1 also omits the small-job framing and adds an ownership implication with “our seed swap.”",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B"
+  }
+}

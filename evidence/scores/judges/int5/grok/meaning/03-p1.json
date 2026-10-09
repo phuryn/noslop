@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "Version 1 preserves the original claims almost verbatim, including the 15-minute sync, bulk invoice editing, and the specific PDF currency-symbol bug fix. Version 2 only substitutes “every hour” for “hourly” and adds “now,” while version 3 broadens the fix into a general claim that symbols now display correctly and vaguely says they didn’t before.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "track2/B5-int",
+    "3": "B5"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "dropped": [
+    {
+      "item": "The explicit claim \"It isn't cheaper\" (the post-editing job is not actually a cheaper version of the work). It is only partly implied by the later \"same liability\" and \"saved no effort\" lines.",
+      "severity": "minor"
+    },
+    {
+      "item": "\"still\" in \"then still rewriting whatever I can't trust\": the nuance that rewriting remains necessary even after the double reading is softened.",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "The original says the offer is made \"as if that were a discount on the real work\", an implied framing. The edit says \"They present it as a discount on the real work\", which attributes an explicit framing to the agency.",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

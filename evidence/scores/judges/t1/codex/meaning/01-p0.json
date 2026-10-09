@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2
+  },
+  "reason": "Version 2 best preserves the facts and tentative recommendation, though it broadens “sometimes” to “often.” Version 3 overstates calls’ ineffectiveness and makes the recommendation more directive; version 1 additionally invents quick results and a one-month trial, and strengthens the claim that texting was the only change.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B",
+    "3": "A"
+  }
+}

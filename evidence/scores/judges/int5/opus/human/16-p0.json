@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 4,
+    "4": 2
+  },
+  "send": "2",
+  "tells": {
+    "1": "Generic, balanced reflection ('Some lessons had gone beautifully; others...') with no concrete names or moments; semicolon-paired antithesis",
+    "2": "none (slightly choppy short sentences, but specific details read as lived)",
+    "3": "Same generic balanced antithesis plus 'I found myself' filler and curly-quote polish; vague 'students I still wondered about'",
+    "4": "Still generic and abstract despite simpler sentences; the tidy 'Some lessons... Others...' contrast remains"
+  },
+  "reason": "Version 2 grounds the reflection in specific, checkable detail (period 4 AP Chem, the elephant toothpaste demo, Amina Yusuf and her daughter) and admits an awkward, unflattering feeling, which reads as genuinely human. The other three share a smooth, generalized template of balanced reflection that feels written-to-sound-wistful rather than remembered.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "track2/B5-int",
+    "3": "O",
+    "4": "B5"
+  }
+}

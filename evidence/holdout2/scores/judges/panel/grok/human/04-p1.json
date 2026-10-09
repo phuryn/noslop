@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2
+  },
+  "send": "2",
+  "tells": {
+    "1": "Em-dash closer ('a clear result for a team committed to...') is hollow case-study padding that restates the win without adding a fact.",
+    "2": "none",
+    "3": "Stock opener ('came to us with X and a need for Y') plus the flat connective 'They then passed' reads like a lightly edited template."
+  },
+  "reason": "Version 2 states the problem, the change, and the audit result in plain clauses and stops, which is how a careful human editor would cut a case study. Version 3 keeps a formulaic opener, and version 1 adds a generic evaluative flourish that weakens credibility.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B3",
+    "3": "A"
+  }
+}

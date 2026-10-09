@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3,
+    "4": 5,
+    "5": 4
+  },
+  "reason": "Version 2 keeps every claim with only light paraphrase. Version 1 drops the long-term perspective on challenges and questions; version 3 also drops the ecology–management–policy setting. Version 5 recasts the 2025 season as “last year’s fires” and turns open questions into demands; version 4 adds unsupported claims (a growing problem, unique insights, fire changing) and omits what the talk will actually address.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B5",
+    "3": "B3",
+    "4": "E",
+    "5": "C"
+  }
+}

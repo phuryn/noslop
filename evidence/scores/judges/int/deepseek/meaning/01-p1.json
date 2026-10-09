@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1
+  },
+  "reason": "Version 3 stays closest to the original’s claims, structure, and closing question while adding no unsupported facts; Version 1 is close but drops the closing-gap and question elements; Version 2, though using the writer’s answers, omits core original points about patient care and the meeting-people-where-they-are lesson.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "track2/B3-int",
+    "3": "track2/A-int"
+  }
+}

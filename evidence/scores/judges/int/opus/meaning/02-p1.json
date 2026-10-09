@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 1
+  },
+  "reason": "Version 3 keeps every fact and keeps the tentative question and the 'where we might fit' framing. Version 2 adds only details from the writer's answers, though it drops the regular-routes option as the writer asked; Version 1 turns the tentative question into a flat claim that they could cover regular routes, which contradicts the writer's capacity caveat, and it loses the 'where we might fit' hedge.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "track2/B3-int",
+    "3": "track2/A-int"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "dropped": [
+    {
+      "item": "Users can see how far they've come (self-tracking of progress, separate from sharing with a PT)",
+      "severity": "minor"
+    },
+    {
+      "item": "Claim that Stepwise helps you stay consistent",
+      "severity": "minor"
+    },
+    {
+      "item": "Videos show proper form and technique (edit says only 'the form', dropping 'proper' and 'technique')",
+      "severity": "minor"
+    },
+    {
+      "item": "Exercises described as clear and easy to follow, so you know what to do and how to do it right",
+      "severity": "minor"
+    },
+    {
+      "item": "Call to action: 'Download Stepwise and get started'",
+      "severity": "minor"
+    },
+    {
+      "item": "Reminder schedule framed as one that fits your day",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "'Get started at no cost' / 'Free to start' became 'free to download', which implies only the download is free rather than that you can start using the app free",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

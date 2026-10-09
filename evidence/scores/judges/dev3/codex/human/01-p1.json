@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 5,
+    "3": 4,
+    "4": 2,
+    "5": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "The extended explanation of why no-shows matter leads into a generic operational lesson, making the ending feel padded.",
+    "2": "The announcement of a three-item list, explicit lesson, and closing engagement question create a formulaic LinkedIn structure.",
+    "3": "Stacked sentence fragments and conspicuously casual phrasing feel like a deliberate attempt to sound conversational.",
+    "4": "“Meeting patients where they already are” is a stock takeaway in an otherwise economical post.",
+    "5": "The closing question feels appended to encourage engagement rather than arising naturally from the account."
+  },
+  "reason": "Version 5 feels the most direct and least overworked, but I would publish 4 for its tighter organization and more measured recommendation. These rankings reflect stylistic impressions, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "O",
+    "3": "C",
+    "4": "B3",
+    "5": "A"
+  }
+}

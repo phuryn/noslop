@@ -1,0 +1,11 @@
+{
+  "send": "2",
+  "reason": "It includes the details I actually remember and keeps my relief, embarrassment, and uncertainty about what comes next. It also drops the calendar idea and the lesson and student-question claims I couldn’t support, while sounding like something I’d write.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "track2/B5-int",
+    "3": "C",
+    "4": "E"
+  },
+  "picked_arm": "track2/B5-int"
+}

@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 3,
+    "3": 1,
+    "4": 2
+  },
+  "send": "3",
+  "tells": {
+    "1": "Em-dash flourish ('a history—and a future worth caring for') plus stock sentiment ('privilege to help these instruments find their voice again', 'for years to come')",
+    "2": "Paraphrased cliché that reads stilted ('it's worth looking after what comes next', 'sound like themselves again'), and 'real privilege' and 'for years to come' are still there",
+    "3": "none",
+    "4": "Keeps the stock 'a history and a future worth caring for' and closes on the generic 'making music for years to come'"
+  },
+  "reason": "Version 3 sounds like a craftsman talking. 'Most have years of playing left in them' and 'getting an old instrument to sound right again' are concrete and modest, with no sentimental filler. The others fall back on greeting-card phrasing about voices, futures, and years to come, which weakens credibility.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "C",
+    "3": "A",
+    "4": "B3"
+  }
+}

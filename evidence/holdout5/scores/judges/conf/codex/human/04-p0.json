@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 4,
+    "3": 1,
+    "4": 5,
+    "5": 6,
+    "6": 2,
+    "7": 7
+  },
+  "send": "3",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "none",
+    "4": "none",
+    "5": "none",
+    "6": "none",
+    "7": "none"
+  },
+  "reason": "Version 3 balances clear information with a natural, welcoming newsletter voice; none contains a convincing AI-specific tell, and version 7's punctuation and capitalisation errors weaken its professional finish. Versions 4 and 5 are identical, so their separate ranks are an arbitrary accommodation of the no-ties requirement.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "A",
+    "3": "B5",
+    "4": "V6A",
+    "5": "V6C",
+    "6": "C",
+    "7": "E"
+  }
+}

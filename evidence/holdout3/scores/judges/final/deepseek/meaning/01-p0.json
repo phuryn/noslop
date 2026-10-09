@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 5,
+    "2": 2,
+    "3": 4,
+    "4": 3,
+    "5": 1
+  },
+  "reason": "Version 5 stays closest to the original details and retains the final caveat and closing thanks; Version 2 is next but changes 'careful' to 'slow' and adds a credit denial. Versions 4, 3, and 1 increasingly drop the closing caveat/gratitude or key nuances such as 'care' and the reuse/worn-again distinction.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "C",
+    "3": "A",
+    "4": "B3",
+    "5": "B5"
+  }
+}

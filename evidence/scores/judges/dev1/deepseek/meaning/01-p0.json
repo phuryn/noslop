@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 2,
+    "4": 3
+  },
+  "reason": "Version 1 stays closest to the original facts, numbers, and caveats, though it omits the closing emphasis and final question. Version 4 keeps nearly all elements but adds/changes a few nuances; Version 2 drops the key lesson, while Version 3 distorts it into a definite single biggest win.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "A",
+    "3": "B3",
+    "4": "C"
+  }
+}

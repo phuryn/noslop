@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 4,
+    "4": 1
+  },
+  "reason": "Version 4 preserves all substantive details; version 2 omits the stated benefit of more scheduling options, while version 1 adds emotional framing and an explicit promise to help. Version 3 adds unsupported claims that memberships renew on March 1 and Sunday classes start soon, whereas the original only promises to share class times soon.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "E",
+    "4": "B3"
+  }
+}

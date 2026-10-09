@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Soft closer 'where we might fit' plus the polite 'Could we help...needs?' hedge.",
+    "3": "Same 'where we might fit' line, stiff 'Would you have...to discuss,' and a credential jammed into one sentence.",
+    "4": "Candor arrives too neatly: spoilage, fix, truck count, and a named reference in sequence."
+  },
+  "reason": "Version 1 is what a skilled rep would send: short, idiomatic, and unhedged. Versions 2 and 3 share corporate polish and the same soft closer, while 4 sounds like a person but hurts a first touch with a spoilage confession and a capacity caveat.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "track2/A-int",
+    "3": "O",
+    "4": "track2/B3-int"
+  }
+}

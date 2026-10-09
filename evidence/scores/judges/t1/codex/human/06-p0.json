@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "The formulaic 'Less measuring, more making' contrast and repeated 'Maybe' openings make the rhythm feel templated.",
+    "4": "'A little measuring done. A little joy delivered.' combines vague emotional language with conspicuously balanced phrasing; sentence fragments repeat throughout."
+  },
+  "reason": "Version 1 combines concrete benefits, warmth, and useful section headings with the least conspicuous copywriting machinery, though I would smooth 'start at the stirring.' Version 2 feels natural but loses scannability; versions 3 and 4 feel progressively more formulaic, which is a stylistic judgment rather than evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "B",
+    "2": "A",
+    "3": "C",
+    "4": "O"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 5,
+    "3": 3,
+    "4": 2,
+    "5": 4
+  },
+  "reason": "Version 1 preserves all facts, numbers, and nuances; Version 4 is nearly complete but drops 'closely'; Version 3 omits the schedule-planning benefit; Version 5 changes or adds nuances such as tasting the plate and nights ending at a decent hour; Version 2 omits or alters the most commitments and details.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "E",
+    "3": "A",
+    "4": "B5",
+    "5": "C"
+  }
+}

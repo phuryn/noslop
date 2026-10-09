@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+  },
+  "reason": "Version 1 stays closest, though it strengthens the personal takeaway; version 2 more strongly dismisses calls and drops the operational lesson. Version 3 adds sole-cause certainty and guarantees that each prevented no-show means someone else receives care, while version 4 adds unsupported speed, a one-month trial recommendation, and stronger claims about calls and the intervention.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "B5",
+    "4": "C"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 2
+  },
+  "reason": "Version 1 preserves the substance most closely; version 4 slightly weakens the members' shared ownership of the milestone to receiving some credit. Version 2 adds extreme weather and a lasting-career implication, while version 3 changes a path into a career into a definite career outcome and replaces members' shared ownership with merely benefiting.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "C",
+    "3": "A",
+    "4": "B5"
+  }
+}

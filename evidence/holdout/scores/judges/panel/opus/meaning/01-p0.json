@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3
+  },
+  "reason": "Version 2 stays closest, losing only 'everything in between' and 'real'. Version 1 keeps the credit to members and 'real money' but adds 'lasting' to the career claim. Version 3 hardens 'a path into a career' into 'leads to a career', recasts the members' share as 'get something out of it', and drops the 'Next up' sequencing.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B3",
+    "3": "A"
+  }
+}

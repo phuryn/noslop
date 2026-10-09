@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 3,
+    "3": 2,
+    "4": 1
+  },
+  "reason": "Version 4 preserves the most meaning, including timely care; version 3 loses that timing nuance, while both strengthen 'sometimes' to 'often' and omit the closing question. Version 2 removes the operational lesson and overstates calls' ineffectiveness; version 1 adds unsupported claims about texting being the only change, results appearing quickly, and a one-month trial.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B",
+    "4": "B2"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 5,
+    "4": 6,
+    "5": 3,
+    "6": 1
+  },
+  "send": "6",
+  "tells": {
+    "1": "The uniformly packaged stakeholder bullets and abstract phrases such as “Preserve match quality” suggest template-driven polish.",
+    "2": "“This causes four problems” introduces an unusually tidy stakeholder inventory; otherwise, little stands out.",
+    "3": "The repeated casual substitutions—“sit uncovered,” “actually accept,” “bunch up,” “in the loop”—feel like a deliberate conversational rewrite.",
+    "4": "none",
+    "5": "“What this costs” feels like an editorial flourish added to otherwise conventional PRD prose, especially before “Agencies bear the cost.”",
+    "6": "none"
+  },
+  "reason": "Version 6 best balances natural language, scanability, and precision for a working PRD; version 4 feels like an unfinished human draft but ranks last on skilled execution. These are stylistic judgments, not authorship findings, and even version 6 needs to distinguish an escalated visit from a successfully rescheduled one.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "A",
+    "3": "C",
+    "4": "E",
+    "5": "B3",
+    "6": "B5"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2
+  },
+  "reason": "Version 1 preserves all key facts, dates, rates, the current-member guarantee, class addition, and community thanks most directly. Version 3 is nearly as faithful but slightly changes the guarantee to a conditional and is less explicit about the price change; Version 2 omits the stated purpose of adding classes and softens the community wording.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "track2/A-int",
+    "3": "track2/B5-int"
+  }
+}

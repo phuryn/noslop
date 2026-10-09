@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 2,
+    "5": 5
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "Bold benefit labels on every bullet in a rigid parallel template.",
+    "4": "The same label-colon skeleton on every item, even with a looser voice.",
+    "5": "Lockstep bold labels, clipped parallel bullets, and a fix restated only as a benefit."
+  },
+  "reason": "Version 1 is what a careful editor would ship: clear, credible, and free of both draft errors and generated template tics. Versions 3 and 5 read assembled from the same label-plus-blurb pattern, while 2 is human but unskilled.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "E",
+    "3": "O",
+    "4": "C",
+    "5": "B3"
+  }
+}

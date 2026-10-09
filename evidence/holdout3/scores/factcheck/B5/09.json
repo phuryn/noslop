@@ -1,0 +1,12 @@
+{
+  "dropped": [
+    {
+      "item": "The conditional lead-in to the call to action, 'If that sounds like you', which ties the application invitation to the reader's fit",
+      "severity": "minor"
+    }
+  ],
+  "changed": [],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 4,
+    "3": 2,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "Ends with a generic 'What I took from this...' takeaway and lacks concrete operational detail or a clear call to action.",
+    "2": "The templated 'Here's what that meant in practice' bullet list and 'The lesson for me:' signposting feel AI-structured.",
+    "3": "The neat, compressed format with 'My takeaway is...' and a closing engagement question feels formulaic.",
+    "4": "none"
+  },
+  "reason": "Version 4 is the most credible and human because it includes concrete costs, time savings, named staff, and honest caveats; I would publish it over the more polished but generic alternatives.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "O",
+    "3": "track2/A-int",
+    "4": "track2/B5-int"
+  }
+}

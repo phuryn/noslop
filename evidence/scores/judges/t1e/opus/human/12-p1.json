@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 4,
+    "4": 1
+  },
+  "send": "1",
+  "tells": {
+    "1": "Faceless 'The speaker' bio that repeats the 14% to 9% figure from the abstract word for word",
+    "2": "Smoothed, symmetrical 'This talk covers… It also covers…' structure, and the bio restates the abstract",
+    "3": "Stock AI phrasing: 'explores,' 'shares lessons,' 'practical considerations,' 'make better use of'",
+    "4": "none. Its flaws are human ones: a duplicated 'Abstract' heading, mojibake in 'Authorityâ€™s,' 'NRW' left undefined, and stiff bureaucratic wording."
+  },
+  "reason": "Version 4 is clearly written by a person (a named speaker, copy-paste errors, utility jargon), but it is too sloppy to publish as is. Version 1 is the tightest and most direct, stating the result plainly without the filler of 2 or the generic gloss of 3. It would only need the speaker's name added.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "O",
+    "4": "E"
+  }
+}

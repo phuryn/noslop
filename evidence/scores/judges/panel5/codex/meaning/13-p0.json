@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 5,
+    "4": 4,
+    "5": 1
+  },
+  "reason": "Version 5 preserves the original most closely; version 1 slightly strengthens proposed mitigations into commitments, and version 2 strengthens potential returns into expected returns. Version 4 adds irreversible causes of traffic decline and consolidation into one place, while version 3 omits numerous concrete mitigations and changes the decision deadline from before landlord notice deadlines to before landlord contact.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "E",
+    "4": "B5",
+    "5": "B3"
+  }
+}

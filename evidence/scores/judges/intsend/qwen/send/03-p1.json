@@ -1,0 +1,11 @@
+{
+  "send": "4",
+  "reason": "It preserves all the original facts and commitments most closely, including the exact wording around hourly syncing and the PDF fix. It is the cleanest and least altered version.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "C",
+    "3": "E",
+    "4": "track2/A-int"
+  },
+  "picked_arm": "track2/A-int"
+}

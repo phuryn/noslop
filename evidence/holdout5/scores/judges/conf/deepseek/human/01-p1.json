@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 5,
+    "3": 7,
+    "4": 4,
+    "5": 2,
+    "6": 6,
+    "7": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Redundant elaboration ('surprised us. It's bigger than we expected') and the corporate abstraction 'recognise the progress we've made'.",
+    "3": "Overly explanatory and repetitive ('our customers' twice; 'celebrating our progress') with a generic, less personal thank-you.",
+    "4": "Slightly forced phrase 'that matters for the environment and for our running costs' and the formulaic 'recognise progress when it happens'.",
+    "5": "Less precise 'difference in water use' and slightly formal 'adapted to' instead of more direct verbs.",
+    "6": "The colon-list construction 'New equipment, new routines, new ways of working:' and the same redundant elaboration as V2.",
+    "7": "Compressed, list-like benefit sentence ('That's better... and cuts running costs...') and a fairly abrupt, generic closing."
+  },
+  "reason": "Version 1 reads most like a skilled human wrote it because its voice is direct, warm, and specific, with natural phrases like 'piling more pressure' and 'say well done' instead of corporate filler. The others drift into redundant elaboration, formulaic recognition lines, or over-compressed lists.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "V6A",
+    "3": "E",
+    "4": "B5",
+    "5": "O",
+    "6": "V6C",
+    "7": "A"
+  }
+}

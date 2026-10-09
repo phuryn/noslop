@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 7,
+    "2": 2,
+    "3": 6,
+    "4": 4,
+    "5": 3,
+    "6": 1,
+    "7": 5
+  },
+  "send": "2",
+  "tells": {
+    "1": "Stock AI phrasing: 'will explore', 'an ongoing consideration rather than a single appointment', 'reflect on the decisions', 'at the centre of the conversation'",
+    "2": "The closing 'always keeping comfort, function and everyday life at the heart of it' is a slightly formulaic triad",
+    "3": "The 'isn't a one-off appointment but something that needs attention over time' contrast, plus the stock 'at the heart of the conversation' close",
+    "4": "Stiff paraphrase ('fit has to be checked repeatedly and is not settled at a single appointment', 'keeping ... in view') that reads like a reworded template",
+    "5": "Short add-on sentence ('It stays something to think about.') that feels inserted to vary rhythm",
+    "6": "none",
+    "7": "Same 'isn't X but Y' construction and 'at the heart of the conversation' cliché as version 3, almost word for word"
+  },
+  "reason": "Version 6 is clearly human, but its errors (missing apostrophe, lowercase title, 'fitting children who grow!') make it unpublishable. Version 2 keeps all the content in natural, conversational English with only a mild formulaic close, so it is the best one to send.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "C",
+    "3": "V6C",
+    "4": "A",
+    "5": "B5",
+    "6": "E",
+    "7": "V6A"
+  }
+}

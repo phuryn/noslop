@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 1,
+    "4": 3
+  },
+  "reason": "Version 3 best preserves the facts and tentative offer, though it omits the explicit discussion of fit; version 2 retains that purpose but strengthens the offer to “can cover.” Version 4 shifts last-minute delivery to picking up loads, while version 1 adds an unrestricted “anywhere” promise and limits last-minute needs to “occasional” runs.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B5",
+    "3": "B3",
+    "4": "A"
+  }
+}

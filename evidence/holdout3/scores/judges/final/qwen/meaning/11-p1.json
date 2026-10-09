@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 5,
+    "3": 4,
+    "4": 1,
+    "5": 3
+  },
+  "reason": "Version 4 preserves nearly all facts and caveats, losing only 'somehow' and the explicit surprise; Version 1 is close but omits the final not-triumphant caveat. Version 5 keeps more key caveats than Version 3 despite some added or changed details, and Version 2 substantially alters and adds material.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "E",
+    "3": "A",
+    "4": "B3",
+    "5": "C"
+  }
+}

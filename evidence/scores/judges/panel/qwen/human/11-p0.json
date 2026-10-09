@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 3,
+    "3": 2,
+    "4": 1,
+    "5": 5
+  },
+  "send": "4",
+  "tells": {
+    "1": "none",
+    "2": "The conversational filler and added cozy details feel like an AI trying to create warmth.",
+    "3": "Its evenly smoothed cadence and generic benefits language feel machine-polished.",
+    "4": "The bolded labels and parallel phrasing are slightly templated, though they suit the format.",
+    "5": "The flat, safe paraphrase drains the voice and feels generically rewritten."
+  },
+  "reason": "Version 4 keeps the original's rough-edged personality while making the role, schedule, pay, and expectations clear and scannable. Version 1 feels authentic but is too unpolished to publish as-is.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "C",
+    "3": "B3",
+    "4": "O",
+    "5": "A"
+  }
+}

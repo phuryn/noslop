@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Slightly flattened, generic phrasing ('a small job that gives you something to look forward to') with little personality",
+    "3": "Stock colon-reveal flourish ('Then comes the hardest part: leaving them alone') and a tidy, templated structure",
+    "4": "Em dash joining clauses plus typographic curly apostrophes, on top of the same colon-reveal flourish as version 3"
+  },
+  "reason": "Version 1 has a natural, regional allotment voice ('Get it in the ground', 'One for the diary', 'a natter') that suits a community newsletter. The others progressively smooth that voice into generic, polished prose, and version 4 adds the most recognisable AI punctuation habits.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B",
+    "3": "A",
+    "4": "O"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "dropped": [
+    {
+      "item": "The survey request is specified in hectares ('how many hectares you'd like surveyed'); the edit says only 'how much you'd like surveyed', so the unit is gone at the booking step",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "Certainty of the maps' benefit increased: the original says the maps 'help you spot areas that need a closer look'; the edit says the maps are 'ready to show you which patches deserve a closer look', implying they identify the problem areas directly",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "Delivery method implied as email ('Maps in your inbox'); the original does not say how the maps are delivered",
+      "severity": "minor"
+    },
+    {
+      "item": "'See how your crops are really doing' adds a slight emphasis on accuracy ('really') not in the original 'clear view'",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

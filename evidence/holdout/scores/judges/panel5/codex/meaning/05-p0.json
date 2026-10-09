@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 3,
+    "4": 1
+  },
+  "reason": "Version 4 preserves the original most exactly, followed by 1 and then 3, whose wording introduces a slight framing shift from a cheaper price to savings for “us.” Version 2 retains all facts and the decision request but drops the explicit “unless you see a reason not to” caveat on the Tilburg recommendation.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "A",
+    "3": "C",
+    "4": "B3"
+  }
+}

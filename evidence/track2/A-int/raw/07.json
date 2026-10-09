@@ -1,0 +1,7 @@
+{
+  "id": 7,
+  "arm": "A",
+  "reply1": "**Draft:** The text has no strong tells. It's a plain status update with concrete facts and no staging, triads, dashes, or inflation. The only change is to merge the first two sentences, since the second just names what's left of the first.\n\n**Remaining patterns:** None found. I checked for contrasts, closers, dashes, stock words, and bold, and none are present.\n\n<final>\nMobile login migration to the new auth service is about 80% done, with only the Android biometric flow left. We're still on track for the Nov 3 target date.\n</final>",
+  "asked": false,
+  "final": "Mobile login migration to the new auth service is about 80% done, with only the Android biometric flow left. We're still on track for the Nov 3 target date."
+}

@@ -1,0 +1,17 @@
+{
+  "dropped": [
+    {
+      "item": "The intro 'The consequences are significant' became 'The effects:', so the stated emphasis on severity is gone",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "'replacements meet qualification, availability, location, and client-preference requirements' became 'Replacements must meet...', a slightly stronger requirement wording",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

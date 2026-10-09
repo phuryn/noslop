@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 4,
+    "4": 3
+  },
+  "reason": "Version 2 is almost verbatim, and Versions 1 and 4 keep every fact, the deadline, the recommendation and the 'unless you see a reason not to' caveat, with Version 4 rephrasing more freely. Version 3 drops that caveat and states a firm preference ('I'd like to go with Tilburg'), which weakens the invitation to raise objections.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "B3",
+    "3": "A",
+    "4": "C"
+  }
+}

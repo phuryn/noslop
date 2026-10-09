@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1
+  },
+  "reason": "Version 3 preserves the original meaning most closely. Version 1 slightly shifts the shared anticipation from 'us' to 'you'; version 2 additionally drops the explicit 'this week' timing and 'small job' framing, and adds an ownership implication with 'our seed swap'.",
+  "label_to_arm": {
+    "1": "B",
+    "2": "C",
+    "3": "A"
+  }
+}

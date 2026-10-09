@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 5,
+    "2": 2,
+    "3": 1,
+    "4": 4,
+    "5": 3
+  },
+  "reason": "Version 3 preserves the facts, open invitation, and inclusive thanks, only softening the Land Rover note. Version 2 is next despite stronger causal wording; 5 drops seasonal and vehicle nuances and recasts the closing thanks as a welcome; 4 changes the donations–vehicle link, readiness claim, and open-day offer; 1 adds a geographic caveat and drops key invitation and gratitude commitments.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "B5",
+    "3": "B3",
+    "4": "C",
+    "5": "A"
+  }
+}

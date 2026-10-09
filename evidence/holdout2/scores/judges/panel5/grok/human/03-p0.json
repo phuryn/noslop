@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "Stock closer “Let me know if I've missed anything,” though the note itself is tight.",
+    "2": "Formulaic bridge “Here's what we agreed” before a neat restatement of the decisions.",
+    "3": "Bold mini-headings and “Here's a quick summary” read like a generated recap template.",
+    "4": "Over-explicit repeats (“to the booth,” “display specs”) and a slightly curt closer."
+  },
+  "reason": "Version 1 states the decisions directly in a natural client tone without template scaffolding. Version 4 is close but wordier and abrupt; 2 pads with a formulaic opener; 3’s labeled blocks are the clearest AI pattern.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "B5",
+    "3": "O",
+    "4": "A"
+  }
+}

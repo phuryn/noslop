@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 3,
+    "4": 1,
+    "5": 5
+  },
+  "send": "4",
+  "tells": {
+    "1": "Mixes a formal, legalistic phrase ('at which time your monthly membership will renew') with casual 'stay tuned,' creating an inconsistent tone.",
+    "2": "Polished but generic phrasing like 'take effect for you' and 'more options during the week' feels templated.",
+    "3": "Overly concise and formulaic structure with little warmth or personal voice.",
+    "4": "none",
+    "5": "Abruptly compressed phrasing like 'then move to $135' and generic benefit statement."
+  },
+  "reason": "Version 4 feels most human because it uses natural conversational transitions, empathy, and clear explanation without stiffness or over-templating. It is the one I would send.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "O",
+    "3": "A",
+    "4": "C",
+    "5": "B3"
+  }
+}

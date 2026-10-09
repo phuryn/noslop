@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 6,
+    "4": 2,
+    "5": 3,
+    "6": 5
+  },
+  "send": "4",
+  "tells": {
+    "1": "none",
+    "2": "Markdown ## headers in an internal memo, plus uniformly parallel, polished bullets with consultant phrasing ('concentrate talent and inventory')",
+    "3": "Every bullet opens with a bolded lead-in, and the risks repeat a 'Mitigation:' label, which gives it a templated, machine-tidy structure",
+    "4": "Every list item still opens with a bold lead-in, though the plain-spoken phrasing hides the template well",
+    "5": "'Declining for good reasons we can't reverse' is an awkward paraphrase of 'structural' that reads like a rewrite tool avoiding a word",
+    "6": "Repeated 'Mitigation:' labels and stock corporate phrasing ('redirect the capital and operating dollars they consume', 'spread management attention and cash thin')"
+  },
+  "reason": "Version 1 is clearly the authentic draft but too rough and thin to send. Version 4 keeps the complete structure and specifics of the polished versions in a direct, first-person voice that reads like a real operator making a case to peers.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "A",
+    "3": "O",
+    "4": "C",
+    "5": "B5",
+    "6": "B3"
+  }
+}

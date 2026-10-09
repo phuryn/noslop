@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1
+  },
+  "reason": "Version 3 stays closest to the original wording and nuances, including retaining 'a real say'; version 1 drops 'real,' slightly weakening that commitment. Version 2 uses writer-supplied additions but loses or alters original points like 'we're slammed on weekends and we like it that way' and 'a schedule you can plan a life around.'",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "track2/B3-int",
+    "3": "B3"
+  }
+}

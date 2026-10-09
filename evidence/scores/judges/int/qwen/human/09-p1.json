@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 3,
+    "4": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "unnatural terseness and impersonal phrasing, especially 'The bike is under...' and the abrupt closing",
+    "3": "stock support-bot empathy lines and repeated apologies, e.g. 'That's not the experience we want you to have'",
+    "4": "solution-before-apology order feels slightly engineered rather than naturally conversational"
+  },
+  "reason": "Version 1 sounds most like a skilled support agent: it apologizes, gives the resolution, and stays concise without sounding canned. The others are either too blunt or rely more on template-like phrasing.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "track2/A-int",
+    "3": "O",
+    "4": "track2/B3-int"
+  }
+}

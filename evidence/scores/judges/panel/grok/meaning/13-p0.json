@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 3,
+    "4": 1
+  },
+  "reason": "Version 4 keeps the original facts, caveats, and commitments with only negligible wording shifts. Version 2 makes small changes (capture vs. serve, dropping “targeted,” and turning mitigations into “we will”), version 3 further softens structural decline, potential returns, and site performance, and version 1 drops or alters penalties, timelines, mitigations, and the financial frame.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "A",
+    "3": "C",
+    "4": "B3"
+  }
+}

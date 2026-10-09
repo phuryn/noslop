@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 1,
+    "3": 3,
+    "4": 2
+  },
+  "send": "4",
+  "tells": {
+    "1": "Brochure cadence: em-dash antithesis, “find their voice,” and “it’s a privilege.”",
+    "2": "none",
+    "3": "Empty uplift in “worth looking after what comes next,” plus “real privilege” and “years to come.”",
+    "4": "Too-neat “history and a future worth caring for,” then a stock “years to come” close."
+  },
+  "reason": "Version 2 sounds most like a working restorer—plain, specific, and slightly unpolished—while 1 is the most generic brochure voice. I’d still publish 4: it’s clear and credible, without 2’s broken parallel or 3’s vague line.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "A",
+    "3": "C",
+    "4": "B3"
+  }
+}

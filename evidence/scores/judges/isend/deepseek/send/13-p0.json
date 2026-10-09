@@ -1,0 +1,11 @@
+{
+  "send": "2",
+  "reason": "Version 2 preserves the original structure, tone, and substantive commitments most closely while remaining polished and aligned with how the writer drafted it.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "A",
+    "3": "B5",
+    "4": "C"
+  },
+  "picked_arm": "A"
+}

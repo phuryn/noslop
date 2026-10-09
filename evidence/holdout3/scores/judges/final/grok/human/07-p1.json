@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 6,
+    "4": 4,
+    "5": 3,
+    "6": 5
+  },
+  "send": "4",
+  "tells": {
+    "1": "none",
+    "2": "Stacked triads and a bow-tied closer that personifies risk sliding to where the bill shows up",
+    "3": "Metronomic one-idea sentences and stock pivots like \"In practice\" and \"that is what makes it dangerous\"",
+    "4": "Newsletter template: setup, illustration, then the punchy reversal \"It didn't.\"",
+    "5": "Fake-casual staccato plus the thesis restated twice (\"It's not\" / \"It isn't cheaper work\")",
+    "6": "Frictionless compression that snags on the uncanny line \"I get less of the thinking\""
+  },
+  "reason": "Only version 1 has an unedited practitioner's voice; the rest share the same examples, aphorism, and tidy closer. I would still publish 4: it keeps the legal point precise and readable, without version 2's density or version 5's repetitive casual beats.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "O",
+    "3": "A",
+    "4": "B3",
+    "5": "C",
+    "6": "B5"
+  }
+}

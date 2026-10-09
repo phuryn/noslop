@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2
+  },
+  "reason": "Version 1 keeps the milestone, shared credit, bill savings, co-op purpose, and apprenticeship terms, dropping only small nuances. Version 3 softens ownership and upgrades “a path” to “leads to,” while version 2 misplaces “paid” onto the spots, hedges the career outcome, and adds weather and founding-reason claims the original does not make.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "C",
+    "3": "A"
+  }
+}

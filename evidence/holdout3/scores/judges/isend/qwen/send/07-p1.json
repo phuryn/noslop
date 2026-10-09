@@ -1,0 +1,11 @@
+{
+  "send": "2",
+  "reason": "It preserves all the key facts, examples, and cautions while keeping the writer's voice and argument intact. It is the closest rewrite to the original without introducing awkward phrasing or losing the central point.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "A",
+    "3": "C",
+    "4": "B5"
+  },
+  "picked_arm": "A"
+}

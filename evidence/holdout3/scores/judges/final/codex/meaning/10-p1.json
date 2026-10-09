@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 1,
+    "4": 4,
+    "5": 5
+  },
+  "reason": "Version 3 preserves nearly all the original meaning; version 2 omits the long-term perspective, while version 1 adds stronger certainty and replaces explicit 2025 dating with “last year.” Version 4 also loses the ecology–management–policy context, and version 5 drops key talk commitments while adding unsupported claims about a growing problem, unique insights, and changing fire patterns.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B5",
+    "4": "B3",
+    "5": "E"
+  }
+}

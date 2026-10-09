@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 6,
+    "4": 4,
+    "5": 5,
+    "6": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "none",
+    "2": "The final 'room in my own house' simile is slightly neat and recurs across versions, though the phrasing is mostly natural.",
+    "3": "Overcompressed smoothness; vague 'taught hundreds of people to do this' and the tidy closing metaphor sound AI-generated.",
+    "4": "Too evenly balanced colon list and the polished 'room in my own house' metaphor are characteristic AI polish.",
+    "5": "Hedging 'somehow' and reflective signposting ('What surprised me was...') plus the stock closing metaphor feel AI-smoothed.",
+    "6": "The slightly unnatural inversion 'know how already' and the polished closing metaphor read as AI-edited."
+  },
+  "reason": "Version 1 has the most authentic human voice, but version 2 preserves that voice while fixing the rough edges. I would send 2 because it is clear, natural, and publishable without sounding mechanically polished.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "C",
+    "3": "A",
+    "4": "B3",
+    "5": "O",
+    "6": "B5"
+  }
+}

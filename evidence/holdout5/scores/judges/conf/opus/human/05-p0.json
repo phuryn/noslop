@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 4,
+    "3": 6,
+    "4": 1,
+    "5": 2,
+    "6": 7,
+    "7": 3
+  },
+  "send": "4",
+  "tells": {
+    "1": "Templated Slack formatting: wave and clap emoji bookends, bolded label-colon bullets, and a stock 'Quick heads-up' opener with a 'Thanks, everyone! 🙌' close",
+    "2": "Uniformly polished, evenly parallel bullets with no personal voice. Reads like an AI-tidied version of the plain-prose versions",
+    "3": "Formulaic emoji-bookended bullet template plus the chirpy rhetorical close 'Got questions or feeling stuck?'",
+    "4": "none",
+    "5": "none",
+    "6": "Same templated emoji, bold and bullet scaffold as 3, plus a slightly garbled opener ('a quick heads-up about how we're handling repair tickets') that suggests a mechanical edit",
+    "7": "Mild: very even, symmetrical one-line paragraphs that feel lightly machine-smoothed, though there is no strong tell"
+  },
+  "reason": "Version 4 reads like a competent person writing naturally, with a casual opener, plain paragraphs and a friendly 'we'll sort it out' close, and it states every date and action clearly. Version 5 is authentically human but clunky and formal, while 1, 3 and 6 carry the emoji-and-bold-bullet template typical of AI drafts.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "A",
+    "3": "V6C",
+    "4": "C",
+    "5": "E",
+    "6": "V6A",
+    "7": "B5"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "dropped": [
+    {
+      "item": "\"I found myself doing\" became \"I did\", which loses the sense of acting on autopilot or habit without deliberate intent",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "\"I hadn't given much thought to how I would actually leave the room\" became \"I never thought about how I would actually leave the room\". The edit hardens 'little thought' into 'no thought at all'.",
+      "severity": "minor"
+    },
+    {
+      "item": "\"trying to figure out how to teach again\" became \"working out how to teach again\". The original implies an attempt with an uncertain outcome; the edit implies more successful resolution.",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

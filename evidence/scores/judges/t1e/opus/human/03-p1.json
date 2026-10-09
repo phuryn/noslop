@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 4,
+    "4": 2
+  },
+  "send": "2",
+  "tells": {
+    "1": "Every bullet starts with a bolded label and a colon, a templated pattern that's overkill for three items",
+    "2": "none",
+    "3": "No AI tell. It reads like a hurried human: it repeats 'What's new?' right under the heading, uses the misspelling 'PDF's', and has a casual 'a bunch of' and an exclamation mark",
+    "4": "Same bold-label-plus-colon template on every bullet, which makes 'PDF export: Fixed a bug...' redundant under a Fixes heading"
+  },
+  "reason": "Version 2 is plain, accurate and scannable, with no decorative labels or sloppiness, so it reads like a competent human wrote it. Versions 1 and 4 use templated bold-label bullets, and Version 3 is error-prone and unpolished.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "E",
+    "4": "O"
+  }
+}

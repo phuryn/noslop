@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 5,
+    "4": 3,
+    "5": 1
+  },
+  "send": "5",
+  "tells": {
+    "1": "\"A no-show isn't just a hole in the schedule. It's...\" uses the not-just-X-it's-Y reframe. It also has a staccato fragment triplet (\"Fewer empty chairs. Less time... More patients...\") and a formulaic \"What I took from this:\" lesson line.",
+    "2": "The triple benefit list ends with the stock phrase \"when they need it,\" followed by the generic \"meeting people where they already are\" aphorism.",
+    "3": "The structure is a LinkedIn template: a bulleted rule-of-three after \"Here's what that meant in practice:\", a labeled \"The lesson for me:\" line and a closing engagement-bait question.",
+    "4": "A generic engagement question (\"How are you handling no-shows?\") is tacked onto the final line.",
+    "5": "Only the mildly clichéd \"meeting people where they already are\" line stands out."
+  },
+  "reason": "Version 5 is tight, credible and specific. It ties fewer no-shows to patient care without templated bullets, inflated reframes or engagement bait. The other versions add increasingly formulaic LinkedIn scaffolding, and Version 3 adds the most.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B2",
+    "3": "O",
+    "4": "A",
+    "5": "B"
+  }
+}

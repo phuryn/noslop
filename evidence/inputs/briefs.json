@@ -1,0 +1,246 @@
+[
+  {
+    "id": 1,
+    "genre": "LinkedIn post",
+    "writer": "Marta Kowalczyk, Head of Operations, Brightwell Dental Group",
+    "request": "write a linkedin post about how we cut patient no-shows at Brightwell Dental Group after switching to text reminders. went from an 18% no-show rate to 7% across our 9 clinics in 6 months. keep it short and dont spam hashtags",
+    "hidden_facts": [
+      "The real driver was two-way texting that let patients reschedule by replying, not the reminders themselves.",
+      "Joanna, the front desk lead at the Gdańsk clinic, noticed elderly patients replied 'OK' but still didn't show, so staff now also phone every patient over 70.",
+      "The Sopot clinic only improved to 12% and nobody is sure why.",
+      "The texting system costs $1,400 a month across all clinics.",
+      "Front desk staff save about 11 hours a week on confirmation calls, which Marta thinks is the bigger win.",
+      "She worries the six-month window included summer, when no-shows usually drop anyway.",
+      "The vendor contract forbids naming the vendor in marketing without approval."
+    ]
+  },
+  {
+    "id": 2,
+    "genre": "Cold sales email",
+    "writer": "Derek Osei, Account Executive, Coldline Logistics (refrigerated freight)",
+    "request": "cold email to the ops director at Fairview Markets (regional grocery chain) pitching our reefer trucking. mention we do same-day delivery within 250 miles and had a 99.2% on-time rate last year. ask for a 15 min call next week",
+    "hidden_facts": [
+      "The 99.2% on-time rate counts any delivery within a 2-hour window as on time.",
+      "In March a compressor failure spoiled a pallet of dairy for customer Harvest Fresh, and Coldline then added remote temperature monitoring to every truck.",
+      "Derek heard from a driver that Fairview's current carrier had a temperature incident that forced a product recall.",
+      "Coldline runs only 42 trucks, so it couldn't take all of Fairview's volume at once.",
+      "Coldline's rates run about 8% above the big national carriers.",
+      "His best reference is Lena Park at Green Valley Co-op, who has been a customer for 3 years.",
+      "He doesn't know whether Fairview's current carrier contract renews in Q1."
+    ]
+  },
+  {
+    "id": 3,
+    "genre": "Release notes",
+    "writer": "Priya Raman, Product Manager, Ledgerly (small-business accounting app)",
+    "request": "release notes for Ledgerly 4.2 going out Oct 14. main things: bank feed sync now every 15 min instead of hourly, new bulk invoice editing, and we fixed the PDF export bug with currency symbols. bullet style pls",
+    "hidden_facts": [
+      "The 15-minute sync only works for Plaid-connected banks, about 70% of users, and everyone else stays on hourly.",
+      "Bulk editing is capped at 200 invoices at a time.",
+      "The PDF bug turned euro and złoty symbols into '??' and was reported by Tomasz, who runs a bakery in Kraków and had already sent 40 broken invoices.",
+      "There is a known issue where bulk edit doesn't recalculate tax on invoices that have mixed tax rates.",
+      "Priya thinks bulk editing should be the headline, but the engineering lead wants faster sync on top.",
+      "The release slipped from Oct 7 because QA found a regression in recurring invoices.",
+      "Faster sync raised the company's API costs by about $3,000 a month."
+    ]
+  },
+  {
+    "id": 4,
+    "genre": "Newsletter intro",
+    "writer": "Hannah Brooks, Editor and Founder, The Allotment Letter (independent gardening newsletter)",
+    "request": "write the intro for this week's issue of The Allotment Letter, it's issue #112. theme is planting garlic before the first frost, and remind people the seed swap is Saturday Oct 18 at Millbrook Community Hall",
+    "hidden_facts": [
+      "Hannah lost her whole garlic crop to white rot last year.",
+      "Reader George Patel, 81, sent in a photo of 3-inch bulbs he grew from the hardneck variety 'Music'.",
+      "The newsletter has 4,300 subscribers, and the open rate has fallen from 46% to 39% this year.",
+      "She is unsure whether to keep the paid tier going.",
+      "Last year's seed swap drew about 60 people.",
+      "She pays the £45 hall booking out of her own pocket.",
+      "She privately thinks planting supermarket garlic is fine despite the usual advice against it."
+    ]
+  },
+  {
+    "id": 5,
+    "genre": "PRD section (problem + goals)",
+    "writer": "Samuel Ortiz, Senior Product Manager, CareRoute (home healthcare scheduling software)",
+    "request": "need the problem + goals section of a PRD for auto-rescheduling visits when a caregiver calls in sick. goal is to reschedule within 30 minutes and cut coordinator manual work. pilot with Sunrise Home Care in January",
+    "hidden_facts": [
+      "Coordinators spend an average of 2.5 hours handling each sick call.",
+      "On days with a sick call, 14% of affected visits are missed entirely.",
+      "Denise, a coordinator at Sunrise Home Care, once made 23 phone calls to cover a single shift.",
+      "Samuel isn't sure caregivers will accept auto-assigned visits without a confirmation step.",
+      "Union contracts at some agencies forbid mandatory shift assignment.",
+      "He thinks 30 minutes is ambitious and 60 minutes is realistic.",
+      "Sales has already promised this feature to two other prospects."
+    ]
+  },
+  {
+    "id": 6,
+    "genre": "Landing page copy (hero + 3 sections)",
+    "writer": "Amara Nwosu, Founder, Kettle & Crumb (subscription baking kits)",
+    "request": "landing page copy for Kettle & Crumb, hero + 3 sections. we send a monthly baking kit with pre-measured dry ingredients, $34/month, free shipping in the US, cancel anytime",
+    "hidden_facts": [
+      "Kettle & Crumb has about 2,800 active subscribers.",
+      "Monthly churn is around 9%, mostly after the third box.",
+      "Subscriber Rosa Delgado baked the cardamom buns with her daughter for a school fundraiser and sold out in an hour.",
+      "The flour comes from Ledger Hill Mill, a small mill in Vermont.",
+      "Free shipping costs the company $6.80 per box.",
+      "The most-loved kit so far is the rye chocolate chip cookies.",
+      "In August a batch of stale yeast forced Amara to refund 140 boxes.",
+      "She hates the word 'gourmet' and doesn't want it on the page."
+    ]
+  },
+  {
+    "id": 7,
+    "genre": "Slack status update to the team",
+    "writer": "Jonas Weber, Engineering Lead, Digital Banking, Northgate Bank",
+    "request": "slack update for my team: mobile login migration to the new auth service is 80% done, what's left is the Android biometric flow. target date still Nov 3. keep it brief",
+    "hidden_facts": [
+      "The 80% means 12 of 15 login flows have been migrated.",
+      "The biometric fallback fails on some Samsung devices.",
+      "Leila from QA caught the bug on Tuesday using her own Galaxy S22.",
+      "There is a real risk Nov 3 slips by a week.",
+      "Jonas hasn't told the VP about the slip risk yet.",
+      "The security review is booked for Oct 28 and can't be moved.",
+      "He's frustrated that the auth vendor's SDK documentation describes the fallback wrong."
+    ]
+  },
+  {
+    "id": 8,
+    "genre": "Blog post paragraph (opinion)",
+    "writer": "Dr. Ruth Albers, Veterinarian and Practice Owner, Fernhill Veterinary Clinic",
+    "request": "write a blog paragraph arguing pet owners should do annual bloodwork for dogs over 7, not just vaccines. mention our senior wellness panel is $129",
+    "hidden_facts": [
+      "Last year about 1 in 5 senior dogs tested at Fernhill had abnormal kidney values.",
+      "Biscuit, a beagle owned by Mr. Hale, had early kidney disease caught on routine bloodwork and is still doing well three years later.",
+      "Around 40% of clients decline the panel because of cost.",
+      "The outside lab charges the clinic about $70 per panel.",
+      "Ruth isn't sure age 7 is the right cutoff for small breeds and leans toward 9.",
+      "She thinks some clinics oversell senior testing and doesn't want to sound like them."
+    ]
+  },
+  {
+    "id": 9,
+    "genre": "Customer support reply",
+    "writer": "Kevin Tran, Customer Support Specialist, Pedalpath (e-bike company)",
+    "request": "reply to a customer, Ms. Alvarez, whose Pedalpath Metro 2 battery stopped charging after 5 months. it's under the 2 year warranty so we'll ship a replacement battery. apologize for the wait",
+    "hidden_facts": [
+      "Ms. Alvarez waited 9 days because her ticket was misrouted to the parts team.",
+      "About 3% of Metro 2 batteries from the spring production batch have this charging fault.",
+      "The replacement takes 5-7 business days to arrive.",
+      "She has to return the old battery within 30 days using a prepaid label.",
+      "Kevin is allowed to offer a $25 store credit for the delay.",
+      "She mentioned she relies on the bike to commute to her night nursing shifts.",
+      "Engineering hasn't ruled out that the charger, not the battery, is the real cause."
+    ]
+  },
+  {
+    "id": 10,
+    "genre": "Customer email announcing a pricing change",
+    "writer": "Elise Fontaine, Head of Member Experience, Stillwater Yoga Studios",
+    "request": "email to members announcing a price change: unlimited monthly goes from $119 to $135 starting Dec 1. current members are locked in at the old price until March 1. also mention we're adding Sunday evening classes",
+    "hidden_facts": [
+      "Rent went up 22% at two of the studios.",
+      "Instructors are getting a 10% pay raise.",
+      "This is the first price increase since 2021.",
+      "Longtime member Patricia Chen already asked the front desk whether prices were going up.",
+      "Leadership expects about 5% of members to cancel.",
+      "Elise argued for $129 and was overruled.",
+      "Class-pack prices are not changing.",
+      "Leadership is quietly considering closing the Elm Street studio."
+    ]
+  },
+  {
+    "id": 11,
+    "genre": "Job post intro",
+    "writer": "Rafael Mendes, Head Chef and Co-owner, Brasa Norte (restaurant)",
+    "request": "job post intro for a sous chef at Brasa Norte in Portland. full time, $68-75k, we're open Wed-Sun dinner only. want it to sound like a real kitchen not corporate",
+    "hidden_facts": [
+      "The last sous chef stayed 4 years and left to open her own restaurant.",
+      "Luis started as a dishwasher and is now a line cook, and Rafael is proud of promoting from within.",
+      "The role is a 4-day week.",
+      "The kitchen is small, with 6 cooks on the line.",
+      "They do whole-animal butchery in house.",
+      "Friday service hits about 180 covers, and Rafael admits it's the hardest part of the job.",
+      "Health insurance is 100% covered for the employee.",
+      "Rafael is unsure whether they'll launch a tasting menu in spring."
+    ]
+  },
+  {
+    "id": 12,
+    "genre": "Conference talk abstract + speaker bio",
+    "writer": "Dr. Naomi Fischer, Senior Water Systems Engineer, Mesa Valley Water Authority",
+    "request": "abstract and short bio for my talk at WaterTech Summit 2027 in Phoenix, title 'Finding Leaks with Pressure Data We Already Had'. we cut non-revenue water from 14% to 9%. I'm a senior engineer at Mesa Valley Water Authority",
+    "hidden_facts": [
+      "The drop from 14% to 9% took 18 months.",
+      "The project saves about 410 million gallons of water a year.",
+      "Field technician Carlos Ruiz used the model's alerts to trace a major main leak under an elementary school.",
+      "They used existing SCADA pressure sensors and bought no new hardware.",
+      "In the first months about 30% of the leak alerts were false positives.",
+      "Naomi doesn't think the machine learning was essential and believes simple threshold rules got most of the gains.",
+      "The whole project cost $85,000.",
+      "She has 12 years at the authority and a PhD from Arizona State."
+    ]
+  },
+  {
+    "id": 13,
+    "genre": "Internal strategy memo",
+    "writer": "Graham Holt, COO, Kestrel Outdoor Gear (outdoor retailer)",
+    "request": "draft a short memo to the leadership team recommending we close our 3 mall stores and put that money into the Denver flagship and online. leases end June 2027. keep it to about a page",
+    "hidden_facts": [
+      "The three mall stores lose a combined $640,000 a year.",
+      "The Denver flagship brings in 38% of all store revenue.",
+      "Online sales grew 27% last year.",
+      "Tina Morales, manager of the Boulder mall store, is the best manager in the company and Graham wants to keep her.",
+      "The closures would affect 31 employees, and he wants to offer them transfers first.",
+      "He's unsure how much brand awareness they'd lose without mall foot traffic.",
+      "The CEO is emotionally attached to the first mall store, which opened in 2009.",
+      "One landlord has privately offered a 30% rent cut to keep them."
+    ]
+  },
+  {
+    "id": 14,
+    "genre": "X/Twitter thread (5-7 posts)",
+    "writer": "Ines Carvalho, Owner, The Tidewater Bookshop (independent bookstore)",
+    "request": "write a twitter thread (5-7 posts) about The Tidewater Bookshop turning 10 this month. we started in a 400 sq ft space and now have 2 floors. anniversary party is Oct 25",
+    "hidden_facts": [
+      "The shop nearly closed in 2020 and was saved by a $38,000 GoFundMe.",
+      "Regular customer Mr. Okafor bought the very first book sold, a copy of Middlemarch, and still comes in every week.",
+      "The shop has 4 staff.",
+      "The best-selling book in the shop's history is a local history of the harbor by a retired teacher.",
+      "Ines resents having to compete with online discount pricing.",
+      "The lease renewal in 2027 is uncertain.",
+      "She wants to launch a kids' reading program next year."
+    ]
+  },
+  {
+    "id": 15,
+    "genre": "App store description",
+    "writer": "Theo Lindqvist, Physical Therapist and Co-founder, Stepwise Health",
+    "request": "app store description for Stepwise, our physical therapy home exercise app. key stuff: 300+ video exercises filmed by licensed physical therapists, reminders, and progress sharing with your PT. free, with $7.99/mo premium",
+    "hidden_facts": [
+      "The library has exactly 312 exercise videos.",
+      "Premium unlocks custom programs that your PT can build for you.",
+      "The app has a 4.6 rating from about 1,900 reviews.",
+      "Patient Gwen Harper used Stepwise after a knee replacement and was back to hiking in four months.",
+      "Theo believes patients skipping their exercises is the real problem, more than lack of instructions.",
+      "Apple rejected the first submission over health claims, so the copy must avoid words like 'treat' or 'cure'.",
+      "The Android version still lacks offline mode."
+    ]
+  },
+  {
+    "id": 16,
+    "genre": "Personal reflection (first-person essay paragraph)",
+    "writer": "Daniel Mbeki, Chemistry Teacher, Lakeview High School",
+    "request": "help me write a personal essay paragraph about my last day before retiring after 31 years teaching chemistry at Lakeview High. first person, reflective, not sappy",
+    "hidden_facts": [
+      "His final class was period 4 AP Chemistry.",
+      "Former student Amina Yusuf, now a pharmacist, showed up with her young daughter to watch.",
+      "He ended with the elephant toothpaste demo he's done every year since his first.",
+      "The chemistry lab hasn't been renovated since 1994.",
+      "He has kept a box of more than 600 thank-you notes from students.",
+      "He feels relieved as much as sad and is a little embarrassed by that.",
+      "He has no real plan for what to do next."
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 4,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "The impersonal policy phrasing 'the $135 rate applies to you too' reads as stiff rather than conversational.",
+    "2": "The phrase 'when the new rate starts for you' is slightly unnatural.",
+    "3": "The formal wording 'when the new $135 rate will take effect for you' feels over-polished and corporate.",
+    "4": "none"
+  },
+  "reason": "Version 4 sounds the most natural and human while staying clear and warm, especially with 'then move to $135' and 'so you'll have more options.'",
+  "label_to_arm": {
+    "1": "track2/B3-int",
+    "2": "track2/A-int",
+    "3": "O",
+    "4": "B3"
+  }
+}

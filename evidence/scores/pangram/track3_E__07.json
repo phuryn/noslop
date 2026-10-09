@@ -1,0 +1,26 @@
+{
+  "stage": "STAGE_SUCCESS",
+  "version": "4.0",
+  "prediction": "We believe that this entire text is human-written.",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "headline": "Human Written",
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 1,
+  "windows": [
+    {
+      "label": "Human Written",
+      "ai_assistance_score": 1.724620960885659e-05,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 1983,
+      "word_count": 359,
+      "token_length": 419,
+      "is_humanized": false,
+      "humanizer_score": 0.0
+    }
+  ]
+}

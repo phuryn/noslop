@@ -1,0 +1,34 @@
+{
+  "dropped": [
+    {
+      "item": "'somehow' qualifying the kindness: the narrator found it unexpectedly or inexplicably kind",
+      "severity": "minor"
+    },
+    {
+      "item": "The narrator's surprise at how little they minded by the end ('What surprised me was...')",
+      "severity": "minor"
+    },
+    {
+      "item": "The restful time was specifically 'a morning' each week, not just 'once a week'",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "'didn't feel triumphant so much as quietly astonished' (a matter of degree) became a flat denial: 'I didn't feel triumphant. I felt quietly stunned.'",
+      "severity": "minor"
+    },
+    {
+      "item": "'swallowing water' intensified to 'swallowed a lot of water'",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "'a lot of' water swallowed",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

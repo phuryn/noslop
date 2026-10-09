@@ -1,0 +1,11 @@
+{
+  "send": "4",
+  "reason": "It keeps the same commitments—the 2-year warranty, a free replacement battery, and tracking when it ships—plus the apology for the five-month failure, the delay, and that this isn’t the experience you want. The others drop that line, the no-cost promise, or your voice.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "C",
+    "3": "E",
+    "4": "track2/B5-int"
+  },
+  "picked_arm": "track2/B5-int"
+}

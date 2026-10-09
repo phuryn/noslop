@@ -1,0 +1,11 @@
+{
+  "send": "1",
+  "reason": "It keeps all the original facts, tone, and commitments while reading naturally and professionally. The other versions either change nuance, introduce errors, or weaken the original phrasing.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B5",
+    "3": "E",
+    "4": "C"
+  },
+  "picked_arm": "A"
+}

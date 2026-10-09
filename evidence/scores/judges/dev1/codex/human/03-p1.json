@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 2,
+    "3": 1,
+    "4": 3,
+    "5": 4
+  },
+  "send": "3",
+  "tells": {
+    "1": "Conspicuous conversational padding: “Need to change a bunch of invoices?” and “That's fixed.”",
+    "2": "none",
+    "3": "none",
+    "4": "none",
+    "5": "Mechanical repetition in “Bank feed sync: feeds now sync.”"
+  },
+  "reason": "Version 3 is concise, easy to scan, and polished without sounding stiff; version 2 is a close second. These are editorial judgments, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "O",
+    "3": "B3",
+    "4": "A",
+    "5": "B5"
+  }
+}

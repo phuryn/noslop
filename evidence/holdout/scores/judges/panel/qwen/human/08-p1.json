@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 4,
+    "3": 2,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "The polished em dash and stock lyrical phrases ('find their voice again,' 'for years to come') feel copywritten.",
+    "2": "The clipped summary and generic warmth ('making music for years to come') feel template-like.",
+    "3": "The folksy abstraction ('every piano has a past... what comes next') feels slightly manufactured.",
+    "4": "none"
+  },
+  "reason": "Version 4 sounds most like a real craftsperson: direct, concrete, and unpretentious. It balances credibility and human feel better than the more slogan-like alternatives.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B3",
+    "3": "C",
+    "4": "A"
+  }
+}

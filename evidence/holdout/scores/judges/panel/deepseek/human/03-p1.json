@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 4,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "none",
+    "2": "Vague 'It adds two things' and canned 'no question is too small' reassurance",
+    "3": "Overly structured bold/listicle formatting with polished marketing headings typical of AI-generated email",
+    "4": "none"
+  },
+  "reason": "Version 4 sounds most like a person and is warm, concise, and credible while covering all key details; the others are either stiffer or more template-like.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "O",
+    "4": "C"
+  }
+}

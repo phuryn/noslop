@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 5,
+    "4": 4,
+    "5": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "Every rationale and risk item still opens with a bolded summary sentence, and the conversational headings ('Why I think this is right', 'What could go wrong, and what we'd do about it') read like a deliberate casual rewrite.",
+    "2": "Rigidly parallel 'Mitigation:' labels on every risk bullet; otherwise none.",
+    "3": "Bolded topic-sentence lead-ins on every list item, plus the one-word fragment header 'Flexibility.' and stock phrasing like 'structurally declining' and 'enhanced in-store experience'.",
+    "4": "Template scaffolding left over from a lightly edited draft: the 'Mitigation:' labels, 'structural decline', and 'spread management attention and cash thin'.",
+    "5": "Markdown ## headers in an internal memo, and every mitigation is recast as an identical 'We will...' sentence."
+  },
+  "reason": "Version 2 keeps the memo tight and businesslike, with no decorative bolding and compressed, natural rationale points, so it reads like an experienced operator wrote it. Version 1 has the most personal voice but is wordier and still heavily bolded, while 3 carries the clearest AI formatting habits.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B",
+    "3": "O",
+    "4": "B3",
+    "5": "A"
+  }
+}

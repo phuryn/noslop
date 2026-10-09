@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 2,
+    "4": 3
+  },
+  "reason": "Version 1 is nearly identical to the original; Version 3 follows closely with only minor wording changes. Version 4 is a faithful paraphrase but slightly less precise, while Version 2 omits several specific details and commitments (e.g., early-termination penalty, six-month outreach, redeployment/severance specifics, performance thresholds/pop-up/wholesale).",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "E",
+    "3": "A",
+    "4": "C"
+  }
+}

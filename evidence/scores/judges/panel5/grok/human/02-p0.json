@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 5,
+    "3": 3,
+    "4": 6,
+    "5": 2,
+    "6": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "Generic 'We'd like to help' set in a neat claim-then-ask template.",
+    "4": "Brochure syntax ('We provide… 99.2% on-time rate') and two stacked soft questions.",
+    "5": "Hedged closer: 'talk about whether that fits what you need.'",
+    "6": "Stock on-time-rate line and a CTA cut off at 'to talk?'"
+  },
+  "reason": "Version 1 is the note a logistics rep would actually send: specific, lightly colloquial, and conditional rather than presumptuous. The others either stumble or flatten into interchangeable sales-template cadence.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "E",
+    "3": "B5",
+    "4": "O",
+    "5": "A",
+    "6": "B3"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 6,
+    "2": 1,
+    "3": 4,
+    "4": 5,
+    "5": 3,
+    "6": 2
+  },
+  "send": "2",
+  "tells": {
+    "1": "Forced folksy opener ('Well, this honey season has certainly kept us on our toes') plus the em-dash closer. The welcome line comes oddly at the end.",
+    "2": "none",
+    "3": "Redundant reassurance ('you're not alone. Most of us are in the same boat'), and the welcome comes awkwardly at the end.",
+    "4": "Stacked pleasantries ('We're glad to have you along') and a non-sequitur closer linking winter preparations to hearing about the season.",
+    "5": "Formulaic closer 'Wherever you are with your winter preparations, we'd love to hear…' that doesn't quite follow.",
+    "6": "Tidy rule-of-three phrasing ('put the kettle on, catch your breath and enjoy'; 'Bring your questions, brush up… and catch up')."
+  },
+  "reason": "Version 2 is the cleanest and most natural. It welcomes readers up front, gives the workshop and fondant details plainly, and ends simply without stacked pleasantries or a contrived closing line.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "A",
+    "3": "C",
+    "4": "B3",
+    "5": "B2",
+    "6": "B"
+  }
+}

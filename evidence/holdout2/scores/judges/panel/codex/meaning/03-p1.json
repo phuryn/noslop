@@ -1,0 +1,11 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1
+  },
+  "reason": "Both versions preserve the facts, numbers, commitments, and caveats. Version 2 is marginally more faithful because it explicitly retains that the display is being added to the booth and keeps “display specs” in the action item.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A"
+  }
+}

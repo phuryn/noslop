@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2
+  },
+  "reason": "Version 1 keeps nearly every fact and nuance, including 'very first', 'start to finish' and the appetite line, losing only 'see you in the orchard' and some hashtags. Version 3 is close but drops 'very' and the appetite line, while Version 2 drops 'start to finish', the 'among the first to taste' promise, the appetite line and both sign-offs.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "A",
+    "3": "B3"
+  }
+}

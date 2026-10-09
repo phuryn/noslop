@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 6,
+    "3": 1,
+    "4": 4,
+    "5": 3,
+    "6": 5
+  },
+  "send": "2",
+  "tells": {
+    "1": "Uses a formulaic hook-to-lesson structure with bulleted benefits and a tidy 'The lesson for me' moral.",
+    "2": "none",
+    "3": "Reads like a flat AI summary: compressed, no engagement question, ends abruptly.",
+    "4": "Clunky formal moralizing ('What I took from this is that sometimes...') and overly balanced sentences.",
+    "5": "none",
+    "6": "none"
+  },
+  "reason": "Version 2 has the most natural, conversational voice and concrete personal detail, while still being clear and ending with a genuine question. It feels like a skilled human sharing a real experience rather than a templated post.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "C",
+    "3": "B3",
+    "4": "B5",
+    "5": "E",
+    "6": "A"
+  }
+}

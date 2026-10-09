@@ -1,0 +1,2063 @@
+{
+ "items": [
+  {
+   "winner": "C",
+   "text": "main-1",
+   "judge": "grok",
+   "C_tells": [
+    "The 'isn't just X, it's Y' reframe and the 'What I took from this' lesson stamp.",
+    "Bolted-on lesson that the biggest operational wins come from reaching people where they already are."
+   ],
+   "B3_tells": [
+    "The tidy 'biggest operational win' closer about meeting patients where they already are.",
+    "Abstracted closer that the biggest operational win was meeting patients where they already are."
+   ],
+   "reasons": [
+    "Version 2 sounds like a practice owner: understated, first-person, and rhythmically uneven, while 4 is a recognizable LinkedIn template and 3 is too unpolished to pass as skilled. I'd send 2 for the mix of clarity, credibility, and voice.",
+    "Version 3 sounds most like a capable operator telling a real story, with specific asides and a natural close, while 4 is a stock LinkedIn template and 1 is too rough to feel skilled. I would send 3 because it stays clear and credible without losing a human voice."
+   ]
+  },
+  {
+   "winner": "C",
+   "text": "main-2",
+   "judge": "grok",
+   "C_tells": [
+    "The closer 'where we might fit' is a mild AI sales hedge; the rest sounds spoken.",
+    "Performed warmth: 'we'd be glad to pitch in' and 'where we might fit.'"
+   ],
+   "B3_tells": [
+    "Stiff metric line ('finished last year with a 99.2% on-time rate') plus a tidy two-option offer reads like a template.",
+    "Brochure KPI cadence in 'finished last year with a 99.2% on-time rate,' then a clipped template ask."
+   ],
+   "reasons": [
+    "Version 2 is the one a skilled rep would send: the on-time stat is plain, the offer sounds like trucking talk, and there is a single easy ask. The others are flatter templates, double-questioned, or repetitive.",
+    "Version 1 reads like someone in the business: concrete 'loads,' a plain on-time result, and one clear ask. The others flatten into brochure stats, stack polite questions, or add stock friendliness, and version 4 is too clumsy to sound skilled."
+   ]
+  },
+  {
+   "winner": "C",
+   "text": "main-3",
+   "judge": "grok",
+   "C_tells": [
+    "Rhetorical question and the cutesy closer 'That's fixed.'",
+    "The same label-colon skeleton on every item, even with a looser voice."
+   ],
+   "B3_tells": [
+    "Templated feature labels plus the unnatural date line 'Releases October 14.'",
+    "Lockstep bold labels, clipped parallel bullets, and a fix restated only as a benefit."
+   ],
+   "reasons": [
+    "Version 2 is the most natural skilled voice—plain, correct, and unforced—while version 1 is what I would publish for its scannable labels, complete wording, and credible bug note. Version 5's cheer and version 3's broken outline read least like a careful human editor.",
+    "Version 1 is what a careful editor would ship: clear, credible, and free of both draft errors and generated template tics. Versions 3 and 5 read assembled from the same label-plus-blurb pattern, while 2 is human but unskilled."
+   ]
+  },
+  {
+   "winner": "C",
+   "text": "main-4",
+   "judge": "grok",
+   "C_tells": [
+    "none",
+    "none"
+   ],
+   "B3_tells": [
+    "added uplift ('a small job now... something to look forward to') and an overly neat punchline",
+    "Punchline sanded flat into 'After that, the hardest part is leaving them alone,' like a paraphrase pass."
+   ],
+   "reasons": [
+    "Version 1 has a particular voice—idiom, rhythm, and the invite to stay for a natter—while 2, 4, and 5 are one smoothed rewrite, with 4’s em dash the clearest machine tic. I’d send 1.",
+    "Version 4 has a specific allotment voice—physical verbs, 'hard bit,' 'natter'—that a skilled editor would actually send. Versions 1, 5, and especially 2 share one smoothed template, and 3 is human but thinner and a little loose."
+   ]
+  },
+  {
+   "winner": "C",
+   "text": "main-5",
+   "judge": "grok",
+   "C_tells": [
+    "Folksy swaps ('matters a lot,' 'pay for it,' 'bunch up') sit on the same rigid four-part template.",
+    "Casual phrasing is spread evenly over a still-perfect four-part list (punchy bold line, one tidy sentence)."
+   ],
+   "B3_tells": [
+    "Consequence bullets are template-identical to the other polished drafts; no idiosyncratic phrasing.",
+    "Bold section labels and bold sentence-leads on every bullet, locked into the same parallel template."
+   ],
+   "reasons": [
+    "Version 2 is the only draft with human mess—typos, a dangling ending, spoken cadence—but I would send 4: it finishes the argument cleanly and still sounds like a person, not a template.",
+    "Version 3 is the only one that sounds like a person writing—typos, a broken table, thoughts that trail off—but it is not finished enough to send. Version 4 keeps that human cadence while staying complete, precise, and credible, unlike the interchangeable polish of 1, 2, and 5."
+   ]
+  },
+  {
+   "winner": "C",
+   "text": "main-7",
+   "judge": "grok",
+   "C_tells": [
+    "none",
+    "none"
+   ],
+   "B3_tells": [
+    "'The remaining piece' coordinated with 'target date' is stock AI status phrasing.",
+    "Nominalized opener and redundant \"target date\" give it a corporate template voice."
+   ],
+   "reasons": [
+    "Version 1 sounds like a real Slack note—contractions, 'big piece left,' and 'hit Nov 3'—while 2–4 share a stiff nominalized opener and corporate padding, with 4 the most template-like.",
+    "Version 1 sounds like someone typing in Slack: contractions, \"hit Nov 3,\" and \"only big piece left\" without corporate padding. The others share a stiff opener and \"target date,\" with 3 the most mechanical and 4 marked by the \"with only\" construction."
+   ]
+  },
+  {
+   "winner": "C",
+   "text": "main-9",
+   "judge": "grok",
+   "C_tells": [
+    "none",
+    "none"
+   ],
+   "B3_tells": [
+    "Even, impersonal polish: each sentence does one job and no particular person is speaking.",
+    "The balanced 'sorry... and sorry' line and evenly sanded paragraphs feel lightly generated."
+   ],
+   "reasons": [
+    "Version 2 sounds like one agent taking ownership — spoken rhythm, contractions, and a concrete offer to help — while 5 is corporate-empathy filler and 1 mixes stiff templates with a casual aside. I'd send 2 because it is clear and credible without the padding.",
+    "Version 4 has the most human voice, but I would send version 2: it is clear, credible, and warm without version 3's corporate filler or version 1's rough grammar, and the subject actually states the replacement."
+   ]
+  },
+  {
+   "winner": "B3",
+   "text": "main-10",
+   "judge": "grok",
+   "C_tells": [
+    "Soft-news formula: “Quick heads-up,” “On a happier note,” “glad to help.”",
+    "none"
+   ],
+   "B3_tells": [
+    "Bolted-on “so you’ll have more options during the week.”",
+    "none"
+   ],
+   "reasons": [
+    "Version 1 sounds typed by a person, comma splice and all; version 4 keeps that spoken cadence while stating the dates and rates cleanly, so that is the one I would send. Version 5 performs friendliness, and 2–3 are the same smooth template, padded or stripped.",
+    "Version 4 reads like someone actually delivering a price increase: an honest subject, a plain-language grace period, and a natural turn to the new classes. The others share a template cadence, and version 3 adds throat-clearing and bureaucratic phrasing."
+   ]
+  },
+  {
+   "winner": "B3",
+   "text": "main-11",
+   "judge": "grok",
+   "C_tells": [
+    "Conversational tic 'honestly' plus an over-explained salt image and 'decent hour' oversell.",
+    "Softens the hook with 'honestly, that's the fun part,' then drops into bold labeled blocks and 'your opinion will actually count.'"
+   ],
+   "B3_tells": [
+    "Stacked lifestyle triad: 'real days off, nights that actually end, and a schedule you can plan a life around.'",
+    "Pads a tight line into a generic triad: 'real days off, nights that actually end, and a schedule you can plan a life around.'"
+   ],
+   "reasons": [
+    "Only version 1 sounds like someone typing between services; the rest share the same polished metaphors. I'd still publish 4, which keeps the slammed-weekend voice and the real claims without the all-caps mess or the heavier lifestyle padding.",
+    "Version 1 sounds like one person who has worked the line: specific, tight, and unscaffolded. The others either add lifestyle filler and job-ad labels or, in 4, shout and misspell in a way that reads careless rather than skilled."
+   ]
+  },
+  {
+   "winner": "C",
+   "text": "main-12",
+   "judge": "grok",
+   "C_tells": [
+    "none",
+    "Neat three-beat closer ('what worked, what didn't, and what other utilities should think about') plus a title echo ('data we already had')."
+   ],
+   "B3_tells": [
+    "“This talk covers… It also covers…” scaffolding, with the bio repeating the abstract’s result almost word for word.",
+    "Even AI cadence: 'might otherwise have gone unnoticed,' then 'This talk covers... It also covers...' and 'putting their own pressure data to the same use.'"
+   ],
+   "reasons": [
+    "Version 2 sounds like an engineer talking to peers—specific, first-person, and willing to mention what failed—while 3 is template-smooth and 4 is an unfinished draft with paste errors.",
+    "Version 3 is the only raw engineer draft—named speaker, NRW shorthand, awkward sentences, and a real encoding glitch—while 1 keeps a credible first-person voice and is clear enough to publish. Versions 4 and 5 are smoothed into generic talk-abstract cadence."
+   ]
+  },
+  {
+   "winner": "C",
+   "text": "main-13",
+   "judge": "grok",
+   "C_tells": [
+    "A full casual costume on the same expanded template, including the slightly off 'I'm glad to walk through the analysis.'",
+    "Systematic casual rewrite that stays perfectly parallel, with off phrases like 'How they do depends' and 'I'm glad to walk through.'"
+   ],
+   "B3_tells": [
+    "Even, two-sentence rationale bullets and stock strategy phrasing such as 'redirect the capital and operating dollars they consume.'",
+    "Repeated 'Mitigation:' tags and lockstep parallel syntax on every risk."
+   ],
+   "reasons": [
+    "Version 1 is the only unedited executive draft—hedged, shorthand-heavy, and unfinished where the numbers are missing—while 2–5 are one expanded template in different costumes. I would still send 2: it is the clearest decision memo, without 4’s awkward plain-speech or 3’s label-every-bullet formatting.",
+    "Version 2 is the only draft with unedited human texture, so it ranks first, but I would send version 1: it is clear and credible without 3 and 4's label scaffolding or 5's slightly forced plain-language pass."
+   ]
+  },
+  {
+   "winner": "C",
+   "text": "main-14",
+   "judge": "grok",
+   "C_tells": [
+    "none",
+    "none"
+   ],
+   "B3_tells": [
+    "Soft-focus stock lines (\"One of the lovely things,\" \"Those visits helped us get here\") and a tidy couldn't/could antithesis.",
+    "Stock warmth: “One of the lovely things…” and a neatly balanced sentimental closer."
+   ],
+   "reasons": [
+    "Version 1 sounds like a bookseller—specific, a little wry, and casually uneven—while 2, 3, and 5 are the same smoothed template and 4 is too thin and cliché-ridden to publish.",
+    "Version 4 sounds like a shop owner: casual asides, a wry specific detail, and uneven rhythm. The others are either thinner templates or, in 5, overtly patterned AI prose."
+   ]
+  },
+  {
+   "winner": "C",
+   "text": "main-15",
+   "judge": "grok",
+   "C_tells": [
+    "none",
+    "none"
+   ],
+   "B3_tells": [
+    "Stock 'Whether you're healing…' triad and an even bullet cadence that could swap with version 5.",
+    "Even template rhythm and stiff phrasing like 'start at no cost' with no spoken cadence."
+   ],
+   "reasons": [
+    "Version 1 is the one I'd publish: spoken choices like 'tweak' and 'nudge' sound like a person, and the claims stay clear and compliant. The rest are a flat outline, a cliché feature list with a bad renewal line, or the same copy with extra empty polish.",
+    "Version 2 is the one I'd publish: it names the real worry of doing the exercises wrong, sounds spoken rather than templated, and still gets the price and renewal terms right. The others sand off that voice, hedge the premium pitch, or slip into stock filler."
+   ]
+  },
+  {
+   "winner": "C",
+   "text": "main-16",
+   "judge": "grok",
+   "C_tells": [
+    "none",
+    "none"
+   ],
+   "B3_tells": [
+    "Even, low-surprise polish with almost no idiosyncratic word choice",
+    "frictionless parallel sentences and an overly even cadence"
+   ],
+   "reasons": [
+    "Version 3 has the most distinctive voice and rhythmic variation while keeping the specific details. Versions 1, 2, and 4 stay inside the same smooth template, and 5 turns the memory clumsy and generic.",
+    "Version 5 has a specific voice and uneven rhythm a skilled writer would actually choose, while 4, 1, and 3 are increasingly smooth near-duplicates and version 2 is vague and clichéd."
+   ]
+  },
+  {
+   "winner": "C",
+   "text": "main-1",
+   "judge": "deepseek",
+   "C_tells": [
+    "none",
+    "none"
+   ],
+   "B3_tells": [
+    "Use of LinkedIn cliché 'meeting patients where they already are' and overly compressed, no-question ending.",
+    "Compressed summary with no conversational hook or CTA; ends on the cliché 'meeting patients where they already are.'"
+   ],
+   "reasons": [
+    "Version 3 reads most natural and conversational while remaining clear and credible; it has a personal voice and a useful engagement question.",
+    "Version 1 reads like a real practitioner telling a specific, natural story and ends with a genuine question. It avoids the templated structure and clichés that make the others feel more generated."
+   ]
+  },
+  {
+   "winner": "B3",
+   "text": "main-2",
+   "judge": "deepseek",
+   "C_tells": [
+    "Uses the common AI phrase 'where we might fit'.",
+    "Third-person 'Fairview Markets' undercuts the direct 'you' and makes it feel slightly templated."
+   ],
+   "B3_tells": [
+    "none",
+    "Overly compressed, generic structure with no conversational context or warmth."
+   ],
+   "reasons": [
+    "Version 3 reads most naturally human because it is direct and avoids AI-style filler, but Version 1 is the best send because it pairs that directness with a clearer, more specific call to action.",
+    "Version 4 is the clearest and most natural: it is concise, uses concrete language like 'pick up last-minute loads,' and has a straightforward call to action without stiffness or filler."
+   ]
+  },
+  {
+   "winner": "C",
+   "text": "main-3",
+   "judge": "deepseek",
+   "C_tells": [
+    "none",
+    "none"
+   ],
+   "B3_tells": [
+    "Highly symmetrical bold-label format with clipped, neutral sentences common in AI-generated summaries.",
+    "Rigid 'Feature: explanation' bullet pattern plus the slightly awkward 'Releases October 14'."
+   ],
+   "reasons": [
+    "Version 2 reads like a skilled writer added natural rhythm and helpful context without losing clarity; it has the strongest human feel and would be the most credible to publish.",
+    "Version 5 reads like a skilled human copywriter made the notes clearer and friendlier while keeping all key details accurate. The others are either more templated, less polished, or slightly awkward."
+   ]
+  },
+  {
+   "winner": "C",
+   "text": "main-4",
+   "judge": "deepseek",
+   "C_tells": [
+    "none",
+    "none"
+   ],
+   "B3_tells": [
+    "Flattened idiomatic phrasing ('After that, the hardest part is...') and inserted comma make it read like a paraphrase.",
+    "stiff transition and flat construction ('After that, the hardest part is...')"
+   ],
+   "reasons": [
+    "Version 3 has the most natural, warm voice and community feel; it sounds like a real gardener writing to fellow plot-holders. It balances clear advice with colloquial personality without becoming stiff.",
+    "Version 1 has the most natural, specific human voice and editorial warmth, while the others show subtle AI-ish smoothness or stiffness. It is clear, credible, and engaging enough to send."
+   ]
+  },
+  {
+   "winner": "C",
+   "text": "main-5",
+   "judge": "deepseek",
+   "C_tells": [
+    "Mild: the clipped parallel bullet fragments like 'Coordinators get stuck in reactive mode' are almost too neat, though overall it reads quite natural.",
+    "none"
+   ],
+   "B3_tells": [
+    "The 'What this costs:' bold-parallel bullets and near-identical metrics table give it a template-generated feel.",
+    "Nearly identical polished structure to version 1, with very consistent phrasing."
+   ],
+   "reasons": [
+    "Version 4 reads the most naturally human while still being clear, credible, and appropriate for a PRD. I would send it because it balances a conversational rhythm with professional clarity, making it feel written by a skilled person rather than generated.",
+    "Version 3 reads like the most naturally human while still being complete and clear; the more polished versions feel slightly stiff, and version 4 is too rough."
+   ]
+  },
+  {
+   "winner": "C",
+   "text": "main-6",
+   "judge": "deepseek",
+   "C_tells": [
+    "Mild formulaic cadence in the 'Maybe it’s… Maybe it’s just… Either way' structure.",
+    "Formulaic antithesis 'Less measuring, more making' and vague 'fun part'"
+   ],
+   "B3_tells": [
+    "Slightly awkward 'Skip the weighing out' and the generic emotional cue 'Give yourself something to look forward to each month.'",
+    "Awkward phrasing like 'Skip the weighing out' and 'which leaves more time for'"
+   ],
+   "reasons": [
+    "Version 4 has the most confident, natural rhythm and concrete copywriting, with warmth and clarity and no awkward AI phrasing.",
+    "Version 3 is the clearest and most credible while keeping a warm, human tone; version 1 feels natural but less scannable, and the others show more AI-style tics."
+   ]
+  },
+  {
+   "winner": "C",
+   "text": "main-7",
+   "judge": "deepseek",
+   "C_tells": [
+    "none",
+    "none"
+   ],
+   "B3_tells": [
+    "Uses 'remaining piece' and 'the Nov 3 target date,' which feels a bit template-like.",
+    "Overly smooth compound sentence using 'remaining piece' to merge separate updates."
+   ],
+   "reasons": [
+    "Version 3 sounds the most like a person giving a quick team update because it uses 'We're' and 'hit Nov 3,' while version 4 feels stiff and versions 1 and 2 are more template-like.",
+    "Version 4 sounds most like a real person giving a quick team update with natural phrasing and a conversational tone, while the others feel more templated and formal."
+   ]
+  },
+  {
+   "winner": "C",
+   "text": "main-8",
+   "judge": "deepseek",
+   "C_tells": [
+    "none",
+    "None—conversational and idiomatic throughout."
+   ],
+   "B3_tells": [
+    "none",
+    "Very tidy clinical structure with an abrupt closing price sentence."
+   ],
+   "reasons": [
+    "Version 5 feels most naturally human and conversational, but version 3 is the best publishable choice because it balances that human clarity with a professional, credible tone for a veterinary blog.",
+    "Version 3 has the most natural, skilled-human voice with conversational phrasing and a clear value proposition, while 4 and 5 feel the most AI-polished."
+   ]
+  },
+  {
+   "winner": "B3",
+   "text": "main-9",
+   "judge": "deepseek",
+   "C_tells": [
+    "none",
+    "none"
+   ],
+   "B3_tells": [
+    "none",
+    "none"
+   ],
+   "reasons": [
+    "Version 4 balances clarity, professionalism, and human warmth without sounding overly scripted; it is the most credible and natural customer support reply.",
+    "Version 2 best balances clarity, warmth, and professionalism without over-apologizing or using formulaic filler."
+   ]
+  },
+  {
+   "winner": "C",
+   "text": "main-10",
+   "judge": "deepseek",
+   "C_tells": [
+    "none",
+    "none"
+   ],
+   "B3_tells": [
+    "Abruptly compressed phrasing like 'then move to $135' and generic benefit statement.",
+    "clipped phrasing in 'then move to $135' and a somewhat formulaic benefit line"
+   ],
+   "reasons": [
+    "Version 4 feels most human because it uses natural conversational transitions, empathy, and clear explanation without stiffness or over-templating. It is the one I would send.",
+    "Version 4 is the clearest, most concise, and still warm enough to send; version 1 reads most human but is a bit more casual and wordy for a pricing notice."
+   ]
+  },
+  {
+   "winner": "C",
+   "text": "main-11",
+   "judge": "deepseek",
+   "C_tells": [
+    "none",
+    "none"
+   ],
+   "B3_tells": [
+    "standard AI triadic opening and overly symmetrical sentence flow",
+    "none"
+   ],
+   "reasons": [
+    "Version 1 has the strongest specific voice and concrete details; it reads like a real chef wrote it, whereas the others drift toward polished but generic templates.",
+    "Version 5 reads as the most polished, confident, and naturally human rewrite, with clear voice and credible warmth. Version 4 is ranked lowest because the all-caps and excessive exclamation marks undercut professionalism and credibility."
+   ]
+  },
+  {
+   "winner": "C",
+   "text": "main-12",
+   "judge": "deepseek",
+   "C_tells": [
+    "none",
+    "none"
+   ],
+   "B3_tells": [
+    "Repetitive 'covers' wording and the slightly stilted phrase 'putting their own pressure data to the same use.'",
+    "Uses repetitive boilerplate structure: 'This talk covers... It also covers...'"
+   ],
+   "reasons": [
+    "Version 4 has the most natural, credible human voice and clearly delivers the key results and practical takeaways without sounding templated.",
+    "Version 3 is the most direct and natural, uses a consistent first-person voice with concrete details, and avoids the boilerplate summary language that marks the others."
+   ]
+  },
+  {
+   "winner": "C",
+   "text": "main-13",
+   "judge": "deepseek",
+   "C_tells": [
+    "none",
+    "Mild templated structure with paired headings and 'The numbers (Finance to fill in)' phrasing, but mostly masked by natural voice."
+   ],
+   "B3_tells": [
+    "Polished, balanced corporate tone with consistent 'Mitigation:' labels and generic AI-edited phrasing.",
+    "Heavy template feel: repeated 'Mitigation:' labels and uniform corporate phrases like 'structural decline' and 'concentrate talent and inventory.'"
+   ],
+   "reasons": [
+    "Version 1 reads as the most naturally human and credible while still being clear and complete, avoiding the templated feel of the more heavily polished versions.",
+    "Version 2 reads most like a confident human decision-maker: it is clear, well-structured, and credible while still using natural phrases and contractions. It avoids the stiff, template-like quality of the later versions while being polished enough to send."
+   ]
+  },
+  {
+   "winner": "C",
+   "text": "main-14",
+   "judge": "deepseek",
+   "C_tells": [
+    "none",
+    "none"
+   ],
+   "B3_tells": [
+    "Smooth but generic phrasing such as 'we could make a start' and 'Those visits helped us get here' reads like AI-edited copy.",
+    "Safe, templated warmth: phrases like 'Those visits helped us get here' and 'one of the lovely things' feel like polished copy."
+   ],
+   "reasons": [
+    "Version 2 feels the most authentically human and engaging, with specific, warm details and a clear voice, while still covering the key information effectively.",
+    "Version 1 has the most authentic bookseller voice and a specific, memorable detail in the unreturned borrowed book, making it feel genuinely human rather than polished into marketing copy."
+   ]
+  },
+  {
+   "winner": "C",
+   "text": "main-15",
+   "judge": "deepseek",
+   "C_tells": [
+    "none",
+    "none"
+   ],
+   "B3_tells": [
+    "Template-like structure and stock phrases ('nudge', 'see how far you've come').",
+    "Very even, templated bullet structure and the standard 'Whether you're healing...' formula."
+   ],
+   "reasons": [
+    "Version 4 reads like a skilled human writer: warm, clear, and credible without the formulaic polish of the more AI-sounding options.",
+    "Version 5 reads most naturally human, but version 4 is the strongest app-store copy because it balances clarity, credibility, and warmth without becoming too casual."
+   ]
+  },
+  {
+   "winner": "B3",
+   "text": "main-16",
+   "judge": "deepseek",
+   "C_tells": [
+    "Slightly forced casualness: clipped short sentences and folksy idioms feel self-consciously colloquial.",
+    "none"
+   ],
+   "B3_tells": [
+    "none",
+    "Smooth but slightly flattened; 'teach again' loses the more natural 'teach them better'"
+   ],
+   "reasons": [
+    "Version 1 is the most concrete and understated, showing the routine through specific actions rather than announcing it, and it has the most natural syntax with no obvious AI tells.",
+    "Version 1 has the most specific, natural voice and varied rhythm; the others are either too vague or increasingly polished/generic, with small wording choices that feel less like a skilled human reflecting on a real day."
+   ]
+  },
+  {
+   "winner": "C",
+   "text": "main-1",
+   "judge": "qwen",
+   "C_tells": [
+    "The 'What I took from this' aphorism is a familiar LinkedIn/AI wrap-up.",
+    "none"
+   ],
+   "B3_tells": [
+    "The polished tricolon and neat 'operational win' takeaway feel a little AI-smoothed.",
+    "Very compressed, generic takeaway and no question make it feel more like a summary than a human post."
+   ],
+   "reasons": [
+    "Version 3 sounds most like a real person: it has first-person ownership, concrete details, and a conversational rhythm. It is also the strongest publishable version because it is clear, credible, and ends with a natural question.",
+    "Version 5 sounds the most natural and credible while keeping a clear result, concrete details, and a useful call for responses. Version 1 is also clean, but 5 has a stronger human voice."
+   ]
+  },
+  {
+   "winner": "C",
+   "text": "main-2",
+   "judge": "qwen",
+   "C_tells": [
+    "none",
+    "none"
+   ],
+   "B3_tells": [
+    "Clean but generic; the metric phrasing feels a bit polished rather than conversational.",
+    "Very trimmed, template-like brevity; the CTA feels a bit abrupt."
+   ],
+   "reasons": [
+    "Version 4 sounds most like a real person: plain language, a concrete offer, and a conversational ask without sounding sloppy. It balances clarity, credibility, and human feel better than the others.",
+    "Version 1 is the most natural because it is clear, specific, and lightly conversational without sounding sloppy. It also makes the ask feel low-pressure and relevant to the prospect."
+   ]
+  },
+  {
+   "winner": "B3",
+   "text": "main-3",
+   "judge": "qwen",
+   "C_tells": [
+    "forced conversational rhetorical question and colloquial filler",
+    "The forced conversational question and 'That's fixed.' feel artificially breezy."
+   ],
+   "B3_tells": [
+    "formulaic bold label-plus-explanation bullets and the slightly awkward 'Releases October 14'",
+    "The date line 'Releases October 14' feels slightly mechanical."
+   ],
+   "reasons": [
+    "Version 4 reads like a careful human editor: concise, clear, and professional without sounding templated or overly chatty. Version 5 is publishable but feels a little more mechanically polished.",
+    "Version 5 is the most publication-ready: concise, consistent, and user-focused without the chattiness of 2 or 4. It has a slight templated feel, but it best balances clarity, credibility, and human tone."
+   ]
+  },
+  {
+   "winner": "C",
+   "text": "main-4",
+   "judge": "qwen",
+   "C_tells": [
+    "The chirpy exclamation and 'natter' could read as performed folksiness, though they suit the context.",
+    "The chirpy opener and stacked colloquial touches feel slightly performed, and 'After that comes the hard bit: leave them alone' is a little awkward."
+   ],
+   "B3_tells": [
+    "Safe, slightly templated wording such as 'a chat and a few ideas' feels a little generic.",
+    "The phrasing is clear but plain, with connective tissue like 'After that' and 'A reminder for your diary' that feels templated."
+   ],
+   "reasons": [
+    "Version 3 has the most convincing newsletter voice: friendly, practical, and specific enough to feel like a real editor rather than a template. It keeps the instructions clear while sounding least generic.",
+    "Version 1 has the most natural editorial rhythm, clear instructions, and warm community tone without feeling over-written. It sounds like a person who actually writes the newsletter."
+   ]
+  },
+  {
+   "winner": "C",
+   "text": "main-5",
+   "judge": "qwen",
+   "C_tells": [
+    "none",
+    "none"
+   ],
+   "B3_tells": [
+    "Very neat, safe corporate parallelism makes it read like a polished template rather than a person.",
+    "Rhetorical 'What this costs:' and highly parallel bullet template."
+   ],
+   "reasons": [
+    "Version 5 sounds most like a skilled person explaining the problem, with concrete language and natural rhythm while staying clear enough for a PRD. Versions 3 and 1 are strong but more templated, and version 2 is too rough for publication.",
+    "Version 3 is the most natural and human while remaining clear, complete, and credible for a PRD. It avoids the templated feel of the others without becoming too casual."
+   ]
+  },
+  {
+   "winner": "C",
+   "text": "main-6",
+   "judge": "qwen",
+   "C_tells": [
+    "none",
+    "none"
+   ],
+   "B3_tells": [
+    "It reads like a safe paraphrase, with mildly unnatural phrasing such as 'Skip the weighing out' and 'which leaves more time'.",
+    "A slightly over-smoothed, generic rhythm, especially “which leaves more time for stirring, baking, and sneaking a taste.”"
+   ],
+   "reasons": [
+    "Version 3 sounds the most natural and clear while keeping a warm, human tone. Version 1 is polished but slightly overcrafted; Version 4 is the most obviously weak.",
+    "Version 1 has the warmest, most natural voice while staying clear, credible, and useful for a landing page. The others range from mildly over-polished to awkward or artificially slogan-like."
+   ]
+  },
+  {
+   "winner": "C",
+   "text": "main-7",
+   "judge": "qwen",
+   "C_tells": [
+    "none",
+    "none"
+   ],
+   "B3_tells": [
+    "The inverted phrasing 'The Android biometric flow is the remaining piece' sounds less natural than 'The remaining piece is...'.",
+    "stiff nominal phrasing in \"is the remaining piece\""
+   ],
+   "reasons": [
+    "Version 3 sounds most like a real Slack update because it uses a first-person voice and idiomatic phrasing without losing the key status details. It is slightly more conversational than the others, which helps credibility and human feel.",
+    "Version 1 sounds the most like a natural Slack update from a teammate while staying clear and concrete. The others are fine but increasingly polished in a generic, slightly mechanical way."
+   ]
+  },
+  {
+   "winner": "C",
+   "text": "main-8",
+   "judge": "qwen",
+   "C_tells": [
+    "none",
+    "none"
+   ],
+   "B3_tells": [
+    "Safe, templated benefit list with a flat, generic tone.",
+    "none"
+   ],
+   "reasons": [
+    "Version 1 sounds the most natural and conversational while still clear, credible, and useful. It avoids the stiff or overly polished tells in the others.",
+    "Version 2 is the best balance of directness, credibility, and natural phrasing. Version 3 is warm and human, but a little too casual for a veterinary recommendation."
+   ]
+  },
+  {
+   "winner": "B3",
+   "text": "main-10",
+   "judge": "qwen",
+   "C_tells": [
+    "forced chatty warmth, especially 'On a happier note' and 'this community'",
+    "forced upbeat transition (“On a happier note”) after a price increase"
+   ],
+   "B3_tells": [
+    "none",
+    "none"
+   ],
+   "reasons": [
+    "Version 1 is the most natural because it is concise, clear, and warm without sounding templated. It delivers the pricing change and the added classes in a tone that feels like a real person wrote it.",
+    "Version 1 is concise, clear, and warm without sounding canned, making it the most usable customer email. It gives the key dates and grandfathering terms plainly while keeping the community tone."
+   ]
+  },
+  {
+   "winner": "C",
+   "text": "main-11",
+   "judge": "qwen",
+   "C_tells": [
+    "The conversational filler and added cozy details feel like an AI trying to create warmth.",
+    "none"
+   ],
+   "B3_tells": [
+    "Its evenly smoothed cadence and generic benefits language feel machine-polished.",
+    "The clean, near-duplicate phrasing and bland 'Pay is' line feel machine-smoothed rather personally written."
+   ],
+   "reasons": [
+    "Version 4 keeps the original's rough-edged personality while making the role, schedule, pay, and expectations clear and scannable. Version 1 feels authentic but is too unpolished to publish as-is.",
+    "Version 4 sounds most like a skilled human writing a real kitchen job post: specific, conversational, and organized without feeling canned. Version 1 has raw human energy, but Version 4 is clearer and more publishable."
+   ]
+  },
+  {
+   "winner": "C",
+   "text": "main-12",
+   "judge": "qwen",
+   "C_tells": [
+    "none",
+    "none"
+   ],
+   "B3_tells": [
+    "repetitive talk covers phrasing and a flat third-person bio",
+    "Mechanical repetition of “covers” and the slightly awkward “putting their own pressure data to the same use” feel formulaic."
+   ],
+   "reasons": [
+    "Version 2 is the most natural and conference-ready, with a clear first-person voice and concrete outcomes. It balances credibility and approachability better than the more generic or error-prone alternatives.",
+    "Version 5 sounds most like a real person describing a practical session, with a natural voice and concrete outcomes. It is clear, credible, and engaging enough to publish despite the slightly generic bio."
+   ]
+  },
+  {
+   "winner": "C",
+   "text": "main-13",
+   "judge": "qwen",
+   "C_tells": [
+    "none",
+    "none"
+   ],
+   "B3_tells": [
+    "The inverted phrase 'For what they return...' reads like an overedited paraphrase.",
+    "Generic, perfectly parallel risk/reinvestment bullets and safe corporate phrasing read as AI-assisted."
+   ],
+   "reasons": [
+    "Version 2 sounds like a person making a direct, decision-ready case without over-formal jargon. Version 5 has a natural voice but is too loose and vague to send as-is.",
+    "Version 1 has the most credible human voice: clear, practical, and not over-templated. Version 4 feels authentically human but is too rough to send, while 2, 3, and 5 read like polished but generic AI-assisted revisions."
+   ]
+  },
+  {
+   "winner": "C",
+   "text": "main-14",
+   "judge": "qwen",
+   "C_tells": [
+    "none",
+    "none"
+   ],
+   "B3_tells": [
+    "Soft filler like \"and an anniversary to celebrate\" and \"One of the lovely things\" feels like manufactured warmth.",
+    "The tidy triads and safe gratitude language feel a bit templated."
+   ],
+   "reasons": [
+    "Version 1 sounds most like a real bookseller because of its casual rhythm, concrete details, and specific, slightly messy human touches. The others are progressively more generic, redundant, or cliché, with 5 feeling the most machine-written.",
+    "Version 5 has the most natural, human voice, with casual asides and a specific, believable book-life detail. It is clear and warm without sounding overly polished or formulaic."
+   ]
+  },
+  {
+   "winner": "C",
+   "text": "main-15",
+   "judge": "qwen",
+   "C_tells": [
+    "none",
+    "The casual tone sometimes feels forced, and 'A licensed physical therapist films every one' is slightly unnatural."
+   ],
+   "B3_tells": [
+    "Mild boilerplate cadence, especially the 'Whether...' triad and 'see how far you've come'.",
+    "Very tidy parallel structure and safe, slightly redundant phrasing like 'proper form and technique' make it feel templated."
+   ],
+   "reasons": [
+    "Version 4 sounds the most like a skilled human marketer: conversational, benefit-focused, and specific enough to feel credible. Version 1 is clear but more boilerplate, while 3 and 5 show obvious templated phrasing.",
+    "Version 4 has the most natural voice, but Version 3 is the best publishable choice because it is concise, credible, and less likely to feel over-written. It keeps the value clear without too much marketing gloss."
+   ]
+  },
+  {
+   "winner": "C",
+   "text": "main-16",
+   "judge": "qwen",
+   "C_tells": [
+    "choppy short sentences and fragmentary opening can feel like staged plainness",
+    "none"
+   ],
+   "B3_tells": [
+    "safe, generic parallel phrasing and loss of interiority make it read like a polished but impersonal edit",
+    "Smooth but safe parallelism, plus the slightly awkward phrase “trying to figure out how to teach again.”"
+   ],
+   "reasons": [
+    "Version 1 has the most natural cadence, concrete detail, and reflective restraint, so it feels both human and publishable. Version 3 has some lived-in voice but slightly forced choppiness, while the others are more mechanical or clichéd.",
+    "Version 1 feels the most lived-in, with concrete details, natural idiom, and emotional restraint. The others are competent but more generic, over-polished, or summary-heavy."
+   ]
+  },
+  {
+   "winner": "B3",
+   "text": "main-1",
+   "judge": "codex",
+   "C_tells": [
+    "The added takeaway about 'reaching people where they already are' turns a concrete account into a formulaic business lesson.",
+    "The staged conversational rhythm, three consecutive outcome fragments, and generic operational takeaway feel overworked."
+   ],
+   "B3_tells": [
+    "The closing lesson about 'meeting patients where they already are' feels like a stock insight.",
+    "The 'meeting patients where they already are' lesson adds a familiar business cliché to an otherwise focused account."
+   ],
+   "reasons": [
+    "Version 1 is direct, economical, and specific enough to publish without an unnecessary management lesson. Version 3 may feel less polished by AI, but its awkward syntax and repetition make it the weakest example of skilled writing; these rankings assess the prose, not actual authorship.",
+    "Version 1 reads most like a skilled editor's publishable post: specific, concise, and grounded in the operational change without belaboring the lesson. Version 5 has plausible human roughness, but its awkward syntax and repetition weaken it under the skilled-writer criterion; these stylistic judgments do not establish authorship."
+   ]
+  },
+  {
+   "winner": "B3",
+   "text": "main-3",
+   "judge": "codex",
+   "C_tells": [
+    "The staged question “Need to change a bunch of invoices?” feels like deliberately added conversational warmth.",
+    "The unnecessary rhetorical question and conspicuous informality feel like a deliberate attempt to sound human."
+   ],
+   "B3_tells": [
+    "none",
+    "none"
+   ],
+   "reasons": [
+    "Version 2 is concise, easy to scan, and professionally natural; versions 5 and 4 are close behind. Version 1 feels more labored, while version 3 has distracting errors and narrows the PDF bug to missing symbols; these judgments concern editorial quality, not proof of AI authorship.",
+    "Version 5 is concise, scannable, and polished; 1 and 2 are also credible professional copy. Version 3 sounds overworked, while 4 has editorial errors and changes the bug description from incorrect symbols to missing symbols; these judgments concern writing quality, not proof of authorship."
+   ]
+  },
+  {
+   "winner": "C",
+   "text": "main-4",
+   "judge": "codex",
+   "C_tells": [
+    "none",
+    "The combination of 'pointy', 'hard bit' and 'natter' slightly overworks the conversational voice."
+   ],
+   "B3_tells": [
+    "none",
+    "The transitions feel mechanically smoothed, particularly 'and it gives us' and 'After that, the hardest part is'."
+   ],
+   "reasons": [
+    "Version 3 has the most distinctive conversational voice, but I'd send 1 for its easy rhythm, clear instructions, and welcoming invitation. Version 4 feels choppier and overstates the advice to ignore the garlic until summer; none contains a reliable AI-writing tell.",
+    "Version 1 has the best rhythm and a warm, restrained voice suited to a community newsletter; version 2 is a close second. These are editorial judgments about how the prose reads, not reliable evidence of AI authorship."
+   ]
+  },
+  {
+   "winner": "B3",
+   "text": "main-5",
+   "judge": "codex",
+   "C_tells": [
+    "Conspicuously conversational wording—'actually accept,' 'bunch up,' 'in the loop'—feels like an applied effort to sound human.",
+    "Conspicuously casual substitutions such as “who the client will actually accept” and “call-outs bunch up” feel like an imposed conversational voice."
+   ],
+   "B3_tells": [
+    "The punchy 'What this costs' lead-in feels editorially packaged, especially alongside the symmetrical consequence bullets.",
+    "none"
+   ],
+   "reasons": [
+    "Version 1 best fits a skilled human writing a PRD: direct, readable, and professionally restrained; version 3 feels like an unfinished working draft. Before sending, I would distinguish escalation from successful rescheduling, a credibility problem shared by all five; these stylistic impressions do not establish AI authorship.",
+    "Version 5 reads most like a carefully edited PRD: direct language, useful headings, and restrained formatting; version 2 is close. Before sending, I would distinguish confirmed replacements from escalations in the success metrics, since counting both as rescheduled obscures whether care is covered."
+   ]
+  },
+  {
+   "winner": "C",
+   "text": "main-6",
+   "judge": "codex",
+   "C_tells": [
+    "none",
+    "The repeated 'Maybe' followed by 'Either way' feels slightly formulaic, though it works conversationally."
+   ],
+   "B3_tells": [
+    "The familiar sequence 'stirring, baking, and sneaking a taste' feels somewhat stock.",
+    "none"
+   ],
+   "reasons": [
+    "Version 2 has the most natural conversational rhythm, clear product information, and useful section headings. Version 5 is close, but 'Skip the weighing out' is less assured; these rankings judge editorial quality and human feel, not actual authorship.",
+    "Version 5 has the best balance of natural phrasing, warmth, clear terms, and scannable landing-page structure; version 4 is close but slightly less idiomatic. These are editorial judgments about how the copy reads, not reliable evidence of AI authorship."
+   ]
+  },
+  {
+   "winner": "C",
+   "text": "main-7",
+   "judge": "codex",
+   "C_tells": [
+    "none",
+    "none"
+   ],
+   "B3_tells": [
+    "none",
+    "none"
+   ],
+   "reasons": [
+    "Version 3 sounds the most conversational, but I’d send version 1 for its crisp, easily scanned statements and neutral description of the remaining work. The differences are small; none has a distinctive AI-writing tell.",
+    "Version 1 is concise, natural, and easy to scan; version 3 feels conversational but introduces a slight qualification with “only big piece.” Versions 2 and 4 read a little more mechanically, though none contains a reliable AI-writing tell."
+   ]
+  },
+  {
+   "winner": "B3",
+   "text": "main-8",
+   "judge": "codex",
+   "C_tells": [
+    "The closing promise to 'get the full picture' feels like generic promotional padding; the casual phrasing feels slightly performed.",
+    "The stacked conversational phrases feel engineered, and 'get the full picture' is a generic, overpromising closer."
+   ],
+   "B3_tells": [
+    "none",
+    "none"
+   ],
+   "reasons": [
+    "Version 4 is direct, restrained, and clear, with a straightforward price statement; version 1 is a close second. Version 5 feels naturally human but needs tightening, while 2 and 3 sound more deliberately polished and promotional; these are stylistic judgments, not proof of authorship.",
+    "Version 4 best balances a natural clinic voice, clear explanation, and a straightforward price statement; version 3 is close but slightly more clipped. These rankings assess editorial feel, not evidence of AI authorship."
+   ]
+  },
+  {
+   "winner": "B3",
+   "text": "main-10",
+   "judge": "codex",
+   "C_tells": [
+    "“On a happier note” feels like a scripted attempt to soften the price increase; the workout benefit adds unnecessary sales language.",
+    "“On a happier note” feels like manufactured warmth; the explanation of the delayed increase is overdone."
+   ],
+   "B3_tells": [
+    "“So you'll have more options during the week” adds a generic benefit explanation to an already clear announcement.",
+    "none"
+   ],
+   "reasons": [
+    "Version 4 is direct, calm, and easy to scan, with a separate paragraph making the existing-member exception clear. These rankings reflect editorial fit and perceived naturalness, not reliable evidence of AI authorship.",
+    "Version 2 is direct, natural, and clear about both pricing dates without trying to soften the news with extra cheerfulness. These are stylistic judgments, not reliable evidence of AI authorship."
+   ]
+  },
+  {
+   "winner": "B3",
+   "text": "main-11",
+   "judge": "codex",
+   "C_tells": [
+    "'Honestly,' 'actually count,' and 'Sound like your kind of kitchen?' collectively strain to sound conversational.",
+    "Words such as 'honestly' and 'actually' feel like deliberate attempts to manufacture an informal, candid voice."
+   ],
+   "B3_tells": [
+    "The oddly specific 'third plate of the night' feels manufactured; the lifestyle promises exceed the supplied facts.",
+    "The polished three-part promise about days off, nights ending, and planning a life feels formulaic and exceeds what the stated hours establish."
+   ],
+   "reasons": [
+    "Version 4 reads most like a competent editorial rewrite: direct, readable, and relatively restrained, though its added promises need verification before publication. Version 1 feels plausibly human but ranks last as skilled writing for this purpose; these judgments concern style, not provable authorship.",
+    "Version 2 has the best balance of personality, clarity, and restraint; version 4 is especially easy to scan but feels more packaged. These are editorial impressions, not reliable evidence of AI authorship, and version 3's roughness does not make it read like skilled human writing."
+   ]
+  },
+  {
+   "winner": "B3",
+   "text": "main-12",
+   "judge": "codex",
+   "C_tells": [
+    "The conversational voice feels manufactured in places: 'just to keep the system running,' 'nobody knew about,' and 'digging into.'",
+    "Conspicuously conversational phrasing and the stock 'what worked, what didn't' promise suggest an effort to manufacture a human voice."
+   ],
+   "B3_tells": [
+    "none",
+    "none"
+   ],
+   "reasons": [
+    "Version 1 is clear, credible, and restrained without sounding formulaic. Version 4 is tighter but overstates leadership and causation; version 5 adds unsubstantiated scope and promises, version 2 sounds templated, and version 3 needs substantial cleanup—none of which establishes AI authorship.",
+    "Version 2 is clear, natural, and appropriately measured without adding unsupported details. These are editorial impressions, not reliable evidence of AI authorship; version 4 ranks last because its awkward prose and formatting errors undermine publication quality."
+   ]
+  },
+  {
+   "winner": "C",
+   "text": "main-13",
+   "judge": "codex",
+   "C_tells": [
+    "The uniformly comprehensive lists of investments and mitigations feel slightly prepackaged, despite the natural voice.",
+    "The consistently conversational headings and softened wording feel deliberately engineered for informality."
+   ],
+   "B3_tells": [
+    "Repeated “Mitigation:” labels turn the risk discussion into a mechanical template.",
+    "Repeated 'Mitigation:' labels and phrases such as 'stronger potential returns on incremental investment' give it a template-driven feel."
+   ],
+   "reasons": [
+    "Version 1 best combines a credible personal voice, clear reasoning, and useful structure; version 2 sounds spontaneous but needs tightening. Before sending version 1, I would verify the added operational commitments and correct the timing: October 2026 is already within the stated renewal window.",
+    "Version 3 best combines a credible internal voice with concise reasoning and direct statements of responsibility; version 5 sounds spontaneous but needs substantial tightening. These are stylistic judgments, not evidence of authorship, and even version 3 needs its timing corrected: October 2026 is already within the stated renewal window."
+   ]
+  },
+  {
+   "winner": "C",
+   "text": "main-14",
+   "judge": "codex",
+   "C_tells": [
+    "The sentimental pivot 'And then you walked through the door' feels slightly scripted.",
+    "Slightly staged conversational beats: “Somehow we did. And then you walked through the door.”"
+   ],
+   "B3_tells": [
+    "Low-information additions such as 'an anniversary to celebrate' and 'Those visits helped us get here' feel like editorial padding.",
+    "Low-information additions such as “an anniversary to celebrate” and “Those visits helped us get here.”"
+   ],
+   "reasons": [
+    "Version 1 has the strongest conversational voice and the most memorable detail: the borrowed book that never came back. The ranking weighs skilled execution rather than likely authorship; version 2's repetition and tangled fifth post put it last, even though it could easily be human-written.",
+    "Version 1 has the strongest voice, warmth and memorable detail, especially the friend who never returned the book. Version 3 may feel spontaneous, but its repetition and tangled fifth post put it last for skilled execution; these stylistic judgments do not establish AI authorship."
+   ]
+  },
+  {
+   "winner": "B3",
+   "text": "main-15",
+   "judge": "codex",
+   "C_tells": [
+    "Conspicuously conversational phrasing—“give you a nudge,” “tweak your plan,” “bouncing back”—feels applied to make the copy sound personable.",
+    "Conspicuously casual phrasing—“bouncing back,” “give you a nudge,” “tweak your plan”—makes the warmth feel manufactured."
+   ],
+   "B3_tells": [
+    "Repeated explanatory padding: “what to do and how to do it right” and “proper form and technique.”",
+    "Mild stock encouragement: “get a nudge” and “see how far you've come.”"
+   ],
+   "reasons": [
+    "Version 3 is direct, restrained, and easy to scan; I would send it after verifying what Premium includes and preserving the explicit statement that the app is free to use. These rankings reflect editorial impressions, not reliable evidence of AI authorship.",
+    "Version 1 best balances clear features, credible language, and an approachable App Store voice; version 5 is restrained but less fluid. These are stylistic judgments, not reliable evidence of AI authorship."
+   ]
+  },
+  {
+   "winner": "B3",
+   "text": "main-16",
+   "judge": "codex",
+   "C_tells": [
+    "The repeated short sentences and conspicuously conversational phrasing feel like a deliberate effort to sound human.",
+    "The repeated short sentences and closing “I just” feel engineered to simulate spontaneous speech."
+   ],
+   "B3_tells": [
+    "none",
+    "none"
+   ],
+   "reasons": [
+    "Version 3 has the strongest balance of concrete detail, natural rhythm, and restrained emotion; versions 2 and 5 are close but slightly more packaged. Version 4 feels rhythmically overworked, while version 1 reads like an unpolished draft; these are editorial judgments, not reliable evidence of AI authorship.",
+    "Version 5 has the strongest combination of concrete action, natural rhythm, and restrained emotion; version 2 comes close. Version 1's repetition and generalities put it last for skilled writing, while the stylistic signals in the others do not establish AI authorship."
+   ]
+  },
+  {
+   "winner": "C",
+   "text": "holdout-1",
+   "judge": "grok",
+   "C_tells": [
+    "The 'What's next:' signpost and the stock pair 'blazing heat and freezing cold.'",
+    "The 'What's next:' label sounds like a newsletter outline, not something said aloud."
+   ],
+   "B3_tells": [
+    "Compressed brochure cadence, especially the colon-led '12 spots, paid training, and a path' and the unnatural 'cutting money off monthly bills.'",
+    "Awkward forced pivot, 'The number is our members' too,' plus a colon-led spec list."
+   ],
+   "reasons": [
+    "Version 4 sounds most like a person talking, with no real template scaffolding. I'd still publish version 2: the hook, crew line, and ask are clearer and more credible for LinkedIn, and the marketing tics don't outweigh that.",
+    "Version 1 has the most spoken voice, a specific hook, and a careful hedge, so it reads most like someone at the co-op; version 3 is the least human because of its symmetrical 'belongs to' frame. I'd send 1 for the stronger crew credit, clearer milestone, and a CTA that actually invites a reply."
+   ]
+  },
+  {
+   "winner": "C",
+   "text": "holdout-2",
+   "judge": "grok",
+   "C_tells": [
+    "Mild stock recruiter phrasing ('good fit', 'if it sounds interesting'), but nothing broken.",
+    "'good fit' plus 'if it sounds interesting' is stock recruiter-template phrasing."
+   ],
+   "B3_tells": [
+    "Vague pitch loosely tacked on with 'and' ('a role you might want to hear about') rather than a reason to write him.",
+    "none"
+   ],
+   "reasons": [
+    "Version 2 reads most like a recruiter who actually looked ('I saw', 'at the moment') and makes a clear, idiomatic ask, so it is the one I would send. Version 4 is polished but generic; version 1 is casual but vague; version 3 gives itself away with 'sounds of interest'.",
+    "Version 1 is the leanest and most spoken, with a blunt close and no broken idiom or stacked politeness, so it reads most like a person and is the one I'd send. Version 4 is close but template-flavored, 3 is smoothly generic, and 2's 'sounds of interest' is an obvious collocation slip."
+   ]
+  },
+  {
+   "winner": "C",
+   "text": "holdout-3",
+   "judge": "grok",
+   "C_tells": [
+    "Performed-friendly closer: 'part of the Kestrel family' and 'No question is too small,' with a slightly off 'plugging in.'",
+    "Symmetrical bold feature blurbs capped by the stock line 'No question is too small.'"
+   ],
+   "B3_tells": [
+    "none",
+    "Fact-packed appositive lede ('Firmware 3.4, a free update...') with a tacked-on cliché."
+   ],
+   "reasons": [
+    "Version 2 is the one a careful editor would ship: specific subject, no bold feature template, no brand-family cliché, and no overclaim. The others read more like generated product mail, either padded with reassurance or restating the same benefit.",
+    "Version 1 has the most natural spoken rhythm, while version 2 reads like a smoothed paraphrase full of support-script phrasing. I would send version 3: it states the update, benefits, and install steps clearly without vague claims or patronizing reassurance."
+   ]
+  },
+  {
+   "winner": "B3",
+   "text": "holdout-4",
+   "judge": "grok",
+   "C_tells": [
+    "welcome buried at the end after redundant reassurances",
+    "Sympathy said twice ('not alone', then 'same boat') plus webinar-ish 'glad you're here'."
+   ],
+   "B3_tells": [
+    "none",
+    "Empty filler ('glad to have you along') and a 'Wherever you are' clause that doesn't fit the invitation."
+   ],
+   "reasons": [
+    "Version 1 has the most natural newsletter shape, consistent warmth, and a closing line that actually ties winter prep to the invitation. Versions 2 and 3 jarringly postpone the welcome, while 4 is clean but a little starker and less connected at the end.",
+    "Version 1 has the most lived-in club voice, including the 'Well,' and a real slip a person would leave in. Version 2 is the one to send: it keeps that warmth, puts the welcome first, and states the workshop and fondant without the buried greeting or padded sympathy."
+   ]
+  },
+  {
+   "winner": "C",
+   "text": "holdout-5",
+   "judge": "grok",
+   "C_tells": [
+    "The mirrored “if you’re happy / if you’d rather” close is a little too neatly balanced.",
+    "The paired if/if close is a little symmetrically neat"
+   ],
+   "B3_tells": [
+    "Looks like a tightened edit of the same template: added comma, dropped “can you,” clipped sign-off.",
+    "Tidy decision-memo shape ending in a scripted “Reply yes to confirm, or tell me if…”"
+   ],
+   "reasons": [
+    "Version 2 paces the ask, the saving, and the recommendation like a colleague typing in Slack, while 1 and 4 lean on the same tidy options-and-reply template and 3 compresses it into a blunt block.",
+    "Version 2 reads like a colleague asking in plain speech, with a clear comparison and a soft confirm. The others share a decision-template cadence, and version 4’s “Options:” heading is the most mechanical."
+   ]
+  },
+  {
+   "winner": "B3",
+   "text": "holdout-8",
+   "judge": "grok",
+   "C_tells": [
+    "Empty uplift in “worth looking after what comes next,” plus “real privilege” and “years to come.”",
+    "Vague literary paraphrase “worth looking after what comes next,” with “a real privilege” and “sound like themselves.”"
+   ],
+   "B3_tells": [
+    "Too-neat “history and a future worth caring for,” then a stock “years to come” close.",
+    "Balanced slogan “a history and a future worth caring for.”"
+   ],
+   "reasons": [
+    "Version 2 sounds most like a working restorer—plain, specific, and slightly unpolished—while 1 is the most generic brochure voice. I’d still publish 4: it’s clear and credible, without 2’s broken parallel or 3’s vague line.",
+    "Version 3 sounds like a working restorer: specific, plain, and slightly unpolished. The others recycle the same history/future slogan, privilege language, or instrument-personification that reads as generated marketing copy."
+   ]
+  },
+  {
+   "winner": "C",
+   "text": "holdout-1",
+   "judge": "deepseek",
+   "C_tells": [
+    "Vivid but clichéd phrases such as \"blazing heat and freezing cold\" and \"lasting career\" read as slightly over-polished.",
+    "The vivid contrast 'blazing heat and freezing cold' feels like an AI-generated flourish."
+   ],
+   "B3_tells": [
+    "The phrase \"The number is our members' too\" is an awkward abstraction, and \"cutting money off monthly bills\" feels slightly off.",
+    "The phrase 'cutting money off monthly bills' is unnatural and likely AI-generated."
+   ],
+   "reasons": [
+    "Version 4 reads as the most natural and credible: it credits crews and members in a human way, stays concise, and avoids the stilted or over-polished phrasing in the others.",
+    "Version 4 reads as the most natural and balanced, with a clear human voice and no awkward phrasing; version 3 is strong but slightly over-polished."
+   ]
+  },
+  {
+   "winner": "C",
+   "text": "holdout-2",
+   "judge": "deepseek",
+   "C_tells": [
+    "none",
+    "none"
+   ],
+   "B3_tells": [
+    "Slightly clipped closing ('I can share more then') and tentative 'I think you're currently'.",
+    "Abrupt close 'I can share more then' and generic role framing feel less polished and slightly truncated."
+   ],
+   "reasons": [
+    "Version 2 is the most credible and natural: it references having seen Callum's current role rather than guessing, and its tone is warm but still professional.",
+    "Version 3 reads most like a skilled human recruiter because it uses researched phrasing and a natural soft-fit framing. It is clear, credible, and free of the minor formulaic or awkward phrasing in the others."
+   ]
+  },
+  {
+   "winner": "C",
+   "text": "holdout-3",
+   "judge": "deepseek",
+   "C_tells": [
+    "none",
+    "none"
+   ],
+   "B3_tells": [
+    "The clipped 'It adds two things' and abrupt 'Your hearing aids will also run longer on each charge' feel like AI simplification.",
+    "Vague 'It adds two things' and canned 'no question is too small' reassurance"
+   ],
+   "reasons": [
+    "Version 3 is the most natural and warm, with conversational phrasing and clear structure that doesn't feel templated. I would send it because it balances scannability, clarity, and human tone best.",
+    "Version 4 sounds most like a person and is warm, concise, and credible while covering all key details; the others are either stiffer or more template-like."
+   ]
+  },
+  {
+   "winner": "B3",
+   "text": "holdout-4",
+   "judge": "deepseek",
+   "C_tells": [
+    "Leans on the cliché “Most of us are in the same boat” and the casual “just got... in” can feel performatively informal.",
+    "The sympathy feels piled on ('you're not alone', 'most of us in the same boat') and the newsletter title appears late."
+   ],
+   "B3_tells": [
+    "Uses the awkward phrase “we’re turning to helping” and a balanced rule-of-three list that feels AI-polished.",
+    "none"
+   ],
+   "reasons": [
+    "Version 1 has the most natural, warm human voice with a strong hook and relaxed flow; it balances personality, clarity and credibility better than the others.",
+    "Version 4 is the clearest and most credible: it leads with the newsletter name, keeps the warmth without overdone idioms, and closes with a simple invitation to respond."
+   ]
+  },
+  {
+   "winner": "C",
+   "text": "holdout-5",
+   "judge": "deepseek",
+   "C_tells": [
+    "Over-polite, slightly verbose framing with multiple soft rephrasings ('Can you make the call...', 'If you're happy with that...').",
+    "none"
+   ],
+   "B3_tells": [
+    "Clipped wording, bare bullet list, and missing punctuation after 'Thanks' read like an edited-down draft.",
+    "Bulleted options plus clipped 'Reply \"yes\"' and no sign-off punctuation."
+   ],
+   "reasons": [
+    "Version 2 is the clearest and most human: it leads with the recommendation, gives the cost comparison and deadline directly, and avoids stiff hedging or over-formatting.",
+    "Version 2 sounds most like a natural, polite human request, while still being clear about the deadline, options, and the simple yes/no decision needed."
+   ]
+  },
+  {
+   "winner": "C",
+   "text": "holdout-7",
+   "judge": "deepseek",
+   "C_tells": [
+    "none",
+    "none"
+   ],
+   "B3_tells": [
+    "none",
+    "none"
+   ],
+   "reasons": [
+    "Version 3 sounds the most natural and human, with a warm but clear apology and an easy follow-up offer; it balances empathy and clarity without sounding stiff.",
+    "Version 4 reads as the most human and empathetic, with conversational phrasing that still clearly explains the bug and refund. It balances warmth and clarity without sounding stiff or boilerplate."
+   ]
+  },
+  {
+   "winner": "B3",
+   "text": "holdout-8",
+   "judge": "deepseek",
+   "C_tells": [
+    "Vague 'worth looking after what comes next' and sentimental 'sound like themselves again'",
+    "overly polished, slightly abstract sentiment like 'real privilege' and 'sound like themselves again'"
+   ],
+   "B3_tells": [
+    "Stock phrase 'a future worth caring for' and generic closing 'making music for years to come'",
+    "none"
+   ],
+   "reasons": [
+    "Version 1 is the most concrete and natural, with a craftsman's plainspoken voice; the others add polished, sentimental phrasing typical of AI editing.",
+    "Version 1 is the most natural and credible: concise, warm, and free of the over-polished phrasing that makes the others feel AI-assisted."
+   ]
+  },
+  {
+   "winner": "B3",
+   "text": "holdout-1",
+   "judge": "qwen",
+   "C_tells": [
+    "stock emphasis and formulaic transition: 'blazing heat,' 'freezing cold,' 'every single install,' and 'What's next:'",
+    "Exclamation and clichéd intensifiers like “blazing heat and freezing cold” and “every single install” make it feel generic."
+   ],
+   "B3_tells": [
+    "none",
+    "The compressed, slightly awkward line “The number is our members' too” feels machine-edited."
+   ],
+   "reasons": [
+    "Version 4 is the most publish-ready: clear, balanced, and warm while keeping the co-op's voice credible. It has one minor cliché, but it communicates the milestone and apprenticeship CTA better than the others.",
+    "Version 1 sounds plainspoken, grateful, and specific without sounding promotional or padded. It has the most credible co-op voice and the cleanest call to action."
+   ]
+  },
+  {
+   "winner": "C",
+   "text": "holdout-2",
+   "judge": "qwen",
+   "C_tells": [
+    "none",
+    "none"
+   ],
+   "B3_tells": [
+    "'I can share more then' is abrupt and sounds over-compressed",
+    "The closing 'I can share more then' feels abrupt and slightly templated."
+   ],
+   "reasons": [
+    "Version 1 sounds the most natural and recruiter-like, with a clear hook, concrete details, and a warm CTA. Version 3 is a close second but slightly more templated, while 2 and 4 have small phrasing issues.",
+    "Version 3 reads most like a skilled human recruiter because it is conversational, specific, and low-pressure. Version 4 is weakest due to the unnatural closing phrase."
+   ]
+  },
+  {
+   "winner": "C",
+   "text": "holdout-3",
+   "judge": "qwen",
+   "C_tells": [
+    "The 'Kestrel family' warmth and 'go further before plugging in' sound like generic AI marketing copy.",
+    "none"
+   ],
+   "B3_tells": [
+    "none",
+    "The flat, mechanical phrasing—especially “Firmware 3.4… It adds two things.”—reads a bit templated."
+   ],
+   "reasons": [
+    "Version 1 feels most like a careful human support email: specific subject, plain steps, and reassurance without forced cheer. Version 3 is clear and friendly, but its marketing clichés make it slightly less credible.",
+    "Version 1 is the most natural and user-friendly: it explains the benefits clearly, gives simple instructions, and keeps the warmth without sounding canned. It also avoids the more obvious templated or forced phrasing in the other versions."
+   ]
+  },
+  {
+   "winner": "C",
+   "text": "holdout-4",
+   "judge": "qwen",
+   "C_tells": [
+    "Overreliance on casual idioms and a misplaced welcome make it feel loosely assembled rather than edited.",
+    "none"
+   ],
+   "B3_tells": [
+    "Template-like warmth and filler lines such as 'We're glad to have you along' and 'Wherever you are with your winter preparations'.",
+    "It is clean but flattened and template-like, with safe generic phrasing and little distinctive voice."
+   ],
+   "reasons": [
+    "Version 1 feels most like a skilled human newsletter intro: concise, practical, and warmly specific without leaning on boilerplate empathy. The others add generic reassurance or cliché, with Version 4 the most padded.",
+    "Version 4 sounds the most natural and publishable: direct, warm, and specific without trying too hard. Version 1 is personable but slightly over-fussy, while 3 is clear and 2 feels the most mechanical."
+   ]
+  },
+  {
+   "winner": "B3",
+   "text": "holdout-5",
+   "judge": "qwen",
+   "C_tells": [
+    "It over-explains and pads a simple request, which feels AI-polished.",
+    "none"
+   ],
+   "B3_tells": [
+    "none",
+    "none"
+   ],
+   "reasons": [
+    "Version 1 is concise, scannable, and decision-ready, with a clear recommendation and deadline. The others are either slightly templated or unnecessarily wordy.",
+    "Version 4 is concise, scannable, and makes the decision easy without sounding overly templated. Version 1 is natural too, but slightly wordier for Slack."
+   ]
+  },
+  {
+   "winner": "B3",
+   "text": "holdout-7",
+   "judge": "qwen",
+   "C_tells": [
+    "The casual, breezy warmth ('I'm so sorry', 'Thanks for bearing with us') feels a little performative for a billing issue.",
+    "The slightly awkward 'double charge for your parking' and 'started the refund' feel a little generated or unedited."
+   ],
+   "B3_tells": [
+    "none",
+    "none"
+   ],
+   "reasons": [
+    "Version 4 is clear, accountable, and professional while still sounding like a person. It resolves the issue without overdoing the apology or becoming too casual.",
+    "Version 4 reads most like a skilled human support reply: clear, accountable, and conversational without filler. Version 1 is warm but slightly clunky, while versions 3 and 2 feel more templated or abrupt."
+   ]
+  },
+  {
+   "winner": "C",
+   "text": "holdout-8",
+   "judge": "qwen",
+   "C_tells": [
+    "The vague, pseudo-profound line 'it's worth looking after what comes next' feels constructed.",
+    "The folksy abstraction ('every piano has a past... what comes next') feels slightly manufactured."
+   ],
+   "B3_tells": [
+    "The tidy, abstract pairing 'history and a future worth caring for' feels slightly copywritten.",
+    "The clipped summary and generic warmth ('making music for years to come') feel template-like."
+   ],
+   "reasons": [
+    "Version 4 sounds most like a real craftsperson: plain, concrete, and unpretentious. It has the strongest human feel and credibility, even if it is slightly less polished than Version 1.",
+    "Version 4 sounds most like a real craftsperson: direct, concrete, and unpretentious. It balances credibility and human feel better than the more slogan-like alternatives."
+   ]
+  },
+  {
+   "winner": "C",
+   "text": "holdout-1",
+   "judge": "codex",
+   "C_tells": [
+    "none",
+    "The familiar pairing of 'blazing heat and freezing cold' feels slightly canned."
+   ],
+   "B3_tells": [
+    "The forced bridge, \"The number is our members' too,\" and awkward \"cutting money off monthly bills\" feel mechanically assembled.",
+    "'The number is our members’ too' feels mechanically compressed, and 'cutting money off monthly bills' is awkward."
+   ],
+   "reasons": [
+    "Version 1 combines warmth, clear information, and a credible apprenticeship promise: \"can lead\" avoids version 2's implied guarantee. These rankings reflect editorial impressions, not reliable evidence of AI authorship.",
+    "Version 1 feels the most unforced, but I’d publish version 2 for its energy, smoother phrasing, and appropriately qualified career promise. These are editorial impressions, not reliable evidence of AI authorship."
+   ]
+  },
+  {
+   "winner": "B3",
+   "text": "holdout-3",
+   "judge": "codex",
+   "C_tells": [
+    "Stacked stock reassurance: “gladly,” “No question is too small,” and “part of the Kestrel family.”",
+    "The accumulation of conversational touches—'does two things,' 'Just keep,' 'No question is too small,' and 'Warmly'—feels deliberately engineered to sound friendly."
+   ],
+   "B3_tells": [
+    "“No question is too small” adds formulaic reassurance to otherwise concise copy.",
+    "'No question is too small' adds a canned reassurance to an otherwise direct email."
+   ],
+   "reasons": [
+    "Version 3 puts the cost, compatibility, release date, and delivery channel first, then explains the benefits without much padding. Version 1 is similarly restrained but less efficient; these are stylistic judgments, not reliable evidence of AI authorship.",
+    "Version 2 is clear, respectful, and approachable without overworking the friendliness; it gives the benefits and installation steps in a natural order. Version 4 is a close second, but its opening foregrounds the firmware number and rollout logistics before explaining the value."
+   ]
+  },
+  {
+   "winner": "B3",
+   "text": "holdout-5",
+   "judge": "codex",
+   "C_tells": [
+    "The separate closing paragraph restates the choice after already inviting objections, making a simple request feel overworked.",
+    "Overexplains the response options across two conditional sentences, making a simple Slack request feel laboured."
+   ],
+   "B3_tells": [
+    "none",
+    "none"
+   ],
+   "reasons": [
+    "Version 1 leads with a clear recommendation, gives the cost comparison, and makes the deadline and response easy to act on. Version 4 is also strong, but these stylistic differences do not reliably establish AI authorship.",
+    "Version 4 leads with the recommendation and gives Anita the cost comparison, deadline and response needed in one compact message. Version 2 is easy to scan; these stylistic differences do not reliably establish AI authorship."
+   ]
+  },
+  {
+   "winner": "B3",
+   "text": "holdout-6",
+   "judge": "codex",
+   "C_tells": [
+    "The canned question-and-reassurance opening and extra conversational padding feel manufactured, though neither proves AI authorship.",
+    "The canned question-and-reassurance opening and extra conversational padding feel manufactured, though neither establishes AI authorship."
+   ],
+   "B3_tells": [
+    "none",
+    "none"
+   ],
+   "reasons": [
+    "Version 4 gives clear, natural instructions and puts the compatibility check before application. Versions 2 and 3 differ only in apostrophe typography, so their separate ranks are arbitrary; version 1 adds chatter without improving the guidance.",
+    "Version 3 is direct and puts the compatibility check before application, making the instructions easier to follow. Versions 1 and 2 differ only in apostrophe typography, so their required ranking is arbitrary; version 4 adds words and weakens the temperature instruction with 'Try.'"
+   ]
+  },
+  {
+   "winner": "B3",
+   "text": "holdout-7",
+   "judge": "codex",
+   "C_tells": [
+    "Stacked friendliness—“so sorry,” “bearing with us,” and “we'll help”—feels slightly engineered.",
+    "The accumulation of friendliness—“so sorry,” “bearing with us,” and “we'll help”—feels slightly engineered."
+   ],
+   "B3_tells": [
+    "none",
+    "none"
+   ],
+   "reasons": [
+    "Version 4 balances a direct apology, a clear explanation, refund timing, and an easy way to follow up. Version 2 is also strong but slightly abrupt; these are editorial judgments, not reliable evidence of AI authorship.",
+    "Version 4 balances direct accountability, a clear refund timeline, and a practical invitation to reply. Version 1 is also strong but less accommodating; these stylistic judgments do not establish AI authorship."
+   ]
+  },
+  {
+   "winner": "B3",
+   "text": "holdout-8",
+   "judge": "codex",
+   "C_tells": [
+    "'It's a real privilege' and 'put music back in people's homes' add stock warmth; 'looking after what comes next' feels strained.",
+    "The vague phrase 'looking after what comes next' and 'a real privilege' make the closing feel more manufactured than personal."
+   ],
+   "B3_tells": [
+    "The balanced 'history and a future worth caring for' sentiment feels slightly formulaic.",
+    "'A history and a future worth caring for' is a polished, symmetrical sentiment that could fit many restoration businesses."
+   ],
+   "reasons": [
+    "Version 4 has the most convincing working craftsperson's voice, though its final sentence is awkward. I'd publish version 1 for its clear chronology, concise credentials, and restrained warmth; these are stylistic judgments, not evidence of authorship.",
+    "Version 2 sounds like a knowledgeable craftsperson explaining why he enjoys his work: direct, concrete, and credible. Version 3 is clean but more slogan-like; 1 and especially 4 lean on sentimental language, though none of these stylistic signals establishes AI authorship."
+   ]
+  }
+ ],
+ "codes": [
+  {
+   "i": 0,
+   "codes": [
+    "REGISTER",
+    "RECOMPOSE"
+   ]
+  },
+  {
+   "i": 1,
+   "codes": [
+    "REGISTER",
+    "RECOMPOSE",
+    "FLAT"
+   ]
+  },
+  {
+   "i": 2,
+   "codes": [
+    "TEMPLATE",
+    "REGISTER"
+   ]
+  },
+  {
+   "i": 3,
+   "codes": [
+    "REGISTER",
+    "RECOMPOSE",
+    "FLAT"
+   ]
+  },
+  {
+   "i": 4,
+   "codes": [
+    "TEMPLATE",
+    "REGISTER"
+   ]
+  },
+  {
+   "i": 5,
+   "codes": [
+    "REGISTER",
+    "RECOMPOSE",
+    "FLUFF"
+   ]
+  },
+  {
+   "i": 6,
+   "codes": [
+    "REGISTER",
+    "RECOMPOSE"
+   ]
+  },
+  {
+   "i": 7,
+   "codes": [
+    "FORCED",
+    "FLUFF"
+   ]
+  },
+  {
+   "i": 8,
+   "codes": [
+    "FORCED",
+    "TEMPLATE"
+   ]
+  },
+  {
+   "i": 9,
+   "codes": [
+    "REGISTER",
+    "TEMPLATE",
+    "RECOMPOSE"
+   ]
+  },
+  {
+   "i": 10,
+   "codes": [
+    "TEMPLATE"
+   ]
+  },
+  {
+   "i": 11,
+   "codes": [
+    "INVENT",
+    "REGISTER",
+    "FLUFF"
+   ]
+  },
+  {
+   "i": 12,
+   "codes": [
+    "REGISTER",
+    "FLUFF",
+    "TEMPLATE"
+   ]
+  },
+  {
+   "i": 13,
+   "codes": [
+    "RECOMPOSE"
+   ]
+  },
+  {
+   "i": 14,
+   "codes": [
+    "REGISTER",
+    "FLAT",
+    "FLUFF"
+   ]
+  },
+  {
+   "i": 15,
+   "codes": [
+    "FLUFF"
+   ]
+  },
+  {
+   "i": 16,
+   "codes": [
+    "TEMPLATE",
+    "REGISTER"
+   ]
+  },
+  {
+   "i": 17,
+   "codes": [
+    "REGISTER",
+    "FLAT",
+    "RECOMPOSE"
+   ]
+  },
+  {
+   "i": 18,
+   "codes": [
+    "TEMPLATE",
+    "REGISTER"
+   ]
+  },
+  {
+   "i": 19,
+   "codes": [
+    "RECOMPOSE",
+    "FLUFF"
+   ]
+  },
+  {
+   "i": 20,
+   "codes": [
+    "REGISTER",
+    "RECOMPOSE"
+   ]
+  },
+  {
+   "i": 21,
+   "codes": [
+    "REGISTER",
+    "FLAT"
+   ]
+  },
+  {
+   "i": 22,
+   "codes": [
+    "FLUFF"
+   ]
+  },
+  {
+   "i": 23,
+   "codes": [
+    "REGISTER",
+    "FLAT"
+   ]
+  },
+  {
+   "i": 24,
+   "codes": [
+    "INVENT",
+    "REGISTER",
+    "FLUFF"
+   ]
+  },
+  {
+   "i": 25,
+   "codes": [
+    "REGISTER",
+    "TEMPLATE"
+   ]
+  },
+  {
+   "i": 26,
+   "codes": [
+    "TEMPLATE",
+    "REGISTER"
+   ]
+  },
+  {
+   "i": 27,
+   "codes": [
+    "INVENT",
+    "REGISTER",
+    "FLUFF"
+   ]
+  },
+  {
+   "i": 28,
+   "codes": [
+    "TEMPLATE",
+    "FLUFF",
+    "REGISTER"
+   ]
+  },
+  {
+   "i": 29,
+   "codes": [
+    "FORCED"
+   ]
+  },
+  {
+   "i": 30,
+   "codes": [
+    "REGISTER",
+    "FLAT"
+   ]
+  },
+  {
+   "i": 31,
+   "codes": [
+    "FLAT",
+    "REGISTER"
+   ]
+  },
+  {
+   "i": 32,
+   "codes": [
+    "FORCED"
+   ]
+  },
+  {
+   "i": 33,
+   "codes": [
+    "REGISTER",
+    "RECOMPOSE",
+    "FLAT"
+   ]
+  },
+  {
+   "i": 34,
+   "codes": [
+    "TEMPLATE",
+    "REGISTER"
+   ]
+  },
+  {
+   "i": 35,
+   "codes": [
+    "RECOMPOSE",
+    "REGISTER"
+   ]
+  },
+  {
+   "i": 36,
+   "codes": [
+    "REGISTER",
+    "RECOMPOSE"
+   ]
+  },
+  {
+   "i": 37,
+   "codes": [
+    "REGISTER",
+    "FLAT",
+    "TEMPLATE"
+   ]
+  },
+  {
+   "i": 38,
+   "codes": [
+    "FORCED"
+   ]
+  },
+  {
+   "i": 39,
+   "codes": [
+    "REGISTER",
+    "RECOMPOSE",
+    "FLAT"
+   ]
+  },
+  {
+   "i": 40,
+   "codes": [
+    "REGISTER",
+    "TEMPLATE"
+   ]
+  },
+  {
+   "i": 41,
+   "codes": [
+    "RECOMPOSE",
+    "TEMPLATE",
+    "REGISTER"
+   ]
+  },
+  {
+   "i": 42,
+   "codes": [
+    "INVENT",
+    "REGISTER",
+    "FLUFF"
+   ]
+  },
+  {
+   "i": 43,
+   "codes": [
+    "REGISTER",
+    "FLUFF",
+    "TEMPLATE"
+   ]
+  },
+  {
+   "i": 44,
+   "codes": [
+    "RECOMPOSE",
+    "FLAT"
+   ]
+  },
+  {
+   "i": 45,
+   "codes": [
+    "FORCED",
+    "FLUFF"
+   ]
+  },
+  {
+   "i": 46,
+   "codes": [
+    "FORCED"
+   ]
+  },
+  {
+   "i": 47,
+   "codes": [
+    "RECOMPOSE",
+    "REGISTER"
+   ]
+  },
+  {
+   "i": 48,
+   "codes": [
+    "FORCED"
+   ]
+  },
+  {
+   "i": 49,
+   "codes": [
+    "REGISTER",
+    "FLUFF",
+    "RECOMPOSE"
+   ]
+  },
+  {
+   "i": 50,
+   "codes": [
+    "RECOMPOSE"
+   ]
+  },
+  {
+   "i": 51,
+   "codes": [
+    "FORCED",
+    "FLUFF"
+   ]
+  },
+  {
+   "i": 52,
+   "codes": [
+    "FORCED",
+    "FLUFF"
+   ]
+  },
+  {
+   "i": 53,
+   "codes": [
+    "FORCED"
+   ]
+  },
+  {
+   "i": 54,
+   "codes": [
+    "FORCED",
+    "FLUFF"
+   ]
+  },
+  {
+   "i": 55,
+   "codes": [
+    "TEMPLATE",
+    "REGISTER"
+   ]
+  },
+  {
+   "i": 56,
+   "codes": [
+    "INVENT",
+    "REGISTER",
+    "FLUFF"
+   ]
+  },
+  {
+   "i": 57,
+   "codes": [
+    "FORCED"
+   ]
+  },
+  {
+   "i": 58,
+   "codes": [
+    "FORCED"
+   ]
+  },
+  {
+   "i": 59,
+   "codes": [
+    "REGISTER",
+    "RECOMPOSE"
+   ]
+  },
+  {
+   "i": 60,
+   "codes": [
+    "REGISTER",
+    "FLAT"
+   ]
+  },
+  {
+   "i": 61,
+   "codes": [
+    "REGISTER",
+    "RECOMPOSE"
+   ]
+  },
+  {
+   "i": 62,
+   "codes": [
+    "FLUFF",
+    "OTHER"
+   ]
+  },
+  {
+   "i": 63,
+   "codes": [
+    "REGISTER",
+    "RECOMPOSE",
+    "TEMPLATE"
+   ]
+  },
+  {
+   "i": 64,
+   "codes": [
+    "FLUFF"
+   ]
+  },
+  {
+   "i": 65,
+   "codes": [
+    "RECOMPOSE",
+    "OTHER"
+   ]
+  },
+  {
+   "i": 66,
+   "codes": [
+    "REGISTER",
+    "FLAT"
+   ]
+  },
+  {
+   "i": 67,
+   "codes": [
+    "REGISTER",
+    "FLAT",
+    "FLUFF"
+   ]
+  },
+  {
+   "i": 68,
+   "codes": [
+    "FORCED",
+    "FLUFF"
+   ]
+  },
+  {
+   "i": 69,
+   "codes": [
+    "FLAT",
+    "TEMPLATE"
+   ]
+  },
+  {
+   "i": 70,
+   "codes": [
+    "REGISTER"
+   ]
+  },
+  {
+   "i": 71,
+   "codes": [
+    "FLUFF"
+   ]
+  },
+  {
+   "i": 72,
+   "codes": [
+    "FLUFF",
+    "TEMPLATE"
+   ]
+  },
+  {
+   "i": 73,
+   "codes": [
+    "REGISTER",
+    "FLAT"
+   ]
+  },
+  {
+   "i": 74,
+   "codes": [
+    "REGISTER",
+    "FLAT"
+   ]
+  },
+  {
+   "i": 75,
+   "codes": [
+    "REGISTER",
+    "FLAT",
+    "FLUFF"
+   ]
+  },
+  {
+   "i": 76,
+   "codes": [
+    "FLUFF"
+   ]
+  },
+  {
+   "i": 77,
+   "codes": [
+    "FORCED"
+   ]
+  },
+  {
+   "i": 78,
+   "codes": [
+    "RECOMPOSE",
+    "FLUFF"
+   ]
+  },
+  {
+   "i": 79,
+   "codes": [
+    "RECOMPOSE"
+   ]
+  },
+  {
+   "i": 80,
+   "codes": [
+    "FORCED",
+    "FLUFF"
+   ]
+  },
+  {
+   "i": 81,
+   "codes": [
+    "FLUFF"
+   ]
+  },
+  {
+   "i": 82,
+   "codes": [
+    "FLUFF",
+    "FORCED"
+   ]
+  },
+  {
+   "i": 83,
+   "codes": [
+    "FORCED"
+   ]
+  },
+  {
+   "i": 84,
+   "codes": [
+    "FLUFF"
+   ]
+  }
+ ],
+ "C_wins": {
+  "REGISTER": 48,
+  "RECOMPOSE": 25,
+  "FLAT": 19,
+  "TEMPLATE": 18,
+  "FLUFF": 15,
+  "INVENT": 5,
+  "OTHER": 1
+ },
+ "B3_wins": {
+  "FORCED": 19,
+  "FLUFF": 17,
+  "TEMPLATE": 2,
+  "OTHER": 1
+ },
+ "n_C": 57,
+ "n_B3": 28
+}

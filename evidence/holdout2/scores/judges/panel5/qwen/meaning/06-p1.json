@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3
+  },
+  "reason": "Version 2 preserves the original wording and facts exactly, while Version 1 only makes synonymous wording changes. Version 3 slightly weakens the instruction by changing 'Press and hold' to 'Hold,' losing a small nuance.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "B5"
+  }
+}

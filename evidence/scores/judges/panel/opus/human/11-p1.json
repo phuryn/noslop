@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 2,
+    "3": 4,
+    "4": 3,
+    "5": 1
+  },
+  "send": "5",
+  "tells": {
+    "1": "Inserted casual filler ('and honestly, that's the fun part', 'your opinion will actually count') that reads like a pass to make the text sound more human",
+    "2": "Stacked triplets ('real days off, nights that actually end, and a schedule you can plan a life around') on top of the opening tricolon",
+    "3": "Bolded label-colon section headers ('What you'll do:', 'What we're after:') plus the same rhythmic triplets",
+    "4": "none (all caps, run-on punctuation and typos read as an unpolished human writer, not AI)",
+    "5": "Opening tricolon ('We cook over fire, we're slammed on the weekends, and we like it that way') is a little polished, but otherwise none"
+  },
+  "reason": "Version 5 keeps the voice and all the details but trims the stacked triplets and template headers, so it reads like a confident chef-owner wrote it. Version 4 is clearly human but too unprofessional to publish, and Version 1's forced casualness feels engineered.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B3",
+    "3": "O",
+    "4": "E",
+    "5": "A"
+  }
+}

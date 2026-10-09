@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 5,
+    "3": 4,
+    "4": 3,
+    "5": 6,
+    "6": 7,
+    "7": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "The redundant surprise hook and neatly balanced benefits list feel engineered.",
+    "3": "Generic connective lines such as 'For a site this size, that matters' give it a formulaic rhythm.",
+    "4": "The polished 'To our night shift team: thank you' pivot and three-part list feel templated.",
+    "5": "The surprise hook repeats itself, followed by conspicuously orderly benefits and recognition paragraphs.",
+    "6": "Stacked colloquialisms such as 'a big deal' and 'piling more pressure' feel like a deliberate attempt to sound human.",
+    "7": "Residual stock phrasing, especially 'people who care about getting it right' and 'less strain on resources'."
+  },
+  "reason": "Version 1 feels most grounded and sincere, despite some repetition; it also avoids the other versions’ additional claims about expectations, costs and demand. Version 7 is the cleanest edit, but those claims would need confirmation; these rankings assess the writing, not its actual authorship.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "V6A",
+    "3": "O",
+    "4": "B5",
+    "5": "V6C",
+    "6": "C",
+    "7": "A"
+  }
+}

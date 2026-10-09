@@ -1,0 +1,13 @@
+{
+  "send": "6",
+  "reason": "It preserves the original facts, pricing, session times, and combined booking, while keeping the tone and structure closest to what I wrote.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "V6A",
+    "4": "B5",
+    "5": "E",
+    "6": "V6C"
+  },
+  "picked_arm": "V6C"
+}

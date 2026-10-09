@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 4,
+    "4": 2
+  },
+  "reason": "Version 2 stays closest to the original wording and preserves all facts, numbers, and commitments. Version 4 is also very faithful but slightly merges sentences; Version 1 is equivalent but more casual; Version 3 introduces 'only big piece,' which subtly changes the original's 'remaining piece' nuance.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "B3",
+    "3": "C",
+    "4": "A"
+  }
+}

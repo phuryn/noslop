@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 6,
+    "2": 4,
+    "3": 1,
+    "4": 2,
+    "5": 5,
+    "6": 3
+  },
+  "send": "3",
+  "tells": {
+    "1": "Template structure: bolded run-in labels, a bold section header and a rhetorical 'Not sure how to get started?' Also padded lines like 'so you can go further between charges' and 'there's no such thing as a silly question.'",
+    "2": "Two features squeezed into 'Label: explanation' bullets after a colon, a common AI formatting habit for a short warm email.",
+    "3": "none",
+    "4": "Redundant restatement in 'gives your hearing aids longer battery life, so they run longer on each charge.'",
+    "5": "Rhetorical 'Not sure where to start?' with bold mini-headers. The casual tweaks ('get-togethers', 'plugging in') read like a humanizing pass over version 1.",
+    "6": "Overloaded subject line that packs every fact in ('Firmware 3.4... free from October 20'). The body is compressed so tightly that both features share one sentence-run."
+  },
+  "reason": "Version 3 opens with the what, when and how, and explains Crowd Focus in plain, warm language without template formatting or padding. That clarity and calm tone suit hearing-aid users best, and it keeps the reassuring support line.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B2",
+    "3": "B3",
+    "4": "A",
+    "5": "C",
+    "6": "B"
+  }
+}

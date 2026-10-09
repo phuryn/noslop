@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 3,
+    "3": 5,
+    "4": 1,
+    "5": 2
+  },
+  "send": "5",
+  "tells": {
+    "1": "The effects add up: followed by bolded, parallel consequence bullets is a typical AI structuring move.",
+    "2": "The consequence bullets use very even topic-sentence formatting, which reads templated.",
+    "3": "The consequences are significant: and the formal 'There is currently no system...' scaffold feel AI-generated.",
+    "4": "none",
+    "5": "none"
+  },
+  "reason": "Version 4 reads most like an unpolished human draft, but version 5 is the cleanest, clearest, and most credible, so I would publish that.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "track2/B5-int",
+    "3": "O",
+    "4": "E",
+    "5": "track2/A-int"
+  }
+}

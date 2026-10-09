@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 3,
+    "3": 5,
+    "4": 2,
+    "5": 1
+  },
+  "send": "5",
+  "tells": {
+    "1": "Clipped, flat tone; the phrase 'when the $135 rate takes effect for you' feels a bit legalistic.",
+    "2": "Generic filler phrase: 'so you'll have more options during the week'.",
+    "3": "Polished corporate template language throughout, such as 'price will increase from...' and 'to give you more options during the week'.",
+    "4": "Generic filler phrase: 'so you'll have more options during the week'.",
+    "5": "none"
+  },
+  "reason": "Version 5 reads most human because of its natural, conversational phrasing and concrete details like 'fit a workout into your week.' It balances warmth and clarity, making it the best choice to send.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "O",
+    "4": "B5",
+    "5": "C"
+  }
+}

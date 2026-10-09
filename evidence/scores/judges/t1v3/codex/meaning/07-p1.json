@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 3,
+    "4": 1
+  },
+  "reason": "Version 4 preserves all original claims and qualifications most exactly; version 2 is nearly equivalent, though “only” makes exclusivity explicit. Version 3 omits the explicit “target date” qualification, while version 1 also adds “big,” allowing for other remaining pieces that the original does not suggest.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B",
+    "4": "B3"
+  }
+}

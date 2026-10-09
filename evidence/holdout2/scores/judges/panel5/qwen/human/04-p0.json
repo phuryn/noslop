@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 4,
+    "4": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "The neat problem-solution-result cadence is a little templated.",
+    "2": "none",
+    "3": "The final sentence is tacked-on, generic praise that adds little.",
+    "4": "The em-dash closer and 'clear result' line feel like polished AI/marketing boilerplate."
+  },
+  "reason": "Version 2 is the most credible because it is direct, concise, and avoids extra promotional gloss. It presents the problem, intervention, and result without sounding padded or canned.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "B5",
+    "4": "O"
+  }
+}

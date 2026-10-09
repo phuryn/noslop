@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 2
+  },
+  "reason": "V1 keeps every fact and commitment, with only minor shifts (members get 'some of the credit,' 'real' dropped). V4 is close but drops 'everything in between' and changes 'Next up' to 'now opening.' V2 adds 'lasting' and hedges with 'can lead.' V3 changes members' ownership into members merely benefiting, drops 'real money,' loses the 'next' sequencing, and overstates the apprenticeship as one that 'leads to a career.'",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "C",
+    "3": "A",
+    "4": "B3"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1
+  },
+  "reason": "Version 2 is nearly verbatim, with only minor sentence splits and no change in meaning. Version 3 adds an unstated claim that 'the system handles routine reassignments' and frames the impacts as 'four problems', while Version 1 drops the secondary goals, non-goals, and specific impacts (overtime, retention, care types) and adds 'all' and 'significantly' to the goals.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "B3",
+    "3": "A"
+  }
+}

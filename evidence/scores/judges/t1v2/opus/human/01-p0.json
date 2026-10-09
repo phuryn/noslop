@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1,
+    "4": 5,
+    "5": 4
+  },
+  "send": "3",
+  "tells": {
+    "1": "Tacked-on engagement question at the end ('How are you handling no-shows?').",
+    "2": "Tidy rule-of-three benefits list followed by a quotable aphorism ('meeting people where they already are').",
+    "3": "The 'meeting people where they already are' takeaway line is a bit polished, though it is integrated naturally.",
+    "4": "LinkedIn template scaffolding: one-line hook, 'The change was simple:', 'Here's what that meant in practice:' bullets, 'The lesson for me:', and a closing engagement question.",
+    "5": "'A no-show isn't just X. It's Y' reframe plus a staccato fragment triad ('Fewer empty chairs. Less time... More patients...') and a 'What I took from this:' label."
+  },
+  "reason": "Version 3 is tight and specific. It ties the no-show point to patient care in one connected sentence, and it ends with a concrete suggestion instead of an engagement-bait question or template scaffolding. Versions 4 and 5 are the most formulaic, and 5's casual tone doesn't hide its stock constructions.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B2",
+    "3": "B",
+    "4": "O",
+    "5": "C"
+  }
+}

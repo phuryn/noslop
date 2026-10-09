@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 3
+  },
+  "reason": "Version 1 preserves the original most closely; version 2 shifts the tentative question into a qualified offer, while version 4 makes a firmer claim that it can cover Fairview’s needs. Version 3 adds an unrestricted “anywhere” promise and narrows last-minute needs to “occasional” runs.",
+  "label_to_arm": {
+    "1": "B2",
+    "2": "A",
+    "3": "C",
+    "4": "B"
+  }
+}

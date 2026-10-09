@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 2,
+    "4": 3
+  },
+  "reason": "Version 1 preserves the original most closely; version 3 slightly broadens the convenience claim with “skip the scale,” while version 4 omits the explicit benefit of having more time for making. Version 2 adds promises of something new every month and suitability across experience levels that the original does not establish.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "E",
+    "3": "C",
+    "4": "A"
+  }
+}

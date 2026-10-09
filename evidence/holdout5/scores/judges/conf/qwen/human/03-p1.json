@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 5,
+    "3": 4,
+    "4": 6,
+    "5": 2,
+    "6": 7,
+    "7": 1
+  },
+  "send": "7",
+  "tells": {
+    "1": "The price line 'The Tidekeepers is €34' is slightly unnatural, and the triplet phrasing feels a bit templated.",
+    "2": "It reads like a safe summary: flat cadence, generic benefits, and no clear call to action for non-preorders.",
+    "3": "The bolded bullets and playful 'bickering' are polished but a little listicle-like.",
+    "4": "Subject/body timing mismatch ('is here' vs 'goes live October 21') and 'Fresh tools' feel synthetic.",
+    "5": "none",
+    "6": "Awkward phrasing and locale issues: 'The possibility to play', '34€', 'the best is to go', and too many exclamation points.",
+    "7": "none"
+  },
+  "reason": "Version 7 is the most sendable launch email: clear subject, skimmable benefits, warm tone, price, preorder reassurance, and a direct CTA. Version 5 feels very human, but 7 is more complete and launch-ready.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "A",
+    "3": "V6C",
+    "4": "O",
+    "5": "C",
+    "6": "E",
+    "7": "V6A"
+  }
+}

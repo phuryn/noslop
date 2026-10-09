@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 2
+  },
+  "reason": "Version 1 preserves the original meaning almost exactly. Version 4 keeps all key facts and the bug-fix contrast intact, while Version 2 slightly flattens the PDF fix and Version 3 narrows the currency-symbol issue to a singular missing symbol.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "E",
+    "4": "C"
+  }
+}

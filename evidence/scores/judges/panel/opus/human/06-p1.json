@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 5,
+    "3": 2,
+    "4": 1,
+    "5": 4
+  },
+  "send": "4",
+  "tells": {
+    "1": "The 'Maybe it's... Maybe it's just... Either way' scaffolding reads like a smoothing pass that turned punchy fragments into an explanatory, hedged list.",
+    "2": "None that looks like AI. The flaws are human drafting errors: a duplicated CTA ('Get started Get your monthly baking kit'), redundant phrasing ('You don't have to measure our pre-measured...'), and generic filler ('amazing', 'It's that simple').",
+    "3": "Uniformly smooth, full-sentence rewrites that flatten rhythm. 'Skip the weighing out' and the 'or... Give yourself' construction feel normalized rather than written.",
+    "4": "The mirrored tagline 'A little measuring done. A little joy delivered.' is a slightly formulaic parallel construction, but it's within normal copywriter style.",
+    "5": "Over-compression: section headings are stripped and everything is collapsed into tidy summary sentences ('Each month gives you a bake to look forward to'), which loses landing-page structure."
+  },
+  "reason": "Version 4 has the deliberate fragment rhythm, clear section headings, and sensory specifics a skilled copywriter would use on a landing page. The other polished versions read like smoothed or compressed rewrites of it, and Version 2 is a rough, error-filled draft.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "E",
+    "3": "B3",
+    "4": "O",
+    "5": "A"
+  }
+}

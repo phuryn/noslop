@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 5,
+    "3": 4,
+    "4": 3,
+    "5": 1
+  },
+  "reason": "Version 5 keeps every fact, commitment and the closing thanks; 1 and 4 keep all facts but drop the thank-you, and 4 rephrases the delivery-date commitment slightly more. Version 3 drops the acknowledgement of inconvenience and presents the refund as a goodwill gesture, while 2 adds an admission of fault, reports the refund as already done, and softens the date to 'we can now deliver'.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "E",
+    "4": "B3",
+    "5": "B5"
+  }
+}

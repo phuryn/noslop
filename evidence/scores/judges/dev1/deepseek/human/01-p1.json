@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1,
+    "4": 4,
+    "5": 5
+  },
+  "send": "3",
+  "tells": {
+    "1": "none",
+    "2": "The bulleted results section and explicit 'The lesson for me' wrap-up feel like a LinkedIn content template.",
+    "3": "none",
+    "4": "Very condensed and ends without a question or CTA, so it reads like an AI-trimmed summary.",
+    "5": "Flattened paraphrase with unnatural phrasing like 'went untreated' and no engagement hook."
+  },
+  "reason": "Version 3 has the most natural, first-person voice and concrete details, while version 1 is solid but slightly less personal; versions 2, 4, and 5 feel progressively more templated or compressed.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "O",
+    "3": "C",
+    "4": "B3",
+    "5": "B5"
+  }
+}

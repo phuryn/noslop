@@ -1,0 +1,11 @@
+{
+  "send": "1",
+  "reason": "It is the only rewrite that keeps the 2-hour on-time definition, the 42-truck capacity limit, the March monitoring note, and an intro call to learn what they move, without inventing a run or pushing a quote.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "track2/A-int",
+    "3": "E",
+    "4": "C"
+  },
+  "picked_arm": "track2/B5-int"
+}

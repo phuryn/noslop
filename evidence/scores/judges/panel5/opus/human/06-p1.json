@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 2,
+    "3": 1,
+    "4": 3,
+    "5": 4,
+    "6": 6
+  },
+  "send": "3",
+  "tells": {
+    "1": "Stacked parallel fragments ('A little measuring done. A little joy delivered.' / 'An afternoon... Something homemade... Or a quiet moment') give it a manufactured tagline rhythm.",
+    "2": "none",
+    "3": "none",
+    "4": "Faintly templated three-item list in the 'Maybe it's...' sentence, but otherwise clean.",
+    "5": "Compresses the copy so far that section headlines vanish, and the verbless opening fragment reads like an edited-down summary rather than designed page copy.",
+    "6": "Not an AI tell. It reads like an unskilled draft: duplicated CTA ('Get started Get your monthly baking kit'), the redundant 'You don't have to measure our pre-measured...', and generic filler ('something amazing', 'It's that simple')."
+  },
+  "reason": "Version 3 has the most natural, varied rhythm and a warm, specific voice ('You skip the scale', 'Either way'), and it keeps a clear landing-page structure. Version 1 leans on formulaic parallel fragments, and version 6 is clumsy and repetitive.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B3",
+    "3": "C",
+    "4": "B5",
+    "5": "A",
+    "6": "E"
+  }
+}

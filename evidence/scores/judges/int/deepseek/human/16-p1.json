@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "None",
+    "2": "Generic retrospective list ('Some lessons... Others... There were students...') replaces concrete detail with polished abstraction.",
+    "3": "Semicolon and asyndetic list ('straightened..., checked..., wiped...') feel artificially smoothed.",
+    "4": "Clichéd 'I found myself doing the usual things' and gerund list read as AI-polished filler."
+  },
+  "reason": "Version 1 is most human because it uses specific, concrete details and an honest ambivalent ending, while 2-4 become increasingly generic and over-polished.",
+  "label_to_arm": {
+    "1": "track2/B3-int",
+    "2": "B3",
+    "3": "track2/A-int",
+    "4": "O"
+  }
+}

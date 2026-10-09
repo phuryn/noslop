@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 5,
+    "5": 6,
+    "6": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "a faintly polished closing triad, though the voice remains convincing",
+    "2": "choppy, over-emphatic short sentences that feel artificially simplified",
+    "3": "none",
+    "4": "dense, overcompressed paragraphing that smooths the voice into generic exposition",
+    "5": "overlong syntax packed with balanced antitheses",
+    "6": "flattened cadence and slightly unnatural phrasing such as 'less of the thinking'"
+  },
+  "reason": "Version 1 has the most credible professional voice, with concrete legal detail and a controlled rhythm that supports the argument. Version 3 feels human but too rough for this purpose, while the other rewrites show more obvious smoothing or compression.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "C",
+    "3": "E",
+    "4": "A",
+    "5": "O",
+    "6": "B5"
+  }
+}

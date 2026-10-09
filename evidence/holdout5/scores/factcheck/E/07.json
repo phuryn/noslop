@@ -1,0 +1,58 @@
+{
+  "dropped": [
+    {
+      "item": "Concrete examples of extras not covered (flowers, catering, a venue)",
+      "severity": "minor"
+    },
+    {
+      "item": "Acknowledgement that prepaid plans can feel like a kind and sensible thing to do",
+      "severity": "minor"
+    },
+    {
+      "item": "Advice to think carefully before you sign",
+      "severity": "minor"
+    },
+    {
+      "item": "The account is one 'they control', which is the point of the alternative",
+      "severity": "minor"
+    },
+    {
+      "item": "The reassurance that you can come away from the chat with nothing more than a clearer idea of your options",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "'A plan may only cover certain services' became the definitive 'a pre paid funeral plan only covers certain services', implying all plans are limited",
+      "severity": "major"
+    },
+    {
+      "item": "'Some people are better served' became 'For many people', which widens the scope",
+      "severity": "minor"
+    },
+    {
+      "item": "'Plans can be hard to change' became 'Another issue can be if you need to change your plan', which no longer clearly says changing is difficult",
+      "severity": "minor"
+    },
+    {
+      "item": "'An account they control' became 'a bank account'",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "Claim that 'by rights a pre paid funeral plan should cover all of this' (the full £4,200), setting up an expectation not in the original",
+      "severity": "major"
+    },
+    {
+      "item": "'What many people don't realise', a claim about public awareness",
+      "severity": "minor"
+    },
+    {
+      "item": "'We always give people 30 minutes', which adds 'always'",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [],
+  "meaning_preserved": 3
+}

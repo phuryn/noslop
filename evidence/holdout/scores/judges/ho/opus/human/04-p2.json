@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 1,
+    "3": 6,
+    "4": 3,
+    "5": 4,
+    "6": 2
+  },
+  "send": "2",
+  "tells": {
+    "1": "Padded, slightly performative warmth ('Well, this honey season has certainly kept us on our toes'), an em-dash flourish, and the 'Welcome to this month's Hive Report' line buried near the end.",
+    "2": "none",
+    "3": "Boilerplate pleasantries ('We're glad to have you along') and a closing line that doesn't follow ('Wherever you are with your winter preparations, we'd love to hear how your season went').",
+    "4": "Redundant reassurance ('you're not alone. Most of us are in the same boat') and the welcome placed at the end.",
+    "5": "The tacked-on 'Wherever you are with your winter preparations' clause, which doesn't connect to hearing about the season.",
+    "6": "Mild filler ('catch your breath'). Otherwise none."
+  },
+  "reason": "Version 2 is the tightest and most natural. It welcomes readers up front, gives the workshop and fondant details plainly, and closes with a simple, sincere ask. The others add padding, repeat themselves, or end on a line that doesn't connect.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "A",
+    "3": "B3",
+    "4": "C",
+    "5": "B2",
+    "6": "B"
+  }
+}

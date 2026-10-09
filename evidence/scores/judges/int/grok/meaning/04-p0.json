@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1
+  },
+  "reason": "Version 3 keeps the original relative clause (“a small job now that gives…”), the hardest-part sentence, and “And a reminder,” changing only the dash into a sentence break. Versions 1 and 2 are identical and only rephrase those lines into a coordinate “and” and “After that…,” without changing facts; their order is arbitrary.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "track2/B3-int",
+    "3": "track2/A-int"
+  }
+}

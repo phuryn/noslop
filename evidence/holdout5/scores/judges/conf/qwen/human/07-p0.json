@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 3,
+    "3": 2,
+    "4": 1,
+    "5": 6,
+    "6": 7,
+    "7": 4
+  },
+  "send": "4",
+  "tells": {
+    "1": "none",
+    "2": "tidy generalized rewrite with a canned read-the-small-print warning",
+    "3": "over-even paragraphing and formulaic empathetic framing",
+    "4": "polished, slightly templated cadence in the reassurance line",
+    "5": "stacked adjectives and repeated formulaic reassurance",
+    "6": "near-duplicate of 5 with blander passive phrasing",
+    "7": "smooth single-paragraph consolidation and serial-comma list"
+  },
+  "reason": "Version 4 is the most publishable because it is clear, warm, and credible without overexplaining. It keeps the practical warning and the no-obligation offer while sounding less templated than the near-duplicate rewrites.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "A",
+    "3": "C",
+    "4": "B5",
+    "5": "V6A",
+    "6": "V6C",
+    "7": "O"
+  }
+}

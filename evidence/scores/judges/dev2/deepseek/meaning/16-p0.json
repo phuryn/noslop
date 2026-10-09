@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 4,
+    "4": 1
+  },
+  "reason": "Version 4 stays closest to the original, preserving key nuances and caveats such as 'hadn't given much thought' and the exact reflective commitments. Version 1 retains more than 2 but loses some nuance ('found myself,' 'much'), while Version 3 adds and strengthens details ('all,' 'never really,' 'teach them better') that shift meaning.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B5",
+    "3": "C",
+    "4": "B3"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 1,
+    "3": 6,
+    "4": 3,
+    "5": 7,
+    "6": 5,
+    "7": 2
+  },
+  "send": "7",
+  "tells": {
+    "1": "The paired reassurance 'None of this means a plan is wrong for you. It just deserves a close read of the small print first.' followed by a too-neat closing line",
+    "2": "none",
+    "3": "Formulaic hedge-then-reassure arc ('can feel like... and for some families it is. But...'), plus the polished 'leave with nothing more than a clearer sense of your options' closer",
+    "4": "Evenly smoothed, balanced clauses ('may cover only certain services, leaving extras like...') that read as tidied rather than written",
+    "5": "Near-identical to 3 in its templated structure, plus the awkward passive 'left to be paid for later'",
+    "6": "Long comma-spliced sentences that fuse each point and its reassurance ('only that it deserves...', 'and you're welcome to come away...')",
+    "7": "The soft-sell closer 'leave with nothing more than a clearer idea of your options' is a little too polished"
+  },
+  "reason": "Version 2 is clearly the unedited human original: it is run-on and error-prone but authentic, so it is too rough to publish as is. Version 7 keeps all the content and the warm reassurance, breaks it into scannable paragraphs and uses plainer, more direct phrasing than the other edits.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "E",
+    "3": "V6A",
+    "4": "A",
+    "5": "V6C",
+    "6": "O",
+    "7": "B5"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 4,
+    "3": 1,
+    "4": 2,
+    "5": 5
+  },
+  "reason": "Version 3 preserves all substantive content; version 4 only slightly weakens the close collaboration with the chef, while version 1 omits the explicit promise of a predictable schedule. Version 2 adds a stronger promise about finishing at a decent hour and an explicit tasting duty; version 5 loses several leadership and scheduling commitments and adds open-ended responsibilities.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "B3",
+    "4": "B5",
+    "5": "E"
+  }
+}

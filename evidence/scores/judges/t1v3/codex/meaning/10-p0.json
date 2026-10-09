@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 3,
+    "3": 1,
+    "4": 2
+  },
+  "reason": "Version 3 preserves all substantive content. Versions 4 and 2 omit the stated benefit of more scheduling options, with 2 also narrowing questions to the price change; version 1 adds an unsupported workout context, an emotional framing, and an explicit promise to help.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B",
+    "3": "B3",
+    "4": "A"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 6,
+    "4": 4,
+    "5": 1,
+    "6": 5
+  },
+  "send": "5",
+  "tells": {
+    "1": "The familiar 'ecology, land management and policy overlap' formulation adds a slightly generic explanatory layer.",
+    "2": "'Collected unique insights' is vague promotional language; repeating 'insights' compounds it.",
+    "3": "The sentence about a 'long-term perspective' expands an already established credential into abstract, redundant commentary.",
+    "4": "'A clear sense of what wildfire demands' inflates the credential, while 'shape what happens next' sounds conversational but says little.",
+    "5": "none",
+    "6": "The 'long view' sentence restates the value of 15 years' experience without adding concrete information."
+  },
+  "reason": "Version 5 gives a speaker bio exactly what it needs: role, relevant experience and a clear preview of the talk, without inflated claims or explanatory padding. These rankings assess editorial quality and human feel, not actual authorship.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "E",
+    "3": "O",
+    "4": "C",
+    "5": "B3",
+    "6": "B5"
+  }
+}

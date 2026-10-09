@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 2,
+    "3": 1,
+    "4": 3,
+    "5": 4
+  },
+  "send": "3",
+  "tells": {
+    "1": "Em dash and redundant restatement ('Today, we have two floors' in 1/6, then 'Now we have two floors' again in 3/6), plus the 'every shelf, every table, every book' tricolon and 'Maybe... Maybe...' anaphora",
+    "2": "Generic sentiment filler such as 'One of the lovely things about...' and 'Those visits helped us get here'",
+    "3": "none (minor slip: switches from 'we' to 'My favorite' in 5/6)",
+    "4": "Over-trimmed and flat; the awkward 'so we started with what we could' reads like a mechanical edit",
+    "5": "Rhythmic tricolon 'every shelf, every table, every book' and the parallel 'Maybe it's been... Maybe it's been...' construction"
+  },
+  "reason": "Version 3 has a real voice, with concrete details ('first week', 'borrowed it and never gave it back'), casual asides ('Not bad.'), and warmth that doesn't feel templated. The others are smooth but rely on stock phrasing and parallel structures that read as polished boilerplate.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B3",
+    "3": "C",
+    "4": "A",
+    "5": "B"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 1,
+    "4": 3
+  },
+  "send": "3",
+  "tells": {
+    "1": "none",
+    "2": "Formal 'We provide... finished last year with' phrasing and a stacked pair of one-line questions read templated",
+    "3": "none",
+    "4": "Flat, slightly assertive 'We can cover...' with clipped stat phrasing feels a bit mechanical"
+  },
+  "reason": "Version 3 has the most natural rhythm and a warm, low-pressure offer ('glad to pitch in', 'occasional last-minute run') while keeping the stat credible. Version 2's double question and stiff 'provide' phrasing feel the most generated.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "O",
+    "3": "C",
+    "4": "B"
+  }
+}

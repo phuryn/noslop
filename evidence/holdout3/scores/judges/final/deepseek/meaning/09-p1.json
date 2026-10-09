@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2,
+    "4": 5,
+    "5": 4
+  },
+  "reason": "Version 1 stays closest to the original and retains all key facts, numbers, and commitments. Version 3 omits only a brief phrase, while Versions 2 and 5 paraphrase some meaning; Version 4 adds new candidate requirements and overstates the career promise.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "A",
+    "3": "B3",
+    "4": "E",
+    "5": "C"
+  }
+}

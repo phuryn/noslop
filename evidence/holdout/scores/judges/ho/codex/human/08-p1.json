@@ -1,0 +1,29 @@
+{
+  "human_rank": {
+    "1": 6,
+    "2": 3,
+    "3": 2,
+    "4": 4,
+    "5": 1,
+    "6": 5
+  },
+  "send": "5",
+  "tells": {
+    "1": "Stacks familiar sentimental phrases: 'a future worth caring for,' 'a privilege,' and 'find their voice again.'",
+    "2": "The history/future pairing and 'find their voice again' give the closing a generic promotional feel.",
+    "3": "'A future worth caring for' is polished but abstract; otherwise the writing is straightforward.",
+    "4": "'It's worth looking after what comes next' feels like a strained paraphrase, while 'a real privilege' adds stock sincerity.",
+    "5": "none",
+    "6": "The balanced history/future declaration followed by 'find their voice again' makes the ending feel formulaic.",
+    "reason": ""
+  },
+  "reason": "Version 5 pairs clear credentials with practical language that sounds credible coming from a craftsperson. These rankings reflect editorial impressions, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B2",
+    "3": "B3",
+    "4": "C",
+    "5": "A",
+    "6": "B"
+  }
+}

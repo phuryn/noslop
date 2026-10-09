@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "The phrase 'Make sure you're using' is a common AI instruction opener and less precise than 'Check that.'",
+    "2": "none",
+    "3": "Straight apostrophe instead of proper punctuation makes it read like plain-text AI output rather than a carefully edited draft."
+  },
+  "reason": "Version 2 is the most polished and precise, with a human technical-writing tone and proper punctuation; version 1 is natural but slightly more generic, and version 3 is almost the same as version 2 but less typographically finished.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "O",
+    "3": "B3"
+  }
+}

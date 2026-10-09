@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 4,
+    "4": 5,
+    "5": 1
+  },
+  "send": "5",
+  "tells": {
+    "1": "The closing 'fuller picture' pitch repeats a benefit already explained, giving the ending a padded marketing feel.",
+    "2": "none",
+    "3": "The stacked casual phrases—'shots,' 'hits 7,' and 'something's off'—feel deliberately conversational; 'the full picture' also overpromises.",
+    "4": "The polished promotional ending stacks generic benefits, particularly 'a fuller picture' and 'make the most of their yearly checkup.'",
+    "5": "none"
+  },
+  "reason": "Version 5 gives a clear recommendation, explains its value, and states the price without a redundant sales flourish. These rankings reflect editorial impressions, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "B3",
+    "3": "C",
+    "4": "O",
+    "5": "A"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3
+  },
+  "reason": "Version 2 keeps every claim, hedge and commitment, with only minor wording changes. Version 1 drops the 'brand performs best' claim and 'targeted' outreach and softens 'capture' to 'serve', while Version 3 also drops 'structural' decline, turns 'potential returns' into 'should return more' and recasts mitigations as firm 'We will' commitments.",
+  "label_to_arm": {
+    "1": "track2/B3-int",
+    "2": "B3",
+    "3": "track2/A-int"
+  }
+}

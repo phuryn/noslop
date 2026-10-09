@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "The 'work, keep in touch or relax' empathy list feels like a templated attempt to cover every customer scenario.",
+    "2": "none",
+    "3": "Repeating 'Nine hours' immediately after stating the duration feels mechanical."
+  },
+  "reason": "Version 1 feels the most complete and human because it acknowledges the impact, gives the remedy clearly, and closes with both thanks and apology. Version 3 is weakest because the repeated 'nine hours' sounds unnatural.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B3",
+    "3": "A"
+  }
+}

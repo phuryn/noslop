@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2,
+    "4": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Flat, generic phrasing feels like a stripped template rather than an intentionally edited note.",
+    "3": "Slightly filler-like phrasing such as 'You can now' makes it feel a bit automated.",
+    "4": "The sentence 'Before, they didn't.' is awkward and unnaturally blunt for release notes."
+  },
+  "reason": "Version 1 is the strongest because it is concise, scannable, and uses clear feature labels without awkward phrasing. It feels like polished human product writing, while Version 4 in particular has a noticeable mechanical tell.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "track2/A-int",
+    "3": "track2/B5-int",
+    "4": "B5"
+  }
+}

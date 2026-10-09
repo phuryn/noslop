@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 6,
+    "3": 5,
+    "4": 1,
+    "5": 7,
+    "6": 3,
+    "7": 4
+  },
+  "send": "4",
+  "tells": {
+    "1": "'read on' and the balanced 'tight and safe' promise feel slightly templated.",
+    "2": "Awkward repetition of 'smooth job' / 'smooth kind'.",
+    "3": "Opens with 'We need' before engaging the reader, and personifies the kit ('conditions or kit say').",
+    "4": "none",
+    "5": "Generic recruiter clichés ('great role', 'fantastic team', 'mutual benefit') and ambiguous 'call a dive if you feel it's right'.",
+    "6": "Duplicate of 1; same slightly templated 'read on' phrasing.",
+    "7": "Slightly formal 'the former' and personified kit ('conditions or kit say it's not right')."
+  },
+  "reason": "Version 4 reads as the most direct, credible human draft: its opening is concrete, it avoids filler, and the aside about kit being 'actually maintained' sounds like a real operator. It makes the same offer clearly while feeling less templated than the others.",
+  "label_to_arm": {
+    "1": "V6C",
+    "2": "A",
+    "3": "B5",
+    "4": "C",
+    "5": "E",
+    "6": "V6A",
+    "7": "O"
+  }
+}

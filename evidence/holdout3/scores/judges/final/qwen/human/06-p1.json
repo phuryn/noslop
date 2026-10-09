@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "5": 3,
+    "6": 4,
+    "3": 5,
+    "4": 6
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "generic support phrasing, especially 'I know the delay has been an inconvenience'",
+    "3": "stiff, templated apology: 'I appreciate the inconvenience this delay has caused'",
+    "4": "unnatural filler and over-explanation, especially 'I can tell you that' and 'I am going to refund'",
+    "5": "template-like structure and stock closing, 'Thanks for your patience'",
+    "6": "corporate empathy phrasing, 'I understand the delay has been inconvenient'"
+  },
+  "reason": "Version 1 sounds most like a real person: it is warm, direct, accountable, and uses natural phrasing without becoming wordy. The others are serviceable but more templated, with 4 sounding the least natural.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B3",
+    "3": "O",
+    "4": "E",
+    "5": "B5",
+    "6": "A"
+  }
+}

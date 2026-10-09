@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 1
+  },
+  "reason": "Version 3 keeps every fact, number, and commitment and changes only phrasing. Version 2 is nearly as close but drops 'targeted' outreach, softens 'capture' to 'serve,' and turns mitigations into firmer 'we will' commitments. Version 1 loses many specifics, including the no-penalty exit, the six-month outreach lead time, redeployment and severance, pop-up and wholesale options, and the phased liquidation, and it reframes the decision deadline.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "A",
+    "3": "B3"
+  }
+}

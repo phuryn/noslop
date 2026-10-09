@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 5,
+    "4": 6,
+    "5": 1,
+    "6": 3
+  },
+  "send": "5",
+  "tells": {
+    "1": "none",
+    "2": "Scenic opener 'As autumn settles over the hills' plus the stock closer 'thank you for being part of it'",
+    "3": "Formulaic seasonal thank-you ('Autumn is settling over the hills, and we wanted to say thank you') and 'joining the team'",
+    "4": "Stacked warmth: 'heartfelt thank you' and the em-dash line about a 'reminder of what your support makes possible'",
+    "5": "none",
+    "6": "Padded reflective framing: 'we thought it a good time to reflect on how much we appreciate'"
+  },
+  "reason": "Version 5 reads like someone on the team actually wrote it: spoken rhythm, a concrete vehicle, and an invitation that doesn't lean on brochure gratitude. The others are either flatter, clumsier, or polished with seasonal scene-setting and stock thank-you lines.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "B5",
+    "4": "O",
+    "5": "C",
+    "6": "E"
+  }
+}

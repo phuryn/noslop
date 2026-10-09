@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 5,
+    "4": 1,
+    "5": 7,
+    "6": 4,
+    "7": 6
+  },
+  "send": "4",
+  "tells": {
+    "1": "none",
+    "2": "uses the generic phrase 'explore the night sky'",
+    "3": "templated promotional opener and 'explore the night sky'",
+    "4": "none",
+    "5": "unnatural phrasing: 'telescopes set up for looking at the night sky'",
+    "6": "stiff, over-formal wording like 'In the event of bad weather i.e. cloud'",
+    "7": "em dash and the same polished-but-generic phrasing as version 3"
+  },
+  "reason": "Version 4 reads as the most natural, warm community notice with idiomatic phrasing, while the others fall into generic promotional or slightly awkward wording. It balances clarity, credibility, and human feel best.",
+  "label_to_arm": {
+    "1": "V6A",
+    "2": "V6C",
+    "3": "A",
+    "4": "C",
+    "5": "B5",
+    "6": "E",
+    "7": "O"
+  }
+}

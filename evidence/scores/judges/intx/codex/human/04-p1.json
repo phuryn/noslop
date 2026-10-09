@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 5,
+    "3": 4,
+    "4": 2,
+    "5": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Repeated short sentences and mechanical transitions ('Then', 'Finally') make the prose feel assembled.",
+    "3": "The unnecessary explanation 'which is leaving them alone' makes a simple joke sound laboured.",
+    "4": "none",
+    "5": "none"
+  },
+  "reason": "Version 1 has the strongest local newsletter voice, varied rhythm and a warm invitation; version 4 is a close second for its clean, conversational delivery. These are stylistic judgments, not reliable evidence of AI authorship; version 5’s em dash is not itself a tell.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "E",
+    "3": "track2/B5-int",
+    "4": "track2/A-int",
+    "5": "O"
+  }
+}

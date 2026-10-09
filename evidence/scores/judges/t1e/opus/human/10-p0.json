@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 4,
+    "4": 2
+  },
+  "send": "4",
+  "tells": {
+    "1": "\"so you'll have more options during the week\" is a stock benefit line that doesn't fit Sunday evening classes",
+    "2": "none",
+    "3": "\"to give you more options during the week\" is the same misfit benefit line, and the tone is uniformly polished (\"will take effect for you\")",
+    "4": "none, though it is so evenly trimmed that it reads slightly sterile"
+  },
+  "reason": "Version 2 sounds most like a real studio owner, with its comma splice, \"stay tuned\" and exclamation points, but it is wordy and a little sloppy. Version 4 is the clearest and most credible: it states the price, the grandfathering date and the new classes plainly, without the filler benefit line in 1 and 3.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "E",
+    "3": "O",
+    "4": "A"
+  }
+}

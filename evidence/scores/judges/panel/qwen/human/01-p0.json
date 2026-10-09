@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1,
+    "4": 5,
+    "5": 4
+  },
+  "send": "3",
+  "tells": {
+    "1": "none",
+    "2": "The polished tricolon and neat 'operational win' takeaway feel a little AI-smoothed.",
+    "3": "The 'What I took from this' aphorism is a familiar LinkedIn/AI wrap-up.",
+    "4": "It is very compressed and generic, with little personal voice.",
+    "5": "The hook-change-bullets-lesson-CTA structure feels templated."
+  },
+  "reason": "Version 3 sounds most like a real person: it has first-person ownership, concrete details, and a conversational rhythm. It is also the strongest publishable version because it is clear, credible, and ends with a natural question.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "B3",
+    "3": "C",
+    "4": "A",
+    "5": "O"
+  }
+}

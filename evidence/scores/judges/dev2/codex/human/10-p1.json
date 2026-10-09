@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 3,
+    "3": 5,
+    "4": 2,
+    "5": 1
+  },
+  "send": "5",
+  "tells": {
+    "1": "Slightly formulaic phrasing: “to give you more options” and “Thank you for being part of our community.”",
+    "2": "none",
+    "3": "“Quick heads-up” and “On a happier note” feel like deliberate attempts to manufacture a conversational voice.",
+    "4": "none",
+    "5": "none"
+  },
+  "reason": "Version 5 is concise, natural, and clear about the protected rate; version 4 is nearly identical in quality. These are editorial judgments about how the emails read, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "A",
+    "3": "C",
+    "4": "B5",
+    "5": "B3"
+  }
+}

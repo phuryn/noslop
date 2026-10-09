@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 5,
+    "2": 4,
+    "3": 2,
+    "4": 1,
+    "5": 3
+  },
+  "reason": "V4 keeps every fact, caveat and the lesson and drops only the closing question. V3 keeps all content but overstates ('mostly didn't work', 'a lot of' instead of 'sometimes') and adds claims ('showed up quickly', 'for a month'); V5 turns the hedged lesson into a claim that this was 'the biggest win' and drops two points; V2 drops the lesson and hardens 'hit or miss' and 'worth testing'; V1 omits the most, including the front-desk hours, the lesson and the both-sides framing.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "A",
+    "3": "C",
+    "4": "B5",
+    "5": "B3"
+  }
+}

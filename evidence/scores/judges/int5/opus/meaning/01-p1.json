@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "Version 1 keeps every fact, caveat and claim and drops only the closing question, while Version 2 keeps the question but softens the lesson ('sometimes the biggest wins' becomes 'can be a real win'), turns 'it's worth testing' into the more directive 'try texts', and adds 'as much as' to the patients-versus-practice point. Version 3 uses the writer's answers legitimately but drops the most original content (unreturned voicemails, texts get read, fewer empty chairs, the 'meet people where they are' lesson, and the closing question).",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "track2/A-int",
+    "3": "track2/B5-int"
+  }
+}

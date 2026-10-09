@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "The generic reassurance, \"That's not the experience we want you to have,\" adds little to the specific apology.",
+    "3": "Stacked apologies, thanks, and generic reassurance make the empathy feel formulaic.",
+    "4": "none"
+  },
+  "reason": "Version 1 balances specific empathy, a clear remedy, and a welcoming close. Version 2 usefully leads with the remedy but feels less fluid; version 4 is somewhat curt and minimizes the delay, while version 3 overdoes the courtesy.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "track2/B5-int",
+    "3": "O",
+    "4": "track2/A-int"
+  }
+}

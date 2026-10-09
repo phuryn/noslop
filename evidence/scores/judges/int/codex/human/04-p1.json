@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "none",
+    "4": "none"
+  },
+  "reason": "Version 1 has relaxed pacing and a lightly humorous payoff that suits a community newsletter; version 2 is nearly as effective, while 3 and 4 slightly flatten the rhythm. Versions 3 and 4 are identical, so their ordering is arbitrary; none contains a reliable AI-writing tell.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "O",
+    "3": "B3",
+    "4": "track2/B3-int"
+  }
+}

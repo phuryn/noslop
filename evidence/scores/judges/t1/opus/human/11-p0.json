@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none; the bold section labels are standard for job posts. 'Keep standards high without turning the kitchen into a pressure cooker' is slightly stock phrasing.",
+    "2": "The trailing participle clause ('..., keeping standards high without...') and an even, flattened rhythm. Edits like 'cooks want to work for you' sand off the voice.",
+    "3": "Inserted conversational filler ('honestly, that's the fun part', 'your opinion will actually count') that feels manufactured. It also drops the confident 'we like it that way' line.",
+    "4": "The trailing participle clause ('keeping standards high...') and a uniform paragraph cadence. Otherwise it keeps the original voice."
+  },
+  "reason": "Version 1 has the most confident, specific kitchen voice, and its bold labels make it easy to scan, which is right for a job post. Version 3's forced casualness ('honestly') reads the most like an AI trying to sound human.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B",
+    "3": "C",
+    "4": "A"
+  }
+}

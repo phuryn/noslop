@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 3
+  },
+  "reason": "Version 1 keeps the warranty coverage, free replacement, tracking promise, and five-month issue intact. Version 2 is nearly as exact but trims the help commitment; version 4 changes the subject, “replacement” to “new,” and who will email and help; version 3 omits “at no cost” and weakens the coverage statement.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "E",
+    "4": "C"
+  }
+}

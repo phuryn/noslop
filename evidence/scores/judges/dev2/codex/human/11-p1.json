@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3,
+    "4": 5,
+    "5": 4
+  },
+  "send": "2",
+  "tells": {
+    "1": "The polished trio of lifestyle promises feels like stock recruitment copy.",
+    "2": "none",
+    "3": "“Running the kitchen when it counts” adds motivational gloss where a concrete responsibility would help.",
+    "4": "“Honestly,” “actually count,” and “Sound like your kind of kitchen?” collectively feel like manufactured informality.",
+    "5": "“Full time, hands-on, on the line most nights and running the kitchen” feels mechanically compressed and awkward."
+  },
+  "reason": "Version 2 reads most like a capable editor made deliberate choices: it is direct, easy to follow, and specifies when the sous chef takes charge. These are judgments of editorial style, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "B5",
+    "3": "A",
+    "4": "C",
+    "5": "O"
+  }
+}

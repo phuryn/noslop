@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 4,
+    "3": 2,
+    "4": 1,
+    "5": 3
+  },
+  "send": "4",
+  "tells": {
+    "1": "Redundant phrasing ('Bank feed sync: feeds now sync') and awkward 'fixed currency symbols' construction.",
+    "2": "Plain Markdown with no feature lead-ins and a generic 'Fixed a bug where...' phrase reads like a rough draft or basic AI output.",
+    "3": "Rhetorical question ('Need to change a bunch of invoices?') and overly casual 'That's fixed' can feel like forced conversational tone.",
+    "4": "none",
+    "5": "Clipped phrase 'instead of one by one' and the shift to positive-only fix wording feel slightly AI-smoothed."
+  },
+  "reason": "Version 4 is the clearest, most professional, and credible release note, balancing polish with natural user-focused phrasing; version 3 is engaging but a bit too casual for a release note.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "A",
+    "3": "C",
+    "4": "O",
+    "5": "B3"
+  }
+}

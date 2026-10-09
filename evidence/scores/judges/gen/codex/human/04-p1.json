@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 4,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "Generic enthusiasm such as 'make it all worthwhile' and 'yummy garlic dishes' adds little specificity, though it isn't uniquely AI-like.",
+    "4": "none"
+  },
+  "reason": "Version 4 combines clear instructions, conversational warmth and a well-paced closing joke; version 1 is nearly indistinguishable, while version 2 slightly flattens the rhythm. Version 3 feels personable but less professionally edited, with a sprawling opening and fewer practical details; these rankings reflect editorial quality, not proof of authorship.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B3",
+    "3": "gen/E-write",
+    "4": "A"
+  }
+}

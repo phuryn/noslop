@@ -1,0 +1,11 @@
+{
+  "send": "4",
+  "reason": "It keeps the original voice while adding the confirmed details: four-day week, 100% health insurance, whole-animal butchery, Friday volume, six cooks, and promotion from within. It also avoids promising a closing time or giving specifics the writer didn't want to commit to.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "track2/A-int",
+    "3": "C",
+    "4": "track2/B5-int"
+  },
+  "picked_arm": "track2/B5-int"
+}

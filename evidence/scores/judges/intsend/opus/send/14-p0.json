@@ -1,0 +1,11 @@
+{
+  "send": "3",
+  "reason": "It keeps every original fact and the October 25 commitment. It adds only details I gave myself (Middlemarch, Mr. Okafor's weekly visits, the 2020 $38,000 GoFundMe) and invents nothing, unlike 1 and 2.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "E",
+    "3": "track2/B5-int",
+    "4": "track2/A-int"
+  },
+  "picked_arm": "track2/B5-int"
+}

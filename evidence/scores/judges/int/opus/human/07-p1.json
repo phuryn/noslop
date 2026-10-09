@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 1,
+    "4": 4
+  },
+  "send": "3",
+  "tells": {
+    "1": "none (the 'and' joins two loosely related clauses, but that reads as ordinary Slack writing)",
+    "2": "none",
+    "3": "none",
+    "4": "none (the 'and' joins the remaining work to the schedule, which reads clumsily but not like AI)"
+  },
+  "reason": "All four are nearly identical and none shows a clear AI tell, so the ranking reflects small differences in flow. Version 3 is the tightest and most natural ('with only the Android biometric flow left'), while 1 and 4 join unrelated ideas with 'and' less smoothly.",
+  "label_to_arm": {
+    "1": "track2/B3-int",
+    "2": "O",
+    "3": "track2/A-int",
+    "4": "B3"
+  }
+}

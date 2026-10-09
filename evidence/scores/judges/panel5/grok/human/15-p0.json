@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 6,
+    "3": 5,
+    "4": 4,
+    "5": 2,
+    "6": 3
+  },
+  "send": "3",
+  "tells": {
+    "1": "none",
+    "2": "Slogan stacking — every line ends in a polished payoff, especially 'what to do and how to do it right' and the empty 'unlock more of what the app has to offer.'",
+    "3": "Uniform claim-plus-payoff bullets closed by the stock line 'see how far you've come.'",
+    "4": "Light humanizing patches ('Maybe you're,' 'we'll') laid over the same stock phrases, including 'more of what the app has to offer.'",
+    "5": "Machine-flattened wording: the ambiguous opener and thin 'shows the form for the movement,' plus the hedge 'unlocks additional features.'",
+    "6": "Performed casualness — 'bouncing back,' 'get moving,' 'tweak' — on an otherwise template structure."
+  },
+  "reason": "Version 1 is the only listing that sounds written by a person, with ordinary clichés and a small legal slip rather than slogan cadence. I would still publish 3: it is clearer and more credible than 1, and more clinically even than the warmer but try-hard 6.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "O",
+    "3": "B3",
+    "4": "B5",
+    "5": "A",
+    "6": "C"
+  }
+}

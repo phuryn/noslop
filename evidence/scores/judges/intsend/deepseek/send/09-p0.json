@@ -1,0 +1,11 @@
+{
+  "send": "3",
+  "reason": "It preserves the warranty and replacement commitments, tracking details, and the writer's key empathetic phrases like 'only five months' and 'that's not the experience we want you to have'.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "track2/A-int",
+    "3": "track2/B5-int",
+    "4": "E"
+  },
+  "picked_arm": "track2/B5-int"
+}

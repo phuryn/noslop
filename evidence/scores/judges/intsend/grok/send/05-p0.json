@@ -1,0 +1,11 @@
+{
+  "send": "4",
+  "reason": "Version 4 keeps the same facts, metrics, caveats, and commitments—including the completion definition, match-quality requirement, and pilot purpose—in the original precise voice. The others casualize the wording, reframe validation as testing whether the target is realistic, or drop required goals and non-goals.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "C",
+    "3": "E",
+    "4": "track2/A-int"
+  },
+  "picked_arm": "track2/A-int"
+}

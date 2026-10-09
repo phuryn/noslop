@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 4,
+    "4": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "Every cost bullet and both goals use the same bold-label-then-explanation rhythm, a very regular generated-PRD pattern.",
+    "2": "The four cost bullets still open in lockstep, and “Agencies pay for it” reads like a forced casual swap rather than a real phrase.",
+    "3": "“The consequences are significant” is empty throat-clearing, and “There is currently no system that…” is a wordier formal expansion.",
+    "4": "The costs are melted into one even paragraph glued with “also” and “For agencies,” and “has coordinators handle” is an awkward paraphrase."
+  },
+  "reason": "Version 2 sounds most like a person de-jargonized a draft, but I would still send version 1: it is the most precise and scannable for a PRD, without version 3’s filler or version 4’s lossy rewrite.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "track2/B3-int",
+    "3": "O",
+    "4": "track2/A-int"
+  }
+}

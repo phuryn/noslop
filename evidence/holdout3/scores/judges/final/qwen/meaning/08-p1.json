@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 5,
+    "3": 4,
+    "4": 3,
+    "5": 2
+  },
+  "reason": "Version 1 preserves all key facts, numbers, timing, and the stated purpose without adding new commitments. Version 5 is nearly as faithful but adds a slight 'send' detail; Version 4 strengthens the purpose claim, Version 3 adds an inbox delivery detail, and Version 2 changes the minimum-booking caveat and omits the purpose.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "E",
+    "3": "C",
+    "4": "A",
+    "5": "B5"
+  }
+}

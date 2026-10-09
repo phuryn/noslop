@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 1,
+    "4": 3
+  },
+  "send": "3",
+  "tells": {
+    "1": "none",
+    "2": "Em-dash compression plus the staged colon punchline 'Then comes the hardest part:'",
+    "3": "none",
+    "4": "Formulaic colon punch ('Then comes the hardest part:') and matching diary-reminder lead-in"
+  },
+  "reason": "Version 3 sounds like a skilled local editor: plain, specific, and unforced. Versions 2 and 4 share the same polished AI cadence, and version 1 is human but slightly clumsy in the 'which is leaving them alone' line.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "O",
+    "3": "B5",
+    "4": "track2/A-int"
+  }
+}

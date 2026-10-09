@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 4,
+    "3": 1,
+    "4": 5,
+    "5": 2
+  },
+  "reason": "Version 3 keeps the offer, $34, free US shipping, cancel-anytime, dry-ingredient limit, and original scenes with only small wording shifts. Versions 5, 1, and 2 increasingly recast or drop nuances such as “the good part,” more time, and the quiet-moment framing, while 4 adds new promises (a new bake every month, a full box, all skill levels) and loses the slowing-down theme.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B5",
+    "4": "E",
+    "5": "B3"
+  }
+}

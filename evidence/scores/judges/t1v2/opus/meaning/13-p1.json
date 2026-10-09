@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2,
+    "4": 4
+  },
+  "reason": "V1 is nearly verbatim but drops 'structurally' and the 'where our brand performs best' claim. V3 keeps every rationale claim, though it softens 'targeted' and 'capture' and turns the mitigations into firm 'we will' commitments. V2 drops several claims and the 'potential' hedge, and softens 'rather than' to 'more than'. V4's broad rewording drifts the most (e.g., 'money and effort', outcome-style online items, 'Finance to fill in', loss of the 'potential' hedge).",
+  "label_to_arm": {
+    "1": "B2",
+    "2": "B",
+    "3": "A",
+    "4": "C"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3,
+    "4": 4,
+    "5": 5
+  },
+  "send": "2",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "The closing phrase 'whether that fits what you need' feels slightly labored.",
+    "4": "'We'd like to help' and 'where we might fit' give the pitch a mildly formulaic, tentative feel.",
+    "5": "Two consecutive questions repeat the invitation, creating an overly careful, template-like close."
+  },
+  "reason": "Version 2 reads like a practiced salesperson's email: concrete service, relevant proof, a clear offer, and one easy ask. These are stylistic judgments; none of the versions provides reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B3",
+    "3": "A",
+    "4": "B5",
+    "5": "O"
+  }
+}

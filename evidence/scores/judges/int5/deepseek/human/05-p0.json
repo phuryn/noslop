@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Converts scannable consequence bullets into a smooth prose paragraph, with transitions like 'Speed and quality also vary...' that feel too polished for a PRD.",
+    "3": "Explicit signposting like 'The consequences are significant:' and uniform bolded lead-ins read like formatting-driven AI polish.",
+    "4": "Slightly optimized paraphrase choices such as 'go uncovered,' 'hit clients,' and 'Outcomes depend on who is working' give it a more AI-smoothed feel."
+  },
+  "reason": "Version 1 reads most like a skilled human PM wrote it: natural phrasing, clear structure, and no over-formatting or overly smooth paraphrasing. Version 4 is close but slightly more polished in a way that feels edited.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "track2/A-int",
+    "3": "O",
+    "4": "track2/B5-int"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 4,
+    "4": 1,
+    "5": 5
+  },
+  "send": "4",
+  "tells": {
+    "1": "Stacked stock reassurances: 'guidance you can trust,' 'keep your recovery moving,' and 'BUILT FOR REAL RECOVERY.'",
+    "2": "none",
+    "3": "The vague Premium pitch, 'adds more to the app,' reads like a mechanical paraphrase left unedited.",
+    "4": "The opening's 'always know what to do and how to do it right' is a generic, overconfident promise.",
+    "5": "Conspicuously casual substitutions—'bouncing back,' 'tweak,' 'give you a nudge'—make the friendliness feel manufactured."
+  },
+  "reason": "Version 4 best balances scannability, useful detail, and an appropriate promotional tone; version 2 is clear but reads more like a feature summary. These are stylistic judgments, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "A",
+    "3": "B",
+    "4": "B2",
+    "5": "C"
+  }
+}

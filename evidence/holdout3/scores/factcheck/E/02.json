@@ -1,0 +1,30 @@
+{
+  "dropped": [
+    {
+      "item": "The trial's purpose: letting the teams see how it sells before deciding whether to keep it on the bar",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "Certainty raised: 'It could be a good fit' became 'I believe it would be great'",
+      "severity": "minor"
+    },
+    {
+      "item": "Sample delivery changed from 'send over samples' to 'I will bring some in', which implies an in-person visit",
+      "severity": "minor"
+    },
+    {
+      "item": "'A small trial across your six Yorkshire sites' became 'trying a small amount in your six Yorkshire sites', which shifts from a trial period to a small quantity",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "Commitment to bring samples in personally",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

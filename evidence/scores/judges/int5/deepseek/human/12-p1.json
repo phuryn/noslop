@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2,
+    "4": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Generic, formulaic framing like 'This talk explores... It shares lessons...' and an anonymized 'the speaker' bio with no concrete details.",
+    "3": "Vague takeaways and an awkward phrase ('making more of their own pressure data'); no concrete details or named bio.",
+    "4": "Over-compressed, detail-free summary and placeholder bio; lacks concrete results or a human story."
+  },
+  "reason": "Version 1 reads as a skilled human account because it includes specific results, costs, a named field tech, and an honest caveat, while the others are generic and anonymized.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "O",
+    "3": "B5",
+    "4": "track2/A-int"
+  }
+}

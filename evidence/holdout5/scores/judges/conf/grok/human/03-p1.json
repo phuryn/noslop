@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 5,
+    "4": 6,
+    "5": 7,
+    "6": 3,
+    "7": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Personality sanded off into a generic line about strategies that 'play out.'",
+    "3": "Tide-pun opener, 'Here's what it adds,' and bold parallel bullets with a question CTA.",
+    "4": "Same bullet template and tide lede, plus a subject that says the expansion is already here.",
+    "5": "'Here's what's in the box' is an unthinking swap; the rest clones the bullet-template email.",
+    "6": "Tide-metaphor opening and stacked three-part lists ('more… more… and more…').",
+    "7": "Tide-pun lede, 'What's new' prompt, and invented urgency ('be quick about it')."
+  },
+  "reason": "Version 1 is the one I'd send: a specific, slightly wry voice, accurate details, and a clear ask without template scaffolding. The others flatten that voice, fall into tide-pun openers and parallel formulas, or add hype the facts don't support.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "V6C",
+    "4": "O",
+    "5": "V6A",
+    "6": "B5",
+    "7": "E"
+  }
+}

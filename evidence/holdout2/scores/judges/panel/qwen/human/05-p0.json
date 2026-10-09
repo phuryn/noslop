@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "emoji-bullet template feel and generic phrases like \"celebrating all things apple\" and \"good appetite for autumn\"",
+    "3": "flat, compressed phrasing that feels more functional than invited, especially \"with pressing demos... and the first pour\""
+  },
+  "reason": "Version 1 sounds the most natural and inviting, with clear details and a warm voice without feeling templated. It would be the one I’d publish.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "O",
+    "3": "A"
+  }
+}

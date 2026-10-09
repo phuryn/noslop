@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 1,
+    "4": 3
+  },
+  "send": "3",
+  "tells": {
+    "1": "Generic framing—“This talk explores,” “shares lessons,” and “practical considerations”—makes a concrete case sound like boilerplate.",
+    "2": "none",
+    "3": "none",
+    "4": "The familiar “what worked, what didn't” formula feels inserted to create a conversational voice; the broad opening claim also exceeds the supplied case."
+  },
+  "reason": "Version 3 is direct, economical, and well suited to a conference submission. Version 2 is close, but adds a leadership claim in the bio; version 4 has more personality but introduces broader claims and promises.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "A",
+    "3": "B",
+    "4": "C"
+  }
+}

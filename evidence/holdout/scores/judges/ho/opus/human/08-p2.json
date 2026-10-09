@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 6,
+    "2": 3,
+    "3": 2,
+    "4": 1,
+    "5": 4,
+    "6": 5
+  },
+  "send": "4",
+  "tells": {
+    "1": "Stacked stock sentiment: the em-dash 'history—and a future worth caring for', 'It's a privilege', 'find their voice again', and 'for years to come' all in one short paragraph.",
+    "2": "'find their voice again' is the familiar metaphor this kind of copy reaches for.",
+    "3": "'making music for years to come' is a soft, generic closer.",
+    "4": "none",
+    "5": "The opening 'Every piano has a history, and a future worth caring for' reads like a tagline, followed by 'find their voice again' and 'for years to come'.",
+    "6": "'It's a real privilege' plus the awkward rephrase 'it's worth looking after what comes next', which reads like an edit made to avoid the stock line."
+  },
+  "reason": "Version 4 drops the stock phrases and replaces them with plain, specific claims a craftsman would make: most pianos 'have years of playing left in them', and he likes getting one 'to sound right again'. The facts stay intact and it sounds like a real restorer talking about his work.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B2",
+    "3": "B3",
+    "4": "A",
+    "5": "B",
+    "6": "C"
+  }
+}

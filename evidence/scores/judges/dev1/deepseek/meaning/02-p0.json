@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 3,
+    "3": 1,
+    "4": 2
+  },
+  "reason": "Version 3 best preserves the original's conditional offer, stats, and exact closing phrase. Version 4 keeps the closing phrase but adds 'some of' and makes the offer more assertive; Version 2 paraphrases the closing and also asserts, while Version 1 loses the 'where we might fit' nuance.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "C",
+    "4": "B5"
+  }
+}

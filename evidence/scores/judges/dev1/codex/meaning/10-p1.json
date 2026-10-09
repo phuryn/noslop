@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 3,
+    "3": 2,
+    "4": 1
+  },
+  "reason": "Version 4 most explicitly preserves the price change and current-member timing; version 3 preserves the same substance with slightly less explicit wording. Version 2 drops the stated purpose of adding classes, while version 1 adds a workout assumption, an emotional framing, and an explicit promise to help.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B3",
+    "4": "B5"
+  }
+}

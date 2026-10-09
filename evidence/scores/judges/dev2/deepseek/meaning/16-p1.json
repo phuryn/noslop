@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 1,
+    "3": 2,
+    "4": 3
+  },
+  "reason": "Version 2 stays closest to the original's meaning and caveats, with only minor hedging loss. Version 3 is close but drops the 'usual things' framing; Version 4 has more small wording shifts; Version 1 adds or alters the most nuance (e.g., 'teach them better' and 'treating retirement').",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B3",
+    "4": "B5"
+  }
+}

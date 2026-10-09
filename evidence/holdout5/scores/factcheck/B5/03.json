@@ -1,0 +1,21 @@
+{
+  "dropped": [
+    {
+      "item": "\"You're first in line\" for preorderers (largely redundant with the line about shipping first)",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "Subject line changed from 'The Tidekeepers is here' (implies available now) to 'goes live October 21'. The release date matches the body, but the framing changed from present availability to a future launch.",
+      "severity": "minor"
+    },
+    {
+      "item": "The call to action is now addressed only to people who haven't preordered ('If you haven't, head to the shop'). The original addressed anyone ('Want one?').",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

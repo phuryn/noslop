@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2,
+    "4": 4
+  },
+  "reason": "Version 2 preserves the original’s substantive claims most closely; version 3 omits that Premium unlocks more, while version 1 omits viewing progress and narrows free initial use to free downloading. Version 4 introduces structured “routines” and an easier-recovery claim beyond the original; all four retain the numbers, cancellation deadline, and medical caveat.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B",
+    "3": "B3",
+    "4": "C"
+  }
+}

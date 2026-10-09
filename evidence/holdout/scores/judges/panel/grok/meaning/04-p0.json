@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1
+  },
+  "reason": "Version 3 keeps the workshop offer, price, date, fondant, and inclusive close with only small wording shifts. Version 1 adds an unsupported majority claim and slight intensifications, while version 2 drops the glad-to-have-you and wherever-you-are caveats and rewrites the workshop as a host-led talk-through.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B3"
+  }
+}

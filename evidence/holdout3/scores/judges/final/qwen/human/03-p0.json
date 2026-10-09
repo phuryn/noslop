@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 6,
+    "3": 4,
+    "4": 3,
+    "5": 1,
+    "6": 5
+  },
+  "send": "5",
+  "tells": {
+    "1": "none",
+    "2": "Repetitive bullet points and clichéd phrasing such as 'brand new' and 'each and every month'.",
+    "3": "Formulaic structure and the slightly awkward phrase 'our thank you'.",
+    "4": "Very plain and generic; it reads like a clean template rather than a distinct voice.",
+    "5": "none",
+    "6": "Over-explains with a redundant bullet list and repeats the customer/community thank-you idea."
+  },
+  "reason": "Version 5 feels the most naturally written, with a warm, specific voice and a clear offer. It balances personality with the key launch details better than the more templated alternatives.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "E",
+    "3": "B3",
+    "4": "A",
+    "5": "C",
+    "6": "O"
+  }
+}

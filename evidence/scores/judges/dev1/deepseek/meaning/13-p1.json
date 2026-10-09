@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 4,
+    "3": 2,
+    "4": 1
+  },
+  "reason": "Version 4 stays closest to the original wording and preserves all key nuances, caveats, and commitments. Version 3 is nearly as faithful but slightly softens some wording; Version 1 loses small nuances like 'targeted' and 'capture'; Version 2 paraphrases more heavily and changes 'structurally declining' to 'long-term decline.'",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "B5",
+    "4": "B3"
+  }
+}

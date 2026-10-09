@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 3,
+    "4": 1
+  },
+  "send": "2",
+  "tells": {
+    "1": "Em-dash heavy and a salesy closing tagline ('a practical way to get a fuller picture... make the most of their yearly checkup')",
+    "2": "Slightly polished, evenly balanced sentence rhythm, but largely none",
+    "3": "Very compressed, uniform declarative sentences that read as AI-trimmed",
+    "4": "none (clunky phrasing, comma splice, and trailing-off sentence read as genuine human drafting)"
+  },
+  "reason": "Version 4 reads most human but is wordy, awkward and unfinished, so it isn't publishable. Version 2 is clear, natural and credible without the promotional padding of 1 or the clipped feel of 3.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B3",
+    "3": "A",
+    "4": "gen/E-write"
+  }
+}

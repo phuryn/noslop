@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3,
+    "4": 4
+  },
+  "send": "2",
+  "tells": {
+    "1": "Slightly over-explained phrasing ('how I would actually leave the room', 'changed the way I explained') with a tidy colon-list and semicolon balance.",
+    "2": "The 'X, never Y' contrast ('a date on the calendar, never as a way of leaving the room') is a bit aphoristic, but otherwise none.",
+    "3": "Forced staccato fragments ('I straightened... I checked... I wiped...', 'I was ready to go. I just...') read like a casual-ifying rewrite. 'Caught myself' is a stock reflective phrase.",
+    "4": "The stock 'I found myself doing' framing, padding like 'hadn't given much thought to', and typographic curly apostrophes."
+  },
+  "reason": "Version 2 keeps every concrete detail and the quiet closing line while cutting the padding, so it reads like a writer's edited final draft. Version 3 overdoes the choppy rhythm, and version 4 carries the most filler and stock phrasing.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B",
+    "3": "C",
+    "4": "O"
+  }
+}

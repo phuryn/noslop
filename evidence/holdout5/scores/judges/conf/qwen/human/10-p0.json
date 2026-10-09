@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 6,
+    "3": 4,
+    "4": 1,
+    "5": 3,
+    "6": 7,
+    "7": 2
+  },
+  "send": "4",
+  "tells": {
+    "1": "The line 'It stays something to think about' feels vague and slightly over-explained, giving it a faint machine-written flatness.",
+    "2": "'Keeping comfort, function and everyday life in view' is grammatically fine but unnatural and bloodless.",
+    "3": "The abstract phrasing 'Growth brings changing needs, making fit an ongoing consideration' feels polished but generic and AI-adjacent.",
+    "4": "none",
+    "5": "It is clean but formulaic, especially 'Drawing on their clinical experience' and 'at the heart of the conversation'.",
+    "6": "None obvious; the missing apostrophe, lowercase title and exclamation mark make it feel like a quick human draft rather than AI output.",
+    "7": "It reads very naturally, but the familiar conference-bio formula and closing cliché give it a slight templated feel."
+  },
+  "reason": "Version 4 sounds most like a person: the rhythm is conversational, the point is clear, and it avoids abstract brochure-speak. It keeps enough professional detail to be credible while remaining easy to read.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "A",
+    "3": "O",
+    "4": "C",
+    "5": "V6C",
+    "6": "E",
+    "7": "V6A"
+  }
+}

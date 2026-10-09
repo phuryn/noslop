@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Safe, generic phrasing and the abrupt premium pricing line make it feel templated.",
+    "3": "Vague premium benefit and stock encouragement like “keep your recovery moving” and “see how far you’ve come.”",
+    "4": "Stacked marketing clichés: “guidance you can trust,” “clear, easy-to-follow,” and “unlock more of what the app has to offer.”"
+  },
+  "reason": "Version 1 sounds most like a person because it opens with a concrete adherence insight and gives specific, useful details. It also explains the premium value better than the others, making it the strongest choice for publication.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "track2/A-int",
+    "3": "B5",
+    "4": "O"
+  }
+}

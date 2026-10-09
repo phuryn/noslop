@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "smooth but generalized career-summary sentences with balanced, abstract phrasing and few concrete details",
+    "3": "the filler phrase \"found myself doing\" plus the gerund list feels templated and slightly AI-polished",
+    "4": "choppy, simplified sentence segmentation reads like a mechanical plain-style rewrite"
+  },
+  "reason": "Version 1 feels most lived-in because of its concrete details, specific former student, and emotionally ambivalent ending. The others are competent but more generic, with Version 2 the strongest of the abstract variations.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "track2/A-int",
+    "3": "O",
+    "4": "B5"
+  }
+}

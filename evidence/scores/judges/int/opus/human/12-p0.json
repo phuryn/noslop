@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3,
+    "4": 4
+  },
+  "send": "2",
+  "tells": {
+    "1": "generic, specifics-free summary; anonymized 'The speaker' bio that just restates the abstract",
+    "2": "none",
+    "3": "padded 'This talk covers... It also covers...' structure and hedging like 'might otherwise have gone unnoticed'",
+    "4": "stock phrasing like 'This talk explores', 'shares lessons', 'practical considerations for utilities looking to make better use of', plus a promotional opening line"
+  },
+  "reason": "Version 2 has concrete details (no new hardware, 18 months, 410 million gallons, $85,000, a named field tech, a 30% false-positive rate) and candid opinions about ML versus threshold rules, which makes it credible and distinctly human. The others are vague restatements of the same 14%-to-9% claim, and 3 and 4 add increasingly generic, template-like conference phrasing.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "track2/B3-int",
+    "3": "B3",
+    "4": "O"
+  }
+}

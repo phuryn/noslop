@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2,
+    "4": 4
+  },
+  "reason": "Version 1 preserves the meaning most exactly, with version 3 making only negligible changes in emphasis. Version 2 drops the explicit 'this week' timing and 'small job' nuance and adds ownership of the swap; version 4 additionally asserts 'this Saturday,' strengthens leaving garlic alone into ignoring it until next summer, and omits the invitation to chat and exchange ideas.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "B3",
+    "4": "E"
+  }
+}

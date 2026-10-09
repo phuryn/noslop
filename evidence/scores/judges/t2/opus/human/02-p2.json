@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 1
+  },
+  "send": "3",
+  "tells": {
+    "1": "Generic template shape: claim, question and CTA each sit in their own one-line paragraph, with nothing specific to the prospect.",
+    "2": "Sanitized, interchangeable phrasing ('Could we help... regular routes or last-minute delivery needs?') that could go to any company.",
+    "3": "none (only the stiff opener 'Fairview is a regional grocery chain', which tells the prospect what they are)"
+  },
+  "reason": "Version 3 adds things a real sender would include: the honest 2-hour on-time caveat, temperature monitoring and a named reference. That makes it more credible and less templated, despite the clunky first sentence. Versions 1 and 2 are clean but generic and almost identical.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "track2/A-int",
+    "3": "track2/B2-int"
+  }
+}

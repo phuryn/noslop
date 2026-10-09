@@ -1,0 +1,11 @@
+{
+  "send": "none",
+  "reason": "None preserves the original’s cautious third-person framing and exact caveats; version 1 strengthens 'help reduce' to 'cut,' version 2 adds a name and formal style, and versions 3 and 4 shift to first person.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "E",
+    "3": "B5",
+    "4": "C"
+  },
+  "picked_arm": "none"
+}

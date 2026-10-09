@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 5,
+    "3": 1,
+    "4": 4,
+    "5": 3
+  },
+  "reason": "Version 3 keeps every fact, hedge ('sometimes', 'worth testing') and point, losing only the closing question. Versions 1, 5, 4 and 2 progressively drift: 1 adds 'all we did', 'for a month' and 'a lot of'. 5 drops 'sometimes', the gap sentence and the question. 4 hardens 'hit or miss' and drops the lesson. 2 drops the lesson, 'hours', and 'rarely' becomes 'never', with a stronger 'should trial'.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "E",
+    "3": "B5",
+    "4": "A",
+    "5": "B3"
+  }
+}

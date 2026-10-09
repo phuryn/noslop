@@ -1,0 +1,11 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2
+  },
+  "reason": "Both keep every fact, number and the £15 automatic-credit commitment, and both drop the examples of disruption (work, keeping in touch, relaxing) and the closing apology. Version 1 keeps the thank-you for customers' patience, which Version 2 also removes, so Version 1 loses less.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3"
+  }
+}

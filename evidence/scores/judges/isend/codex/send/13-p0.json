@@ -1,0 +1,11 @@
+{
+  "send": "2",
+  "reason": "It preserves my recommendation, supporting facts, caveats, and specific mitigation plans in a clear, professional voice. The other versions omit important details or introduce claims I didn’t make.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "A",
+    "3": "B5",
+    "4": "C"
+  },
+  "picked_arm": "A"
+}

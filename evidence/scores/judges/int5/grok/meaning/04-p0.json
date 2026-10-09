@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1
+  },
+  "reason": "Version 3 only splits one sentence and keeps every fact and phrase. Version 1 keeps the diary reminder but changes “separate” to “break” and “a few ideas” to “some”; version 2 keeps those details but replaces the reminder with a new instruction to record the swap, altering the commitment.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "track2/B5-int",
+    "3": "track2/A-int"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 6,
+    "4": 3,
+    "5": 5,
+    "6": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Polished but generic phrasing like 'price will increase' and 'take effect for you'",
+    "3": "Overly formal renewal wording: 'at which time your monthly membership will renew at the new rate'",
+    "4": "Slightly abrupt phrase 'the $135 rate starts for you then'",
+    "5": "Clipped, impersonal tone and flat sign-off 'Thanks for being a member'",
+    "6": "none"
+  },
+  "reason": "Version 1 reads as the most natural and customer-friendly, clearly explaining the price change while adding warmth and a positive note. It avoids the generic subject line and robotic phrasing that make other versions feel less human.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "O",
+    "3": "E",
+    "4": "B5",
+    "5": "A",
+    "6": "B3"
+  }
+}

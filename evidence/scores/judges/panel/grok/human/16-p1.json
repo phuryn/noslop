@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 5,
+    "3": 4,
+    "4": 2,
+    "5": 1
+  },
+  "send": "5",
+  "tells": {
+    "1": "\"I found myself\" plus a too-neat gerund tricolon",
+    "2": "none",
+    "3": "bare-verb list after the colon is a stiff, slightly off paraphrase",
+    "4": "frictionless parallel sentences and an overly even cadence",
+    "5": "none"
+  },
+  "reason": "Version 5 has a specific voice and uneven rhythm a skilled writer would actually choose, while 4, 1, and 3 are increasingly smooth near-duplicates and version 2 is vague and clichéd.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "E",
+    "3": "A",
+    "4": "B3",
+    "5": "C"
+  }
+}

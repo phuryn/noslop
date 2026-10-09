@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1,
+    "4": 4,
+    "5": 5
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Uses the common AI phrase 'where we might fit'.",
+    "3": "none",
+    "4": "Two consecutive polite questions and formal phrasing like 'provide refrigerated trucking' feel AI-smoothed.",
+    "5": "Repetitive 'Would you be open to...' and a duplicate 'Hi' after the greeting, plus vague 'do a lot of refrigerated trucking'."
+  },
+  "reason": "Version 3 reads most naturally human because it is direct and avoids AI-style filler, but Version 1 is the best send because it pairs that directness with a clearer, more specific call to action.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "B3",
+    "4": "O",
+    "5": "E"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1,
+    "4": 4
+  },
+  "send": "3",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "none",
+    "4": "Stacked stock empathy phrases and repeated apologies make it feel padded and templated."
+  },
+  "reason": "Version 3 balances a specific apology with a clear remedy and natural, concise phrasing. Version 1 slightly downplays the delay; version 2's apology feels less integrated after the resolution, though neither is a reliable sign of AI authorship.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "track2/B3-int",
+    "3": "B3",
+    "4": "O"
+  }
+}

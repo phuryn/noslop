@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 3,
+    "5": 5
+  },
+  "send": "1",
+  "tells": {
+    "1": "The stock phrase 'the heat, the cold, and everything in between' is the clearest formulaic touch.",
+    "2": "'The number is our members’ too' feels like a strained transition introduced to compress the post.",
+    "3": "'Which is what a co-op is for' supplies a generic explanation, while 'get something out of it too' sounds oddly detached.",
+    "4": "Stacked promotional intensifiers—'blazing,' 'freezing,' 'every single,' 'real money,' 'lasting career'—suggest a mechanical effort to add energy.",
+    "5": "The symmetrical 'That number belongs to our crews' / 'It also belongs to our members' gives it a conspicuously templated structure."
+  },
+  "reason": "Version 1 has the most natural pacing, direct gratitude, and measured recruitment language; version 2 is tighter but has an awkward transition. These are editorial impressions, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "B3",
+    "3": "A",
+    "4": "C",
+    "5": "O"
+  }
+}

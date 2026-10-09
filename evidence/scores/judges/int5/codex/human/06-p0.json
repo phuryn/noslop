@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3,
+    "4": 4
+  },
+  "send": "2",
+  "tells": {
+    "1": "Familiar lifestyle imagery followed by the generic reassurance, “Give yourself something to look forward to each month.”",
+    "2": "none",
+    "3": "The subscriber anecdote, bestseller claim, and subscriber count feel crammed together to supply credibility rather than shaped into a coherent section.",
+    "4": "Repeated balanced slogans and sentence fragments—“A little measuring done. A little joy delivered.”—make the warmth feel manufactured."
+  },
+  "reason": "Version 2 has the most natural rhythm and keeps the offer clear without overselling the experience. Version 3 adds potentially useful specifics, but they need verification and better integration; these rankings judge how the writing reads, not who actually wrote it.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "track2/A-int",
+    "3": "track2/B5-int",
+    "4": "O"
+  }
+}

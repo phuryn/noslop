@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 1,
+    "4": 5,
+    "5": 3
+  },
+  "send": "3",
+  "tells": {
+    "1": "none",
+    "2": "Over-editorialized filler like 'One of the lovely things about...' and 'Those visits helped us get here' reads as AI-warmed.",
+    "3": "none",
+    "4": "Too structurally polished: em-dash transitions, 'Ten years ago... Today...', and balanced repetition feel like AI copywriting.",
+    "5": "Compressed, symmetrical phrasing plus the stock line 'One of the lovely things about...' makes it feel like a clean AI edit."
+  },
+  "reason": "Version 3 has the most natural, personal voice and warmth, so it reads like a skilled human wrote it and is the one I would publish.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "C",
+    "4": "O",
+    "5": "B5"
+  }
+}

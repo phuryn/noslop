@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 3,
+    "4": 1
+  },
+  "reason": "Version 4 keeps every fact and the hedge almost word for word. Version 1 ranks last because it turns the hedged 'I think' into the certain 'I saw' and adds a 'good fit' claim. Versions 2 and 3 keep all facts and the hedge but drop the conditional 'if it sounds of interest', and 3 also shifts 'interested in a role' to 'want to hear about'.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B5",
+    "3": "B3",
+    "4": "A"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "send": "3",
+  "reason": "It keeps all the substantive facts and the welcoming tone without adding promotional flourishes. It is the closest match to the original wording and intent.",
+  "label_to_arm": {
+    "1": "V6C",
+    "2": "A",
+    "3": "B5",
+    "4": "C",
+    "5": "E",
+    "6": "V6A"
+  },
+  "picked_arm": "B5"
+}

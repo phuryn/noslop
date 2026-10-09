@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 1
+  },
+  "reason": "Version 3 preserves the original meaning most completely, including the fuller-picture benefit. Version 2 keeps the main facts and care-tracking nuance but omits the final benefit claim; Version 1 drops the guide-care nuance and changes the final claim to merely being addable.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "B3",
+    "3": "track2/B3-int"
+  }
+}

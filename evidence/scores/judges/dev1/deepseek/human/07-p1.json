@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 1,
+    "4": 5,
+    "5": 3
+  },
+  "send": "3",
+  "tells": {
+    "1": "none",
+    "2": "Formal phrasing like 'remaining piece' and 'target date'",
+    "3": "none",
+    "4": "Stilted construction 'The Android biometric flow is the remaining piece' plus formal 'target date'",
+    "5": "Polished compression 'with only the Android biometric flow left' plus formal 'target date'"
+  },
+  "reason": "Version 3 reads most like a natural teammate update, using contractions and casual phrasing while staying clear. The others lean more formal or compressed, which makes them feel less human.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "O",
+    "3": "C",
+    "4": "B3",
+    "5": "A"
+  }
+}

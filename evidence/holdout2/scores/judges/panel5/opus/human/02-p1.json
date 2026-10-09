@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 1,
+    "3": 2,
+    "4": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "Padded, symmetrical structure: the 'work, keep in touch or relax' triad, then a closing that both thanks for patience and repeats the apology already made in the opening.",
+    "2": "none",
+    "3": "Stock sign-off 'Thank you for your patience,' which reads as boilerplate after a nine-hour outage the company caused.",
+    "4": "Formulaic rule-of-three ('work, keep in touch or relax at home') plus a slightly forced inverted opener ('You were without internet..., and we're sorry')."
+  },
+  "reason": "Version 2 is direct and specific. It owns the failure plainly and states the remedy without a stock thank-you or a repeated apology. The others add tidy triads or ritual closings that dilute an otherwise sincere message.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B3",
+    "3": "A",
+    "4": "B5"
+  }
+}

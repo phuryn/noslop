@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 5,
+    "3": 1,
+    "4": 3,
+    "5": 4
+  },
+  "reason": "Version 3 keeps every fact, caveat and sentiment, including the closing 'pause and say thank you.' Version 1 is near-verbatim but drops that closing line. Version 4 keeps all the content but changes some nuance: 'careful' becomes 'slow', 'rarely noticed' becomes 'most people never see it', and it adds a credit disclaimer. Version 5 drops 'care' and the closing line. Version 2 adds 'over' and 'today', drops 'by hand' and 'worn again', and loses the caveat that 1,000 tonnes is a small part of textile waste.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "E",
+    "3": "B5",
+    "4": "C",
+    "5": "A"
+  }
+}

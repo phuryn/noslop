@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "The 'third plate of the night' feels like manufactured kitchen specificity: the third plate hardly tests consistency under pressure.",
+    "2": "The tidy trio of scheduling benefits adds a sweeping promise—'a schedule you can plan a life around'—that the stated opening hours don't establish.",
+    "3": "none",
+    "4": "The bold template headings and polished recruitment phrases make the voice feel more packaged than personal."
+  },
+  "reason": "Version 1 has the best balance of voice, concrete responsibilities and readable prose, although its scheduling promises need verification. Version 3 feels plausibly human but ranks last as skilled writing for this purpose because it is repetitive, vague and unnecessarily discouraging; stylistic tells don't establish authorship.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "gen/E-write",
+    "4": "O"
+  }
+}

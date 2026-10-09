@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 5,
+    "5": 6,
+    "6": 7,
+    "7": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "Stock sign-off: \"We look forward to welcoming you.\"",
+    "4": "none",
+    "5": "\"It's that time of year again!\" plus \"looking forward to welcoming you\"",
+    "6": "Filler opener and \"simply walk in,\" then the same stock welcome",
+    "7": "none"
+  },
+  "reason": "1 and 2 are identical and sound like a real local note—specific, warm, and correct—while 7 is nearly as natural; 6 is the most formulaic, and 5’s errors and hype keep it from reading as skilled. I would send 1.",
+  "label_to_arm": {
+    "1": "V6A",
+    "2": "V6C",
+    "3": "B5",
+    "4": "A",
+    "5": "E",
+    "6": "O",
+    "7": "C"
+  }
+}

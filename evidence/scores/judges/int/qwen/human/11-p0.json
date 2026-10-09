@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1,
+    "4": 4
+  },
+  "send": "3",
+  "tells": {
+    "1": "The bolded section labels and tidy triads give it a slightly templated, copywritten sheen.",
+    "2": "It is clear but sanded down into safe, generic job-ad prose with little distinctive texture.",
+    "3": "none",
+    "4": "The lowercase title and softened phrasing feel like a light machine edit; it lacks the sharper rhythm of the best versions."
+  },
+  "reason": "Version 3 feels most human because concrete details, benefits, and staff examples create credibility and a lived-in voice. Version 1 is strong but more packaged, while 2 and 4 are competent rather than distinctive.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B3",
+    "3": "track2/B3-int",
+    "4": "track2/A-int"
+  }
+}

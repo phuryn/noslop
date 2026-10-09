@@ -1,0 +1,29 @@
+{
+  "dropped": [],
+  "changed": [
+    {
+      "item": "'regular routes' became 'regular ... delivery needs', which loses the specific idea of covering routes",
+      "severity": "minor"
+    },
+    {
+      "item": "'cover regular routes or last-minute delivery needs' became 'some of your regular or last minute delivery needs', which narrows the scope to only part of their needs",
+      "severity": "minor"
+    },
+    {
+      "item": "'15 minutes' became 'about 15 minutes', which softens the time ask",
+      "severity": "minor"
+    },
+    {
+      "item": "'discuss where we might fit' became 'see if there's a fit', which shifts the framing from exploring where they fit to whether they fit at all",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "'We do a lot of refrigerated trucking' adds an unsupported claim about volume or scale",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

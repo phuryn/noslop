@@ -1,0 +1,11 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1
+  },
+  "reason": "Version 2 preserves all key facts and caveats, including \"injury, damage or harm\" and \"without exception,\" while Version 1 omits \"harm\" and weakens the requirement by dropping \"without exception.\" Version 2 also retains the \"early warning\" rationale more faithfully.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3"
+  }
+}

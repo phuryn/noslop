@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 5,
+    "4": 1,
+    "5": 4
+  },
+  "reason": "4 keeps the number, three-way sort, credited qualities, scale caveat, and closing pause, with only light attribution rephrasing. 2 drops that closing, 1 also omits “care,” 5 swaps careful and grateful for slow and lucky and adds a credit refusal, and 3 changes the figure, categories, and belief claim while dropping the waste-scale caveat.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "E",
+    "4": "B5",
+    "5": "C"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2
+  },
+  "reason": "Version 3 stays closest to the original's facts, tone, and commitments without adding unsupported material. Version 1 is also close but slightly overstates with 'All we did'; Version 2 uses writer-supplied facts but shifts the original's emphasis and loses some patient-care and lesson points.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "track2/B3-int",
+    "3": "B3"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2
+  },
+  "reason": "Version 1 preserves all key facts, numbers, and commitments without adding new limits. Version 3 is next because it retains 'only five months,' the stronger delay apology, and 'as soon as it ships,' while Version 2 weakens several of those details.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "track2/A-int",
+    "3": "track2/B3-int"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1
+  },
+  "reason": "Versions 2 and 3 keep every fact and commitment (5 months, 2-year warranty, replacement at no cost, tracking email, reply for questions); they drop only the closing thanks and repeated apology, and version 3 is marginally looser in wording. Version 1 keeps the courtesies but drops the explicit 'at no cost' commitment, a substantive loss.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "B3",
+    "3": "A"
+  }
+}

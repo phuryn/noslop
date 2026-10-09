@@ -1,0 +1,33 @@
+{
+  "dropped": [
+    {
+      "item": "The stated purpose of the delay was to 'get everything just right' (quality/polish), not just to gain time",
+      "severity": "minor"
+    },
+    {
+      "item": "Attribution that the team fixed the lighting rig issue ('The team got it sorted')",
+      "severity": "minor"
+    },
+    {
+      "item": "Bold emphasis on the volunteer request (4 volunteers this Saturday), which made it stand out as the key call to action",
+      "severity": "minor"
+    },
+    {
+      "item": "Closing status note that Deep Time is 'coming together beautifully'",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "'drop a 🙋 below' (post the emoji as a reply/comment) became 'react with 🙋' (add an emoji reaction), a slightly different response mechanism",
+      "severity": "minor"
+    },
+    {
+      "item": "'If you can lend a hand' became 'If you can make it', which shifts the framing from willingness to help toward availability to attend",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 6,
+    "3": 4,
+    "4": 1,
+    "5": 5,
+    "6": 3
+  },
+  "send": "4",
+  "tells": {
+    "1": "The closing phrase 'before making more of their own pressure data' feels vague and slightly awkward.",
+    "2": "No specific AI tell; repetitive wording, passive constructions, duplicated headings and broken encoding suggest inadequate editing.",
+    "3": "Stock conference phrasing such as 'This talk explores' and 'practical considerations' makes it feel somewhat templated.",
+    "4": "none",
+    "5": "Polishing strengthens the claims: 'helped lead' adds an unsupported leadership role, while the outcome becomes more directly causal.",
+    "6": "The conversational touches feel slightly manufactured, particularly 'leaks nobody knew about' and the unsupported promise of 'what didn't' work."
+  },
+  "reason": "Version 4 is concrete, readable and appropriately restrained about the contribution to the reported reduction. These rankings assess editorial feel, not evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "E",
+    "3": "O",
+    "4": "B3",
+    "5": "A",
+    "6": "C"
+  }
+}

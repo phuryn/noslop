@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 5,
+    "3": 1,
+    "4": 3,
+    "5": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "The cluster of familiar sentiments—“a privilege,” “find their voice again,” and “for years to come”—feels formulaic.",
+    "3": "none",
+    "4": "“It's worth looking after what comes next” feels strained, as though trying to make an ordinary sentiment sound distinctive.",
+    "5": "“Find its voice again is a privilege” combines familiar promotional phrases without adding personal detail."
+  },
+  "reason": "Version 3 sounds most like a working craftsperson, though its final sentence is slightly awkward. I would publish version 1 for its clear chronology, restrained warmth, and clean phrasing; these rankings reflect stylistic impressions, not evidence of authorship.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "O",
+    "3": "A",
+    "4": "C",
+    "5": "B5"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 1,
+    "4": 3
+  },
+  "reason": "Version 3 best preserves the original's factual details and core commitments (full product name, 2-year warranty, replacement battery, tracking). Version 1 is close but drops the brand name in the body; Version 4 keeps the core facts but omits the offer of help; Version 2 changes 'replacement battery' to 'new battery' and alters warranty phrasing the most.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "C",
+    "3": "B3",
+    "4": "A"
+  }
+}

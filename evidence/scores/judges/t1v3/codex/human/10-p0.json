@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 1
+  },
+  "send": "5",
+  "tells": {
+    "1": "The conspicuous pivot 'On a happier note' feels scripted and risks trivializing the price increase.",
+    "2": "none",
+    "3": "The generic benefit explanation and 'part of our community' closing feel mildly templated.",
+    "4": "Formal wording such as 'the new $135 rate will take effect for you' makes a simple announcement feel overprocessed.",
+    "5": "none"
+  },
+  "reason": "Version 5 makes the pricing timeline explicit while keeping the tone direct, natural, and considerate; version 2 is a close second. These are editorial judgments about how the writing reads, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B",
+    "3": "B3",
+    "4": "O",
+    "5": "A"
+  }
+}

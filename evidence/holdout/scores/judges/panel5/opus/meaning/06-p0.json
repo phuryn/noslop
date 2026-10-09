@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 3,
+    "3": 1,
+    "4": 2
+  },
+  "reason": "Version 3 matches the original word for word, and Version 4 only reorders the compatibility check without losing any facts. Version 2 drops the opening purpose and narrows the temperature rule to 'while it cures'; Version 1 adds an unsupported 'easy fix' claim and softens the firm 50°F requirement to 'try to work when it's at least 50°F'.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B5",
+    "3": "A",
+    "4": "B3"
+  }
+}

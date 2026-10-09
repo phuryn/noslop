@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 6,
+    "4": 5,
+    "5": 2,
+    "6": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "The familiar phrase 'the care they need when they need it' adds a slightly generic marketing note.",
+    "2": "The stacked sentence fragments and 'What I took from this' takeaway make the conversational voice feel engineered.",
+    "3": "none",
+    "4": "The explicit benefits list, generalized leadership lesson, and engagement question form a conspicuously formulaic LinkedIn structure.",
+    "5": "'Meeting patients where they already are' supplies a stock takeaway to an otherwise direct account.",
+    "6": "'What I took from this is that sometimes the biggest operational wins...' sounds like an obligatory, generic lesson."
+  },
+  "reason": "Version 1 delivers the result, operational explanation, and patient impact with the least padding. These rankings assess editorial skill and naturalness, not actual authorship; version 3's awkward syntax and repetition make it the least polished despite its less formulaic voice.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "E",
+    "4": "O",
+    "5": "B3",
+    "6": "B5"
+  }
+}

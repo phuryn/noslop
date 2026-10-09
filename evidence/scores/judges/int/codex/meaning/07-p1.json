@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3
+  },
+  "reason": "All three preserve the facts, approximate completion figure, and schedule caveat. The distinctions are minimal: version 2 retains the standalone schedule statement, version 1 combines it with the remaining work, and version 3 adds slight emphasis through “only.”",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "track2/B3-int",
+    "3": "track2/A-int"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "send": "none",
+  "reason": "Versions 1–3 keep seven as a firm cutoff instead of reflecting my uncertainty about age and breed. Version 4 sounds closer to me, but “One was a beagle” incorrectly places the dog diagnosed three years ago among last year’s abnormal results.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "E",
+    "3": "track2/A-int",
+    "4": "track2/B5-int"
+  },
+  "picked_arm": "none"
+}

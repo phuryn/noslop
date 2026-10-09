@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 6,
+    "2": 1,
+    "3": 5,
+    "4": 3,
+    "5": 2,
+    "6": 4
+  },
+  "send": "4",
+  "tells": {
+    "1": "Too polished and aphoristic: the 'didn't feel triumphant so much as quietly astonished' contrast, the 'somehow the kindest thing' hedge, and the tidy closing room-in-my-house metaphor.",
+    "2": "none. It reads human, with present tense, uneven punctuation, the slip 'weekly few hours a week' and the self-deprecating aside about being a fifty-two-year-old woman.",
+    "3": "Smoothed, balanced cadence with an epiphany metaphor ending ('as if I'd discovered a room in my own house') and a 'not X so much as Y' construction.",
+    "4": "Evenly controlled rhythm and a neat colon-led summary line ('oddly restful: one morning a week when...').",
+    "5": "A forced casual insert ('humbling, sure,') and a one-line dramatic final paragraph built on 'I didn't feel triumphant. I felt...'",
+    "6": "Choppy 'It was somehow the kindest thing' fragment after the 'flaw' contrast was cut, plus a colon-packaged summary line."
+  },
+  "reason": "Version 2 has the rough, unpolished texture of a real writer, but its errors make it unpublishable as is. Version 4 keeps the strongest images and insight in clean, natural prose without version 5's forced casualness or version 1's over-engineered contrasts.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "E",
+    "3": "B3",
+    "4": "B5",
+    "5": "C",
+    "6": "A"
+  }
+}

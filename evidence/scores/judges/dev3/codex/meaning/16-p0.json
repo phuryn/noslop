@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2,
+    "4": 4
+  },
+  "reason": "Version 1 preserves nearly all meaning, though it drops the explicit description of the actions as habitual; version 3 changes limited thought about leaving into no thought. Version 2 further strengthens this to 'never' and makes retirement 'just' a date, while version 4 adds unsupported details such as reflection lasting the whole drive and an explicit aim to teach better, and weakens the final contrast.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "B5",
+    "3": "A",
+    "4": "C"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "send": "3",
+  "reason": "It preserves the original facts, preorder commitment, price, and call to action while matching the writer's structure and tone most closely.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "E",
+    "3": "V6C",
+    "4": "A",
+    "5": "B5",
+    "6": "V6A"
+  },
+  "picked_arm": "V6C"
+}

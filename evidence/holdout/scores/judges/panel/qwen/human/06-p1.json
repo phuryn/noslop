@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2,
+    "4": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Template-like step sequence and formal phrasing such as 'compatible' and 'exposing it to rain.'",
+    "3": "Generic procedural cadence, especially the robotic 'Keep the temperature at or above 50°F.'",
+    "4": "Same boilerplate as version 2, with only a smart apostrophe differing, making it feel duplicated rather than authored."
+  },
+  "reason": "Version 1 has the most natural, hands-on voice and concrete details, so it reads most like a person. I would publish it despite the slightly misplaced compatibility reminder because it feels more credible and engaging than the templated alternatives.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B3",
+    "4": "O"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 5,
+    "3": 1,
+    "4": 2,
+    "5": 4
+  },
+  "send": "4",
+  "tells": {
+    "1": "none; the stock bookend apologies and repeated product name read like a human using a template",
+    "2": "Canned empathy filler ('That's not the experience we want you to have', 'reaching out', 'we'll be glad to help') plus a doubled apology sign-off",
+    "3": "none",
+    "4": "Mild: the parallel 'I'm sorry... and sorry...' opener is a bit neat",
+    "5": "Over-trimmed into curtness ('reply to this message'), like a mechanical compression pass"
+  },
+  "reason": "Version 4 is warm, complete and efficient. It keeps a consistent formal register and avoids both the padded empathy of 2 and the clipped coldness of 5. Version 3 is equally natural, but 'Hi Ms.' mixed with 'Best' is a slight register mismatch for a complaint reply.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "O",
+    "3": "C",
+    "4": "B3",
+    "5": "A"
+  }
+}

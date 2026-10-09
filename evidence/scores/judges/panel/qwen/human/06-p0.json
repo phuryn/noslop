@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 1,
+    "4": 5,
+    "5": 3
+  },
+  "send": "3",
+  "tells": {
+    "1": "The clipped fragments, especially 'A little measuring done. A little joy delivered.', feel a bit manufactured rather than observed.",
+    "2": "Compressed phrasing such as 'start at the mixing' and 'gives you a bake' sounds slightly unnatural.",
+    "3": "none",
+    "4": "Redundant and awkward wording, especially 'don't have to measure our pre-measured dry ingredients,' plus generic 'scrumptious/yummy' language.",
+    "5": "It reads like a safe paraphrase, with mildly unnatural phrasing such as 'Skip the weighing out' and 'which leaves more time'."
+  },
+  "reason": "Version 3 sounds the most natural and clear while keeping a warm, human tone. Version 1 is polished but slightly overcrafted; Version 4 is the most obviously weak.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "A",
+    "3": "C",
+    "4": "E",
+    "5": "B3"
+  }
+}

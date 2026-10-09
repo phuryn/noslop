@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 5,
+    "5": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Brochure KPI cadence in 'finished last year with a 99.2% on-time rate,' then a clipped template ask.",
+    "3": "Corporate 'We provide' opener plus two stacked polite questions ending in 'where we might fit.'",
+    "4": "Back-to-back 'Would you be open to' questions, a repeated soft-ask pattern.",
+    "5": "Performed warmth: 'we'd be glad to pitch in' and 'where we might fit.'"
+  },
+  "reason": "Version 1 reads like someone in the business: concrete 'loads,' a plain on-time result, and one clear ask. The others flatten into brochure stats, stack polite questions, or add stock friendliness, and version 4 is too clumsy to sound skilled.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "O",
+    "4": "E",
+    "5": "C"
+  }
+}

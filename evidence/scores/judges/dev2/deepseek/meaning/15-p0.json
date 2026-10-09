@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": "4",
+    "2": "2",
+    "3": "3",
+    "4": "1"
+  },
+  "reason": "Version 4 preserves nearly all substantive meaning, facts, commitments, and caveats with only stylistic rewording. Version 2 keeps the key premium commitment but drops some progress/benefit wording, Version 3 omits the premium unlock benefit, and Version 1 simplifies several original points.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B5",
+    "3": "B3",
+    "4": "C"
+  }
+}

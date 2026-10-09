@@ -1,0 +1,11 @@
+{
+  "send": "4",
+  "reason": "It's the only version that drops the 'date on the calendar' framing I said wasn't true, and it uses only what I gave: period 4 AP Chem, the elephant toothpaste demo, Amina and her daughter, and feeling relieved as much as sad. It invents nothing, though it loses the general lines about lessons and students I still wonder about.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "track2/A-int",
+    "3": "E",
+    "4": "track2/B5-int"
+  },
+  "picked_arm": "track2/B5-int"
+}

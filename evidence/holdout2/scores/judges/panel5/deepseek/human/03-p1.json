@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 1,
+    "4": 4
+  },
+  "send": "3",
+  "tells": {
+    "1": "The closing 'Tell me if I missed anything' feels more abrupt and less natural than the smoother 'let me know' phrasing used elsewhere.",
+    "2": "none",
+    "3": "none",
+    "4": "Bold section labels and uniformly capitalized bullet items create an over-structured, template-like feel typical of AI-generated summaries."
+  },
+  "reason": "Version 3 reads as the most natural and professional recap, with clear summary prose and plain action items. Version 4’s bolded structure feels the most AI-generated, so I would send version 3.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "B5",
+    "4": "O"
+  }
+}

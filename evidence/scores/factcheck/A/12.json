@@ -1,0 +1,44 @@
+{
+  "dropped": [
+    {
+      "item": "The general claim that everyday operational pressure data can help reveal leaks that might otherwise go unnoticed. The edit narrows it to what one utility did.",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "Abstract: 'help reduce non-revenue water from 14% to 9%' became 'cut non-revenue water from 14% to 9%'. Dropping 'help' attributes the full reduction to the leak-finding work.",
+      "severity": "minor"
+    },
+    {
+      "item": "'leaks that might otherwise go unnoticed' (hypothetical) became 'leaks that had gone unnoticed' (an asserted fact about the leaks found).",
+      "severity": "minor"
+    },
+    {
+      "item": "'practical considerations for utilities looking to make better use of their existing pressure data' became 'what other utilities should consider before doing the same'. The scope shifts from making better use of data generally to replicating this specific effort.",
+      "severity": "minor"
+    },
+    {
+      "item": "Bio: the speaker's role changed from 'helped use existing pressure data' to 'helped lead the effort', which raises the claimed role to leadership.",
+      "severity": "major"
+    },
+    {
+      "item": "Bio: 'helped ... reduce non-revenue water' became 'the effort ... which brought non-revenue water down'. The reduction is now attributed directly and solely to the effort.",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "The speaker helped lead the effort (a leadership role not in the original).",
+      "severity": "major"
+    },
+    {
+      "item": "The talk is framed as covering 'what the team learned', which implies a team.",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [
+    "helped lead the effort"
+  ],
+  "meaning_preserved": 4
+}

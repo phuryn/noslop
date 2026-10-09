@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 1,
+    "3": 6,
+    "4": 2,
+    "5": 3,
+    "6": 5
+  },
+  "send": "4",
+  "tells": {
+    "1": "The closing 'every tonne in that 1,000 passed through someone's hands first' reads as a crafted punchline, and the post ends abruptly on a downbeat line with no warm close",
+    "2": "none",
+    "3": "Staged reveal: 'I want to be clear about where it comes from. It comes from...'",
+    "4": "Slightly polished aphoristic line ('every tonne of that 1,000 passed through someone's hands first'), otherwise none",
+    "5": "Clipped, over-tidied sentences, and it ends flatly on 'a small part of the textile waste out there' with no sign-off",
+    "6": "'Not X, it's Y' framing: 'it isn't mine to take credit for. It belongs to...'"
+  },
+  "reason": "Version 2 has the most natural, unpolished human voice, but it buries the number behind a vague opener. Version 4 leads with the concrete milestone, credits the team plainly, and keeps a warm close without obvious rhetorical scaffolding, so it is the strongest to publish.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "E",
+    "3": "O",
+    "4": "B5",
+    "5": "B3",
+    "6": "C"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "Templated 'Highlights'/'Ask' headers and bullets for only three short facts, plus a stock 'Thanks for your continued support' closer",
+    "2": "none",
+    "3": "Bolded bullet lead-ins followed by colon explanations, and markdown bold in an email subject, with filler like 'As always' and 'really appreciate'"
+  },
+  "reason": "Version 2 reads like a founder writing a short note: plain prose, no scaffolding, and the ask is clear. Version 3 has the bold-label-colon bullet pattern typical of AI output, and Version 1 sits between them with a structure that's heavier than the content needs.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "O"
+  }
+}

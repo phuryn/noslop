@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 3,
+    "4": 5,
+    "5": 1
+  },
+  "send": "5",
+  "tells": {
+    "1": "none",
+    "2": "forced conversational question and 'That's fixed.' feel like synthetic friendliness",
+    "3": "none",
+    "4": "none; the apostrophe error and inconsistent sections read as unedited human, not AI",
+    "5": "mildly templated bold-label structure, though still professional"
+  },
+  "reason": "Version 5 is the most publishable because it is scannable, concise, and credible. It reads like an edited release note, while 2 feels artificially chatty and 4 feels unpolished.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "C",
+    "3": "track2/B5-int",
+    "4": "E",
+    "5": "O"
+  }
+}

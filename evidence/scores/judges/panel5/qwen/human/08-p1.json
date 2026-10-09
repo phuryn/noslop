@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 1,
+    "4": 3,
+    "5": 6,
+    "6": 5
+  },
+  "send": "3",
+  "tells": {
+    "1": "The polished em-dash construction and tidy marketing closer feel a bit templated.",
+    "2": "none",
+    "3": "none",
+    "4": "The clipped, list-like cadence and abrupt price sentence feel somewhat mechanical.",
+    "5": "The rhetorical question plus stiff phrases like 'highly beneficial' and 'as it ages' sound generic and AI-ish.",
+    "6": "The closing phrase 'and more out of the checkup' feels awkward and assembled from variants."
+  },
+  "reason": "Version 3 sounds the most like a skilled human because it has natural rhythm, conversational phrasing, and a clear point without over-polishing. Version 5 feels the most formulaic, while Version 6 is close but slightly clunky at the end.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B3",
+    "3": "C",
+    "4": "A",
+    "5": "E",
+    "6": "B5"
+  }
+}

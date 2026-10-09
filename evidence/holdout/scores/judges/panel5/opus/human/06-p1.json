@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 3,
+    "4": 1,
+    "5": 5
+  },
+  "send": "2",
+  "tells": {
+    "1": "The fabric-compatibility check comes after the application step it should precede, a sequencing slip typical of assembled text. Otherwise the phrasing is uniformly formal (\"is compatible with,\" \"exposing it to rain\").",
+    "2": "none",
+    "3": "The \"Got a leaky tent seam? It's an easy fix.\" hook feels bolted on. \"Before you start, double-check\" appears mid-procedure, after the application step.",
+    "4": "none",
+    "5": "Word-for-word identical to version 1 apart from straight vs. curly apostrophes. It has the same misplaced compatibility check and the same stiff, uniform cadence."
+  },
+  "reason": "Versions 2 and 4 put the compatibility check before application and read cleanly. Version 4 has the most natural editorial rhythm, but version 2 keeps the topic-framing opening and fits the single-paragraph format, so it's the one I'd publish.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B3",
+    "3": "C",
+    "4": "B5",
+    "5": "A"
+  }
+}

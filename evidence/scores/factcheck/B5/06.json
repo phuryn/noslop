@@ -1,0 +1,21 @@
+{
+  "dropped": [
+    {
+      "item": "Tagline 'A little measuring done. A little joy delivered.' removed",
+      "severity": "minor"
+    },
+    {
+      "item": "Section heading 'Less measuring. More making.' replaced; the 'more making' framing is lost, though the body still says it leaves more time for stirring and baking",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "Monthly-bake scenarios are now framed with 'Maybe it's...' instead of stated as fragments. This slightly softens them, but the meaning is the same.",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

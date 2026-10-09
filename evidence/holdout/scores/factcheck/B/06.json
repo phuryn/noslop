@@ -1,0 +1,12 @@
+{
+  "dropped": [
+    {
+      "item": "The descriptor 'peeling' for the old seam sealer to remove (edit says only 'loose')",
+      "severity": "minor"
+    }
+  ],
+  "changed": [],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

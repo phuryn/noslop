@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 1
+  },
+  "send": "5",
+  "tells": {
+    "1": "none",
+    "2": "The neatly balanced contrast between successful and difficult lessons feels slightly packaged.",
+    "3": "“I found myself doing” adds unnecessary narrative cushioning, making the opening feel more processed.",
+    "4": "The repeated short sentences and closing “I just” feel engineered to simulate spontaneous speech.",
+    "5": "none"
+  },
+  "reason": "Version 5 has the strongest combination of concrete action, natural rhythm, and restrained emotion; version 2 comes close. Version 1's repetition and generalities put it last for skilled writing, while the stylistic signals in the others do not establish AI authorship.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "A",
+    "3": "O",
+    "4": "C",
+    "5": "B3"
+  }
+}

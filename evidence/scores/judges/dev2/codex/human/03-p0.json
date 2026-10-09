@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 5,
+    "3": 3,
+    "4": 2,
+    "5": 1
+  },
+  "send": "5",
+  "tells": {
+    "1": "none",
+    "2": "The rhetorical question and conspicuous casual phrasing feel like an effort to manufacture a conversational voice.",
+    "3": "none",
+    "4": "none",
+    "5": "none"
+  },
+  "reason": "Version 5 is concise, easy to scan, and appropriately matter-of-fact for release notes; version 4 is a close second. These are stylistic judgments, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "C",
+    "3": "B5",
+    "4": "A",
+    "5": "B3"
+  }
+}

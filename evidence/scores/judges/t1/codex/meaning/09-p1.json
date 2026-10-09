@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1
+  },
+  "reason": "Version 3 most closely preserves the original facts and commitments. Version 1 adds an explicit warranty-eligibility rationale and shifts tracking responsibility to the individual sender; version 2 also shifts responsibility and promises a new battery, whereas the original promises only a replacement.",
+  "label_to_arm": {
+    "1": "B",
+    "2": "C",
+    "3": "A"
+  }
+}

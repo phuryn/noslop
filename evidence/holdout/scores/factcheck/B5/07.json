@@ -1,0 +1,12 @@
+{
+  "dropped": [],
+  "changed": [
+    {
+      "item": "Passive 'you were charged twice' became active 'we charged you twice', so ParkWise is now explicitly the actor. This is a slightly stronger admission of responsibility, but it is consistent with the original saying the bug was in the ParkWise app.",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

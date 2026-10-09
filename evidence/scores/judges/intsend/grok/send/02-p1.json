@@ -1,0 +1,11 @@
+{
+  "send": "2",
+  "reason": "It is the only rewrite that keeps the same-day 250-mile offer, defines the 99.2% on-time rate as a 2-hour window, leads with regular routes plus the 42-truck limit, mentions the March monitoring fix, and asks only for an intro call.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "track2/B5-int",
+    "3": "C",
+    "4": "E"
+  },
+  "picked_arm": "track2/B5-int"
+}

@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 6,
+    "4": 5,
+    "5": 2,
+    "6": 3,
+    "7": 7
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "An unbroken paragraph hinged on 'And I realised', then stacked intensifiers ('thought once', 'had ever', 'none of the money').",
+    "3": "Stock pivot 'Standing there, I realised' and an ending flattened to 'no longer waiting for my life to start.'",
+    "4": "Same template block as version 2: 'And I realised' plus parallel intensifiers, with no breath before the moral.",
+    "5": "Mild story-frame ('It happened on') and a neat tricolon ('knelt... worked... and felt').",
+    "6": "Casual synonym swaps ('fiddled', 'lugged', 'ages', 'honestly') over a muddled location clause.",
+    "7": "Heading collision ('The Change The change') and a collapsed timeline that makes her locked out for four months, then a generic 'feeling like I was happy.'"
+  },
+  "reason": "Version 1 has the surest essay judgment: a concrete scene, a real paragraph turn, British understatement, and an ending that stays inside the feeling. The others either smooth that beat into a template, synonym-swap toward casualness, or lose the facts.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "V6C",
+    "3": "A",
+    "4": "V6A",
+    "5": "O",
+    "6": "C",
+    "7": "E"
+  }
+}

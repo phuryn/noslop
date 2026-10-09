@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 3,
+    "3": 1,
+    "4": 2
+  },
+  "reason": "Version 3 is most faithful, preserving nearly all original meaning and details; version 4 is close but slightly compresses conditions and drops 'real.' Version 2 stays accurate but loses 'everything in between' and 'real money off,' while version 1 adds 'blazing/freezing' and 'lasting' and changes the opening milestone.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B5",
+    "4": "B3"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Awkward filler phrase 'declining for good reasons we can't reverse' and other slightly unnatural rephrasings.",
+    "3": "Markdown '##' headings and repeated 'We will' mitigations make it look generated.",
+    "4": "Heavy bolding of every item and repeated 'Mitigation:' labels feel like an AI template."
+  },
+  "reason": "Version 1 reads most like a real internal memo: direct, action-oriented, and restrained, with mitigations stated naturally. Version 4 is crisp but over-formatted, so I would send 1 for credibility and human feel.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "B5",
+    "3": "track2/A-int",
+    "4": "O"
+  }
+}

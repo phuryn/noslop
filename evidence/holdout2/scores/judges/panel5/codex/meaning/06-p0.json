@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3
+  },
+  "reason": "Version 2 preserves the original wording apart from apostrophe typography. Version 1 uses equivalent phrasing, while version 3 also shortens “press and hold” to “hold,” making the button action slightly less explicit.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "B5"
+  }
+}

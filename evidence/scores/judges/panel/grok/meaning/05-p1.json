@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3,
+    "4": 4
+  },
+  "reason": "Version 2 keeps every fact, number, commitment, and caveat, with only a section-label reframe, while version 1 adds that the system handles routine reassignments. Version 3 retains the full structure but shifts nuances such as harm versus risk and validating versus testing the target; version 4 omits secondary goals and non-goals, drops the baseline comparison for uncovered visits, and changes several definitions and claims.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "C",
+    "4": "E"
+  }
+}

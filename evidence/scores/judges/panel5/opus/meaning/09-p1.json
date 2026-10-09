@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 5,
+    "2": 2,
+    "3": 1,
+    "4": 3,
+    "5": 4
+  },
+  "reason": "Version 3 keeps every fact and commitment, including the thanks and the offer of help, and drops only the repeated closing apology and the 'Pedalpath' prefix. Version 1 drops 'at no cost', the most important commitment, so it ranks last; Versions 2, 4 and 5 progressively lose courtesies, and 5 also changes the subject line and shifts commitments from 'we' to 'I'.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "B3",
+    "3": "B5",
+    "4": "A",
+    "5": "C"
+  }
+}

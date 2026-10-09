@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 2,
+    "4": 3
+  },
+  "reason": "Version 1 is nearly verbatim and keeps all original facts; version 3 is next with only slight rephrasing; version 4 adds or shifts minor wording like 'new transactions'; version 2 paraphrases most and adds intensifiers such as 'much sooner.'",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "B3",
+    "4": "B5"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 5,
+    "3": 1,
+    "4": 4,
+    "5": 3
+  },
+  "send": "3",
+  "tells": {
+    "1": "none",
+    "2": "“On a happier note” feels like a scripted attempt to soften unwelcome news; the explanation of the delayed increase is unnecessarily long.",
+    "3": "none",
+    "4": "Slightly formulaic formality in “will take effect for you” and “Thank you for being part of our community,” though neither reliably indicates AI.",
+    "5": "none"
+  },
+  "reason": "Version 3 separates the general increase from the current-member timeline and keeps the class announcement straightforward. Versions 1 and 5 are close contenders; 4 sounds more templated, while 2 works too hard to sound conversational.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "C",
+    "3": "A",
+    "4": "O",
+    "5": "B5"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 5,
+    "2": 3,
+    "3": 2,
+    "4": 1,
+    "5": 4
+  },
+  "reason": "Version 4 preserves all original facts, commitments, and the patience acknowledgement with only minor wording changes. Version 3 is nearly identical but omits the closing thanks; Version 2 is also faithful but slightly less exact about the delivery date, while Version 5 changes the refund phrasing and omits the explicit inconvenience acknowledgement; Version 1 adds sentiment and changes the refund to a completed action.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B3",
+    "3": "A",
+    "4": "B5",
+    "5": "E"
+  }
+}

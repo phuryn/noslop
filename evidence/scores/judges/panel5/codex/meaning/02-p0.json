@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 1,
+    "4": 5,
+    "5": 3
+  },
+  "reason": "Version 3 best preserves the facts and exploratory request; version 1 slightly strengthens the offer, while version 5 also shifts last-minute delivery help toward picking up loads. Version 2 adds blanket coverage with “anywhere” and narrows last-minute needs to “occasional,” while version 4 adds the unsupported claim that the company does “a lot” of refrigerated trucking.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "C",
+    "3": "B5",
+    "4": "E",
+    "5": "A"
+  }
+}

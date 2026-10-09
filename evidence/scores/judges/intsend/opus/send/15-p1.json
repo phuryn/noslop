@@ -1,0 +1,11 @@
+{
+  "send": "4",
+  "reason": "It keeps every fact, commitment and caveat from my draft, including the subscription terms and the medical disclaimer. It also uses only what I confirmed: 312 videos, custom PT-built programs in Premium, the skipped-exercises focus and Gwen's story, while avoiding the progress-view and PT-access details I said I didn't know.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "E",
+    "3": "track2/A-int",
+    "4": "track2/B5-int"
+  },
+  "picked_arm": "track2/B5-int"
+}

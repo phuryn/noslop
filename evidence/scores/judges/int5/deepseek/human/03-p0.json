@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 3,
+    "3": 2,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "Repeated 'now' and the abrupt fragment 'Before, they didn't.'",
+    "2": "Slightly wordy, mechanical phrasing ('instead of every hour', 'You can now update').",
+    "3": "none",
+    "4": "none"
+  },
+  "reason": "Version 4 is the most polished, scannable, and natural while explaining benefits clearly; Version 1 is the least polished with a choppy fix description.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "track2/B5-int",
+    "3": "track2/A-int",
+    "4": "O"
+  }
+}

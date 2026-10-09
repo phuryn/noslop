@@ -1,0 +1,11 @@
+{
+  "send": "1",
+  "reason": "It keeps the original claims and caveats, and it uses the clarified facts: 312 PT-filmed videos, skipping as the core problem, the Gwen Harper example, and Premium as PT-built custom programs, without inventing access, progress-view, or free-tier details or changing the subscription terms.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "C",
+    "3": "track2/A-int",
+    "4": "E"
+  },
+  "picked_arm": "track2/B5-int"
+}

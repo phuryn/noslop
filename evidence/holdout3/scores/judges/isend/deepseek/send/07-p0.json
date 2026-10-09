@@ -1,0 +1,11 @@
+{
+  "send": "4",
+  "reason": "It preserves the original meaning, specifics, and professional tone while reading like a slightly tightened version of my own paragraph. The other versions either change voice or add claims I didn't make.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "E",
+    "4": "B5"
+  },
+  "picked_arm": "B5"
+}

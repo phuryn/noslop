@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 6,
+    "2": 4,
+    "3": 7,
+    "4": 3,
+    "5": 2,
+    "6": 1,
+    "7": 5
+  },
+  "send": "5",
+  "tells": {
+    "1": "Neat parallel 'No emails, no \"quick questions\"' fragment pair and a polished 'read on' hook; it is also word-for-word identical to version 3, which suggests templated generation",
+    "2": "Evenly balanced, frictionless sentences with a tidy 'first kind' callback; the cadence is slightly too smooth",
+    "3": "Identical to version 1, with the same parallel fragment pair and 'read on' hook",
+    "4": "Compressed, colon-heavy construction ('off, you're off: no emails...') that reads as a tightening pass",
+    "5": "'kit that's actually maintained' is the only mildly performative intensifier; otherwise none",
+    "6": "none. It has typical recruiter clichés ('great', 'fantastic team', exclamation mark, 'mutual benefit'), but these are human habits",
+    "7": "Over-polished phrasing like 'the former', 'properly off', and 'people we want to see back on the next rotation', with layered intensifiers"
+  },
+  "reason": "Version 6 reads as a genuine, if clunky, recruiter-written ad, while the rest are smooth rewrites. Of those, version 5 has the most concrete, natural voice ('you can tell within a day', 'you stop it'), so it is the strongest one to publish.",
+  "label_to_arm": {
+    "1": "V6A",
+    "2": "B5",
+    "3": "V6C",
+    "4": "A",
+    "5": "C",
+    "6": "E",
+    "7": "O"
+  }
+}

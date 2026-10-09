@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 2,
+    "5": 5,
+    "6": 6
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Consistently smooth but generic phrasing, especially 'an anniversary to celebrate' and 'One of the lovely things.'",
+    "3": "The balanced 'maybe reread, maybe passed along' ending feels deliberately arranged for wistfulness.",
+    "4": "Some flattening into generic statements, especially 'we started with what we could,' which adds little.",
+    "5": "none",
+    "6": "Stacked rhetorical patterns: 'Every shelf, every table, every book' followed later by two matching 'Maybe' sentences."
+  },
+  "reason": "Version 1 has the strongest voice, concrete detail and gentle humor; the borrowed book that never comes back makes the sentiment feel earned. Version 5 feels spontaneous but underedited, while version 6 feels conspicuously patterned; these are stylistic judgments, not reliable evidence of authorship.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B3",
+    "3": "B5",
+    "4": "A",
+    "5": "E",
+    "6": "O"
+  }
+}

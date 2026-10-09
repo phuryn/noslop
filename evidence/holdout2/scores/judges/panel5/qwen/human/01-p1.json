@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+  },
+  "send": "2",
+  "tells": {
+    "1": "none",
+    "2": "templated Highlights/Ask structure and a stock support-thanks closing",
+    "3": "headline-style bullet fragment and slightly clunky combined ask sentence",
+    "4": "Markdown bold overformatting and buzzwordy wrapped phrasing"
+  },
+  "reason": "Version 2 gives the best mix of scannability, clarity, and credible tone for an investor update, even if slightly templated. Version 1 feels most naturally human but is a bit abrupt and less structured.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "B5",
+    "4": "O"
+  }
+}

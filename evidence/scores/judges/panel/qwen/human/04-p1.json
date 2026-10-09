@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 5,
+    "3": 3,
+    "4": 4,
+    "5": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Choppy, repetitive sentence rhythm and bland transitions like 'Finally, a quick reminder' make it feel generated rather than edited.",
+    "3": "It reads like a flatter, punctuation-smoothed copy of version 1, with a slightly generic cadence.",
+    "4": "The phrasing is clear but plain, with connective tissue like 'After that' and 'A reminder for your diary' that feels templated.",
+    "5": "The chirpy opener and stacked colloquial touches feel slightly performed, and 'After that comes the hard bit: leave them alone' is a little awkward."
+  },
+  "reason": "Version 1 has the most natural editorial rhythm, clear instructions, and warm community tone without feeling over-written. It sounds like a person who actually writes the newsletter.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "E",
+    "3": "A",
+    "4": "B3",
+    "5": "C"
+  }
+}

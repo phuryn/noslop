@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 5,
+    "3": 2,
+    "4": 4,
+    "5": 1
+  },
+  "reason": "Keys are version labels and values are ranks; the order from most to least faithful is V5, V3, V1, V4, V2. V5 and V3 keep nearly everything (V3 loosens the 'so' causal link), V1 shifts the offer to share more into the chat, V4 drops the offer to share more, and V2 turns the 'I think' hedge into certainty ('I saw') and adds a 'good fit' claim.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "C",
+    "3": "B2",
+    "4": "B",
+    "5": "A"
+  }
+}

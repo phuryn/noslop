@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 4,
+    "4": 1
+  },
+  "reason": "Version 4 retains the most explicit original details, followed closely by version 2; version 1 additionally leaves the tracking email's recipient implicit. Version 3 introduces a promise of a new rather than simply replacement battery and shifts the company's tracking and assistance commitments to the individual sender.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B5",
+    "3": "C",
+    "4": "B3"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "send": "1",
+  "reason": "It incorporates the writer’s answers—period 4 AP Chemistry, the elephant toothpaste demo, Amina Yusuf, mixed feelings, and no plans—while omitting the retracted calendar, lesson, and question material. It keeps the facts and caveats without inventing details.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "track2/A-int",
+    "3": "E",
+    "4": "C"
+  },
+  "picked_arm": "track2/B5-int"
+}

@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1
+  },
+  "reason": "Versions 3 and 1 keep every fact; 3 drops only a repeated 'now we have two floors', while 1 drops the 'lovely things' sentiment. Version 2 uses the Okafor/Middlemarch story the writer wanted checked with him first, invents 'neighbors who keep reading it' and 'we're still thanking everyone who gave', and cuts several original lines, including the book-on-shelf post.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "track2/B3-int",
+    "3": "B3"
+  }
+}

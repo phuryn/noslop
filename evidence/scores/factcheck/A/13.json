@@ -1,0 +1,29 @@
+{
+  "dropped": [
+    {
+      "item": "'targeted' qualifier on customer outreach to mall-store customers",
+      "severity": "minor"
+    },
+    {
+      "item": "'natural exit' framing of the June 2027 lease end",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "Performance is 'tied to anchor tenants and mall health rather than to our own brand pull' softened to results 'track anchor tenants and mall health more than our own brand pull' (comparative rather than exclusive)",
+      "severity": "minor"
+    },
+    {
+      "item": "Denver staffing purpose changed from 'capture customers from the closing stores' (win them over) to 'serve customers from the closing stores'",
+      "severity": "minor"
+    },
+    {
+      "item": "Mitigations recast from proposed 'Mitigation:' items to firm 'We will...' commitments, raising certainty",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

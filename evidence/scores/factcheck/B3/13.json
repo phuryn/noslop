@@ -1,0 +1,21 @@
+{
+  "dropped": [
+    {
+      "item": "The 'Flexibility' label for rationale point 4 is gone. The point's content is fully kept.",
+      "severity": "minor"
+    },
+    {
+      "item": "The June 2027 expiry is no longer described as a 'natural' exit. The no-penalty exit itself is kept.",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "'the window to decide is the next few months' became 'we need to decide in the next few months', which is slightly more directive but means the same.",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

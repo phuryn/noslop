@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 5,
+    "4": 4,
+    "5": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Leans on stacked clichés ('rough season', 'fell short', 'same boat') and the slightly awkward 'However your winter prep is going'.",
+    "3": "Template-like welcome-first structure and mechanical transition ('With October here, we're turning to helping...').",
+    "4": "Competent but press-release plain; 'New winter feed fondant is in stock' feels like inserted copy rather than a natural newsletter voice.",
+    "5": "Over-folksy opening ('kept us on our toes') and cosy filler give it a performed, AI-ish warmth."
+  },
+  "reason": "Version 1 feels the most natural and community-minded, with enough warmth and practical detail without overplaying seasonal clichés. I would send it, though in a fuller edit I might move the welcome line earlier.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "C",
+    "3": "B3",
+    "4": "A",
+    "5": "O"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1
+  },
+  "send": "3",
+  "tells": {
+    "1": "The generic takeaway about 'meeting patients where they already are' turns a concrete result into a predictable business lesson.",
+    "2": "The announcement of a three-item list, polished takeaway and closing engagement question feel like a LinkedIn template.",
+    "3": "The concentration of precise details, exceptions and admissions of uncertainty feels slightly engineered for authenticity."
+  },
+  "reason": "Version 3 reads most like someone reflecting on actual operational experience, with useful detail and unresolved questions; I would publish it assuming those details are accurate. Version 1 is clear but generic, while version 2 adds formulaic structure without adding substance.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "O",
+    "3": "track2/B2-int"
+  }
+}

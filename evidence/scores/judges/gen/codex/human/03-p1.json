@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 1,
+    "4": 3
+  },
+  "send": "3",
+  "tells": {
+    "1": "none",
+    "2": "Generic praise ('great new features') adds hype without information, though it isn't specific to AI.",
+    "3": "none",
+    "4": "none"
+  },
+  "reason": "Version 3 is concise, easy to scan, and states the fix directly; version 1 is nearly as strong. Version 4 is clear but loses useful scanning labels, while version 2 feels less carefully edited because of its inconsistent phrasing and promotional introduction.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "gen/E-write",
+    "3": "B3",
+    "4": "A"
+  }
+}

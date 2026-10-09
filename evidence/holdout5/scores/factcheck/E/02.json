@@ -1,0 +1,33 @@
+{
+  "dropped": [],
+  "changed": [
+    {
+      "item": "The original proposes replacing Hearth & Wick's 'polystyrene packaging'. The edit narrows this to 'your polystyrene inserts', which assumes the polystyrene is specifically inserts.",
+      "severity": "minor"
+    },
+    {
+      "item": "'We can supply 5,000 units a month' became 'We can make 5000 a month for Hearth & Wick'. The claim shifts from supply capacity to production capacity and implies the units are dedicated to Hearth & Wick.",
+      "severity": "minor"
+    },
+    {
+      "item": "'Samples are free' (a plain fact) became 'would love to send some over for you to test for free'. This is a softer offer, but the substance is the same.",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "Product claims that the inserts are 'sustainable, high quality and beautiful'. These are qualitative selling claims that aren't in the original.",
+      "severity": "minor"
+    },
+    {
+      "item": "An explanation that the inserts are 'made from mushroom (Mycelium)'. This is a slightly loose gloss, since mycelium is the root network of fungi, not the mushroom itself.",
+      "severity": "minor"
+    },
+    {
+      "item": "A redundant second greeting, 'Hi there!', after 'Hi Priya,'.",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

@@ -1,0 +1,13 @@
+{
+  "send": "5",
+  "reason": "It keeps every fact, date, caveat, and ask from the original, including that all tickets move, the inbox stays lookup-only with no replies or updates, and training is due Friday. It also matches the casual Slack voice with the same structure, emphasis, and tone.",
+  "label_to_arm": {
+    "1": "V6A",
+    "2": "B5",
+    "3": "A",
+    "4": "C",
+    "5": "V6C",
+    "6": "E"
+  },
+  "picked_arm": "V6C"
+}

@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 3,
+    "4": 1
+  },
+  "send": "2",
+  "tells": {
+    "1": "Bolded lead-in on every bullet plus the generic signpost 'The consequences are significant:', a templated, uniformly polished structure.",
+    "2": "Mild: uniformly balanced, evenly polished bullets with no rough edges, though it avoids bold lead-ins and empty signposting.",
+    "3": "Bolded lead-in on every bullet and the snappy fragment header 'What this costs:', plus the 'only for exceptions, not for routine reassignments' contrast construction.",
+    "4": "none"
+  },
+  "reason": "Version 4 is unmistakably human (typos, a broken table, unfinished 'other goals' and 'non-goals' sections), but it is incomplete and unprofessional, so it isn't sendable. Version 2 has the same complete content as 1 and 3 in plainer prose with real subheadings and fewer stylistic tells, so it is the most credible to publish.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "A",
+    "3": "B3",
+    "4": "E"
+  }
+}

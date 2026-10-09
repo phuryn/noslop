@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2
+  },
+  "reason": "Version 2 keeps the prices, dates, member rate lock through March 1, class purpose, and question scope. Version 3 is close but softens the March 1 effective date and narrows questions to the price change, while version 1 drops the “more options during the week” purpose and changes the community thanks.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "B3",
+    "3": "track2/B3-int"
+  }
+}

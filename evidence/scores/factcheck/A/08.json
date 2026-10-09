@@ -1,0 +1,29 @@
+{
+  "dropped": [
+    {
+      "item": "Mention that the annual visit includes vaccines (original says the visit should include 'more than vaccines', implying vaccines are part of it)",
+      "severity": "minor"
+    },
+    {
+      "item": "Baseline 'helping guide care' as the dog ages (the purpose of tracking results)",
+      "severity": "minor"
+    },
+    {
+      "item": "Framing of the $129 panel as 'a practical way to get a fuller picture of your dog's health and make the most of their yearly checkup' (soft call to action and benefit statement)",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "'Bloodwork can help spot changes' became 'It can show changes', which is a slightly stronger certainty about what bloodwork does",
+      "severity": "minor"
+    },
+    {
+      "item": "'before noticeable symptoms appear' became 'before symptoms appear', which broadens the claim to before any symptoms rather than before noticeable ones",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

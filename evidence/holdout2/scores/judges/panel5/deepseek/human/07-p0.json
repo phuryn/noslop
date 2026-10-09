@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2,
+    "4": 4
+  },
+  "send": "3",
+  "tells": {
+    "1": "none",
+    "2": "Formulaic headings and parallel bullet lists make it feel template-generated.",
+    "3": "Templated headings and action bullets, though prose sections keep it more natural.",
+    "4": "Overused bold formatting and a polished, symmetrical structure feel AI-generated."
+  },
+  "reason": "Version 3 best balances clarity and scannability with a credible, natural voice; it is clear for a time-sensitive policy but avoids the over-templated feel of 2 and 4.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "A",
+    "3": "B3",
+    "4": "O"
+  }
+}

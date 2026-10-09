@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 5,
+    "4": 4,
+    "5": 3,
+    "6": 6
+  },
+  "send": "2",
+  "tells": {
+    "1": "none obvious; only a slightly plain, templated cadence",
+    "2": "a lightly over-polished flourish in 'patches deserve a closer look'",
+    "3": "the unnatural phrase 'We count the 48 hours from the flight'",
+    "4": "the awkward collocation 'build the images into crop health maps'",
+    "5": "generic participial phrasing such as 'capturing images to build your crop health maps'",
+    "6": "salesy filler like 'For just', 'valuable insight', 'Simply' and 'Sit back'"
+  },
+  "reason": "Version 2 feels the most like a human landing-page writer: benefit-led, conversational and specific about price, coverage and turnaround. It is slightly glossy, but clearer and more engaging than the plainer alternatives.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "C",
+    "3": "A",
+    "4": "B3",
+    "5": "O",
+    "6": "E"
+  }
+}

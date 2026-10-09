@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 1,
+    "4": 5,
+    "5": 3
+  },
+  "send": "3",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "none",
+    "4": "none",
+    "5": "none"
+  },
+  "reason": "Version 3 is concise, natural, and clear enough for a team Slack update; version 2 is conversational but slightly wordier. The differences are small, and none contains a distinctive AI-writing tell.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "C",
+    "3": "B5",
+    "4": "O",
+    "5": "A"
+  }
+}

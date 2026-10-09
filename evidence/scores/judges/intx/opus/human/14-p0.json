@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 5,
+    "4": 4,
+    "5": 1
+  },
+  "send": "5",
+  "tells": {
+    "1": "Post 5 keeps the template's reflective 'Maybe it's been reread. Maybe it's been passed along.' cadence, and posts 2–3 read as flattened paraphrase. The concrete details (Middlemarch, Mr. Okafor, $38,000 GoFundMe) feel human but don't appear in any other version.",
+    "2": "none. It reads like an unpolished human draft, with clichés ('bursting at the seams'), redundancy, stacked exclamation points and a garbled sentence in post 5.",
+    "3": "Polished parallel structures: the 'every shelf, every table, every book' tricolon, em dashes, the 'But we did, and you came through the door' kicker and the paired 'Maybe… Maybe…' fragments.",
+    "4": "Same as 3 with the em dashes removed. It keeps the tricolon, the tidy 'But we did' beat and the symmetrical 'Maybe… Maybe…' close.",
+    "5": "It keeps the template's 'earn its spot' / 'And then you walked through the door' beats, and it slips from 'we' to 'My favorite' in post 5."
+  },
+  "reason": "Version 5 has the most natural voice, with humor ('Not bad,' the borrowed book never returned) and clear, warm pacing. Version 1's specific anecdotes would be stronger only if they're verified facts, since they appear nowhere else and could be invented.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "E",
+    "3": "O",
+    "4": "track2/A-int",
+    "5": "C"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "send": "4",
+  "reason": "It states what my on-time figure actually means, leads with regular routes, and keeps the limits on our capacity clear. The straightforward wording sounds like me, and it asks for the intro call I want without inventing a run or pushing a quote.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "E",
+    "3": "track2/A-int",
+    "4": "track2/B5-int"
+  },
+  "picked_arm": "track2/B5-int"
+}

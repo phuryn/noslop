@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 4,
+    "4": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "Each bullet ends in a tidy 'so you can...' benefit clause, and the closing 'see how far you've come' is a stock phrase",
+    "2": "none",
+    "3": "Generic marketing filler: 'guidance you can trust', 'keep your recovery moving', 'unlock more of what the app has to offer'",
+    "4": "Over-flattened and repetitive: back-to-back 'so...' clauses and stiff lines like 'Each video shows the form for the movement'"
+  },
+  "reason": "Version 2 has the most authentic human quirks (exclamation point, 'Never miss a session again'), but its subscription terms are garbled ('renew within 24-hours prior'). Version 1 keeps a natural, warm tone with accurate billing language and without Version 3's puffery or Version 4's flatness, so it's the one I'd publish.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "E",
+    "3": "O",
+    "4": "A"
+  }
+}

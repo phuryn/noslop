@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2,
+    "4": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "joins the remaining-work note and the on-track claim with 'and', which links two unrelated points",
+    "3": "none, though the three short declarative sentences feel slightly clipped",
+    "4": "'and the Android biometric flow is the remaining piece' is a slightly stiff, formal construction where 'with X left' would be more natural"
+  },
+  "reason": "Version 1 is the tightest and most conversational, and 'with only the Android biometric flow left' sounds like how a person types in Slack. The versions differ only in syntax, so none shows a strong AI tell. 2 and 4 read a little more stilted because of how they join the clauses.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "B3",
+    "3": "O",
+    "4": "track2/B3-int"
+  }
+}

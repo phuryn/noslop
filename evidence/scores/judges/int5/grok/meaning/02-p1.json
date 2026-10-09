@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1
+  },
+  "reason": "Version 3 keeps the original offer, 99.2% figure, and tentative ask without new claims. Version 1 keeps that scope but turns “Could we help” into a stated desire; version 2 adds allowed caveats but drops last-minute needs and adds an unsourced claim that they may cover part of the volume.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "track2/B5-int",
+    "3": "track2/A-int"
+  }
+}

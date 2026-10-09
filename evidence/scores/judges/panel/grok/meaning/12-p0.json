@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 4,
+    "4": 3
+  },
+  "reason": "Version 2 keeps the “might otherwise” and “helped” hedges, the 14% to 9% figures, and the speaker’s role, with only minor framing shifts. Version 1 adds unsupported claims; version 4 invents a name and gender and drops the unnoticed caveat; version 3 is least faithful because it removes the “help” hedge, treats the leaks as definitely unnoticed, and inflates the role to “helped lead.”",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B3",
+    "3": "A",
+    "4": "E"
+  }
+}

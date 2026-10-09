@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 5,
+    "4": 2,
+    "5": 4
+  },
+  "reason": "Version 2 keeps every fact plus 'privilege' and 'for years to come', while versions 4 and 1 each drop one nuance and version 5 loses 'find their voice again'. Version 3 changes 'every piano has a future' to 'most have years of playing left' and drops the privilege sentiment.",
+  "label_to_arm": {
+    "1": "B",
+    "2": "C",
+    "3": "A",
+    "4": "B2",
+    "5": "B3"
+  }
+}

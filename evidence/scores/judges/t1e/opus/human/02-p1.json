@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 1,
+    "4": 4
+  },
+  "send": "3",
+  "tells": {
+    "1": "Stiff, hedged phrasing like 'We provide refrigerated trucking' and 'discuss where we might fit' reads like templated corporate copy.",
+    "2": "Slightly clipped and generic, but no strong AI tell. It is close to 'none', aside from a uniform, polished cadence.",
+    "3": "none. The closing 'whether that fits what you need' is a little soft, but the industry-specific wording ('pick up last-minute loads') feels natural.",
+    "4": "none. It reads as unedited human writing: a duplicated greeting, the repeated 'Would you be open', and loose phrasing."
+  },
+  "reason": "Version 3 states the on-time stat in concrete terms (99.2% of deliveries arrived on time) and uses trucking language. Its single, low-pressure ask makes it the most credible and natural. Version 4 is clearly human but sloppy, and Version 1 has a templated, corporate stiffness.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B3",
+    "3": "A",
+    "4": "E"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2
+  },
+  "reason": "Version 2 keeps every fact and nuance of the original, including 'the usual things,' and adds nothing. Version 3 is also faithful but drops 'the usual things.' Version 1 uses the writer's answers correctly but cuts the lessons that went badly, the students' questions, and 'I was ready to go, but I took my time,' and it strengthens 'hadn't given much thought' to 'never considered.'",
+  "label_to_arm": {
+    "1": "track2/B3-int",
+    "2": "track2/A-int",
+    "3": "B3"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1,
+    "4": 4,
+    "5": 6,
+    "6": 5
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Repeats the product name ('Seam Grip formula' then 'Gear Aid Seam Grip') in back-to-back clauses",
+    "3": "Formulaic hook opener ('Got a leaky tent seam? It's an easy fix.'), and 'Before you start' appears after the application step",
+    "4": "The compatibility check sits awkwardly between cleaning and removing the old sealer, which reads like a sentence was spliced in",
+    "5": "The compatibility check comes after the application step ('before applying it'), which suggests a step was tacked on during editing; it also uses a curly apostrophe",
+    "6": "The compatibility check comes after the application step ('before applying it'), which suggests a step was tacked on during editing"
+  },
+  "reason": "Version 3 has the most natural human voice, but it tells readers to check compatibility 'before you start' after they've already applied the sealant. Version 1 keeps every step in the right order, reads cleanly, and has no noticeable tells, so it's the one to publish.",
+  "label_to_arm": {
+    "1": "B2",
+    "2": "B",
+    "3": "C",
+    "4": "B3",
+    "5": "O",
+    "6": "A"
+  }
+}

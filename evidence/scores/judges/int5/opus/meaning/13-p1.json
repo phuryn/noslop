@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "Version 1 keeps nearly every fact, hedge and commitment, softening only 'rather than' to 'more than'. Version 2 drops 'structurally', firms 'stronger potential returns' into 'should return more' and turns the mitigations into firm 'will' commitments; Version 3 adds claims the original doesn't make ('good reasons we can't reverse', putting talent and inventory 'in one place').",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "track2/A-int",
+    "3": "B5"
+  }
+}

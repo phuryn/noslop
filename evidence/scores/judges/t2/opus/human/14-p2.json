@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "The thank-you post ('Those visits helped us get here') is a bit generic, but the concrete Middlemarch and Mr. Okafor detail keeps it grounded. Otherwise none.",
+    "2": "Abstract, padded reflection in place of a real memory: the tricolon 'Every shelf, every table, every book' and the hypothetical 'Maybe it's been reread. Maybe it's been passed along.'",
+    "3": "The same padded tricolon and hypothetical reflection as version 2, plus an em dash and the soft 'One of the lovely things about…' framing."
+  },
+  "reason": "Version 1 is tight and uses a specific, real anecdote (the first sale, a customer who still visits weekly), which is what makes an anniversary thread feel genuine. Versions 2 and 3 replace that with vague, sentimental filler and repeat the 400 sq ft and two-floors point.",
+  "label_to_arm": {
+    "1": "track2/B2-int",
+    "2": "track2/A-int",
+    "3": "O"
+  }
+}

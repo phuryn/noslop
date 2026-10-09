@@ -1,0 +1,12 @@
+{
+  "dropped": [],
+  "changed": [
+    {
+      "item": "The invitation to reply now covers 'questions about the price change' instead of 'any questions about the change.' In context the original most likely meant the pricing change, so this mostly makes it explicit. It slightly narrows the scope.",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

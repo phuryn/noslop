@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 5,
+    "3": 3,
+    "4": 4,
+    "5": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none obvious; the local specifics, cost detail and caveats feel lived-in",
+    "2": "generic, repetitive benefit language and awkward list-like structure",
+    "3": "tidy but generic takeaway slogan makes it feel polished rather than personal",
+    "4": "formulaic LinkedIn structure with bullets and a stated lesson",
+    "5": "conversational, but the neat operational-win moral still feels templated"
+  },
+  "reason": "Version 1 is the most credible and human because it includes concrete numbers, uneven results, and practical caveats rather than only a clean success story. It is clear, specific, and reads like someone reporting real operational experience.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "E",
+    "3": "track2/A-int",
+    "4": "O",
+    "5": "C"
+  }
+}

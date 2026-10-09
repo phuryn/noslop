@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "Version 1 keeps the facts, price, date, workshop offer, and welcome with only minor wording shifts. Version 2 drops the inclusive welcome and recasts the workshop activities, while version 3 adds unsupported claims (“most of us,” “just got”) and changes the group’s stated focus from helping colonies through the colder months.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "C"
+  }
+}

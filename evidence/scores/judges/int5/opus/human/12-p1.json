@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 1,
+    "4": 4
+  },
+  "send": "3",
+  "tells": {
+    "1": "Vague, contentless promise ('what we learned and what other utilities should consider') plus the 14%→9% stat repeated verbatim in the bio.",
+    "2": "Generic summary with no specifics; the bio restates the abstract's stat almost word for word.",
+    "3": "The closing line 'You'll leave knowing how to get real results...' is a stock promotional takeaway; the rest reads as authentically human.",
+    "4": "Stock AI phrasing: 'This talk explores', 'help reveal leaks that might otherwise go unnoticed', 'practical considerations for utilities looking to make better use of'."
+  },
+  "reason": "Version 3 has concrete numbers, a named colleague, a candid admission about false positives, and a contrarian opinion that ML wasn't essential, which makes it credible and distinctly human. Versions 1, 2, and 4 are interchangeable summaries, with 4 the most templated. Version 3 adds facts the others lack (the $85k cost, Carlos Ruiz, the PhD), so those should be checked before it goes out.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "track2/A-int",
+    "3": "track2/B5-int",
+    "4": "O"
+  }
+}

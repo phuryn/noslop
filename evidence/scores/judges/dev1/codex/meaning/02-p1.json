@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 3,
+    "4": 2
+  },
+  "reason": "Version 1 preserves the original most closely; version 4 introduces a slight shift from delivery coverage to picking up loads, while version 3 explicitly narrows regular-route coverage to “some.” Version 2 adds the broader promise “anywhere” within 250 miles and limits last-minute needs to “occasional,” neither of which the original specifies.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "C",
+    "3": "B5",
+    "4": "A"
+  }
+}

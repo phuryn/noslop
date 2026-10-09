@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 5,
+    "4": 1,
+    "5": 4
+  },
+  "send": "4",
+  "tells": {
+    "1": "The neatly balanced promise of 'real days off, nights that end, and a schedule you can plan a life around' feels polished into a recruitment slogan.",
+    "2": "'Nights that actually end' and 'the kind of person cooks want to work for' feel like stock conversational warmth.",
+    "3": "'Honestly, that's the fun part' and 'your opinion will actually count' strain to sound candid; literally tasting the third plate makes the kitchen detail less convincing.",
+    "4": "The 'third plate of the night' detail feels like manufactured specificity: it suggests consistency without describing a meaningful test of it.",
+    "5": "The tidy recruitment headings and familiar assurances give it a template feel, while 'full time, hands-on, on the line' is awkwardly compressed."
+  },
+  "reason": "Version 4 has the strongest balance of directness, natural rhythm, and clear responsibilities; version 1 is close but slightly more polished and promotional. These are stylistic judgments, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "B2",
+    "2": "A",
+    "3": "C",
+    "4": "B",
+    "5": "O"
+  }
+}

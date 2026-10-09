@@ -1,0 +1,37 @@
+{
+  "dropped": [
+    {
+      "item": "'guidance you can trust' (trust/reliability framing for the app's guidance)",
+      "severity": "minor"
+    },
+    {
+      "item": "'always' in 'so you always know what to do', which weakens the certainty slightly to 'You'll know'",
+      "severity": "minor"
+    },
+    {
+      "item": "'that keep you on track': the stated purpose/benefit of reminders",
+      "severity": "minor"
+    },
+    {
+      "item": "'keep your recovery moving' as the outcome of PT plan adjustments",
+      "severity": "minor"
+    },
+    {
+      "item": "'REAL' in heading 'BUILT FOR REAL RECOVERY'",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "'Every video is filmed by a licensed physical therapist' became 'A licensed physical therapist filmed every one', which can be read as a single PT filming all 300+ videos rather than each being filmed by a licensed PT",
+      "severity": "minor"
+    },
+    {
+      "item": "'Let your physical therapist see how you're doing ... so they can adjust your plan' became 'Your physical therapist can see ... and adjust your plan'. The user-initiated sharing ('Let') is softened into a capability statement",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

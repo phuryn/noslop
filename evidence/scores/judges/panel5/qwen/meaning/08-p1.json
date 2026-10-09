@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 5,
+    "3": 4,
+    "4": 3,
+    "5": 2
+  },
+  "reason": "Version 1 preserves all key claims, including the $129 panel and its practical benefit; Version 5 is nearly identical but omits that benefit. Versions 4 and 3 lose or alter more details, and Version 2 drops several core nuances.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "E",
+    "3": "A",
+    "4": "C",
+    "5": "B3"
+  }
+}

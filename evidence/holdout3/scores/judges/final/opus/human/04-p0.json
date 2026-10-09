@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 5,
+    "4": 4,
+    "5": 6,
+    "6": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "none; it is slightly flat and formulaic ('your generosity helps us be there when we're needed'), and the closing 'you're welcome' reads awkwardly",
+    "2": "none",
+    "3": "Stock scene-setting opener ('As autumn settles over the hills') and a tidy, generic sign-off ('thank you for being part of it')",
+    "4": "The Land Rover described as 'joining the team', plus the same template closing line",
+    "5": "Em dash followed by an abstract flourish ('a welcome addition to the team and a reminder of what your support makes possible') and 'heartfelt thank you'",
+    "6": "none; it reads as human-written but clumsy, with a rambling run-on opener, missing commas and no real invitation detail"
+  },
+  "reason": "Version 2 has the most natural, specific voice ('The leaves are turning up here', 'We can't wait to see it') and a warm, inclusive invitation without stock phrasing. Version 6 feels human but unpolished, while 3, 4 and 5 share templated lines and grow more ornamented, with 5 the most obviously AI-polished.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "B3",
+    "4": "B5",
+    "5": "O",
+    "6": "E"
+  }
+}

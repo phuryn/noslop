@@ -1,0 +1,11 @@
+{
+  "send": "1",
+  "reason": "Version 1 keeps every fact and caveat: £6/ha, the 40 ha minimum, Lincolnshire and Norfolk, maps within 48 hours of the flight, and maps that 'help you spot' problem areas. It adds no new promises. The others either add claims ('in your inbox', 'show which areas need'), drop details ('of the flight', the spotting benefit), or slip into a salesy or awkward voice.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "C",
+    "3": "E",
+    "4": "A"
+  },
+  "picked_arm": "B5"
+}

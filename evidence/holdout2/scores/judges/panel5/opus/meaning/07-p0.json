@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "Version 1 keeps every fact and commitment and only drops the closing line 'It's how we keep each other safe.' Version 2 keeps all content but adds an unstated assumption that the app is 'on your phone'. Version 3 drops 'harm' from the near-miss definition, 'without exception' from the 24-hour rule, the 'early warning' point and the keep-each-other-safe line.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "B5",
+    "3": "A"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "dropped": [],
+  "changed": [
+    {
+      "item": "Certainty about Callum's current role went from hedged ('I think you're currently a Second Engineer') to asserted, based on direct observation ('I saw you're a Second Engineer')",
+      "severity": "minor"
+    },
+    {
+      "item": "The framing of the approach shifted from asking about his interest ('wondered if you'd be interested') to judging his suitability ('thought you might be a good fit')",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "The sender claims to have seen information about Callum's current role",
+      "severity": "minor"
+    },
+    {
+      "item": "The sender says Callum might be a good fit for the role",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [
+    "I saw you're a Second Engineer on a cargo line at the moment"
+  ],
+  "meaning_preserved": 4
+}

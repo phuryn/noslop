@@ -1,0 +1,11 @@
+{
+  "send": "4",
+  "reason": "Version 4 keeps every fact and the same invitation—date, time, 60 saplings, bandstand, optional gloves, welcome, meet neighbours, and help plant—while the others drop the neighbour meet-up, soften or harden the ask, or shift helping plant into meeting “while we” plant.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "E",
+    "3": "A",
+    "4": "B5"
+  },
+  "picked_arm": "B5"
+}

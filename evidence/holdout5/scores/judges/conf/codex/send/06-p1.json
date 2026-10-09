@@ -1,0 +1,13 @@
+{
+  "send": "5",
+  "reason": "It preserves the reason for the deduction, the offer of photos, and the goodwill reduction to £90 with a £60 refund. It also keeps my straightforward, professional tone without adding an apology, pressure to settle, or blame.",
+  "label_to_arm": {
+    "1": "V6A",
+    "2": "C",
+    "3": "A",
+    "4": "E",
+    "5": "B5",
+    "6": "V6C"
+  },
+  "picked_arm": "B5"
+}

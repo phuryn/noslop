@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "Version 1 preserves the original facts and nuance most closely, while version 2 slightly changes nuance with 'never thought' and other paraphrases. Version 3 uses only supplied writer facts but omits or replaces much of the original reflection, losing more original meaning.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "B5",
+    "3": "track2/B5-int"
+  }
+}

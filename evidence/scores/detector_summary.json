@@ -1,0 +1,203 @@
+{
+  "calibration": {
+    "desklib": {
+      "auroc_ai_inputs_vs_human_2022": 0.9,
+      "ai_inputs_flagged": "13/24",
+      "human_flagged": "0/10"
+    },
+    "fakespot": {
+      "auroc_ai_inputs_vs_human_2022": 0.73,
+      "ai_inputs_flagged": "4/24",
+      "human_flagged": "0/10"
+    },
+    "radar": {
+      "auroc_ai_inputs_vs_human_2022": 0.66,
+      "ai_inputs_flagged": "11/24",
+      "human_flagged": "0/10"
+    }
+  },
+  "groups": {
+    "gen/E-write": {
+      "n": 16,
+      "desklib": 0.794,
+      "fakespot": 0.282,
+      "radar": 0.727,
+      "desklib_flagged": "14/16"
+    },
+    "holdout/inputs": {
+      "n": 8,
+      "desklib": 0.613,
+      "fakespot": 0.355,
+      "radar": 0.515,
+      "desklib_flagged": "4/8"
+    },
+    "holdout/outputs/A": {
+      "n": 4,
+      "desklib": 0.811,
+      "fakespot": 0.439,
+      "radar": 0.331,
+      "desklib_flagged": "3/4"
+    },
+    "human": {
+      "n": 10,
+      "desklib": 0.164,
+      "fakespot": 0.083,
+      "radar": 0.061,
+      "desklib_flagged": "0/10"
+    },
+    "inputs": {
+      "n": 16,
+      "desklib": 0.705,
+      "fakespot": 0.153,
+      "radar": 0.421,
+      "desklib_flagged": "9/16"
+    },
+    "outputs/A": {
+      "n": 16,
+      "desklib": 0.677,
+      "fakespot": 0.188,
+      "radar": 0.457,
+      "desklib_flagged": "11/16"
+    },
+    "outputs/B": {
+      "n": 16,
+      "desklib": 0.641,
+      "fakespot": 0.151,
+      "radar": 0.451,
+      "desklib_flagged": "10/16"
+    },
+    "outputs/B2": {
+      "n": 16,
+      "desklib": 0.71,
+      "fakespot": 0.228,
+      "radar": 0.416,
+      "desklib_flagged": "11/16"
+    },
+    "outputs/B3": {
+      "n": 16,
+      "desklib": 0.697,
+      "fakespot": 0.168,
+      "radar": 0.407,
+      "desklib_flagged": "10/16"
+    },
+    "outputs/C": {
+      "n": 16,
+      "desklib": 0.686,
+      "fakespot": 0.199,
+      "radar": 0.372,
+      "desklib_flagged": "10/16"
+    },
+    "outputs/E": {
+      "n": 15,
+      "desklib": 0.607,
+      "fakespot": 0.093,
+      "radar": 0.584,
+      "desklib_flagged": "8/15"
+    },
+    "track2/A-int": {
+      "n": 16,
+      "desklib": 0.687,
+      "fakespot": 0.176,
+      "radar": 0.439,
+      "desklib_flagged": "10/16"
+    },
+    "track2/B-int": {
+      "n": 16,
+      "desklib": 0.555,
+      "fakespot": 0.115,
+      "radar": 0.367,
+      "desklib_flagged": "8/16"
+    },
+    "track2/B2-int": {
+      "n": 16,
+      "desklib": 0.585,
+      "fakespot": 0.187,
+      "radar": 0.347,
+      "desklib_flagged": "8/16"
+    },
+    "track3/A": {
+      "n": 4,
+      "desklib": 0.382,
+      "fakespot": 0.153,
+      "radar": 0.005,
+      "desklib_flagged": "1/4"
+    },
+    "track3/A-ask": {
+      "n": 4,
+      "desklib": 0.392,
+      "fakespot": 0.15,
+      "radar": 0.005,
+      "desklib_flagged": "1/4"
+    },
+    "track3/A-int": {
+      "n": 4,
+      "desklib": 0.487,
+      "fakespot": 0.088,
+      "radar": 0.005,
+      "desklib_flagged": "2/4"
+    },
+    "track3/A-notes": {
+      "n": 4,
+      "desklib": 0.494,
+      "fakespot": 0.088,
+      "radar": 0.007,
+      "desklib_flagged": "3/4"
+    },
+    "track3/B2": {
+      "n": 4,
+      "desklib": 0.597,
+      "fakespot": 0.15,
+      "radar": 0.005,
+      "desklib_flagged": "2/4"
+    },
+    "track3/B2-ask": {
+      "n": 4,
+      "desklib": 0.572,
+      "fakespot": 0.144,
+      "radar": 0.007,
+      "desklib_flagged": "2/4"
+    },
+    "track3/B2-int": {
+      "n": 4,
+      "desklib": 0.572,
+      "fakespot": 0.144,
+      "radar": 0.005,
+      "desklib_flagged": "2/4"
+    },
+    "track3/B2-notes": {
+      "n": 4,
+      "desklib": 0.454,
+      "fakespot": 0.227,
+      "radar": 0.012,
+      "desklib_flagged": "2/4"
+    },
+    "track3/C": {
+      "n": 4,
+      "desklib": 0.326,
+      "fakespot": 0.235,
+      "radar": 0.005,
+      "desklib_flagged": "1/4"
+    },
+    "track3/D": {
+      "n": 4,
+      "desklib": 0.735,
+      "fakespot": 0.193,
+      "radar": 0.005,
+      "desklib_flagged": "4/4"
+    },
+    "track3/E": {
+      "n": 4,
+      "desklib": 0.212,
+      "fakespot": 0.009,
+      "radar": 0.014,
+      "desklib_flagged": "1/4"
+    },
+    "track3/H": {
+      "n": 4,
+      "desklib": 0.161,
+      "fakespot": 0.125,
+      "radar": 0.021,
+      "desklib_flagged": "0/4"
+    }
+  }
+}

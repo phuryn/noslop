@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 1,
+    "4": 3
+  },
+  "send": "3",
+  "tells": {
+    "1": "Templated emoji-bullet list with colon-led descriptions, redundant 📍🗓🕚 recap block repeating the date and time, and a stuffed hashtag line",
+    "2": "Slightly padded connective phrasing ('which means you'll be among the very first', 'celebrating apples') that smooths every sentence the same way",
+    "3": "none",
+    "4": "Overcompressed: crams the demos and the perry launch into one long list sentence and ends abruptly with no warm sign-off"
+  },
+  "reason": "Version 3 reads like a real farm posting: the date leads, the sentences are short and concrete, and the sign-off is natural, with no formulaic emoji scaffolding. Version 1 is the classic AI social template, while 4 is clean but flat and 2 is pleasant but a little wordier than it needs to be.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B5",
+    "3": "B3",
+    "4": "A"
+  }
+}

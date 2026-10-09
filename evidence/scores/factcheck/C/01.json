@@ -1,0 +1,45 @@
+{
+  "dropped": [
+    {
+      "item": "'when they need it': the timeliness aspect of patients getting care was dropped",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "'Phone calls were hit or miss' became 'It mostly didn't work', a stronger negative judgment of phone calls",
+      "severity": "minor"
+    },
+    {
+      "item": "'The change was simple: we switched to text message reminders' became 'all we did was start texting people', which more strongly states that texting was the only change made",
+      "severity": "minor"
+    },
+    {
+      "item": "'care they need, when they need it' became 'care they came in for', which shifts the meaning (no-show patients by definition didn't come in)",
+      "severity": "minor"
+    },
+    {
+      "item": "'sometimes the biggest operational wins' became 'a lot of the biggest operational wins', a broader claim stated with more certainty",
+      "severity": "minor"
+    },
+    {
+      "item": "CTA 'it's worth testing' became 'try texts for a month and see what happens', adding a specific trial duration",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "'The difference showed up quickly', a claim about how fast results appeared that is not in the original",
+      "severity": "minor"
+    },
+    {
+      "item": "'for a month' as a recommended trial length",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [
+    "for a month",
+    "The difference showed up quickly"
+  ],
+  "meaning_preserved": 4
+}

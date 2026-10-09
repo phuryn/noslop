@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1
+  },
+  "reason": "Version 3 stays closest to the original wording and structure, preserving all key facts and commitments. Version 1 is nearly as faithful but has minor phrasing changes, while Version 2 omits small details like 'to the booth' and 'display' in the action item.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "B5"
+  }
+}

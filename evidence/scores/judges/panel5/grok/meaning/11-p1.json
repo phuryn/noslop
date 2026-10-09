@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 5,
+    "2": 4,
+    "3": 1,
+    "4": 3,
+    "5": 2
+  },
+  "reason": "Version 3 keeps every claim intact. Version 5 only drops “closely” and lightly frames duties as day-to-day; 4 omits the life-plannable schedule; 2 turns the salt line into a tasting task, adds a “decent hour” promise, and softens “slammed”; 1 drops multiple duties and traits and rewrites others.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "C",
+    "3": "B3",
+    "4": "A",
+    "5": "B5"
+  }
+}

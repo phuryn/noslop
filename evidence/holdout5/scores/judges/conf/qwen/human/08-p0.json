@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 7,
+    "4": 4,
+    "5": 6,
+    "6": 2,
+    "7": 5
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "The rhetorical-question opener and safe, symmetrical step copy feel templated.",
+    "3": "The flat numbered wording and repeated 'little one' are template-like, though the broken 'crche' is mainly an editing issue.",
+    "4": "Phrases like 'childcare slot' and 'nothing separate to arrange' sound slightly mechanical.",
+    "5": "Passive phrasing ('are booked in one go') and the flat 'You have four hours to work' feel generic.",
+    "6": "The stock question opener and neat 'time for work and time for care' parallel feel slightly generated.",
+    "7": "The em-dash parallel opener and abstract 'time set aside for work and care' feel polished but generic."
+  },
+  "reason": "Version 1 sounds the most like a person: warm, concrete, and idiomatic without overexplaining. The others are clear but more templated, and Version 3 is too unpolished for publication.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "V6C",
+    "3": "E",
+    "4": "B5",
+    "5": "A",
+    "6": "V6A",
+    "7": "O"
+  }
+}

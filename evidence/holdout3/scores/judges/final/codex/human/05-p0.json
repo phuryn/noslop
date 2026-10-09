@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 6,
+    "2": 4,
+    "3": 2,
+    "4": 5,
+    "5": 1,
+    "6": 3
+  },
+  "send": "5",
+  "tells": {
+    "1": "Stacked stock enthusiasm: 'breathing room,' 'Many hands,' and 'coming together beautifully' with a decorative sparkle.",
+    "2": "The generic encouragement after the volunteer request feels unnecessary and slightly formulaic.",
+    "3": "none",
+    "4": "none",
+    "5": "none",
+    "6": "The vague 'get everything right' rationale and generic upbeat closing feel mildly formulaic."
+  },
+  "reason": "Version 5 is direct, easy to scan, and precise about both the work and how to volunteer. Version 4 sounds spontaneous but has an unfinished sentence and an unclear 'them'; these rankings assess editorial effect, not evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "C",
+    "3": "A",
+    "4": "E",
+    "5": "B3",
+    "6": "B5"
+  }
+}

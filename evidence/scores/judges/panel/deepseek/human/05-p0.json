@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 3,
+    "3": 2,
+    "4": 1,
+    "5": 5
+  },
+  "send": "4",
+  "tells": {
+    "1": "Uses 'The consequences are significant:' followed by bold, parallel bullet fragments, which reads like a standard AI-generated PRD template.",
+    "2": "The exact-count framing 'This causes four problems:' and the overly uniform list structure feel mechanically organized.",
+    "3": "The 'What this costs:' bold-parallel bullets and near-identical metrics table give it a template-generated feel.",
+    "4": "Mild: the clipped parallel bullet fragments like 'Coordinators get stuck in reactive mode' are almost too neat, though overall it reads quite natural.",
+    "5": "Informal question headings plus typos and incomplete sections make it read more like an unpolished human draft than polished AI output."
+  },
+  "reason": "Version 4 reads the most naturally human while still being clear, credible, and appropriate for a PRD. I would send it because it balances a conversational rhythm with professional clarity, making it feel written by a skilled person rather than generated.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "A",
+    "3": "B3",
+    "4": "C",
+    "5": "E"
+  }
+}

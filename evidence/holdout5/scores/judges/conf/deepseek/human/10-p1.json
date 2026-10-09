@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 7,
+    "2": 6,
+    "3": 4,
+    "4": 5,
+    "5": 2,
+    "6": 3,
+    "7": 1
+  },
+  "send": "7",
+  "tells": {
+    "1": "Abstract, formal phrasing and the clichéd 'at the centre of the conversation' ending.",
+    "2": "none",
+    "3": "Formulaic triad 'comfort, function and everyday life' plus the 'heart of the conversation' cliché.",
+    "4": "Over-clarifying sentence and the slightly unnatural 'keeping ... in view' ending.",
+    "5": "Formulaic triad 'comfort, function and everyday life' and the clichéd 'heart of the conversation' ending.",
+    "6": "Clipped, artificially simple sentence 'It stays something to think about' and the dangling 'at the centre'.",
+    "7": "Only the closing triad 'comfort, function and everyday life' feels slightly formulaic."
+  },
+  "reason": "V7 reads as the most concise and natural bio while retaining all key details; it avoids the stiff or over-formal phrasing that marks the more AI-sounding versions.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "E",
+    "3": "V6C",
+    "4": "A",
+    "5": "V6A",
+    "6": "B5",
+    "7": "C"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 2,
+    "3": 3,
+    "4": 1,
+    "5": 4
+  },
+  "send": "2",
+  "tells": {
+    "1": "Stacked apologies and stock reassurance make a straightforward resolution feel padded and templated.",
+    "2": "none",
+    "3": "none",
+    "4": "none",
+    "5": "The explanation that a failure after five months qualifies under a two-year warranty feels unnecessarily mechanical."
+  },
+  "reason": "Version 4 feels most personal, with direct ownership and conversational warmth. I'd send version 2 for its concise resolution, appropriate empathy, and consistent professional tone; these stylistic judgments don't establish authorship.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B3",
+    "3": "A",
+    "4": "C",
+    "5": "B"
+  }
+}

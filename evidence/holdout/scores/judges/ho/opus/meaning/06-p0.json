@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 5,
+    "3": 1,
+    "4": 2,
+    "5": 3
+  },
+  "reason": "Version 3 matches the original word for word, and 4 only reorders the compatibility check without changing the meaning; 5 and 1 say 'works with' instead of 'compatible', and 1 also drops 'peeling'. Version 2 is least faithful: it softens the 50°F requirement to 'try to', changes 'loose, peeling' to 'peeling or loose', and adds the claim that it's 'an easy fix'.",
+  "label_to_arm": {
+    "1": "B",
+    "2": "C",
+    "3": "A",
+    "4": "B2",
+    "5": "B3"
+  }
+}

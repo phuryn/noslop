@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2
+  },
+  "reason": "Version 1 keeps every fact, including why the Sunday classes are being added, and only adds a harmless 'glad to help'. Versions 3 and 2 both drop that reason and recast the current-member rate as conditional ('If you're a current member'), and Version 2 also narrows 'the change' to 'the price change' and merges the details more loosely.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B",
+    "3": "A"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 2,
+    "4": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "The 'third plate of the night' feels like manufactured kitchen specificity: vivid, but an odd test of consistency.",
+    "2": "none",
+    "3": "The polished sequence 'real days off, nights that actually end, and a schedule you can plan a life around' oversells what the stated hours establish.",
+    "4": "The familiar section labels and polished recruitment phrases make the voice feel more templated."
+  },
+  "reason": "Version 1 has the strongest balance of conversational voice, clear duties, and restraint, though its scheduling promises still need verification. Version 2 may feel spontaneous, but its shouting and careless punctuation undermine skilled authorship; none of these stylistic clues establishes AI involvement.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "E",
+    "3": "B3",
+    "4": "O"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "dropped": [
+    {
+      "item": "'real' qualifier on the savings ('cutting real money'), which emphasized that the savings are substantial",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "Members' relationship to the milestone: the original says the number 'belongs to' members, framing it as theirs because they own and benefit from it. The edit says members 'get some of the credit too,' which recasts them as partial contributors and makes their share smaller than the original's.",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "'their' monthly bills explicitly attributes the savings to members' own bills, which the original only implied",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

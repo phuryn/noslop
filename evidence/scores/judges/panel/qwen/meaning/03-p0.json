@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 3,
+    "4": 1
+  },
+  "reason": "Version 4 preserves all original facts and the fix wording most directly, with only formatting changes. Version 2 is nearly as faithful but softens “fixed a bug” into an outcome statement; Version 3 adds minor extra nuances, and Version 1 changes the PDF issue from incorrect display to not showing up.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "B3",
+    "3": "C",
+    "4": "A"
+  }
+}

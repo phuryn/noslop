@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Two stacked, hedged questions ('Could we help...' then 'where we might fit') read like polished, overly cautious phrasing",
+    "3": "none (instead it has human errors: the doubled 'Hi' greeting, a generic 'be of service' line, and no contact details)",
+    "4": "Slightly padded closing ('whether that fits what you need') softens an otherwise direct ask"
+  },
+  "reason": "Version 1 is the tightest: it gives the concrete claim and a direct ask without hedging. Version 4 is a close second, with a slightly more credible stat phrasing but a wordier close. Version 3 sounds human but clumsy and unpolished.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "O",
+    "3": "gen/E-write",
+    "4": "A"
+  }
+}

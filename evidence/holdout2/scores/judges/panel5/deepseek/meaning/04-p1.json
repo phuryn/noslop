@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2
+  },
+  "reason": "Version 1 preserves the original's pest issue, TrapLink monitoring move, audit result, and team-standards point with only minor wording changes. Version 3 keeps the first two points closely but drops the team-standards nuance, while Version 2 softens the opening and also omits that final point.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "B3",
+    "3": "A"
+  }
+}

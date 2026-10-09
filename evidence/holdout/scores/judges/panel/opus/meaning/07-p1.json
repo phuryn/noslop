@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1
+  },
+  "reason": "Version 3 keeps every fact and the offer of further help, dropping only the courtesy 'thanks for your patience'. Version 1 keeps all content but slightly shifts nuance ('started the refund', 'if anything else comes up'), while Version 2 omits the closing offer to answer further questions entirely.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B3"
+  }
+}

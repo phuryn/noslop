@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "The three short, similarly structured statements feel slightly mechanical, though this is not reliable evidence of AI authorship.",
+    "4": "none"
+  },
+  "reason": "Version 1 is concise, natural, and clear about progress, remaining work, and schedule confidence. Version 4 sounds spontaneous, but its vague opening and less precise schedule statement make it less effective as a skilled status update.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "O",
+    "4": "gen/E-write"
+  }
+}

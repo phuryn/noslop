@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 3,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "Templated LinkedIn structure: 'The change was simple' setup, tidy three-bullet benefit list, 'The lesson for me' moral, and an engagement-bait closing question",
+    "2": "Smoothly generic summary with a tidy triad ('fewer empty chairs, less phone time, more patients getting the care they need') and a neat aphorism ('meeting patients where they already are'), though the format is restrained",
+    "3": "Balanced 'helps patients as much as the practice' framing, plus a 'My takeaway is...' moral and a tacked-on engagement question",
+    "4": "none"
+  },
+  "reason": "Version 4 has specific, checkable details: the $1,400 cost, the 11 hours saved, Joanna in Gdańsk, the patients over 70, and Sopot stalling at 12%. It also admits uncertainty about seasonality and what drove the drop, which makes it the most credible and useful. The other three tell the same frictionless success story with polished morals; Version 1 shows the most template formatting and Version 2 the least.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B3",
+    "3": "track2/A-int",
+    "4": "track2/B3-int"
+  }
+}

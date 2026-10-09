@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 6,
+    "5": 3,
+    "6": 5
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "cosy seasonal opening and a neat three-part inclusion line",
+    "3": "lyrical autumn personification and formulaic supporter triad",
+    "4": "unnatural seasonal framing and an overstuffed, overly formal sentence",
+    "5": "stock autumn opener and polished charity-copy rhythm",
+    "6": "em-dash gloss and abstract sentiment like 'a reminder of what your support makes possible'"
+  },
+  "reason": "Version 1 is the cleanest and most credible: it thanks supporters, gives the key updates, and issues the invitation without filler or over-polished sentiment. It feels like a real organisation speaking rather than copy trying to sound warm.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "B5",
+    "4": "E",
+    "5": "B3",
+    "6": "O"
+  }
+}

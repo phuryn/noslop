@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "4": 3,
+    "5": 4,
+    "3": 5
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "Vague repetition, abstract binaries, and clichés like 'bang or whimper' instead of concrete scenes.",
+    "4": "List-like opening and generic balanced contrasts with no specific, named memory.",
+    "5": "Formulaic 'I found myself doing' and polished but generic reflection."
+  },
+  "reason": "Version 1 is the most concrete and emotionally honest, which gives it the strongest credibility and human feel; versions 4 and 5 are smoother but more generic and AI-like.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "C",
+    "3": "E",
+    "4": "track2/A-int",
+    "5": "O"
+  }
+}

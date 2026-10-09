@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 3,
+    "3": 2,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "'I found myself doing the usual things' is a stock reflective opener, and the polished, balanced contrasts ('Some lessons... others...') end on a neatly bittersweet closing line.",
+    "2": "The tidy parallel structure and the bittersweet closing kicker ('I was ready to go, but I took my time') feel generically crafted and lack any specific memory.",
+    "3": "It shares the same abstract, evenly balanced reflection and neat closing line. Its only change is splitting the semicolon, so it still has no concrete names or moments.",
+    "4": "none"
+  },
+  "reason": "Version 4 grounds the reflection in specific details: Amina Yusuf, her daughter, period 4 AP Chem and the elephant toothpaste demo. It also admits something slightly unflattering, which feels authentically human. The other three are near-identical, polished but generic reflections that close on a tidy, sentimental line.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "track2/A-int",
+    "3": "B3",
+    "4": "track2/B3-int"
+  }
+}

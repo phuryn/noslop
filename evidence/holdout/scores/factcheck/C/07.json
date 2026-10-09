@@ -1,0 +1,21 @@
+{
+  "dropped": [],
+  "changed": [
+    {
+      "item": "'Your refund ... is being processed' became 'We've started the refund', which slightly reframes the status from in-progress processing to an action the team initiated.",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "The edit names a contact channel ('just reply here') where the original said only 'let us know'.",
+      "severity": "minor"
+    },
+    {
+      "item": "The edit adds an implicit promise of assistance ('and we'll help').",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

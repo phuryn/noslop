@@ -1,0 +1,25 @@
+{
+  "dropped": [
+    {
+      "item": "'care' removed from the list of qualities credited to the Bradford team (originally 'skill, patience and care')",
+      "severity": "minor"
+    },
+    {
+      "item": "Closing line 'But it's a good moment to pause and say thank you', so the edit now ends on the caveat rather than the gratitude",
+      "severity": "minor"
+    },
+    {
+      "item": "Framing that the author wants to be clear about where the number comes from",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "'It comes from the sorting team' became 'it belongs to the sorting team', shifting from describing the number's source to assigning credit",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

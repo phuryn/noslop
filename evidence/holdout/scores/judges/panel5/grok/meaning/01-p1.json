@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 1,
+    "4": 4
+  },
+  "reason": "Version 3 keeps the full conditions, the “next” sequencing, and the apprenticeship offer (12 spots, paid training, a path into a career), only softening how credit is phrased. Version 2 drops “everything in between” and shifts “next” to “now”; version 1 replaces member ownership with a benefit and strengthens the career outcome; version 4 intensifies the weather, recasts the co-op rationale, and restructures paid training into “paid spots” plus a “lasting” career.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "B5",
+    "4": "C"
+  }
+}

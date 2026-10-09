@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 3,
+    "4": 2
+  },
+  "reason": "V1 keeps nearly every point and drops only the closing 'fuller picture' line. V4 also cuts the 'helps guide care' clause. V3 omits 'other health markers' and overstates the benefit ('catch… any signs,' 'full picture'). V2 drops the early-detection and baseline points and adds the claim 'highly beneficial.'",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "E",
+    "3": "C",
+    "4": "A"
+  }
+}

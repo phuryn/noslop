@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 1,
+    "3": 2,
+    "4": 3
+  },
+  "reason": "Version 2 stays closest to the original facts, dates, and commitments. Version 3 only drops the 'more options' rationale, while Version 4 changes the membership wording and adds renewal/starting-soon specifics; Version 1 changes the subject line and adds interpretive tone.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B3",
+    "3": "A",
+    "4": "E"
+  }
+}

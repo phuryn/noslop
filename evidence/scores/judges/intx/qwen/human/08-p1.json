@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1,
+    "4": 4,
+    "5": 5
+  },
+  "send": "3",
+  "tells": {
+    "1": "none",
+    "2": "Very polished, generic benefit list and em-dash construction feel like safe AI copy.",
+    "3": "none",
+    "4": "Flat, boilerplate phrasing reads like a simplified rewrite rather than a distinct human voice.",
+    "5": "Stiff rhetorical question and formal phrasing such as 'it is highly beneficial' sound machine-generated."
+  },
+  "reason": "Version 3 feels most like a person because it uses concrete evidence, a specific example, and a candid note about cost. I would publish it if those details are accurate; otherwise it still has the best mix of clarity, credibility, and voice.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "O",
+    "3": "track2/B5-int",
+    "4": "track2/A-int",
+    "5": "E"
+  }
+}

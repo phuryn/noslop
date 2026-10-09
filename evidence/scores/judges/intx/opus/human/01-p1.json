@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 1,
+    "3": 2,
+    "4": 3,
+    "5": 4
+  },
+  "send": "2",
+  "tells": {
+    "1": "Templated LinkedIn structure: tidy three-item bullet list, 'The lesson for me' takeaway line, and a generic engagement-bait closing question",
+    "2": "none",
+    "3": "none (clunky, run-on phrasing and odd formatting read as a less-polished human writer)",
+    "4": "Formulaic 'isn't just X. It's Y' reframe plus a rule-of-three fragment list and tidy 'What I took from this' moral",
+    "5": "Compressed version of the stock template: neat 'My takeaway is' moral and an abstract 'meeting patients where they already are' line"
+  },
+  "reason": "Version 2 has specific, checkable details (cost, hours saved, a named staff member, an underperforming clinic, and a candid seasonality caveat) that make it credible and distinctly human, while the others mostly follow the same polished LinkedIn template. Version 3 is awkward but reads as genuinely human-written, so it ranks second on human feel but isn't the one to publish.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "track2/B5-int",
+    "3": "E",
+    "4": "C",
+    "5": "track2/A-int"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 8,
+  "asked": true,
+  "n_questions": 5,
+  "answer_share": 0.24,
+  "recall_yes": 2,
+  "recall_partial": 3,
+  "hidden_total": 6,
+  "invented_specifics": [],
+  "meaning_preserved": 4,
+  "major": []
+}

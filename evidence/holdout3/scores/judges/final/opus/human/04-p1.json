@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 5,
+    "3": 3,
+    "4": 4,
+    "5": 1,
+    "6": 6
+  },
+  "send": "1",
+  "tells": {
+    "1": "none, though 'Maybe you gave money, raised funds or just cheered us on. Either way...' is a slightly tidy rhetorical turn",
+    "2": "Stock scenic opener ('As autumn settles over the hills') plus a polished 'Whether you've donated, raised funds or cheered us on' triad",
+    "3": "Generic boilerplate ('your generosity helps us be there when we're needed'), and the closing 'you're welcome' reads oddly",
+    "4": "Cleft emphasis ('your donations are what let us') and a personified vehicle 'joining the team'",
+    "5": "none",
+    "6": "Em dash and an inflated 'a welcome addition... a reminder of what your support makes possible', plus 'heartfelt thank you'"
+  },
+  "reason": "Version 5 reads most like a real volunteer wrote it: rambling, with '1st November' and 'pretty busy', but it is clunky and thin on the invitation. Version 1 keeps that natural, specific voice ('We can't wait to see it', 'Come and say hello') while being clear and complete, so it is the best one to send.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B3",
+    "3": "A",
+    "4": "B5",
+    "5": "E",
+    "6": "O"
+  }
+}

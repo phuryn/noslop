@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2,
+    "4": 4,
+    "5": 5
+  },
+  "send": "2",
+  "tells": {
+    "1": "Generic marketing close, especially practical way to get a fuller picture and make the most, feels polished but impersonal.",
+    "2": "none",
+    "3": "none",
+    "4": "The flat, list-like phrasing and very short sentences feel more templated than voiced.",
+    "5": "Rhetorical question, highly beneficial, mixed pronouns, and title-cased panel name read like boilerplate AI copy."
+  },
+  "reason": "Version 2 is the best balance of directness, credibility, and natural phrasing. Version 3 is warm and human, but a little too casual for a veterinary recommendation.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B3",
+    "3": "C",
+    "4": "A",
+    "5": "E"
+  }
+}

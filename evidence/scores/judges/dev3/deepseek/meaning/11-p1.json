@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2,
+    "4": 4
+  },
+  "reason": "Version 1 stays closest to the original wording and commitments; Version 3 is nearly as faithful but drops the 'closely' nuance. Version 2 paraphrases more but preserves all key facts, while Version 4 omits the schedule-planning commitment.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "C",
+    "3": "B5",
+    "4": "A"
+  }
+}

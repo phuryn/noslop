@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3
+  },
+  "reason": "All three preserve the original’s meaning, facts, numbers, commitments, and caveats. Version 2 retains the closest wording; versions 1 and 3 are identical, so their separate ranks are an arbitrary tie-break to satisfy the no-ties requirement.",
+  "label_to_arm": {
+    "1": "track2/B3-int",
+    "2": "track2/A-int",
+    "3": "B3"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1
+  },
+  "reason": "Version 2 keeps the full near-miss definition (injury, damage or harm), the “without exception” rule, and the early-warning rationale. Version 1 drops “harm,” “without exception,” and “accurate,” narrowing both the duty and the definition.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3"
+  }
+}

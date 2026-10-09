@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Heavy bolding, redundant milestone language, and stock gratitude make a short update feel templated.",
+    "3": "The generic opening and closing add a mild template feel, though the bullets suit an investor update."
+  },
+  "reason": "Version 1 is direct, credible, and personable, with a clear introduction request and no unnecessary ceremony. Versions 2 and 3 also characterize the pilot as successful, a claim version 1 does not make; stylistic tells alone cannot establish AI authorship.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "O",
+    "3": "B3"
+  }
+}

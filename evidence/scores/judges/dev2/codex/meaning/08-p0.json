@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 3,
+    "4": 1
+  },
+  "reason": "Version 4 preserves the most detail, including annual testing; version 1 leaves that frequency implicit. Version 3 makes bloodwork an explicit recommendation and omits how results guide care, while version 2 changes “after age 7” to age 7, drops other health markers, and overstates “a fuller picture” as “the full picture”; all versions omit or alter the original’s closing value claim.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "C",
+    "3": "A",
+    "4": "B3"
+  }
+}

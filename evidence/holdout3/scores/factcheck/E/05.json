@@ -1,0 +1,58 @@
+{
+  "dropped": [
+    {
+      "item": "Request to update calendars and any related plans",
+      "severity": "minor"
+    },
+    {
+      "item": "Reason for the date change (extra breathing room to get everything just right)",
+      "severity": "minor"
+    },
+    {
+      "item": "Credit to the team for sorting the lighting rig issue",
+      "severity": "minor"
+    },
+    {
+      "item": "'this Saturday' became just 'Saturday', so it is less clear that the date is the coming Saturday",
+      "severity": "minor"
+    },
+    {
+      "item": "'Back on track' framing that the schedule is restored",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "Lighting rig 'issue is fixed' became 'We thought we had a problem with getting a lighting rig', which recasts a real technical fault as a procurement problem and suggests it may not have been real",
+      "severity": "major"
+    },
+    {
+      "item": "'Mount installation' became 'mounting them', where 'them' most naturally refers to the lighting rig, so the volunteer task now reads as mounting lights rather than installing mounts",
+      "severity": "major"
+    },
+    {
+      "item": "'Back on track for install' became an incomplete 'we're going to install', losing what is being installed and the sense of being on schedule",
+      "severity": "minor"
+    },
+    {
+      "item": "'Drop a 🙋' became 'Put a hand up', which is ambiguous about whether this means an emoji reaction in the thread",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "Claim that the lighting rig problem was about obtaining ('getting') a rig",
+      "severity": "major"
+    },
+    {
+      "item": "Uncertainty framing 'We thought we had a problem'",
+      "severity": "minor"
+    },
+    {
+      "item": "'Thanks for all your help', which implies recipients have already helped",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [],
+  "meaning_preserved": 3
+}

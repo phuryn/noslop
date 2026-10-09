@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 5,
+    "4": 3,
+    "5": 1
+  },
+  "send": "5",
+  "tells": {
+    "1": "The formal 'remaining piece' and 'target date' phrasing reads like a structured status template.",
+    "2": "None; 'Android biometric login is what's left' sounds natural.",
+    "3": "The stilted 'The Android biometric flow is the remaining piece' plus 'target date' formality.",
+    "4": "The polished compression 'with only... left' plus 'target date' feels slightly over-edited.",
+    "5": "None; the conversational 'about 80% of the way through' and 'to hit Nov 3' feel human."
+  },
+  "reason": "Version 5 sounds most like a colleague casually and clearly updating the team, while versions 1 and 3 feel stiffly templated. It balances clarity and human tone best.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B5",
+    "3": "B3",
+    "4": "A",
+    "5": "C"
+  }
+}

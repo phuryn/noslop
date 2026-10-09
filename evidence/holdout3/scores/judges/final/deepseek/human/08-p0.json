@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 3,
+    "3": 1,
+    "4": 5,
+    "5": 6,
+    "6": 2
+  },
+  "send": "6",
+  "tells": {
+    "1": "Vague phrasing such as 'provide you with some valuable insight' and the clunky 'minimum area we will fly'.",
+    "2": "Relies on stock marketing phrases like 'Get a clear view' and 'need a closer look'.",
+    "3": "Slightly over-polished ending 'ready to show you which patches deserve a closer look'.",
+    "4": "Awkward phrase 'build the images into crop health maps'.",
+    "5": "Unnatural phrasing 'We count the 48 hours from the flight'.",
+    "6": "Impersonal construction 'Your maps reach you'."
+  },
+  "reason": "Version 6 is the clearest and most credible publishable option: it states the service plainly, keeps the steps accurate, and sounds natural. Version 3 has more voice, but 6 is the safer, stronger copy.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "O",
+    "3": "C",
+    "4": "B3",
+    "5": "A",
+    "6": "B5"
+  }
+}

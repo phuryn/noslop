@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 3,
+    "3": 1,
+    "4": 2,
+    "5": 6,
+    "6": 5
+  },
+  "send": "3",
+  "tells": {
+    "1": "The stacked sentence fragments and broad operational lesson make the conversational voice feel staged.",
+    "2": "The generic takeaway about 'meeting people where they already are' adds a predictable inspirational ending.",
+    "3": "The stock phrase 'the care they need when they need it' is the clearest remaining formulaic touch.",
+    "4": "The personal lesson about 'meeting patients where they already are' feels appended to supply a takeaway.",
+    "5": "none",
+    "6": "The explicit results introduction, three-item list, moral, lesson, recommendation, and closing question form an overly complete LinkedIn template."
+  },
+  "reason": "Version 3 best combines concrete results, direct language, and restraint; I would publish it. Version 5 sounds spontaneous but needs substantial editing, so it ranks last for skilled writing; these stylistic judgments do not establish AI authorship.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B5",
+    "3": "A",
+    "4": "B3",
+    "5": "E",
+    "6": "O"
+  }
+}

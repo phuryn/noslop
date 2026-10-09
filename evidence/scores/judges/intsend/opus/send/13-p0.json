@@ -1,0 +1,11 @@
+{
+  "send": "3",
+  "reason": "Version 3 keeps every fact, commitment, and caveat, including 'structurally declining,' 'stronger potential returns,' and the six-month outreach, in the original format and voice. Versions 1 and 2 drop or overstate small points, and version 4 loses most of the mitigations and detail.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "C",
+    "3": "track2/B5-int",
+    "4": "E"
+  },
+  "picked_arm": "track2/B5-int"
+}

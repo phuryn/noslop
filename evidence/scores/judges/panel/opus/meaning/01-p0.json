@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 4,
+    "3": 2,
+    "4": 1
+  },
+  "reason": "V4 keeps the facts and hedges ('hit or miss', 'worth testing') but drops the closing question and the 'closing that gap' line, and narrows 'sometimes' in the lesson. V3 keeps every element but adds unsupported claims ('showed up quickly', 'for a month') and strengthens hedges. V1 cuts the lesson and the gap line and hardens 'hit or miss' and 'worth testing'. V2 also cuts both, adds 'most of the time', changes 'multi-location' to 'multiple practices', and garbles the no-show sentence.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "E",
+    "3": "C",
+    "4": "B3"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 3,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "Vague cozy promise ('the good part') without concrete proof or specifics",
+    "2": "Overly specific named testimonial and subscriber count feel inserted to mimic credibility",
+    "3": "Overly symmetrical fragments and clipped rhythm ('Less measuring. More making.')",
+    "4": "none"
+  },
+  "reason": "Version 4 reads as the most natural, confident, and human option; it keeps the emotional benefit and clarity without over-styled rhythm or unearned specifics.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "track2/B5-int",
+    "3": "O",
+    "4": "B5"
+  }
+}

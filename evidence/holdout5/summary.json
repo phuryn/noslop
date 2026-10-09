@@ -1,0 +1,379 @@
+{
+  "set": "holdout5",
+  "texts": 12,
+  "orders_per_text": 2,
+  "judges": {
+    "grok": "x-ai/grok-4.7",
+    "deepseek": "deepseek/deepseek-v4-pro-0813",
+    "qwen": "qwen/qwen3.8-max-0902",
+    "codex": "Codex CLI (OpenAI), effort high",
+    "opus": "Claude Opus (reported separately)"
+  },
+  "arms": {
+    "v6": "V6C",
+    "v6a": "V6A",
+    "v5": "B5",
+    "blader": "A",
+    "bare": "C",
+    "emulate": "E"
+  },
+  "informed_send": {
+    "per_judge": {
+      "grok": {
+        "picks": {
+          "v6": 6,
+          "v6a": 0,
+          "v5": 12,
+          "blader": 4,
+          "bare": 0,
+          "emulate": 0,
+          "none": 2
+        },
+        "n": 24
+      },
+      "deepseek": {
+        "picks": {
+          "v6": 8,
+          "v6a": 0,
+          "v5": 9,
+          "blader": 6,
+          "bare": 1,
+          "emulate": 0,
+          "none": 0
+        },
+        "n": 24
+      },
+      "qwen": {
+        "picks": {
+          "v6": 6,
+          "v6a": 2,
+          "v5": 11,
+          "blader": 5,
+          "bare": 0,
+          "emulate": 0,
+          "none": 0
+        },
+        "n": 24
+      },
+      "codex": {
+        "picks": {
+          "v6": 4,
+          "v6a": 2,
+          "v5": 14,
+          "blader": 4,
+          "bare": 0,
+          "emulate": 0,
+          "none": 0
+        },
+        "n": 24
+      },
+      "opus": {
+        "picks": {
+          "v6": 7,
+          "v6a": 1,
+          "v5": 13,
+          "blader": 3,
+          "bare": 0,
+          "emulate": 0,
+          "none": 0
+        },
+        "n": 24
+      }
+    },
+    "panel4_pooled": {
+      "picks": {
+        "v6": 24,
+        "v6a": 4,
+        "v5": 46,
+        "blader": 19,
+        "bare": 1,
+        "emulate": 0,
+        "none": 2
+      },
+      "n": 96
+    }
+  },
+  "reads_human": {
+    "per_judge": {
+      "grok": {
+        "v6_vs_v6a": {
+          "better": 2,
+          "tie": 4,
+          "worse": 6,
+          "n": 12
+        },
+        "v6_vs_v5": {
+          "better": 2,
+          "tie": 0,
+          "worse": 10,
+          "n": 12
+        },
+        "v6_vs_blader": {
+          "better": 2,
+          "tie": 1,
+          "worse": 9,
+          "n": 12
+        },
+        "v6_vs_bare": {
+          "better": 0,
+          "tie": 0,
+          "worse": 12,
+          "n": 12
+        },
+        "v6_vs_emulate": {
+          "better": 5,
+          "tie": 0,
+          "worse": 7,
+          "n": 12
+        },
+        "v6_vs_draft": {
+          "better": 6,
+          "tie": 1,
+          "worse": 5,
+          "n": 12
+        }
+      },
+      "deepseek": {
+        "v6_vs_v6a": {
+          "better": 2,
+          "tie": 5,
+          "worse": 5,
+          "n": 12
+        },
+        "v6_vs_v5": {
+          "better": 6,
+          "tie": 0,
+          "worse": 6,
+          "n": 12
+        },
+        "v6_vs_blader": {
+          "better": 6,
+          "tie": 2,
+          "worse": 4,
+          "n": 12
+        },
+        "v6_vs_bare": {
+          "better": 1,
+          "tie": 0,
+          "worse": 11,
+          "n": 12
+        },
+        "v6_vs_emulate": {
+          "better": 9,
+          "tie": 0,
+          "worse": 3,
+          "n": 12
+        },
+        "v6_vs_draft": {
+          "better": 8,
+          "tie": 0,
+          "worse": 4,
+          "n": 12
+        }
+      },
+      "qwen": {
+        "v6_vs_v6a": {
+          "better": 2,
+          "tie": 2,
+          "worse": 8,
+          "n": 12
+        },
+        "v6_vs_v5": {
+          "better": 5,
+          "tie": 1,
+          "worse": 6,
+          "n": 12
+        },
+        "v6_vs_blader": {
+          "better": 5,
+          "tie": 2,
+          "worse": 5,
+          "n": 12
+        },
+        "v6_vs_bare": {
+          "better": 2,
+          "tie": 2,
+          "worse": 8,
+          "n": 12
+        },
+        "v6_vs_emulate": {
+          "better": 11,
+          "tie": 1,
+          "worse": 0,
+          "n": 12
+        },
+        "v6_vs_draft": {
+          "better": 4,
+          "tie": 0,
+          "worse": 8,
+          "n": 12
+        }
+      },
+      "codex": {
+        "v6_vs_v6a": {
+          "better": 3,
+          "tie": 5,
+          "worse": 4,
+          "n": 12
+        },
+        "v6_vs_v5": {
+          "better": 3,
+          "tie": 0,
+          "worse": 9,
+          "n": 12
+        },
+        "v6_vs_blader": {
+          "better": 3,
+          "tie": 0,
+          "worse": 9,
+          "n": 12
+        },
+        "v6_vs_bare": {
+          "better": 3,
+          "tie": 0,
+          "worse": 9,
+          "n": 12
+        },
+        "v6_vs_emulate": {
+          "better": 9,
+          "tie": 1,
+          "worse": 2,
+          "n": 12
+        },
+        "v6_vs_draft": {
+          "better": 6,
+          "tie": 2,
+          "worse": 4,
+          "n": 12
+        }
+      },
+      "opus": {
+        "v6_vs_v6a": {
+          "better": 1,
+          "tie": 5,
+          "worse": 6,
+          "n": 12
+        },
+        "v6_vs_v5": {
+          "better": 2,
+          "tie": 1,
+          "worse": 9,
+          "n": 12
+        },
+        "v6_vs_blader": {
+          "better": 2,
+          "tie": 1,
+          "worse": 9,
+          "n": 12
+        },
+        "v6_vs_bare": {
+          "better": 0,
+          "tie": 0,
+          "worse": 12,
+          "n": 12
+        },
+        "v6_vs_emulate": {
+          "better": 2,
+          "tie": 0,
+          "worse": 10,
+          "n": 12
+        },
+        "v6_vs_draft": {
+          "better": 6,
+          "tie": 1,
+          "worse": 5,
+          "n": 12
+        }
+      }
+    },
+    "panel4_pooled": {
+      "v6_vs_v6a": {
+        "better": 9,
+        "tie": 16,
+        "worse": 23,
+        "n": 48
+      },
+      "v6_vs_v5": {
+        "better": 16,
+        "tie": 1,
+        "worse": 31,
+        "n": 48
+      },
+      "v6_vs_blader": {
+        "better": 16,
+        "tie": 5,
+        "worse": 27,
+        "n": 48
+      },
+      "v6_vs_bare": {
+        "better": 6,
+        "tie": 2,
+        "worse": 40,
+        "n": 48
+      },
+      "v6_vs_emulate": {
+        "better": 34,
+        "tie": 2,
+        "worse": 12,
+        "n": 48
+      },
+      "v6_vs_draft": {
+        "better": 24,
+        "tie": 3,
+        "worse": 21,
+        "n": 48
+      }
+    }
+  },
+  "meaning_check": {
+    "v6": {
+      "texts": 12,
+      "invented_or_upgraded_texts_hand_verified": 1,
+      "dropped_items_any_severity": 2,
+      "changed_items_any_severity": 15,
+      "added_items_any_severity": 5
+    },
+    "v6a": {
+      "texts": 12,
+      "invented_or_upgraded_texts_hand_verified": 1,
+      "dropped_items_any_severity": 3,
+      "changed_items_any_severity": 18,
+      "added_items_any_severity": 5
+    },
+    "v5": {
+      "texts": 12,
+      "invented_or_upgraded_texts_hand_verified": 0,
+      "dropped_items_any_severity": 10,
+      "changed_items_any_severity": 6,
+      "added_items_any_severity": 2
+    },
+    "blader": {
+      "texts": 12,
+      "invented_or_upgraded_texts_hand_verified": 0,
+      "dropped_items_any_severity": 17,
+      "changed_items_any_severity": 13,
+      "added_items_any_severity": 3
+    },
+    "bare": {
+      "texts": 12,
+      "invented_or_upgraded_texts_hand_verified": 1,
+      "dropped_items_any_severity": 6,
+      "changed_items_any_severity": 24,
+      "added_items_any_severity": 11
+    },
+    "emulate": {
+      "texts": 12,
+      "invented_or_upgraded_texts_hand_verified": 3,
+      "dropped_items_any_severity": 47,
+      "changed_items_any_severity": 41,
+      "added_items_any_severity": 29
+    }
+  },
+  "cost_usd_openrouter": 4.14,
+  "notes": [
+    "v6 = v6c (the one-liner 'Rewrite this to sound human, without changing the meaning.' plus a narrow meaning repair); outputs in outputs/V6C/",
+    "reads_human candidates per judgment: draft, blader, v5, bare, emulate, v6a, v6 (7); informed_send candidates: the same minus the draft (6)",
+    "invented_or_upgraded_texts_hand_verified counts texts; dropped/changed/added are fact-checker items of any severity (Claude Opus checker)",
+    "no account-name leak found in holdout5 drafts (checked before running arms)"
+  ]
+}

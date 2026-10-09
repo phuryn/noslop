@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 6,
+    "2": 1,
+    "3": 4,
+    "4": 2,
+    "5": 3,
+    "6": 5
+  },
+  "send": "2",
+  "tells": {
+    "1": "none",
+    "2": "The carefully arranged classroom rituals and understated ending feel slightly engineered.",
+    "3": "The neatly balanced lesson recollections and polished closing contrast feel formulaic.",
+    "4": "The progression from classroom rituals to career reflection to reluctant departure feels unusually tidy.",
+    "5": "The familiar 'date on the calendar' metaphor and predictable closing contrast suggest generic reflective prose.",
+    "6": "'I found myself doing the usual things' introduces a polished three-part list through a stock introspective phrase."
+  },
+  "reason": "Version 2 has the strongest conversational rhythm and the clearest account of how students shaped the narrator's teaching; its final two sentences give the hesitation room to register. These are stylistic judgments, not reliable evidence of AI authorship; version 1's roughness sounds plausible but falls short of skilled, publication-ready prose.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "C",
+    "3": "A",
+    "4": "B3",
+    "5": "B5",
+    "6": "O"
+  }
+}

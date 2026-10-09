@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 2,
+    "4": 3
+  },
+  "reason": "Version 1 keeps the feature claims, rollout facts, and support reassurance closest to the original. Version 3 only softens wording; version 4 drops the no-silly-question reassurance; version 2 narrows Crowd Focus to one person and adds plugging in as the charging method.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "C",
+    "3": "B3",
+    "4": "A"
+  }
+}

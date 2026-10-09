@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2
+  },
+  "reason": "Version 1 preserves the original’s facts, commitments, and caveats most completely. Version 3 uses supported additions but recasts the writer’s personal view as “our experience” and omits viewing progress; version 2 loses more, including free use beyond downloading, the consistency benefit, and the commitment that Premium unlocks additional features.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "track2/A-int",
+    "3": "track2/B5-int"
+  }
+}

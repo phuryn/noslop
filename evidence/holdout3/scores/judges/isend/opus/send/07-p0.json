@@ -1,0 +1,11 @@
+{
+  "send": "2",
+  "reason": "It keeps every fact, example, and caveat, including that fluency is what makes the errors dangerous, the €0.04 rate, and where the risk moves. It stays a single paragraph in my voice, and its only changes are lightly splitting long sentences. Version 3 drops the 'dangerous' point, 4 reshapes the paragraph and voice more, and 1 changes facts and loses nuance.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "A",
+    "3": "B5",
+    "4": "C"
+  },
+  "picked_arm": "A"
+}

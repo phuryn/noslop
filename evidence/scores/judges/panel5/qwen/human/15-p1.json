@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 6,
+    "2": 3,
+    "3": 4,
+    "4": 5,
+    "5": 1,
+    "6": 2
+  },
+  "send": "5",
+  "tells": {
+    "1": "Stilted label-style bullets and the unnatural subscription line about renewing 'within 24-hours prior'.",
+    "2": "Smooth but generic marketing phrases such as 'guidance you can trust' and 'BUILT FOR REAL RECOVERY' feel templated.",
+    "3": "Ambiguous phrasing ('Each one shows you what to do') and the vague 'more of what the app has to offer' line feel machine-smoothed.",
+    "4": "Flat, literal wording ('Each video shows the form for the movement') reads like a summary rather than persuasive App Store copy.",
+    "5": "none",
+    "6": "The forced casualness ('bouncing back', 'get moving') and slightly odd present tense 'films every one' feel like AI trying to sound friendly."
+  },
+  "reason": "Version 5 is the best balance of clear benefits, credible tone, and concise App Store formatting. It keeps the necessary subscription and medical disclaimer language without sounding overly generic or too chatty.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "O",
+    "3": "B5",
+    "4": "A",
+    "5": "B3",
+    "6": "C"
+  }
+}

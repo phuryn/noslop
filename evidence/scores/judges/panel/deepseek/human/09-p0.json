@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 3,
+    "3": 2,
+    "4": 1,
+    "5": 5
+  },
+  "send": "4",
+  "tells": {
+    "1": "Stiff, somewhat awkward phrasing and passive language, e.g., 'as soon as your battery has been sent'.",
+    "2": "none",
+    "3": "none",
+    "4": "none",
+    "5": "Formulaic corporate empathy, e.g., 'That's not the experience we want you to have' and repeated apologies."
+  },
+  "reason": "Version 4 balances clarity, professionalism, and human warmth without sounding overly scripted; it is the most credible and natural customer support reply.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "A",
+    "3": "C",
+    "4": "B3",
+    "5": "O"
+  }
+}

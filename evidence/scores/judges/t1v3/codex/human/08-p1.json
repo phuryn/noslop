@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3,
+    "4": 5,
+    "5": 4
+  },
+  "send": "2",
+  "tells": {
+    "1": "The generic phrase “helps guide care as your dog ages” adds a slightly formulaic finish to the explanation.",
+    "2": "none",
+    "3": "“Which helps guide care” repeats an already clear benefit, making the explanation feel padded.",
+    "4": "The closing string of promotional phrases—“a practical way,” “a fuller picture,” and “make the most”—feels formulaic.",
+    "5": "The concentrated casual phrasing feels deliberately engineered, while “get the full picture” overstates what the test provides."
+  },
+  "reason": "Version 2 is direct, economical, and credible, with a clear recommendation and an understated price statement. These rankings reflect editorial impressions, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "B",
+    "4": "O",
+    "5": "C"
+  }
+}

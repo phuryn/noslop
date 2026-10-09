@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "5": 2,
+    "4": 3,
+    "2": 4,
+    "3": 5
+  },
+  "reason": "Version 1 is nearly exact. Versions 5 and 4 keep all key facts with only minor wording changes, while 2 drops the final call to help plant, and 3 also loses the neighbour/community element.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "B3",
+    "3": "E",
+    "4": "C",
+    "5": "A"
+  }
+}

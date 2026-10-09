@@ -1,0 +1,11 @@
+{
+  "send": "4",
+  "reason": "Version 4 keeps the original headline, structure, facts, and commitments while preserving the writer’s warm, fragment-driven voice. Its small edits read like natural smoothing, not rewriting.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "A",
+    "3": "B5",
+    "4": "C"
+  },
+  "picked_arm": "C"
+}

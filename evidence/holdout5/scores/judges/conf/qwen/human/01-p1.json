@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 6,
+    "3": 1,
+    "4": 4,
+    "5": 5,
+    "6": 7,
+    "7": 2
+  },
+  "send": "7",
+  "tells": {
+    "1": "The closing idea about stopping to recognise progress is a familiar LinkedIn platitude.",
+    "2": "The over-balanced sentences and 'pause and recognise progress' phrasing feel formulaic.",
+    "3": "none",
+    "4": "none",
+    "5": "The colon-led 'New equipment, new routines, new ways of working' triad feels constructed.",
+    "6": "Redundant corporate phrasing and repeated 'customers' make it sound machine-polished.",
+    "7": "The repeated 'new equipment, new routines, new ways of working' structure is slightly formulaic, though the overall tone is natural."
+  },
+  "reason": "Version 3 feels the most naturally human, but version 7 is the best one to publish because it is clearer, more direct, and still warm. It keeps the appreciation without sounding too casual or padded.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "O",
+    "3": "C",
+    "4": "A",
+    "5": "V6C",
+    "6": "E",
+    "7": "V6A"
+  }
+}

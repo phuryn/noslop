@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 2,
+    "4": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "\"The remaining piece\" and \"target date\" sound like templated status-report filler.",
+    "3": "none",
+    "4": "\"target date\" adds unnecessary corporate polish for a Slack update."
+  },
+  "reason": "Version 1 feels like a quick, natural update from a teammate: specific, concise enough, and not over-managed. Version 3 is a close second, while 2 and 4 sound slightly more formulated.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "O",
+    "3": "B5",
+    "4": "track2/A-int"
+  }
+}

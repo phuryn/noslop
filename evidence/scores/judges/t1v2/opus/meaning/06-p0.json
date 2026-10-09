@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 3,
+    "4": 1
+  },
+  "reason": "Version 4 keeps every fact, the 'good/fun part' idea, the 'more time' benefit, all three scenarios, and the headings; Version 1 is close but says 'you don't have to weigh anything out,' overgeneralizing beyond dry ingredients. Version 3 merges the scenarios and adds 'all to yourself,' while Version 2 drops the section headings and their framing ('Less measuring. More making.', 'Make room for a monthly bake').",
+  "label_to_arm": {
+    "1": "B2",
+    "2": "A",
+    "3": "B",
+    "4": "C"
+  }
+}

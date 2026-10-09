@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 5,
+    "2": 3,
+    "3": 2,
+    "4": 4,
+    "5": 1
+  },
+  "reason": "Version 5 keeps the recommendation, early-detection point, markers, baseline, care guidance, $129 price, and fuller-picture benefit. Version 3 only drops the closing value line; 2 omits other markers and shifts age and benefit wording; 4 drops the vaccine contrast, upgrades “help spot” to “show,” and cuts care guidance plus the value pitch; 1 softens the advice into a question, adds claims, and loses pre-symptom detection and baseline tracking.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "C",
+    "3": "B3",
+    "4": "A",
+    "5": "B5"
+  }
+}

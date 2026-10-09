@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2
+  },
+  "send": "2",
+  "tells": {
+    "1": "The tidy three-benefit list, generic leadership lesson, and closing engagement question feel like a LinkedIn template.",
+    "2": "none",
+    "3": "“Meeting patients where they already are” is a stock takeaway, followed by a predictable engagement question."
+  },
+  "reason": "Version 2 offers operational detail, personal judgment, and unresolved problems that make it read like an experienced practitioner, assuming those details are accurate. Version 3 is tighter than version 1, but both feel more formulaic and oversimplify the results.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "track2/B2-int",
+    "3": "track2/A-int"
+  }
+}

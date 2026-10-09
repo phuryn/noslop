@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 1,
+    "4": 3
+  },
+  "reason": "V3 keeps every fact, date, rate, caveat, and the Sunday-class rationale, while V1 adds only a minor offer of help and V4 drops the 'more options during the week' rationale. V2 makes the most changes: it narrows 'current member' to monthly membership holders, adds a renewal mechanism and a 'starting soon' claim for the classes, and drops both the rationale and the 'about the change' scope.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "E",
+    "3": "B3",
+    "4": "A"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 1,
+    "3": 3,
+    "4": 2,
+    "5": 6,
+    "6": 4
+  },
+  "send": "2",
+  "tells": {
+    "1": "'The consequences are significant:' plus bolded parallel category bullets reads like AI-structured prose.",
+    "2": "none",
+    "3": "'What this costs:' followed by the same bolded parallel categories is templated and AI-like.",
+    "4": "Overly consistent casual phrasing ('who's free', 'bunch up', 'who's on shift') feels like an AI attempting a human voice.",
+    "5": "Typos, informal phrasing, and incomplete non-goals suggest a raw human draft, not AI polish.",
+    "6": "'This causes four problems:' and the very crisp, parallel category framing read AI-optimized."
+  },
+  "reason": "Version 2 reads like a skilled human wrote it: clear, professional, and natural without over-formatting or over-casualness. It states the problem and goals directly and credibly.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B5",
+    "3": "B3",
+    "4": "C",
+    "5": "E",
+    "6": "A"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2
+  },
+  "reason": "Version 2 preserves the original wording and fix statement most exactly, changing only formatting. Version 3 is nearly identical but slightly rewords the invoice item, while Version 1 rephrases the PDF fix more than the others.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "track2/B5-int",
+    "3": "track2/A-int"
+  }
+}

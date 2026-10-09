@@ -1,0 +1,42 @@
+{
+  "dropped": [
+    {
+      "item": "The word 'practical' describing the considerations for other utilities is gone. 'What other utilities should think about' is less clearly framed as practical guidance.",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "'Leaks that might otherwise go unnoticed' became 'leaks nobody knew about'. A hedged, general claim is now a definite statement that these leaks were previously unknown.",
+      "severity": "minor"
+    },
+    {
+      "item": "'Pressure data collected for everyday operations' became 'Most water utilities already collect pressure readings just to keep the system running'. This adds a generalization about most utilities, and 'just' narrows the stated purpose.",
+      "severity": "minor"
+    },
+    {
+      "item": "The abstract moved from third person ('Mesa Valley Water Authority used data it already had') to first-person plural ('we found', 'we helped'). It now reads as the speaker's direct experience.",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "The claim that most water utilities already collect pressure readings is not stated in the original.",
+      "severity": "minor"
+    },
+    {
+      "item": "The talk now promises to cover 'what didn't' work. This implies failures or unsuccessful approaches the original never mentions; the original only promises 'lessons from that work'.",
+      "severity": "minor"
+    },
+    {
+      "item": "'Before digging into their own pressure data' frames the guidance as preparation before starting. The original speaks more generally of utilities 'looking to make better use of' their data.",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [
+    "what didn't",
+    "Most water utilities already collect pressure readings",
+    "leaks nobody knew about"
+  ],
+  "meaning_preserved": 4
+}

@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 4,
+    "3": 2,
+    "4": 1
+  },
+  "reason": "Version 4 keeps all key facts and preserves the most nuances, including 'catch your breath', without adding substantive new claims. Version 3 is close but omits that nuance; Version 1 adds 'most of us' and 'just' and weakens 'colder months'; Version 2 drops the winter-preparations welcome and changes the workshop phrasing more noticeably.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B3",
+    "4": "B5"
+  }
+}

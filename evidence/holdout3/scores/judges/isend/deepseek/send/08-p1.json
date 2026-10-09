@@ -1,0 +1,11 @@
+{
+  "send": "4",
+  "reason": "It keeps all the original facts, pricing, coverage, minimum booking, 48-hour commitment, and purpose while reading naturally and staying closest to the writer's tone.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "E",
+    "4": "B5"
+  },
+  "picked_arm": "B5"
+}

@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1
+  },
+  "reason": "Version 3 keeps the measuring benefit, the monthly scenes and “look forward to” line, and the stay-or-cancel terms, with only a narrowed hero phrase and a dropped “homemade.” Version 1 loses that anticipation line and softens the tea moment, and version 2 drops the lifestyle section and the stay commitment while changing “sneaking a taste,” though its Rosa story is allowed.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "track2/B3-int",
+    "3": "B3"
+  }
+}

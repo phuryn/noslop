@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 5,
+    "6": 6
+  },
+  "send": "2",
+  "tells": {
+    "1": "none (clunky, repetitive, with a duplicated 'Abstract' and an encoding glitch, typical of an unedited human draft)",
+    "2": "the stock 'what worked, what didn't' formula, though the first-person voice otherwise reads naturally",
+    "3": "slightly polished, even sentence rhythm; 'helped lead' inflates the speaker's role beyond the source",
+    "4": "an abstract-to-specific opening generalization and the awkward hedged phrase 'making more of their own pressure data'",
+    "5": "repetitive 'This talk covers... It also covers' scaffolding with a templated, balanced structure",
+    "6": "generic AI phrasing: 'explores', 'shares lessons', 'practical considerations', 'make better use of'"
+  },
+  "reason": "Version 1 is clearly the raw human original, but it is too clunky and error-ridden to send. Version 2 keeps a natural first-person speaker voice and is clear and engaging without leaning on the generic 'explores/practical considerations' phrasing that marks 5 and 6.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "C",
+    "3": "A",
+    "4": "B5",
+    "5": "B3",
+    "6": "O"
+  }
+}

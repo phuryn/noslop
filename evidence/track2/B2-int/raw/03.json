@@ -1,0 +1,7 @@
+{
+  "id": 3,
+  "arm": "B2",
+  "reply1": "The text is already close to what a release note needs, so I made a light edit. I removed the bold labels inside the bullets and kept the structure. Every fact is unchanged: the 15-minute and hourly intervals, bulk editing, the PDF currency-symbol fix and the October 14 date.\n\n<final>\n**Ledgerly 4.2 Release Notes**\nReleasing October 14\n\n**What's new**\n\n- Faster bank feed sync: Bank feeds now sync every 15 minutes instead of hourly, so your transactions show up sooner.\n- Bulk invoice editing: You can now update multiple invoices at once instead of editing them one by one.\n\n**Fixes**\n\n- PDF export: Currency symbols now display correctly in exported PDFs.\n</final>",
+  "asked": false,
+  "final": "**Ledgerly 4.2 Release Notes**\nReleasing October 14\n\n**What's new**\n\n- Faster bank feed sync: Bank feeds now sync every 15 minutes instead of hourly, so your transactions show up sooner.\n- Bulk invoice editing: You can now update multiple invoices at once instead of editing them one by one.\n\n**Fixes**\n\n- PDF export: Currency symbols now display correctly in exported PDFs."
+}

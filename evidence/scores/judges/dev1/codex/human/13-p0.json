@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 4,
+    "3": 2,
+    "4": 5,
+    "5": 1
+  },
+  "send": "5",
+  "tells": {
+    "1": "Repeated 'Mitigation:' labels make the risk section feel mechanically assembled.",
+    "2": "Systematic conversational substitutions such as 'let it slide' and 'make the final call' feel like an imposed casualness.",
+    "3": "Generic business phrases such as 'full brand experience' and 'stronger potential returns' substitute for specific evidence.",
+    "4": "Stacked corporate abstractions, including 'enhanced in-store experience' and 'concentrate talent and inventory,' give it a template-like voice.",
+    "5": "The uniformly comprehensive structure and stock closing invitation still feel formulaic."
+  },
+  "reason": "Version 5 best balances professional directness with natural phrasing, and its conditional language suits a proposal awaiting approval; version 3 is a close second. These are stylistic impressions, not evidence of AI authorship, and every version needs completed financials and a clearer decision deadline before circulation.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "C",
+    "3": "A",
+    "4": "O",
+    "5": "B5"
+  }
+}

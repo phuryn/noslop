@@ -1,0 +1,11 @@
+{
+  "send": "3",
+  "reason": "It keeps the same service facts, both use cases, and the 15-minute ask about where you might fit, without adding scope or turning the offer into a claim that you can cover the routes.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "A",
+    "3": "B5",
+    "4": "C"
+  },
+  "picked_arm": "B5"
+}

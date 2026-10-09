@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1,
+    "4": 5,
+    "5": 4
+  },
+  "reason": "Version 3 best preserves the danger of fluent errors, the “betrayed” double-read, the precise obligation-shift examples, and the claim that risk moved rather than shrank. Version 1 ranks next by keeping the “as if” hedge and those examples despite dropping “dangerous,” ahead of version 2’s softer “got it wrong,” version 5’s narrowed “who owes what” and “don’t map neatly,” and version 4’s added sworn-translator status, constant agency pressure, and lawsuit outcome.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "A",
+    "3": "B3",
+    "4": "E",
+    "5": "C"
+  }
+}

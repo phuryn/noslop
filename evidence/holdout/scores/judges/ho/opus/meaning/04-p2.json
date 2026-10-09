@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2,
+    "4": 4,
+    "5": 5
+  },
+  "reason": "V2 keeps every fact and sentiment except 'catch your breath'; V3 also drops 'glad to have you along', and V1 adds 'most of us are in the same boat' and 'just'. V4 cuts both the welcome warmth and the winter-preparations line, and V5 also reworks the workshop description, dropping 'brush up' and the talk-through of questions.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B3",
+    "3": "B2",
+    "4": "B",
+    "5": "A"
+  }
+}

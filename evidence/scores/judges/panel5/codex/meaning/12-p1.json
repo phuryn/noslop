@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2,
+    "4": 4,
+    "5": 5
+  },
+  "reason": "Version 1 stays closest; version 3 slightly strengthens the caveat about unnoticed leaks, while version 2 adds claims about most utilities, previously unknown leaks, and a promise to discuss what failed. Version 4 adds leadership and stronger causal claims; version 5 introduces an unsupported speaker name and gender, although all versions preserve the numbers.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "C",
+    "3": "B5",
+    "4": "A",
+    "5": "E"
+  }
+}

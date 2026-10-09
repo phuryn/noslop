@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 5,
+    "4": 3,
+    "5": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Overly standardized phrasing like 'Fixed a bug where...' and 'instead of hourly' creates a template feel.",
+    "3": "Inconsistent tone, question-style headings, exclamation, and incorrect 'PDF's' suggest an AI trying to sound casual but missing fluency.",
+    "4": "Markdown headings and repetitive 'instead of...' constructions give it an LLM-generated, templated feel.",
+    "5": "Nearly identical to 4 with compressed wording ('hourly') and impersonal 'You can update'—classic AI default style."
+  },
+  "reason": "Version 1 has the most natural, reader-friendly voice while remaining clear and polished enough for release notes; the others either feel formulaic or contain errors that undermine credibility.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "O",
+    "3": "E",
+    "4": "track2/B5-int",
+    "5": "track2/A-int"
+  }
+}

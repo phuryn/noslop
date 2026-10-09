@@ -1,0 +1,11 @@
+{
+  "send": "3",
+  "reason": "Version 3 keeps every fact: the December 1 increase from $119 to $135, current members staying at $119 until March 1, and Sunday evening classes with times to follow. It also keeps the 'more options during the week' reason and the invitation to reply with questions, in the original's plain tone. Version 1 drops the reason for the classes, Version 2 adds 'renewal' and 'starting soon' commitments, and Version 4 changes the subject line and adds an editorial tone ('On a happier note').",
+  "label_to_arm": {
+    "1": "A",
+    "2": "E",
+    "3": "B5",
+    "4": "C"
+  },
+  "picked_arm": "B5"
+}

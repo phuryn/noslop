@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Stiff, contraction-free phrasing like 'As a current member, you keep...' and 'when the new rate starts for you'.",
+    "3": "Over-polished future phrasing and generic benefit language, such as 'will increase from', 'will take effect for you', and 'to give you more options'.",
+    "4": "Boilerplate benefit clause forced in as 'which gives you more options' with a subject-verb mismatch."
+  },
+  "reason": "Version 1 reads the most like a human wrote it: clear, warm, and concise without stiffness, over-polish, or errors.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "track2/A-int",
+    "3": "O",
+    "4": "track2/B3-int"
+  }
+}

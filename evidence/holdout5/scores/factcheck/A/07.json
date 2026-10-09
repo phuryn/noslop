@@ -1,0 +1,29 @@
+{
+  "dropped": [
+    {
+      "item": "The reassurance that none of this means a plan is wrong for the reader",
+      "severity": "minor"
+    },
+    {
+      "item": "The reassurance that visitors are welcome to leave the planning chat with nothing more than a clearer idea of their options",
+      "severity": "minor"
+    },
+    {
+      "item": "The advice to 'think carefully before you sign' is narrowed to reading the small print only",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "'they aren't right for everyone' became 'Others will be better off without one'. This shifts from a hedged statement that plans don't suit everyone to a firmer claim that some families would be better off with no plan.",
+      "severity": "minor"
+    },
+    {
+      "item": "The balanced closing caveat (a plan 'deserves a close look at the small print first') became a direct instruction near the opening ('read the small print before you sign'). The tone is more directive and less reassuring.",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

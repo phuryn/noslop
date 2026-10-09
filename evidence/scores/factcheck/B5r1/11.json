@@ -1,0 +1,12 @@
+{
+  "dropped": [
+    {
+      "item": "\"closely\": the original says you'll work closely with the chef on menu changes and specials; the edit says only \"work with the chef\"",
+      "severity": "minor"
+    }
+  ],
+  "changed": [],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

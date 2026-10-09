@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 5,
+    "4": 3,
+    "5": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Sounds over-polished: the stock phrase 'I found myself' leads into a neat colon-list, and the semicolon balance feels tidy.",
+    "3": "No AI tell; it is weak human drafting, with repetitive 'I had had', clichés ('bang or whimper') and a filler 'Anyway'.",
+    "4": "The colon list and semicolon pairing feel slightly too symmetrical and composed.",
+    "5": "Choppy one-action sentences ('I straightened... I checked... I wiped...') feel like a deliberate humanizing pass, and the fragment opener is a little forced."
+  },
+  "reason": "Version 1 keeps the strong concrete details and the honest ending in plain, unfussy sentences with no showy punctuation, so it reads most like a confident human writer. Version 3 sounds human but is too clumsy and vague to publish, and Version 5 tries a bit too hard to sound casual.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "O",
+    "3": "E",
+    "4": "A",
+    "5": "C"
+  }
+}

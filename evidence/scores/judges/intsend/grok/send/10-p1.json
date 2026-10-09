@@ -1,0 +1,11 @@
+{
+  "send": "3",
+  "reason": "It keeps the same dates, rates, grandfathering, class addition, and reply offer in the same straightforward voice, without extra commitments or a rewritten subject.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "track2/A-int",
+    "3": "track2/B5-int",
+    "4": "C"
+  },
+  "picked_arm": "track2/B5-int"
+}

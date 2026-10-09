@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 5,
+    "4": 2,
+    "5": 6,
+    "6": 3
+  },
+  "send": "4",
+  "tells": {
+    "1": "none",
+    "2": "Unearned closer that the win came from meeting patients where they already are.",
+    "3": "Formulaic reflection: What I took from this, plus the people we serve.",
+    "4": "none",
+    "5": "Full template: Here's what that meant, a bullet triad, and The lesson for me.",
+    "6": "Performed casual hook (all we did was) plus the stock operational-wins lesson."
+  },
+  "reason": "Version 1 is the only draft that sounds typed by a person rather than smoothed into the same cadence. I would still publish 4: it is clear and credible, and it stops before the fake lesson that undercuts 2, 3, 5, and 6.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "B3",
+    "3": "B5",
+    "4": "A",
+    "5": "O",
+    "6": "C"
+  }
+}

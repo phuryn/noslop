@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 3,
+    "3": 2,
+    "4": 1
+  },
+  "reason": "Version 4 is nearly identical to the original. Version 3 keeps the original's tentative language and intent most closely, while version 2 paraphrases the interest line more; version 1 changes 'I think' to 'I saw' and adds 'good fit', losing nuance.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B3",
+    "3": "B5",
+    "4": "A"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "dropped": [],
+  "changed": [
+    {
+      "item": "The original asked whether they could help ('Could we help Fairview Markets cover regular routes or last-minute delivery needs?'). The edit turns this into a flat claim of capability ('We can cover Fairview Markets' regular routes or last-minute deliveries'). The tentative question about fit is gone.",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

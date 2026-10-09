@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 5,
+    "4": 3,
+    "5": 4
+  },
+  "reason": "V1 keeps every claim, including 'It isn't cheaper'. V2 and V4 are close but drop that line, and V4 also softens 'betrayed' and 'It didn't'. V5 drops the point that fluency 'is exactly what makes it dangerous', and V3 is a loose rewrite that adds facts (sworn translator, document types, the client being sued) and flattens the reasoning.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B3",
+    "3": "E",
+    "4": "A",
+    "5": "B5"
+  }
+}

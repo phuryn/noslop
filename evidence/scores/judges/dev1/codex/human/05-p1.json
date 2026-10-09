@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 2,
+    "4": 5,
+    "5": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "The accumulation of colloquialisms—“sit uncovered,” “actually accept,” “bunch up”—feels like a deliberate conversational rewrite.",
+    "3": "none",
+    "4": "“The consequences are significant” adds generic emphasis without information; the closing “informing the decision” also feels formulaic.",
+    "5": "“What this costs” feels like a punchy heading imposed on a list that mostly describes consequences."
+  },
+  "reason": "Version 1 best fits a working PRD: restrained language, clear hierarchy, and straightforward statements; version 3 is close. These are stylistic judgments, not evidence of authorship, and every version needs the same substantive correction: escalation should not count as a completed rescheduling.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "B5",
+    "4": "O",
+    "5": "B3"
+  }
+}

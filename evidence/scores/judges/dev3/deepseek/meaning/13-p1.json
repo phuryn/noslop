@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 3,
+    "3": 1,
+    "4": 2
+  },
+  "reason": "Version 3 stays closest to the original wording and preserves all key specifics such as 'targeted outreach' and 'capture customers.' Version 4 is nearly as faithful but slightly softens those terms; Versions 2 and 1 add or paraphrase more, with Version 1 losing the most business precision.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B5",
+    "3": "B3",
+    "4": "A"
+  }
+}

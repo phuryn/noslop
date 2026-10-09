@@ -1,0 +1,21 @@
+{
+  "dropped": [
+    {
+      "item": "\"Real prospects\": the claim that the role offers career prospects or progression is gone.",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "\"Skills that are always in demand\" became \"a trade that people will hire you for\". This weakens the claim from ongoing, consistent demand to general employability.",
+      "severity": "minor"
+    },
+    {
+      "item": "\"Come out the other end with skills\" became \"finish with a trade\". The outcome shifts slightly, and the original's framing of the role as already \"a real trade\" is now presented as something you get only after finishing.",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

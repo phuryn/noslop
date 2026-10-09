@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2,
+    "4": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "The added work-life-balance phrasing feels generic and smoothed-over compared with the more specific kitchen details.",
+    "3": "It reads like a clean but slightly templated paraphrase, especially the 'real days off and nights that actually end' line.",
+    "4": "The bolded section headers make it feel more like a formatted AI-generated job template than a natural note from a kitchen."
+  },
+  "reason": "Version 1 feels most human because it includes concrete, lived-in details: covers, staffing, butchery, turnover history, and benefits. It has personality and credibility without sounding like a generic job-post template.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "B5",
+    "3": "track2/A-int",
+    "4": "O"
+  }
+}

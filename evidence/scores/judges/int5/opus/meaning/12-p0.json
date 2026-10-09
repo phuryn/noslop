@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 1
+  },
+  "reason": "Version 3 keeps every original claim and the 'helped' hedge on the 14%→9% drop. Version 2 drops 'help' and the 'otherwise unnoticed' point in the abstract, so the drop reads as fully caused by this work. Version 1 adds many supported answer facts but says 'We did it,' crediting the whole drop to this project, which contradicts the writer's stated caveat.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "track2/A-int",
+    "3": "B5"
+  }
+}

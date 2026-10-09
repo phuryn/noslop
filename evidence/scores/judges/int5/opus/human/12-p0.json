@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 1,
+    "4": 3
+  },
+  "send": "3",
+  "tells": {
+    "1": "Promises 'what we learned' without giving a single lesson, and the bio repeats the 14% to 9% figure almost word for word",
+    "2": "Stock abstract phrasing such as 'This talk explores', 'shares lessons', 'practical considerations', and 'make better use of', with no concrete detail",
+    "3": "The closing line 'You'll leave knowing how to get real results...' is a boilerplate takeaway promise, and 'the model's alerts' appears without ever introducing the model",
+    "4": "Generic summary with no specifics, and the stat is restated in the bio"
+  },
+  "reason": "Version 3 is the only one with concrete, checkable details (18 months, 410M gallons, $85K, 30% false positives, a named technician, a named speaker) and a frank admission that simple threshold rules did most of the work, so it reads as written by a practitioner and gives reviewers something to judge. The other three are interchangeable summaries; version 2 is the most templated.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "O",
+    "3": "track2/B5-int",
+    "4": "track2/A-int"
+  }
+}

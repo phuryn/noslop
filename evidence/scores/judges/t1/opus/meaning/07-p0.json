@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2
+  },
+  "reason": "Version 1 keeps every fact, including 'target date'. Version 3 drops 'target date', a slight loss of nuance. Version 2 adds 'big', which implies smaller pieces remain, and 'hit Nov 3' sounds firmer than a target.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "B"
+  }
+}

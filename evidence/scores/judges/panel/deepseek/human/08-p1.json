@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 1,
+    "4": 5,
+    "5": 4
+  },
+  "send": "3",
+  "tells": {
+    "1": "Formal, slightly long-winded phrasing; reads human but less polished.",
+    "2": "Very tidy clinical structure with an abrupt closing price sentence.",
+    "3": "None—conversational and idiomatic throughout.",
+    "4": "Clipped, pronoun-light sentences and no contractions give it an AI-summary feel.",
+    "5": "Em-dash framing and formulaic phrases like 'practical way' and 'make the most.'"
+  },
+  "reason": "Version 3 has the most natural, skilled-human voice with conversational phrasing and a clear value proposition, while 4 and 5 feel the most AI-polished.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "B3",
+    "3": "C",
+    "4": "A",
+    "5": "O"
+  }
+}

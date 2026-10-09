@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "Version 1 keeps every fact, including 'target date'; its 'only' just restates the singular 'remaining piece'. Version 2 drops 'target date', which softens the caveat that Nov 3 is a target. Version 3 also drops it and changes 'Android biometric flow' to 'Android biometric login', which subtly shifts the scope of the remaining work.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "track2/B5-int",
+    "3": "B5"
+  }
+}

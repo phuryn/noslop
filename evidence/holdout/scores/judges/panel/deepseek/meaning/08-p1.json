@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "Version 1 preserves all key facts, the history/future idea, and the restoration/voice nuance most fully. Version 2 drops 'find their voice again,' and Version 3 adds/changes nuance about most pianos having years left and loses the original privilege/future framing.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B3",
+    "3": "A"
+  }
+}

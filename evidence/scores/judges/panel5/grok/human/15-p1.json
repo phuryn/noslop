@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 5,
+    "4": 4,
+    "5": 6,
+    "6": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "Empty closer “more of what the app has to offer,” under the slogan header “Built for real recovery.”",
+    "2": "none",
+    "3": "Ad clichés: “Never miss a session again” and “watch your progress grow!”",
+    "4": "Voiceless compression — “shows the form for the movement” and “unlocks additional features.”",
+    "5": "“Guidance you can trust,” plus matched benefit headlines and “unlock more of what the app has to offer.”",
+    "6": "Performed casualness (“bouncing back,” “tweak,” “get moving”) and a social-proof header with no proof."
+  },
+  "reason": "Version 2 reads like a careful editor: concrete, credible, and free of empty upsell lines, while 5 is glossy template copy and 6’s warmth feels performed. I’d publish 2 because it stays clear and trustworthy without overclaiming.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "B3",
+    "3": "E",
+    "4": "A",
+    "5": "O",
+    "6": "C"
+  }
+}

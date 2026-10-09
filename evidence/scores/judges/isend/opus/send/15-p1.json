@@ -1,0 +1,11 @@
+{
+  "send": "3",
+  "reason": "Version 3 keeps every fact, commitment, and caveat (300+ PT-filmed videos, reminders, progress sharing, $7.99/month with the 24-hour auto-renew terms, and the medical disclaimer) and stays closest to my original voice. Version 2 changes the renewal terms and adds claims like \"never miss a session.\" Version 1 flattens the tone, and version 4 drifts into a chattier voice.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "E",
+    "3": "B5",
+    "4": "C"
+  },
+  "picked_arm": "B5"
+}

@@ -1,0 +1,11 @@
+{
+  "send": "1",
+  "reason": "Version 1 keeps every fact, commitment, and caveat intact, including the exact auto-renewal terms and the medical disclaimer, and stays closest to the original voice. Version 2 misstates the renewal terms and overpromises ('never miss a session'), Version 3 flattens the tone and drops some benefits, and Version 4 drifts into a more casual voice with looser subscription wording.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "E",
+    "3": "A",
+    "4": "C"
+  },
+  "picked_arm": "B5"
+}

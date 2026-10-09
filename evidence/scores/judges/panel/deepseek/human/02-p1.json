@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 5,
+    "4": 1,
+    "5": 4
+  },
+  "send": "4",
+  "tells": {
+    "1": "Third-person 'Fairview Markets' undercuts the direct 'you' and makes it feel slightly templated.",
+    "2": "Overly compressed, generic structure with no conversational context or warmth.",
+    "3": "Duplicate greeting and repetitive 'Would you be open to...' phrasing.",
+    "4": "none",
+    "5": "Paired formal questions ('Could we... Would you...') feel over-polite and patterned."
+  },
+  "reason": "Version 4 is the clearest and most natural: it is concise, uses concrete language like 'pick up last-minute loads,' and has a straightforward call to action without stiffness or filler.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B3",
+    "3": "E",
+    "4": "A",
+    "5": "O"
+  }
+}

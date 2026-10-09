@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 1,
+    "4": 3
+  },
+  "reason": "Version 3 best preserves the original meaning and specific commitments, followed closely by version 1; version 4 adds speculative 'Maybe' wording, and version 2 condenses and shifts key benefits the most.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "A",
+    "3": "B3",
+    "4": "C"
+  }
+}

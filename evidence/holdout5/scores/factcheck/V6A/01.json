@@ -1,0 +1,25 @@
+{
+  "dropped": [],
+  "changed": [
+    {
+      "item": "'helps with running costs' became 'helps keep our running costs down', which is slightly more specific about the direction of the benefit",
+      "severity": "minor"
+    },
+    {
+      "item": "'while most of us are asleep' became 'while the rest of us are asleep', which widens the scope from most people to everyone else",
+      "severity": "minor"
+    },
+    {
+      "item": "'has been running a new tunnel washer since March' became 'installed a new tunnel washer in March', shifting from operation to installation date",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "'the drop in water use has surprised us', which restates 'bigger than we expected' as a surprise",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

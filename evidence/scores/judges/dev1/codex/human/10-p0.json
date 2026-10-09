@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 5,
+    "3": 2,
+    "4": 1,
+    "5": 3
+  },
+  "send": "4",
+  "tells": {
+    "1": "Slightly formulaic phrasing: “to give you more options” and “Thank you for being part of our community.”",
+    "2": "“Quick heads-up” and “On a happier note” feel like deliberate attempts to inject friendliness; the latter risks sounding dismissive about the increase.",
+    "3": "none",
+    "4": "none",
+    "5": "none"
+  },
+  "reason": "Version 4 is direct, considerate, and easy to scan, with the protected rate clearly separated from the general increase. These are judgments about editorial style, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "C",
+    "3": "B3",
+    "4": "A",
+    "5": "B5"
+  }
+}

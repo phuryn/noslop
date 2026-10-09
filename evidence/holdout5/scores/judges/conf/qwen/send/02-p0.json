@@ -1,0 +1,13 @@
+{
+  "send": "5",
+  "reason": "It keeps all the original facts and commitments: mycelium inserts replacing polystyrene, 5,000 units per month, free samples, and a call next week. It also stays closest to the original’s direct, concise tone.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "V6C",
+    "3": "V6A",
+    "4": "C",
+    "5": "A",
+    "6": "E"
+  },
+  "picked_arm": "A"
+}

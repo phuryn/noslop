@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 3,
+    "4": 2,
+    "5": 5
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "redundant 'target date' and slightly formal 'remaining piece' phrasing",
+    "3": "'only ... left' plus redundant 'target date'; a bit polished",
+    "4": "none (slightly stiff opening 'The mobile login migration')",
+    "5": "three short, evenly structured declarative sentences with 'remaining piece' and 'target date' padding read templated"
+  },
+  "reason": "Version 1 sounds most like a person talking to teammates: it uses 'we're' and 'the only big piece left', which signals there may be small odds and ends while still being clear. The others drift toward report-style phrasing, with 'target date' padding and choppy sentence rhythm.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B3",
+    "3": "A",
+    "4": "B5",
+    "5": "O"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "dropped": [
+    {
+      "item": "Closing engagement question asking readers what has worked for them in reducing no-shows",
+      "severity": "major"
+    },
+    {
+      "item": "Framing that the change was 'simple'",
+      "severity": "minor"
+    }
+  ],
+  "changed": [],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

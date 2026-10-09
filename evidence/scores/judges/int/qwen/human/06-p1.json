@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2,
+    "4": 4
+  },
+  "send": "2",
+  "tells": {
+    "1": "The generic comfort imagery and slightly awkward 'Skip the weighing out' make it feel templated.",
+    "2": "none",
+    "3": "It is clean, but 'sneaking a taste' and 'a quiet cup of tea with the last crumb' feel like stock cozy copy.",
+    "4": "Overpackaged parallelisms like 'A little measuring done. A little joy delivered.' and 'Less measuring. More making.' feel machine-slick."
+  },
+  "reason": "Version 2 reads most like skilled human direct-response copy because it pairs a simple benefit with a concrete customer moment instead of relying only on cozy abstractions. I’d publish it after confirming the Rosa anecdote is real and approved.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "track2/B3-int",
+    "3": "track2/A-int",
+    "4": "O"
+  }
+}

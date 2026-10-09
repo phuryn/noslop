@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 5,
+    "5": 3,
+    "6": 6
+  },
+  "send": "5",
+  "tells": {
+    "1": "none",
+    "2": "Polished 'hands and your head' triplet and the templated 'If that sounds like you' closer.",
+    "3": "Choppy one-line paragraphs, the stock 'Sound like you?' closer and the slogan 'a proper trade with a future'.",
+    "4": "Formulaic doubling in 'a real trade with real prospects'.",
+    "5": "Smooth 'hands and your head' triplet, though otherwise restrained.",
+    "6": "Stacks every flourish: 'real trade with real prospects' with a colon reveal, then 'If that sounds like you'."
+  },
+  "reason": "Version 1 reads most human, with its rhetorical questions, '24.5k', 'whilst' and comma splices, but it is clunky and generic. Version 5 keeps the concrete details ('right to the thou', £24,500, the four-day week) with the fewest marketing flourishes, so it is the most credible version to publish.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "A",
+    "3": "C",
+    "4": "B5",
+    "5": "B3",
+    "6": "O"
+  }
+}

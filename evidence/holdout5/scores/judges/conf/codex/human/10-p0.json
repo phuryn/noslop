@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 5,
+    "4": 6,
+    "5": 7,
+    "6": 3,
+    "7": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "The closing sentence becomes generic and wordy: 'the decisions involved in supporting children through those changes'.",
+    "2": "The stock closing phrase 'always keeping ... at the heart of it' softens otherwise direct, natural prose.",
+    "3": "A formulaic 'Drawing on their clinical experience' transition leads into the inflated 'at the heart of the conversation'.",
+    "4": "Abstract phrasing such as 'fit an ongoing consideration' and 'reflect on the decisions involved' makes a practical subject sound like generic conference copy.",
+    "5": "The same formulaic transition and padded closing as version 3, with a less natural opening.",
+    "6": "'It stays something to think about' feels like a forced conversational rewrite that sacrifices precision.",
+    "7": "none"
+  },
+  "reason": "Version 2 has the most natural rhythm, but I would publish version 1 for its precision, appropriate professional tone and restraint about what the 15 years refers to. Version 7 sounds spontaneous but underedited; versions 3 and 5 imply 15 years in the specific role and workplace, and none of these stylistic signals establishes AI authorship.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "V6A",
+    "4": "O",
+    "5": "V6C",
+    "6": "B5",
+    "7": "E"
+  }
+}

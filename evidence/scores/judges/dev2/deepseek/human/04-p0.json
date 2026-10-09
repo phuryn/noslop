@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 1,
+    "4": 5,
+    "5": 3
+  },
+  "send": "3",
+  "tells": {
+    "1": "Em-dash appositive is a common AI polish.",
+    "2": "Slightly redundant 'It's... and it...' construction.",
+    "3": "none",
+    "4": "Formal, generic word choices and missing comma after date.",
+    "5": "Flatter rhythm than 1 and a vaguer 'And a reminder'."
+  },
+  "reason": "Version 3 has the most natural local allotment voice and clear, warm instructions; Version 1 is polished but slightly more writerly.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B5",
+    "3": "C",
+    "4": "B3",
+    "5": "A"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 1,
+    "3": 5,
+    "4": 2,
+    "5": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "The phrasing “you might want to hear about” and “I can share more then” feels slightly templated and clipped.",
+    "2": "The phrase “good fit” is a generic recruiter/AI-ish cliché, though the overall message still reads naturally.",
+    "3": "“If it sounds of interest” is stiff and slightly unnatural, making it feel AI-polished rather than human.",
+    "4": "The double hedging in “I think” and “I wondered” makes it sound overly cautious and formulaic.",
+    "5": "Opening with the role before the person feels like a job-posting template, and “I can tell you more then” is a bit blunt."
+  },
+  "reason": "Version 2 feels most like a skilled human recruiter because it acknowledges the candidate’s current role, clearly presents the opportunity, and uses a natural, low-pressure call to action. The other versions are either too hedged, slightly stiff, or more template-like.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "C",
+    "3": "O",
+    "4": "A",
+    "5": "B5"
+  }
+}

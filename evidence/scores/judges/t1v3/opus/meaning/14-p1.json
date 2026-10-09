@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 4,
+    "4": 1
+  },
+  "reason": "Version 4 keeps nearly every fact and nuance, losing only redundant phrasing. Version 1 drops minor touches (the 'anniversary to celebrate' line and '10 years of The Tidewater Bookshop'), and Version 2 cuts 'Those visits helped us get here', removes books from the 'earn its place' line, and adds 'to a friend'. Version 3 changes or invents the most: 'started with what we loved', 'first week', 'reread a dozen times', a friend who never gave the book back, and a singular 'My favorite'.",
+  "label_to_arm": {
+    "1": "B",
+    "2": "A",
+    "3": "C",
+    "4": "B3"
+  }
+}

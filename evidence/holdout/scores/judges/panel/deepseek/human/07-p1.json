@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 4,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "Slightly mechanical phrasing in 'A bug in the ParkWise app caused it' and 'it should reach you.'",
+    "2": "none",
+    "3": "Passive/formal phrasing ('it has now been fixed,' 'is being processed') sounds stiff and template-like.",
+    "4": "none"
+  },
+  "reason": "Version 4 reads as the most human and empathetic, with conversational phrasing that still clearly explains the bug and refund. It balances warmth and clarity without sounding stiff or boilerplate.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "O",
+    "4": "C"
+  }
+}

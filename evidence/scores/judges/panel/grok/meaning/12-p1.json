@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 2,
+    "4": 3
+  },
+  "reason": "Version 1 keeps the 14%–9% result, the “help” hedge, the unnoticed-leak caveat, and the speaker’s assisting role. Version 3 preserves those core facts but adds unsupported claims; Version 4 drops the help hedge, upgrades the speaker to having helped lead, and misplaces the leaks in the data; Version 2 invents the speaker’s name and gender and also strengthens or drops hedges.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "E",
+    "3": "C",
+    "4": "A"
+  }
+}

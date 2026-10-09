@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 3,
+    "4": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Polished generic marketing phrases like 'guidance you can trust' and vague premium description 'more of what the app has to offer.'",
+    "3": "Overly clipped, feature-list style with no distinctive voice or persuasive hook.",
+    "4": "Vague benefit statement 'get more of what the app has to offer' and generic phrases like 'see how far you've come.'"
+  },
+  "reason": "Version 1 reads most like a skilled human writer because it addresses the real adherence problem, includes a specific testimonial and exact video count, and explains the premium benefit concretely. The others rely on generic, AI-sounding marketing language or are too terse.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "O",
+    "3": "track2/A-int",
+    "4": "B5"
+  }
+}

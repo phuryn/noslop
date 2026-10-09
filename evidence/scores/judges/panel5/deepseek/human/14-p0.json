@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 6,
+    "4": 5,
+    "5": 3,
+    "6": 1
+  },
+  "send": "6",
+  "tells": {
+    "1": "Symmetrical triads and tidy, predictable phrasing like 'Every shelf and table had to earn its place' and 'bought a book, recommended us to a friend, or stopped in to browse.'",
+    "2": "Polished but generic gratitude and safe, predictable wording, especially 'Those visits helped us get here.'",
+    "3": "Overly neat rhythm and punctuation: 'Every shelf, every table, every book' and the parallel fragments 'Maybe it’s been reread. Maybe it’s been passed along.'",
+    "4": "Stacked clichés and abrupt pacing, such as 'bursting at the seams with books' and 'pine for that original space.'",
+    "5": "Same templated structure as the other polished variants, with slightly clunky phrasing like 'We wouldn’t be here without you coming in.'",
+    "6": "none"
+  },
+  "reason": "Version 6 uses concrete, conversational asides and specific humor that feel authentically human, while the others mostly read as polished but generic variants with symmetrical, AI-like phrasing.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "O",
+    "4": "E",
+    "5": "B5",
+    "6": "C"
+  }
+}

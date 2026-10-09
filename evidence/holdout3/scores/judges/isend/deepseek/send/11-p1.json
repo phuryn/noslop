@@ -1,0 +1,11 @@
+{
+  "send": "4",
+  "reason": "It preserves the original facts, voice, and emotional nuance most closely, with only minor tightening that still reads like the writer's own prose.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "E",
+    "3": "C",
+    "4": "B5"
+  },
+  "picked_arm": "B5"
+}

@@ -1,0 +1,11 @@
+{
+  "send": "2",
+  "reason": "Only this version keeps the original voice and facts while adding what you confirmed: in-house whole-animal butchery, a small line of six, Friday at about 180 covers as the hard night, a four-day week, fully covered employee health insurance, and the promotion stories—without inventing a close time, fire-setup details, or benefits you wouldn’t claim.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "track2/B5-int",
+    "3": "E",
+    "4": "track2/A-int"
+  },
+  "picked_arm": "track2/B5-int"
+}

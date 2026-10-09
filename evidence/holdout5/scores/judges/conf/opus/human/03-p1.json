@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 7,
+    "2": 5,
+    "3": 6,
+    "4": 1,
+    "5": 3,
+    "6": 4,
+    "7": 2
+  },
+  "send": "7",
+  "tells": {
+    "1": "Templated 'Here's what it adds' with bold-label bullets, each padded by a tricolon ('more explorers, more crossings, more arguments'; 'fresh tools, new twists, and a few surprises')",
+    "2": "Same bold-label bullet template with stacked tricolons, plus the scene-setting opener 'The tide's rolling in'",
+    "3": "Nearly identical to version 2: bold-label bullets with stacked tricolons and the stock 'Here's what it adds' lead-in",
+    "4": "none",
+    "5": "Retains the rhythmic tricolon 'more explorers, more crossings, and more arguments' and 'new tools, new twists, and a few surprises' even in prose form",
+    "6": "Editing artifact: 'The fifth player means...' refers back to something never introduced, and the call to action has been cut",
+    "7": "none"
+  },
+  "reason": "Version 4 reads most clearly human, with non-native quirks like '34€', 'the best is to go', and stacked exclamation marks, but it's too rough to send. Version 7 is plain, natural, and complete, with no list template or stacked triplets, and it keeps a clear call to action, so it's the one I'd publish.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "V6A",
+    "3": "V6C",
+    "4": "E",
+    "5": "B5",
+    "6": "A",
+    "7": "C"
+  }
+}

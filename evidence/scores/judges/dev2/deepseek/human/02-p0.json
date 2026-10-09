@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2,
+    "4": 5,
+    "5": 4
+  },
+  "send": "2",
+  "tells": {
+    "1": "Slightly compressed metric phrasing \"finished last year with a 99.2% on-time rate.\"",
+    "2": "none",
+    "3": "Ends with the AI-style CTA \"where we might fit\" despite natural opening.",
+    "4": "Formal \"provide refrigerated trucking\" and two back-to-back questions feel templated.",
+    "5": "Stilted \"finished last year at a 99.2% on-time rate\" and generic \"where we might fit\" CTA."
+  },
+  "reason": "Version 2 sounds most like a skilled human wrote it: natural proof, concrete wording, and a low-pressure ask. Version 4 feels the most templated.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "C",
+    "4": "O",
+    "5": "B5"
+  }
+}

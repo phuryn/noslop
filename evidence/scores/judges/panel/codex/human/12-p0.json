@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 5,
+    "4": 2,
+    "5": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Stock conference-copy phrasing: 'This talk explores,' 'practical considerations,' and 'make better use.'",
+    "3": "none",
+    "4": "Polishing introduces unsupported authority and certainty: 'helped lead' and 'which brought' strengthen the underlying claims.",
+    "5": "The conversational voice feels manufactured in places: 'just to keep the system running,' 'nobody knew about,' and 'digging into.'"
+  },
+  "reason": "Version 1 is clear, credible, and restrained without sounding formulaic. Version 4 is tighter but overstates leadership and causation; version 5 adds unsubstantiated scope and promises, version 2 sounds templated, and version 3 needs substantial cleanup—none of which establishes AI authorship.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "O",
+    "3": "E",
+    "4": "A",
+    "5": "C"
+  }
+}

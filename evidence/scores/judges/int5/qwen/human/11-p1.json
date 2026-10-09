@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 3,
+    "4": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "The bolded, templated sections make it feel like a generic AI-shaped job post rather than a note from a real kitchen.",
+    "3": "It reads smoothly but safely, with generic transitional phrasing like “Day to day” and fewer concrete details that make it feel lived-in.",
+    "4": "It is clean and plausible, but the flattened, generic wording and lack of specific kitchen texture make it feel more edited-by-model than written by a person."
+  },
+  "reason": "Version 1 feels most human because it includes specific, credible details about volume, staffing, butchery, schedule, pay, benefits, and staff history. The others are clear but increasingly templated and generic, with Version 2 feeling the most formatted and AI-like.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "O",
+    "3": "B5",
+    "4": "track2/A-int"
+  }
+}

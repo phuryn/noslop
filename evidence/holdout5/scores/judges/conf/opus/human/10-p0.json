@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 7,
+    "2": 1,
+    "3": 2,
+    "4": 4,
+    "5": 6,
+    "6": 5,
+    "7": 3
+  },
+  "send": "3",
+  "tells": {
+    "1": "Stock abstractions like 'explore', 'reflect on' and 'an ongoing consideration', plus the closing 'with comfort, function and everyday life at the centre of the conversation'",
+    "2": "none (has human errors instead: '15 years experience', the redundant 'fitting children who grow!')",
+    "3": "The tidy closing triad 'keeping comfort, function and everyday life in view'",
+    "4": "The padded fragment 'It stays something to think about.' and the 'at the centre' closing triad",
+    "5": "'isn't a one-off appointment but something that needs attention over time' contrast, plus the 'at the heart of the conversation' close; the rewrite also wrongly says they've been at Limbwise for 15 years",
+    "6": "The same 'isn't X but Y' contrast and 'at the heart of the conversation' close; it narrows the 15 years to the current role",
+    "7": "'always keeping comfort, function and everyday life at the heart of it' triad"
+  },
+  "reason": "Version 2 reads most human but has errors and an amateur exclamation, so it is not credible to publish as is. Version 3 is accurate, clear and the least formulaic of the polished versions, and it keeps the 15-year claim faithful to the source.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "E",
+    "3": "A",
+    "4": "B5",
+    "5": "V6A",
+    "6": "V6C",
+    "7": "C"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 5,
+    "3": 4,
+    "4": 1,
+    "5": 3
+  },
+  "send": "4",
+  "tells": {
+    "1": "Every list item opens with a bolded lead-in phrase, which feels templated, though the conversational voice ('Why I think this is right') reads human",
+    "2": "Bolded inline headers on every point plus a 'Mitigation:' label on each risk give it a formulaic, generated scaffold, and stock phrasing like 'structurally declining' and 'capital- and labor-intensive' adds to it",
+    "3": "Repeats the 'Mitigation:' label on every risk, and each rationale point is a topic sentence restated in the next sentence",
+    "4": "The repeated 'Mitigation:' labels are slightly templated; otherwise none",
+    "5": "Markdown ## headers clash with the plain-text To/From block, and four risk bullets in a row start with 'We will'"
+  },
+  "reason": "Version 4 is the tightest. It cuts the redundant topic-sentence-then-restatement pattern and uses active verbs in Next steps, so it reads like an experienced operator wrote it. Version 1 sounds the most personal, but it is a bit chatty for a leadership decision memo.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "O",
+    "3": "B3",
+    "4": "B",
+    "5": "A"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "None; uses contractions and direct, conversational language.",
+    "2": "Ends abruptly after the price, giving it a clipped, less complete feel.",
+    "3": "Uses transactional phrasing like 'can be added to the yearly checkup.'",
+    "4": "Overly polished with em dashes and benefit-stacking phrasing like 'a practical way to get a fuller picture.'"
+  },
+  "reason": "Version 1 sounds the most natural and credible, balancing warmth with clear information and avoiding the over-polished or transactional tone of the others.",
+  "label_to_arm": {
+    "1": "track2/B3-int",
+    "2": "B3",
+    "3": "track2/A-int",
+    "4": "O"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "send": "4",
+  "reason": "It keeps the original facts, commitments, and caveats closely intact while making only light, natural edits, and it preserves the writer's tone and closing.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "V6A",
+    "4": "B5",
+    "5": "E",
+    "6": "V6C"
+  },
+  "picked_arm": "B5"
+}

@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3
+  },
+  "reason": "Version 2 keeps every element, including the bug fix, the refund within 5 business days, the thanks for patience and the offer to answer questions, with only minor intensifiers like 'so sorry' and 'we'll help'. Version 1 drops the thanks for patience. Version 3 drops both the thanks and the invitation to ask further questions.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "C",
+    "3": "A"
+  }
+}

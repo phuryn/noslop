@@ -1,0 +1,21 @@
+{
+  "dropped": [
+    {
+      "item": "The idea of restoring pianos so they 'find their voice again' is gone; the edit no longer conveys bringing instruments back to life.",
+      "severity": "minor"
+    },
+    {
+      "item": "Calling the work 'a privilege' was softened to 'I'm glad', losing some of the sense of honor.",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "'Help these instruments... bring music into people's homes' became 'help keep them in people's homes'. This implies the pianos are already in homes and the goal is keeping them there, rather than restoring them and bringing music into homes.",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

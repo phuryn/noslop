@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1
+  },
+  "reason": "Version 3 keeps nearly every fact and nuance, dropping only the redundant 'Now we have two floors' line. Version 1 drops 'every book', 'an anniversary to celebrate', and 'Those visits helped us get here', and adds 'to a friend'. Version 2 changes facts ('a little over 400', 'day one', 'probably', 'bursting at the seams', 'pine for') and loses most of posts 2-5.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "E",
+    "3": "B3"
+  }
+}

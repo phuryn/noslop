@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3
+  },
+  "reason": "Version 2 keeps the original’s claims, price, free US shipping, cancel-anytime terms, and monthly look-forward line with only small wording shifts, while version 1 drops that promise and paraphrases the stay/cancel commitment more loosely. Version 3 replaces the bake-scene section, drops “stay as long as you like,” and broadens measuring beyond dry ingredients, even though the Rosa story itself was supplied.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "B3",
+    "3": "track2/B3-int"
+  }
+}

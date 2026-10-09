@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 1,
+    "4": 4
+  },
+  "reason": "Version 3 keeps the most facts and commitments with the fewest changes, including the full weather range and the career path. Version 2 also drops intermediate conditions and shifts “next” to “now”; version 1 further replaces member ownership with a benefit and the path with “leads to”; version 4 adds the most unsupported intensifiers and revises the offer, payment, and co-op rationale.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "B5",
+    "4": "C"
+  }
+}

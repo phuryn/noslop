@@ -1,0 +1,13 @@
+{
+  "send": "5",
+  "reason": "It keeps all the facts, caveats and acknowledgements while preserving the original's measured, appreciative tone, without adding or omitting key points.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "C",
+    "3": "A",
+    "4": "V6A",
+    "5": "B5",
+    "6": "V6C"
+  },
+  "picked_arm": "B5"
+}

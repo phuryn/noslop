@@ -1,0 +1,16 @@
+{
+  "dropped": [
+    {
+      "item": "Acknowledgement of the specific ways customers were affected (trying to work, keep in touch or relax at home)",
+      "severity": "minor"
+    },
+    {
+      "item": "Closing repeated apology: 'We're sorry for the trouble this caused.'",
+      "severity": "minor"
+    }
+  ],
+  "changed": [],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

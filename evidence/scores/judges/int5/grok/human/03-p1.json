@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "The clipped “Before, they didn’t.” is a forced contrast a skilled editor would cut.",
+    "4": "Bold lead-in labels on every bullet, plus an italic date, are stock AI changelog formatting."
+  },
+  "reason": "Version 1 is the cleanest publishable changelog: real headings, tight wording, and no decoration or awkward asides. Versions 3 and 4 add template styling, and 3’s contrast line undercuts credibility.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "track2/B5-int",
+    "3": "B5",
+    "4": "O"
+  }
+}

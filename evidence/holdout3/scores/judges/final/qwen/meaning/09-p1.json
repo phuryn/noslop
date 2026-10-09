@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 3,
+    "4": 2,
+    "5": 5
+  },
+  "reason": "Version 1 keeps all original facts and commitments; Version 4 is nearly as faithful but omits the explicit 'real trade with real prospects' claim. Versions 3 and 2 change or weaken some nuances, while Version 5 adds requirements and stronger career/tolerance claims not in the original.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "C",
+    "3": "A",
+    "4": "B3",
+    "5": "E"
+  }
+}

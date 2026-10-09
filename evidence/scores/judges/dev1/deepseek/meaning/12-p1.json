@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 4,
+    "3": 2,
+    "4": 1
+  },
+  "reason": "Version 4 stays closest to the original, preserving the 'might otherwise' and 'helped bring' caveats. Version 3 is largely faithful but drops the 'help' nuance; version 1 loses more of the hypothetical/help caveats; version 2 adds a broad claim about most utilities and 'what didn't work' not stated in the original.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "B5",
+    "4": "B3"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 3,
+    "3": 2,
+    "4": 4,
+    "5": 1
+  },
+  "send": "5",
+  "tells": {
+    "1": "Stiff corporate phrasing ('We provide refrigerated trucking', 'discuss where we might fit') and two questions back to back",
+    "2": "Wordy close ('whether that fits what you need')",
+    "3": "none",
+    "4": "Flat, formulaic close ('where we might fit') after a dense first paragraph",
+    "5": "none"
+  },
+  "reason": "Version 5 sounds like a real dispatcher reaching out. 'The occasional last-minute run' and 'glad to pitch in' feel natural, and the on-time stat stays concrete and credible. Version 3 is a close second for brevity, but it reads a little abrupt.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "A",
+    "3": "B3",
+    "4": "B",
+    "5": "C"
+  }
+}

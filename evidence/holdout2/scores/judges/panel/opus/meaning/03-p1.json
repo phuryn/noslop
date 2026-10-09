@@ -1,0 +1,11 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2
+  },
+  "reason": "Version 1 keeps every fact, deadline, and commitment, changing only wording. Version 2 drops 'to the booth' from the engine cutaway addition and shortens 'display specs' to 'specs', which slightly loosens where the display goes and what specs are requested.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3"
+  }
+}

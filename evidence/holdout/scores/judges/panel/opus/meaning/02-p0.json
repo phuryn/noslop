@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1
+  },
+  "reason": "Version 3 is essentially verbatim. Version 1 keeps the 'I think' hedge but turns the conditional offer to share more into a promise tied to the chat. Version 2 drops the hedge by stating 'I saw' as fact and adds a new claim that Callum might be 'a good fit'.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "C",
+    "3": "A"
+  }
+}

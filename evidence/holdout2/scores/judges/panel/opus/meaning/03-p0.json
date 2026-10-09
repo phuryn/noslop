@@ -1,0 +1,11 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2
+  },
+  "reason": "Version 1 keeps every fact and commitment, changing only wording such as 'Tell me if I missed anything'. Version 2 drops 'to the booth' from the cutaway addition and 'display' from the specs item, slightly loosening where the cutaway goes and what the specs cover.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3"
+  }
+}

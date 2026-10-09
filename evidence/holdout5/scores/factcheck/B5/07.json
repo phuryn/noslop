@@ -1,0 +1,17 @@
+{
+  "dropped": [
+    {
+      "item": "The 'yet' connective that linked the £4,200 average cost to the plan's limited coverage. The edit splits these into separate sentences, which slightly weakens the implied point that a plan may not cover the full typical cost.",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "'it deserves a close look at the small print first' became the direct instruction 'Just read the small print closely first.' The softer framing ('only that...') is now an imperative, a slight shift in tone but not in substance.",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

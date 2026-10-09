@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 3
+  },
+  "reason": "Version 1 closely preserves the original; version 2 adds unsupported claims about most utilities, previously unknown leaks, and discussing what failed. Version 4 invents the speaker’s name and gender, while version 3 makes broader substantive changes by adding leadership, making unnoticed leaks definite, and strengthening causal attribution for the reduction.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "C",
+    "3": "A",
+    "4": "E"
+  }
+}

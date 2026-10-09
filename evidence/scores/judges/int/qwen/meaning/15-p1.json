@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 1
+  },
+  "reason": "Version 3 is most faithful because it preserves the original’s core claims, 300+ count, form/technique, consistency language, and caveats without adding new material. Version 2 is next since its new facts come from the writer’s answers and it keeps many core points, though it changes the count to 312 and drops some original phrasing; Version 1 omits more original nuances such as clear guidance, knowing what to do, and staying consistent.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "track2/B3-int",
+    "3": "B3"
+  }
+}

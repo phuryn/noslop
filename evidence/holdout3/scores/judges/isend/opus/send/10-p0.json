@@ -1,0 +1,11 @@
+{
+  "send": "1",
+  "reason": "Version 1 keeps every fact and commitment, including the long-term perspective, both the challenges and the questions, and 'the decisions that follow', in plain wording close to the original. Version 2 adds 'last year's fires', version 3 drops the long-view sentence, and version 4 invents claims like 'growing problem' and 'unique insights'.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "C",
+    "3": "A",
+    "4": "E"
+  },
+  "picked_arm": "B5"
+}

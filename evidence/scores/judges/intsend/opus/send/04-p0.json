@@ -1,0 +1,11 @@
+{
+  "send": "2",
+  "reason": "Version 2 keeps every fact and the original voice almost word for word, changing only the dash. Version 1 also keeps the meaning but loosens the phrasing. Version 3 shifts the tone ('natter', exclamation), and version 4 adds 'this Saturday' and drops the chat and ideas.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "track2/A-int",
+    "3": "C",
+    "4": "E"
+  },
+  "picked_arm": "track2/A-int"
+}

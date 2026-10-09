@@ -1,0 +1,11 @@
+{
+  "send": "2",
+  "reason": "It keeps all the original facts and invitations, including the date, time, location, gloves, and welcome tone. It also reads most like the original announcement.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B5",
+    "3": "E",
+    "4": "A"
+  },
+  "picked_arm": "B5"
+}

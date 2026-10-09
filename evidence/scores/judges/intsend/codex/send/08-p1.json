@@ -1,0 +1,11 @@
+{
+  "send": "none",
+  "reason": "Versions 1, 2, and 4 keep age 7 as a firm cutoff despite my caveat that it varies by dog. Version 3 comes closest to my voice and intent, but it puts the beagle in last year’s group even though I only said his kidney disease was detected three years ago.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "track2/A-int",
+    "3": "track2/B5-int",
+    "4": "C"
+  },
+  "picked_arm": "none"
+}

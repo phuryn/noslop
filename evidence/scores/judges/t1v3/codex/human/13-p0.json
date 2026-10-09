@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 5,
+    "3": 4,
+    "4": 1,
+    "5": 3
+  },
+  "send": "4",
+  "tells": {
+    "1": "The uniformly conversational headings and phrases such as 'money and effort those stores take up' feel deliberately simplified.",
+    "2": "Stacked corporate abstractions and repeated 'Mitigation:' labels give it a template-driven feel.",
+    "3": "Repeated claim-then-explanation patterns make the rationale feel mechanically organized.",
+    "4": "The repeated 'Mitigation:' labels are the clearest remaining template artifact.",
+    "5": "Repeated 'We will' sentences give the risk section a mechanically regular cadence."
+  },
+  "reason": "Version 4 is the most concise and direct while retaining the professional tone and operational detail this audience needs; these are stylistic judgments, not evidence of authorship. Before sending, I would fix the shared timing inconsistency: October is already within the stated negotiation window for June expirations, so 'the next few months' needs justification against actual notice deadlines.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "O",
+    "3": "B3",
+    "4": "B",
+    "5": "A"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "send": "3",
+  "reason": "Version 3 keeps every fact and the Nov 3 commitment, and it uses my own wording ('flow', 'target date'). Version 1's 'only big piece left' wrongly suggests smaller work remains, and version 2 loosens 'flow' to 'login'.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B5",
+    "3": "A"
+  },
+  "picked_arm": "A"
+}

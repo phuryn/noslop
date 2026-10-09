@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 1,
+    "3": 4,
+    "4": 2,
+    "5": 3,
+    "6": 6
+  },
+  "send": "2",
+  "tells": {
+    "1": "Hype touches like the opening exclamation point, 'every single install' and 'lasting career', plus a 'What's next:' colon setup.",
+    "2": "none",
+    "3": "Paired 'That number belongs to… / It belongs to… too' structure and the stock triad 'the heat, the cold, and everything in between'.",
+    "4": "none",
+    "5": "Stock triad 'the heat, the cold, and everything in between'; 'Our members made it count too' is a slightly forced pivot.",
+    "6": "Stacked templated moves: 'belongs to' parallelism, the 'everything in between' triad, a 'Next up:' colon lead-in, and a punchy fragment list."
+  },
+  "reason": "Version 2 is tight, warm and plain-spoken, and it delivers the thanks, the member benefit and the apprenticeship call without formulaic parallelism or hype. Versions 3 and 6 are polished but lean on recognizable templated structures.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B3",
+    "3": "B2",
+    "4": "A",
+    "5": "B",
+    "6": "O"
+  }
+}

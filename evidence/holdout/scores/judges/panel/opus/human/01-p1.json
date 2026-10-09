@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 4,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "Parallel 'That number belongs to our crews... It also belongs to our members' framing, plus the stock phrase 'the heat, the cold, and everything in between'",
+    "2": "none (only the dense colon-chained middle paragraph feels slightly compressed)",
+    "3": "Hype markers: exclamation-point opener, 'blazing heat and freezing cold', 'every single install', 'lasting career', and a rhetorical-question CTA",
+    "4": "none"
+  },
+  "reason": "Version 4 is plain, specific and credible, and the line 'which is what a co-op is for' sounds like a real person. Version 3 leans on intensifiers and hype, and Version 1's 'belongs to... also belongs to' structure feels templated.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B3",
+    "3": "C",
+    "4": "A"
+  }
+}

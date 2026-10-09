@@ -1,0 +1,13 @@
+{
+  "send": "3",
+  "reason": "It preserves the original facts, commitments, and welcoming tone, with only light rephrasing that keeps the writer's voice intact.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "C",
+    "3": "B5",
+    "4": "V6C",
+    "5": "A",
+    "6": "V6A"
+  },
+  "picked_arm": "B5"
+}

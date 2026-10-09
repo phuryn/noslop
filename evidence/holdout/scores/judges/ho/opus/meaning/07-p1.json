@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 5,
+    "3": 4,
+    "4": 2,
+    "5": 3
+  },
+  "reason": "Version 1 keeps every element, including the thanks and the offer of further help. Versions 4 and 5 drop only the thanks, version 3 also shifts to 'we charged you,' and version 2 drops both the thanks and the offer to answer more questions.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B",
+    "4": "B2",
+    "5": "B3"
+  }
+}

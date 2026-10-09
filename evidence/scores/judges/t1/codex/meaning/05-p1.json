@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3
+  },
+  "reason": "Version 2 best preserves the original’s qualifications and commitments; version 1 drops “typically,” making phone-and-text handling sound universal. Version 3 adds residence-based proximity and a target-confirmation deadline, turns risks into asserted harms, and weakens match requirements from “meet” to “should meet.”",
+  "label_to_arm": {
+    "1": "B",
+    "2": "A",
+    "3": "C"
+  }
+}

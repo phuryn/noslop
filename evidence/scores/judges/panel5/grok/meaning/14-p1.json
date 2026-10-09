@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 4,
+    "3": 5,
+    "4": 1,
+    "5": 2
+  },
+  "reason": "Version 4 keeps the facts, choices, gratitude, and caveats intact. Version 5 mainly overstates customer dependence; 1 drops specifics such as every book earning its place; 2 invents details like stocking what they loved and an unreturned loan; 3 changes 400 sq ft and replaces the limited-space and fitting-the-shop points.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "E",
+    "4": "B3",
+    "5": "B5"
+  }
+}

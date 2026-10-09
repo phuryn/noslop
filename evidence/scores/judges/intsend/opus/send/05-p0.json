@@ -1,0 +1,11 @@
+{
+  "send": "3",
+  "reason": "Version 3 keeps every fact, commitment, and caveat, including the 30-minute completion definition, the 'not routine reassignments' qualifier, the baseline and target caveats, and the full non-goals, in close to the original's tone. Version 1 drifts conversational and softens 'validate' to 'test whether realistic'. Version 2 drops the routine-reassignments qualifier. Version 4 omits the secondary goals and non-goals entirely.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "track2/A-int",
+    "3": "track2/B5-int",
+    "4": "E"
+  },
+  "picked_arm": "track2/B5-int"
+}

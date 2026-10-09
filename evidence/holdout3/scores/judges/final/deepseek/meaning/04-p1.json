@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "4": 2,
+    "2": 3,
+    "5": 4,
+    "3": 5
+  },
+  "reason": "Version 1 stays closest to the original wording and preserves nearly all details; version 4 follows with only minor nuance shifts. Version 2 rewrites more freely and adds a few details, version 5 drops the seasonal opener and final gratitude, and version 3 omits key invitation and appreciation elements.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "C",
+    "3": "E",
+    "4": "B5",
+    "5": "A"
+  }
+}

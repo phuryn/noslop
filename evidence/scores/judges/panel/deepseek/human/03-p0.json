@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 1,
+    "3": 2,
+    "4": 5,
+    "5": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "Plain, formulaic bullets with no editorial voice; 'Fixed a bug where...' is boilerplate.",
+    "2": "none",
+    "3": "Highly symmetrical bold-label format with clipped, neutral sentences common in AI-generated summaries.",
+    "4": "Chatty but unpolished and inconsistent, with errors like 'Bank Feeds' and 'PDF's'.",
+    "5": "Clean but very template-like: bold benefit labels plus the stock phrase 'Fixed a bug where...'."
+  },
+  "reason": "Version 2 reads like a skilled writer added natural rhythm and helpful context without losing clarity; it has the strongest human feel and would be the most credible to publish.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "B3",
+    "4": "E",
+    "5": "O"
+  }
+}

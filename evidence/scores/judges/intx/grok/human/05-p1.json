@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 2,
+    "4": 5,
+    "5": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "Mild: the four consequence bullets share the same claim-then-explanation shape.",
+    "2": "Bold lead-ins on every bullet, plus the empty opener \"The consequences are significant.\"",
+    "3": "The same outline is uniformly colloquialized (\"bunch up,\" \"pay for it,\" \"matters a lot\"), like a humanizer pass.",
+    "4": "none",
+    "5": "Four impacts are smoothed into one evenly weighted paragraph with no shift in voice."
+  },
+  "reason": "Version 1 is what I would send: clear, precise, and credible, and it sounds like a person writing a PRD rather than a template or a casual rewrite. Version 4 is plainly human but unfinished, so it ranks last as skilled work for this purpose.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "O",
+    "3": "C",
+    "4": "E",
+    "5": "track2/A-int"
+  }
+}

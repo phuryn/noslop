@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 1
+  },
+  "reason": "Version 3 keeps every feature (form and technique, reminders, PT sharing, seeing your own progress) and preserves the subscription and medical caveats word for word. It drops only the soft 'stay consistent' framing. Version 2 keeps nearly all content but loosens 'billed monthly' and the 'unlock more' wording. Version 1 drops the 'see how far you've come' progress feature and the consistency and 'know what to do' benefits.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "B"
+  }
+}

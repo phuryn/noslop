@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none. The concrete details (Middlemarch, Mr. Okafor, the $38,000 GoFundMe) feel lived-in, though post 2's 'wonder how we fit a bookshop inside it' is a little generic",
+    "2": "Abstract, sentimental filler with no specifics, like 'Every shelf, table and book had to earn its place' and 'you came through the door'",
+    "3": "Rhetorical rule-of-three ('Every shelf, every table, every book') plus the 'Ten years ago... Today...' setup, which repeats the two-floors point in post 3",
+    "4": "Same tricolon and 'Ten years ago... Today' framing as version 3, plus an em-dash flourish ('—and an anniversary to celebrate') and a colon-reveal opener in post 5"
+  },
+  "reason": "Version 1 is the only one with real specifics: the first book sold, a named regular customer, and the near-closure in 2020. Those details make it credible and moving, while the others swap them for polished but generic nostalgia. Before publishing, I'd confirm those facts are accurate.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "B5",
+    "3": "track2/A-int",
+    "4": "O"
+  }
+}

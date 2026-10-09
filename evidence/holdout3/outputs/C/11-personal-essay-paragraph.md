@@ -1,0 +1,5 @@
+I was fifty-two, standing in the shallow end of Ladywell Arena at seven on a Tuesday morning, arms crossed over my chest like that would make me harder to spot. Joan, my instructor, had taught hundreds of people to swim. She treated my fear as a practical problem, not a flaw in my character, and that was the kindest thing she could have done. She never told me to relax. She told me to breathe out under the water, let my feet come off the floor, and trust the pool to do some of the work.
+
+For weeks I was bad at it in a way I hadn't been bad at anything in years. I was clumsy, I swallowed a lot of water, and eight-year-olds glided past me in the next lane. But by the end I hardly minded. Being a beginner again was humbling, sure, but it was also strangely restful. Once a week, nobody expected me to already know how.
+
+The first time I swam the width of the pool without touching the bottom, I didn't feel triumphant. I felt quietly stunned, like I'd found a room in my own house that had been there all along.

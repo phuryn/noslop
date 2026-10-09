@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "Version 1 preserves the original’s meaning and qualifications most closely. Version 2 strengthens potential returns into expected returns and proposed mitigations into firm commitments, while Version 3 adds unsupported claims that the decline has reasons we cannot reverse and that talent and inventory will be consolidated in one place.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "track2/A-int",
+    "3": "B5"
+  }
+}

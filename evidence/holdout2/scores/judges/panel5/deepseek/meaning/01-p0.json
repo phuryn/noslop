@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1
+  },
+  "reason": "Version 3 preserves all key facts, numbers, and caveats including the successful Nordwind completion and the original ask/support closing; Version 1 is nearly as faithful with only minor wording shifts, while Version 2 drops the 'completed successfully' nuance and narrows the closing to just questions.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "B5"
+  }
+}

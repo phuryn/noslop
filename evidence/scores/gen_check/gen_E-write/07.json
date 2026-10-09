@@ -1,0 +1,10 @@
+{
+  "unsupported_specifics": [],
+  "request_facts_missing_or_changed": [
+    "The request specifies the mobile login migration, but the text says \"migrating the mobile apps to the new auth service\" and drops the word login.",
+    "The request says the target date is still Nov 3. The text says only \"Target is Nov 3rd\", so it no longer conveys that the date is unchanged."
+  ],
+  "language_errors": [
+    "android"
+  ]
+}

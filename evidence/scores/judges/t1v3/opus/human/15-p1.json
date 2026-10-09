@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 5,
+    "3": 1,
+    "4": 2,
+    "5": 4
+  },
+  "send": "3",
+  "tells": {
+    "1": "Over-stripped and slightly awkward phrasing ('adds more to the app', 'with videos from licensed physical therapists that show how'), like de-fluffing was applied mechanically",
+    "2": "Stock marketing filler: 'guidance you can trust', 'keep your recovery moving', 'unlock more of what the app has to offer'",
+    "3": "Mild cliché in 'keep you moving forward', otherwise none",
+    "4": "Slightly generic 'see how far you've come' and 'Stepwise helps you stay consistent', otherwise none",
+    "5": "Flat, list-like feature rehash with vague 'unlocks additional features' and no hook or voice"
+  },
+  "reason": "Version 3 has a natural, specific voice ('Maybe you're bouncing back from surgery', 'we'll give you a nudge') and a strong opening hook while staying clear and credible. Version 4 is a close, cleaner runner-up; version 2 reads most like boilerplate AI marketing copy.",
+  "label_to_arm": {
+    "1": "B",
+    "2": "O",
+    "3": "C",
+    "4": "B3",
+    "5": "A"
+  }
+}

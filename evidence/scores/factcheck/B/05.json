@@ -1,0 +1,22 @@
+{
+  "dropped": [
+    {
+      "item": "Hedge 'typically' in 'Coordinators typically work through this by phone and text'. The edit states it as universal practice.",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "The description of coordinator workflow changed from a typical pattern to an unqualified, always-true claim ('Coordinators work through this by phone and text').",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "'This hurts in four ways' replaces 'The consequences are significant'. The count matches the four bullets, but the framing of significance is reworded.",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

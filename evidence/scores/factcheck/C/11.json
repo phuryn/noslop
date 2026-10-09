@@ -1,0 +1,33 @@
+{
+  "dropped": [],
+  "changed": [
+    {
+      "item": "\"We're slammed on the weekends\" became \"Weekends get busy\". This softens how intense the weekend volume is.",
+      "severity": "minor"
+    },
+    {
+      "item": "\"Still care about whether the salt is right on the third plate of the night\" became \"still taste the third plate of the night to make sure the salt is right\". An attitude (caring about consistency) became a literal task (tasting a specific plate).",
+      "severity": "minor"
+    },
+    {
+      "item": "\"Nights that actually end\" became \"nights that end at a decent hour\". The edit adds an implied promise about closing time that the original didn't make.",
+      "severity": "minor"
+    },
+    {
+      "item": "\"You'll have a real say in how we do things\" became \"your opinion will actually count\". The original's broad scope (how the kitchen operates) is lost. Coming right after the menu sentence, the edit reads as if it may apply only to menu and specials.",
+      "severity": "minor"
+    },
+    {
+      "item": "\"Ready for the next step up\" became \"ready to step up\". The career-progression meaning is weakened. It could now be read as 'rise to the occasion'.",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "\"Nights that end at a decent hour\" implies a reasonable closing time, which the original didn't state.",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2
+  },
+  "reason": "Version 1 stays closest to the original wording and preserves key caveats and labels. Version 3 is next because it keeps the structural-decline point and risk-mitigation framing, while Version 2 loses 'structurally,' strengthens the returns claim, and turns mitigations into firmer commitments.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "track2/A-int",
+    "3": "track2/B3-int"
+  }
+}

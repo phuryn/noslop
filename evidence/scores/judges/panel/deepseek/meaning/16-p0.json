@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 3
+  },
+  "reason": "Version 1 stays closest to the original's facts, numbers, and nuances; version 2 is nearly exact but drops the reflective 'found myself doing the usual things' framing. Version 4 is still faithful but introduces slight shifts such as 'teach them better,' while version 3 is a loose rewrite that adds generalizations and loses key details.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "E",
+    "4": "C"
+  }
+}

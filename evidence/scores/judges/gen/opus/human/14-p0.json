@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3,
+    "4": 4
+  },
+  "send": "2",
+  "tells": {
+    "1": "Filler closers like 'Those visits helped us get here' and 'and an anniversary to celebrate', plus a slightly stiff 'One of the lovely things... is that' construction",
+    "2": "none",
+    "3": "Rhetorical patterning: em-dash reveal, the 'every shelf, every table, every book' tricolon, and the 'Maybe it's been... Maybe it's been...' parallel pair, plus a redundant 'Now we have two floors' restating post 1",
+    "4": "Generic hype clichés ('incredible journey', 'could not have done this without YOU'), emoji thread markers, and repetitive 'celebrate' padding with no concrete detail"
+  },
+  "reason": "Version 2 keeps the specific, warm details (400 sq ft, books still on shelves, memories) while cutting the filler and rhetorical flourishes that make 1 and 3 feel over-polished. Version 4 is generic promotional copy with little substance.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "O",
+    "4": "gen/E-write"
+  }
+}

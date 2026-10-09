@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2,
+    "4": 5,
+    "5": 4
+  },
+  "reason": "Version 2 is closest overall, despite omitting the initial 'found myself doing the usual things' framing, because it preserves the key caveat and details almost exactly. Versions 3 and 1 keep more of the routine framing but weaken or strengthen 'hadn’t given much thought,' while Version 5 adds or changes several nuances and Version 4 introduces substantial new material.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "B3",
+    "3": "A",
+    "4": "E",
+    "5": "C"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "dropped": [
+    {
+      "item": "Closing engagement question/call to action: 'What's worked for you in reducing no-shows?'",
+      "severity": "major"
+    },
+    {
+      "item": "Statement that closing the no-show gap matters for both the practice and the people it serves",
+      "severity": "minor"
+    },
+    {
+      "item": "Characterization of the change as 'simple'",
+      "severity": "minor"
+    },
+    {
+      "item": "Framing of the takeaway as a personal 'lesson'",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "'sometimes the biggest operational wins come from meeting people where they already are' became 'the biggest operational wins often come from...'. The edit raises the claimed frequency from 'sometimes' to 'often'.",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

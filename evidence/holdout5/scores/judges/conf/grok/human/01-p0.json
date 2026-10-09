@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 6,
+    "4": 4,
+    "5": 2,
+    "6": 5,
+    "7": 7
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Stacked tricolons and the stock line that the results are 'down to you.'",
+    "3": "Surprise stated twice, then the colon triad 'New equipment, new routines, new ways of working:'.",
+    "4": "Fragment-then-list beat: 'For a site this size, that matters,' followed by a neat three-part benefit list.",
+    "5": "Same template, only shorter: 'people who care about getting it right' and 'The results are down to you.'",
+    "6": "Forced-casual swaps that miss ('eases our running costs') and slogan lines ('These results are yours.').",
+    "7": "Near-copy of 3: redundant surprise and the same colon triad, on a stiffer opener."
+  },
+  "reason": "Version 1 is the only one with an understated, specific company voice and no invented drama. Versions 2–7 are synonym passes on one template, and 5 is the least padded of them.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "B5",
+    "3": "V6C",
+    "4": "O",
+    "5": "A",
+    "6": "C",
+    "7": "V6A"
+  }
+}

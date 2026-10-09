@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 4,
+    "4": 5,
+    "5": 2
+  },
+  "send": "2",
+  "tells": {
+    "1": "The 'What this costs:' label and perfectly parallel bolded bullet structure feel template-generated.",
+    "2": "none",
+    "3": "The formal 'The consequences are significant:' transition and stiff, uniform phrasing feel AI-generated.",
+    "4": "The mechanical 'This causes four problems:' lead-in and enumerated headings feel like AI restructuring.",
+    "5": "The problem bullets are stripped-down but still highly parallel, and 'Keep match quality up.' reads like light AI summarization."
+  },
+  "reason": "Version 2 reads most like a skilled human wrote it: it has natural rhythm, idiomatic wording, and clear but unpretentious structure. It keeps the PRD credible while avoiding the stiff transitions and formulaic parallelism of the other versions.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "C",
+    "3": "O",
+    "4": "A",
+    "5": "B5"
+  }
+}

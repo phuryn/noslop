@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 6,
+    "4": 3,
+    "5": 5,
+    "6": 7,
+    "7": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "templated, slightly generic phrasing such as 'Get your work done'",
+    "3": "flat, passive wording that feels mechanically assembled",
+    "4": "safe AI-polished phrasing like 'whatever needs your attention'",
+    "5": "repeated template structure and bland corporate rhythm",
+    "6": "none—reads as an unedited draft with typos and missing formatting rather than AI copy",
+    "7": "over-smooth parallelism and abstract phrase 'time set aside for work and care'"
+  },
+  "reason": "Version 1 sounds the most natural and specific, with warm, idiomatic phrasing and clear practical details. It feels like a skilled human copywriter wrote it for parents, without becoming vague or over-polished.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "V6A",
+    "3": "A",
+    "4": "B5",
+    "5": "V6C",
+    "6": "E",
+    "7": "O"
+  }
+}

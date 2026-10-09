@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 1,
+    "4": 3
+  },
+  "send": "3",
+  "tells": {
+    "1": "Anonymous “The speaker/They” bio and repeated “already had,” plus the unidiomatic “making more of their own pressure data.”",
+    "2": "Stock program-blurb cadence: “This talk explores,” “shares lessons,” and “practical considerations.”",
+    "3": "none",
+    "4": "Anonymous bio and a flat two-sentence paraphrase that only restates the title claim."
+  },
+  "reason": "Version 3 sounds like the engineer who did the work—named, specific, and willing to say the fancy method wasn’t the point—while the others anonymize the speaker and recycle one claim in generic program copy. I would send 3 for its clarity, credibility, and human voice.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "O",
+    "3": "track2/B5-int",
+    "4": "track2/A-int"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 3,
+    "4": 2,
+    "5": 5
+  },
+  "reason": "Version 1 preserves the original meaning most closely; version 4 strengthens the claim about customers’ contribution, while version 3 omits several meaningful details. Version 2 invents stocking motives and changes the narrator and timing; version 5 loses substantial content and adds unsupported claims about size, nostalgia, and books sold on day one.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "C",
+    "3": "A",
+    "4": "B5",
+    "5": "E"
+  }
+}

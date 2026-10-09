@@ -1,0 +1,11 @@
+{
+  "send": "4",
+  "reason": "Version 4 keeps every fact: the Dec 1 increase, the $119 grandfathering until March 1, the Sunday classes giving more options, times to come, and reply-for-questions. It sounds like me without adding anything. The others either add things I didn't say (1's \"starting soon,\" 2's \"happier note\" and workout framing) or drop the reason for the new classes (3).",
+  "label_to_arm": {
+    "1": "E",
+    "2": "C",
+    "3": "track2/A-int",
+    "4": "track2/B5-int"
+  },
+  "picked_arm": "track2/B5-int"
+}

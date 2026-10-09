@@ -1,0 +1,11 @@
+{
+  "send": "2",
+  "reason": "It keeps the 18% to 7% result and adds what I told the tool: two-way texting as the real driver, the $1,400 cost, the 11 hours a week saved, the over-70 phone calls, Sopot at 12%, and the summer caveat. Versions 1, 3 and 4 say texts alone did it ('all we did'), which overclaims and drops caveats I care about.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "track2/B5-int",
+    "3": "C",
+    "4": "E"
+  },
+  "picked_arm": "track2/B5-int"
+}

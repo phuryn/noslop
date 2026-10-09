@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1
+  },
+  "reason": "Version 3 preserves the planting steps, diary reminder, date, place, and “a few ideas” with only harmless rephrasing. Version 1 keeps those facts but loosens “your bulbs” and the reminder wording, while version 2 also changes “separate” to “break” and “a few ideas” to “some ideas.”",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "B5",
+    "3": "track2/A-int"
+  }
+}

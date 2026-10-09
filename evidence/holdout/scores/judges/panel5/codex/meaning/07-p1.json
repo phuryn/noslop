@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 3,
+    "3": 1,
+    "4": 2
+  },
+  "reason": "Version 3 preserves all substantive content most closely; version 4 retains the invitation for questions but specifies replying by email, while version 2 omits that invitation. Version 1 adds a broader promise to help with anything else that comes up and describes the refund as started rather than explicitly being processed.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B5",
+    "4": "B3"
+  }
+}

@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+
+# Fetched or user-supplied at reproduction time, never committed
+evidence/blader/
+evidence/human/
+evidence/track3/
+evidence/scores/detectors_cache.json
+evidence/scores/calls.jsonl
+evidence/scores/*.log
+evidence/holdout/scores/*.log
+.env

@@ -1,0 +1,17 @@
+{
+  "dropped": [
+    {
+      "item": "The 'found myself' framing: the original suggests the narrator was doing these tasks almost automatically or without deciding to; the edit's plain 'I did' loses that",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "'hadn't given much thought to how I would actually leave the room' became 'hadn't thought about how I would actually leave the room', turning 'little thought' into 'no thought at all'",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

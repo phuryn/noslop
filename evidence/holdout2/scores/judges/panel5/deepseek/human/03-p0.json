@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 4,
+    "4": 2
+  },
+  "send": "2",
+  "tells": {
+    "1": "Bold section labels and capitalized action-item verbs feel like Markdown-formatted AI output.",
+    "2": "none",
+    "3": "Overly uniform parallel structure and added definite articles make it feel polished/edited.",
+    "4": "Slight repetition of 'Halden Marine' in adjacent sentences, and the dense recap paragraph reads like AI-summarized notes."
+  },
+  "reason": "Version 2 reads most like a skilled human wrote it because it is concise, uses natural sentence-case bullets, and has an informal closing. I would send it for its clarity and human feel.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "A",
+    "3": "B3",
+    "4": "B5"
+  }
+}

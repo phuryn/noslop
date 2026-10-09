@@ -1,0 +1,11 @@
+{
+  "send": "1",
+  "reason": "It keeps the same facts and commitments—the missed 3 October promise, the inconvenience, the confirmed 24 October date, and the £45 refund still being made—and it still thanks the customer, without changing status or adding claims.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "A",
+    "3": "C",
+    "4": "E"
+  },
+  "picked_arm": "B5"
+}

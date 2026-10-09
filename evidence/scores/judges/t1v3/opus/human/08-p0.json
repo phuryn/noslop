@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 5,
+    "3": 4,
+    "4": 1,
+    "5": 2
+  },
+  "send": "4",
+  "tells": {
+    "1": "none; it is plain and slightly abrupt, with the price dropped in at the end",
+    "2": "Em dashes plus a promotional tagline ('a practical way to get a fuller picture... make the most of their yearly checkup')",
+    "3": "Slightly stiff, procedural closing clause ('can be done as part of the yearly checkup')",
+    "4": "Mild salesy close ('a simple way to get the full picture'), but otherwise none",
+    "5": "Somewhat formulaic 'which helps guide care as your dog ages' phrasing"
+  },
+  "reason": "Version 4 has the most natural, conversational voice for a clinic blog ('shots,' 'hits 7,' 'something's off') and still gives a clear reason and price. Version 2 reads most like AI, with stacked em dashes and a marketing-style closing line.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "O",
+    "3": "B",
+    "4": "C",
+    "5": "B3"
+  }
+}

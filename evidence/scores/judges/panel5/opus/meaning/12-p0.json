@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 5,
+    "3": 3,
+    "4": 4,
+    "5": 1
+  },
+  "reason": "V5 keeps every original hedge, fact, and commitment, and V1 is close behind but makes 'might' firmer ('would'). V3 adds claims ('most utilities', 'nobody knew about', 'what didn't'); V4 inflates the speaker's role ('helped lead') and drops the 'helped reduce' hedge; V2 invents a speaker name and gender and overstates the data as 'very helpful'.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "E",
+    "3": "C",
+    "4": "A",
+    "5": "B3"
+  }
+}

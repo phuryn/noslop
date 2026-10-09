@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "Version 1 keeps every fact, the deadline, the hedged recommendation and the reply instruction almost word for word. Version 2 also keeps them but rephrases the request more, while Version 3 drops the 'unless you see a reason not to' caveat and turns the request for a decision into a stated preference.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "C",
+    "3": "A"
+  }
+}

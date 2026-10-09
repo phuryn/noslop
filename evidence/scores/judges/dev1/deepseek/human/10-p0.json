@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 4,
+    "3": 1,
+    "4": 2,
+    "5": 5
+  },
+  "send": "3",
+  "tells": {
+    "1": "Slightly awkward construction in 'the $135 rate starts for you then.'",
+    "2": "Overly formal, bureaucratic phrasing like 'when the new $135 rate will take effect for you.'",
+    "3": "none",
+    "4": "Clipped, summary-like phrasing in 'then move to $135.'",
+    "5": "Stiff, bare phrasing such as 'when the $135 rate takes effect for you' and a generic closing."
+  },
+  "reason": "Version 3 reads most natural and warm, clearly explains the member grace period, and balances the price change with a positive update in a credible, human way.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "O",
+    "3": "C",
+    "4": "B3",
+    "5": "A"
+  }
+}

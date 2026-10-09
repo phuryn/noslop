@@ -1,0 +1,33 @@
+{
+  "dropped": [
+    {
+      "item": "Exercises described as 'clear, easy-to-follow' and promise that 'you always know what to do and how to do it right'",
+      "severity": "minor"
+    },
+    {
+      "item": "Claim that Stepwise 'helps you stay consistent'",
+      "severity": "minor"
+    },
+    {
+      "item": "Reminders framed as keeping you on track",
+      "severity": "minor"
+    },
+    {
+      "item": "Progress sharing helps 'keep your recovery moving'",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "Progress sharing: the original says the user chooses to share ('Let your physical therapist see'). The edit says 'Your physical therapist can see', which drops the sense that sharing is user-initiated or opt-in.",
+      "severity": "minor"
+    },
+    {
+      "item": "PT plan adjustment: the original says the PT can see progress 'so they can adjust your plan' (a possibility). The edit says the PT 'can see... and adjust your plan', which reads as a more direct capability.",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

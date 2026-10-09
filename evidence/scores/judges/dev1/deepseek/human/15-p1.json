@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2,
+    "4": 4,
+    "5": 5
+  },
+  "send": "3",
+  "tells": {
+    "1": "none",
+    "2": "The friendly tokens 'nudge' and 'see how far you've come' feel like standard copywriting inserts rather than a distinct voice.",
+    "3": "The pairing of 'keep you moving forward' and 'look back at how far you've come' is a mild cliché cluster, though the rest feels human.",
+    "4": "The vague phrase 'gives you more of what the app has to offer' is filler common in AI-generated descriptions.",
+    "5": "The opening 'guidance you can trust' and 'always know what to do and how to do it right' feel over-polished and formulaic."
+  },
+  "reason": "Version 1 reads as the most plain and human, but version 3 balances a natural conversational voice with a stronger benefit-led opening and clear calls to action, so I'd publish version 3.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "C",
+    "4": "B5",
+    "5": "O"
+  }
+}

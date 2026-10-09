@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 5,
+    "2": 3,
+    "3": 1,
+    "4": 2,
+    "5": 4
+  },
+  "reason": "Version 3 preserves the original most closely; version 4 only weakens the explicit causal link between Callum’s current role and the outreach. Version 2 omits the offer to share more, version 5 ties sharing more to the chat, and version 1 replaces uncertainty with claimed observation and adds a judgment that Callum might be a good fit.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B",
+    "3": "A",
+    "4": "B2",
+    "5": "B3"
+  }
+}

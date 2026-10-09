@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 3,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "Stock encouragement such as 'see how far you've come'; otherwise clear and natural.",
+    "2": "Generic promotional padding: 'guidance you can trust,' 'BUILT FOR REAL RECOVERY,' and 'unlock more of what the app has to offer.'",
+    "3": "The crowded combination of founder anecdote, named success story, exact exercise count, and review statistics feels engineered to establish authenticity.",
+    "4": "none"
+  },
+  "reason": "Version 4 reads like restrained, professional app copy: concrete, easy to scan, and free of vague promises. Version 3 introduces substantive claims absent from the others that would need verification; these stylistic judgments do not establish AI authorship.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "O",
+    "3": "track2/B3-int",
+    "4": "track2/A-int"
+  }
+}

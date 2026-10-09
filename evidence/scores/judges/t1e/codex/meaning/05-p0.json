@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3
+  },
+  "reason": "Version 2 preserves the original meaning and caveats most closely; Version 1 slightly strengthens the routine-reassignment commitment by stating that the system handles them. Version 3 omits the secondary goals and non-goals, makes the metrics merely potential, and changes the median-time endpoint from confirmed replacement to rescheduling, which can include escalation.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "E"
+  }
+}

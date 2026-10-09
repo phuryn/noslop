@@ -1,0 +1,200 @@
+{
+  "D": {
+    "1": {
+      "share_of_H_5grams": 0.039,
+      "words": 305
+    },
+    "7": {
+      "share_of_H_5grams": 0.0,
+      "words": 318
+    },
+    "8": {
+      "share_of_H_5grams": 0.04,
+      "words": 274
+    },
+    "9": {
+      "share_of_H_5grams": 0.016,
+      "words": 311
+    }
+  },
+  "A": {
+    "1": {
+      "share_of_H_5grams": 0.042,
+      "words": 286
+    },
+    "7": {
+      "share_of_H_5grams": 0.0,
+      "words": 288
+    },
+    "8": {
+      "share_of_H_5grams": 0.043,
+      "words": 254
+    },
+    "9": {
+      "share_of_H_5grams": 0.043,
+      "words": 275
+    }
+  },
+  "B2": {
+    "1": {
+      "share_of_H_5grams": 0.04,
+      "words": 299
+    },
+    "7": {
+      "share_of_H_5grams": 0.0,
+      "words": 309
+    },
+    "8": {
+      "share_of_H_5grams": 0.041,
+      "words": 269
+    },
+    "9": {
+      "share_of_H_5grams": 0.017,
+      "words": 296
+    }
+  },
+  "C": {
+    "1": {
+      "share_of_H_5grams": 0.023,
+      "words": 303
+    },
+    "7": {
+      "share_of_H_5grams": 0.0,
+      "words": 309
+    },
+    "8": {
+      "share_of_H_5grams": 0.04,
+      "words": 275
+    },
+    "9": {
+      "share_of_H_5grams": 0.031,
+      "words": 350
+    }
+  },
+  "A-notes": {
+    "1": {
+      "share_of_H_5grams": 0.134,
+      "words": 275
+    },
+    "7": {
+      "share_of_H_5grams": 0.0,
+      "words": 288
+    },
+    "8": {
+      "share_of_H_5grams": 0.584,
+      "words": 281
+    },
+    "9": {
+      "share_of_H_5grams": 0.13,
+      "words": 319
+    }
+  },
+  "B2-notes": {
+    "1": {
+      "share_of_H_5grams": 0.417,
+      "words": 311
+    },
+    "7": {
+      "share_of_H_5grams": 0.351,
+      "words": 365
+    },
+    "8": {
+      "share_of_H_5grams": 0.867,
+      "words": 275
+    },
+    "9": {
+      "share_of_H_5grams": 0.727,
+      "words": 304
+    }
+  },
+  "A-int": {
+    "1": {
+      "share_of_H_5grams": 0.043,
+      "words": 281
+    },
+    "7": {
+      "share_of_H_5grams": 0.0,
+      "words": 304
+    },
+    "8": {
+      "share_of_H_5grams": 0.044,
+      "words": 250
+    },
+    "9": {
+      "share_of_H_5grams": 0.033,
+      "words": 299
+    }
+  },
+  "B2-int": {
+    "1": {
+      "share_of_H_5grams": 0.041,
+      "words": 289
+    },
+    "7": {
+      "share_of_H_5grams": 0.0,
+      "words": 309
+    },
+    "8": {
+      "share_of_H_5grams": 0.042,
+      "words": 261
+    },
+    "9": {
+      "share_of_H_5grams": 0.187,
+      "words": 274
+    }
+  },
+  "A-ask": {
+    "1": {
+      "share_of_H_5grams": 0.202,
+      "words": 262
+    },
+    "7": {
+      "share_of_H_5grams": 0.097,
+      "words": 329
+    },
+    "8": {
+      "share_of_H_5grams": 0.216,
+      "words": 269
+    },
+    "9": {
+      "share_of_H_5grams": 0.0,
+      "words": 292
+    }
+  },
+  "B2-ask": {
+    "1": {
+      "share_of_H_5grams": 0.117,
+      "words": 281
+    },
+    "7": {
+      "share_of_H_5grams": 0.107,
+      "words": 354
+    },
+    "8": {
+      "share_of_H_5grams": 0.241,
+      "words": 291
+    },
+    "9": {
+      "share_of_H_5grams": 0.32,
+      "words": 275
+    }
+  },
+  "E": {
+    "1": {
+      "share_of_H_5grams": 0.025,
+      "words": 278
+    },
+    "7": {
+      "share_of_H_5grams": 0.037,
+      "words": 351
+    },
+    "8": {
+      "share_of_H_5grams": 0.036,
+      "words": 286
+    },
+    "9": {
+      "share_of_H_5grams": 0.041,
+      "words": 294
+    }
+  }
+}

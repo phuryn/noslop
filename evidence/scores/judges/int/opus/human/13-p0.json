@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 3,
+    "4": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Bolded lead-in labels on every list item (e.g., a standalone '**Flexibility.**'), plus the repeated 'Mitigation:' scaffolding and stock phrasing like 'structurally declining' and 'enhanced in-store experience.'",
+    "3": "The inverted, slightly stilted opener 'For what they return, the mall stores take a lot of capital and labor,' alongside the leftover formulaic 'Mitigation:' noun-phrase pattern.",
+    "4": "Rationale items lost their topic claims; point 2 opens with supporting detail and never states the point. The formatting is also mixed: bold memo header with markdown ## headings."
+  },
+  "reason": "Version 1 reads most like a confident manager wrote it. Each rationale point states a plain claim, and the 'We will...' mitigations show ownership instead of template labels. The others keep more of the bolded or 'Mitigation:' scaffolding, or lose clarity in the rewording.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "O",
+    "3": "B3",
+    "4": "track2/B3-int"
+  }
+}

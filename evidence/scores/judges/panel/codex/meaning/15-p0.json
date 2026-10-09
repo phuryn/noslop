@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 3
+  },
+  "reason": "Version 1 preserves nearly all original meaning; version 2 slightly broadens video coverage and omits that Premium unlocks more, while version 4 loses free-start and personal progress-tracking details. Version 3 changes renewal timing, omits the cancellation deadline, guarantees never missing a session, and alters the medical caveat.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B3",
+    "3": "E",
+    "4": "A"
+  }
+}

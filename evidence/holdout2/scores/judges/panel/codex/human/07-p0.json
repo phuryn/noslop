@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 1
+  },
+  "send": "3",
+  "tells": {
+    "1": "The stacked reassurance—“our early warning,” “not about blame,” and “keep each other safe”—feels like formulaic corporate copy.",
+    "2": "“Near misses are our early warning” and the generic closing retain a mildly templated feel.",
+    "3": "none"
+  },
+  "reason": "Version 3 reads most like a practical internal announcement: direct, scannable and free of unnecessary motivational language. I would send it, restoring “or harm” in the definition to preserve the original scope; these stylistic differences do not establish AI authorship.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B3",
+    "3": "A"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 4,
+    "3": 1,
+    "4": 2
+  },
+  "send": "3",
+  "tells": {
+    "1": "Formulaic LinkedIn structure: three benefits, a broad leadership lesson, and an engagement question.",
+    "2": "none",
+    "3": "The stock phrase 'get the care they need when they need it' is the clearest formulaic note.",
+    "4": "The personal takeaway about 'meeting patients where they already are' feels like an appended business cliché."
+  },
+  "reason": "Version 3 delivers the result and practical explanation with the least scaffolding, though 'Phone calls weren't working' overstates the original claim. Version 2 feels less polished but its awkward syntax and repetition make it less convincing as skilled writing; these rankings assess editorial effect, not actual authorship.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "E",
+    "3": "A",
+    "4": "B3"
+  }
+}

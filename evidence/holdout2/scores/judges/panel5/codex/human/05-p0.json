@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 1,
+    "3": 3,
+    "4": 2
+  },
+  "send": "2",
+  "tells": {
+    "1": "Template-like promotional packaging: emoji-led bullets, repeated event details, and stock seasonal phrases such as 'a good appetite for autumn.'",
+    "2": "none",
+    "3": "none",
+    "4": "The explanation 'which means you'll be among the very first to taste it' unnecessarily restates 'for the first time.'"
+  },
+  "reason": "Version 2 balances clear information, natural rhythm and warmth. Version 4 is personable but slightly padded; version 3 compresses the attractions into an awkward sentence, while version 1 feels formulaic. These are stylistic judgments, not evidence of authorship.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B3",
+    "3": "A",
+    "4": "B5"
+  }
+}

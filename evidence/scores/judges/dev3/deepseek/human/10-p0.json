@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 3,
+    "3": 4,
+    "4": 2,
+    "5": 1
+  },
+  "send": "5",
+  "tells": {
+    "1": "Stiff phrasing like \"when the $135 rate takes effect for you\"",
+    "2": "Slightly vague transition \"then move to $135\"",
+    "3": "Awkward phrase \"the $135 rate starts for you then\"",
+    "4": "Formal, corporate construction \"will take effect for you\" and consistent symmetrical structure",
+    "5": "none"
+  },
+  "reason": "Version 5 reads as the most human and natural: it explains the price change simply, reassures current members, and pairs the increase with the new Sunday classes in a warm, plain-spoken way.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "B5",
+    "4": "O",
+    "5": "C"
+  }
+}

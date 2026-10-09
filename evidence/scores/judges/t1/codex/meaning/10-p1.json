@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2
+  },
+  "reason": "Version 2 most closely preserves the original facts and commitments; version 3 preserves them but makes the current members’ monthly billing cadence less explicit. Version 1 adds an emotional judgment with “On a happier note” and an assurance that staff will be glad to help.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B"
+  }
+}

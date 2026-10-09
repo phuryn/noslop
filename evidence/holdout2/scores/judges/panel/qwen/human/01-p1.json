@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1
+  },
+  "send": "3",
+  "tells": {
+    "1": "Bolded template scaffolding and redundant phrasing like 'wrapped: completed successfully' feel slightly generated.",
+    "2": "Flat, repetitive bullets and the unidiomatic 'finished successfully' make it read machine-smoothed.",
+    "3": "none"
+  },
+  "reason": "Version 3 sounds most like a concise founder note: direct, natural, and free of templatey signposting. It is clear and credible enough to send, even if a brief thank-you would make it warmer.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B3",
+    "3": "A"
+  }
+}

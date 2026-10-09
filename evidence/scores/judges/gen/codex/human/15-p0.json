@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 4,
+    "4": 2
+  },
+  "send": "2",
+  "tells": {
+    "1": "none",
+    "2": "The broad 'Whether you're...' audience paragraph and 'see how far you've come' feel like stock app-description copy.",
+    "3": "Stacked reassurance and vague promotional phrases: 'guidance you can trust,' 'BUILT FOR REAL RECOVERY,' and 'unlock more of what the app has to offer.'",
+    "4": "The uniformly plain phrasing feels mechanically flattened, especially 'Each video shows the form for the movement.'"
+  },
+  "reason": "Version 2 best balances readable structure, concrete benefits, and a natural promotional voice; its added feature and subscription claims would need verification before publication. Version 4 is clear but flat, version 1 is personable but repetitive, and version 3 is the most formulaic.",
+  "label_to_arm": {
+    "1": "gen/E-write",
+    "2": "B3",
+    "3": "O",
+    "4": "A"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 5,
+    "5": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "The repeated 'This talk covers' and 'It also covers' make the structure feel mechanical.",
+    "4": "Stock conference phrasing: 'This talk explores,' 'shares lessons,' and 'practical considerations.'",
+    "5": "The tidy success narrative strengthens causality and introduces 'helped lead' without support elsewhere in the supplied versions."
+  },
+  "reason": "Version 1 has the most natural speaker voice, but I would send 2 for its clear prose and careful attribution of the reduction to a broader effort. These are editorial impressions, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B5",
+    "3": "B3",
+    "4": "O",
+    "5": "A"
+  }
+}

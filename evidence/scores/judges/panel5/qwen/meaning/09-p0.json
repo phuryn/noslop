@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 5,
+    "2": 3,
+    "3": 4,
+    "4": 1,
+    "5": 2
+  },
+  "reason": "Version 4 preserves all key facts and commitments, including the free replacement, tracking, warranty, and offer to help, with only minor omissions. Version 1 ranks last because it drops the explicit 'at no cost' commitment.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "A",
+    "3": "C",
+    "4": "B5",
+    "5": "B3"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3
+  },
+  "reason": "Version 2 best preserves the original’s facts, contribution claims, and caveats. Version 1 adds an unsupported name and gender, while version 3 adds leadership, turns potentially unnoticed leaks into definitely unnoticed leaks, and strengthens the effort’s causal credit for the reduction.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "B3",
+    "3": "A"
+  }
+}

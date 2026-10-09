@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 2,
+    "3": 6,
+    "4": 4,
+    "5": 1,
+    "6": 3
+  },
+  "send": "5",
+  "tells": {
+    "1": "Crew thanks and member benefit are crammed into one paragraph, and 'which is why we're a co-op' reads slightly off.",
+    "2": "none, though the wording is a bit flat and listy ('There are 12 spots, the training is paid, and it leads to...').",
+    "3": "Hype-y polish: the opening exclamation, stock pairing 'blazing heat and freezing cold', 'lasting career', and the rhetorical-question CTA.",
+    "4": "Stacked colons and a compressed paragraph that merges two ideas, which reads like an edited condensation.",
+    "5": "Mild parallel construction ('That number belongs to our crews... It also belongs to our members') plus a tricolon list.",
+    "6": "The same 'belongs to' parallelism, plus the slightly stiff rephrase 'with paid training and a path into a solar career'."
+  },
+  "reason": "Version 5 has the most natural rhythm and warmth, with a clear structure, specific details and a clean call to action, and its parallelism reads like deliberate human emphasis rather than a template. Version 3 is the most marketing-flavored, while 1 and 4 feel compressed, as if edited down.",
+  "label_to_arm": {
+    "1": "B",
+    "2": "A",
+    "3": "C",
+    "4": "B3",
+    "5": "O",
+    "6": "B2"
+  }
+}

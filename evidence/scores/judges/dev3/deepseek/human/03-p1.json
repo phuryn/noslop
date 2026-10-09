@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 5,
+    "4": 4,
+    "5": 3
+  },
+  "send": "5",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "Markdown heading syntax and formulaic 'Fixed a bug where...' phrasing",
+    "4": "Unnatural 'Releases October 14' and overly parallel bold bullet labels",
+    "5": "Templated bold feature labels with 'Fixed a bug where...' construction"
+  },
+  "reason": "Version 5 is the clearest and most publish-ready, balancing polish and clarity with a natural date line; version 1 has more human personality but is slightly too casual for formal release notes.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B5",
+    "3": "A",
+    "4": "B3",
+    "5": "O"
+  }
+}

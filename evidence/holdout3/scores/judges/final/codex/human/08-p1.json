@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 6,
+    "5": 3,
+    "6": 5
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "“We count the 48 hours from the flight” sounds like an editorial clarification awkwardly inserted into customer copy.",
+    "3": "The introduction repeats the process described immediately below, making the section feel over-explained.",
+    "4": "Stock sales language: “For just”, “valuable insight”, “Simply” and “Sit back”.",
+    "5": "“Get a clear view” and “capturing images to build” give otherwise clear copy a slightly generic marketing polish.",
+    "6": "Forced conversational flourishes, particularly “really doing” and the shift from “in your inbox” to “in hand”."
+  },
+  "reason": "Version 1 is direct, specific and restrained, with a clear delivery promise and a credible description of what the maps help customers do. These are editorial judgments about the writing, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "B5",
+    "4": "E",
+    "5": "O",
+    "6": "C"
+  }
+}

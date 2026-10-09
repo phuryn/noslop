@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2
+  },
+  "reason": "Version 1 preserves the most original facts, commitments, and nuances, including the delay apology, warranty commitment, tracking timing, and thanks for patience. Version 3 is also faithful and retains the 'not the experience' nuance but omits the patience thanks and some phrasing, while Version 2 loses nuances such as 'only five months' and weakens 'as soon as it ships' to 'when it ships'.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "track2/A-int",
+    "3": "track2/B5-int"
+  }
+}

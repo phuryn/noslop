@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2,
+    "4": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Every cost bullet opens with a bolded summary sentence, a templated pattern.",
+    "3": "Mostly clean. The light tell is the abstract phrase 'Give coordinators visibility into what the system did and why'.",
+    "4": "The filler lead-in 'The consequences are significant:', plus bold-lead bullets, 'There is currently no system that…', and a trailing participle clause ('…informing the decision on broader rollout')."
+  },
+  "reason": "Version 1 keeps the scannable structure a PRD needs and uses plain, direct wording ('Agencies pay for it', 'Show coordinators what the system did'), without the bolded-bullet template or filler. Version 3 also reads as human-written, but folding the costs into one dense paragraph makes it harder to scan.",
+  "label_to_arm": {
+    "1": "track2/B3-int",
+    "2": "B3",
+    "3": "track2/A-int",
+    "4": "O"
+  }
+}

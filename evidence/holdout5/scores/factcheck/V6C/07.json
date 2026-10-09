@@ -1,0 +1,20 @@
+{
+  "dropped": [],
+  "changed": [
+    {
+      "item": "'it's worth thinking carefully before you sign' became 'take your time before you sign anything', shifting the advice from careful consideration to not rushing",
+      "severity": "minor"
+    },
+    {
+      "item": "Uncovered extras went from a stated consequence ('leaving extras... to be paid for later') to a possibility ('could be left to be paid for later'), slightly softening certainty",
+      "severity": "minor"
+    },
+    {
+      "item": "'hard to change' became 'awkward to change', slightly softening the difficulty",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

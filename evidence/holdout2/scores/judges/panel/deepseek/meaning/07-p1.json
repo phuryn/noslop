@@ -1,0 +1,11 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2
+  },
+  "reason": "Version 1 preserves the original's key facts, commitments, and caveats almost entirely, while Version 2 omits meaningful details such as 'or harm', 'without exception', and 'our early warning'.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A"
+  }
+}

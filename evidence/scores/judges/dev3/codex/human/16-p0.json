@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 5
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "Slightly padded phrasing in 'hadn't given much thought' and 'trying to figure out how'; a weak signal.",
+    "4": "The colon-led inventory and semicolon-balanced reflection feel a little too tidily arranged; a weak signal.",
+    "5": "'I found myself' plus the neatly patterned list gives the opening a familiar, polished reflective cadence; a weak signal."
+  },
+  "reason": "Version 1 has the most individual voice: 'chewed over the whole drive home' conveys a teacher's lingering frustration, and the final two sentences let the hesitation register without explaining it. Version 2 is a close, cleaner alternative; these are stylistic judgments, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B5",
+    "3": "B3",
+    "4": "A",
+    "5": "O"
+  }
+}

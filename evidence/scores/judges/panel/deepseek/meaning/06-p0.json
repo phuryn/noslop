@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 1,
+    "3": 3,
+    "4": 2
+  },
+  "reason": "Version 2 stays closest to the original headings, facts, pricing, and commitments, with only harmless paraphrasing. Version 4 is also very close but slightly rephrases/narrows a few points; Version 3 condenses and omits some original meaning, while Version 1 changes the hero promise, adds 'new every month,' and loses key original nuances.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "C",
+    "3": "A",
+    "4": "B3"
+  }
+}

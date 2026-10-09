@@ -1,0 +1,13 @@
+{
+  "send": "1",
+  "reason": "It keeps the session times, combined booking, shared location and €28 inclusive price without adding promises. The wording is natural and stays close to my original tone.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "E",
+    "3": "V6A",
+    "4": "A",
+    "5": "C",
+    "6": "V6C"
+  },
+  "picked_arm": "B5"
+}

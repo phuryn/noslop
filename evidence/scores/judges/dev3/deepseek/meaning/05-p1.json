@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 2
+  },
+  "reason": "Version 1 stays closest to the original wording and preserves every commitment, number, and caveat exactly. Version 4 is nearly as faithful but slightly rewords primary goal 2, while versions 2 and 3 introduce more paraphrase and minor nuance shifts, with 3 being the most colloquial/reworded.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "B5",
+    "3": "C",
+    "4": "A"
+  }
+}

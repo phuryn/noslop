@@ -1,0 +1,11 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2
+  },
+  "reason": "Version 1 is identical to the original apart from straight versus curly apostrophes. Version 2 drops \"but here we are,\" which removes the wry note of acceptance and slightly changes the tone of that line.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3"
+  }
+}

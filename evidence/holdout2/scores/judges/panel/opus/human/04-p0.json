@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "Tacked-on evaluative closer after an em dash ('a clear result for a team committed to maintaining high food safety standards') that adds praise, not information"
+  },
+  "reason": "Version 2 is plain and specific, and 'came to us' gives the case study a natural client-story framing. Version 3 ends with a generic, flattering coda that weakens credibility, and Version 1 is fine but slightly flatter in its opening.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "O"
+  }
+}

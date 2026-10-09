@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 3,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "none",
+    "2": "The stock patience-and-questions closing feels appended by template.",
+    "3": "The accumulation of friendliness—“so sorry,” “bearing with us,” and “we'll help”—feels slightly engineered.",
+    "4": "none"
+  },
+  "reason": "Version 4 balances direct accountability, a clear refund timeline, and a practical invitation to reply. Version 1 is also strong but less accommodating; these stylistic judgments do not establish AI authorship.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "O",
+    "3": "C",
+    "4": "B3"
+  }
+}

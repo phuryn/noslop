@@ -1,0 +1,42 @@
+{
+  "dropped": [
+    {
+      "item": "Rationale that Sunday evening classes are being added 'to give you more options during the week'",
+      "severity": "minor"
+    },
+    {
+      "item": "Questions invitation scoped to 'about the change'; edit makes it a general 'any questions'",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "Original says 'We'll share the class times soon' (timing of the announcement). Edit says the classes are 'starting soon', which turns this into a claim about when the classes begin.",
+      "severity": "minor"
+    },
+    {
+      "item": "Original grandfathers 'current members'. Edit narrows this to people who 'already have a monthly membership', which could exclude other current members.",
+      "severity": "minor"
+    },
+    {
+      "item": "Original says the $135 rate 'will take effect for you' on March 1. Edit says the membership 'will renew at the new rate', which implies a renewal mechanism not in the original.",
+      "severity": "minor"
+    },
+    {
+      "item": "'increase from $119 to $135' softened to 'change from $119 to $135'. The direction is still clear from the numbers.",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "Claim that Sunday evening classes are 'starting soon'",
+      "severity": "minor"
+    },
+    {
+      "item": "Membership framed as 'renewing' at the new rate on March 1",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

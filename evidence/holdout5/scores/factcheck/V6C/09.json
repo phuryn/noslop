@@ -1,0 +1,16 @@
+{
+  "dropped": [],
+  "changed": [
+    {
+      "item": "Original says the supervisor makes 'the call' when conditions or kit aren't right, which could mean any decision. The edit narrows this to 'calling it off'.",
+      "severity": "minor"
+    },
+    {
+      "item": "Original's 'call us or send a short message and tell us about your last few jobs' covers both a call and a message. The edit ties 'about your last few jobs' only to the short message.",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

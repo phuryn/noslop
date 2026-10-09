@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 5,
+    "5": 6,
+    "6": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "none: the clunkiness reads human ('I can tell you that', 'I am going to refund', 'patience' repeated in the opening and closing)",
+    "2": "the empathy line 'I know how frustrating it is to wait for something you've been looking forward to' is a stock phrase, though 'that's on us' and 'turn up' offset it",
+    "3": "the bland filler 'I know the delay has been an inconvenience' in a stripped-down template, and it ends abruptly with no sign-off",
+    "4": "the stock corporate phrase 'I appreciate the inconvenience this delay has caused' with uniformly polished, typographic apostrophes",
+    "5": "an over-compressed, template-like sentence with 'and I understand the delay has been inconvenient' bolted on, and no closing line",
+    "6": "the generic acknowledgement 'I know the delay has been inconvenient' in an otherwise templated structure"
+  },
+  "reason": "Version 1 has the most authentic human quirks but is wordy and repetitive. Version 2 sounds like a real person, takes clear ownership ('that's on us'), confirms the refund is already done, and stays brief, so it is the best one to send.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "C",
+    "3": "B3",
+    "4": "O",
+    "5": "A",
+    "6": "B5"
+  }
+}

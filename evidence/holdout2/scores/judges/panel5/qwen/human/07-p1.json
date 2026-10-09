@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2,
+    "4": 4
+  },
+  "send": "2",
+  "tells": {
+    "1": "Bolded, symmetrical headings and the slogan-like 'It's how we keep each other safe' feel templated.",
+    "2": "none",
+    "3": "The overly compressed 'Logging one isn't about blame' sounds slightly machine-trimmed.",
+    "4": "Generic prose and the neat moral line 'It's how we look out for each other' make it feel synthetic."
+  },
+  "reason": "Version 2 keeps the policy clear and complete while avoiding the over-formatted, slogan-heavy sheen of the others. It reads like a practical internal note a human editor would send.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B3",
+    "3": "A",
+    "4": "B5"
+  }
+}

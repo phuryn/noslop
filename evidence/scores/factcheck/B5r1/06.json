@@ -1,0 +1,25 @@
+{
+  "dropped": [
+    {
+      "item": "Tagline 'A little measuring done. A little joy delivered.' (flourish; its hint that only some measuring is done for you is lost)",
+      "severity": "minor"
+    },
+    {
+      "item": "Section headline 'Less measuring. More making.', which implied the customer still does some measuring",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "'Skip weighing out the dry ingredients' became 'You don't have to weigh anything out', which widens the scope from dry ingredients to everything. Readers may expect no measuring at all, including wet ingredients.",
+      "severity": "minor"
+    },
+    {
+      "item": "The imperative 'Give yourself something to look forward to each month' became the assurance 'Either way, you'll have something to look forward to each month'.",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

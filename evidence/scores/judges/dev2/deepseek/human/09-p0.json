@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 3,
+    "4": 5,
+    "5": 1
+  },
+  "send": "5",
+  "tells": {
+    "1": "The full product name in the first sentence reads slightly over-specified and formal.",
+    "2": "Final line without 'just' feels clipped and slightly robotic.",
+    "3": "none",
+    "4": "Overly polished empathy clichés and 'apologies for the inconvenience' boilerplate.",
+    "5": "none"
+  },
+  "reason": "Version 5 is concise, personal, and accountable without over-apologizing, making it feel the most human. It clearly explains the fix and next step with a natural, credible tone.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "B5",
+    "4": "O",
+    "5": "C"
+  }
+}

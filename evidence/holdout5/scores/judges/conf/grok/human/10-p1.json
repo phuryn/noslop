@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 7,
+    "2": 4,
+    "3": 2,
+    "4": 5,
+    "5": 1,
+    "6": 3,
+    "7": 6
+  },
+  "send": "5",
+  "tells": {
+    "1": "Abstract antithesis ('ongoing consideration rather than a single appointment') closed by 'at the centre of the conversation.'",
+    "2": "Even, medium-length cadence and the stock line 'draw on their clinical experience to discuss what this means,' finished with a tidy triad.",
+    "3": "The packaged landing 'always keeping comfort, function and everyday life at the heart of the conversation.'",
+    "4": "none",
+    "5": "The leftover rule-of-three closer 'at the heart of it.'",
+    "6": "A hollow short sentence ('It stays something to think about') followed by a clipped triad ending.",
+    "7": "Resume-style opener plus the same 'at the heart of the conversation' template as version 3."
+  },
+  "reason": "Version 5 is the only one that sounds like a skilled person explaining a real clinical constraint, with uneven sentences and a concrete point rather than brochure cadence. The others either sand the voice into stock closers or, in version 4, drop the craft a programme bio needs.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "A",
+    "3": "V6A",
+    "4": "E",
+    "5": "C",
+    "6": "B5",
+    "7": "V6C"
+  }
+}

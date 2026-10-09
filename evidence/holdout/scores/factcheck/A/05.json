@@ -1,0 +1,17 @@
+{
+  "dropped": [
+    {
+      "item": "The caveat 'Unless you see a reason not to,' which explicitly invited Anita to raise objections to Tilburg rather than only state a preference for Corvane.",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "The recommendation shifted from a conditional proposal ('Unless you see a reason not to, I'd go with Tilburg') to a firmer stated intent ('I'd like to go with Tilburg'), slightly increasing certainty and reducing the openness to pushback.",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

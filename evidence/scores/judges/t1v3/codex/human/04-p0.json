@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 3,
+    "5": 5
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "none",
+    "4": "none",
+    "5": "none"
+  },
+  "reason": "Version 1 has the best balance of warmth, clear instructions and conversational rhythm; version 2 has more personality but feels slightly more consciously jaunty. The differences are small editorial choices, and none provides a reliable tell of AI authorship.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "B3",
+    "4": "O",
+    "5": "B"
+  }
+}

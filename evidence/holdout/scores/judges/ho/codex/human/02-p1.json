@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 5,
+    "4": 6,
+    "5": 1,
+    "6": 4
+  },
+  "send": "2",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "“Happy to share more if it sounds of interest” feels like a stock recruiting closer.",
+    "4": "“You might be a good fit” offers generic personalization without explaining the fit.",
+    "5": "none",
+    "6": "none"
+  },
+  "reason": "Version 5 has the most natural conversational flow; I would send version 2 because it puts the opportunity and practical details first and keeps the request brief. The differences are small, and the stock phrases are not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B",
+    "3": "O",
+    "4": "C",
+    "5": "B2",
+    "6": "B3"
+  }
+}

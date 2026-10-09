@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "the appended 'but here we are' and the curly quotes add an over-polished, AI-typical conversational filler",
+    "3": "the same appended 'but here we are' softens the dry punchline and reads like an AI-generated connective"
+  },
+  "reason": "Version 1 trusts the reader with its dry understatement and avoids the extra conversational filler, making it feel more like a skilled human writer; the added 'but here we are' in the others is a common AI-style softening phrase.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "O",
+    "3": "A"
+  }
+}

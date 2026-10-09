@@ -1,0 +1,11 @@
+{
+  "send": "1",
+  "reason": "It keeps my original meaning in clear, direct language without adding unsupported facts or promises. It also avoids crediting the pressure-data project with the entire reduction, which I said I couldn’t do.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "E",
+    "3": "C",
+    "4": "track2/B5-int"
+  },
+  "picked_arm": "track2/A-int"
+}

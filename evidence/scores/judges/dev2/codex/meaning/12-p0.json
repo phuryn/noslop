@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 4,
+    "4": 2
+  },
+  "reason": "Version 2 best preserves the original’s claims and caveats; version 4 strengthens “might otherwise” to “would otherwise” and weakens the abstract’s explicit causal connection. Version 1 adds a leadership role, definite unnoticed leaks, and stronger causation, while version 3 adds an unsupported claim about most utilities, definite previously unknown leaks, and a promise to discuss what did not work.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "C",
+    "4": "B5"
+  }
+}

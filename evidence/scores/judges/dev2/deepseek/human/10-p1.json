@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 5,
+    "3": 2,
+    "4": 1,
+    "5": 4
+  },
+  "send": "4",
+  "tells": {
+    "1": "slightly clipped phrasing like 'then move to $135'",
+    "2": "formal boilerplate like 'the new $135 rate will take effect for you'",
+    "3": "none",
+    "4": "none",
+    "5": "impersonal, terse phrasing like 'Thanks for being a member' and 'takes effect for you'"
+  },
+  "reason": "Version 4 reads most like a skilled human because it uses a warm, conversational tone while clearly softening the price increase and highlighting the new class times. I would send it for the strongest clarity and human feel.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "O",
+    "3": "B3",
+    "4": "C",
+    "5": "A"
+  }
+}

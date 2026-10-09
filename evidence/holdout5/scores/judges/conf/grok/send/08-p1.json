@@ -1,0 +1,13 @@
+{
+  "send": "2",
+  "reason": "It keeps every fact and commitment—the joint MacCurtain Street booking, half-day times, no separate arranging, same-place care, four hours, and the €28 all-in price known before booking—while reading in the same clear voice.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "V6C",
+    "3": "C",
+    "4": "E",
+    "5": "V6A",
+    "6": "B5"
+  },
+  "picked_arm": "V6C"
+}

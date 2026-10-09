@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1,
+    "4": 5,
+    "5": 4
+  },
+  "send": "3",
+  "tells": {
+    "1": "The consistently conversational headings and softened wording feel deliberately engineered for informality.",
+    "2": "Repeated 'Mitigation:' labels and phrases such as 'stronger potential returns on incremental investment' give it a template-driven feel.",
+    "3": "Residual corporate abstractions such as 'full brand experience' and 'brand pull' sound generic.",
+    "4": "Uniform bold summaries, repeated 'Mitigation:' labels, and stock phrasing such as 'enhanced in-store experience' create the strongest template feel.",
+    "5": "none"
+  },
+  "reason": "Version 3 best combines a credible internal voice with concise reasoning and direct statements of responsibility; version 5 sounds spontaneous but needs substantial tightening. These are stylistic judgments, not evidence of authorship, and even version 3 needs its timing corrected: October 2026 is already within the stated renewal window.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B3",
+    "3": "A",
+    "4": "O",
+    "5": "E"
+  }
+}

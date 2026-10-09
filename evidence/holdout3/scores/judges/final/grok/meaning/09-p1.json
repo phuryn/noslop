@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 2,
+    "4": 5,
+    "5": 3
+  },
+  "reason": "Version 1 keeps every fact and commitment with only negligible wording shifts. Version 3 only drops “real trade with real prospects”; 5 rewrites the skills-and-prospects promise; 2 drops “head” and adds a no-ship rule; 4 substitutes requirements and adds stronger career and quality claims while losing the mentoring detail.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "C",
+    "3": "B3",
+    "4": "E",
+    "5": "A"
+  }
+}

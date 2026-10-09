@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 3,
+    "4": 2,
+    "5": 5
+  },
+  "send": "3",
+  "tells": {
+    "1": "Mild: a same-rhythm stakeholder tour, each impact closing on a tidy list.",
+    "2": "none",
+    "3": "Matching fragment headlines ('Clients go without care or wait for it.', 'Agencies bear the cost.').",
+    "4": "A uniform colloquialization pass ('bunch up,' 'pay for it,' 'actually accept') over identical bold slogan bullets.",
+    "5": "'The consequences are significant,' then four identical bold topic-sentence bullets."
+  },
+  "reason": "Version 1 is the finished piece that most sounds like a skilled PM writing plain sentences, not a template or a casualization pass; 4 is lively but uniformly rewritten, 3 and 5 stack parallel slogan bullets, and 2 trails off before the non-goals. I would send 3 anyway: it is easier to scan and still credible, without version 5's empty intensifier.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "E",
+    "3": "track2/B5-int",
+    "4": "C",
+    "5": "O"
+  }
+}

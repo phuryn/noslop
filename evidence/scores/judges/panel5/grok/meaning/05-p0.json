@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 5,
+    "4": 3,
+    "5": 1
+  },
+  "reason": "Version 5 preserves every goal, metric, caveat, and non-goal with only light synonyms, aside from recasting consequences as “costs.” Version 2 stays nearly verbatim but adds that the system handles routine reassignments; 4 intensifies client impact (“hurt”) and drops the significance framing; 1 shifts definitions (lives nearby, passed vs. escalated, testing realism vs. validating the target); 3 omits secondary goals and non-goals and changes metric definitions and commitments.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "E",
+    "4": "B5",
+    "5": "B3"
+  }
+}

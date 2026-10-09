@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1,
+    "4": 5,
+    "5": 4
+  },
+  "reason": "Version 3 is closest to the original wording and retains all key facts and invitation details; versions 1 and 2 preserve the core facts with minor omissions, version 5 adds embellishments, and version 4 omits the second paragraph's invitation details.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "A",
+    "3": "B3",
+    "4": "E",
+    "5": "C"
+  }
+}

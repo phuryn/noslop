@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+  },
+  "send": "2",
+  "tells": {
+    "1": "none",
+    "2": "Canned opener and closer ('Here's our Q3 update' / 'continued support... dig into anything')",
+    "3": "Template 'Highlights'/'Ask' labels on a note that doesn't need them, plus the same stock closer",
+    "4": "Markdown bold on the subject, headers, and every bullet, plus stacked warmth ('really appreciate', 'As always')"
+  },
+  "reason": "Version 1 reads like a founder writing quickly in prose; 2–4 get more templated, and 4’s markdown is an obvious generation artifact. I’d still send 2: it’s scannable and complete without the labeled-memo feel or formatting that won’t render in email.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B5",
+    "3": "B3",
+    "4": "O"
+  }
+}

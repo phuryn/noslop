@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 2,
+    "4": 3
+  },
+  "send": "3",
+  "tells": {
+    "1": "none",
+    "2": "Two near-duplicate soft asks and the empty hedge \"where we might fit,\" with every concrete detail sanded off.",
+    "3": "Mild brochure cadence in \"finished last year with a 99.2% on-time rate,\" then a claim-and-ask template.",
+    "4": "Corporate \"We provide\" plus the consultant hedge \"where we might fit.\""
+  },
+  "reason": "Version 1 is the only one that sounds like an operator—uneven, specific, and realistically scoped—while 3, 4, and 2 get steadily more templated. I would still send 3: it is clear and direct, and it does not open a grocer with a spoilage story or the hollow hedges in 2 and 4.",
+  "label_to_arm": {
+    "1": "track2/B3-int",
+    "2": "O",
+    "3": "B3",
+    "4": "track2/A-int"
+  }
+}

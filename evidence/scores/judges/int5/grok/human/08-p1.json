@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1,
+    "4": 4
+  },
+  "send": "3",
+  "tells": {
+    "1": "Benefit-stack closer ('fuller picture' plus 'more out of the checkup') and the filler clause 'which helps guide their care.'",
+    "2": "Twin em dashes, the participial 'helping guide care,' and the stock 'make the most of' closer.",
+    "3": "The stat-plus-named-pet-plus-humble-close stack is a familiar authenticity formula, though the voice still wins.",
+    "4": "No stance at all: even template sentences ending in flat product language ('can be added to the yearly checkup')."
+  },
+  "reason": "Only version 3 sounds like a clinic with an opinion—specific, slightly uneven, and willing to talk about cost—while the others are interchangeable wellness-panel ads. Version 2 is the polished twin of 1, and 4 has been sanded down to a brochure line.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "O",
+    "3": "track2/B5-int",
+    "4": "track2/A-int"
+  }
+}

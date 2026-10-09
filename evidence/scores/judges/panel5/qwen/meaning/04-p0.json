@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 1,
+    "4": 5,
+    "5": 3
+  },
+  "reason": "Version 3 stays closest to the original wording and details, with Version 1 nearly identical but slightly less exact in phrasing. Version 5 is faithful despite minor synonym changes, while Versions 2 and 4 paraphrase more, and Version 4 adds or omits several nuances.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "C",
+    "3": "A",
+    "4": "E",
+    "5": "B5"
+  }
+}

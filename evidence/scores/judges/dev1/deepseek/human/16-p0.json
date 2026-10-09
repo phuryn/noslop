@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 2,
+    "4": 3,
+    "5": 5
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Overly regular past-perfect constructions and a formal semicolon give it an AI-polished tone.",
+    "3": "The direct list loses the reflective frame, and phrases like 'hadn't given much thought' and 'trying to figure out' feel generic.",
+    "4": "Choppy fragments and performative idiom ('chewed over') read as forcing a human voice; the opening is grammatically shaky.",
+    "5": "'I found myself doing the usual things' plus a gerund list is a common AI-reflective construction."
+  },
+  "reason": "Version 1 reads most like a natural, understated personal reflection: its contractions, slight informality, and less polished phrasing feel like a skilled human rather than a smoothed-over AI edit. I would send it because it is clear, credible, and avoids generic AI-flavored wording.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "A",
+    "3": "B3",
+    "4": "C",
+    "5": "O"
+  }
+}

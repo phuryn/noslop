@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 3,
+    "3": 1,
+    "4": 2
+  },
+  "send": "4",
+  "tells": {
+    "1": "Padded, over-warm phrasing ('Well, this honey season has certainly kept us on our toes', 'we're glad to have you along—and') plus an em dash and a welcome oddly placed at the end",
+    "2": "Formulaic closing line ('Wherever you are with your winter preparations, we'd love to hear…') that sounds generic and polished",
+    "3": "none",
+    "4": "none"
+  },
+  "reason": "Version 3 reads most like a person dashing off a club newsletter, with idioms, slight redundancy and a casual rhythm, but it buries the welcome at the end. Version 4 is just as natural, opens with the welcome and ends cleanly, so it's the one I'd send.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B3",
+    "3": "C",
+    "4": "A"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 4,
+    "3": 3,
+    "4": 2,
+    "5": 6,
+    "6": 1
+  },
+  "send": "6",
+  "tells": {
+    "1": "Flat, literal phrasing such as 'Each video shows the form for the movement' makes it feel unedited.",
+    "2": "Generic marketing clichés like 'guidance you can trust' and 'unlock more of what the app has to offer'.",
+    "3": "Overly folksy phrasing ('bouncing back', 'give you a nudge') feels performative rather than natural for medical recovery.",
+    "4": "The vague 'get more of what the app has to offer' and repeated recovery clichés make it slightly templated.",
+    "5": "The exclamation-heavy 'watch your progress grow!' and awkward subscription wording feel machine-assembled.",
+    "6": "none"
+  },
+  "reason": "Version 6 is the cleanest, clearest, and most credible App Store version while still sounding natural. It avoids hype and keeps the necessary medical caution without stiffness.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "O",
+    "3": "C",
+    "4": "B5",
+    "5": "E",
+    "6": "B3"
+  }
+}

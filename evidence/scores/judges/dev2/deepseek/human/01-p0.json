@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 4,
+    "4": 5,
+    "5": 1
+  },
+  "send": "5",
+  "tells": {
+    "1": "The balanced three-part outcome list and the stock phrase 'meeting patients where they already are.'",
+    "2": "none",
+    "3": "The information-dense first sentence and the standard LinkedIn engagement-question ending.",
+    "4": "The bulleted 'Here's what that meant in practice:' structure is a classic AI LinkedIn format.",
+    "5": "none"
+  },
+  "reason": "Version 5 sounds most like a real operator telling a concrete story: it has a clear result, natural rhythm, specific detail, and a genuine question without the formulaic structure of the others.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "B5",
+    "3": "A",
+    "4": "O",
+    "5": "C"
+  }
+}

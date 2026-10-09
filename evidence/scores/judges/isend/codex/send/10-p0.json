@@ -1,0 +1,11 @@
+{
+  "send": "1",
+  "reason": "It keeps the same prices, effective dates, current-member protection, and Sunday class announcement without adding commitments. The tone stays straightforward and warm, like the original.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "A",
+    "3": "C",
+    "4": "E"
+  },
+  "picked_arm": "B5"
+}

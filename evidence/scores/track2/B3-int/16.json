@@ -1,0 +1,17 @@
+{
+  "id": 16,
+  "asked": true,
+  "n_questions": 5,
+  "answer_share": 0.472,
+  "recall_yes": 5,
+  "recall_partial": 0,
+  "hidden_total": 7,
+  "invented_specifics": [],
+  "meaning_preserved": 4,
+  "major": [
+    {
+      "item": "Claim that a few students' questions changed the way the narrator explained something for the next twenty years (including the 'twenty years' span). The writer declined to supply a specific question but did not ask to remove the general claim.",
+      "severity": "major"
+    }
+  ]
+}

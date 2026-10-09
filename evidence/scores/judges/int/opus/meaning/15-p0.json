@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 1
+  },
+  "reason": "Version 3 keeps nearly all of the original's claims and adds nothing new. Version 2's additions (312 videos, Gwen Harper, the 4.6 rating, custom programs, the founder's rationale) all come from the writer's answers, though it drops 'technique' and 'stay consistent'. Version 1 adds nothing but loses the most: the 'how to do it right' promise, 'helps you stay consistent', and any statement that Premium unlocks more.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "track2/B3-int",
+    "3": "B3"
+  }
+}

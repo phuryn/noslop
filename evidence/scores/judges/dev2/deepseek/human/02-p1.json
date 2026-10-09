@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 5,
+    "4": 4,
+    "5": 1
+  },
+  "send": "5",
+  "tells": {
+    "1": "none",
+    "2": "slightly corporate stat phrasing ('finished last year at a 99.2% on-time rate')",
+    "3": "overly formal, generic phrasing like 'provide refrigerated trucking' and 'delivery needs'",
+    "4": "abrupt CTA with no context or value framing",
+    "5": "none"
+  },
+  "reason": "Version 5 reads most like a skilled human wrote it: it is concise, uses natural industry phrasing like 'pick up last-minute loads,' and asks a clear, low-pressure question. Version 3 feels the most AI-generated because of its formal, generic corporate language.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B5",
+    "3": "O",
+    "4": "B3",
+    "5": "A"
+  }
+}

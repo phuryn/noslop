@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 1,
+    "4": 3,
+    "5": 5
+  },
+  "send": "3",
+  "tells": {
+    "1": "The section headers are gone, so the body copy runs together. The scenes paragraph is a verbless fragment list that leans on a tidy summary line ('Each month gives you a bake to look forward to').",
+    "2": "The slogan-style parallel header 'Less measuring, more making.' plus the 'Maybe... Maybe... Either way' formula.",
+    "3": "none",
+    "4": "'Either way, you get something to look forward to' is a stock wrap-up line. 'Pre-measured... straight to the baking' is generic and slightly redundant.",
+    "5": "Staccato parallel fragments ('A little measuring done. A little joy delivered.' and 'An afternoon... Something... Or...') that feel slogan-manufactured."
+  },
+  "reason": "Version 3 is the cleanest and most specific: 'start at the stirring' is a concrete image, 'all to yourself' is a warm touch, and the headers are plain and functional, with no slogan-y parallelism. Version 5 piles on rhythmic fragment patterns typical of AI polish, and Version 1 loses structure.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "B",
+    "4": "B2",
+    "5": "O"
+  }
+}

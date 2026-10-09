@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 4,
+    "4": 2
+  },
+  "reason": "Version 2 keeps every fact and commitment, including the mild 'sorry for the wait' wording. Version 4 is close but intensifies the delay apology to 'so long'. Version 1 adds 'still under' warranty, shifts the tracking email to 'I' and drops 'replacement' from the subject. Version 3 adds its own claim that a five-month failure 'qualifies' and also shifts the email commitment to 'I'.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B2",
+    "3": "B",
+    "4": "A"
+  }
+}

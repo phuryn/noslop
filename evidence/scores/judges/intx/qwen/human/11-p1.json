@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 5,
+    "3": 2,
+    "4": 4,
+    "5": 1
+  },
+  "send": "5",
+  "tells": {
+    "1": "none",
+    "2": "Over-smoothed rhythm and generic evocative details make it feel AI-polished.",
+    "3": "The neatly labeled sections and performed casualness ('honestly') feel formulaic.",
+    "4": "Template-like headings and repeated polished phrasing give it an AI-assembled feel.",
+    "5": "none"
+  },
+  "reason": "Version 5 feels most human because concrete operational details, benefits, and staff history create credibility while staying clear. Version 1 is authentic but too rough to publish; the other versions are competent but more generic.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "track2/A-int",
+    "3": "C",
+    "4": "O",
+    "5": "track2/B5-int"
+  }
+}

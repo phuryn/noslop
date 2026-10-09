@@ -1,0 +1,11 @@
+{
+  "send": "2",
+  "reason": "It keeps the same facts, commitments and conditions, including the training, pay, four-day week and prospects if you stick with it. The shorter sentences still sound like my straightforward, conversational shop-floor voice.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B5",
+    "3": "E",
+    "4": "C"
+  },
+  "picked_arm": "B5"
+}

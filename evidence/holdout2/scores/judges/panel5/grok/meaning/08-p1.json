@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "Version 1 matches the original exactly. Version 2 only swaps curly apostrophes for straight ones, leaving meaning intact, while version 3 drops “but here we are,” losing the resigned caveat.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "A",
+    "3": "B3"
+  }
+}

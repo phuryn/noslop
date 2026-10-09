@@ -1,0 +1,25 @@
+{
+  "dropped": [
+    {
+      "item": "Joan treated the fear as a practical problem 'rather than a character flaw'. The contrast that explains why her approach felt kind is gone.",
+      "severity": "minor"
+    },
+    {
+      "item": "The restfulness was 'oddly' restful. The sense that this was surprising or unexpected is lost.",
+      "severity": "minor"
+    },
+    {
+      "item": "The narrator 'didn't feel triumphant so much as' astonished. The explicit rejection of triumph as the feeling is gone.",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "'Watching eight-year-olds glide past' (the narrator's observation, part of the list of ways she was bad at it) became 'eight-year-olds glided past' (a standalone event). The framing of the narrator's self-conscious watching is slightly softened.",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

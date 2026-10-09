@@ -1,0 +1,10 @@
+{
+  "send": "2",
+  "reason": "It keeps all the facts and the target-date commitment while staying concise and natural for a Slack update.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "track2/A-int",
+    "3": "track2/B5-int"
+  },
+  "picked_arm": "track2/A-int"
+}

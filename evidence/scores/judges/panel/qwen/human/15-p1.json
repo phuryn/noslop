@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 3,
+    "3": 2,
+    "4": 1,
+    "5": 5
+  },
+  "send": "3",
+  "tells": {
+    "1": "Stiff subscription/legal boilerplate and generic phrases like 'watch your progress grow' give it a templated feel.",
+    "2": "Glossy, generic marketing lines such as 'guidance you can trust' and 'unlock more of what the app has to offer' sound AI-polished.",
+    "3": "Very tidy parallel structure and safe, slightly redundant phrasing like 'proper form and technique' make it feel templated.",
+    "4": "The casual tone sometimes feels forced, and 'A licensed physical therapist films every one' is slightly unnatural.",
+    "5": "Flat, literal phrasing, especially 'Each video shows the form for the movement,' reads mechanical."
+  },
+  "reason": "Version 4 has the most natural voice, but Version 3 is the best publishable choice because it is concise, credible, and less likely to feel over-written. It keeps the value clear without too much marketing gloss.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "O",
+    "3": "B3",
+    "4": "C",
+    "5": "A"
+  }
+}

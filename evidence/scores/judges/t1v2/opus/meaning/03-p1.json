@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 3,
+    "4": 2
+  },
+  "reason": "Version 1 keeps every fact and caveat nearly verbatim, and Version 4 keeps all the content but drops the feature labels. Version 3 omits the 'so transactions show up sooner' benefit, which the faster interval largely implies; Version 2 adds the unsupported intensifier 'much sooner', which overstates the original claim.",
+  "label_to_arm": {
+    "1": "B2",
+    "2": "C",
+    "3": "B",
+    "4": "A"
+  }
+}

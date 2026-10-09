@@ -1,0 +1,11 @@
+{
+  "send": "3",
+  "reason": "It keeps every fact, from the 400 sq ft start and two floors to the thank-you, the October 25 party and the request for memories, and it stays close to my wording and tone. Version 1 invents details like 'what we loved', 'first week' and the borrowed book that was never returned, and Versions 2 and 4 drop or distort content.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "E",
+    "3": "B5",
+    "4": "A"
+  },
+  "picked_arm": "B5"
+}

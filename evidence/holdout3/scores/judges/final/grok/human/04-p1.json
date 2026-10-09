@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 6,
+    "3": 3,
+    "4": 4,
+    "5": 1,
+    "6": 5
+  },
+  "send": "5",
+  "tells": {
+    "1": "Neat seasonal opener, the Land Rover 'joining the team', and the tidy 'whether you've donated, raised funds or cheered us on' closer.",
+    "2": "Inflated gratitude: 'heartfelt thank you' and the em-dash flourish about a 'reminder of what your support makes possible.'",
+    "3": "none",
+    "4": "The same stock lines as the smoother drafts ('your generosity helps us be there when we're needed') and the recycled ways-you-helped list.",
+    "5": "none",
+    "6": "Formulaic 'As autumn settles over the hills' plus a second paragraph interchangeable with the other polished versions."
+  },
+  "reason": "Version 5 sounds like someone on the team: local, spoken, and still clear enough to publish. The others mostly share one polished thank-you template, while version 3 is human but too tangled and thin to send.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "O",
+    "3": "E",
+    "4": "A",
+    "5": "C",
+    "6": "B3"
+  }
+}

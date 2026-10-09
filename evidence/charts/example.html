@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>One reply, four rewrites</title>
+<!-- README example. Text: holdout5 #06, a fictional customer support reply written by AI; greeting and sign-off left out.
+Green = wording made plainer or shorter; amber/purple/strikethrough = items from holdout5/scores/factcheck/*/06.json. -->
+<link href="https://fonts.googleapis.com/css2?family=Geist:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+  :root{--ink:#14181b;--muted:#5b646d;--line:#e2e6ea;--ns:#1d7a57;--nsbg:#eef7f2;--good:#cdebd9;--chg:#f6dfa9;--add:#ddd3f2;--drop:#b4442f}
+  *{margin:0;padding:0;box-sizing:border-box}
+  body{background:#fff;font-family:Geist,system-ui,sans-serif;color:var(--ink);-webkit-font-smoothing:antialiased}
+  .page{width:1200px;padding:42px 60px 34px}
+  .repo{display:flex;align-items:center;gap:12px}
+  .repo svg{width:32px;height:32px;fill:var(--ink)}
+  .repo b{font-size:23px;font-weight:700;letter-spacing:-.3px}
+  .repo b span{color:var(--muted);font-weight:500}
+  h1{margin-top:16px;font-weight:800;font-size:44px;line-height:1.05;letter-spacing:-1.7px}
+  .lede{margin-top:8px;font-size:19px;color:var(--muted)}
+  .key{display:flex;gap:24px;margin-top:16px;font-size:15px;font-weight:600;color:var(--muted)}
+  .key span{display:flex;align-items:center;gap:8px}
+  .key b{display:inline-block;width:26px;height:15px;border-radius:3px}
+  .key s{color:var(--drop);font-weight:600}
+  table{width:100%;border-collapse:collapse;margin-top:18px}
+  td{padding:16px 10px;border-top:1.5px solid var(--line);vertical-align:top}
+  tr.orig td{border-top:2px solid var(--ink)}
+  tr.ns td{background:var(--nsbg)}
+  td.who{width:200px;font-size:18px;font-weight:700}
+  td.who span{display:block;font-size:14px;font-weight:500;color:var(--muted);margin-top:2px}
+  tr.orig td.who{font-size:15px;color:var(--muted);padding-top:19px}
+  tr.ns td.who{color:var(--ns)}
+  td.txt{font-size:16.5px;line-height:1.5}
+  td.txt p+p{margin-top:7px}
+  td.mean{width:300px;font-size:15.5px;line-height:1.38}
+  td.mean p{padding-left:20px;text-indent:-20px}
+  td.mean p+p{margin-top:8px}
+  td.mean .plus{color:var(--ns);font-weight:700}
+  td.mean .minus{font-weight:600}
+  td.mean i{font-style:normal;font-weight:800;display:inline-block;width:20px;text-indent:0}
+  mark{padding:1px 2px;border-radius:3px;color:inherit}
+  mark.g{background:var(--good)} mark.c{background:var(--chg)} mark.a{background:var(--add)}
+  s{color:var(--drop);text-decoration-thickness:1.5px}
+  .foot{margin-top:18px;display:flex;justify-content:space-between;font-size:14.5px;color:var(--muted)}
+  .foot b{color:var(--ink)}
+</style>
+</head>
+<body>
+<div class="page">
+  <div class="repo"><svg viewBox="0 0 16 16" aria-hidden="true"><path d="M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z"/></svg><b><span>phuryn /</span> work-humanizer</b></div>
+  <h1>What each tool fixed, and what it changed.</h1>
+  <div class="lede">An AI-written reply to a customer disputing a £150 deduction from their deposit. One of the 12 scoreboard texts.</div>
+  <div class="key"><span><b style="background:var(--good)"></b>plainer or shorter</span><span><b style="background:var(--chg)"></b>changed what it says</span><span><b style="background:var(--add)"></b>added</span><span><s>struck</s>dropped</span></div>
+
+  <table>
+    <tr class="orig"><td class="who">THE ORIGINAL</td><td class="txt" colspan="2">
+      <p>I understand you’re unhappy about the £150 deducted from your £600 deposit. The deduction was for the scratched front element on the Sigma 18–35, which we consider damage beyond normal wear and tear.</p>
+      <p>We can send you photos of the damage so you can see the basis for the deduction. As a goodwill gesture, we can reduce it to £90 and refund the £60 difference if you’d prefer.</p>
+      <p>Please let us know how you’d like to proceed.</p></td></tr>
+
+    <tr class="ns"><td class="who">work-humanizer<span>this skill</span></td><td class="txt">
+      <p>I understand you're unhappy about the £150 <mark class="g">we deducted</mark> from your £600 deposit. <mark class="g">It was for</mark> the scratched front element on the Sigma 18–35, which we consider damage beyond normal wear and tear.</p>
+      <p><mark class="c">If you'd like to see the damage</mark>, we can send you photos. We can also reduce the deduction to £90 as a goodwill gesture and refund the £60 difference, if you'd prefer that.</p>
+      <p><mark class="g">Let us know</mark> how you'd like to proceed.</p></td>
+      <td class="mean"><p class="plus"><i>+</i>Says who made the deduction. Shorter sentences.</p><p class="minus"><i>−</i>One small change: the photos are to see the damage, not the basis for the deduction.</p></td></tr>
+
+    <tr><td class="who">blader/humanizer<span>the viral humanizer skill</span></td><td class="txt">
+      <p><mark class="c">Sorry about</mark> the £150 we deducted from your £600 deposit. <mark class="g">It was for</mark> the scratched front element on the Sigma 18–35, <mark class="g">which we think goes beyond</mark> normal wear and tear.</p>
+      <p><mark class="c">I can send</mark> you photos of the damage so you can see what the deduction is based on. If you'd like, we can <mark class="a">also</mark> reduce it to £90 <s>as a goodwill gesture</s> and refund <mark class="g">the other £60</mark>.</p>
+      <p><mark class="c">Tell me which you'd prefer.</mark></p></td>
+      <td class="mean"><p class="plus"><i>+</i>Plainer words.</p><p class="minus"><i>−</i>Apologizes for the deduction itself, which in a dispute reads as admitting fault. Drops “as a goodwill gesture”.</p></td></tr>
+
+    <tr><td class="who">“Rewrite this to sound human”<span>one-line prompt</span></td><td class="txt">
+      <p><mark class="c">Sorry about the surprise on your deposit.</mark> <mark class="g">We took £150 off the £600 because</mark> the front element of the Sigma 18–35 has a scratch, and <mark class="c">we think that's more than</mark> normal wear and tear.</p>
+      <p><mark class="c">I can send</mark> you photos of the damage so you can see exactly what we're talking about. And <mark class="a">if you'd like to settle this quickly</mark>, <mark class="c">I'm happy to bring the deduction down</mark> to £90 <s>as a goodwill gesture</s> and refund the other £60 to you.</p>
+      <p><mark class="g">Let me know which way you'd like to go.</mark></p></td>
+      <td class="mean"><p class="plus"><i>+</i>The plainest wording.</p><p class="minus"><i>−</i>Apologizes, stops calling it damage, drops the goodwill framing, and ties the £90 offer to settling quickly.</p></td></tr>
+
+    <tr><td class="who">Emulate-1<span>sold as undetectable</span></td><td class="txt">
+      <p><mark class="a">I’m not happy that your not happy</mark>, we have taken £150 out of your £600 deposit <mark class="c">as you have scratched</mark> the front element on the sigma 18-35. We feel this is not fair wear and tear.</p>
+      <p><mark class="c">If you want me too I can send</mark> you some pictures so you can see why we have taken this out of your deposit. <mark class="a">If you feel this is not fair</mark> we can reduce it to £90 as a gesture of good will and refund the £60 difference?</p>
+      <p><mark class="g">So what would you like to do?</mark></p></td>
+      <td class="mean"><p class="plus"><i>+</i>A plainer last line.</p><p class="minus"><i>−</i>Blames the customer for the scratch, adds the writer’s own feelings and a new condition on the £90 offer. Spelling mistakes.</p></td></tr>
+  </table>
+
+  <div class="foot"><span>Fictional names. Greeting and sign-off left out. Changes from the fact check, read against the original by hand.</span><b>github.com/phuryn/work-humanizer</b></div>
+</div>
+</body>
+</html>

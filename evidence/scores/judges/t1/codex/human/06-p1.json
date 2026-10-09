@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3,
+    "4": 4
+  },
+  "send": "2",
+  "tells": {
+    "1": "The repeated “Maybe” setup and tidy “Either way” resolution feel slightly formulaic.",
+    "2": "none",
+    "3": "“Each month gives you a bake to look forward to” feels mechanically rephrased, with a less natural subject and verb.",
+    "4": "“A little measuring done. A little joy delivered.” stacks symmetrical, generic advertising phrases; the repeated fragments make the polish feel automated."
+  },
+  "reason": "Version 2 best balances conversational warmth, clear information, and scannable section headings, though I would replace “start at the stirring” with “start mixing.” These are stylistic judgments, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B",
+    "3": "A",
+    "4": "O"
+  }
+}

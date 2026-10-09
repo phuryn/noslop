@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2,
+    "4": 4
+  },
+  "reason": "Version 2 keeps nearly every fact and nuance, losing only the 'lovely things' framing in post 5. Version 3 drops a few details ('an anniversary to celebrate,' '10 years of The Tidewater Bookshop' in the invite) but keeps the rest. Version 1 cuts 'Those visits helped us get here' and 'every book,' softens 'we could make a start,' and adds 'to a friend.' Version 4 adds many invented details ('what we loved,' 'first week,' 'a dozen times,' a borrowed book never returned, a singular 'My') and changes the thanks to 'You're the reason we're still here.'",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B2",
+    "3": "B",
+    "4": "C"
+  }
+}

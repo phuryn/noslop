@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 5,
+    "4": 1,
+    "5": 4
+  },
+  "send": "4",
+  "tells": {
+    "1": "none",
+    "2": "The phrase 'which helps guide care as your dog ages' adds a slightly formulaic explanation to an already clear point.",
+    "3": "The closing sales language stacks generic benefits: 'a practical way,' 'a fuller picture,' and 'make the most.'",
+    "4": "none",
+    "5": "The clustered casual expressions—'shots,' 'hits 7,' and 'something’s off'—feel deliberately conversational; 'get the full picture' overstates the benefit."
+  },
+  "reason": "Version 4 sounds natural and professionally restrained, explains the benefit clearly, and lets the price stand without a sales flourish. Version 1 is a close second for its directness; these rankings reflect editorial impressions, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B",
+    "3": "O",
+    "4": "B3",
+    "5": "C"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "send": "1",
+  "reason": "It preserves the facts, commitments, and caveats, including the completion criteria and provisional targets. The wording is clear and natural, with a straightforward tone I’d use in a PRD.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "C",
+    "3": "E",
+    "4": "track2/A-int"
+  },
+  "picked_arm": "track2/B5-int"
+}

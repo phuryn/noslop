@@ -1,0 +1,11 @@
+{
+  "send": "3",
+  "reason": "It includes the two-way texting detail, the 11 hours saved, and the honest caveats from my answers, so it keeps the meaning without overclaiming.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "C",
+    "3": "track2/B5-int",
+    "4": "track2/A-int"
+  },
+  "picked_arm": "track2/B5-int"
+}

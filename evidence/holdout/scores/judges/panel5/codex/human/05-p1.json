@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 5,
+    "3": 4,
+    "4": 3,
+    "5": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "The 'Options:' heading adds a slightly templated feel to a simple two-price comparison.",
+    "3": "The request is immediately repeated as 'We need your call', making the opening feel overworked.",
+    "4": "The two matching 'If' sentences overexplain an otherwise simple response.",
+    "5": "none"
+  },
+  "reason": "Version 1 leads with a clear recommendation, gives the price comparison naturally, and makes the deadline and response easy to understand. These are editorial judgments; none of the versions contains reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "O",
+    "3": "B5",
+    "4": "C",
+    "5": "B3"
+  }
+}

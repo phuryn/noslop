@@ -1,0 +1,16 @@
+{
+  "dropped": [
+    {
+      "item": "Framing of the $129 senior wellness panel as 'a practical way to get a fuller picture of your dog's health and make the most of their yearly checkup' (the stated benefit tying the panel to the checkup)",
+      "severity": "minor"
+    },
+    {
+      "item": "Explicit reference to 'annual' testing as what provides the baseline (edit says 'It', referring to bloodwork generally, losing the emphasis on repeating it yearly)",
+      "severity": "minor"
+    }
+  ],
+  "changed": [],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

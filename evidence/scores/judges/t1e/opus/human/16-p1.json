@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 4,
+    "3": 2,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "'I found myself doing the usual things' is a stock reflective-essay phrase. 'hadn't given much thought to' is wordier than it needs to be.",
+    "2": "None of the usual AI tells. The flaws are a weak draft's: repetitive 'I had had', the cliché 'bang or whimper', a filler 'Anyway', and vague 'good and bad' summaries.",
+    "3": "The neat set of balanced contrasts (beautifully/drive home, wondered about/changed the way) feels slightly engineered, and the even sentence rhythm sounds polished.",
+    "4": "The same tidy contrasting pairs and the 'ready to go, but' closer feel a bit symmetrical, but this is mild."
+  },
+  "reason": "Version 4 keeps the concrete details and the plain 'I did the usual things' setup with the least padding, so it reads like a confident human writer. Version 2 is plausibly human but clumsy and vague, so it ranks lowest as skilled writing.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "E",
+    "3": "B3",
+    "4": "A"
+  }
+}

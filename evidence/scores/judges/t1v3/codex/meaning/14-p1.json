@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 3,
+    "4": 1
+  },
+  "reason": "Version 4 preserves the original most completely, while version 2 removes only contextually redundant details. Version 3 drops the role of individual books in stocking choices and the contribution of customers’ visits; version 1 adds unsupported stocking motives, a personal narrator, a first-week timeframe, and stronger claims about customers and rereading.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B",
+    "3": "A",
+    "4": "B3"
+  }
+}

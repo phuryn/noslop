@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 6,
+    "2": 1,
+    "3": 5,
+    "4": 2,
+    "5": 4,
+    "6": 3
+  },
+  "send": "6",
+  "tells": {
+    "1": "Forced casual framing ('Quick heads-up', 'On a happier note') and padded benefit language ('more ways to fit a workout into your week')",
+    "2": "none",
+    "3": "Polished, symmetrical phrasing with a stock benefit clause ('to give you more options during the week')",
+    "4": "none",
+    "5": "Formulaic benefit clause ('so you'll have more options during the week') and a reordered closing that reads as an edit",
+    "6": "Stock benefit clause ('so you'll have more options during the week')"
+  },
+  "reason": "Version 2 reads most like a real studio owner wrote it, with a comma splice, '1st', '$119/month' and exclamation points, but those quirks also make it a bit clunky. Version 6 keeps the same plain, friendly tone while stating the grandfathered rate most clearly and concisely, so it's the one I'd send.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "E",
+    "3": "O",
+    "4": "A",
+    "5": "B5",
+    "6": "B3"
+  }
+}

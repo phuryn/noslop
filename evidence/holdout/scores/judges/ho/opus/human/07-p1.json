@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 6,
+    "3": 1,
+    "4": 2,
+    "5": 4,
+    "6": 5
+  },
+  "send": "3",
+  "tells": {
+    "1": "none; the abrupt ending with no invitation to follow up reads curt rather than machine-made",
+    "2": "Stock closer 'Thanks for your patience, and please let us know if you have any other questions' plus passive 'is being processed'",
+    "3": "none",
+    "4": "Slightly templated 'That was a bug... and it's now fixed' phrasing; otherwise none",
+    "5": "Passive 'is being processed' and evenly split one-sentence paragraphs that feel assembled",
+    "6": "Padded warmth: 'I'm so sorry', 'Thanks for bearing with us', 'we'll help' stacked together"
+  },
+  "reason": "Version 3 takes ownership ('we charged you'), packs the apology, cause, fix and refund timeline into one tight paragraph, and closes with a specific, low-friction next step. That makes it the most credible and human-sounding without filler.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "O",
+    "3": "B",
+    "4": "B3",
+    "5": "B2",
+    "6": "C"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "send": "6",
+  "reason": "It keeps the same role, rotation, pay, unpressured safety call, real time off, and invitation to talk instead of sending a CV, and it still sounds like the original voice. The others add claims, narrow conditions to weather, turn it into generic recruiter copy, or sand the wording off enough that it no longer reads like the same writer.",
+  "label_to_arm": {
+    "1": "V6C",
+    "2": "C",
+    "3": "V6A",
+    "4": "B5",
+    "5": "E",
+    "6": "A"
+  },
+  "picked_arm": "A"
+}

@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "file": "01-linkedin-post.md",
+    "source_model": "claude-sonnet-5-5",
+    "genre": "LinkedIn post"
+  },
+  {
+    "id": 2,
+    "file": "02-cold-sales-email.md",
+    "source_model": "codex gpt-6-astra (medium)",
+    "genre": "Cold sales email"
+  },
+  {
+    "id": 3,
+    "file": "03-release-notes.md",
+    "source_model": "claude-sonnet-5-5",
+    "genre": "Release notes"
+  },
+  {
+    "id": 4,
+    "file": "04-newsletter-intro.md",
+    "source_model": "codex gpt-6-astra (medium)",
+    "genre": "Newsletter intro"
+  },
+  {
+    "id": 5,
+    "file": "05-prd-section-problem-goals.md",
+    "source_model": "claude-sonnet-5-5",
+    "genre": "PRD section (problem + goals)"
+  },
+  {
+    "id": 6,
+    "file": "06-landing-page-copy-hero-3-secti.md",
+    "source_model": "codex gpt-6-astra (medium)",
+    "genre": "Landing page copy (hero + 3 sections)"
+  },
+  {
+    "id": 7,
+    "file": "07-slack-status-update-to-the-tea.md",
+    "source_model": "claude-sonnet-5-5",
+    "genre": "Slack status update to the team"
+  },
+  {
+    "id": 8,
+    "file": "08-blog-post-paragraph-opinion.md",
+    "source_model": "codex gpt-6-astra (medium)",
+    "genre": "Blog post paragraph (opinion)"
+  },
+  {
+    "id": 9,
+    "file": "09-customer-support-reply.md",
+    "source_model": "claude-sonnet-5-5",
+    "genre": "Customer support reply"
+  },
+  {
+    "id": 10,
+    "file": "10-customer-email-announcing-a-pr.md",
+    "source_model": "codex gpt-6-astra (medium)",
+    "genre": "Customer email announcing a pricing change"
+  },
+  {
+    "id": 11,
+    "file": "11-job-post-intro.md",
+    "source_model": "claude-sonnet-5-5",
+    "genre": "Job post intro"
+  },
+  {
+    "id": 12,
+    "file": "12-conference-talk-abstract-speak.md",
+    "source_model": "codex gpt-6-astra (medium)",
+    "genre": "Conference talk abstract + speaker bio"
+  },
+  {
+    "id": 13,
+    "file": "13-internal-strategy-memo.md",
+    "source_model": "claude-sonnet-5-5",
+    "genre": "Internal strategy memo"
+  },
+  {
+    "id": 14,
+    "file": "14-x-twitter-thread-5-7-posts.md",
+    "source_model": "codex gpt-6-astra (medium)",
+    "genre": "X/Twitter thread (5-7 posts)"
+  },
+  {
+    "id": 15,
+    "file": "15-app-store-description.md",
+    "source_model": "claude-sonnet-5-5",
+    "genre": "App store description"
+  },
+  {
+    "id": 16,
+    "file": "16-personal-reflection-first-pers.md",
+    "source_model": "codex gpt-6-astra (medium)",
+    "genre": "Personal reflection (first-person essay paragraph)"
+  }
+]

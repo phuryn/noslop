@@ -1,0 +1,7 @@
+{
+  "id": 3,
+  "arm": "A",
+  "reply1": "**Draft:** I removed the bold labels from the list items, since each one only repeated what the sentence says. The title and section names became plain headings, with the title in sentence case. I kept the list format because release notes conventionally use it, and I kept every claim.\n\n**Remaining patterns:** None significant. \"Instead of\" appears twice, but both uses compare real before and after behavior, so I kept them.\n\n<final>\n# Ledgerly 4.2 release notes\n\nReleasing October 14\n\n## What's new\n\n- Bank feeds now sync every 15 minutes instead of hourly, so your transactions show up sooner.\n- You can update multiple invoices at once instead of editing them one by one.\n\n## Fixes\n\n- Fixed a bug where currency symbols didn't display correctly in exported PDFs.\n</final>",
+  "asked": false,
+  "final": "# Ledgerly 4.2 release notes\n\nReleasing October 14\n\n## What's new\n\n- Bank feeds now sync every 15 minutes instead of hourly, so your transactions show up sooner.\n- You can update multiple invoices at once instead of editing them one by one.\n\n## Fixes\n\n- Fixed a bug where currency symbols didn't display correctly in exported PDFs."
+}

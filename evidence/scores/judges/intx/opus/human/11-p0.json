@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 5,
+    "4": 1,
+    "5": 3
+  },
+  "send": "4",
+  "tells": {
+    "1": "Mildly polished rhythm, with the 'without turning the kitchen into a pressure cooker' contrast doing a lot of work, but no strong tell.",
+    "2": "Inserted conversational softeners ('honestly, that's the fun part', 'your opinion will actually count') that read like added warmth rather than a real voice.",
+    "3": "none (the all-caps, run-on punctuation and boilerplate 'include but are not limited to' read as an unpolished human, not AI)",
+    "4": "none (specific numbers, names and history like 180 covers, Luis, and the last sous staying four years are hard to fake; the specifics come in a slightly stacked list)",
+    "5": "Tidy bolded section labels ('What you'll do:', 'What we're after:') plus the 'a real say' intensifier give it a templated, smoothed-over feel."
+  },
+  "reason": "Version 4 is the most credible and human because it backs claims with concrete detail: team size, covers, butchery, retention story and fully paid health insurance, which also makes it the strongest pitch to a candidate. Version 3 is clearly human but too unprofessional to publish, and versions 1, 2 and 5 are clean but generic by comparison.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "C",
+    "3": "E",
+    "4": "track2/B5-int",
+    "5": "O"
+  }
+}

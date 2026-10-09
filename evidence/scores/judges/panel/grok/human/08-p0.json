@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 3,
+    "3": 1,
+    "4": 2,
+    "5": 5
+  },
+  "send": "3",
+  "tells": {
+    "1": "Em-dash upsell that stacks generic benefits in a marketing close",
+    "2": "none",
+    "3": "none",
+    "4": "none",
+    "5": "Stiff, repetitive sentence built on 'it is highly beneficial to have annual blood work done'"
+  },
+  "reason": "Version 3 has the warmest, most idiomatic blog voice while staying clear and credible; the others are drier, more templated, or less polished.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "A",
+    "3": "C",
+    "4": "B3",
+    "5": "E"
+  }
+}

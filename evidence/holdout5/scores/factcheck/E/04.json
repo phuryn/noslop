@@ -1,0 +1,21 @@
+{
+  "dropped": [
+    {
+      "item": "Explicit statement that the Oadby branch is 'now open' (the edit only implies it's already open through 'Open 8am till 8pm' and 'welcoming you')",
+      "severity": "minor"
+    },
+    {
+      "item": "'October is here' framing (replaced with the generic 'It's that time of year again!', though the 1 October date is kept)",
+      "severity": "minor"
+    }
+  ],
+  "changed": [],
+  "added": [
+    {
+      "item": "'Did You Know?' header framing the announcement as a trivia-style fact",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 6,
+    "4": 2,
+    "5": 5,
+    "6": 4
+  },
+  "send": "2",
+  "tells": {
+    "1": "none",
+    "2": "Stock phrasing in 'every shelf and table had to earn its spot.'",
+    "3": "An em dash plus the tidy triplet 'every shelf, every table, every book,' with a generic closer ('Those visits helped us get here').",
+    "4": "The stock phrase 'had to earn its place,' though the version is otherwise lean and plain.",
+    "5": "A generic, padded frame: 'One of the lovely things about ten years in a bookshop is that…' plus the filler line 'Those visits helped us get here.'",
+    "6": "Balanced 'maybe reread, maybe passed along' cadence and the slightly redundant 'without you coming in.'"
+  },
+  "reason": "Version 2 has the most specific, warm details ('Not bad,' the friend who never gave the book back) and a natural rhythm. Version 1 is clearly human but clumsy and repetitive, while versions 3, 5 and 6 share polished, template-like AI phrasing.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "C",
+    "3": "O",
+    "4": "A",
+    "5": "B3",
+    "6": "B5"
+  }
+}

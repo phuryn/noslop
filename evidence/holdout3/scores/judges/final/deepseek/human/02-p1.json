@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 2,
+    "4": 5,
+    "5": 6,
+    "6": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "slightly more formal and clipped phrasing than the natural original ('suit customers who want')",
+    "3": "none",
+    "4": "slightly stiff, symmetrical phrasing ('Could we set up a small trial')",
+    "5": "grammar and punctuation errors, not smooth AI-style writing",
+    "6": "polished, generic phrasing ('could be a good fit', 'Could we run a small trial')"
+  },
+  "reason": "Version 1 reads most like a skilled human wrote it because it is polite, natural, and specific without being either stilted or over-enthusiastic. I would send Version 1 because it balances warmth, clarity, and credibility.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "A",
+    "3": "C",
+    "4": "B5",
+    "5": "E",
+    "6": "B3"
+  }
+}

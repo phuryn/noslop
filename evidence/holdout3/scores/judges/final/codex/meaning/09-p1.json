@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 3,
+    "4": 1,
+    "5": 5
+  },
+  "reason": "Version 4 preserves virtually all meaning; version 2 omits the explicit trade/prospects claim, while version 3 replaces enduring demand for skills with a narrower employability claim. Version 1 adds manual aptitude and a stronger quality-control commitment while dropping enjoyment of mental work; version 5 makes unsupported lifetime-employment promises and loses details such as experienced colleagues and explicit pound currency.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B3",
+    "3": "A",
+    "4": "B5",
+    "5": "E"
+  }
+}

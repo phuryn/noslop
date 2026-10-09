@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "Version 1 incorporates the writer-supplied facts and caveats, including two-way texting, continued calls for patients over 70, Sopot’s result, and possible seasonality. Version 2 preserves the original closely but omits those qualifications; version 3 further overstates simplicity with “All we did,” asserts equal benefits for patients and the practice, and strengthens “worth testing” into “try texts.”",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "B5",
+    "3": "track2/A-int"
+  }
+}

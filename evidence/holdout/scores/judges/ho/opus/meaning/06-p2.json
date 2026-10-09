@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 4,
+    "4": 5,
+    "5": 2
+  },
+  "reason": "Version 2 matches the original apart from the apostrophe, and Version 5 keeps every fact and caveat with only minor rewording; Versions 1 and 3 reorder the compatibility check but keep it before application, though 3 changes 'remove any loose, peeling' sealer to 'peel away any loose' sealer. Version 4 adds the claim 'It's an easy fix', softens the 50°F requirement to 'try to work' (which drops the need to hold that temperature during curing), and adds brushing as the method.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "B",
+    "4": "C",
+    "5": "B2"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 5,
+    "3": 4,
+    "4": 3,
+    "5": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "\"I found myself,\" a perfect three-part gerund list, and a balanced ready-but-slow close",
+    "4": "the same sanded template, including the vague \"teach again\" and a tidy but-antithesis ending",
+    "5": "stacked signature color (elephant toothpaste, a full name, a pharmacist ending) plus neat embarrassed relief"
+  },
+  "reason": "Version 1 has lived-in verbs and uneven rhythm without inventing a subplot or sanding the voice flat. Versions 3 and 4 are the same smoothed template, 5 performs specificity, and 2 is too repetitive and clichéd to sound skilled.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "E",
+    "3": "O",
+    "4": "track2/A-int",
+    "5": "track2/B5-int"
+  }
+}

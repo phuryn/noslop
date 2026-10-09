@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 1,
+    "3": 3,
+    "4": 2
+  },
+  "send": "2",
+  "tells": {
+    "1": "Template announcement plus stock warmth: 'It's called firmware 3.4, and it brings two improvements,' then 'Kestrel family' and 'no such thing as a silly question.'",
+    "2": "none",
+    "3": "Redundant restatement: 'longer battery life, so they run longer on each charge.'",
+    "4": "Performed-friendly closer: 'part of the Kestrel family' and 'No question is too small,' with a slightly off 'plugging in.'"
+  },
+  "reason": "Version 2 is the one a careful editor would ship: specific subject, no bold feature template, no brand-family cliché, and no overclaim. The others read more like generated product mail, either padded with reassurance or restating the same benefit.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B3",
+    "3": "A",
+    "4": "C"
+  }
+}

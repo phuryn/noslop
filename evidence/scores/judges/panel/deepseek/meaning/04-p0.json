@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3,
+    "4": 4
+  },
+  "reason": "Version 2 stays closest to the original wording and preserves all facts and nuances. Version 1 is also highly faithful with only minor rewording; Version 3 keeps the core details but changes tone; Version 4 omits the invitation to chat and share ideas and adds 'this Saturday,' making it least faithful.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "C",
+    "4": "E"
+  }
+}

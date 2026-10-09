@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "Version 1 keeps every claim and relation, only splitting one sentence. Versions 2 and 3 are identical and slightly loosen two phrasings without changing facts, so 2 is placed before 3 only to avoid a tie.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "track2/B3-int",
+    "3": "B3"
+  }
+}

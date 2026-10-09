@@ -1,0 +1,24 @@
+{
+  "dropped": [],
+  "changed": [
+    {
+      "item": "'I understand you're unhappy' became 'I can see why you're unhappy', which implicitly validates the customer's grievance rather than just acknowledging it",
+      "severity": "minor"
+    },
+    {
+      "item": "'which we consider damage beyond normal wear and tear' (present, firm position) became 'which we felt went beyond normal wear and tear' (past tense, more subjective), slightly weakening the stated basis for the deduction",
+      "severity": "minor"
+    },
+    {
+      "item": "The offer to send photos changed from the company ('We can send you photos') to the individual writer ('I'm happy to send you photos')",
+      "severity": "minor"
+    },
+    {
+      "item": "The goodwill offer softened from 'we can reduce it to £90' to 'we could bring it down to £90', making a firm offer sound more tentative",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

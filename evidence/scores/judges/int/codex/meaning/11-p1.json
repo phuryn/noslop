@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1
+  },
+  "reason": "Version 3 best preserves the original’s facts, commitments, and nuances; version 1 slightly weakens “a real say” to “a say.” Version 2’s added facts are all authorized, but it also omits working “closely” with the chef and narrows running the kitchen “when it counts” to when the chef is absent.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "track2/B3-int",
+    "3": "B3"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "send": "2",
+  "reason": "Version 2 keeps every fact and nearly all of my original wording and rhythm, including the semicolon and 'had changed'. It drops only the 'found myself' nuance and slightly firms up 'hadn't given much thought'. Versions 1 and 4 alter more: 4 says 'never really thought' and 'teach them better', and both chop the cadence. Version 3 loses the specific details entirely.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "A",
+    "3": "E",
+    "4": "C"
+  },
+  "picked_arm": "A"
+}

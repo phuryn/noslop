@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 4,
+    "4": 1
+  },
+  "reason": "Version 4 stays closest to the original wording and preserves all key facts, numbers, and the follow-up invitation; version 1 is nearly as faithful but shifts to 'we charged'; version 2 is faithful but more heavily paraphrased; version 3 drops the closing thanks and contact offer.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "C",
+    "3": "A",
+    "4": "B3"
+  }
+}

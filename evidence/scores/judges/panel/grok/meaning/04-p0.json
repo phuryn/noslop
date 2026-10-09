@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3,
+    "4": 4
+  },
+  "reason": "Version 2 keeps the original claims almost verbatim; version 1 only lightly rephrases them. Version 3 drops “small job” and softens “hardest,” while version 4 adds “this Saturday” and “it’s best,” turns leaving them alone into ignoring them until summer, and omits the chat and ideas for next season.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "C",
+    "4": "E"
+  }
+}

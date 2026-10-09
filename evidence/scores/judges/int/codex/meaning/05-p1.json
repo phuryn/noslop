@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2
+  },
+  "reason": "Version 1 preserves the original most exactly; version 3 is nearly equivalent, though “Agencies pay for it” slightly narrows the broader idea of bearing costs. Version 2 adds a commitment to confirm targets before the pilot begins, whereas the original leaves confirmation timing unspecified.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "track2/A-int",
+    "3": "track2/B3-int"
+  }
+}

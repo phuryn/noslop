@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 3,
+    "4": 1
+  },
+  "reason": "Version 4 preserves the original most closely; version 1 omits that Premium unlocks more functionality. Version 3 introduces structured “routines” and an easier-recovery claim, while version 2 loses the explicit promise of starting at no cost and the consistency and progress-review benefits.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "C",
+    "4": "B5"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 3,
+    "4": 1
+  },
+  "send": "2",
+  "tells": {
+    "1": "Formulaic scaffolding: bolded lead-in on every list item, repeated 'Mitigation:' labels, and buzzy phrasing like 'structurally declining' and the one-word heading 'Flexibility.'",
+    "2": "Mild template feel: each risk follows the same label-sentence-plus-'We'd...' pattern, but it is mostly natural.",
+    "3": "Markdown '##' headers in a memo, plus uniformly declarative 'We will...' mitigations that read like a generated plan.",
+    "4": "Over-smoothed rewording that drifts in meaning, such as 'declining for good reasons we can't reverse' and 'put our talent and inventory in one place'."
+  },
+  "reason": "Version 2 keeps the scannable structure leadership needs, drops the AI-style bold labels, and stays precise. Version 4 sounds the most human, but its prose risk section is harder to scan and its paraphrases lose some accuracy.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "track2/B5-int",
+    "3": "track2/A-int",
+    "4": "B5"
+  }
+}

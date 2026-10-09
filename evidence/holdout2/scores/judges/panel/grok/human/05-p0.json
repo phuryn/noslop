@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2
+  },
+  "send": "2",
+  "tells": {
+    "1": "Stock caption scaffold: emoji-wrapped headline, emoji bullets, then a repeated pin/calendar/clock block, plus filler like 'all things apple' and 'appetite for autumn.'",
+    "2": "none",
+    "3": "Compressed-summary voice: the 'with pressing demos ... and the first pour' parallel doesn't hold, and 'so' glues the invite on."
+  },
+  "reason": "Version 2 sounds like someone who actually runs the day: warm, specific, and unfussy. Version 1 is a decorated template and version 3 is a flattened summary with a shaky sentence.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B3",
+    "3": "A"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 5,
+    "3": 3,
+    "4": 4,
+    "5": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Generic benefit list, vague claims, and a templated CTA with no grounded detail.",
+    "3": "The tidy 'Here's what that meant in practice' bullets and 'The lesson for me' wrap-up feel formulaic.",
+    "4": "A compressed, generic takeaway and safe CTA make it sound polished but impersonal.",
+    "5": "The smooth narrative arc ending in a broad operational lesson feels slightly manufactured."
+  },
+  "reason": "Version 1 reads most human because it includes concrete numbers, limitations, and on-the-ground observations that create credibility. I would publish it because the nuance makes the result more believable than a cleaner but generic success story.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "E",
+    "3": "O",
+    "4": "track2/A-int",
+    "5": "C"
+  }
+}

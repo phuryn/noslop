@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 4,
+    "4": 1
+  },
+  "reason": "Version 4 most closely preserves the original’s details and nuances; version 1 is nearly equivalent but drops the explicit quiet-moment framing, while version 2 implies more specifically that preparation starts at mixing. Version 3 makes the clearest substantive change by expanding pre-measured dry ingredients into a claim that you don’t have to weigh anything out.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B5",
+    "4": "B3"
+  }
+}

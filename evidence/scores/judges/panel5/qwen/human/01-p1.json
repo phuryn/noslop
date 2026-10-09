@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 5,
+    "3": 4,
+    "4": 6,
+    "5": 3,
+    "6": 1
+  },
+  "send": "6",
+  "tells": {
+    "1": "The closing maxim about 'meeting patients where they already are' feels slightly packaged.",
+    "2": "The 'The result is...' summary and generic closing question read formulaic.",
+    "3": "The added moral about 'the practice and for the people we serve' feels like padded corporate copy.",
+    "4": "The awkward list and phrases like 'in just 6 months!' and 'utilising a slot' feel mechanically assembled.",
+    "5": "The hook/bullets/'The lesson for me' structure is a familiar LinkedIn/AI template.",
+    "6": "none"
+  },
+  "reason": "Version 6 sounds most like a real practice leader: conversational, specific, and credible without sounding templated. It also keeps the operational point clear while adding a natural voice.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "B5",
+    "4": "E",
+    "5": "O",
+    "6": "C"
+  }
+}

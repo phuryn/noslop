@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 5,
+    "3": 2,
+    "4": 4,
+    "5": 3,
+    "6": 6,
+    "7": 7
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Bold rule-of-three bullets and a pat 'Want one?' close",
+    "3": "none",
+    "4": "Tide opener plus locked tricolons ('more explorers, more crossings, and more arguments')",
+    "5": "Borrowed 'The tide is coming in' opener on otherwise rough copy",
+    "6": "Full launch-email kit: metaphor, bold tricolon bullets, question CTA",
+    "7": "Same kit as 6, with the generic 'Here's what it adds'"
+  },
+  "reason": "Version 1 sounds like someone at the studio: one sharp image, a blunt price, and both buyers told what to do, without the tide-metaphor and tricolon machinery. The others are either thin, overexcited, or sanded into the same launch-email template.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "O",
+    "3": "A",
+    "4": "B5",
+    "5": "E",
+    "6": "V6A",
+    "7": "V6C"
+  }
+}

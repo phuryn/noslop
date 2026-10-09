@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 1,
+    "4": 4,
+    "5": 5
+  },
+  "send": "3",
+  "tells": {
+    "1": "Templated structure with colon-led headings and a tidy bullet list.",
+    "2": "Slightly performative casualness and a generic takeaway line.",
+    "3": "none",
+    "4": "Overly condensed and polished into a neat LinkedIn-style lesson.",
+    "5": "Stiff formal phrasing mixed with an exclamation and clunky bullet fragments."
+  },
+  "reason": "Version 3 feels most like a real operator sharing a credible, nuanced result; its concrete costs, time savings, and honest caveats build trust even without a direct engagement question.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "C",
+    "3": "track2/B5-int",
+    "4": "track2/A-int",
+    "5": "E"
+  }
+}

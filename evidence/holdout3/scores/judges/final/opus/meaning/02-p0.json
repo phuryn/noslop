@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 5,
+    "3": 3,
+    "4": 4,
+    "5": 2
+  },
+  "reason": "Version 1 keeps every fact, hedge and commitment. Version 5 is next, keeping the 'open to' framing, and 3 is close behind though slightly firmer. Version 4 is less faithful: it swaps 'dry' for 'crisp', hardens 'could' to 'I think' and drops 'on the bar'. Version 2 is least faithful: it overstates the fit as 'great', drops the sell-through rationale for the trial, and changes 'send samples' to 'bring some in'.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "E",
+    "3": "B3",
+    "4": "C",
+    "5": "B5"
+  }
+}

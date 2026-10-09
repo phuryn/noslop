@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 5,
+    "3": 1,
+    "4": 4,
+    "5": 2
+  },
+  "send": "3",
+  "tells": {
+    "1": "The generic transition “The consequences are significant” adds emphasis without information and makes the structure feel templated.",
+    "2": "The accumulation of casual phrases—“sit uncovered,” “actually accept,” “bunch up,” “in the loop”—feels like a deliberate conversational rewrite rather than a natural PRD voice.",
+    "3": "none",
+    "4": "“This causes four problems” unnecessarily announces the list’s length, giving otherwise straightforward prose a mechanical feel.",
+    "5": "“What this costs” feels like an inserted punchy heading, particularly because the list includes variability in outcomes rather than just costs."
+  },
+  "reason": "Version 3 has the most natural balance of direct prose, readable structure, and professional tone; these stylistic judgments do not establish authorship. Before sending, I would fix the substantive issue shared by all five: escalation does not mean a visit has been rescheduled.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "C",
+    "3": "B5",
+    "4": "A",
+    "5": "B3"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "send": "4",
+  "reason": "Version 4 keeps the same event, time, sapling count, optional gloves, open welcome, and the ask to meet neighbours and help plant, with the same warm tone. The others shift the appeal, drop the neighbour invitation, or change who is doing the planting.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "E",
+    "3": "A",
+    "4": "B5"
+  },
+  "picked_arm": "B5"
+}

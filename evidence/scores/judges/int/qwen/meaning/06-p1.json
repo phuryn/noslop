@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1
+  },
+  "reason": "Version 3 preserves the original facts, price/shipping/cancellation, and the monthly-bake ritual including the “look forward” nuance without adding unsupported facts. Version 1 is close but drops the “look forward” line, while Version 2 omits more original material and changes “sneaking a taste” to “first taste.”",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "track2/B3-int",
+    "3": "B3"
+  }
+}

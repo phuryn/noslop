@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 5,
+    "4": 2,
+    "5": 3,
+    "6": 6
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Stacked sentiment ('It's a real privilege… put music back in people's homes for years to come')",
+    "3": "Aphoristic opener ('Every piano has a history, and a future worth caring for') plus 'find their voice' and 'for years to come'",
+    "4": "Stock phrase 'a future worth caring for… for years to come'",
+    "5": "Cliché 'find their voice again' paired with 'a history and a future worth caring for'",
+    "6": "Em-dash flourish ('a history—and a future worth caring for') plus 'It's a privilege to help these instruments find their voice'"
+  },
+  "reason": "Version 1 uses concrete, unadorned language ('get an old instrument to sound right again') that sounds like a tradesman talking. The others lean on stock phrases like 'find their voice', 'a future worth caring for' and 'for years to come', and 6 piles all of them up with an em dash.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "B",
+    "4": "B3",
+    "5": "B2",
+    "6": "O"
+  }
+}

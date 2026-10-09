@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 4,
+    "3": 2,
+    "4": 1
+  },
+  "reason": "Version 4 preserves the original almost exactly, followed by version 3's equivalent paraphrases; version 1 drops the explicit 'this week' timing and small-job nuance and adds 'our' seed swap. Version 2 adds instructions to ignore the garlic until next summer, changes the event timing to 'this Saturday,' and omits the invitation to chat and exchange ideas.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "E",
+    "3": "B3",
+    "4": "A"
+  }
+}

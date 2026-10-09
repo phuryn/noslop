@@ -1,0 +1,13 @@
+{
+  "send": "5",
+  "reason": "It keeps every fact and the cloudy-weather caveat, and it still sounds like the original announcement. The warm-clothes advice stays tied to being outdoors, not to everyone being welcome.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "E",
+    "4": "V6A",
+    "5": "B5",
+    "6": "V6C"
+  },
+  "picked_arm": "B5"
+}

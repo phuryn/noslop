@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 4,
+    "4": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "A tidy named recovery story (Gwen Harper hiking in four months) dropped in with no quote or source.",
+    "3": "Stacked reassurance clichés and a vague premium promise ('guidance you can trust,' 'keep your recovery moving,' 'unlock more of what the app has to offer').",
+    "4": "Leftover slogan lines shared with the glossiest draft, especially 'see how far you've come' and 'more of what the app has to offer.'"
+  },
+  "reason": "Version 2 has the most personal voice, but the unsupported outcome anecdote is not something I would publish. Version 1 is the draft I would send: concrete, credible, and free of stock uplift.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "track2/B5-int",
+    "3": "O",
+    "4": "B5"
+  }
+}

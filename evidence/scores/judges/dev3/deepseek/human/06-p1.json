@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 5,
+    "3": 2,
+    "4": 3,
+    "5": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Forced phrasing like 'start at the mixing' and 'Each month gives you a bake to look forward to.'",
+    "3": "Staccato marketing fragments ('A little measuring done. A little joy delivered.') and the vague 'good part.'",
+    "4": "Awkward gerund phrase 'Skip the weighing out.'",
+    "5": "Literal markdown bold formatting and templated headings in body copy."
+  },
+  "reason": "Version 1 reads the most natural and conversational, with concrete details and a smoother rhythm. The others each contain a visible awkwardness or AI pattern that makes them feel less human.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "O",
+    "4": "B3",
+    "5": "B5"
+  }
+}

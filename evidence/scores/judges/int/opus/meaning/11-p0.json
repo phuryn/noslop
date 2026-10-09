@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "Version 1 keeps every fact, commitment and nuance. Version 2 is nearly as faithful but weakens 'a real say' to 'a say'. Version 3 uses the writer's answers legitimately but drops 'slammed on weekends, and we like it that way', 'closely', 'real' and 'a schedule you can plan a life around', changes 'running the kitchen when it counts' to 'when the chef isn't there', and frames the departed sous chef as a promote-from-within example the answers don't support.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "track2/A-int",
+    "3": "track2/B3-int"
+  }
+}

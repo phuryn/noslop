@@ -1,0 +1,10 @@
+{
+  "send": "1",
+  "reason": "It keeps the same facts and caveats, including “about 80%” and Nov 3 as a target date. It also stays closest to my original wording while combining the first two sentences naturally.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "B5"
+  },
+  "picked_arm": "A"
+}

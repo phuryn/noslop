@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1
+  },
+  "reason": "Version 3 keeps the original facts, commitments, and caveats almost verbatim and adds nothing unsupplied, losing only the “lovely” framing. Version 1 strengthens “helped us get here” into “wouldn’t be here without you,” while version 2 drops “you came through the door” and “make a start” and adds an unrequested thanks to donors, even though its Middlemarch, Okafor, and GoFundMe details were authorized.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "track2/B5-int",
+    "3": "track2/A-int"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1
+  },
+  "reason": "Version 3 preserves the most meaning, including the cautious recommendation to test texts, though it turns a qualified general lesson into a claim about the biggest win. Version 1 strengthens mixed results into calls not working and testing into direct advice; version 2 adds unsupported frequency claims, changes rarely returned voicemails to never returned, and drops more of the original nuance.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "E",
+    "3": "B3"
+  }
+}

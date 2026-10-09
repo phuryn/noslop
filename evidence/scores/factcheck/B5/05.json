@@ -1,0 +1,17 @@
+{
+  "dropped": [
+    {
+      "item": "The framing sentence 'The consequences are significant:' introducing the bullet list was removed, losing the explicit claim that the impacts are significant.",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "'Late or missed visits affect clients' became 'hurt clients', which shifts from a neutral to a negative verb. The meaning is close, but the edit is slightly stronger.",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

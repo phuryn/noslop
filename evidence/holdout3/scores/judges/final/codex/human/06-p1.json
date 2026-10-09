@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 6,
+    "4": 4,
+    "5": 5,
+    "6": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "Overperformed empathy: assumes the customer’s feelings and adds 'that’s on us' for a conspicuously conversational tone.",
+    "4": "Stock empathy and a formulaic patience closing.",
+    "5": "Repeated thanks for patience and unnecessary cushioning such as 'I can tell you'.",
+    "6": "The generic patience closing adds a slight template feel."
+  },
+  "reason": "Version 2 is direct, accountable and natural, with a clear delivery commitment and refund update. These are stylistic judgments, not reliable evidence of AI authorship; version 3 also changes the refund status to completed without support.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "C",
+    "4": "O",
+    "5": "E",
+    "6": "B5"
+  }
+}

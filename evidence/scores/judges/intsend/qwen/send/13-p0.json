@@ -1,0 +1,11 @@
+{
+  "send": "4",
+  "reason": "Version 4 keeps all the original facts, commitments, caveats, and structure while reading like a polished version of the writer’s memo. It preserves the professional tone and key details better than the other rewrites.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "E",
+    "3": "track2/A-int",
+    "4": "track2/B5-int"
+  },
+  "picked_arm": "track2/B5-int"
+}

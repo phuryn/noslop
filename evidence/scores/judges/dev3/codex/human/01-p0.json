@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 4,
+    "4": 1,
+    "5": 5
+  },
+  "send": "4",
+  "tells": {
+    "1": "The explicit takeaway about 'reaching people where they already are' turns a conversational account into a familiar LinkedIn lesson.",
+    "2": "'Meeting patients where they already are' is a stock takeaway that adds little to an otherwise economical post.",
+    "3": "'What I took from this is that sometimes' introduces a padded, generic lesson after the practical point is already clear.",
+    "4": "'The care they need when they need it' is the clearest stock phrase; otherwise, the writing is direct.",
+    "5": "The hook, setup, announced benefit list, moral, recommendation, and engagement question form an especially conspicuous template."
+  },
+  "reason": "Version 4 is concrete, concise, and confident without forcing a broad leadership lesson onto a straightforward operational improvement. Version 2 is close, while 1 has more conversational personality but overstates the simplicity; these are stylistic judgments, not reliable evidence of authorship.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B3",
+    "3": "B5",
+    "4": "A",
+    "5": "O"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "slightly templated corporate phrasing, especially \"target date\"",
+    "3": "choppy, repetitive sentence rhythm that feels machine-assembled",
+    "4": "stiff nominal phrasing in \"is the remaining piece\""
+  },
+  "reason": "Version 1 sounds the most like a natural Slack update from a teammate while staying clear and concrete. The others are fine but increasingly polished in a generic, slightly mechanical way.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "O",
+    "4": "B3"
+  }
+}

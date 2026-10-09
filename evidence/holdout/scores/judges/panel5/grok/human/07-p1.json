@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 5,
+    "4": 2,
+    "5": 3
+  },
+  "send": "4",
+  "tells": {
+    "1": "none",
+    "2": "Stiff causation ('A bug in the ParkWise app caused it') and an abrupt close with no offer of further help.",
+    "3": "Passive, overly even phrasing ('it has now been fixed'; 'is being processed') plus a stock patience-and-questions closer.",
+    "4": "none",
+    "5": "The same stiff 'bug caused it' line, followed by a generic thanks-for-your-patience closer."
+  },
+  "reason": "Version 1 has the most natural human voice, while 3 reads like a polished template. I would send 4: it is clear, credible, and specific without 1’s awkward collocation or 5’s mechanical cause sentence.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "O",
+    "4": "B3",
+    "5": "B5"
+  }
+}

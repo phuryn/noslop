@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "The polished 'Every shelf, every table, every book' triplet and speculative fifth post feel like generic anniversary filler.",
+    "3": "The same patterned phrasing as version 2, with 'One of the lovely things about ten years in a bookshop' adding a prefabricated sentimental gloss."
+  },
+  "reason": "Version 1 is concise, gives readers a memorable detail about Middlemarch and Mr. Okafor, and ends with a clear invitation to reply. Versions 2 and 3 repeat the shop's growth and substitute general nostalgia for that specificity; these are stylistic judgments, not proof of AI authorship.",
+  "label_to_arm": {
+    "1": "track2/B2-int",
+    "2": "track2/A-int",
+    "3": "O"
+  }
+}

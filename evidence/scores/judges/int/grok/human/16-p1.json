@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2,
+    "4": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "The reflection is built from neat contrast pairs and lands on a tidy antithesis, but the voice still feels inhabited rather than labeled.",
+    "2": "The Amina Yusuf cameo and elephant-toothpaste closer feel inserted, and “What I hadn’t planned on” is a stock narrative pivot.",
+    "3": "“I did the usual things” summarizes the ritual instead of simply performing it.",
+    "4": "“I found myself doing the usual things,” followed by a gerund list, is a classic AI opener."
+  },
+  "reason": "Version 1 keeps the concrete last-day actions and the restrained emotional turn without announcing them. Versions 3 and 4 add stock framing, and version 2 swaps the shared reflection for a movie-scene anecdote.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "track2/B3-int",
+    "3": "track2/A-int",
+    "4": "O"
+  }
+}

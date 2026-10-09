@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 5,
+    "5": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "Slightly formulaic stakeholder-by-stakeholder impact bullets, though useful for a PRD.",
+    "2": "The impact paragraph methodically covers every stakeholder, giving it a faintly checklist-driven rhythm.",
+    "3": "Conspicuously conversational substitutions such as 'sit uncovered,' 'actually accept,' and 'bunch up' feel like an applied humanizing pass.",
+    "4": "none",
+    "5": "The generic bridge 'The consequences are significant' and uniformly bolded takeaway sentences create a templated feel."
+  },
+  "reason": "Version 1 has the strongest combination of natural language, scanability, and professional restraint; version 4 feels like a rough human draft but is incomplete and insufficiently edited for this purpose. These are stylistic judgments, not reliable evidence of authorship; before publishing, I would also distinguish confirmed replacements from escalations in the success metrics.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "track2/A-int",
+    "3": "C",
+    "4": "E",
+    "5": "O"
+  }
+}

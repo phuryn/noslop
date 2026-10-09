@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 3,
+    "4": 2,
+    "5": 5
+  },
+  "reason": "Version 1 best preserves the key facts and the original commitment that details will be confirmed; Version 4 is next because it keeps the volunteer request and confirmation unchanged, while Version 3 retains more original nuance but changes “we'll confirm details” to “I'll send details.” Version 2 loses more of the original nuance and slightly changes the emoji instruction, and Version 5 adds or changes several facts.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "B3",
+    "3": "C",
+    "4": "A",
+    "5": "E"
+  }
+}

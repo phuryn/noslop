@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2
+  },
+  "reason": "Version 2 preserves all original sections, facts, and caveats with only minor rephrasing. Version 3 is close but drops the original's monthly anticipation line, while Version 1 replaces an original section with the supplied Rosa example and changes/omits original details.",
+  "label_to_arm": {
+    "1": "track2/B3-int",
+    "2": "B3",
+    "3": "track2/A-int"
+  }
+}

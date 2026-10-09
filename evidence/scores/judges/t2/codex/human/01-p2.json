@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 1
+  },
+  "send": "3",
+  "tells": {
+    "1": "Formulaic LinkedIn structure: a three-item benefits list, a broad leadership lesson, and a predictable engagement question.",
+    "2": "Generic takeaway language—“meeting patients where they already are”—and a stock engagement question make it feel polished but interchangeable.",
+    "3": "none"
+  },
+  "reason": "Version 3 has a distinct perspective, concrete operational details, and candid uncertainty that make it read most like an experienced practitioner. I would publish it if those details are accurate, though I would soften the causal claim that rescheduling by reply “actually moved the numbers.”",
+  "label_to_arm": {
+    "1": "O",
+    "2": "track2/A-int",
+    "3": "track2/B2-int"
+  }
+}

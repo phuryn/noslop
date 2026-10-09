@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 3,
+    "3": 5,
+    "4": 1,
+    "5": 2
+  },
+  "send": "4",
+  "tells": {
+    "1": "The canned line \"That's not the experience we want you to have\" inside a perfectly balanced apology-solution-close template.",
+    "2": "Stiff stock opener \"please accept my apology for the delay in responding,\" though the uneven grammar otherwise reads human.",
+    "3": "Resolution first, then a pasted-on apology that reuses \"That's not the experience we want you to have.\"",
+    "4": "none",
+    "5": "Evenly compressed, with a curt instructional closer instead of an offer of help."
+  },
+  "reason": "Version 4 is the one a skilled agent would actually send: warm, specific, and complete without stock phrasing. The others are either canned, oddly ordered, over-trimmed, or human but unpolished and missing that the battery is free.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "E",
+    "3": "track2/B5-int",
+    "4": "C",
+    "5": "track2/A-int"
+  }
+}

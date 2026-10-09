@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 5,
+    "5": 3
+  },
+  "reason": "Version 1 keeps the dates, prices, grandfathering, class purpose, and reply invitation intact; 2 is nearly as exact but makes the member benefit conditional. Version 5 drops the “more options” purpose and community thanks; 3 broadens the subject to all prices and adds a workout framing; 4 is least faithful because it says memberships renew on March 1 and classes start soon, neither of which the original states.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "B3",
+    "3": "C",
+    "4": "E",
+    "5": "A"
+  }
+}

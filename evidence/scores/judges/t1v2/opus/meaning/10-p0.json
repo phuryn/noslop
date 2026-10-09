@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+  },
+  "reason": "Version 1 keeps every fact and the purpose of the new classes, losing only 'during the week.' Version 2 drops the 'more options' purpose; Version 3 also drops it and narrows 'the change' to 'the price change.' Version 4 broadens the subject to all prices and adds framing ('On a happier note') and a new promise ('we'll be glad to help').",
+  "label_to_arm": {
+    "1": "B2",
+    "2": "A",
+    "3": "B",
+    "4": "C"
+  }
+}

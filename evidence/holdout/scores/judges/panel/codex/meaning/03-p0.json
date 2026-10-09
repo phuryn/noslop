@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2
+  },
+  "reason": "Version 1 preserves nearly all the original meaning, including the support reassurance and thanks for being part of the Kestrel family. Version 3 omits the family acknowledgment, while version 2 also drops the reassurance that no question is too small; all three retain the core facts and rollout instructions.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B3"
+  }
+}

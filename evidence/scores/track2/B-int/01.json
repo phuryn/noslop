@@ -1,0 +1,23 @@
+{
+  "id": 1,
+  "asked": false,
+  "recall_yes": 0,
+  "recall_partial": 2,
+  "hidden_total": 7,
+  "invented_specifics": [],
+  "meaning_preserved": 4,
+  "major": [
+    {
+      "item": "Closing engagement question/call to action: 'What's worked for you in reducing no-shows?'",
+      "severity": "major"
+    },
+    {
+      "item": "Hedged general lesson ('sometimes the biggest operational wins come from meeting people where they already are') became a definite claim that this was the author's biggest operational win ('the biggest operational win came from using the channel patients already pay attention to')",
+      "severity": "major"
+    },
+    {
+      "item": "Implied claim that texting was the author's single biggest operational win",
+      "severity": "major"
+    }
+  ]
+}

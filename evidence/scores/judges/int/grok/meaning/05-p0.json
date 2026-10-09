@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3
+  },
+  "reason": "Version 2 preserves every fact, metric, commitment, and caveat with only equivalent wording. Version 1 slightly recasts “bear the cost” as “pay for it” and “visibility” as “show,” while version 3 drops the explicit limit that coordinators do not handle routine reassignments and softens “relies on” and “outcomes depend on who is working.”",
+  "label_to_arm": {
+    "1": "track2/B3-int",
+    "2": "B3",
+    "3": "track2/A-int"
+  }
+}

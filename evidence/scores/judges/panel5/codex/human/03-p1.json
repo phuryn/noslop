@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 4,
+    "3": 6,
+    "4": 3,
+    "5": 1,
+    "6": 2
+  },
+  "send": "5",
+  "tells": {
+    "1": "The unnecessary question and phrases like 'a bunch' feel deliberately inserted to sound conversational.",
+    "2": "'Before, they didn't' adds a redundant, conspicuously blunt attempt at conversational tone.",
+    "3": "Repeating 'What's new?' beneath the heading and adding an exclamation mark feels like forced informality.",
+    "4": "none",
+    "5": "none",
+    "6": "none"
+  },
+  "reason": "Version 5 is concise, easy to scan, and matter-of-fact without sounding stiff; version 6 is similarly strong but lacks descriptive bullet labels. These rankings reflect editorial fit, not reliable evidence of human or AI authorship.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B5",
+    "3": "E",
+    "4": "O",
+    "5": "B3",
+    "6": "A"
+  }
+}

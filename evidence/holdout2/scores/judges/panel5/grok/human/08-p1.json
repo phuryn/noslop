@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "The tacked-on 'but here we are' is a stock softener that steps on a line that already landed.",
+    "3": "Same filler closer, with nothing changed but typographic apostrophes.",
+    "4": "Identical to 3; the only tell is that same tacked-on 'but here we are'."
+  },
+  "reason": "Version 1 is the one I’d publish: the owl joke is sharper and more assured without the hedge, and versions 3 and 4 don’t improve on 2 at all.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "O",
+    "4": "B5"
+  }
+}

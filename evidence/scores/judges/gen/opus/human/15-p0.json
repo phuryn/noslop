@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1,
+    "4": 4
+  },
+  "send": "3",
+  "tells": {
+    "1": "Over-flattened, slightly stilted phrasing ('has exercises from licensed physical therapists that you can do at home') and the vague 'unlocks additional features' read like hype mechanically stripped out.",
+    "2": "Mostly none. It reads like an amateur human: an exclamation-point 'As an added bonus', redundancy, and a pun tagline ('Take the next step, with Stepwise'). It's unpolished, but not AI-like.",
+    "3": "Stock phrases like 'see how far you've come' and 'how to do it right', though they're restrained.",
+    "4": "Generic trust and hype filler ('guidance you can trust', 'keep your recovery moving', 'BUILT FOR REAL RECOVERY', 'unlock more of what the app has to offer')."
+  },
+  "reason": "Version 3 keeps the clear structure, required subscription terms and disclaimer of 4 without the marketing filler, and it reads warmer and more natural than the flattened 1. Version 2 feels human but is too thin and amateurish to publish, and it lacks the required subscription and medical disclosures.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "gen/E-write",
+    "3": "B3",
+    "4": "O"
+  }
+}

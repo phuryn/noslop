@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 2,
+    "4": 5,
+    "5": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none; only the soft-sell closer 'a simple way to get the full picture' leans slightly promotional",
+    "2": "'other health markers' list padding, plus a bare price line with no transition",
+    "3": "none; it is terse and almost clinical, but plausibly human",
+    "4": "em dashes and the stacked marketing closer 'a practical way to get a fuller picture… make the most of their yearly checkup'",
+    "5": "the 'which helps guide care as your dog ages' participial wrap-up is a bit formulaic"
+  },
+  "reason": "Version 1 has a natural, conversational blog voice ('hits 7,' 'something's off') and still covers the clinical points and price clearly. Version 4 shows the most AI patterns, with em dashes and a padded promotional ending.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B2",
+    "3": "A",
+    "4": "O",
+    "5": "B"
+  }
+}

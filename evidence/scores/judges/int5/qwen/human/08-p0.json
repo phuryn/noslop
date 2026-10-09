@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1,
+    "4": 4
+  },
+  "send": "3",
+  "tells": {
+    "1": "none",
+    "2": "Generic value-add phrasing like “a practical way to get a fuller picture” feels templated.",
+    "3": "none",
+    "4": "Over-polished em-dash construction and stock phrases like “make the most of their yearly checkup” feel AI-smooth."
+  },
+  "reason": "Version 3 feels the most human because it uses concrete detail, a brief anecdote, and a candid tone about cost. The others are clear but more generic, with version 4 sounding the most packaged.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "B5",
+    "3": "track2/B5-int",
+    "4": "O"
+  }
+}

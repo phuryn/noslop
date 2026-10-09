@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 4,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "Some simplifications feel forced: 'declining for good reasons we can't reverse' is conversational but imprecise.",
+    "2": "Stock corporate phrasing such as 'expanded,' 'enhanced,' and 'targeted outreach' gives the reinvestment section a generic polish.",
+    "3": "Repeated 'Mitigation:' labels and heavily patterned bold summaries make the memo feel assembled from a template.",
+    "4": "Repeated 'We will' openings in the risk section create a slightly mechanical cadence."
+  },
+  "reason": "Version 4 best balances direct language, readable structure, and a professional internal voice; version 1 sounds more conversational but occasionally sacrifices precision. These are stylistic judgments, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "track2/B5-int",
+    "3": "O",
+    "4": "track2/A-int"
+  }
+}

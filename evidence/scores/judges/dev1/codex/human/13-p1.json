@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 4,
+    "4": 5,
+    "5": 1
+  },
+  "send": "5",
+  "tells": {
+    "1": "Repeated 'Mitigation:' labels make the risk section feel mechanically assembled.",
+    "2": "Uniform sentence patterns and generic phrases such as 'full brand experience' give it a template feel.",
+    "3": "Bold takeaway sentences, the generic 'Flexibility' label, and repeated 'Mitigation:' formulas create an overly packaged presentation.",
+    "4": "Systematic conversational substitutions feel forced; 'walk away cleanly' also overstates what avoiding early-termination penalties establishes.",
+    "5": "Residual corporate abstractions such as 'concentrate talent and inventory' make parts sound generic."
+  },
+  "reason": "Version 5 best balances professional clarity with natural phrasing, and its conditional language suits a proposal awaiting approval. These are stylistic judgments, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "O",
+    "4": "C",
+    "5": "B5"
+  }
+}

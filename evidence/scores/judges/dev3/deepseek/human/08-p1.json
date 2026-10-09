@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 4,
+    "3": 5,
+    "4": 2,
+    "5": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "none",
+    "2": "stiff formal phrasing and lack of contractions",
+    "3": "em dash and polished value-add ending",
+    "4": "marketing-style phrase 'a practical way to get a fuller picture'",
+    "5": "slightly clichéd closing phrase 'get the full picture'"
+  },
+  "reason": "Version 5 has the most natural, conversational rhythm, but version 4 is the stronger publishable choice because it keeps that human feel while being more precise about what bloodwork monitors.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "O",
+    "4": "B5",
+    "5": "C"
+  }
+}

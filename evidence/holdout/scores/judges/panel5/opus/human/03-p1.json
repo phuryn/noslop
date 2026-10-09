@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 5,
+    "4": 4,
+    "5": 1
+  },
+  "send": "5",
+  "tells": {
+    "1": "Stock closing reassurance ('no question is too small') and a generic 'part of the Kestrel family' sign-off",
+    "2": "Templated bolded feature labels plus a rhetorical-question opener ('Not sure where to start?') leading into a canned reassurance",
+    "3": "Padded redundancy ('longer on each charge, so you can go further between charges') alongside bold-header scaffolding and the cliché 'no such thing as a silly question'",
+    "4": "Circular phrasing ('longer battery life, so they run longer on each charge') and a slightly flat, mechanical cadence",
+    "5": "none"
+  },
+  "reason": "Version 5 leads with what matters most to the reader (what it is, that it's free, and when) in a specific subject line and plain, economical sentences without padding or formulaic scaffolding. The others lean on templated headers, redundant clauses, or stock reassurances that read as generated.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "C",
+    "3": "O",
+    "4": "A",
+    "5": "B3"
+  }
+}

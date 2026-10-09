@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 5,
+    "3": 3,
+    "4": 2,
+    "5": 1
+  },
+  "reason": "Version 5 only drops “somehow,” the surprise, and the humbling/restful contrast, while 4 keeps those but omits the caveat that she didn’t feel triumphant. Version 3 also cuts “rather than a character flaw” and “oddly”; 1 adds “a lot” of water and changes astonished/crossed to stunned/swam; 2 alters facts (life, liberating, visible fear, hours, gender) and drops the closing metaphor.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "E",
+    "3": "A",
+    "4": "B5",
+    "5": "B3"
+  }
+}

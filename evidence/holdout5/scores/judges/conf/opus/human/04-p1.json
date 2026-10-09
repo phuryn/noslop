@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 6,
+    "4": 7,
+    "5": 3,
+    "6": 5,
+    "7": 1
+  },
+  "send": "7",
+  "tells": {
+    "1": "none; only a slightly redundant opener ('It's October' followed by 'From 1 October')",
+    "2": "none; clean and terse, though so stripped back it loses warmth",
+    "3": "stock sign-off 'We look forward to welcoming you.'",
+    "4": "redundant 'October is here' with 'from 1 October', plus the polished filler 'simply' and the stock 'We look forward to welcoming you!'",
+    "5": "none; identical to version 1, with the same mild redundancy in the opener",
+    "6": "none; reads as human but unskilled ('Did You Know?' header, random capitals, 'over 65's', 'Open' mid-sentence)",
+    "7": "none"
+  },
+  "reason": "Version 7 is clear, accurate and warm, and it ends naturally with 'Come and see us!' instead of a stock corporate line. Versions 1 and 5 are identical and close behind, while 4 shows the most templated, redundant phrasing and 6 is clearly human but too error-prone to publish.",
+  "label_to_arm": {
+    "1": "V6C",
+    "2": "A",
+    "3": "B5",
+    "4": "O",
+    "5": "V6A",
+    "6": "E",
+    "7": "C"
+  }
+}

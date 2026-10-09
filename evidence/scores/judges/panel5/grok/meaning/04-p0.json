@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 5,
+    "3": 3,
+    "4": 4,
+    "5": 1
+  },
+  "reason": "Version 5 keeps every fact and nuance, and version 1 only lightly rephrases the same claims. Version 3 swaps a few words (including “a few” to “some”); version 4 drops “this week,” “a small job,” and “hardest”; version 2 adds “it’s best” and “this Saturday,” recasts leaving them alone as ignoring them until next summer, and omits the chat and ideas.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "E",
+    "3": "B5",
+    "4": "C",
+    "5": "A"
+  }
+}

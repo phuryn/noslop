@@ -1,0 +1,46 @@
+{
+  "dropped": [
+    {
+      "item": "Bloodwork can detect changes before noticeable symptoms appear (the early-detection benefit)",
+      "severity": "major"
+    },
+    {
+      "item": "Annual testing gives the veterinarian a baseline to track over time and guide care as the dog ages; the edit's general 'monitor your dog's health as it ages' only partly covers this",
+      "severity": "minor"
+    },
+    {
+      "item": "Framing that the panel gives 'a fuller picture' of the dog's health and helps make the most of the yearly checkup",
+      "severity": "minor"
+    },
+    {
+      "item": "The opening assertion that the annual visit 'should include more than vaccines', which the edit softens into a question ('have you considered')",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "Certainty raised: the original says bloodwork 'can help spot changes'; the edit says it is 'highly beneficial'",
+      "severity": "minor"
+    },
+    {
+      "item": "Product name changed from 'senior wellness panel' to 'Senior Wellness Bloodwork Panel'",
+      "severity": "minor"
+    },
+    {
+      "item": "Scope shifted: the original suggests bloodwork for all dogs, 'especially after age 7'; the edit recommends annual bloodwork specifically after age 7",
+      "severity": "minor"
+    },
+    {
+      "item": "'Other health markers' became 'many other markers'",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "'Highly beneficial' as an evaluative strength claim",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [],
+  "meaning_preserved": 3
+}

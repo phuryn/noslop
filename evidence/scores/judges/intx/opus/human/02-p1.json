@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 4,
+    "3": 3,
+    "4": 1,
+    "5": 2
+  },
+  "send": "4",
+  "tells": {
+    "1": "Two stacked questions in a row, with the first ('Could we help...') ending in a needless rhetorical question. The tone is generically polished and has no specifics beyond the stats.",
+    "2": "Templated, interchangeable phrasing ('talk about where we might fit') that could be sent to any prospect.",
+    "3": "none (the flaws are human: duplicated 'Hi,' repeated 'Would you be open,' and clunky phrasing)",
+    "4": "none",
+    "5": "none (only a slightly stock closing line)"
+  },
+  "reason": "Version 4 has concrete details a template wouldn't invent: the 2-hour on-time definition, a fleet of 42 trucks, and the March compressor failure. It also admits honestly that they can't take all the volume, which builds credibility and sets it apart from the other versions. Version 5 is a close, clean runner-up.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "track2/A-int",
+    "3": "E",
+    "4": "track2/B5-int",
+    "5": "C"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 1
+  },
+  "send": "3",
+  "tells": {
+    "1": "The padded triplet 'whether you were trying to work, keep in touch or relax at home' and the repeated apology in the closing ('Thank you for your patience. We're sorry for the trouble this caused.')",
+    "2": "The stock closer 'Thank you for your patience', which sounds odd when customers had no choice, plus the slightly mechanical repeat of 'Nine hours'",
+    "3": "none"
+  },
+  "reason": "Version 3 apologises, gives the facts, takes ownership and states the remedy without padding or a boilerplate sign-off, so it reads the most sincere and direct. Version 1 over-apologises with filler, and Version 2 is close to 3 but ends on a generic thank-you.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "A",
+    "3": "B3"
+  }
+}

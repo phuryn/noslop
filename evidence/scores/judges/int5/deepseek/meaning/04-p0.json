@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "Version 1 stays closest to the original, with only punctuation and contraction changes. Version 2 keeps more of the original key wording than Version 3, which makes slightly more synonym substitutions, though no facts or commitments are lost.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "track2/B5-int",
+    "3": "B5"
+  }
+}

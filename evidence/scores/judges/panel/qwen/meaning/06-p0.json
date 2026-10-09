@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3,
+    "4": 4
+  },
+  "reason": "Version 2 preserves the original facts, pricing, shipping/cancellation terms, and core nuances most closely, with only minor rephrasing. Version 4 ranks last because it adds new claims and changes key meaning, such as 'bake something new every month' and experience-level language.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "C",
+    "3": "A",
+    "4": "E"
+  }
+}

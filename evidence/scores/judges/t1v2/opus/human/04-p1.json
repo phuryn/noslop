@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 5,
+    "4": 3,
+    "5": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Mild: the appositive 'a small job that gives you something to look forward to' is a tidy, polished summary phrase",
+    "3": "Em dash plus the staged colon reveal 'Then comes the hardest part: leaving them alone.'",
+    "4": "Staged colon reveal 'Then comes the hardest part:' and an em dash smoothed into a separate sentence ('It's a small job now that...')",
+    "5": "Same staged colon reveal and smoothed em dash, plus the stiff comma after 'This week,'"
+  },
+  "reason": "Version 1 has a distinct, warm voice that suits a community allotment newsletter ('natter', 'the hard bit', 'pointy end up') and avoids the polished, formulaic rhythm of the others. Versions 3–5 are near-identical variants built around the same dramatic-reveal structure, and 3 keeps the em dash.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B",
+    "3": "O",
+    "4": "A",
+    "5": "B2"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "send": "2",
+  "reason": "It keeps the original facts, tone, and call-to-action almost word-for-word, with only minor wording changes that still sound like the writer.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B5",
+    "4": "E",
+    "5": "V6C",
+    "6": "V6A"
+  },
+  "picked_arm": "A"
+}

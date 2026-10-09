@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 5,
+    "2": 3,
+    "3": 1,
+    "4": 2,
+    "5": 4
+  },
+  "reason": "Version 3 preserves nearly all meaning, though it drops the narrator’s surprise and “somehow”; version 4 omits the contrast with triumph, while version 2 also loses the character-flaw contrast and “oddly” restful nuance. Version 5 adds intensity and makes the absence of triumph absolute; version 1 introduces unsupported gender, duration, and others’ awareness of the fear, while changing the comparison about past inexperience.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "A",
+    "3": "B3",
+    "4": "B5",
+    "5": "C"
+  }
+}

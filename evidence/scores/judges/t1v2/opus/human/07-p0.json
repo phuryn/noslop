@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 5,
+    "4": 2,
+    "5": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Report-style framing ('Mobile login migration... is about 80% done') plus the redundant 'Nov 3 target date'",
+    "3": "Three evenly sized declarative sentences give a choppy, template rhythm; also 'target date' padding",
+    "4": "Stacked 'with... and...' clauses make one slightly run-on sentence, though it's otherwise natural",
+    "5": "Redundant 'target date' after a specific date adds a formal, padded note"
+  },
+  "reason": "Version 1 sounds like a teammate talking. It uses first person, 'the only big piece left' signals that the remaining risk is small, and 'hit Nov 3' is natural and confident. The others use a nominalized, report-like subject and the redundant phrase 'target date'.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B2",
+    "3": "O",
+    "4": "B",
+    "5": "A"
+  }
+}

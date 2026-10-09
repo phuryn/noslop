@@ -1,0 +1,11 @@
+{
+  "send": "4",
+  "reason": "It keeps all the key facts and commitments: the 2-year warranty, a replacement battery at no cost, tracking details, apology for the issue and delay, and an invitation to reply. It is the closest match to the original meaning, even though the order is slightly different.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "track2/A-int",
+    "3": "C",
+    "4": "track2/B5-int"
+  },
+  "picked_arm": "track2/B5-int"
+}

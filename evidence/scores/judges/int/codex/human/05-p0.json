@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 4,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "The generic introduction “The consequences are significant” and uniformly packaged impact bullets give it a slightly templated feel.",
+    "2": "none",
+    "3": "The impact paragraph mechanically compresses four distinct consequences into a dense sequence, with little editorial prioritization.",
+    "4": "none"
+  },
+  "reason": "Version 4 best combines natural phrasing, professional tone, and scannability; version 2 is direct but occasionally too casual for the subject. These are stylistic judgments, not reliable evidence of AI authorship, and all four need one substantive correction before publication: escalation should not count as completed rescheduling.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "track2/B3-int",
+    "3": "track2/A-int",
+    "4": "B3"
+  }
+}

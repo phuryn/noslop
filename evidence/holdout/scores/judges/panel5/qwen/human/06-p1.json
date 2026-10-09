@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 3,
+    "3": 5,
+    "4": 2,
+    "5": 1
+  },
+  "send": "5",
+  "tells": {
+    "1": "templated how-to cadence and a late compatibility note",
+    "2": "chatty opener and awkward 'spills a little' phrasing",
+    "3": "same templated wording as version 1, with no distinct voice",
+    "4": "none",
+    "5": "none"
+  },
+  "reason": "Version 5 reads most like a skilled human because it is plain, direct, and naturally paced, while still keeping the steps clear. Version 4 is a close second, but version 2 feels slightly performed and versions 1 and 3 are more generic.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "C",
+    "3": "A",
+    "4": "B3",
+    "5": "B5"
+  }
+}

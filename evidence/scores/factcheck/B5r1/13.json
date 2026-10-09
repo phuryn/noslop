@@ -1,0 +1,29 @@
+{
+  "dropped": [
+    {
+      "item": "Framing of the lease-end timing as a 'natural exit' (the original presents the coincident June 2027 expirations as a natural opportunity, not just a penalty-free option)",
+      "severity": "minor"
+    },
+    {
+      "item": "The explicit 'Flexibility' label for rationale point 4, which named the benefit being argued",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "'Our performance is tied to anchor tenants and mall health rather than to our own brand pull' became 'more than to our own brand pull', which softens an either/or claim into a matter of degree",
+      "severity": "minor"
+    },
+    {
+      "item": "Denver staffing purpose: 'additional staffing to capture customers from the closing stores' (actively winning them) became 'additional staff to serve customers coming over' (assumes they will come)",
+      "severity": "minor"
+    },
+    {
+      "item": "Mitigations stated as definite plans ('Mitigation: ...') became conditional 'We'd ...' phrasing, which slightly softens the commitment",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

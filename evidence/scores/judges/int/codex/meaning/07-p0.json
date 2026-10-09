@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2
+  },
+  "reason": "All three preserve the facts, approximate 80% completion, and Nov 3 target status. Version 1 stays closest to the original relationships between claims; version 3 slightly links the remaining work to schedule confidence, while version 2 adds emphasis with “only,” though exclusivity is already implied by “the remaining piece.”",
+  "label_to_arm": {
+    "1": "track2/B3-int",
+    "2": "track2/A-int",
+    "3": "B3"
+  }
+}

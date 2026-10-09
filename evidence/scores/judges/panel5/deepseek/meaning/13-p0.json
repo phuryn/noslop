@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 5,
+    "3": 3,
+    "4": 4,
+    "5": 1
+  },
+  "reason": "Version 5 stays closest to the original's wording, facts, and specific commitments/caveats. Version 1 is nearly as close but slightly softens 'capture' and drops 'targeted'; versions 3 and 4 paraphrase while keeping most substance, and version 2 omits key specifics such as the no-penalty exit, severance/redeployment, and detailed online/customer-transition plans.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "E",
+    "3": "B5",
+    "4": "C",
+    "5": "B3"
+  }
+}

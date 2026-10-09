@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 2,
+    "4": 3
+  },
+  "send": "3",
+  "tells": {
+    "1": "none",
+    "2": "Tacked-on benefit framing ('to give you more options during the week'), which is also illogical for Sunday classes, plus uniformly polished, formal phrasing ('As a current member', 'will take effect for you')",
+    "3": "none",
+    "4": "Tacked-on benefit clause ('so you'll have more options during the week'), the same illogical justification for a Sunday class"
+  },
+  "reason": "Version 1 reads most like a real studio owner wrote it, with its comma splice, 'stay tuned', and slightly wordy phrasing, but those small sloppy spots make it weaker to send. Version 3 is the clearest and most credible, and it avoids the 'more options during the week' filler that appears in versions 2 and 4.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "O",
+    "3": "A",
+    "4": "B3"
+  }
+}

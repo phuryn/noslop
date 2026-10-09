@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 4,
+    "4": 5,
+    "5": 1
+  },
+  "send": "5",
+  "tells": {
+    "1": "none",
+    "2": "Minor formalizing shifts like 'on the weekends' and 'The pay is' create a slightly stiffer, AI-edited feel.",
+    "3": "Typical AI job-post formatting with bold section labels like 'What you'll do' and 'What we're after.'",
+    "4": "none — all-caps and excessive exclamation marks read as a low-skill human choice rather than an AI pattern.",
+    "5": "none"
+  },
+  "reason": "Version 5 reads as the most polished, confident, and naturally human rewrite, with clear voice and credible warmth. Version 4 is ranked lowest because the all-caps and excessive exclamation marks undercut professionalism and credibility.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "O",
+    "4": "E",
+    "5": "C"
+  }
+}

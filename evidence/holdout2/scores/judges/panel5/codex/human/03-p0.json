@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "The introductory 'Here's what we agreed' adds a slightly formulaic setup before an already clear recap.",
+    "3": "Bold labels for three short points make a simple email feel unnecessarily templated, especially the generic 'Addition.'",
+    "4": "none"
+  },
+  "reason": "Version 1 is concise, naturally organized, and courteous, with clear responsibilities. Version 4 is nearly identical in quality, but its closing feels slightly abrupt; these stylistic differences do not establish AI authorship.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "B5",
+    "3": "O",
+    "4": "A"
+  }
+}

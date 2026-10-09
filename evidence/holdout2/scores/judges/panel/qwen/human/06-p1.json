@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "smart apostrophe feels auto-formatted rather than a natural drafting choice"
+  },
+  "reason": "Version 2 reads most naturally for a help page, with Make sure and When calibration finishes giving a clear, human support tone. The others are clean but slightly more templated, and version 3’s typographic polish draws minor attention to itself.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "O"
+  }
+}

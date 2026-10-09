@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 4,
+    "4": 1,
+    "5": 5
+  },
+  "send": "4",
+  "tells": {
+    "1": "Neat triads and restrained emotion make it feel a bit templated.",
+    "2": "Overly polished punctuation and symmetrical fragments feel edited.",
+    "3": "Very clean and balanced but lacks a distinctive human voice.",
+    "4": "None",
+    "5": "Clipped and generic, with connective warmth removed."
+  },
+  "reason": "Version 4 has the most natural, personal voice and concrete, credible details, so it reads most like a skilled human wrote it.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "O",
+    "3": "B3",
+    "4": "C",
+    "5": "A"
+  }
+}

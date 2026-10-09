@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 2,
+    "3": 4,
+    "4": 3,
+    "5": 1
+  },
+  "send": "5",
+  "tells": {
+    "1": "A formulaic LinkedIn structure: metric hook, three benefits, broad lesson, recommendation, and engagement question.",
+    "2": "The closing question feels appended to generate engagement rather than invite a specific discussion.",
+    "3": "Conspicuously casual phrasing and punchy fragments feel engineered; 'all we did' oversimplifies the change.",
+    "4": "The 'meeting patients where they already are' takeaway is a stock business-writing conclusion.",
+    "5": "The broad 'biggest operational wins' lesson is generic compared with the concrete account preceding it."
+  },
+  "reason": "Version 5 feels the most natural and measured, with clear paragraphing and a recommendation that fits the evidence presented. Version 2 is economical but ends mechanically; these rankings reflect editorial impressions, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "A",
+    "3": "C",
+    "4": "B3",
+    "5": "B"
+  }
+}

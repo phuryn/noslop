@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "repetitive 'This talk covers... It also covers...' and a nameless 'The speaker' bio",
+    "3": "compressed boilerplate and the slightly unnatural 'weigh before doing the same'",
+    "4": "smooth but generic conference-copy phrases like 'explores', 'shares lessons', and 'practical considerations'"
+  },
+  "reason": "Version 1 feels most human because its concrete numbers, named example, candid false-positive rate, and skepticism about the ML create credibility and voice. The others are clear but increasingly templated, with Version 4 reading like polished boilerplate.",
+  "label_to_arm": {
+    "1": "track2/B3-int",
+    "2": "B3",
+    "3": "track2/A-int",
+    "4": "O"
+  }
+}

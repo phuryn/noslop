@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "overly polished, slightly abstract sentiment like 'real privilege' and 'sound like themselves again'",
+    "4": "em dash plus 'find their voice again' and a too-neat closing phrase"
+  },
+  "reason": "Version 1 is the most natural and credible: concise, warm, and free of the over-polished phrasing that makes the others feel AI-assisted.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "C",
+    "4": "O"
+  }
+}

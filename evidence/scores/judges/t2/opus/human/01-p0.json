@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Generic triad bullet list ('Fewer empty chairs / Less time on the phone / More patients getting the care they need') plus the aphorism 'meeting people where they already are' and an engagement-bait closing question",
+    "3": "Platitudinous takeaway ('meeting patients where they already are can be a real operational win') and the tacked-on engagement question; the 'All we did was' framing oversimplifies"
+  },
+  "reason": "Version 1 has specific, checkable details (11 hours a week, Joanna in Gdańsk, the over-70 phone follow-up, Sopot stuck at 12%, the summer seasonality caveat) and admits what didn't work, which makes it far more credible and human. Versions 2 and 3 are smooth but generic, built on a stock 'meet people where they are' lesson, with 2 adding formulaic bullets.",
+  "label_to_arm": {
+    "1": "track2/B2-int",
+    "2": "O",
+    "3": "track2/A-int"
+  }
+}

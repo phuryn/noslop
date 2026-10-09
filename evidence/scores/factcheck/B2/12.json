@@ -1,0 +1,26 @@
+{
+  "dropped": [
+    {
+      "item": "The abstract no longer says the talk explores how Mesa Valley Water Authority used its existing data. The case is now stated as background, and the talk is described only as covering lessons and considerations.",
+      "severity": "minor"
+    },
+    {
+      "item": "'existing' pressure data (already-collected data, the talk's central theme) in the closing sentence of the abstract became 'their own' pressure data, losing the sense of data already on hand.",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "'Pressure data ... can help reveal leaks' became 'can reveal leaks', which drops the hedge and makes pressure data a direct rather than contributing means of detection.",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "Bio specifies 'the authority's existing pressure data' (a reasonable inference from context).",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

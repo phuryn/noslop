@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 5,
+    "4": 4,
+    "5": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Slightly forced casualness: clipped short sentences and folksy idioms feel self-consciously colloquial.",
+    "3": "Vague, repetitive summary and clichéd phrasing like 'bang or with a whimper' instead of concrete detail.",
+    "4": "Overly balanced list and semicolon; 'did the usual things' announces the routine rather than showing it.",
+    "5": "Overly polished parallel gerund list and semicolon; 'found myself doing the usual things' is a common narrative filler."
+  },
+  "reason": "Version 1 is the most concrete and understated, showing the routine through specific actions rather than announcing it, and it has the most natural syntax with no obvious AI tells.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "C",
+    "3": "E",
+    "4": "A",
+    "5": "O"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 1,
+    "4": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "The stock framing line 'The consequences are significant:' introduces a list of bolded lead-in bullets that all have the same shape.",
+    "2": "The bolded lead-in bullets follow a uniform template of bold claim plus explanatory sentence, though the plainer 'What this costs:' framing softens it.",
+    "3": "none",
+    "4": "The announced count 'This causes four problems:' introduces four perfectly parallel bullets, and the restructured sentence with a semicolon feels over-tidied."
+  },
+  "reason": "Version 3 reads most clearly human but is rambling, and its goals are vague or flawed. For example, it measures reduction 'compared to when the feature first starts being used' rather than against a pre-pilot baseline. Version 2 keeps the strong structure and concrete metrics with the least formulaic framing, so it is the best one to send.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B3",
+    "3": "gen/E-write",
+    "4": "A"
+  }
+}

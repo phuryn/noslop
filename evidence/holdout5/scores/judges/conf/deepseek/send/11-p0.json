@@ -1,0 +1,13 @@
+{
+  "send": "3",
+  "reason": "It keeps the original paragraph's facts and reflective tone nearly intact, with only light wording changes, and preserves the final realization without distortions.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "C",
+    "3": "V6C",
+    "4": "V6A",
+    "5": "A",
+    "6": "B5"
+  },
+  "picked_arm": "V6C"
+}

@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1
+  },
+  "reason": "Version 2 stays closest; its main drift is dropping the 'help reduce' hedge in the abstract. Version 1 adds an unsupported claim that 'most' utilities collect such data and a new commitment to discuss 'what didn't' work. Version 3 asserts the leaks had certainly gone unnoticed and inflates the speaker's role to having 'helped lead the effort'.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B",
+    "3": "A"
+  }
+}

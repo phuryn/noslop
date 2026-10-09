@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2
+  },
+  "reason": "Version 1 keeps the original facts, dates, price, and most caveats with only minor wording changes. Version 3 is also close but adds claims like “most of us” and “just,” while Version 2 loses the “wherever you are / glad to have you along” nuance.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "C"
+  }
+}

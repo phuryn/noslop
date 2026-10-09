@@ -1,0 +1,11 @@
+{
+  "send": "3",
+  "reason": "It keeps the same features, price, renewal terms, and medical caveat while staying closest to my clear, encouraging tone. The edits simplify the wording without changing what I’m promising.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "B5",
+    "4": "E"
+  },
+  "picked_arm": "B5"
+}

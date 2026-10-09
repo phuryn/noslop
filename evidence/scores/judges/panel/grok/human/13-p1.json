@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 4,
+    "4": 5,
+    "5": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "Even, template-complete architecture: every section the same weight, every bullet neatly closed, no personal aside.",
+    "2": "none",
+    "3": "Repeated 'Mitigation:' tags and lockstep parallel syntax on every risk.",
+    "4": "Bold topic labels on every item, including the empty one-word header 'Flexibility.'",
+    "5": "Systematic casual rewrite that stays perfectly parallel, with off phrases like 'How they do depends' and 'I'm glad to walk through.'"
+  },
+  "reason": "Version 2 is the only draft with unedited human texture, so it ranks first, but I would send version 1: it is clear and credible without 3 and 4's label scaffolding or 5's slightly forced plain-language pass.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "E",
+    "3": "B3",
+    "4": "O",
+    "5": "C"
+  }
+}

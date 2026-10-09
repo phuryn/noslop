@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2,
+    "4": 4,
+    "5": 5
+  },
+  "reason": "Version 2 keeps all facts, numbers, tentative ask, trial caveat, and sample offer almost unchanged; Version 3 is close but adds 'rather' and slightly reshapes the ask, Version 1 is more direct and weakens the sample tone, Version 4 changes the customer-fit nuance, and Version 5 omits the sales-test caveat and changes sending samples to bringing them.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "B5",
+    "4": "C",
+    "5": "E"
+  }
+}

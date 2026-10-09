@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2
+  },
+  "reason": "Version 2 preserves the original's key facts and caveats best, including structural decline, stronger potential returns, targeted outreach, and explicit reinvestment. Version 3 is slightly less faithful because it omits the explicit 'where our brand performs best' point and some qualifiers, while Version 1 loses 'structurally' and changes 'stronger potential returns' to the less cautious 'should return more.'",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "B3",
+    "3": "track2/B3-int"
+  }
+}

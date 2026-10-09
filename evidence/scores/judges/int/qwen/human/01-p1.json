@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Smooth but generic benefit language and clichés like 'meeting patients where they already are' make it feel sanitized.",
+    "3": "The formulaic 'My takeaway' and engagement-question ending read like a template rather than a lived account.",
+    "4": "The bullet list, 'Here's what that meant in practice', and 'The lesson for me' structure feel like standard AI LinkedIn formatting."
+  },
+  "reason": "Version 1 feels most human because its caveats, costs, named observation, and unresolved exception create credible texture. The other versions are clear but become progressively more generic and templated.",
+  "label_to_arm": {
+    "1": "track2/B3-int",
+    "2": "B3",
+    "3": "track2/A-int",
+    "4": "O"
+  }
+}

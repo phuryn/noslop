@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 6,
+    "3": 4,
+    "4": 1,
+    "5": 5,
+    "6": 3
+  },
+  "send": "4",
+  "tells": {
+    "1": "none",
+    "2": "Repeated 'Would you be open to...' phrasing across two consecutive questions",
+    "3": "Ends with an abrupt, context-free 'Do you have 15 minutes?' ask",
+    "4": "none",
+    "5": "Paired formal questions and corporate phrasing like 'provide refrigerated trucking'",
+    "6": "Generic 'where we might fit' CTA and slightly formulaic structure"
+  },
+  "reason": "Version 4 is the strongest blend of concise capability, proof, and a recipient-focused ask, and it reads like a skilled human wrote it without filler or over-formality.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "E",
+    "3": "B3",
+    "4": "A",
+    "5": "O",
+    "6": "B5"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2,
+    "4": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "the added 'but here we are' feels like a stock, self-aware aside that softens the joke",
+    "3": "the same 'but here we are' filler, though slightly less noticeable in plain punctuation",
+    "4": "effectively a duplicate of 2, with the same mild filler"
+  },
+  "reason": "Version 1 is the cleanest and most human because the dry stop after 'owl' lands better than the clichéd 'but here we are'. Versions 2 and 4 are effectively identical, so their lower separation is only a forced tie-break.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "O",
+    "3": "A",
+    "4": "B5"
+  }
+}

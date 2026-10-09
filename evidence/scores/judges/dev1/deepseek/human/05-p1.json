@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 4,
+    "4": 5,
+    "5": 2
+  },
+  "send": "2",
+  "tells": {
+    "1": "Slightly mechanical framing: 'This causes four problems:' and the precise 30-minute completion definition read like a product template.",
+    "2": "none",
+    "3": "Unnatural phrase 'No system today detects' and bland 'This causes problems for clients, coordinators, and agencies:' framing.",
+    "4": "Formal, wordy AI-style transitions: 'There is currently no system...' and 'The consequences are significant:' plus consistent bold lead-ins.",
+    "5": "Polished but formulaic: 'What this costs:' and 'Coordinators should only step in...' feel like light AI editing over the same template."
+  },
+  "reason": "Version 2 reads most like a skilled human wrote it for a PRD: natural contractions, concrete rhythm, and varied sentence structure without losing clarity. Version 4 is the stiffest and most formulaic.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "B5",
+    "4": "O",
+    "5": "B3"
+  }
+}

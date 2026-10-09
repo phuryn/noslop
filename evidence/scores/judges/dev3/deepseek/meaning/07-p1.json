@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 3,
+    "4": 1
+  },
+  "reason": "Version 4 preserves the original wording and all facts most exactly, including 'remaining piece' and 'target date.' Version 1 is nearly as faithful but adds 'only'; version 3 is slightly looser, and version 2 changes 'remaining piece' to 'only big piece left,' subtly altering the nuance.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "B5",
+    "4": "B3"
+  }
+}

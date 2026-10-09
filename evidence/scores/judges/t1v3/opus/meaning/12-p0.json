@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 3,
+    "4": 1
+  },
+  "reason": "Version 4 keeps every hedge ('might otherwise have gone unnoticed', 'helped bring down'), so it is the most faithful. Version 2 drops 'help' and the 'unnoticed' nuance. Version 3 keeps 'helped' but adds claims about 'most water utilities' and a promise to cover 'what didn't' work, and it strengthens the leaks to ones 'nobody knew about'. Version 1 drops the hedges in both sections and adds a leadership claim ('helped lead the effort').",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B",
+    "3": "C",
+    "4": "B3"
+  }
+}

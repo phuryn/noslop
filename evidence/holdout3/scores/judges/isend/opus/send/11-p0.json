@@ -1,0 +1,11 @@
+{
+  "send": "1",
+  "reason": "Version 1 keeps nearly every fact and nuance, including the instructor's framing, 'somehow,' 'oddly restful,' the surprise at not minding, and the room metaphor, and it stays in my measured voice. It does drop the 'not triumphant' contrast, but that's a smaller loss than the tone shifts in 3, the omissions in 4, or the changed facts and tense in 2.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "E",
+    "3": "C",
+    "4": "A"
+  },
+  "picked_arm": "B5"
+}

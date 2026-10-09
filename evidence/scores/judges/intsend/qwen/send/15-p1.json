@@ -1,0 +1,11 @@
+{
+  "send": "4",
+  "reason": "Version 4 uses the confirmed facts—312 videos, Premium unlocks PT-built custom programs, and the focus on skipping exercises with the Gwen Harper example—while keeping the subscription and medical caveats and avoiding unsupported progress details.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "E",
+    "3": "C",
+    "4": "track2/B5-int"
+  },
+  "picked_arm": "track2/B5-int"
+}

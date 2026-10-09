@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 1
+  },
+  "reason": "Version 3 preserves the original most closely; version 2 also retains all substantive information with slightly more rephrasing. Version 1 adds an instruction to ignore the garlic until next summer, changes the event timing to “this Saturday,” and omits the invitation to chat and exchange ideas for next season.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "B3",
+    "3": "A"
+  }
+}

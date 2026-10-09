@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1
+  },
+  "send": "3",
+  "tells": {
+    "1": "Emoji-heavy, templated formatting with bullet points and repeated logistics reads over-produced.",
+    "2": "Flat, summary-like tone without conversational warmth or a natural sign-off.",
+    "3": "none"
+  },
+  "reason": "Version 3 is the most natural and credible invitation: it has varied sentence rhythm, avoids emoji/formatting overload, and includes a warm sign-off. Version 1 feels over-produced and version 2 is too flat, so I would send version 3.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "A",
+    "3": "B3"
+  }
+}

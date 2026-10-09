@@ -1,0 +1,11 @@
+{
+  "send": "1",
+  "reason": "Version 1 keeps every fact and commitment ($34/month, pre-measured dry ingredients, free US shipping, cancel anytime), the four-part structure, and my headlines, including 'Less measuring, more making.' Its warm, light voice still sounds like mine. Version 4 swaps out that headline, Version 2 drops the section headings, and Version 3 changes both the tone and the meaning.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "E",
+    "4": "B5"
+  },
+  "picked_arm": "C"
+}

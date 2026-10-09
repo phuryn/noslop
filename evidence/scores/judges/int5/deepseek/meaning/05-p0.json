@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "Version 1 preserves all original facts, metrics, caveats, and distinctions with only minor wording changes. Version 2 is nearly as faithful but slightly paraphrases some terms; Version 3 loses the explicit 'not for routine reassignments' caveat and condenses the consequence bullets, dropping the explicit 'Outcomes depend on who is working' framing.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "B5",
+    "3": "track2/A-int"
+  }
+}

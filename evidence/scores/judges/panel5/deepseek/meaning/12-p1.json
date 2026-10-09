@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 5,
+    "4": 4,
+    "5": 3
+  },
+  "reason": "Version 1 is closest overall; Version 2 stays nearly as faithful with only minor bio softening. Version 5 adds 'what didn't' and broadens to 'most utilities'; Version 4 adds 'helped lead'; Version 3 adds a speaker name not in the original and is least faithful.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "B5",
+    "3": "E",
+    "4": "A",
+    "5": "C"
+  }
+}

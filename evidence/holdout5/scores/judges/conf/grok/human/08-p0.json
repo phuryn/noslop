@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 6,
+    "3": 7,
+    "4": 2,
+    "5": 3,
+    "6": 5,
+    "7": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "The neat pairing “time for work and time for care” is a bit slogan-smooth.",
+    "2": "Em-dash opener plus the stock justification “no need to arrange them separately.”",
+    "3": "none",
+    "4": "The balanced tag “time for work and time for care.”",
+    "5": "“whatever needs your attention” is generic polished filler.",
+    "6": "Passive, flat rhythm and the slightly off “you see the price before you book.”",
+    "7": "“no need to arrange them separately” restates the benefit in template language."
+  },
+  "reason": "Version 1 sounds like a local writer: “get your head down” and “nothing else to sort out” fit a Cork landing page without the smoothed benefit-restatements that mark 2 and 7. I’d publish it for that voice, clarity, and price certainty; 3 is plainly human but too rough to send.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "O",
+    "3": "E",
+    "4": "V6A",
+    "5": "B5",
+    "6": "A",
+    "7": "V6C"
+  }
+}

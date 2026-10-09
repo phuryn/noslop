@@ -1,0 +1,13 @@
+{
+  "send": "4",
+  "reason": "It preserves the original facts and friendly Slack tone, including the key dates, all repair tickets moving, training by Friday, and a thread for questions, with only minor wording tweaks.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "V6A",
+    "3": "E",
+    "4": "V6C",
+    "5": "A",
+    "6": "B5"
+  },
+  "picked_arm": "V6C"
+}

@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 6,
+    "3": 3,
+    "4": 5,
+    "5": 4,
+    "6": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Every device at once: triple infinitives, a participial tricolon, 'What surprised me,' and 'not triumphant so much as quietly astonished.'",
+    "3": "none",
+    "4": "Airless parallelism—the triple 'to' list and participle catalogue—with the feeling sanded into one frictionless arc.",
+    "5": "The neat essay pivot 'What surprised me was how little I minded by the end.'",
+    "6": "Announced feeling ('I was surprised by how little I minded') and the stiff shuffle 'know how already.'"
+  },
+  "reason": "Version 1 sounds like someone thinking on the page: spoken syntax, understatement, and an image that lands. The others either stay raw and unfinished or smooth the same material into parallel lists and tidy, pre-labeled emotion.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "O",
+    "3": "E",
+    "4": "B3",
+    "5": "A",
+    "6": "B5"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3
+  },
+  "reason": "Version 2 keeps every section and heading and preserves the price, shipping and cancel-anytime commitments with only light paraphrase. Version 1 changes the 'Less measuring. More making.' heading and narrows 'the good part' to 'stirring', while Version 3 drops all section headings and the 'Make room / give yourself' framing.",
+  "label_to_arm": {
+    "1": "B",
+    "2": "C",
+    "3": "A"
+  }
+}

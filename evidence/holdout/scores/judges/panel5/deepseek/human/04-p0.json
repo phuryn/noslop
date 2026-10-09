@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 3,
+    "3": 2,
+    "4": 1,
+    "5": 5
+  },
+  "send": "4",
+  "tells": {
+    "1": "The product mention arrives abruptly without a transition, making it feel bolted on.",
+    "2": "The welcome to the Hive Report is delayed until the final paragraph, which sounds like an AI reorganization of bullet points.",
+    "3": "The em-dash in \"along—and\" and the slight redundancy after \"kept us on our toes\" read as over-polished AI editing.",
+    "4": "none",
+    "5": "Formulaic structure and generic phrases like \"go over the practicalities\" give it a flattened, AI-rewritten tone."
+  },
+  "reason": "Version 4 reads most like a real beekeeper speaking naturally to members: it has a direct, warm, slightly informal rhythm and avoids over-polished AI phrasing.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B5",
+    "3": "O",
+    "4": "C",
+    "5": "B3"
+  }
+}

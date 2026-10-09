@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 4,
+    "4": 1
+  },
+  "reason": "Version 4 preserves the original’s meaning most closely, followed by 1; version 2 slightly broadens the dry-ingredient benefit to skipping the scale and loses the explicit quiet-moment nuance. Version 3 introduces ambiguity with “Each kit is $34 a month” and drops the explicit promise of more time for making, although all versions retain the core price, shipping, and cancellation terms.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "C",
+    "3": "A",
+    "4": "B5"
+  }
+}

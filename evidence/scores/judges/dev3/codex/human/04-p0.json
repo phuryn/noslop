@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 5,
+    "3": 4,
+    "4": 2,
+    "5": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Slightly mechanical rhythm in 'It's a small job now, and it gives us something to look forward to'; not a reliable authorship signal.",
+    "3": "none",
+    "4": "none",
+    "5": "none"
+  },
+  "reason": "Version 1 has the strongest community-newsletter voice: concrete instructions, varied rhythm, and an easy invitation to stay for a natter. The others are close; these rankings reflect editorial preference, and none contains convincing evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B3",
+    "3": "O",
+    "4": "B5",
+    "5": "A"
+  }
+}

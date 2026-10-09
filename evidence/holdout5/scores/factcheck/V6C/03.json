@@ -1,0 +1,12 @@
+{
+  "dropped": [],
+  "changed": [
+    {
+      "item": "The subject line said the expansion 'is here', implying it is available now. The edit's subject says it 'lands October 21', which states a future release date. The new wording matches the body, but the subject's claim is different.",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

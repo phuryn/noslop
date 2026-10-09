@@ -1,0 +1,11 @@
+{
+  "send": "1",
+  "reason": "It keeps every claim, commitment, and section of the original, including the 'something to look forward to' section and 'stay as long as you like,' and it reads in my own plain, warm voice. Version 2 adds real details but drops that whole section, Version 3 loses the look-forward line, and Version 4 changes the tone and meaning.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "track2/B5-int",
+    "3": "track2/A-int",
+    "4": "E"
+  },
+  "picked_arm": "C"
+}

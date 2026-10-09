@@ -1,0 +1,54 @@
+{
+  "dropped": [
+    {
+      "item": "The brand name 'Kettle & Crumb' in the hero copy (now 'We will send you'). It still appears in the final CTA.",
+      "severity": "minor"
+    },
+    {
+      "item": "'So you can get straight to the good part', the framing that the kit skips the tedious step",
+      "severity": "minor"
+    },
+    {
+      "item": "The 'slow down / something to look forward to each month' positioning, including the scenes of an afternoon with the oven on and a quiet moment with tea",
+      "severity": "minor"
+    },
+    {
+      "item": "Baking as something homemade to share",
+      "severity": "minor"
+    },
+    {
+      "item": "'Stay for as long as you like', the explicit no-minimum-commitment framing (partly covered by 'cancel anytime')",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "'Make room for a monthly bake' (a regular monthly ritual) became 'Bake something new every month', which implies a different recipe or product in each kit",
+      "severity": "major"
+    },
+    {
+      "item": "The CTA 'Get My Monthly Kit' became the duplicated or garbled 'Get started Get your monthly baking kit'",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "A promise that each month's bake is something new or different",
+      "severity": "major"
+    },
+    {
+      "item": "A claim that the kit suits all skill levels ('Whether it's your first time baking or you have been baking for years')",
+      "severity": "minor"
+    },
+    {
+      "item": "'A box full of' ingredients, implying volume or quantity",
+      "severity": "minor"
+    },
+    {
+      "item": "'It's that simple', an ease claim",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

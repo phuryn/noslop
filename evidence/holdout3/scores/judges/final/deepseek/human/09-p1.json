@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 5,
+    "3": 6,
+    "4": 4,
+    "5": 3,
+    "6": 1
+  },
+  "send": "6",
+  "tells": {
+    "1": "none",
+    "2": "Packs the task and team context into one long breathless sentence, then closes with the generic phrase 'a trade that people will hire you for.'",
+    "3": "Formulaic recruitment clichés and rhetorical questions: 'earn whilst you learn', 'career for life', 'excellent starting salary.'",
+    "4": "The colon-heavy aphorism 'It's a real trade with real prospects:' feels slightly over-edited or AI-polished.",
+    "5": "Minor marketing-style abstraction in 'It's a real trade with real prospects'; otherwise natural.",
+    "6": "none"
+  },
+  "reason": "Version 6 reads like a skilled human rewrite: it keeps the concrete shop-floor voice and idiom, avoids recruiter boilerplate, and stays natural from opener to call to action. I would publish it as the most credible and clear option.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "E",
+    "4": "O",
+    "5": "B5",
+    "6": "C"
+  }
+}

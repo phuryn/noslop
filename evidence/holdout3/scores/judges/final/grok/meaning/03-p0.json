@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 5,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 1
+  },
+  "reason": "Version 5 keeps the quantities, price, date, 20% offer, day-one signup, and no-pressure caveat, dropping only “that’s it.” Version 2 keeps that price commitment and the caveat but changes the subject, readiness, and tenure; 3 and 4 omit both caveats, with 4 losing more nuance; 1 adds an unstated “favourite inks” promise and broadens the P.S.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "C",
+    "3": "B3",
+    "4": "A",
+    "5": "B5"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 6,
+    "2": 4,
+    "3": 5,
+    "4": 1,
+    "5": 3,
+    "6": 2
+  },
+  "send": "4",
+  "tells": {
+    "1": "Repetitive past-perfect and the clichéd 'bang or whimper' framing.",
+    "2": "The phrase 'found myself doing' and overly neat parallel contrasts feel AI-smooth.",
+    "3": "Templated three-action list and balanced 'Some lessons... Others...' structure.",
+    "4": "none",
+    "5": "Asyndetic list and semicolon cadence feel AI-smoothed.",
+    "6": "none"
+  },
+  "reason": "Version 4 reads like a believable, controlled personal reflection with natural sentence variation and understated detail. It avoids both the clichés of version 1 and the AI-polished symmetry of several middle versions.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "O",
+    "3": "B3",
+    "4": "B5",
+    "5": "A",
+    "6": "C"
+  }
+}

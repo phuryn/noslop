@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 5,
+    "4": 3,
+    "5": 2
+  },
+  "reason": "Version 1 preserves nearly all meaning; version 5 drops the closing pause-and-thank-you sentiment, while version 4 also omits care from the team's credited qualities. Version 2 adds unsupported slowness and changes unnoticed work to unseen work, while version 3 adds 'today' and a shared vision, loses explicit hand-sorting, and omits the caveat about the milestone's small scale relative to textile waste.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "C",
+    "3": "E",
+    "4": "A",
+    "5": "B3"
+  }
+}

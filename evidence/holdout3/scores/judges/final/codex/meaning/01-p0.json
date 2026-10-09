@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 5,
+    "2": 2,
+    "3": 1,
+    "4": 3,
+    "5": 4
+  },
+  "reason": "Version 3 preserves the original most fully; version 2 drops the closing pause for thanks, while version 4 also omits care from the team's credited qualities. Version 5 adds a stronger disclaimer of personal credit and changes careful, unnoticed work to slow, unseen work; version 1 adds unsupported timing ('today') and loses the explicit caveat that 1,000 tonnes is a small part of overall textile waste.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "B3",
+    "3": "B5",
+    "4": "A",
+    "5": "C"
+  }
+}

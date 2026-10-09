@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 2,
+    "4": 3
+  },
+  "reason": "Version 1 stays closest to the original with minimal substantive changes. Version 3 retains nearly all original wording and caveats, followed by Version 4 with minor wording shifts; Version 2 paraphrases most and slightly weakens 'validate' to 'test whether realistic.'",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "C",
+    "3": "A",
+    "4": "B5"
+  }
+}

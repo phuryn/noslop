@@ -1,0 +1,13 @@
+{
+  "send": "2",
+  "reason": "Version 2 keeps every fact, the 'special' thanks to the night shift, the 'more to do' caveat and the pause to recognise progress, in the original's structure and tone. Version 5 is close but drops the 'special' emphasis and merges paragraphs; the others lose content (3, 6) or shift details (1, 4).",
+  "label_to_arm": {
+    "1": "C",
+    "2": "V6C",
+    "3": "A",
+    "4": "V6A",
+    "5": "B5",
+    "6": "E"
+  },
+  "picked_arm": "V6C"
+}

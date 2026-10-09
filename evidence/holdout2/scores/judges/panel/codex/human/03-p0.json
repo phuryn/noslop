@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "The introductory summary announcement and bold labels make a short recap feel unnecessarily templated."
+  },
+  "reason": "Version 2 is concise, clear, and natural, with slightly less repetition and a warmer closing than version 1. Version 3 is easy to scan but overstructured for such a short email; these stylistic differences do not establish AI authorship.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "O"
+  }
+}

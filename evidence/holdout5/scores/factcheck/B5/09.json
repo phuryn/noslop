@@ -1,0 +1,21 @@
+{
+  "dropped": [
+    {
+      "item": "'planning it properly': the emphasis on thorough planning is gone ('planning it')",
+      "severity": "minor"
+    },
+    {
+      "item": "'you're properly off': the emphasis that time off is fully uninterrupted is softened to 'you're off', though 'no emails or quick questions' still conveys it",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "'You'll be in charge of the dive' became 'You'd be in charge of the dive', a slight shift from definite to conditional",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

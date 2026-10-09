@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 3,
+    "3": 6,
+    "4": 2,
+    "5": 1,
+    "6": 5
+  },
+  "send": "5",
+  "tells": {
+    "1": "formulaic milestone opening, cliché phrases, and redundant emphasis on the 400-square-foot space",
+    "2": "flat, generic summary language; it reads competent but somewhat voiceless",
+    "3": "non-idiomatic phrasing such as 'make a start' and 'without you coming in'",
+    "4": "smooth but slightly templated cadence, especially 'One of the lovely things... Maybe...'",
+    "5": "none",
+    "6": "AI-ish parallelism and tricolon, especially 'every shelf, every table, every book' and the matching 'Maybe...' sentences"
+  },
+  "reason": "Version 5 sounds most like a real bookseller: warm, specific, lightly self-deprecating, and native to X/Twitter. The others are either cleaner but more templated or more awkward, so I would publish 5.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "A",
+    "3": "B5",
+    "4": "B3",
+    "5": "C",
+    "6": "O"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 1,
+    "4": 4
+  },
+  "reason": "Version 3 keeps nearly every fact and nuance, including the 'quiet' moment and the 'stay as long as you like' commitment; its only slip is 'you don't have to weigh anything,' which slightly overstates 'dry ingredients.' Version 2 is close behind, Version 1 adds 'all to yourself' and drops headers, and Version 4 merges sections and loses the 'Less measuring. More making.' and 'Make room for a monthly bake' messages.",
+  "label_to_arm": {
+    "1": "B",
+    "2": "C",
+    "3": "B2",
+    "4": "A"
+  }
+}

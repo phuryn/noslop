@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2,
+    "4": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "flattens distinct impacts into a dense paragraph and uses passive phrasing",
+    "3": "generic signposting and bolded lead-ins feel templated",
+    "4": "simplified synonym swaps create awkward and less precise phrasing"
+  },
+  "reason": "Version 1 is the most natural and publishable: direct, scannable, and specific without templated flourishes. The others are competent but show AI-ish compression, generic scaffolding, or awkward paraphrase.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "track2/A-int",
+    "3": "O",
+    "4": "B5"
+  }
+}

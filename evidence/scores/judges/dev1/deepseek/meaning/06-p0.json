@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 4,
+    "4": 1
+  },
+  "reason": "Version 4 stays closest to the original wording and preserves key details like 'good part,' 'quiet moment,' and the $34/month free US shipping/cancel anytime terms. Version 1 is next with only minor shifts, while Versions 2 and 3 narrow or condense more meaning and lose some original nuance.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B3",
+    "3": "A",
+    "4": "B5"
+  }
+}

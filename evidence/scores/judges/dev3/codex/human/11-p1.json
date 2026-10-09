@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 5,
+    "4": 1,
+    "5": 4
+  },
+  "send": "4",
+  "tells": {
+    "1": "The contrived specificity of 'the third plate of the night' feels less convincing than an actual kitchen detail.",
+    "2": "The polished trio 'real days off, nights that actually end, and a schedule you can plan a life around' sounds like recruitment copy.",
+    "3": "'Honestly, that's the fun part' and 'your opinion will actually count' strain to sound conversational and authentic.",
+    "4": "'A schedule you can plan a life around' is a generic promise that the stated opening days don't substantiate.",
+    "5": "The awkward compression 'full time, hands-on, on the line most nights and running the kitchen' feels mechanically assembled."
+  },
+  "reason": "Version 4 has the most consistent employer voice, direct phrasing, and natural flow; I'd publish it after checking the scheduling promises. These are stylistic judgments, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "C",
+    "4": "B5",
+    "5": "O"
+  }
+}

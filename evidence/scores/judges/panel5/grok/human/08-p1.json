@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 3,
+    "3": 2,
+    "4": 1,
+    "5": 6,
+    "6": 4
+  },
+  "send": "4",
+  "tells": {
+    "1": "none",
+    "2": "Even brochure rhythm and a generic 'other health markers' stack with no personal voice.",
+    "3": "Stock closer: 'a simple way to get the full picture.'",
+    "4": "none",
+    "5": "Paired em dashes plus a 'fuller picture' / 'make the most of' sign-off.",
+    "6": "Padded sign-off: 'practical way to get a fuller picture' and 'more out of the checkup.'"
+  },
+  "reason": "Version 4 keeps the vaccines-versus-bloodwork point, states the price without a sales bow, and sounds like a careful clinic writer. Version 3 is close but ends on a stock phrase, while 5’s em dashes and closer read as generated.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "A",
+    "3": "C",
+    "4": "B3",
+    "5": "O",
+    "6": "B5"
+  }
+}

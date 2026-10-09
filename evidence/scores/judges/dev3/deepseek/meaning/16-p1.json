@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 2,
+    "4": 3
+  },
+  "reason": "Version 1 stays closest to the original wording and caveats; version 3 has only minor omissions. Version 4 weakens the caveat to 'never thought,' while version 2 adds 'better' and makes more interpretive changes.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "C",
+    "3": "A",
+    "4": "B5"
+  }
+}

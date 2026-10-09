@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "Generic strategy language such as 'full brand experience' and 'stronger potential returns' sounds polished without providing supporting evidence.",
+    "2": "none",
+    "3": "Repeated 'Mitigation:' labels make the risk section sound mechanically assembled.",
+    "4": "Uniform bold lead-ins and repeated 'Mitigation:' labels give the memo an overly templated feel."
+  },
+  "reason": "Version 1 best combines executive clarity with natural, accountable sentences; version 2 feels conversational but needs tightening to read like a skilled editor's finished memo. I would send version 1 after validating its financial assumptions and lease claims; these rankings reflect style, not proof of authorship.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "E",
+    "3": "B3",
+    "4": "O"
+  }
+}

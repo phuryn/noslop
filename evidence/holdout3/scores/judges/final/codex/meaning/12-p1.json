@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 5,
+    "3": 3,
+    "4": 2,
+    "5": 4
+  },
+  "reason": "Version 1 preserves the meaning most closely, followed by 4 with only a slight shift in how participation is expressed; 3 drops the explicit closing invitation to help plant, though that purpose remains clear. Version 5 adds stronger need and a ‘good start’ framing, while 2 strengthens the appeal for help and omits meeting neighbours; all retain the core logistics and optional-gloves caveat.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "E",
+    "3": "B3",
+    "4": "A",
+    "5": "C"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 4,
+    "4": 3
+  },
+  "reason": "Version 2 restates every fact with no added nuance, and version 1 matches it aside from a harmless 'only.' Version 4 changes 'biometric flow' to 'biometric login,' while version 3 is least faithful because 'only big piece' adds an unstated size judgment and can imply other work remains.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "C",
+    "4": "B5"
+  }
+}

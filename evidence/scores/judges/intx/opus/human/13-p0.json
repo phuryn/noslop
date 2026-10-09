@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 2,
+    "3": 1,
+    "4": 3,
+    "5": 4
+  },
+  "send": "4",
+  "tells": {
+    "1": "Every list item opens with a bolded lead-in and every risk gets a 'Mitigation:' label, which reads like a consulting template ('structurally declining', 'Flexibility.').",
+    "2": "Uniformly smooth, chatty headers ('What could go wrong, and what we'd do about it') and a perfectly parallel 'We'd...' cadence in every bullet, which reads as a deliberately 'humanized' rewrite.",
+    "3": "none",
+    "4": "Polished consultant phrasing ('brand pull', 'concentrate talent and inventory', 'spread management attention and cash thin'), but it is restrained and reads naturally.",
+    "5": "Markdown H2 headers in an internal memo, plus rigidly parallel 'We will...' and 'Finance completes...' constructions."
+  },
+  "reason": "Version 3 is clearly the human original: repetitive, vague on mitigations, and casual. That makes it authentic but weaker as a decision document. Version 4 keeps the polished structure and specific mitigations without the heavy bolding or template labels, so it is the most credible memo to send.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "C",
+    "3": "E",
+    "4": "track2/B5-int",
+    "5": "track2/A-int"
+  }
+}

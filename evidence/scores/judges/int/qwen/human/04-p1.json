@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 1,
+    "4": 3
+  },
+  "send": "3",
+  "tells": {
+    "1": "none",
+    "2": "The compressed 'a small job now that gives' phrasing feels smoothed by an editor or model rather than spoken.",
+    "3": "none",
+    "4": "none"
+  },
+  "reason": "Version 3 reads most like a polished human newsletter: warm, concise, and practical. Versions 1 and 4 are identical, so I ranked 1 slightly above 4 only to satisfy the no-ties rule.",
+  "label_to_arm": {
+    "1": "track2/B3-int",
+    "2": "track2/A-int",
+    "3": "O",
+    "4": "B3"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "send": "2",
+  "reason": "It keeps every fact and the warm, inclusive close nearly word for word, with only light smoothing. Version 1 adds details I didn't say (\"have a look around\", \"we can't wait to see it\") and overstates that donations \"bought\" the Land Rover. Version 3 drops the invitation details, and version 4's \"you're welcome\" garbles the thank-you.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B5",
+    "3": "E",
+    "4": "A"
+  },
+  "picked_arm": "B5"
+}

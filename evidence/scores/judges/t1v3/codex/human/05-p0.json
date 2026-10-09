@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2,
+    "4": 5,
+    "5": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "“This hurts in four ways” feels like a conversational lead-in imposed on otherwise formal product writing.",
+    "3": "“What this costs” feels slightly packaged, though the shorter opening sentences read naturally.",
+    "4": "The accumulation of casual phrases—“sit uncovered,” “actually accept,” “bunch up,” “in the loop”—feels like deliberate humanization and sometimes reduces precision.",
+    "5": "“The consequences are significant” adds generic emphasis, while “the visits assigned to them” and “There is currently no system that” add unnecessary words."
+  },
+  "reason": "Version 1 is restrained, clear, and appropriate for a PRD; version 3 is a close second for readability, and these stylistic judgments do not establish authorship. Before sending, I would fix the shared substantive flaw: escalating a visit should not count as successfully rescheduling it.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B",
+    "3": "B3",
+    "4": "C",
+    "5": "O"
+  }
+}

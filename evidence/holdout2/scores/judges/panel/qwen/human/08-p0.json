@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "the removed aside makes it feel slightly trimmed and less voiced, as if edited for neatness rather than personality",
+    "3": "no real writing tell; the smart quotes are typographic, though the familiar 'but here we are' cadence is faintly essay-generic"
+  },
+  "reason": "The casual 'but here we are' gives the opening a natural, self-deprecating human rhythm. Version 1 keeps that voice without the slightly over-polished feel of smart quotes, while version 2 is cleaner but flatter.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "O"
+  }
+}

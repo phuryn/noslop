@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 5,
+    "2": 2,
+    "3": 1,
+    "4": 4,
+    "5": 3
+  },
+  "reason": "Version 3 stays closest to the original wording and retains all key caveats and thanks; version 2 is also very close but drops the closing pause, while version 5 paraphrases slightly more and version 4 omits the closing pause and the explicit 'care'; version 1 is loosest, losing the small-part caveat and adding broader claims.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "B3",
+    "3": "B5",
+    "4": "A",
+    "5": "C"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "\"I found myself,\" then a tidy beautifully/others contrast and a soft paradoxical close.",
+    "3": "Choppy humanizer rhythm that breaks the grammar: \"Others I'd spent the drive home...\"",
+    "4": "Same generalized arc—calendar metaphor, balanced semicolon, vague \"something,\" neat last-line paradox—with no particular memory."
+  },
+  "reason": "Version 1 sounds remembered: one class, one former student, an unflattering feeling. The others share a smooth summary; 4 is the least padded, 2 leans on \"I found myself,\" and 3's short sentences snap the parallel.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "O",
+    "3": "B5",
+    "4": "track2/A-int"
+  }
+}

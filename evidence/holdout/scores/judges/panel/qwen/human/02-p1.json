@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 1,
+    "4": 4
+  },
+  "send": "3",
+  "tells": {
+    "1": "The closing 'I can share more then' feels abrupt and slightly templated.",
+    "2": "Repeating 'interested' in the close makes it sound formulaic.",
+    "3": "none",
+    "4": "'if it sounds of interest' is an unnatural phrase."
+  },
+  "reason": "Version 3 reads most like a skilled human recruiter because it is conversational, specific, and low-pressure. Version 4 is weakest due to the unnatural closing phrase.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "C",
+    "4": "O"
+  }
+}

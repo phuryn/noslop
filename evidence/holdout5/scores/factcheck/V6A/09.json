@@ -1,0 +1,21 @@
+{
+  "dropped": [],
+  "changed": [
+    {
+      "item": "'Making the call when conditions or kit say it's not right' became 'calling it off when the conditions or the kit aren't right'. This narrows the supervisor's judgment call (which could include pausing, adjusting or aborting) to specifically calling the dive off.",
+      "severity": "minor"
+    },
+    {
+      "item": "'We're looking for an HSE Part I surface supplied Dive Supervisor' became 'If you're an HSE Part I surface supplied Dive Supervisor... read on'. The direct statement that the company is hiring is now a conditional reader prompt, though the intent is still clear.",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "'28 on, 28 off' was clarified as '28 days on, 28 off'. This is a reasonable inference from the standard rotation notation.",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 4,
+    "4": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "Generic anniversary voice with no concrete details or specific memories.",
+    "2": "none",
+    "3": "Over-polished punctuation and repetitive parallel phrasing.",
+    "4": "Flattened, safe phrasing and an unnecessary comma; reads like an AI simplification."
+  },
+  "reason": "Version 2 sounds like a real bookseller sharing specific, credible memories, while the others feel like polished or generic templates.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "track2/B3-int",
+    "3": "O",
+    "4": "track2/A-int"
+  }
+}

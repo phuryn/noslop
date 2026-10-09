@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 2,
+    "3": 1,
+    "4": 3,
+    "5": 6,
+    "6": 4
+  },
+  "send": "4",
+  "tells": {
+    "1": "Four identical “Mitigation:” tags and mirror-image sections read like a filled-in template, not someone making a case.",
+    "2": "Even four-part balance and leftover stock lines (“pulled into renewal terms by default,” “spread management attention and cash thin”) still sound generated.",
+    "3": "none",
+    "4": "Every bullet gets the same bold mini-headline, and “I’m glad to walk through” is an unnatural swap for “happy to.”",
+    "5": "One-word bold labels such as “Flexibility.” plus repeated “Mitigation:” prefixes are classic generated-list formatting.",
+    "6": "Markdown ## headers and flat, person-free sentences; “declining structurally” is a stiff reorder of the same template line."
+  },
+  "reason": "Version 3 is the only draft with a hasty, idiosyncratic voice; the rest share one template, with 2 and 4 the least mechanical. I would send 4 because it stays clear and credible, with a spoken cadence, and avoids both version 2’s muddled “good reasons” line and the canned Mitigation labels.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "B5",
+    "3": "E",
+    "4": "C",
+    "5": "O",
+    "6": "A"
+  }
+}

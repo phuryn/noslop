@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 3,
+    "3": 1,
+    "4": 2
+  },
+  "reason": "Version 3 preserves all key facts, numbers, and commitments most closely, including the replacement battery at no cost and tracking promise. Version 1 ranks lowest because it omits the explicit 'at no cost' commitment.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "C",
+    "3": "B3",
+    "4": "A"
+  }
+}

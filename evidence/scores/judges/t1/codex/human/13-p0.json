@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 4,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "Highly templated presentation: bold thesis statements followed by explanations that often repeat them, plus mechanical 'Mitigation:' labels.",
+    "2": "Uniform paragraph rhythms and generic corporate phrases such as 'full brand experience' make the prose feel processed.",
+    "3": "Conspicuous conversational rewriting—'The numbers,' 'Our people are affected,' 'make the final call'—feels deliberately informal and sometimes less precise.",
+    "4": "Repeated 'Mitigation:' labels and the generic closing invitation retain a template-like feel."
+  },
+  "reason": "Version 4 is the tightest professional memo: it removes redundant setup while preserving a credible internal voice. Version 2 is close; all four need completed financial evidence to substantiate the recommendation, and stylistic tells alone cannot establish AI authorship.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "A",
+    "3": "C",
+    "4": "B"
+  }
+}

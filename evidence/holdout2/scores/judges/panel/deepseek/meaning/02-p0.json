@@ -1,0 +1,11 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2
+  },
+  "reason": "Version 1 preserves all key facts and commitments and keeps the closing 'Thank you for your patience'; version 2 omits that closing and the final apology, losing more of the original's sentiment.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3"
+  }
+}

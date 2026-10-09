@@ -1,0 +1,25 @@
+{
+  "dropped": [],
+  "changed": [
+    {
+      "item": "\"plainly earned\" became \"honestly earned\", which hints that the City money was dishonest rather than just less direct or tangible",
+      "severity": "minor"
+    },
+    {
+      "item": "\"worked the lock\" became \"fiddled with the lock\", which makes the narrator sound less skilled and more haphazard",
+      "severity": "minor"
+    },
+    {
+      "item": "\"When it turned\" (the lock turning) became \"The door opened\", a slightly different event",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "\"Standing there\" places the realisation on the doorstep at that moment; the original doesn't say where or when it happened",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

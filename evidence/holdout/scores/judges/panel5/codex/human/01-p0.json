@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3,
+    "4": 5,
+    "5": 4
+  },
+  "send": "2",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "The mirrored 'belongs to our crews' and 'belongs to our members' paragraphs feel formulaic, especially alongside 'everything in between.'",
+    "4": "'The number is our members’ too' feels mechanically compressed, making the transition from crew recognition to member savings awkward.",
+    "5": "'Our members get some of the credit too' supplies a tidy rhetorical balance without explaining what members deserve credit for."
+  },
+  "reason": "Version 2 has the strongest celebratory voice, natural cadence, and appropriately qualified career promise. Version 1 is direct and credible, but its member-benefit sentence feels perfunctory; these are editorial judgments, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "O",
+    "4": "B3",
+    "5": "B5"
+  }
+}

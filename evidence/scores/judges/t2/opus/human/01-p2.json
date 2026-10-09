@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Generic moralizing takeaway ('meeting patients where they already are can be a real operational win') followed by an engagement-bait closing question",
+    "3": "Templated LinkedIn structure: 'Here's what that meant in practice:' with a tidy three-item bullet list, 'The lesson for me:' aphorism, and an engagement-bait question"
+  },
+  "reason": "Version 1 has concrete, checkable details (11 hours/week, Joanna in Gdańsk, Sopot stuck at 12%, the summer seasonality caveat) and admits what didn't work, which makes it far more credible and useful. Versions 2 and 3 offer interchangeable generic claims, and 3 adds formulaic bullets and a slogan-style lesson.",
+  "label_to_arm": {
+    "1": "track2/B2-int",
+    "2": "track2/A-int",
+    "3": "O"
+  }
+}

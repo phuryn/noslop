@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 5,
+    "4": 4,
+    "5": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "Warm but slightly generic nostalgia; it lacks the concrete, owner-specific memories that would make it fully convincing.",
+    "2": "none",
+    "3": "Cliché and padding ('bursting at the seams', 'small is an understatement') plus awkward phrasing.",
+    "4": "Polished but templated parallelism and generic gratitude feel AI-smoothed.",
+    "5": "Near-duplicate of 4 with decorative punctuation and a faintly synthetic 'lovely things' gloss."
+  },
+  "reason": "Version 2 reads most like a real bookshop owner because its specific memories and pandemic detail create credibility without overwriting. Version 1 is warm but more generic, while 4 and 5 are polished but templated and 3 is padded and clichéd.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "track2/B5-int",
+    "3": "E",
+    "4": "track2/A-int",
+    "5": "O"
+  }
+}

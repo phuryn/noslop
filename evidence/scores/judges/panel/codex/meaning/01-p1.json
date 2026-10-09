@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 1,
+    "4": 3
+  },
+  "reason": "Version 3 stays closest, though it makes the operational lesson more absolute; version 1 strengthens “hit or miss” to “weren’t working” and testing into a direct recommendation. Version 4 changes rarely returned voicemails to never returned and broadens no-shows to missed appointments; version 2 adds unsupported claims about texting being the only change, results appearing quickly, and a one-month trial.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "B3",
+    "4": "E"
+  }
+}

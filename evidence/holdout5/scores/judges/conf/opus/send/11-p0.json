@@ -1,0 +1,13 @@
+{
+  "send": "5",
+  "reason": "It keeps every fact and qualifier, including 'maybe ten minutes', 'pressed', 'plainly earned' and 'for the first time in a long while', and it doesn't intensify claims the way 3/4's 'hadn't thought once' does. The only real change is a paragraph break, which doesn't alter the meaning. Version 1 garbles the facts, 2 drops the 'first time in a long while' caveat, and 6 shifts the voice ('fiddled', 'lugged', 'honestly earned').",
+  "label_to_arm": {
+    "1": "E",
+    "2": "A",
+    "3": "V6A",
+    "4": "V6C",
+    "5": "B5",
+    "6": "C"
+  },
+  "picked_arm": "B5"
+}

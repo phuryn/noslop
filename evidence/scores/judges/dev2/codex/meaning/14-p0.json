@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3,
+    "4": 4
+  },
+  "reason": "Version 2 preserves the original’s meaning most fully; version 1 drops the explicit acknowledgment that customers’ visits helped the shop grow. Version 3 additionally omits books from the space-allocation choices and adds a friend as the possible recipient, while version 4 introduces unsupported details about selection preferences, customer-dependent survival, the first week, rereading frequency, and unreturned borrowing.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "B3",
+    "3": "A",
+    "4": "C"
+  }
+}

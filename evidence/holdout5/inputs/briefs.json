@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "genre": "LinkedIn post",
+    "writer": "Marguerite Osei-Bonsu, Operations Director, Tidewell Linen Services (commercial hospital laundry, Bristol)",
+    "request": "write a linkedin post about how we cut water use a lot at our Avonmouth plant after switching to the new tunnel washer in March. we now process 14 tonnes of hospital linen a day. want to thank the night shift team, keep it humble and don't go crazy with hashtags.",
+    "hidden_facts": [
+      "Water use dropped from about 11 litres per kg of linen to 6.5 litres per kg.",
+      "The tunnel washer cost £780,000 and is financed over seven years.",
+      "In the first three weeks a pH dosing fault meant a batch of 2,000 theatre gowns had to be rewashed.",
+      "Night shift lead Danny Corcoran stayed on after a 10-hour shift to recalibrate the dosing pumps with the manufacturer's engineer, who had flown in from Germany.",
+      "Marguerite thinks the laundry industry overclaims on sustainability, and Tidewell still uses gas-fired dryers.",
+      "She is not sure the savings will hold in winter, when heavier soiling usually means extra rinse cycles.",
+      "The staff have nicknamed the machine 'Big Moira'."
+    ]
+  },
+  {
+    "id": 2,
+    "genre": "Cold email to a potential partner",
+    "writer": "Tobias Lindqvist, Co-founder, Myco Mould Packaging (mycelium-based protective packaging, Leeds)",
+    "request": "draft a cold email to Priya at Hearth & Wick pitching our mycelium inserts as a replacement for their polystyrene. we can do 5,000 units a month and samples are free. ask for a quick call next week, keep it short and not salesy.",
+    "hidden_facts": [
+      "Myco Mould's inserts cost about £0.62 per unit, compared with roughly £0.18 for polystyrene.",
+      "Fenwick Tea Co switched to their inserts last year, and its breakage claims fell from 3.1% to 0.9% of orders.",
+      "In July they lost 1,200 units to mould contamination after a humidity controller failed in the grow room.",
+      "Tobias saw a customer complaint about a cracked candle jar on Hearth & Wick's Instagram, which is what prompted the email.",
+      "He worries privately that the price gap will kill the deal before the breakage savings get a hearing.",
+      "Insider detail: at volumes above 10,000 units a month they can absorb part of the price difference.",
+      "The inserts take seven days to grow and break down in about 45 days in a home compost bin."
+    ]
+  },
+  {
+    "id": 3,
+    "genre": "Product launch email to customers",
+    "writer": "Inês Carvalho, Head of Community, Lantern Hollow Games (independent tabletop game publisher, Porto)",
+    "request": "need the launch email for The Tidekeepers expansion for Saltmarsh Trails. it goes live on our shop Oct 21 at €34 and adds a 5th player plus 40 new cards. people who preordered get theirs shipped first. upbeat but not cringe.",
+    "hidden_facts": [
+      "The print run is 6,000 copies, and 2,300 were preordered before launch.",
+      "The expansion was delayed from June because the factory in Dongguan misprinted the tide tokens so the blue looked purple.",
+      "Playtester Ruairí Mac Giolla played more than 60 test games and suggested the lighthouse card that became the box art.",
+      "Inês thinks five-player games drag; they run about 90 minutes against roughly 60 for four players.",
+      "The Heron card was rebalanced after it won about 70% of test games.",
+      "One hidden card shows the designer's dog, Biscoito.",
+      "She is unsure whether new US import tariffs will add about €6 to shipping for American customers."
+    ]
+  },
+  {
+    "id": 4,
+    "genre": "Newsletter intro",
+    "writer": "Dr Hamza Qureshi, Superintendent Pharmacist, Kingsway Pharmacies (group of 8 community pharmacies, Leicester)",
+    "request": "write the intro for our october newsletter. flu jabs are open at all 8 branches from 1 Oct, free for over 65s, book online or just walk in. also mention the new Oadby branch is open 8am-8pm.",
+    "hidden_facts": [
+      "Last season the group gave 4,100 flu jabs across all branches, and this year the target is 5,000.",
+      "On the first Saturday last year, the walk-in queue at the Narborough Road branch reached 90 minutes.",
+      "Mrs Joan Pritchard, 91, has had her jab with them every year since 2009 and always brings the staff a packet of biscuits.",
+      "This year's vaccine stock arrived four days late from the supplier.",
+      "Hamza thinks the online booking system is clunky, and many older patients would rather phone.",
+      "Insider detail: the pharmacy receives about £10 per NHS flu jab, which barely covers staff time.",
+      "He doesn't yet know whether COVID boosters can be given at the same appointment this year, because NHS guidance is still pending."
+    ]
+  },
+  {
+    "id": 5,
+    "genre": "Slack update to the team",
+    "writer": "Bethany Ashworth-Kole, Head of Maintenance, Greystone Lettings (residential property management, about 1,400 homes, Manchester)",
+    "request": "slack update for #maintenance: we're moving all repair tickets from the email inbox to HomeFix Hub starting Monday 2 Nov, and the old inbox goes read-only on the 16th. everyone needs to finish the training by Friday. friendly, bullet points are fine.",
+    "hidden_facts": [
+      "The repairs inbox currently holds 640 unresolved emails.",
+      "Average first response time is 4.2 days, and the target with the new system is 48 hours.",
+      "A tenant at the Hulme block, Mr Okonkwo, reported a leak by email three times; the messages got lost, his ceiling collapsed, and the repair cost £3,800.",
+      "Ainsworth Plumbing, their biggest contractor, hasn't yet confirmed it will use the app.",
+      "Bethany thinks the 30-minute training video is boring and twice as long as it needs to be.",
+      "The licence costs £1.10 per home per month.",
+      "She is unsure the 16 November cutoff is realistic, because two coordinators are on leave that week."
+    ]
+  },
+  {
+    "id": 6,
+    "genre": "Customer support reply",
+    "writer": "Kenji Watanabe-Hart, Rentals Desk Lead, Framewise Camera Hire (film and video equipment rental, Glasgow)",
+    "request": "help me reply to a customer, Aoife Brennan, who's annoyed we kept £150 from her £600 deposit for a scratched front element on the Sigma 18-35. explain why, offer to send photos of the damage, and say we can drop it to £90 if she'd prefer. polite but firm.",
+    "hidden_facts": [
+      "The repair quote from the service centre in Edinburgh is £210, so the £150 charge is already below cost.",
+      "The scratch is about 4mm long and shows clearly in the technician's photos.",
+      "The checkout inspection sheet didn't specifically log the front element's condition, which is a gap in their process.",
+      "Aoife has rented from them 11 times without a single problem.",
+      "She says the lens stayed in its case for the whole shoot.",
+      "Kenji privately suspects the damage happened on the previous rental, a music video shoot booked by a renter named Callum.",
+      "Insider detail: their insurance excess is £250, so damage like this never goes through insurance; photo-documented checkouts start next month."
+    ]
+  },
+  {
+    "id": 7,
+    "genre": "Blog post paragraph (how-to or opinion)",
+    "writer": "Gwendolyn Achterberg, Funeral Director, Achterberg & Sons Funeral Directors (family-run firm since 1952, Norwich)",
+    "request": "write one paragraph for our blog on why prepaid funeral plans aren't always a good idea. mention the average funeral in Norfolk is about £4,200 and that we offer free 30 min planning chats with no obligation. honest tone, not salesy.",
+    "hidden_facts": [
+      "Many plans advertised at around £3,995 leave out disbursements such as the cremation fee, which is about £1,050 locally.",
+      "When Derek Haines died, his daughter found that his £3,600 plan didn't cover the hearse to the crematorium, and she paid £480 extra.",
+      "About one in five families who come to them have a plan but can't find the paperwork.",
+      "The firm sells plans itself through a regulated provider and earns about £300 commission on each, which Gwendolyn is uneasy about.",
+      "Her honest view is that writing your wishes down and telling your family matters more than paying upfront.",
+      "She has dealt with several families left out of pocket when a plan provider collapsed.",
+      "She is unsure whether naming competitor plans on the blog would come across as petty."
+    ]
+  },
+  {
+    "id": 8,
+    "genre": "Landing page section",
+    "writer": "Siobhán Delacroix-Murphy, Founder, Nest & Desk (coworking space with on-site childcare, Cork)",
+    "request": "write the 'How it works' section for our landing page, maybe 3 short steps plus an intro line, around 120 words. parents book a desk and a childcare slot in one go, sessions are 9am-1pm or 1pm-5pm, €28 per half day including the creche. we're on MacCurtain Street.",
+    "hidden_facts": [
+      "The creche has 12 places and the coworking floor has 30 desks.",
+      "The creche is Tusla-registered and keeps a 1:3 staff ratio for under-twos.",
+      "Member Niamh Folan, a freelance illustrator, finished her first picture book there while her 14-month-old napped next door.",
+      "Morning sessions are oversubscribed, with about a three-week waitlist, while afternoon sessions run roughly half empty.",
+      "Insider detail: childcare costs them about €21 per slot, so €28 barely breaks even.",
+      "Siobhán hasn't decided whether to allow creche-only drop-offs without a desk booking.",
+      "She thinks most coworking sites oversell 'community', and she wants Nest & Desk to sound practical instead."
+    ]
+  },
+  {
+    "id": 9,
+    "genre": "Job post intro",
+    "writer": "Rhodri Pengelly, Operations Manager, Deepline Subsea (commercial diving contractor, Aberdeen)",
+    "request": "write the intro for a job ad. we're hiring an Offshore Dive Supervisor, HSE Part I surface supplied, 28 on 28 off rotation out of Aberdeen, salary from £95k. make it sound like a decent place to work, not corporate.",
+    "hidden_facts": [
+      "Deepline has 46 divers on its books.",
+      "The company has gone more than 1,100 days, about three years, without a lost-time incident.",
+      "The previous supervisor left for a rival that offered £8,000 more.",
+      "In 2024 senior supervisor Elspeth Grant called off a dive over a closing weather window; a nearby vessel had an incident that day, and the client later thanked the team.",
+      "Rhodri admits rotations sometimes stretch to 35 days when vessels are delayed.",
+      "Insider detail: they are bidding on a North Sea decommissioning contract that isn't confirmed yet.",
+      "He is unsure whether £95k will attract strong candidates in the current market."
+    ]
+  },
+  {
+    "id": 10,
+    "genre": "Speaker bio",
+    "writer": "Dr Adaeze Nwankwo-Fleming, Consultant Prosthetist, Limbwise Clinic (prosthetics clinic working with the NHS, Sheffield)",
+    "request": "need a short speaker bio, 3rd person, about 100 words, for the ISPO UK conference on 12 Nov. my talk is 'Fitting Children Who Keep Growing'. I'm a consultant prosthetist at Limbwise in Sheffield with 15 years experience.",
+    "hidden_facts": [
+      "She has fitted around 2,000 prosthetic limbs, about 300 of them for children.",
+      "She trained in Lagos and later at the University of Strathclyde.",
+      "Her patient Theo Barraclough, aged 7, asked for a leg in Sheffield Wednesday colours and now plays junior football.",
+      "Her adjustable socket design cut refits for growing children from every 4 months to every 9 months.",
+      "The trial behind that result involved only 22 children, so she is cautious about overclaiming.",
+      "She dislikes being introduced as 'inspiring' and would rather be called practical.",
+      "Insider detail: she still hand-casts some sockets in plaster because 3D scans miss soft-tissue detail."
+    ]
+  },
+  {
+    "id": 11,
+    "genre": "Personal essay paragraph",
+    "writer": "Lukas Brandvold, Owner and Locksmith, Brandvold Lock & Key (independent locksmith, York)",
+    "request": "help me write a paragraph for a personal essay about leaving my trading job in London in 2019 to become a locksmith in York. I want the moment I realised I'd made the right call. first person, reflective, not cheesy.",
+    "hidden_facts": [
+      "In his last year as a bond trader he earned about £240,000; he now makes around £41,000.",
+      "The moment came at 2am one January, when he let Patience Adeyemi and her baby back into their flat in four minutes and she burst into tears.",
+      "In his first year he snapped a key inside a client's antique door and paid £600 to fix it himself.",
+      "He sometimes misses the money and feels guilty about missing it.",
+      "Insider detail: most lockouts are opened with a thin plastic shim, not by picking the lock.",
+      "He divorced in 2020 and is unsure whether to mention it in the essay.",
+      "He still wakes at 5:30am out of habit from the trading floor."
+    ]
+  },
+  {
+    "id": 12,
+    "genre": "Community event announcement",
+    "writer": "Priyanka Salgado-Wren, Events Secretary, Calder Valley Astronomical Society (amateur astronomy club, Hebden Bridge)",
+    "request": "write an announcement for our free public stargazing night on Saturday 14 November at Heptonstall playing field. we'll have 6 telescopes, tell people to bring warm clothes. if it's cloudy we move indoors to a talk at the Methodist hall.",
+    "hidden_facts": [
+      "The last public night drew about 180 people when they expected 60, and the hot chocolate ran out within an hour.",
+      "Saturn and its rings will be the main target; Jupiter doesn't rise until late in the evening, after the event ends.",
+      "Nine-year-old Ellis Thornber saw Saturn at last year's event and has since joined as a junior member.",
+      "There is parking for only about 20 cars near the field.",
+      "Priyanka is worried that the new floodlights at the cricket club will wash out the sky.",
+      "She doesn't know yet whether the council will dim the nearby streetlights as agreed.",
+      "Insider detail: the biggest telescope is a 14-inch Dobsonian that member Harold Mistry built in his garage."
+    ]
+  }
+]

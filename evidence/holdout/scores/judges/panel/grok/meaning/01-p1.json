@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "Version 1 preserves shared credit, bill savings, and the apprenticeship terms with only minor omissions. Version 2 keeps that meaning but intensifies conditions and slightly recasts paid training, while version 3 weakens “belongs to our members” and upgrades “a path into a career” into a guaranteed outcome.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "C",
+    "3": "A"
+  }
+}

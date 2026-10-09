@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 3,
+    "4": 2
+  },
+  "reason": "Version 1 is nearly verbatim, and Version 4 keeps every fact, dropping only the feature labels. Version 3 drops the 'transactions show up sooner' benefit, while Version 2 adds an intensifier ('much sooner') that overstates the original claim.",
+  "label_to_arm": {
+    "1": "B2",
+    "2": "C",
+    "3": "B",
+    "4": "A"
+  }
+}

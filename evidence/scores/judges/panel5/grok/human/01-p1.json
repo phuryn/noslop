@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 6,
+    "3": 2,
+    "4": 5,
+    "5": 4,
+    "6": 1
+  },
+  "send": "6",
+  "tells": {
+    "1": "Stock lesson close about 'operational wins' and 'meeting people where they already are,' plus a neatly moralizing last line.",
+    "2": "Full LinkedIn-AI scaffold: 'Here's what that meant in practice,' a bullet triad, 'The lesson for me,' and a bait question.",
+    "3": "none",
+    "4": "Odd hook verb ('reminders took no-shows') and a forced 'where they already are' moral.",
+    "5": "none",
+    "6": "Mild 'isn't just X, it's Y' pivot and a 'what I took from this' lesson; the rest isn't templated."
+  },
+  "reason": "Version 6 sounds like an operator actually wrote it: specific, a little loose, and rhythmically uneven, while still clear and credible. The rest are either sanded into a LinkedIn template or, in 5, human but too rough to read as skilled.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "O",
+    "3": "A",
+    "4": "B3",
+    "5": "E",
+    "6": "C"
+  }
+}

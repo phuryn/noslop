@@ -1,0 +1,58 @@
+{
+  "dropped": [
+    {
+      "item": "Fit is framed as an ongoing consideration rather than a single appointment",
+      "severity": "minor"
+    },
+    {
+      "item": "Talk will reflect on the decisions involved in supporting children through growth-related changes",
+      "severity": "minor"
+    },
+    {
+      "item": "Comfort, function and everyday life are at the centre of the conversation",
+      "severity": "minor"
+    },
+    {
+      "item": "Talk will discuss what changing needs mean for prosthetic care more broadly",
+      "severity": "minor"
+    },
+    {
+      "item": "Focus on 'practical challenges' of fitting prostheses for growing children",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "Speaker is gendered as 'he' where the original used gender-neutral 'they'",
+      "severity": "major"
+    },
+    {
+      "item": "Talk scope narrowed from prosthetic care, decisions, comfort, function and everyday life to 'issues to consider to ensure a good fit'",
+      "severity": "minor"
+    },
+    {
+      "item": "'is a consultant prosthetist' became 'now works as', which implies a recent or career change not stated in the original",
+      "severity": "minor"
+    },
+    {
+      "item": "Talk title capitalisation lost ('Fitting Children Who Keep Growing' became 'fitting children who keep growing'), so it reads less clearly as a formal title",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "Speaker's gender (male) via 'he'/'his'",
+      "severity": "major"
+    },
+    {
+      "item": "Implication of a career transition via 'now works'",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [
+    "he now works as a consultant prosthetist",
+    "he will be talking",
+    "his experience"
+  ],
+  "meaning_preserved": 3
+}

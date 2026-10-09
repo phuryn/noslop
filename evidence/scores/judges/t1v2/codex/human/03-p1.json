@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 1,
+    "3": 3,
+    "4": 2,
+    "5": 5
+  },
+  "send": "2",
+  "tells": {
+    "1": "The repeated feature labels and explanatory phrasing feel slightly templated, though neither reliably indicates AI.",
+    "2": "none",
+    "3": "none",
+    "4": "none",
+    "5": "Forced conversational touches—especially the rhetorical question and \"That's fixed\"—feel like an attempt to manufacture human warmth."
+  },
+  "reason": "Version 2 is concise, specific, and professional, with no unnecessary explanation or performative informality. Versions 1, 3, and 4 are close in quality; these rankings reflect editorial fit, not reliable evidence of authorship.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B",
+    "3": "A",
+    "4": "B2",
+    "5": "C"
+  }
+}

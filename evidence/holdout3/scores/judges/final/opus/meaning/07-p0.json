@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 4,
+    "4": 5,
+    "5": 1
+  },
+  "reason": "Version 5 is most faithful: it keeps every claim, including 'It isn't cheaper' and the danger point, with only light paraphrase. Versions 2 and 1 drop 'It isn't cheaper' (V1 also softens 'betrayed'), V3 additionally drops 'that is what makes it dangerous', and V4 adds facts the original doesn't contain (sworn translator, agencies 'always', client getting sued) while dropping the modal-verb, jurisdiction and risk-shifting points.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "B5",
+    "4": "E",
+    "5": "C"
+  }
+}

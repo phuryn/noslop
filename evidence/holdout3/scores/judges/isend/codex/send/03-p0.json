@@ -1,0 +1,11 @@
+{
+  "send": "4",
+  "reason": "It keeps the product details, price, launch date, customer discount and low-pressure invitation intact. It also preserves my warm, conversational tone without adding claims or losing the personal thank-you.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "E",
+    "4": "B5"
+  },
+  "picked_arm": "B5"
+}

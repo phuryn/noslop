@@ -1,0 +1,16 @@
+{
+  "dropped": [
+    {
+      "item": "The sentence saying his work provides a long-term perspective on wildfire challenges and on the questions facing those responsible for peatland resilience, which names an intended audience and stakeholder framing",
+      "severity": "minor"
+    },
+    {
+      "item": "The talk 'will draw on that experience', explicitly linking the talk to his 15 years of research",
+      "severity": "minor"
+    }
+  ],
+  "changed": [],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

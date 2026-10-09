@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3,
+    "4": 5,
+    "5": 4
+  },
+  "send": "2",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "the exclamation mark and 'natter' feel like added folksiness",
+    "4": "the em dash and aphoristic colon in 'Then comes the hardest part:' feel AI-polished",
+    "5": "the formulaic 'And a reminder for your diary:' and neat colon punchline feel templated"
+  },
+  "reason": "Version 2 is warm, clear, and practical without leaning on em-dash polish or overdone cosiness. It reads like a real community editor rather than a language model trying to sound charming.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "track2/B5-int",
+    "3": "C",
+    "4": "O",
+    "5": "track2/A-int"
+  }
+}

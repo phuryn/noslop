@@ -1,0 +1,11 @@
+{
+  "send": "none",
+  "reason": "Each rewrite changes a fact, commitment, or caveat: 1 adds “most,” “what didn’t,” and leaks “nobody knew about”; 2 invents a speaker name; 3 drops the “help” hedge and upgrades the role to “helped lead”; 4 changes “might” to “would” and detaches the speaker from the reduction in the bio.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "E",
+    "3": "A",
+    "4": "B5"
+  },
+  "picked_arm": "none"
+}

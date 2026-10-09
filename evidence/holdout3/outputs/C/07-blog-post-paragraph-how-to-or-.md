@@ -1,0 +1,7 @@
+I've been translating between Spanish and English for legal work for twelve years, and every few months an agency offers me €0.04 a word to "post-edit" a machine-translated contract. They pitch it like a discount on the real job. It's not. It's a different, worse job.
+
+It isn't cheaper work. It's the same liability with less of the thinking. In a contract, one misplaced modal verb can change who owes what. So can a false friend, like *disposición* coming out as "disposition" instead of "provision," or a negation that quietly disappears. Machine output reads so smoothly that it hides these slips, and that's what makes it dangerous. I can't skim a draft that sounds fine. I have to check every clause against the source anyway. On top of that, I have to untangle the machine's confident wrong guesses about terminology, jurisdiction, and legal concepts that don't map neatly from one system to the other.
+
+So I end up reading everything twice: once to understand what the source says, and once to catch where the machine got it wrong. Then I rewrite whatever I can't trust. By the end, I haven't saved any effort. I've just been paid a third of my rate to carry the same professional responsibility.
+
+The client sees a lower invoice and assumes the risk dropped with it. It didn't. It just moved somewhere cheaper, more rushed, and harder to see. In a contract dispute, that's usually where the bill finally arrives.

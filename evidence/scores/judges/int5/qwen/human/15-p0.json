@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 4,
+    "4": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "Generic marketing phrases like 'Built for real recovery' and 'keep your recovery moving' feel templated.",
+    "2": "none",
+    "3": "All-caps headings and stock phrases such as 'guidance you can trust' and 'unlock more of what the app has to offer' feel AI-generated.",
+    "4": "The awkward opening claim and neat named testimonial read like inserted social proof rather than verified copy."
+  },
+  "reason": "Version 2 is the cleanest and most credible for an App Store listing: it is concise, clear, and avoids hype while keeping the essential features and compliance details. The others are either more templated or add claims that would need verification.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "track2/A-int",
+    "3": "O",
+    "4": "track2/B5-int"
+  }
+}

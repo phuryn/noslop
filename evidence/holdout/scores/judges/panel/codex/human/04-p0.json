@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Generic welcome and closing reassurance add padding without much personal character.",
+    "3": "“You're not alone” and “Most of us are in the same boat” repeat the reassurance; the late welcome feels misplaced.",
+    "4": "Stacked conversational clichés and an expansive closing make the warmth feel manufactured."
+  },
+  "reason": "Version 1 is warm, economical and practically useful, with a direct invitation to bring questions. These rankings reflect editorial impressions, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "C",
+    "4": "O"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 2,
+    "3": 4,
+    "4": 3,
+    "5": 1
+  },
+  "send": "5",
+  "tells": {
+    "1": "Em-dash aside plus the setup-and-reveal colon ('Then comes the hardest part: leaving them alone'), which together give a polished, templated rhythm",
+    "2": "none (only a small slip from 'we're planting' to 'gives you')",
+    "3": "Setup-and-reveal colon ('Then comes the hardest part: leaving them alone') as a punchline",
+    "4": "none (the 'It's a small job now, and it gives us' split is slightly stiff but reads as ordinary editing)",
+    "5": "none"
+  },
+  "reason": "Version 5 has the most distinct voice ('pointy end up', 'the hard bit', 'stay for a natter'), which suits a local allotment newsletter, while keeping every fact clear. Versions 1 and 3 lean on the em-dash and colon-reveal flourishes that read as AI-polished.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B",
+    "3": "A",
+    "4": "B3",
+    "5": "C"
+  }
+}

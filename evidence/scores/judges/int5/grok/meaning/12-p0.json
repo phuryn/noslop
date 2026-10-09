@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3
+  },
+  "reason": "Version 2 keeps the original thesis (existing pressure data can reveal otherwise unnoticed leaks) and the careful “helped” link to the 14%–9% drop, without unsupported additions. Version 1 drops that thesis and the help link but adds nothing false; version 3 over-attributes the full reduction to the SCADA project despite the writer’s caveat and adds an unstated “you’ll leave knowing how” commitment.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "B5",
+    "3": "track2/B5-int"
+  }
+}

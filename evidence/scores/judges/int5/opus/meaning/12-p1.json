@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 1
+  },
+  "reason": "Version 3 keeps the original's hedge ('helped bring down'), the 'otherwise go unnoticed' point, and the lessons and considerations, adding nothing new. Version 2 weakens the hedge into implied causation and drops 'otherwise go unnoticed'; Version 1 draws on the writer's answers but claims the whole 14%-to-9% drop ('We did it with...'), against the writer's explicit caveat about attribution, and drops the lessons and considerations commitment.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "track2/A-int",
+    "3": "B5"
+  }
+}

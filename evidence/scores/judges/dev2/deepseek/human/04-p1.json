@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 5,
+    "4": 3,
+    "5": 4
+  },
+  "send": "2",
+  "tells": {
+    "1": "Em-dash appositive and 'Then comes the hardest part' feel slightly overwritten.",
+    "2": "none",
+    "3": "Stiff coordination ('now, and it gives') and instructional 'Put this in your diary' feel unnatural.",
+    "4": "none",
+    "5": "Predictable sentence rhythm and flat 'After that' transition."
+  },
+  "reason": "Version 2 reads like a natural, lively allotment newsletter with clear advice and a warm community voice. I would send it because it balances clarity, credibility, and human feel best for this audience.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "C",
+    "3": "B5",
+    "4": "A",
+    "5": "B3"
+  }
+}

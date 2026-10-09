@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 5,
+    "4": 2,
+    "5": 4
+  },
+  "send": "2",
+  "tells": {
+    "1": "none; it reads like a clumsy human draft, with padded filler posts (2/6, 3/6) and a tangled sentence in 5/6",
+    "2": "mild: the paired 'Maybe it's... Maybe a friend...' rhythm in 5/6, though the specific joke keeps it human",
+    "3": "the em dash plus the tricolon 'Every shelf, every table, every book' and the twin 'Maybe it's been reread. Maybe it's been passed along.' fragments",
+    "4": "flattened, generic phrasing ('started with what we could') that reads like a sanded-down edit of an AI draft",
+    "5": "the formulaic opener 'One of the lovely things about...' and the tidy summarizing line 'Those visits helped us get here'"
+  },
+  "reason": "Version 2 has a real voice: the 'Not bad.' aside, 'we started with what we loved,' and the borrowed-book joke make it specific and warm while keeping it clear. Versions 3 and 5 share polished, parallel phrasing that reads as AI, and Version 1 is authentic but poorly constructed.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "C",
+    "3": "O",
+    "4": "A",
+    "5": "B3"
+  }
+}

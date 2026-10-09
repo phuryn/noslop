@@ -1,0 +1,26 @@
+{
+  "dropped": [
+    {
+      "item": "The contrast with the old workflow for bulk invoice editing ('instead of editing them one by one')",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "PDF export bug was described as currency symbols not displaying correctly. The edit says the symbol 'wasn't showing up', which narrows an incorrect display to a missing symbol.",
+      "severity": "minor"
+    },
+    {
+      "item": "'Show up sooner' was intensified to 'a lot quicker', which overstates the degree of improvement.",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "'a lot' quicker, an intensifier not in the original",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

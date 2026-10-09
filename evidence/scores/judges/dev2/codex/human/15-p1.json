@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 5,
+    "5": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "“Built for real recovery” and “adds more to the free app” sound like generic filler amid otherwise natural copy.",
+    "3": "“Each video shows the form for the movement” feels mechanically simplified, sacrificing natural phrasing for brevity.",
+    "4": "Stacks stock assurances and benefit phrases: “guidance you can trust,” “always know,” and “keep your recovery moving.”",
+    "5": "The accumulation of casual expressions—“nudge,” “tweak,” “bouncing back,” and “stick with it”—makes the friendliness feel engineered."
+  },
+  "reason": "Version 1 best balances readable app-store copy, concrete benefits, and restrained claims; it also avoids the vague Premium upsell used elsewhere. These rankings reflect editorial impressions, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "B5",
+    "3": "A",
+    "4": "O",
+    "5": "C"
+  }
+}

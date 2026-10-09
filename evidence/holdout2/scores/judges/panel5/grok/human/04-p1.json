@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1,
+    "4": 4
+  },
+  "send": "3",
+  "tells": {
+    "1": "none",
+    "2": "Tacked-on generic praise about high food safety standards",
+    "3": "none",
+    "4": "Em-dash slogan praising a \"team committed to\" high standards"
+  },
+  "reason": "Version 3 is direct, natural, and sticks to evidence, which best fits a skilled human case-study voice. Versions 2 and 4 add empty commendation, and 4’s em-dash closer is the clearest AI tell.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B5",
+    "3": "B3",
+    "4": "O"
+  }
+}

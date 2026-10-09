@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 2,
+    "4": 3
+  },
+  "reason": "Version 1 is most faithful, preserving nearly all original meaning and only omitting the final practical benefit; version 3 is very close but slightly less explicit on annual testing. Version 4 keeps the core gist and final value proposition but loses the 'function' and 'other health markers' nuance, while version 2 changes the opening recommendation and drops the care-guidance and practical-benefit commitments.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "B5",
+    "4": "C"
+  }
+}

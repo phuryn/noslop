@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 4,
+    "4": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "The 'a date on the calendar, never as a way of leaving the room' contrast is neat but slightly abstract and engineered. Trimming also drops 'the usual things,' which flattens the emotional beat.",
+    "2": "The clipped fragment opener and the split ending ('I was ready to go. I just took my time...') can read like deliberate staccato for effect. Otherwise mostly none.",
+    "3": "The polished 'found myself doing the usual things:' colon-plus-tricolon, the balanced semicolon sentences, the filler 'actually', and typographic curly quotes give it a smooth, template-like finish.",
+    "4": "It keeps the same colon-introduced tricolon and semicolon symmetry as version 3, plus 'actually' as filler. The prose is evenly polished, with little texture."
+  },
+  "reason": "Version 2 has the most distinct voice ('caught myself,' 'chewed over the whole drive home') and its rhythm feels like real reflection rather than balanced, polished prose. Versions 3 and 4 are near-identical and read as smoothed. Version 1 is clean but loses some warmth.",
+  "label_to_arm": {
+    "1": "B",
+    "2": "C",
+    "3": "O",
+    "4": "A"
+  }
+}

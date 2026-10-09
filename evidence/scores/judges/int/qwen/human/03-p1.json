@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 3,
+    "4": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Awkward 'Releasing October 14' and formulaic 'Fixed a bug where...' phrasing.",
+    "3": "The same formulaic 'Fixed a bug where...' plus very templated bold lead-ins.",
+    "4": "The filler phrase 'You can update' gives it a slightly generic tone."
+  },
+  "reason": "Version 1 reads clean, concise, and user-facing, with scannable labels and a direct fix statement. Version 4 is clear but plainer, while 2 and 3 feel more templated and use generic bug language.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "track2/A-int",
+    "3": "O",
+    "4": "track2/B3-int"
+  }
+}

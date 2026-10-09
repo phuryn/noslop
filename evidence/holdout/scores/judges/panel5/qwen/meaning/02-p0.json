@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 2
+  },
+  "reason": "Version 1 is virtually identical to the original, while Version 4 keeps the facts and the candidate-interest framing most closely despite slightly changing the follow-up phrasing. Version 2 remains factually faithful but weakens “interested” to “hear about,” and Version 3 adds new claims (“I saw,” “good fit”) that change the original’s tentative tone.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "C",
+    "4": "B5"
+  }
+}

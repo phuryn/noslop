@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 5,
+    "3": 3,
+    "4": 4,
+    "5": 1
+  },
+  "send": "5",
+  "tells": {
+    "1": "Formulaic closing phrase: 'before doing the same with their own pressure data.'",
+    "2": "Generic AI-style phrasing: 'practical considerations for utilities looking to make better use of their existing pressure data.'",
+    "3": "Explanatory filler and formulaic ending: 'That kind of data can show leaks... before doing the same...'",
+    "4": "Repetitive, structured phrasing: 'This talk covers... It also covers...'",
+    "5": "none"
+  },
+  "reason": "Version 5 has the most natural, direct voice and concrete storytelling, making it feel like a person speaking to peers rather than a polished AI summary. It balances clarity, credibility, and human tone best for a conference talk.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "O",
+    "3": "B5",
+    "4": "B3",
+    "5": "C"
+  }
+}

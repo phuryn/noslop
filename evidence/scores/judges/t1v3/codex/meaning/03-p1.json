@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 3,
+    "4": 1
+  },
+  "reason": "Version 4 preserves all substantive content most exactly; version 2 closely preserves it while making the bug fix less explicit. Version 3 drops the stated benefit of earlier transaction visibility, while version 1 adds an unsupported invoice-opening workflow and strengthens “sooner” to “much sooner.”",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B3",
+    "3": "B",
+    "4": "A"
+  }
+}

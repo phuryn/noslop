@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 3,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "Compressed 'now that' clause and a staged colon punchline",
+    "2": "Em-dash appositive fusing two sentences",
+    "3": "Awkward 'which is' rephrase of the closer",
+    "4": "none"
+  },
+  "reason": "Version 4 is the one I'd publish: clear planting language, a natural newsletter voice, and no stylistic tic. Version 2 sounds machine-smoothed, 1 a bit performed, and 3 slightly unedited.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "O",
+    "3": "track2/B5-int",
+    "4": "B5"
+  }
+}

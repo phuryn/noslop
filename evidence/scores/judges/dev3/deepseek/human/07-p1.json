@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 3,
+    "3": 5,
+    "4": 1,
+    "5": 2
+  },
+  "send": "4",
+  "tells": {
+    "1": "Slightly stiff phrasing like 'the remaining piece' and 'target date' feels corporate-AI.",
+    "2": "Mostly natural, but 'for the Nov 3 target date' is a bit formal.",
+    "3": "The construction 'The remaining piece is...' feels overly structured and stilted.",
+    "4": "none",
+    "5": "none"
+  },
+  "reason": "Version 4 is the clearest and most concise update while still sounding conversational and human. Versions 1 and 3 feel more stilted, and version 5 is natural but slightly wordier than needed.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "O",
+    "4": "B5",
+    "5": "C"
+  }
+}

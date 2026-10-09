@@ -1,0 +1,127 @@
+{
+  "human/codex": {
+    "texts": 4,
+    "verdicts": 12,
+    "mean_rank": {
+      "track3/A": 2.5,
+      "track3/B2": 2.92,
+      "track3/C": 3.33,
+      "track3/D": 4.25,
+      "track3/H": 2.0
+    },
+    "pairwise": {
+      "track3/B2>track3/A": {
+        "win": 1,
+        "tie": 1,
+        "loss": 2,
+        "p": 1.0
+      },
+      "track3/H>track3/B2": {
+        "win": 4,
+        "tie": 0,
+        "loss": 0,
+        "p": 0.125
+      },
+      "track3/H>track3/A": {
+        "win": 2,
+        "tie": 0,
+        "loss": 2,
+        "p": 1.0
+      },
+      "track3/B2>track3/D": {
+        "win": 4,
+        "tie": 0,
+        "loss": 0,
+        "p": 0.125
+      },
+      "track3/A>track3/D": {
+        "win": 3,
+        "tie": 0,
+        "loss": 1,
+        "p": 0.625
+      }
+    },
+    "send_picks": {
+      "track3/A": 5,
+      "track3/C": 4,
+      "track3/B2": 3
+    }
+  },
+  "human/opus": {
+    "texts": 4,
+    "verdicts": 12,
+    "mean_rank": {
+      "track3/A": 2.75,
+      "track3/B2": 3.58,
+      "track3/C": 2.67,
+      "track3/D": 5.0,
+      "track3/H": 1.0
+    },
+    "pairwise": {
+      "track3/B2>track3/A": {
+        "win": 1,
+        "tie": 0,
+        "loss": 3,
+        "p": 0.625
+      },
+      "track3/H>track3/B2": {
+        "win": 4,
+        "tie": 0,
+        "loss": 0,
+        "p": 0.125
+      },
+      "track3/H>track3/A": {
+        "win": 4,
+        "tie": 0,
+        "loss": 0,
+        "p": 0.125
+      },
+      "track3/B2>track3/D": {
+        "win": 4,
+        "tie": 0,
+        "loss": 0,
+        "p": 0.125
+      },
+      "track3/A>track3/D": {
+        "win": 4,
+        "tie": 0,
+        "loss": 0,
+        "p": 0.125
+      }
+    },
+    "send_picks": {
+      "track3/H": 5,
+      "track3/C": 3,
+      "track3/A": 4
+    }
+  },
+  "human/both": {
+    "pairwise": {
+      "track3/B2>track3/A": {
+        "win": 2,
+        "tie": 1,
+        "loss": 5
+      },
+      "track3/H>track3/B2": {
+        "win": 8,
+        "tie": 0,
+        "loss": 0
+      },
+      "track3/H>track3/A": {
+        "win": 6,
+        "tie": 0,
+        "loss": 2
+      },
+      "track3/B2>track3/D": {
+        "win": 8,
+        "tie": 0,
+        "loss": 0
+      },
+      "track3/A>track3/D": {
+        "win": 7,
+        "tie": 0,
+        "loss": 1
+      }
+    }
+  }
+}

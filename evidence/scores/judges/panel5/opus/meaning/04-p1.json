@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 5,
+    "4": 3,
+    "5": 4
+  },
+  "reason": "Version 2 is nearly verbatim and Version 1 only splits sentences; Version 4 makes minor wording swaps, and Version 5 drops the 'small job' framing. Version 3 drops the chat and ideas for next season, the 'small job' and look-forward nuance, and adds 'this Saturday', a timing claim the original never made.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "E",
+    "4": "B5",
+    "5": "C"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2
+  },
+  "reason": "Version 2 keeps all facts and commitments: 'only five months', the 2-year warranty, the free replacement, tracking 'as soon as it ships', and the thanks for patience. Version 3 drops the thanks for patience and narrows the reply window to before shipping, while Version 1 also softens 'only five months' and 'as soon as' and drops the open-ended 'in the meantime' offer.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "track2/B3-int",
+    "3": "B3"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "none"
+  },
+  "reason": "All three read like clear, competent help copy. Version 1 gets a slight editorial edge for its typographic apostrophe and concise “Check”; these are minor publishing preferences, not reliable evidence of human or AI authorship.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B3",
+    "3": "A"
+  }
+}

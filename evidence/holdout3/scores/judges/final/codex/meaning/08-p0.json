@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 5,
+    "2": 4,
+    "3": 1,
+    "4": 3,
+    "5": 2
+  },
+  "reason": "Versions 3 and 5 preserve the original facts, timing, and qualified purpose most closely. Version 4 strengthens “help you spot” into “show”; version 2 also adds inbox delivery, while version 1 omits both the flight as the start of the 48-hour window and the maps’ purpose of helping identify areas for closer inspection.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "C",
+    "3": "B5",
+    "4": "A",
+    "5": "B3"
+  }
+}

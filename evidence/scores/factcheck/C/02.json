@@ -1,0 +1,26 @@
+{
+  "dropped": [
+    {
+      "item": "Asking whether they could help Fairview Markets (original was a question about fit, not an offer statement)",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "'last-minute delivery needs' became 'the occasional last-minute run', which slightly narrows the scope by implying infrequency",
+      "severity": "minor"
+    },
+    {
+      "item": "'same-day delivery within 250 miles' became 'can deliver same day anywhere within 250 miles'; 'anywhere' slightly strengthens the coverage claim",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "'we'd be glad to pitch in', an expression of willingness not stated in the original",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

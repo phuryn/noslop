@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 6,
+    "2": 5,
+    "3": 2,
+    "4": 4,
+    "5": 3,
+    "6": 1
+  },
+  "send": "6",
+  "tells": {
+    "1": "Repeated thanks for patience and padded phrases such as 'I can tell you' make it feel templated.",
+    "2": "Assumed feelings about 'something you've been looking forward to' and 'that's on us' feel like performed empathy.",
+    "3": "none",
+    "4": "'I appreciate the inconvenience this delay has caused' is conspicuously formulaic.",
+    "5": "none",
+    "6": "none"
+  },
+  "reason": "Version 6 combines a direct apology with clear ownership of the delivery and refund, without overplaying empathy. Version 2 also changes the refund status to already completed; these stylistic judgments do not establish AI authorship.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "C",
+    "3": "B5",
+    "4": "O",
+    "5": "A",
+    "6": "B3"
+  }
+}

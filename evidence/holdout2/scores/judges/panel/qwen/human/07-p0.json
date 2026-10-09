@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2
+  },
+  "send": "2",
+  "tells": {
+    "1": "The slogan-like safety phrasing, redundant triplet 'injury, damage or harm', and heavy bolding make it feel somewhat templated.",
+    "2": "none",
+    "3": "The redundant 'injury, damage or harm' and slightly awkward 'The 24 hours start' feel a bit machine-assembled."
+  },
+  "reason": "Version 2 is the cleanest and most credible for an internal notice because it keeps all required details without extra polish or redundancy. It reads like a human editor trimmed the message to what staff actually need.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "A",
+    "3": "B3"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 6,
+    "4": 5,
+    "5": 3,
+    "6": 4
+  },
+  "send": "2",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "Em dash weld (“frost—a small job now”) plus the neat “Then comes the hardest part” pivot.",
+    "4": "Stock smooth pivot (“Then comes the hardest part”) and the additive “And a reminder.”",
+    "5": "none",
+    "6": "“Finally, a quick reminder” on a two-item note, with a flat stack of short sentences."
+  },
+  "reason": "Version 2 has a settled allotment-newsletter voice—specific verbs, British idiom, and a real joke—while staying clear and complete. The others are either smoother paraphrases or a thinner, choppier rewrite.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "C",
+    "3": "O",
+    "4": "A",
+    "5": "B5",
+    "6": "E"
+  }
+}

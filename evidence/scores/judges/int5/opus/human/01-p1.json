@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 1,
+    "3": 2,
+    "4": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "Generic bulleted benefits list followed by a tidy 'The lesson for me' takeaway and an engagement-bait closing question ('What's worked for you?')",
+    "2": "none",
+    "3": "Platitudinous moral ('the biggest operational wins come from meeting people where they already are') with no concrete specifics beyond the headline stat",
+    "4": "Formulaic 'My takeaway is...' line plus the stock engagement question at the end; 'helps patients as much as the practice' is a neat balanced flourish"
+  },
+  "reason": "Version 2 has concrete, verifiable detail (cost, hours saved, two-way replies, a named colleague, an underperforming clinic, a seasonality caveat) that builds credibility and reads like a real operator's account. The other three share the same generic structure and moralizing takeaway, with 1 the most templated.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "track2/B5-int",
+    "3": "B5",
+    "4": "track2/A-int"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 6,
+    "4": 5,
+    "5": 3,
+    "6": 1
+  },
+  "send": "6",
+  "tells": {
+    "1": "The em dash and opening exclamation mark feel slightly AI-polished.",
+    "2": "None—more long-winded and formal than AI; the run-on list is human but clunky.",
+    "3": "Very formulaic and clipped, with an unnecessary comma before 'and'.",
+    "4": "Generic paraphrasing ('could use your help') and a tacked-on final clause.",
+    "5": "'We could really use you' is an unnatural, trying-to-sound-folksy phrase.",
+    "6": "None—clearest and least forced."
+  },
+  "reason": "Version 6 is the clearest and warmest, with all key details and a natural tone, avoiding the over-polish or awkward phrasing in the others.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "E",
+    "3": "B3",
+    "4": "A",
+    "5": "C",
+    "6": "B5"
+  }
+}

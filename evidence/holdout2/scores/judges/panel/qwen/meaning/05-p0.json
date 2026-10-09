@@ -1,0 +1,11 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1
+  },
+  "reason": "Version 2 preserves more of the original details, including watching the process from start to finish and being among the first to taste the new perry. Version 1 omits those nuances, making it slightly less faithful.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 1,
+    "4": 3
+  },
+  "reason": "V3 keeps nearly every fact, benefit, the practice-and-patients point and the closing question, adding only minor drift ('for a month', 'care they came in for', 'a lot of' for 'sometimes'). V1 and V4 drop the closing question and the 'closing that gap' point, V4 also turns the hedged general lesson into a specific claim, and V2 is least faithful: it hardens 'hit or miss' to 'weren't working' and 'worth testing' to 'try texts', and drops the lesson entirely.",
+  "label_to_arm": {
+    "1": "B",
+    "2": "A",
+    "3": "C",
+    "4": "B3"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1,
+    "4": 5,
+    "5": 4
+  },
+  "reason": "Version 3 most fully preserves the original’s acknowledgments and offer of help; versions 1 and 2 retain the core facts and commitments, with 1 preserving slightly more explicit wording. Version 5 adds that the battery is new and shifts some company commitments to an individual, while version 4 loses the explicit promise that the replacement is at no cost.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "B5",
+    "4": "E",
+    "5": "C"
+  }
+}

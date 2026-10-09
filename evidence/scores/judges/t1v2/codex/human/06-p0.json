@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 5,
+    "3": 4,
+    "4": 1,
+    "5": 3
+  },
+  "send": "4",
+  "tells": {
+    "1": "The generic emotional payoff, 'something to look forward to each month,' feels slightly automatic; otherwise fairly natural.",
+    "2": "Stacked parallel slogans and sentence fragments manufacture rhythm: 'A little measuring done. A little joy delivered.'",
+    "3": "The compression feels mechanical: 'start at the mixing' is awkward, and 'Each kit is $34 a month' muddles the subscription wording.",
+    "4": "'Less measuring, more making' is a stock marketing formula, though the surrounding copy reads naturally.",
+    "5": "'Start at the stirring' feels deliberately rephrased rather than idiomatic; 'Keep it as long as you like' has an unclear referent."
+  },
+  "reason": "Version 4 has the strongest balance of conversational rhythm, clear section structure, and polished sales copy. These are stylistic judgments, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "B2",
+    "2": "O",
+    "3": "A",
+    "4": "C",
+    "5": "B"
+  }
+}

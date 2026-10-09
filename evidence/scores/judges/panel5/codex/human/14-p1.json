@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 5,
+    "4": 3,
+    "5": 1,
+    "6": 6
+  },
+  "send": "5",
+  "tells": {
+    "1": "none",
+    "2": "Redundant emotional explanation: 'We wouldn't be here without you coming in' repeats what the thank-you already conveys.",
+    "3": "Conspicuously patterned rhythm: 'Every shelf, every table, every book' followed later by paired 'Maybe' sentences.",
+    "4": "Self-conscious casualness in 'Not bad' and 'honestly,' plus a borrowed-book joke that feels inserted for personality.",
+    "5": "The familiar 'Every shelf, table and book had to earn its place' formulation; otherwise little conspicuous.",
+    "6": "Stock promotional phrasing such as 'special milestone' and 'bursting at the seams,' though neither establishes AI involvement."
+  },
+  "reason": "Version 5 best balances warmth, clarity and a consistent collective voice; version 1 is slightly cleaner but flatter. Version 4 has personality but shifts abruptly from 'we' to 'my,' while version 6's repetition and tangled fifth post weaken it as skilled publishable copy; these rankings assess editorial effect, not actual authorship.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B5",
+    "3": "O",
+    "4": "C",
+    "5": "B3",
+    "6": "E"
+  }
+}

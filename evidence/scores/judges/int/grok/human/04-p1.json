@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "A clarity pass flattens the voice: extra 'and it' plus bland 'After that, the hardest part is.'",
+    "4": "Identical to version 3, with the same flattened transition and explicit connector."
+  },
+  "reason": "Version 1 has the best rhythm, warmth, and light wit for a newsletter intro, while versions 3 and 4 are the same text and read like a rewrite that explains more and charms less.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "track2/A-int",
+    "3": "B3",
+    "4": "track2/B3-int"
+  }
+}

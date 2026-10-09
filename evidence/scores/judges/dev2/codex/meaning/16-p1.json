@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 2,
+    "4": 3
+  },
+  "reason": "Version 1 preserves the original’s qualified lack of preparation most closely. Version 3 changes little but strengthens “hadn’t given much thought” to “hadn’t thought”; version 4 also drops the explicit habitual framing, while version 2 adds “the whole drive,” changes teaching “again” to teaching “better,” and broadens “something” to “things.”",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "C",
+    "3": "A",
+    "4": "B5"
+  }
+}

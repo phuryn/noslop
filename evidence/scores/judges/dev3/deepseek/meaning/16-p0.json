@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 3
+  },
+  "reason": "Version 1 stays closest to the original, while Version 2 only slightly softens one phrase. Version 4 changes the causal wording into a stronger 'never thought' statement, and Version 3 alters more nuance by changing 'teach again' to 'teach them better' and adding 'never really thought.'",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "C",
+    "4": "B5"
+  }
+}

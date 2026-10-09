@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 1,
+    "4": 5,
+    "5": 4
+  },
+  "reason": "Version 3 stays closest and preserves the original hedge 'hadn't given much thought'; version 2 is nearly as close but drops 'much.' Version 1 amplifies to 'never thought,' version 5 adds/changes nuance ('chewed over,' 'teach them better'), and version 4 is a broad paraphrase with added and omitted content.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "A",
+    "3": "B3",
+    "4": "E",
+    "5": "C"
+  }
+}

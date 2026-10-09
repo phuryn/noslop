@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 5,
+    "3": 1,
+    "4": 3,
+    "5": 6,
+    "6": 4
+  },
+  "send": "3",
+  "tells": {
+    "1": "none",
+    "2": "The stacked friendliness—“so sorry,” “Thanks for bearing with us,” and “we'll help”—feels slightly scripted.",
+    "3": "none",
+    "4": "none",
+    "5": "Repeated passive constructions and the stock closing make it feel more templated.",
+    "6": "none"
+  },
+  "reason": "Version 3 takes direct responsibility with “we charged you twice,” explains the fix, and gives a clear refund timeline without unnecessary padding. These are stylistic judgments; none of the versions contains reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "C",
+    "3": "B",
+    "4": "A",
+    "5": "O",
+    "6": "B2"
+  }
+}

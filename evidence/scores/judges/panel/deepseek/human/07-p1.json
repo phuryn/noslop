@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 3,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "Slightly formal 'target date' and the tidy 'with only...left' clause.",
+    "2": "Overly smooth compound sentence using 'remaining piece' to merge separate updates.",
+    "3": "Flat, predictable structure: status, remaining piece, timeline.",
+    "4": "none"
+  },
+  "reason": "Version 4 sounds most like a real person giving a quick team update with natural phrasing and a conversational tone, while the others feel more templated and formal.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "O",
+    "4": "C"
+  }
+}

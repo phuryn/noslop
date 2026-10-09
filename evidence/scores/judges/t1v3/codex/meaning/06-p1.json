@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2,
+    "4": 4
+  },
+  "reason": "Version 2 most closely preserves the original’s claims and alternatives; version 3 slightly merges the separate ideas of an afternoon baking and something to share. Version 1 loses the explicit time-saving benefit, while version 4 also replaces the quiet-moment nuance with having the last crumb “all to yourself”; all four retain the price, monthly frequency, free US shipping, and cancellation terms.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "B3",
+    "4": "B"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 3,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "The slightly awkward 'double charge for your parking' and 'started the refund' feel a little generated or unedited.",
+    "2": "The reply is so terse and missing a closing reassurance that it feels truncated or automated.",
+    "3": "Passive phrasing and the stock 'Thanks for your patience...' line make it sound templated.",
+    "4": "none"
+  },
+  "reason": "Version 4 reads most like a skilled human support reply: clear, accountable, and conversational without filler. Version 1 is warm but slightly clunky, while versions 3 and 2 feel more templated or abrupt.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "O",
+    "4": "B3"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1
+  },
+  "reason": "Both drop the work/keep-in-touch/relax nuance and the closing apology for the trouble caused, but version 2 keeps “Thank you for your patience” and the original “without internet” wording, while version 1 omits that thanks and slightly rephrases the outage.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A"
+  }
+}

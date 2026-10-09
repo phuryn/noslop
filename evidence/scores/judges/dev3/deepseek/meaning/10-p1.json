@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 3,
+    "4": 1
+  },
+  "reason": "Version 4 stays closest to the original wording and preserves all key facts, numbers, and caveats; version 1 is nearly as faithful but slightly less exact. Version 3 omits the 'more options during the week' nuance, while version 2 adds extra tone and workout-specific detail not in the original.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "C",
+    "3": "A",
+    "4": "B5"
+  }
+}

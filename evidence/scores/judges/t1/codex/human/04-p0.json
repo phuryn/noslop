@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "The neat setup and 'hardest part' punchline feel slightly formulaic, though neither reliably indicates AI.",
+    "4": "The separate 'It's a small job now' sentence makes the opening feel mechanically segmented."
+  },
+  "reason": "Version 1 has the liveliest rhythm and a convincing community-newsletter voice, with concrete, conversational wording. Version 2 is a close second; these are stylistic judgments, not reliable evidence of authorship.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B",
+    "3": "O",
+    "4": "A"
+  }
+}

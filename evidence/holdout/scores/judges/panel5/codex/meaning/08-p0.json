@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2,
+    "4": 4
+  },
+  "reason": "Version 1 preserves nearly all the original meaning; version 3 retains the restoration, care, and privilege themes with slightly shifted wording. Version 2 loses the restored-voice idea and weakens privilege to gladness, while version 4 replaces every piano’s future worth caring for with an unsupported claim about most pianos’ remaining playing years and drops the long-term commitment.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "B3",
+    "3": "C",
+    "4": "A"
+  }
+}

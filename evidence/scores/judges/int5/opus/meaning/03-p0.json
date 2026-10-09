@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "All three keep the facts (October 14, 15-minute vs hourly sync, bulk invoice editing, PDF currency fix). Version 1 stays closest to the original wording, and version 2's 'every hour' and 'now' are equivalent; version 3 recasts the fix without calling it a bug, which shifts the nuance slightly.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "track2/B5-int",
+    "3": "B5"
+  }
+}

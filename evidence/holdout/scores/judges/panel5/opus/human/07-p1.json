@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 3,
+    "4": 1,
+    "5": 5
+  },
+  "send": "4",
+  "tells": {
+    "1": "\"I'm so sorry\" plus the \"Thanks for bearing with us\" closer is a slightly stock empathy pairing, but it is mild",
+    "2": "none; it is generic but reads like a standard support macro rather than AI",
+    "3": "none; if anything it is abrupt, with no thanks or offer to help further",
+    "4": "the formulaic \"Thanks for your patience. If you have any other questions, let us know\" sign-off",
+    "5": "passive, hedged phrasing (\"it has now been fixed\", \"is being processed\") combined with a stacked boilerplate closing line"
+  },
+  "reason": "Version 4 takes direct ownership (\"we charged you twice\"), uses active voice and adds a concrete \"now\" on the refund, so it reads as accountable and credible without padding. Version 5's passive constructions and boilerplate closing feel the most templated and evasive.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B3",
+    "3": "A",
+    "4": "B5",
+    "5": "O"
+  }
+}

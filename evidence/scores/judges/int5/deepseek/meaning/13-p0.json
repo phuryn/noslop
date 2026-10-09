@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "Version 1 preserves all substantive nuances, numbers, commitments, and caveats. Version 2 keeps the key 'stronger potential returns' hedge and all risk mitigations despite some rewording, while Version 3 drops 'structurally' and changes 'offer stronger potential returns' to the more definite 'should return more,' losing caveats.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "B5",
+    "3": "track2/A-int"
+  }
+}

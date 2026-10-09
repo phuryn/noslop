@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2
+  },
+  "reason": "Version 1 most closely preserves the pricing terms and timing; version 3 is nearly as faithful but makes the recurring monthly rate slightly less explicit. Both omit the stated purpose of expanding scheduling options, while version 2 adds an emotional judgment, a workout-specific interpretation, and an explicit promise to help.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "B"
+  }
+}

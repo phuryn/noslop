@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 5,
+    "3": 3,
+    "4": 2,
+    "5": 1
+  },
+  "reason": "Version 5 preserves every fact, hedge, and offer. Versions 4 and 3 stay close but slightly harden the ask or the trial outcome; version 1 replaces the dry-cider fit with “crisp” and pushes placement; version 2 drops the sell-before-you-keep caveat and changes samples from sent to brought in.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "E",
+    "3": "B3",
+    "4": "B5",
+    "5": "A"
+  }
+}

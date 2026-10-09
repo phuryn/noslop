@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 5,
+    "4": 4,
+    "5": 1
+  },
+  "send": "5",
+  "tells": {
+    "1": "none",
+    "2": "The tidy bullet list and explicit 'lesson for me' feel a bit templated.",
+    "3": "Stilted phrasing and fragmented benefits list make it feel less natural.",
+    "4": "Very compressed, generic takeaway and no question make it feel more like a summary than a human post.",
+    "5": "none"
+  },
+  "reason": "Version 5 sounds the most natural and credible while keeping a clear result, concrete details, and a useful call for responses. Version 1 is also clean, but 5 has a stronger human voice.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "O",
+    "3": "E",
+    "4": "B3",
+    "5": "C"
+  }
+}

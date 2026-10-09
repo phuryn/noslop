@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 5,
+    "4": 1,
+    "5": 3
+  },
+  "send": "4",
+  "tells": {
+    "1": "none",
+    "2": "The closing promise to 'get the full picture' feels like generic promotional padding; the casual phrasing feels slightly performed.",
+    "3": "The stacked closing benefits—'a fuller picture' and 'make the most of their yearly checkup'—feel formulaic and add little.",
+    "4": "none",
+    "5": "none"
+  },
+  "reason": "Version 4 is direct, restrained, and clear, with a straightforward price statement; version 1 is a close second. Version 5 feels naturally human but needs tightening, while 2 and 3 sound more deliberately polished and promotional; these are stylistic judgments, not proof of authorship.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "C",
+    "3": "O",
+    "4": "A",
+    "5": "E"
+  }
+}

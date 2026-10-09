@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3
+  },
+  "reason": "All three keep the facts and the £15 credit commitment but drop the closing apology. Version 2 keeps the work/keep in touch/relax examples and loses only the explicit 'disrupted your day' line, Version 1 keeps that line but drops the examples, and Version 3 drops both the examples and the thank-you for patience.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B5",
+    "3": "B3"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 5,
+    "3": 4,
+    "4": 1,
+    "5": 3
+  },
+  "send": "5",
+  "tells": {
+    "1": "The closing sales line 'a simple way to get the full picture' is a stock wrap-up formula.",
+    "2": "Em dashes, hedged 'can help spot', and the padded tagline 'a practical way to get a fuller picture... make the most of their yearly checkup.'",
+    "3": "The 'should include more than vaccines, especially after age 7' framing and 'helps guide care as your dog ages' read like lightly trimmed template phrasing.",
+    "4": "none",
+    "5": "The tidy three-beat structure is a faint tell, but the prose is plain and direct."
+  },
+  "reason": "Version 4 has the clunky, genuine feel of a real clinic newsletter, with a rhetorical opener and inconsistent 'his/it' pronouns, but it is wordy. Version 5 keeps the same information in the clearest, most credible form, with no salesy filler.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "O",
+    "3": "B3",
+    "4": "E",
+    "5": "A"
+  }
+}

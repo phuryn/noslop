@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1
+  },
+  "reason": "Version 3 keeps all key facts, commitments, and wording closest to the original, including the explicit engine cutaway display and review action. Version 1 is nearly as faithful but slightly alters the closing, while Version 2 omits 'to the booth' and 'display,' losing a small nuance.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "B5"
+  }
+}

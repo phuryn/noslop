@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 1,
+    "3": 2,
+    "4": 4,
+    "5": 3,
+    "6": 6
+  },
+  "send": "2",
+  "tells": {
+    "1": "Two consecutive questions make the close feel formulaic.",
+    "2": "none",
+    "3": "none",
+    "4": "The friendly padding, especially 'we'd be glad to pitch in,' feels slightly rehearsed.",
+    "5": "The stock closing phrase 'where we might fit' adds a mildly templated feel.",
+    "6": "Repeated 'Would you be open to' creates a mechanical rhythm; the duplicated greeting indicates weak editing, not necessarily AI."
+  },
+  "reason": "Version 2 combines concrete evidence, natural industry language, and a clear request without unnecessary padding. These rankings reflect editorial quality and human feel; wording alone cannot reliably establish AI authorship.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "A",
+    "3": "B3",
+    "4": "C",
+    "5": "B5",
+    "6": "E"
+  }
+}

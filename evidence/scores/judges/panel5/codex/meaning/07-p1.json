@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 3,
+    "4": 1
+  },
+  "reason": "Version 4 preserves all details most exactly, followed by version 2, whose “only” matches the original’s single remaining piece. Version 3 slightly changes “biometric flow” to “biometric login,” while version 1 adds “big,” implying other smaller pieces may remain.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B5",
+    "4": "B3"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 5,
+    "5": 4
+  },
+  "reason": "V1 drops only the 'found myself doing the usual things' framing, while V2 also removes the hedge in 'hadn't given much thought'. V3 hardens that hedge to 'never thought', V5 adds 'teach them better' and generalizes 'something' to 'things', and V4 loses most specifics and contradicts the original by saying the speaker 'carefully prepared'.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "B5",
+    "4": "E",
+    "5": "C"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 4,
+    "4": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "Every bullet starts with a bolded label and colon ('Faster bank feed sync:'), the templated listicle formatting typical of AI output",
+    "4": "The redundant tacked-on 'Before, they didn't.' over-explains the fix, like a mechanical rewrite of the original"
+  },
+  "reason": "Versions 1 and 2 read like a competent human writer's plain, scannable release notes. Version 2 edges ahead with cleaner spacing and the tighter 'hourly', while 3's bold-label bullets and 4's awkward redundant fix line feel machine-processed.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "track2/A-int",
+    "3": "O",
+    "4": "B5"
+  }
+}

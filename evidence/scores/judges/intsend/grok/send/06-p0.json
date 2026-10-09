@@ -1,0 +1,11 @@
+{
+  "send": "2",
+  "reason": "It keeps the same offer, limits, and quiet tone, including something to look forward to each month, without new promises or a story I said to leave plain.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "C",
+    "3": "track2/B5-int",
+    "4": "track2/A-int"
+  },
+  "picked_arm": "C"
+}

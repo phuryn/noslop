@@ -1,0 +1,20 @@
+{
+  "dropped": [],
+  "changed": [
+    {
+      "item": "The original says the talk 'will draw on' his experience (a future event); the edit says it 'draws on' it (present tense), which slightly blurs that the talk has not yet happened.",
+      "severity": "minor"
+    },
+    {
+      "item": "The original credits 'his work' with providing the long-term perspective; the edit says 'that gives him a long view', shifting the source from his research output to him personally.",
+      "severity": "minor"
+    },
+    {
+      "item": "The original says he examines fire 'in landscapes where ecology, land management and policy meet'; the edit makes UK peatlands themselves the place 'where ecology, land management and policy meet'.",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

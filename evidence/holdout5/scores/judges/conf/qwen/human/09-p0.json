@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 7,
+    "3": 3,
+    "4": 5,
+    "5": 6,
+    "6": 1,
+    "7": 4
+  },
+  "send": "6",
+  "tells": {
+    "1": "none",
+    "2": "generic 'great/fantastic' recruiter language and awkward lines like 'call a dive if you feel it's right' and 'mutual benefit'",
+    "3": "exact duplicate of version 1, which feels generated/repurposed rather than independently edited",
+    "4": "'held together with tape' and 'conditions or kit say it isn't right' feel like synthetic folksiness/personification",
+    "5": "'run the former' and 'Our divers and techs are people we want to see back' sound over-edited and unnatural",
+    "6": "none",
+    "7": "the repeated 'smooth' phrasing and 'held together with tape' feel like a manufactured informal voice"
+  },
+  "reason": "Version 6 is the most publishable because it is direct, concrete, and gives the supervisor real safety authority without generic recruiter fluff. Version 2 is the least convincing because it relies on boilerplate adjectives and awkward corporate phrasing.",
+  "label_to_arm": {
+    "1": "V6A",
+    "2": "E",
+    "3": "V6C",
+    "4": "B5",
+    "5": "O",
+    "6": "C",
+    "7": "A"
+  }
+}

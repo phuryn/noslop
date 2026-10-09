@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 2,
+    "4": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Polished marketing cadence and aphoristic repetition: 'Every shelf, every table, every book had to earn its place.'",
+    "3": "Aphoristic 'earn its place' construction and a generic 'we could make a start' without concrete details.",
+    "4": "Redundant structure ('two floors' stated then restated) and rhythmic 'Every shelf, every table...' parallelism."
+  },
+  "reason": "Version 1 reads most human and credible because of its specific memoir details (Middlemarch, Mr. Okafor, the $38,000 GoFundMe) and less polished, natural arc. I’d send it for authenticity; version 3 is close, while 2 and 4 read more like smoothed-over generic marketing copy.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "O",
+    "3": "B5",
+    "4": "track2/A-int"
+  }
+}

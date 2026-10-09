@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 1,
+    "4": 4
+  },
+  "reason": "Version 3 preserves the original most closely; version 2 strengthens “Those visits helped us get here” into a claim of necessity, while version 1 drops several nuances and adds that a book was passed to a friend. Version 4 introduces unsupported details, including personal preference, first-week timing, repeated rereading, and an unreturned loan.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B5",
+    "3": "B3",
+    "4": "C"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 2
+  },
+  "send": "4",
+  "tells": {
+    "1": "none",
+    "2": "formulaic heading scaffold and bullet-pointed explanation",
+    "3": "bolded headings and key phrases give it an over-formatted, generated feel",
+    "4": "mild templated structure, but the language is mostly natural"
+  },
+  "reason": "Version 1 sounds the most naturally written, but Version 4 is the best overall to send because it is concise, scannable, and clear without overdoing emphasis.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "A",
+    "3": "O",
+    "4": "B3"
+  }
+}

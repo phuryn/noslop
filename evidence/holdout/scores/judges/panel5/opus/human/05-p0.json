@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 2,
+    "4": 3,
+    "5": 5
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Formal sign-off 'Thanks,' with no name after it, which looks like a leftover email template; also a slightly padded three-paragraph structure for a short ask",
+    "3": "The bulleted 'Options:' comparison with the parenthetical '(£18k cheaper)' is a bit tidy and formatted for a quick Slack ping",
+    "4": "Templated structure: deadline line, then bullets, then recommendation, then a reply instruction. It reads like a decision-request framework",
+    "5": "Redundant phrasing ('Can you decide... We need your call') stacked onto the same bullet template, plus the softener 'Just reply'"
+  },
+  "reason": "Version 1 leads with the recommendation, states the saving and the deadline in plain prose, and makes the reply easy. That is how a confident colleague writes on Slack. The bulleted versions are clear but feel templated, and 2 and 5 add filler or awkward sign-offs.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "O",
+    "4": "B3",
+    "5": "B5"
+  }
+}

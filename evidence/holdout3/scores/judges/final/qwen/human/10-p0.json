@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 5,
+    "3": 4,
+    "4": 6,
+    "5": 1,
+    "6": 3
+  },
+  "send": "5",
+  "tells": {
+    "1": "the repeated '2025 season' and vague 'decisions that follow' are a little generic",
+    "2": "abstract filler such as 'provides a long-term perspective' and 'questions facing those responsible'",
+    "3": "the templated triad 'ecology, land management and policy' and vague 'long view'",
+    "4": "marketing cliché 'unique insights' and repeated first name",
+    "5": "none",
+    "6": "over-smoothed rhetorical flourish in 'what wildfire demands of the people responsible...'"
+  },
+  "reason": "Version 5 is concise, credible and reads like clean conference copy without the padded abstractions or promotional tone of the others. Version 6 is elegant, but its rhetorical line and temporal reference make it feel slightly managed.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "O",
+    "3": "B5",
+    "4": "E",
+    "5": "A",
+    "6": "C"
+  }
+}

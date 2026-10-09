@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "none",
+    "4": "none"
+  },
+  "reason": "Version 1 gives progress, remaining work, and timing their own clear sentences, making it easy to scan and credible. Version 2 sounds conversational but adds the qualifier “big”; versions 3 and 4 compress the information with diminishing readability, though none shows a reliable AI-writing tell.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "C",
+    "3": "A",
+    "4": "B"
+  }
+}

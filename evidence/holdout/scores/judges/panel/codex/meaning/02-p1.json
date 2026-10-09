@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2
+  },
+  "reason": "Version 2 preserves the original’s meaning, facts, and uncertainty most closely. Version 3 shifts the offer of more information to the chat and removes its interest condition, while version 1 replaces “I think” with “I saw” and adds a judgment that Callum might be a good fit.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B3"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "dropped": [],
+  "changed": [
+    {
+      "item": "The refund was ongoing and attributed to the company ('we're refunding'). The edit says it is already complete and attributes it to the writer personally ('I've also refunded').",
+      "severity": "minor"
+    },
+    {
+      "item": "The firm statement 'Your new delivery date is Saturday 24 October' became 'We can now deliver it on Saturday 24 October', which could read as an offer of availability rather than a confirmed booking.",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "An assumption that the customer had been looking forward to the item ('something you've been looking forward to').",
+      "severity": "minor"
+    },
+    {
+      "item": "An explicit admission of fault ('that's on us'), which the original did not state.",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

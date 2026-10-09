@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "Version 1 preserves the original most exactly; version 2 is nearly equivalent but adds emphasis with “only.” Version 3 changes “the remaining piece” to “the only big piece left,” allowing for other smaller tasks, and makes the target-date wording slightly firmer with “on track to hit Nov 3.”",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "C"
+  }
+}

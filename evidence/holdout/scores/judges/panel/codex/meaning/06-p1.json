@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3
+  },
+  "reason": "Version 2 preserves the original wording and meaning, while Version 1 makes equivalent wording changes and moves the compatibility check earlier. Version 3 adds an unsupported claim that the fix is easy and specific wiping/brushing methods, weakens the temperature requirement to a suggestion about outdoor conditions, and narrows checking for leaks to checking for drips.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "C"
+  }
+}

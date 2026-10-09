@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 2,
+    "3": 3,
+    "4": 6,
+    "5": 1,
+    "6": 4
+  },
+  "send": "5",
+  "tells": {
+    "1": "Stiff boilerplate apologies ('please accept my apology,' 'sorry for any inconvenience') clashing with casual 'hit reply.'",
+    "2": "none",
+    "3": "none",
+    "4": "Corporate empathy filler: 'That's not the experience we want you to have,' plus a second stacked apology close.",
+    "5": "none",
+    "6": "Stock bookends: 'Thanks for reaching out' and 'Thanks for your patience.'"
+  },
+  "reason": "Version 5 is the one a skilled agent would actually send: personal ownership ('I'll email,' 'I'll help'), a natural greeting and sign-off, and no filler. Versions 2 and 3 are clean but more even and template-like; 6 adds stock courtesy lines; 1 is uneven and formal; 4 is the most obviously padded corporate-empathy draft.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "A",
+    "3": "B3",
+    "4": "O",
+    "5": "C",
+    "6": "B5"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 5,
+    "3": 2,
+    "4": 3,
+    "5": 1
+  },
+  "send": "5",
+  "tells": {
+    "1": "none (clunky and repetitive, like an unpolished human draft: 'You don't have to measure our pre-measured dry ingredients')",
+    "2": "Stacked parallel fragments ('A little measuring done. A little joy delivered.' / 'An afternoon with the oven on. Something homemade to share.')",
+    "3": "Mild over-smoothing; 'Plan on an afternoon...' feels like a fragment that was rewritten into a sentence",
+    "4": "Formulaic 'Maybe it's... Maybe it's just... Either way' rhetorical build",
+    "5": "Social-proof stats tacked onto the end of an anecdote ('...and we have about 2,800 active subscribers')"
+  },
+  "reason": "Version 5 replaces vague mood copy with concrete, credible specifics (the recipe is included, a named mill, a real subscriber story, a subscriber count), which builds trust and reads most human. It's the one to send, provided those facts are verified before publishing. Version 3 is the best fallback.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "O",
+    "3": "track2/A-int",
+    "4": "C",
+    "5": "track2/B5-int"
+  }
+}

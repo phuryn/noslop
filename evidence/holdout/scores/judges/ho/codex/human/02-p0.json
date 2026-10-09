@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 6,
+    "4": 5,
+    "5": 4,
+    "6": 2
+  },
+  "send": "2",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "Generic 'good fit' language without a specific reason, followed by a formulaic offer of more details.",
+    "4": "'Which is why I'm writing to you' unnecessarily explains the obvious.",
+    "5": "'Happy to share more if it sounds of interest' feels like a stock recruiting sign-off.",
+    "6": "none"
+  },
+  "reason": "Version 2 is concise, conversational, and clear about the opportunity without overselling the match or repeating the interest question. These are stylistic judgments; none of the versions contains reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "B2",
+    "2": "B3",
+    "3": "C",
+    "4": "B",
+    "5": "O",
+    "6": "A"
+  }
+}

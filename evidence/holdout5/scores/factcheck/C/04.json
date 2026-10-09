@@ -1,0 +1,17 @@
+{
+  "dropped": [
+    {
+      "item": "\"October is here\" opener (seasonal framing, no real information)",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "Original says the Oadby branch is 'now open from 8am to 8pm' (could mean it is newly open or that it now has these hours); edit says 'We've also opened a new branch', which commits to it being a new opening and, with 'also', may suggest it is in addition to the eight branches",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

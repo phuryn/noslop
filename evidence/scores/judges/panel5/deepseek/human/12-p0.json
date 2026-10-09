@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 1,
+    "5": 2,
+    "6": 3,
+    "2": 4,
+    "3": 5,
+    "4": 6
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Impersonal 'This talk explores' and generic 'practical considerations' phrasing.",
+    "3": "Repetitive structure: 'This talk covers... It also covers...' and repeated 'the Authority'.",
+    "4": "Overly formal passive wording like 'will also be discussed' and stilted 'items to consider using...'.",
+    "5": "none",
+    "6": "Formulaic neutral summary phrasing: 'This talk covers...' and 'doing the same with their own pressure data.'"
+  },
+  "reason": "Version 1 reads like a practitioner's own voice—direct, specific, and free of formulaic filler. It also remains clear and credible about the results and lessons.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "O",
+    "3": "B3",
+    "4": "E",
+    "5": "B5",
+    "6": "A"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 1,
+    "4": 3
+  },
+  "send": "3",
+  "tells": {
+    "1": "none",
+    "2": "Stiff cause line ('A bug in the ParkWise app caused it') and a cutoff close with no invitation to reply.",
+    "3": "none",
+    "4": "Stock closer pairing 'Thanks for your patience' with 'please let us know if you have any other questions.'"
+  },
+  "reason": "Version 3 sounds like a skilled support agent: direct, complete, and conversational without awkward phrasing or canned padding. Version 1 has more voice but slightly off wording; 4 is polished into a generic template; 2 is stiff and unfinished.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B3",
+    "4": "O"
+  }
+}

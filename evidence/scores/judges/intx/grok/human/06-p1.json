@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 3,
+    "4": 5,
+    "5": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "Paired slogan fragments and evenly stacked lifestyle lines make the cadence a little too perfect.",
+    "2": "Awkward phrasing ('start at the stirring') plus a paragraph that piles on a named mill, a named customer, a bestseller, and a subscriber count.",
+    "3": "The 'Maybe it's… Maybe it's… Either way' pattern.",
+    "4": "Empty intensifiers (amazing, scrumptious, yummy) and stock lines like 'It's that simple.'",
+    "5": "A parallelism slip ('and for sneaking a taste') and a flattened, generic mood sentence."
+  },
+  "reason": "Version 1 has the surest voice and cleanest structure without unsupported claims, so it best passes as finished copywriter work. The others are formulaic, fact-stuffed, or simply unskilled.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "track2/B5-int",
+    "3": "C",
+    "4": "E",
+    "5": "track2/A-int"
+  }
+}

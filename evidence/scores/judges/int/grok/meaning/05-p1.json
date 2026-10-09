@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1
+  },
+  "reason": "Version 3 keeps every goal, metric, caveat, and commitment, with only light wording changes. Version 1 softens “visibility” to “show” and slightly reframes consequences as costs, while version 2 drops the explicit “not for routine reassignments” qualifier and adds a timing commitment by tying target confirmation to the pre-pilot baseline window.",
+  "label_to_arm": {
+    "1": "track2/B3-int",
+    "2": "track2/A-int",
+    "3": "B3"
+  }
+}

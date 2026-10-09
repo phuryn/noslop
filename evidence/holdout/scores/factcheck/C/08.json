@@ -1,0 +1,20 @@
+{
+  "dropped": [],
+  "changed": [
+    {
+      "item": "Original says the business was started in Asheville. The edit says he currently runs it in Asheville, which shifts the claim from founding location to present location.",
+      "severity": "minor"
+    },
+    {
+      "item": "'bring music into people's homes' became 'put music back in people's homes', which newly implies the homes had music before.",
+      "severity": "minor"
+    },
+    {
+      "item": "'founder of Ruiz Piano Restoration' became 'I run Ruiz Piano Restoration'. 'I started it in 2011' still preserves the founding, but the explicit founder title is gone.",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

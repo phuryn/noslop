@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 5,
+    "2": 3,
+    "3": 4,
+    "4": 1,
+    "5": 2
+  },
+  "reason": "Version 4 is nearly verbatim; it only loses the 'reminder of what your support makes possible' nuance. Version 5 overstates that donations are 'what let us' respond (the original says 'helps'), while 2 adds a tour, 3 drops the autumn framing and closing thanks, and 1 shifts the season, adds an 'if in the area' condition, and omits the open-day details.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "C",
+    "3": "A",
+    "4": "B3",
+    "5": "B5"
+  }
+}

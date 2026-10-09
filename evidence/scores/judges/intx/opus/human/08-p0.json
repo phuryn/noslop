@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 4,
+    "3": 5,
+    "4": 2,
+    "5": 1
+  },
+  "send": "5",
+  "tells": {
+    "1": "none, though its four evenly weighted, tidy sentences feel flattened and generic",
+    "2": "Formulaic sales closer: 'a simple way to get the full picture at their next visit'",
+    "3": "Em dashes plus a stacked benefit pitch: 'a practical way to get a fuller picture of your dog's health and make the most of their yearly checkup'",
+    "4": "none (the clunkiness, 'his'/'it' switch, and capitalized product name read like a real clinic staffer)",
+    "5": "The closing line ('we'd rather explain what the panel is for than push it') is slightly performative candor"
+  },
+  "reason": "Version 5 is the only one with concrete, first-hand detail: a clinic stat, a patient story, and breed-specific nuance. That makes it the most credible and persuasive, as long as the 1-in-5 figure and the beagle case are real. Versions 2 and 3 end in polished upsell taglines, and 4 reads human but awkward.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "C",
+    "3": "O",
+    "4": "E",
+    "5": "track2/B5-int"
+  }
+}

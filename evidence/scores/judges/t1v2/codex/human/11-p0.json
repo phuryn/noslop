@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 3,
+    "4": 2,
+    "5": 5
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "The ending 'You're organized, calm when it gets loud, and cooks want to work for you' feels mechanically shortened, weakening the sentence's rhythm.",
+    "3": "none",
+    "4": "none",
+    "5": "Inserted conversational cues such as 'honestly' and 'your opinion will actually count' feel like deliberate attempts to manufacture an informal voice."
+  },
+  "reason": "Version 1 has the strongest combination of confident voice, natural rhythm, and clear responsibilities; version 4 is a close second with useful formatting. Version 5 feels more performative and adds an unsupported promise about finishing at a decent hour; these judgments concern editorial effect, not proof of AI authorship.",
+  "label_to_arm": {
+    "1": "B2",
+    "2": "B",
+    "3": "A",
+    "4": "O",
+    "5": "C"
+  }
+}

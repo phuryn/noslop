@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 5,
+    "4": 2,
+    "5": 4
+  },
+  "send": "4",
+  "tells": {
+    "1": "Studied casualness ('The effects add up', 'matters a lot', 'actually accept') reads a bit like deliberate de-formalizing; otherwise the most natural.",
+    "2": "Counted setup line 'This causes four problems:' followed by four perfectly parallel claim-then-explanation bullets.",
+    "3": "Generic intensifier lead-in 'The consequences are significant:', plus the wordy 'There is currently no system that...' and the trailing participle 'informing the decision on broader rollout'.",
+    "4": "Uniform bold-lead-in bullet template with matching sentence shapes; 'This hurts in four ways' is mildly formulaic.",
+    "5": "Punchy fragment lead-in 'What this costs:' set against otherwise unchanged boilerplate phrasing."
+  },
+  "reason": "Version 1 reads the most human, but its casual phrasing is slightly loose for a PRD. Version 4 keeps the professional precision, trims filler like 'typically' and 'give visibility into', and avoids the obvious 'significant consequences' framing, so it's the one I'd send.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "O",
+    "4": "B",
+    "5": "B3"
+  }
+}

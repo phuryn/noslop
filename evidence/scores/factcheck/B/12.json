@@ -1,0 +1,30 @@
+{
+  "dropped": [
+    {
+      "item": "Leaks found with pressure data 'might otherwise go unnoticed', so the original frames this as revealing hidden leaks.",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "Abstract: the original says using the data helped reduce non-revenue water from 14% to 9%, presenting it as a contributing factor. The edit says the authority 'cut non-revenue water from 14% to 9%', which reads as a direct cause.",
+      "severity": "minor"
+    },
+    {
+      "item": "Scope of the practical considerations: the original covers utilities 'looking to make better use of their existing pressure data' in general. The edit narrows this to what utilities 'should consider before putting their own pressure data to the same use', meaning leak detection specifically and before they start.",
+      "severity": "minor"
+    },
+    {
+      "item": "General claim softened into a specific case: the original opens with a general statement that operational pressure data 'can help reveal leaks'. The edit states only what Mesa Valley did.",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "Mentions 'the team' as the group that learned the lessons.",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

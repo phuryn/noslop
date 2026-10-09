@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 1,
+    "4": 4
+  },
+  "reason": "Version 3 keeps all key facts and the final practical benefit; version 2 keeps the full medical list but drops the final benefit; version 1 drops 'other health markers' and the 'make the most' nuance; version 4 changes the core advice from 'more than vaccines' to 'include bloodwork' and drops the final benefit.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B3",
+    "3": "B5",
+    "4": "A"
+  }
+}

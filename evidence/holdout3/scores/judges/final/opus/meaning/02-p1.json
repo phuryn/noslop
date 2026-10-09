@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 5,
+    "3": 4,
+    "4": 3,
+    "5": 1
+  },
+  "reason": "Version 5 is nearly verbatim, and versions 1 and 4 keep every fact and offer (4 loses the soft 'open to' hedge). Version 3 changes the target cider customer to 'something crisp' and opens with stocking rather than a trial. Version 2 drops the trial's purpose, overstates the fit ('great'), and changes 'send' samples to 'bring some in'.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "E",
+    "3": "C",
+    "4": "B3",
+    "5": "A"
+  }
+}

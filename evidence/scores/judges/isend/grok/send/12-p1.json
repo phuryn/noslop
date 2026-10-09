@@ -1,0 +1,11 @@
+{
+  "send": "none",
+  "reason": "None keeps every fact and caveat. Version 4 is closest, but it turns “might” into “would” and recasts the speaker as only part of a broader effort that achieved the reduction; the others add claims, drop “help,” upgrade the role, or invent a name.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "E",
+    "3": "A",
+    "4": "B5"
+  },
+  "picked_arm": "none"
+}

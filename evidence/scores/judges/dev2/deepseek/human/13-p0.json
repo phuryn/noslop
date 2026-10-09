@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 5,
+    "4": 4,
+    "5": 1
+  },
+  "send": "5",
+  "tells": {
+    "1": "Uses formulaic 'Mitigation:' labels in every risk bullet.",
+    "2": "Overuses bolded topic fragments in bullets, including the odd standalone 'Flexibility.'",
+    "3": "Headings and phrasing overuse casual idioms to the point of feeling performative.",
+    "4": "Monotonous parallel structure with repeated 'We will...' mitigation sentences.",
+    "5": "none"
+  },
+  "reason": "Version 5 reads most like a skilled human wrote it: direct first-person recommendation, natural phrasing, and clean action steps without AI-style formatting tics.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "O",
+    "3": "C",
+    "4": "A",
+    "5": "B5"
+  }
+}

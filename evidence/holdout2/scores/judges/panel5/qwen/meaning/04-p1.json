@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2
+  },
+  "reason": "Version 1 preserves the core facts, including the need and audit result, omitting only the final evaluative clause; version 3 retains the high-standards point but weakens 'need' to 'wanted'; version 2 drops both the 'came to us' detail and the final standards claim.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "B5"
+  }
+}

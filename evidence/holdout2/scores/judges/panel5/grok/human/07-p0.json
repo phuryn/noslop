@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 3,
+    "4": 2
+  },
+  "send": "4",
+  "tells": {
+    "1": "none",
+    "2": "Bold dates and headers plus a What/Why/actions bullet scaffold — the standard generated-email layout.",
+    "3": "The same generic section labels, with the why and sign-off sanded down to flat template lines.",
+    "4": "A stray markdown **Subject:** and the what/why/actions section scaffold."
+  },
+  "reason": "Version 1 sounds most like a person writing to their own site, but the asks blur together in one paragraph. Version 4 keeps that voice while making the rule and the actions easy to follow, so that is the one I would send.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "O",
+    "3": "A",
+    "4": "B3"
+  }
+}

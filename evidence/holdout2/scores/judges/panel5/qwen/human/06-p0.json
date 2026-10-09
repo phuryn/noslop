@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 3,
+    "4": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "\"Check that\" plus \"Once\" reads like generic checklist language.",
+    "3": "It has the same templated rhythm as version 2, just with a plain apostrophe.",
+    "4": "The abrupt period before the list and clipped \"Hold\" feel slightly machine-trimmed."
+  },
+  "reason": "Version 1 is the most natural and clear, with conversational but precise support wording. Version 4 is concise, but \"Hold\" is a little less exact than \"Press and hold\".",
+  "label_to_arm": {
+    "1": "A",
+    "2": "O",
+    "3": "B3",
+    "4": "B5"
+  }
+}

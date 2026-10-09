@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 2,
+    "4": 3,
+    "5": 5
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "choppy, segmented sentences and the mechanical phrase 'takes effect for you'",
+    "3": "safe, generic corporate phrasing that feels templated",
+    "4": "forced chatty warmth, especially 'On a happier note' and 'this community'",
+    "5": "stiff filler like 'We wanted to let you know' and 'at which time' with generic exclamation"
+  },
+  "reason": "Version 1 is the most natural because it is concise, clear, and warm without sounding templated. It delivers the pricing change and the added classes in a tone that feels like a real person wrote it.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "O",
+    "4": "C",
+    "5": "E"
+  }
+}

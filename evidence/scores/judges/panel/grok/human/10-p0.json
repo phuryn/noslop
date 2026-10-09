@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 2,
+    "5": 5
+  },
+  "send": "4",
+  "tells": {
+    "1": "none",
+    "2": "Generic padding: “to give you more options during the week.”",
+    "3": "Flat, even sentences and a transactional “Thanks for being a member.”",
+    "4": "Bolted-on “so you’ll have more options during the week.”",
+    "5": "Soft-news formula: “Quick heads-up,” “On a happier note,” “glad to help.”"
+  },
+  "reason": "Version 1 sounds typed by a person, comma splice and all; version 4 keeps that spoken cadence while stating the dates and rates cleanly, so that is the one I would send. Version 5 performs friendliness, and 2–3 are the same smooth template, padded or stripped.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "O",
+    "3": "A",
+    "4": "B3",
+    "5": "C"
+  }
+}

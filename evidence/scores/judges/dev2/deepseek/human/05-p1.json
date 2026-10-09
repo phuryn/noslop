@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 5,
+    "3": 4,
+    "4": 1,
+    "5": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Formal transitions and bolded parallel consequence labels feel over-structured.",
+    "3": "Polished framing with 'What this costs:' and bolded cost labels feels slightly mechanical.",
+    "4": "none",
+    "5": "The explicit 'This causes four problems:' enumeration feels templated."
+  },
+  "reason": "Version 4 reads most naturally human, but Version 1 is the strongest to send because it keeps the PRD clear, credible, and appropriately formal without over-formatting or over-casualness.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "O",
+    "3": "B3",
+    "4": "C",
+    "5": "A"
+  }
+}

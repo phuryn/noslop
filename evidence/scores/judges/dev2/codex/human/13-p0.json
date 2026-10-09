@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 5,
+    "4": 3,
+    "5": 4
+  },
+  "send": "2",
+  "tells": {
+    "1": "The consistently conversational headings and simplified wording feel slightly labored, especially 'Our people are affected' and 'The numbers.'",
+    "2": "Residual corporate abstractions such as 'full brand experience' and 'brand pull'; otherwise few conspicuous tells.",
+    "3": "Repeated 'Mitigation:' labels, noun-heavy phrasing, and uniformly bolded bullet introductions give it a template-driven feel.",
+    "4": "Repeated 'We will' sentences make the risk section mechanically uniform and imply commitments before approval.",
+    "5": "The repeated 'Mitigation:' formula and stiff constructions such as 'For what they return' make the editing feel incomplete."
+  },
+  "reason": "Version 2 best balances personal ownership, clear language, and the professional tone this decision needs; these are stylistic judgments, not evidence of authorship. Before sending, I would correct the timing argument shared by all five: October 2026 is already inside the stated negotiation window for June 2027 expirations.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B5",
+    "3": "O",
+    "4": "A",
+    "5": "B3"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1,
+    "4": 4
+  },
+  "send": "3",
+  "tells": {
+    "1": "A neat slogan headline ('Less measuring, more making.') and a stacked 'Maybe… Maybe… Either way' rhetorical build.",
+    "2": "A verbless tricolon of fragments ('An afternoon…, something…, or a quiet cup…'). The copy is also flattened into headless paragraphs, and 'start at the mixing' is slightly off.",
+    "3": "Mostly none. The only one is a mild stock closer ('Either way, you get something to look forward to').",
+    "4": "Staccato parallel fragments ('A little measuring done. A little joy delivered.'), a stack of short fragments in section two, and generic filler ('the good part')."
+  },
+  "reason": "Version 3 keeps clear section headers and plain, specific sentences ('all to yourself'), without slogan-style parallelism. Version 4 leans hardest on templated fragment rhythms, and Version 2 loses the scannable landing-page structure.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B",
+    "4": "O"
+  }
+}

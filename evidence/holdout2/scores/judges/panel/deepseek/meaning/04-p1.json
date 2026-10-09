@@ -1,0 +1,11 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2
+  },
+  "reason": "Version 1 stays closer to the original wording and nuance, only omitting the final evaluative clause; Version 2 keeps the core facts but slightly alters the opening and loses the 'came to us' nuance.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "The neatly parallel consequence bullets and broad business-risk claims feel somewhat templated.",
+    "2": "“The consequences are significant” adds generic emphasis without information; the closing “informing” clause also feels formulaic.",
+    "3": "none",
+    "4": "“This causes four problems” makes the organization feel mechanically imposed."
+  },
+  "reason": "Version 1 has the strongest balance of direct language, useful structure, and editorial restraint; version 3 feels like a human draft but needs substantial tightening. Before sending version 1, I would distinguish escalation from successful rescheduling and substantiate the sweeping claim that no system currently handles call-outs automatically.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "O",
+    "3": "gen/E-write",
+    "4": "A"
+  }
+}

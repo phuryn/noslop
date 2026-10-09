@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 5,
+    "4": 6,
+    "5": 1,
+    "6": 4
+  },
+  "send": "5",
+  "tells": {
+    "1": "none. The tacked-on 'Before, they didn't.' is clumsy but reads as human.",
+    "2": "none. The duplicated 'What's new?' heading, 'PDF's' apostrophe error and loose phrasing are human sloppiness.",
+    "3": "Bolded 'Label:' lead-in on every bullet, a templated AI structure",
+    "4": "Forced casual voice, with a rhetorical question ('Need to change a bunch of invoices?') and a punchy 'That's fixed.' closer",
+    "5": "none",
+    "6": "Bolded 'Label:' lead-in on every bullet, the same templated pattern as 3"
+  },
+  "reason": "Version 5 is clean, concise and plainly worded, with no templated bold labels or forced chattiness, so it reads like a competent human wrote it. Version 2 is human but too sloppy to publish, and versions 3, 4 and 6 carry recognizable AI formatting or tone patterns.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "E",
+    "3": "O",
+    "4": "C",
+    "5": "A",
+    "6": "B3"
+  }
+}

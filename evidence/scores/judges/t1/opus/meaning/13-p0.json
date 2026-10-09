@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3
+  },
+  "reason": "Version 2 keeps nearly every claim and caveat, including 'structurally declining', 'stronger potential returns', and 'brand performs best', with only minor shifts such as 'serve' for 'capture' and dropping 'targeted'. Version 1 drops several rationale claims and hardens 'potential returns' into 'should return more', while Version 3 also reframes investment areas as outcomes (e.g., 'a faster site'), changes 'Finance to complete with' to 'Finance to fill in', and loosens the planning language around liquidation.",
+  "label_to_arm": {
+    "1": "B",
+    "2": "A",
+    "3": "C"
+  }
+}

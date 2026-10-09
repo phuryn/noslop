@@ -1,0 +1,11 @@
+{
+  "send": "2",
+  "reason": "Version 2 keeps the same recommendation, June 2027 exit, structural-decline rationale, hedged returns, reinvestment scope, mitigations, financial placeholders, and next steps in the original professional voice. The others change load-bearing claims or drop commitments, such as site performance, structural decline, or employee transition support.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "E",
+    "4": "B5"
+  },
+  "picked_arm": "A"
+}

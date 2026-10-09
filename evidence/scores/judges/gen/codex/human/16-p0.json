@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 1,
+    "3": 3,
+    "4": 2
+  },
+  "send": "2",
+  "tells": {
+    "1": "Generic lessons about change and patience replace personal insight; 'a very informative profession' sounds unnatural.",
+    "2": "none",
+    "3": "'I found myself' and 'hadn’t given much thought' add familiar, slightly padded introspection.",
+    "4": "none"
+  },
+  "reason": "Version 2 combines concrete habits, credible teaching memories, and restrained emotion with the most natural rhythm. Version 4 is close but slightly more clipped; these judgments concern editorial effect, not proof of AI authorship.",
+  "label_to_arm": {
+    "1": "gen/E-write",
+    "2": "A",
+    "3": "O",
+    "4": "B3"
+  }
+}

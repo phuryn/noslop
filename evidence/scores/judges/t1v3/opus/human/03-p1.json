@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 5,
+    "3": 1,
+    "4": 2,
+    "5": 3
+  },
+  "send": "4",
+  "tells": {
+    "1": "Bold-label-plus-colon bullets where the label repeats the sentence after it ('Faster bank feed sync: Bank feeds now sync…'), and 'Fixed a bug where…' after a 'Fixes' header",
+    "2": "Forced casual voice: a rhetorical question ('Need to change a bunch of invoices?'), the short 'That's fixed.' punchline, and the inflated 'much sooner'",
+    "3": "none",
+    "4": "Mild templated bold-label-colon structure, but the wording is tight and natural",
+    "5": "none. Formatting looks stripped and the 'so transactions show up sooner' benefit is dropped, but there's no AI phrasing"
+  },
+  "reason": "Version 4 is the tightest and easiest to scan. It states fixes as outcomes and avoids version 1's redundancy and version 2's forced chattiness. Version 3 reads the most naturally human, but its bullets have no labels and are harder to skim.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "C",
+    "3": "A",
+    "4": "B3",
+    "5": "B"
+  }
+}

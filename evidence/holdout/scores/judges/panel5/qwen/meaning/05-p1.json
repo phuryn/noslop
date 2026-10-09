@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2,
+    "4": 4
+  },
+  "reason": "Version 2 stays closest to the original wording, facts, and request, while Version 3 preserves nearly all facts but slightly reframes the opening as a question. Version 1 is faithful but paraphrases more, and Version 4 loses the explicit caveat 'unless you see a reason not to' and slightly narrows the reference to the supplier.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B3",
+    "3": "B5",
+    "4": "A"
+  }
+}

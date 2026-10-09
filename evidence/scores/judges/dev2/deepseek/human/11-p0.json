@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 1,
+    "3": 4,
+    "4": 2,
+    "5": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "Bold section headers followed by a punched list of parallel verb phrases ('Lead service, run prep...') read like an AI-formatted job post.",
+    "2": "none",
+    "3": "Same underlying AI copy as version 1 with headers removed; the three-part rhythmic clauses and generic 'Pay is' sentence remain.",
+    "4": "Only lightly edited from the AI base; the colon after 'hands-on' and polished but generic final line still feel template-driven.",
+    "5": "Flattened pacing and clipped sentences (e.g., 'nights that end,' 'We want standards high') feel like an AI simplification rather than a human's natural compression."
+  },
+  "reason": "Version 2 has the most natural, confident voice and concrete details, while the others retain more formulaic or flattened AI phrasing.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "C",
+    "3": "B3",
+    "4": "A",
+    "5": "B5"
+  }
+}

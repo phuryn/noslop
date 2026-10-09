@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2,
+    "4": 5,
+    "5": 4
+  },
+  "send": "2",
+  "tells": {
+    "1": "Generic, specificity-free lifestyle imagery ('a quiet cup of tea with the last crumb') with no concrete proof points",
+    "2": "none",
+    "3": "Paired 'Maybe it's... Maybe it's...' cadence capped by an 'Either way' wrap-up line",
+    "4": "Stacked parallel fragments and tricolon rhythm ('A little measuring done. A little joy delivered.' / 'An afternoon... Something... Or a quiet moment...')",
+    "5": "Not AI-like so much as amateur: redundant, clumsy phrasing ('You don't have to measure our pre-measured dry ingredients') and a leftover duplicate CTA"
+  },
+  "reason": "Version 2 is the only one with concrete, credible details (Ledger Hill Mill, a named subscriber story, the bestselling kit, a subscriber count) that read like real brand knowledge instead of mood copy. Version 4 shows the heaviest formulaic AI rhythm, and Version 5 is human-sounding but unpolished and unfit to publish.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "track2/B5-int",
+    "3": "C",
+    "4": "O",
+    "5": "E"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2
+  },
+  "reason": "Version 1 preserves the start-to-finish scope of the pressing demos and the invitation to be among the first to taste Quiet Field. Version 2 retains the core event facts but omits the full demonstration scope and leaves the early-tasting invitation implicit.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A"
+  }
+}

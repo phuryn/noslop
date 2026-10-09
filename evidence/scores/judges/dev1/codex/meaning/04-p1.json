@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 1,
+    "4": 3
+  },
+  "reason": "Version 3 preserves the original meaning most exactly, followed by 1 and then 4, whose rewordings retain all substantive facts and instructions. Version 2 drops the explicit timing of “this week” and the reassurance that it is a “small job,” and adds an ownership implication with “our seed swap.”",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "C",
+    "3": "A",
+    "4": "B5"
+  }
+}

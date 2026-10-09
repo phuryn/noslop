@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 1,
+    "3": 3,
+    "4": 2
+  },
+  "send": "2",
+  "tells": {
+    "1": "Stacked corporate apologies and the stock line \"That's not the experience we want you to have.\"",
+    "2": "none",
+    "3": "Over-compressed tone, especially the bare command \"If you have questions, reply to this message.\"",
+    "4": "Generic \"Thank you for your patience\" tucked in after the fix, a light template beat."
+  },
+  "reason": "Version 2 sounds like a skilled agent: direct, warm, and specific without padding. Version 1 is the most scripted, while 3 is too clipped and 4 is solid but slightly more formulaic.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B3",
+    "3": "track2/A-int",
+    "4": "track2/B3-int"
+  }
+}

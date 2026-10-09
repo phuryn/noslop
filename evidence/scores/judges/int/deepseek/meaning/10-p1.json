@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 1
+  },
+  "reason": "Version 3 most fully preserves the original facts and nuances; version 2 is close but drops 'price' from the membership description, while version 1 omits the reason for adding Sunday classes and changes the closing thanks.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "B3",
+    "3": "track2/B3-int"
+  }
+}

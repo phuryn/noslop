@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2
+  },
+  "reason": "Version 3 keeps nearly every original fact, the lesson and the closing question, with only small shifts ('All we did', 'as much as'). Version 1 drops the question and the 'closing that gap' line, and turns the hedged 'sometimes the biggest wins' into a definite claim. Version 2 adds only writer-supplied facts but drops the most original content: texts get read, fewer empty chairs, patients getting care, the cost of each no-show, the lesson and the question.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "track2/B3-int",
+    "3": "track2/A-int"
+  }
+}

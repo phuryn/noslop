@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 5,
+    "3": 1,
+    "4": 4,
+    "5": 3
+  },
+  "reason": "Version 3 preserves all key claims, including that post-editing is not cheaper and that machine fluency makes errors dangerous, while versions 1 and 5 omit the explicit not-cheaper claim and version 4 omits the danger point. Version 2 adds or changes several facts, such as making the narrator a sworn translator and exaggerating agency behavior.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "E",
+    "3": "C",
+    "4": "B5",
+    "5": "A"
+  }
+}

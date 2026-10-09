@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1,
+    "4": 5,
+    "5": 4
+  },
+  "send": "3",
+  "tells": {
+    "1": "none",
+    "2": "Markdown '##' headings are an obvious LLM formatting artifact",
+    "3": "none",
+    "4": "Formulaic 'Mitigation:' tags after each bolded risk label",
+    "5": "Formulaic 'Mitigation:' tags plus stiffer, redundant AI phrasing in the rationale"
+  },
+  "reason": "Version 3 sounds like a person making a case—direct and varied—while versions 4 and 5 feel template-generated; it is clear and credible enough to send.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "A",
+    "3": "C",
+    "4": "O",
+    "5": "B3"
+  }
+}

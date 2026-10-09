@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2,
+    "4": 4
+  },
+  "send": "2",
+  "tells": {
+    "1": "Repeated apologies and thanks feel formulaic, though not distinctly AI-written.",
+    "2": "none",
+    "3": "none",
+    "4": "Stock empathy ('That's not the experience we want you to have') and a redundant closing apology make it feel templated."
+  },
+  "reason": "Version 2 balances warmth, accountability and clear next steps without unnecessary padding. Version 3 is similarly effective but slightly clipped; version 1 is repetitive, and version 4 relies most heavily on generic customer-service language.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "B3",
+    "3": "A",
+    "4": "O"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2
+  },
+  "reason": "Version 1 keeps the core facts, £15 credit commitment, and retains the thank-you line, while Version 2 omits the closing thank-you and final apology. Both drop the examples about work, keeping in touch, and relaxing, but Version 2 loses more of the original closing nuance.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3"
+  }
+}

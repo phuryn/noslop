@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 6,
+    "2": 3,
+    "3": 2,
+    "4": 5,
+    "5": 1,
+    "6": 4
+  },
+  "send": "3",
+  "tells": {
+    "1": "Impersonal template: 'This talk explores,' 'It shares lessons,' and 'practical considerations,' with no speaker in the prose.",
+    "2": "Stock 'would otherwise go unnoticed,' a slightly wrong idiom ('making more of their own pressure data'), and a genderless 'They' in the bio.",
+    "3": "The closer 'what worked, what didn't, and what other utilities should think about' is a familiar generated triad.",
+    "4": "Mechanical frame — 'This talk covers' then 'It also covers' — plus the stock 'might otherwise have gone unnoticed.'",
+    "5": "none",
+    "6": "Over-compressed three-beat polish, and the bio's imprecise 'find leaks in existing pressure data.'"
+  },
+  "reason": "Version 5 is the only draft with a named engineer, shop-floor diction, and copy-paste artifacts, so it reads as the human original; the rest are smoothed rewrites. I would still send 3: it keeps a real speaker's voice and is clear and credible enough to publish, unlike 5's encoding and grammar errors.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B5",
+    "3": "C",
+    "4": "B3",
+    "5": "E",
+    "6": "A"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1
+  },
+  "reason": "Version 3 keeps the feature claims, October 20 rollout, install steps, and support reassurance without distorting them. Version 1 drops the no-silly-question commitment, and version 2 narrows Crowd Focus from the people you're talking with to one person and changes “between charges” to “before plugging in.”",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "B3"
+  }
+}

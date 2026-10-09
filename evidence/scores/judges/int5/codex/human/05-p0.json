@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "Phrases such as 'Reduce coordinator manual work on call-out handling' sound mechanically compressed.",
+    "4": "The generic transition 'The consequences are significant' and repeated bold summaries give it a templated feel."
+  },
+  "reason": "Version 1 combines natural language with scannable structure and measured wording; version 2 is nearly equivalent, but 'measure how much coordinator effort drops' presupposes improvement. These are stylistic judgments, not reliable evidence of authorship; all four also incorrectly count escalation as completed rescheduling.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "B5",
+    "3": "track2/A-int",
+    "4": "O"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 5,
+    "3": 3,
+    "4": 2,
+    "5": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Stiff formal phrasing and passive voice, such as 'please accept my apology for the delay in responding' and 'as soon as your battery has been sent.'",
+    "3": "Formulaic corporate-empathy line: 'That's not the experience we want you to have.'",
+    "4": "none",
+    "5": "Layered formulaic empathy and boilerplate apologies, including 'That's not the experience we want you to have' and 'again, my apologies for the inconvenience.'"
+  },
+  "reason": "Version 1 sounds like a real person taking ownership: it is direct, warm, and clear about the warranty, replacement, tracking, and next steps, without stiff or over-formulaic language.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "E",
+    "3": "track2/B5-int",
+    "4": "track2/A-int",
+    "5": "O"
+  }
+}

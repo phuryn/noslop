@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 1,
+    "3": 2,
+    "4": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "Bolded parallel impact labels and the explicit 'The consequences are significant:' transition make it feel AI-structured and overly symmetrical.",
+    "2": "none",
+    "3": "Word-level paraphrasing like 'hurt clients,' 'Results depend,' and 'effort drops' reads like an AI thesaurus pass.",
+    "4": "Awkward compressed phrasing such as 'has coordinators handle each case individually' and over-smoothed prose reduce the human feel."
+  },
+  "reason": "Version 2 reads most like a skilled human because it is direct, uses natural contractions, and avoids overly rigid AI-style formatting. I would send it because it balances clarity, credibility, and human tone best.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "track2/B5-int",
+    "3": "B5",
+    "4": "track2/A-int"
+  }
+}

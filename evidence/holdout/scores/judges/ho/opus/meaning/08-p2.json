@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 4,
+    "3": 5,
+    "4": 1,
+    "5": 2
+  },
+  "reason": "V4 keeps every fact and nearly all nuance, losing only 'privilege'. V5 keeps 'privilege' and 'for years to come' but slightly shifts framing ('run… in Asheville', 'put music back'). V1 drops 'privilege' and 'for years to come'. V2 also loses the restoration image of instruments 'finding their voice again'. V3 replaces 'a future worth caring for' with a new claim that 'most have years of playing left in them'.",
+  "label_to_arm": {
+    "1": "B2",
+    "2": "B3",
+    "3": "A",
+    "4": "B",
+    "5": "C"
+  }
+}

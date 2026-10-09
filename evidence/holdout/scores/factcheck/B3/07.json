@@ -1,0 +1,22 @@
+{
+  "dropped": [
+    {
+      "item": "Thanks for your patience (acknowledgment of the customer's patience)",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "Call to action changed from the general 'please let us know if you have any other questions' to a specific channel: 'just reply to this email'",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "Specifies replying to this email as the way to ask further questions",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

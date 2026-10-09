@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 3,
+    "4": 1,
+    "5": 5
+  },
+  "send": "4",
+  "tells": {
+    "1": "none",
+    "2": "Formulaic colon reveal 'Then comes the hardest part: leaving them alone' and the generic closer 'come along for a chat and a few ideas for next season'",
+    "3": "Awkward restructuring ('The hardest part comes after that, which is leaving them alone'), which reads like the AI template was paraphrased to hide it",
+    "4": "none",
+    "5": "Em dash appositive ('before the first frost—a small job now that...') plus the polished colon-reveal punchline and the tidy 'chat and a few ideas' closer"
+  },
+  "reason": "Version 4 has a distinct regional voice ('natter', 'pointy end up', 'One for the diary'), keeps all the practical detail, and has natural rhythm, so it reads like a real allotment-holder wrote it. Version 1 is human but choppy and flat, and 'Finally' sits oddly in a two-item note. Versions 2, 3 and 5 share the same polished template, and 5 is the most obviously machine-smoothed.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "track2/A-int",
+    "3": "track2/B5-int",
+    "4": "C",
+    "5": "O"
+  }
+}

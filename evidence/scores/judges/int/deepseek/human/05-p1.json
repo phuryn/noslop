@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 4,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "none",
+    "2": "Bolded parallel bullet leads and the 'What this costs:' framing feel templated.",
+    "3": "Overly formal 'The consequences are significant:' plus the same bolded parallel bullet structure.",
+    "4": "none"
+  },
+  "reason": "Version 4 keeps the content and clarity but reads most naturally and directly, without the AI-style formatting and formal transitions present in versions 2 and 3.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "B3",
+    "3": "O",
+    "4": "track2/B3-int"
+  }
+}

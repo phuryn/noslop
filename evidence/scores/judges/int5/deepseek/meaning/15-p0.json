@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 1
+  },
+  "reason": "Version 3 stays closest to the original and adds nothing unverified. Version 2 preserves most original facts and caveats but drops the Premium 'unlock more' benefit, while Version 1 uses writer-supplied facts but omits or changes more original nuances like technique and progress tracking.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "track2/A-int",
+    "3": "B5"
+  }
+}

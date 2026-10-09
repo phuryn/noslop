@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 1,
+    "3": 2,
+    "4": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "Forced conversational touches: “Need to change a bunch of invoices?” and “That's fixed.”",
+    "2": "none",
+    "3": "none",
+    "4": "Uniform labeled bullets feel slightly templated, especially where the label repeats the sentence."
+  },
+  "reason": "Version 2 is concise, clear, and easy to scan—the right fit for release notes. Version 3 is close; version 4 adds some redundancy, while version 1 works too hard to sound casual. These are stylistic judgments, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B",
+    "3": "A",
+    "4": "O"
+  }
+}

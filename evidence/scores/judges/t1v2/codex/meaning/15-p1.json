@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+  },
+  "reason": "Version 1 preserves nearly all substantive claims; version 2 weakens free-to-start to free-to-download and omits Premium’s added value, while version 3 also drops the explicit ease-of-following and consistency claims. Version 4 additionally omits viewing progress over time and makes the vague Premium benefit more specific by promising additional features.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B2",
+    "3": "B",
+    "4": "A"
+  }
+}

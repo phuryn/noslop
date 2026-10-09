@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3
+  },
+  "reason": "Version 2 keeps every fact and caveat, softening only 'help spot' and dropping 'fuller picture.' Version 1 drops 'other health markers' and overstates with 'catch' and 'the full picture.' Version 3 changes the core claim to 'should include bloodwork' and cuts the guide-care point and the panel's value framing.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B",
+    "3": "A"
+  }
+}

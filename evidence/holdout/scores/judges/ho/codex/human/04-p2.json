@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 1,
+    "3": 5,
+    "4": 2,
+    "5": 3,
+    "6": 6
+  },
+  "send": "2",
+  "tells": {
+    "1": "Generic welcome padding: 'We're glad to have you along' adds little.",
+    "2": "none",
+    "3": "'You're not alone' and 'Most of us are in the same boat' repeat the reassurance; the closing welcome feels misplaced.",
+    "4": "The closing 'Wherever you are with your winter preparations' feels like a formulaic inclusive sign-off.",
+    "5": "Two three-part lists give the warmth and workshop invitation a slightly manufactured rhythm.",
+    "6": "Stacked conversational clichés, especially 'kept us on our toes' and 'catch your breath', make the friendliness feel rehearsed."
+  },
+  "reason": "Version 2 has the best balance of warmth, economy and practical information, with a direct workshop invitation and an uncomplicated closing. These are editorial judgments about how the prose reads, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "C",
+    "4": "B2",
+    "5": "B",
+    "6": "O"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 5,
+    "4": 1,
+    "5": 6,
+    "6": 3
+  },
+  "send": "4",
+  "tells": {
+    "1": "Even, interchangeable posts and a vague non-ending ('started with what we could').",
+    "2": "Stock sentimental frame: 'One of the lovely things about…' plus smooth filler ('Those visits helped us get here').",
+    "3": "Mechanical symmetry: 'every shelf, every table, every book' and 'Maybe… Maybe…'.",
+    "4": "none",
+    "5": "Corporate opener ('special milestone') and a hollow cliché tweet that never actually says anything.",
+    "6": "Same 'One of the lovely things…' template, closed with a tidy maybe/maybe cadence."
+  },
+  "reason": "Version 4 sounds like an owner: a dry aside, a specific joke, and uneven warmth a person would actually post. The rest share a tidy six-beat anniversary template; 3 is the most mechanically symmetrical, and 5 is too thin and tangled to read as skilled.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "O",
+    "4": "C",
+    "5": "E",
+    "6": "B5"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3
+  },
+  "reason": "Version 2 stays closest to the original and preserves all facts, caveats, and commitments; Version 1 preserves the same meaning but slightly reorders the compatibility check, while Version 3 paraphrases more and adds application details such as brushing.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "C"
+  }
+}

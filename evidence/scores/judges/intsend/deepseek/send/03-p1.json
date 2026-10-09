@@ -1,0 +1,11 @@
+{
+  "send": "4",
+  "reason": "It preserves the original facts and caveats while keeping the bold headings and bullet lead-ins, so it reads closest to the drafted release note.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "track2/B5-int",
+    "3": "track2/A-int",
+    "4": "C"
+  },
+  "picked_arm": "C"
+}

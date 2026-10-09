@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 5,
+    "3": 1,
+    "4": 4,
+    "5": 3
+  },
+  "reason": "Version 3 preserves the original pricing, current-member rate timing, and class rationale most exactly; version 1 is nearly as close. Version 5 omits the 'more options' nuance, version 4 adds subject/editorial changes, and version 2 adds an unsupported 'starting soon' timing and a renewal nuance.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "E",
+    "3": "B5",
+    "4": "C",
+    "5": "A"
+  }
+}

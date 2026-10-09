@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Generic, balanced reflection without concrete details or a specific memory.",
+    "3": "Polished colon list and semicolon parallelism; overly smooth, formal introspection.",
+    "4": "AI-style 'I found myself doing' opening plus a neatly packaged, symmetrical ending."
+  },
+  "reason": "Version 1 feels most human because its concrete, specific memories and candid mixed feelings create credibility, while the other versions replace particular detail with smoother but more generic reflection.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "B5",
+    "3": "track2/A-int",
+    "4": "O"
+  }
+}

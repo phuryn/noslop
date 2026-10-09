@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 5,
+    "3": 2,
+    "4": 4,
+    "5": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "Frictionless parallel bullets and a stock 'Fixed a bug where' line, with no authorial voice.",
+    "4": "Even bold kickers and perfectly balanced clauses — a generated changelog scaffold.",
+    "5": "Flat, interchangeable 'one by one' / 'didn't display correctly' wording with no specific voice."
+  },
+  "reason": "Version 1 is the only draft that sounds like a skilled person chose the words and still finished the notes; 3 and 5 are competent but generic, 4 is a rigid label template, and 2 is an unedited brain dump.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "E",
+    "3": "track2/B5-int",
+    "4": "O",
+    "5": "track2/A-int"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 2,
+    "3": 1,
+    "4": 6,
+    "5": 4,
+    "6": 3
+  },
+  "send": "3",
+  "tells": {
+    "1": "none",
+    "2": "The closing sequence feels engineered for warmth: 'Maybe you gave money' followed by 'Either way, you're part of this.'",
+    "3": "The familiar 'donated, raised funds or cheered us on' list is slightly formulaic.",
+    "4": "The scenic opening, 'heartfelt thank you' and symbolic explanation of the Land Rover layer generic sentiment onto concrete news.",
+    "5": "'We're glad to have it joining the team' feels like added warmth without much substance.",
+    "6": "'As autumn settles over the hills, thank you' awkwardly attaches decorative seasonal language to a direct expression of thanks."
+  },
+  "reason": "Version 3 is clear, warm and restrained, giving the news and invitation without making the gratitude feel performed; version 2 has more personality but adds unverified details and stronger claims. Version 1 feels plausibly unassisted but needs substantial tightening; these rankings assess editorial effect, not actual authorship.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "C",
+    "3": "A",
+    "4": "O",
+    "5": "B5",
+    "6": "B3"
+  }
+}

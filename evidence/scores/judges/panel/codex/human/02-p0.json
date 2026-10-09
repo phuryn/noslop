@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 1,
+    "3": 2,
+    "4": 4,
+    "5": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "Repeated 'Would you be open to' sounds templated; the duplicate greeting suggests careless editing rather than AI specifically.",
+    "2": "none",
+    "3": "none",
+    "4": "Two consecutive permission-seeking questions and 'discuss where we might fit' give it a stock sales-template feel.",
+    "5": "The closing phrase 'whether that fits what you need' feels slightly labored."
+  },
+  "reason": "Version 2 makes the service and reliability claim easy to understand, then connects them naturally to the prospect's needs with one clear ask. Version 3 is tighter but slightly abrupt; these are editorial judgments, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "C",
+    "3": "B3",
+    "4": "O",
+    "5": "A"
+  }
+}

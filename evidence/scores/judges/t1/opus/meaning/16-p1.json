@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1
+  },
+  "reason": "Version 3 stays closest, with minor shifts: it drops 'found myself' and tightens 'hadn't given much thought' to 'hadn't thought'. Version 1 keeps the involuntary nuance ('caught myself') but changes 'teach again' to 'teach them better' and 'something' to 'things'. Version 2 drops 'the usual things' and recasts the retirement reflection as 'always… never as a way of leaving the room', losing 'spent so long' and 'actually leave'.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B",
+    "3": "A"
+  }
+}

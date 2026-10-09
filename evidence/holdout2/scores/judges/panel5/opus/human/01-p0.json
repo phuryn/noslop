@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1,
+    "4": 4
+  },
+  "send": "3",
+  "tells": {
+    "1": "Tidy 'Highlights' and 'Ask' section headers on a three-line email feel slightly templated, though still plausible for an investor update.",
+    "2": "Bullets are fine, but the closing 'If you want to dig into anything, just reply here' plus the parallel bullet cadence reads a bit formulaic.",
+    "3": "none",
+    "4": "Markdown bold on the subject line and bolded 'label: explanation' bullets, plus filler like 'As always' and 'really appreciate' — classic AI formatting and padding."
+  },
+  "reason": "Version 3 says everything in plain prose with no scaffolding, which is how a founder writes a short update that has only three facts. Version 4's bold-heavy, label-colon bullets and bolded subject line are the clearest AI tells.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "B5",
+    "3": "A",
+    "4": "O"
+  }
+}

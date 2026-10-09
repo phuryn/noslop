@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "Version 1 most closely preserves the original’s meaning and explicit time-saving benefit. Versions 2 and 3 slightly narrow the promise to starting directly with mixing or stirring; version 3 additionally replaces a quiet moment with having the last crumb “all to yourself,” adding an exclusivity nuance.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B"
+  }
+}

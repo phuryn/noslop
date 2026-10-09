@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 3,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "The explanation 'which means you'll be among the very first to taste it' feels padded after 'for the first time'.",
+    "2": "Stacked emojis, repeated event details, and generic seasonal phrasing make it feel like a social-post template.",
+    "3": "none",
+    "4": "none"
+  },
+  "reason": "Version 4 has the best balance of clear information, natural pacing, and warmth. Version 1 is personable but slightly padded; version 3 compresses too much into one sentence, while version 2 feels overpackaged. These are stylistic judgments, not proof of authorship.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "O",
+    "3": "A",
+    "4": "B3"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 5,
+    "2": 4,
+    "3": 2,
+    "4": 1,
+    "5": 3
+  },
+  "reason": "Version 4 preserves all key facts and nuances; Version 3 and 5 omit but do not alter facts, while Version 2 changes the 2025 season to last year's fires and Version 1 adds unsupported claims and loses key details.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "C",
+    "3": "A",
+    "4": "B5",
+    "5": "B3"
+  }
+}

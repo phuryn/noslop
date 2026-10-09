@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 1,
+    "4": 4
+  },
+  "reason": "Version 3 stays closest to all facts and the original commitment/nuance. Version 2 is next, preserving the founder idea via 'started it' and retaining the privilege/voice/years points, while Version 1 drops the privilege/voice nuance and Version 4 adds a new claim and loses the years-to-come commitment.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "C",
+    "3": "B5",
+    "4": "A"
+  }
+}

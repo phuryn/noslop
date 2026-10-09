@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 5,
+    "2": 4,
+    "3": 2,
+    "4": 3,
+    "5": 1
+  },
+  "reason": "Version 5 preserves the original most closely; version 3 strengthens the claim about customers’ contribution, while version 4 omits some meaning about book selection and visits helping the shop grow. Version 2 adds unsupported stocking preferences and changes the speaker and hypothetical book history; version 1 makes larger changes, including “a little over 400,” current overcrowding, and longing for the original space.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "C",
+    "3": "B5",
+    "4": "A",
+    "5": "B3"
+  }
+}

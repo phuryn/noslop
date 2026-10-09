@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 1,
+    "4": 3
+  },
+  "send": "3",
+  "tells": {
+    "1": "A salesy wrap-up ('a practical way to get a fuller picture of your dog's health and make the most of their yearly checkup') plus em-dash pivots and hedged filler like 'noticeable symptoms' and 'helping guide care'",
+    "2": "none; it's plain and tight, if a bit flat",
+    "3": "none, though the closing line ('we'd rather explain what the panel is for than push it') leans slightly toward performed candor",
+    "4": "The same tacked-on benefit closer as version 1 ('a practical way to get a fuller picture... and more out of the checkup'), plus the generic 'which helps guide their care' add-on"
+  },
+  "reason": "Version 3 has clinic-specific evidence (the 1-in-5 figure, the beagle), practical nuance (later start for small breeds), and an honest note on cost, so it reads as written by people who actually do this work. Those figures and the anecdote must be accurate before publishing; if they can't be verified, send version 2.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "track2/A-int",
+    "3": "track2/B5-int",
+    "4": "B5"
+  }
+}

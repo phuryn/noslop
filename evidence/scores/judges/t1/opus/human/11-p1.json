@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 4,
+    "4": 2
+  },
+  "send": "2",
+  "tells": {
+    "1": "Slightly flattened, trimmed phrasing ('nights that end', 'cooks want to work for you') that loses some of the voice's rhythm and specificity",
+    "2": "Bold label-colon section headers ('What you'll do:', 'What we're after:') are a common template pattern, though normal for job posts",
+    "3": "Forced casual insertions ('honestly, that's the fun part', 'your opinion will actually count') and a run of sentences starting with 'You'll'",
+    "4": "none"
+  },
+  "reason": "Version 2 keeps the strongest, most natural kitchen voice ('slammed on the weekends', 'the kind of person cooks want to work for'), and its headers help candidates scan the post. Version 3 reads like a humanizer pass that adds conversational filler and weakens the confident tone.",
+  "label_to_arm": {
+    "1": "B",
+    "2": "O",
+    "3": "C",
+    "4": "A"
+  }
+}

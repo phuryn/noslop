@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 5,
+    "4": 4,
+    "5": 1
+  },
+  "send": "5",
+  "tells": {
+    "1": "none. It's clunky and repetitive ('I had had... I had had'), but those are unpolished human habits, not AI ones",
+    "2": "Chopped into short declarative fragments ('I straightened... I checked... I wiped...'), as if a polished draft was broken up to sound casual. The underlying tidy structure still shows.",
+    "3": "'I found myself doing the usual things:' plus a neat tricolon and the balanced 'Some lessons... others...' semicolon. The whole thing has a smooth, generic nostalgic cadence.",
+    "4": "Same polished tricolon and semicolon balance as 3. Abstract reflections ('students I still wondered about') stand in for concrete specifics.",
+    "5": "none. Some transitions are slightly abrupt, but the specifics (period 4 AP Chem, the elephant toothpaste demo, Amina Yusuf the pharmacist) and the unflattering admission feel lived-in."
+  },
+  "reason": "Version 5 grounds the moment in concrete, checkable details and admits an uncomfortable feeling (relief, embarrassment) instead of offering tidy, generalized nostalgia. That makes it the most credible and human. Versions 3 and 4 are near-identical polished drafts, and 2 reads like a surface-level 'humanized' rewrite of them.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "C",
+    "3": "O",
+    "4": "track2/A-int",
+    "5": "track2/B5-int"
+  }
+}

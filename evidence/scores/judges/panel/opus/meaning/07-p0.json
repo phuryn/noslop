@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2
+  },
+  "reason": "Version 1 keeps every fact and only merges two sentences. Version 3 adds 'only', which is harmless because 'the remaining piece' already implies one item. Version 2 changes the meaning: 'only big piece left' suggests smaller tasks also remain, and 'on track to hit Nov 3' drops the 'target date' framing.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "C",
+    "3": "A"
+  }
+}

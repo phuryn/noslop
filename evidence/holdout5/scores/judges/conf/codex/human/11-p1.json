@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 7,
+    "2": 5,
+    "3": 2,
+    "4": 3,
+    "5": 1,
+    "6": 6,
+    "7": 4
+  },
+  "send": "5",
+  "tells": {
+    "1": "none",
+    "2": "The carefully accumulated atmospheric details and polished closing revelation make the scene feel engineered.",
+    "3": "The conversational diction feels natural, but the closing line about waiting for life to start is a stock personal-essay revelation.",
+    "4": "The breath, symbolic tea and final revelation form an unusually tidy emotional sequence.",
+    "5": "The money-versus-tea comparison and familiar closing revelation explain the scene's significance a little too neatly.",
+    "6": "The compressed ending, 'no longer waiting for my life to start,' turns a moment of happiness into an overly definitive transformation.",
+    "7": "The breath, symbolic tea and final revelation form an unusually tidy emotional sequence."
+  },
+  "reason": "Version 5 has the strongest pacing and clearest scene, though its added particulars need verification if this is nonfiction; version 1 feels spontaneous but lacks editorial control. These are stylistic judgments, not authorship findings, and versions 4 and 7 are identical, so their required separate ranks are arbitrary.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "O",
+    "3": "C",
+    "4": "V6C",
+    "5": "B5",
+    "6": "A",
+    "7": "V6A"
+  }
+}

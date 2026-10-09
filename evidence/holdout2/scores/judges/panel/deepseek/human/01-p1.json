@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "bolded section headings and key metric labels"
+  },
+  "reason": "Version 1 feels the most spontaneous and human, but Version 2's light structure makes it clearer and more credible for investors without the AI-style bold formatting of Version 3.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "O"
+  }
+}

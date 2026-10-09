@@ -1,0 +1,11 @@
+{
+  "send": "3",
+  "reason": "It keeps the same offer, launch date, signup timing and no-pressure caveat, while preserving the warmth and personal voice of the original. It trims repetition without adding promises or losing the thank-you.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "C",
+    "3": "B5",
+    "4": "A"
+  },
+  "picked_arm": "B5"
+}

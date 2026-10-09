@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 5,
+    "3": 2,
+    "4": 3,
+    "5": 1
+  },
+  "send": "5",
+  "tells": {
+    "1": "Overworked symmetry: “A little measuring done. A little joy delivered.” adds a manufactured flourish before the product explanation.",
+    "2": "Mechanical compression leaves awkward phrases such as “start at the mixing” and “Each kit is $34 a month,” while removing useful section headings.",
+    "3": "The “Maybe ... Maybe ... Either way” sequence feels like a formula for adding conversational warmth.",
+    "4": "“Start at the stirring” sounds strained, and “Either way” supplies a generic transition.",
+    "5": "none"
+  },
+  "reason": "Version 5 offers the clearest product explanation, useful scanning structure, and warmth without much verbal decoration; I would shorten “Skip the weighing out” to “Skip the weighing.” These rankings reflect editorial impressions, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "A",
+    "3": "C",
+    "4": "B",
+    "5": "B3"
+  }
+}

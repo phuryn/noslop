@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "4": 3,
+    "3": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Light synonym smoothing ('hurt', 'Results') flattens the sharper phrasing without adding clarity.",
+    "3": "Stock lead-in 'The consequences are significant', bold pseudo-headings, and bolded bullet leads give it a template cadence.",
+    "4": "Nominalized 'call-out handling' and 'visibility into', plus one packed paragraph that flattens four distinct impacts."
+  },
+  "reason": "Version 1 is the one a skilled PM would actually send: scannable, specific, and voiced without filler or over-formatting. Version 2 is a close paraphrase that loses a little edge, while 3 and 4 drift into corporate template language.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "B5",
+    "3": "O",
+    "4": "track2/A-int"
+  }
+}

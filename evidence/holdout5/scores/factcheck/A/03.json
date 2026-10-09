@@ -1,0 +1,25 @@
+{
+  "dropped": [
+    {
+      "item": "Explicit call to action: 'Want one? Head to the shop on October 21 and grab yours.' The date and shop are still mentioned, but the direct prompt to buy is gone.",
+      "severity": "minor"
+    },
+    {
+      "item": "'a few surprises' among the 40 new cards",
+      "severity": "minor"
+    },
+    {
+      "item": "'You're first in line' for preorderers (mostly redundant with the shipping-priority line)",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "In the original, 'a few surprises' change how usual strategies play out. The edit attributes this effect to the new tools and twists in general.",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

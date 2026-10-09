@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 5,
+    "2": 4,
+    "3": 3,
+    "4": 2,
+    "5": 1
+  },
+  "reason": "Version 5 preserves the facts, request, and exploratory 'fit' caveat most directly. Version 4 is close but slightly changes 'last-minute delivery needs' to 'loads'; Version 3 drops the 'fit' caveat, while Versions 2 and 1 add or alter scope details, with Version 1 adding the most unsupported or limiting changes.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "C",
+    "3": "B3",
+    "4": "A",
+    "5": "B5"
+  }
+}

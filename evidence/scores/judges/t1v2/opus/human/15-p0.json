@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 3,
+    "3": 2,
+    "4": 4,
+    "5": 1
+  },
+  "send": "5",
+  "tells": {
+    "1": "Stock marketing filler like 'guidance you can trust', 'keep your recovery moving' and the vague 'unlock more of what the app has to offer'",
+    "2": "Over-sanded flatness; the vague 'adds more to the app' reads like a filler phrase that was stripped down rather than rewritten",
+    "3": "The tidy 'so you always know what to do and how to do it right' payoff clause in the opener",
+    "4": "Mechanical, parallel 'X, so Y' bullet construction and the generic 'unlocks additional features'",
+    "5": "none"
+  },
+  "reason": "Version 5 has a consistent conversational voice ('Maybe you're bouncing back...', 'tweak your plan', 'we'll give you a nudge') and stays clear and concrete without hype. Version 3 is a close, cleaner runner-up. Version 1 leans hardest on generic marketing filler.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B",
+    "3": "B2",
+    "4": "A",
+    "5": "C"
+  }
+}

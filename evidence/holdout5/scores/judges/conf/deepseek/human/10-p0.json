@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 2,
+    "3": 7,
+    "4": 3,
+    "5": 6,
+    "6": 1,
+    "7": 4
+  },
+  "send": "2",
+  "tells": {
+    "1": "Smooth abstract phrasing like 'Growth brings changing needs' and the comfort/function/everyday-life triad.",
+    "2": "The polished triad 'comfort, function and everyday life at the heart of the conversation' is the clearest AI-sounding phrase.",
+    "3": "None — it has human errors and plain phrasing rather than AI polish.",
+    "4": "The clipped triad 'comfort, function and everyday life at the centre' feels like an AI summary.",
+    "5": "Formal over-explanation: 'fit has to be checked repeatedly and is not settled at a single appointment.'",
+    "6": "The triad 'comfort, function and everyday life at the heart of it' is the main tell; otherwise natural.",
+    "7": "The polished triad 'comfort, function and everyday life at the heart of the conversation.'"
+  },
+  "reason": "Version 6 reads as the most naturally human with idiomatic, plain phrasing. I would send version 2 because it balances that conversational human tone with the polish and credibility expected in a conference bio.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "V6A",
+    "3": "E",
+    "4": "B5",
+    "5": "A",
+    "6": "C",
+    "7": "V6C"
+  }
+}

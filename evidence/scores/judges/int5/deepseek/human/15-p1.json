@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Vague premium line ('get more of what the app has to offer') and generic progress phrasing ('see how far you've come').",
+    "3": "Flat, formulaic declarative sentences and repeated 'Stepwise' with no human voice or specificity.",
+    "4": "Polished but generic trust clichés ('guidance you can trust') and a vague premium benefit ('unlock more of what the app has to offer')."
+  },
+  "reason": "Version 1 reads most human and is strongest overall because it uses a specific problem hook, concrete details like 312 videos and Gwen Harper's recovery, and a clear premium benefit (custom PT programs).",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "B5",
+    "3": "track2/A-int",
+    "4": "O"
+  }
+}

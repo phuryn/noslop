@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 3,
+    "4": 2
+  },
+  "reason": "V1 keeps every fact and hedge ('might otherwise,' 'helped'). V4 adds a 'most utilities' claim, the stronger 'nobody knew about,' and a 'what didn't' commitment; V3 drops the 'might/help' hedges and inflates the speaker's role to 'lead'; V2 invents a speaker name ('Mr. Matela'), overstates usefulness ('very helpful'), and drops the 'otherwise unnoticed' nuance.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "E",
+    "3": "A",
+    "4": "C"
+  }
+}

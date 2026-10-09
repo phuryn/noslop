@@ -1,0 +1,11 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2
+  },
+  "reason": "Version 1 keeps the cutaway being added to the booth and the full “engine cutaway display specs” action. Version 2 drops “to the booth” and shortens that item to “engine cutaway specs,” losing stated specificity.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3"
+  }
+}

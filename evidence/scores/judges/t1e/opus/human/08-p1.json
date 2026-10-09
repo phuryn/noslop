@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 4,
+    "4": 1
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Slightly padded participial add-on ('which helps guide care as your dog ages')",
+    "3": "Em dashes plus a salesy closing tagline ('a practical way to get a fuller picture... make the most of their yearly checkup')",
+    "4": "none"
+  },
+  "reason": "Version 4 has authentic clinic-newsletter quirks (a rhetorical question, inconsistent 'his'/'it', a capitalized product name) but is wordy, while version 3 ends with an AI-style marketing flourish. Version 1 gives the same information most cleanly and credibly, with no filler.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "O",
+    "4": "E"
+  }
+}

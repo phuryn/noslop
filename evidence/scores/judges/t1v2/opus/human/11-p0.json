@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 5,
+    "3": 1,
+    "4": 4,
+    "5": 3
+  },
+  "send": "3",
+  "tells": {
+    "1": "none; only small tweaks ('the chef is out', a colon split into two sentences) that slightly flatten the rhythm",
+    "2": "Inserted conversational filler ('honestly, that's the fun part', 'your opinion will actually count') plus templated bold section labels",
+    "3": "none",
+    "4": "Templated bold headers ('What you'll do:', 'What we're after:') that break up a post that reads better as prose",
+    "5": "Stiff 'The pay is…' phrasing, and it drops the 'schedule you can plan a life around' line, which weakens the pitch"
+  },
+  "reason": "Version 3 has the most natural voice and rhythm, with the concrete fire-kitchen details intact and no filler or template scaffolding. The others either add formulaic headers and chatty filler or lose small, useful details.",
+  "label_to_arm": {
+    "1": "B",
+    "2": "C",
+    "3": "B2",
+    "4": "O",
+    "5": "A"
+  }
+}

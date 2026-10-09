@@ -1,0 +1,42 @@
+{
+  "dropped": [
+    {
+      "item": "Framing the work as a 'privilege'",
+      "severity": "minor"
+    },
+    {
+      "item": "'For years to come' tied to bringing music into homes; longevity now appears only in the earlier clause",
+      "severity": "minor"
+    },
+    {
+      "item": "Sense of 'caring for' the piano's future",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "Scope narrowed: the original says every piano has a future worth caring for; the edit says 'most have years of playing left in them'",
+      "severity": "minor"
+    },
+    {
+      "item": "'bring music into people's homes' became 'back into someone's home', which implies the piano returns to a home it was in before",
+      "severity": "minor"
+    },
+    {
+      "item": "'find their voice again' became 'sound right again', a more technical and less emotive claim",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "Characterization of the instruments as 'old'",
+      "severity": "minor"
+    },
+    {
+      "item": "Implication that some pianos do not have years of playing left ('most')",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

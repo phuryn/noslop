@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 2,
+    "4": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Brochure cadence ('finished last year with a 99.2% on-time rate') plus two stacked polite questions.",
+    "3": "Soft, generic 'We'd like to help' and an either/or offer with no operational detail.",
+    "4": "Corporate 'We provide' opener and a help-question packed into the proof paragraph before a second ask."
+  },
+  "reason": "Version 1 sounds like someone who runs the trucks: a defined on-time window, a real capacity limit, and a March compressor failure. The other three sand those specifics into the same interchangeable template, so 1 is the only one I would send.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "O",
+    "3": "B5",
+    "4": "track2/A-int"
+  }
+}

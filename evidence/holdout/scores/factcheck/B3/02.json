@@ -1,0 +1,12 @@
+{
+  "dropped": [],
+  "changed": [
+    {
+      "item": "Offer to share more: the original's 'Happy to share more if it sounds of interest' is an open, standalone offer conditional on interest. The edit's 'I can share more then' ties sharing more to the chat itself.",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

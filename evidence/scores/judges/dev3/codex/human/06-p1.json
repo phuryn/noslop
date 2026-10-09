@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 5,
+    "3": 4,
+    "4": 1,
+    "5": 3
+  },
+  "send": "4",
+  "tells": {
+    "1": "“A little measuring done. A little joy delivered.” feels engineered for symmetry, with vague emotional language substituting for a concrete benefit.",
+    "2": "The compression produces awkward phrases such as “start at the mixing” and “Each kit is $34 a month,” while removing useful section headings.",
+    "3": "“Maybe ... Maybe ... Either way” feels like a formula for adding conversational warmth.",
+    "4": "none",
+    "5": "none"
+  },
+  "reason": "Version 4 has the best balance of warmth, clarity, and scannable structure; version 1 has a stronger copywriting voice but occasionally overplays it. Version 5 is concrete but slightly awkward, version 3 sounds more deliberately conversational, and version 2 loses polish and structure through compression; these are stylistic judgments, not evidence of authorship.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "A",
+    "3": "C",
+    "4": "B5",
+    "5": "B3"
+  }
+}

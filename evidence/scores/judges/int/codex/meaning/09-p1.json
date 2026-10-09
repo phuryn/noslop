@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "Version 1 preserves the core facts and commitments, the emphasis on failure after only five months, and thanks for the customer's patience. Version 2 drops that thanks and narrows the question invitation to before shipment; version 3 additionally removes the emphasis on premature failure and softens the acknowledgment of the delayed reply.",
+  "label_to_arm": {
+    "1": "track2/B3-int",
+    "2": "B3",
+    "3": "track2/A-int"
+  }
+}

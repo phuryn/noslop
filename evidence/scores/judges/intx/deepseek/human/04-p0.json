@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 5,
+    "3": 2,
+    "4": 4,
+    "5": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Choppy instructional sentences and a formulaic 'Finally, a quick reminder' transition.",
+    "3": "Slightly generic, polished phrasing and a predictable 'hardest part' contrast.",
+    "4": "Clunky 'which is leaving them alone' clause and abrupt 'Also' transition.",
+    "5": "Em-dash consolidation and tightly balanced colon contrast typical of AI."
+  },
+  "reason": "Version 1 feels most like a skilled human writer: it has idiomatic warmth ('hard bit', 'natter'), a natural flow, and no formulaic AI transitions. It is clear, credible, and engaging without sounding over-polished.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "E",
+    "3": "track2/A-int",
+    "4": "track2/B5-int",
+    "5": "O"
+  }
+}

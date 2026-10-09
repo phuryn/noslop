@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 6,
+    "5": 3,
+    "6": 5
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "The phrasing \"Your new delivery date is\" feels a bit template-like.",
+    "3": "\"I understand the delay has been inconvenient\" sounds like a generic support-bot empathy line.",
+    "4": "Wordy filler such as \"I can tell you that\" and \"To say sorry for the delay\" makes it feel artificially padded.",
+    "5": "The extra emotional line about waiting for something you've been looking forward to feels slightly overdone for the situation.",
+    "6": "\"I appreciate the inconvenience this delay has caused\" is polished but impersonal and corporate-sounding."
+  },
+  "reason": "Version 1 is the best balance of concise, clear, apologetic, and practical, without sounding overly scripted or over-emotive. It reads like a competent human support agent handling a straightforward service failure.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "B5",
+    "3": "A",
+    "4": "E",
+    "5": "C",
+    "6": "O"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "send": "3",
+  "reason": "Version 3 preserves all the key facts and nuances: annual bloodwork after age 7, early detection of health markers, baseline tracking, and the $129 panel as a practical way to get more from the checkup. It also reads naturally and closest to the original intent.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "E",
+    "3": "B5",
+    "4": "C"
+  },
+  "picked_arm": "B5"
+}

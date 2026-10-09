@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 1,
+    "4": 5,
+    "5": 3
+  },
+  "reason": "Version 3 is most faithful because it preserves the key facts, benefits, caveat, and lesson with only minor omissions. Version 1 is close but narrows the lesson and omits the closing-gap statement; Version 5 omits both the lesson and closing-gap statement; Version 2 adds unsupported timing and a one-month trial while changing some nuances; Version 4 makes absolute or changed claims and loses several original nuances.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "C",
+    "3": "B5",
+    "4": "E",
+    "5": "A"
+  }
+}

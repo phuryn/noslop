@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 4,
+    "4": 1
+  },
+  "reason": "Version 4 preserves the key facts, rollout details, support offer, reassurance, and closing most faithfully; Version 1 is close but omits the closing thank-you. Version 2 keeps the product facts but drops the no-question reassurance, while Version 3 introduces less faithful changes such as 'plugging in' and 'the person in front of you'.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "C",
+    "4": "B5"
+  }
+}

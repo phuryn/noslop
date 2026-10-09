@@ -1,0 +1,11 @@
+{
+  "send": "1",
+  "reason": "It keeps every original fact and adds what I said to include: the 4-day week, Friday at 180 covers, whole-animal butchery, 100% employee health insurance, our last sous and Luis. It also drops the 'nights that actually end' promise and the unbacked 'real say' claim, which versions 2 and 4 still make and 3 butchers.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "track2/A-int",
+    "3": "E",
+    "4": "C"
+  },
+  "picked_arm": "track2/B5-int"
+}

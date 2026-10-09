@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 1
+  },
+  "reason": "Version 3 stays closest to the original wording and preserves all key facts, numbers, and commitments; version 2 is also faithful but slightly loosens a phrase; version 1 changes the milestone wording and adds/exaggerates heat and cold descriptions.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B3"
+  }
+}

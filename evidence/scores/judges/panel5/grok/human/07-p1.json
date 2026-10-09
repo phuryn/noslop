@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 5,
+    "4": 4,
+    "5": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Redundant “target date” and the compressed “with only X left” clause sound like a polished status-report template.",
+    "3": "Three short, evenly paced sentences and the stock line “The remaining piece is” read like a template.",
+    "4": "“X is the remaining piece” plus “target date” feels like a mechanical rephrase for variety.",
+    "5": "Opens with a formal noun-phrase subject (“The mobile login migration… is about 80% done”) instead of a person."
+  },
+  "reason": "Version 1 sounds like someone actually posting in Slack: first person, a contraction, and a casual “hit Nov 3.” The others drift into status-report cadence, especially “remaining piece” and “target date.”",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "O",
+    "4": "B3",
+    "5": "B5"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1
+  },
+  "reason": "Version 3 preserves the core apology, factual outage details, the explicit acknowledgment that it disrupted the day, and the £15 credit terms, omitting only the illustrative activity examples and final apology. Version 1 keeps those examples but loses the explicit 'disrupted your day' acknowledgment, and Version 2 loses both the examples and the closing thank-you.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "B3",
+    "3": "A"
+  }
+}

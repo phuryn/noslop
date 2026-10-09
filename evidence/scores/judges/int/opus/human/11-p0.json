@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none; the only weak spots are stock phrases like 'without turning the kitchen into a pressure cooker'",
+    "2": "Rule-of-three cadence ('real days off, nights that actually end, and a schedule you can plan a life around') plus the vague 'when it counts' and 'real say'",
+    "3": "Templated bold section labels ('What you'll do:', 'What we're after:') and en-dash formatting give it a generated, form-filled feel",
+    "4": "Generic hook ('we're slammed on the weekends, and we like it that way') and the vague 'when it counts' instead of concrete detail"
+  },
+  "reason": "Version 1 has specifics that only an insider would write: 180 covers on Friday, a crew of six, a four-day week, fully covered health insurance, and named promotion stories. That makes it the most credible and human. The other three share the same polished, generic phrasing, and Version 3 adds template formatting on top.",
+  "label_to_arm": {
+    "1": "track2/B3-int",
+    "2": "B3",
+    "3": "O",
+    "4": "track2/A-int"
+  }
+}

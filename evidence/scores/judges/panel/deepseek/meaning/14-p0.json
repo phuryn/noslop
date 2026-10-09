@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 4,
+    "3": 2,
+    "4": 1
+  },
+  "reason": "Version 4 preserves the original meaning and details most closely; version 3 is close but omits a few supporting lines. Version 1 alters or adds specific claims, and version 2 introduces factual/nuance changes and omits key original points.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "E",
+    "3": "A",
+    "4": "B3"
+  }
+}

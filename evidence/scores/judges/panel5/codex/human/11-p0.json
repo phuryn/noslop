@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 6,
+    "3": 3,
+    "4": 1,
+    "5": 4,
+    "6": 5
+  },
+  "send": "4",
+  "tells": {
+    "1": "The polished trio of lifestyle promises feels formulaic and goes beyond what the stated opening hours establish.",
+    "2": "none",
+    "3": "Stock conversational transitions and neatly balanced lists make the voice feel slightly manufactured.",
+    "4": "The 'third plate of the night' detail feels like specificity added for authenticity: why the third plate?",
+    "5": "Repeated recruitment headings and polished conversational phrases give it a template feel.",
+    "6": "“Honestly,” “actually count,” and the closing rhetorical question feel like deliberate attempts to manufacture informality."
+  },
+  "reason": "Version 4 has the best balance of natural rhythm, concision, and clear expectations, though its schedule promises still need verification. Version 2 may look spontaneously human, but its shouting and errors undermine skilled authorship; these rankings judge editorial effect, not actual provenance.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "E",
+    "3": "B5",
+    "4": "A",
+    "5": "O",
+    "6": "C"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2
+  },
+  "reason": "Version 1 preserves all key facts, deadlines, scope, and requirements, with only minor rhetorical omissions. Version 2 loses or weakens some nuances, including \"without exception,\" \"or harm,\" and the emphasis on prompt, accurate early-warning reporting.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A"
+  }
+}

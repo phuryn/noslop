@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 4,
+    "4": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "The accumulation of precise numbers, a named anecdote, candid setbacks and a contrarian aside feels engineered to signal authenticity.",
+    "4": "Generic conference-copy scaffolding: 'This talk explores,' 'shares lessons' and 'practical considerations.'"
+  },
+  "reason": "Version 2 reads most cleanly, but I would send version 1 because it carefully describes leak detection as contributing to the reduction rather than claiming full credit. Version 3 adds substantial factual claims absent from the others that would need verification; its apparent candor does not establish human authorship.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "track2/A-int",
+    "3": "track2/B5-int",
+    "4": "O"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3,
+    "4": 4
+  },
+  "send": "2",
+  "tells": {
+    "1": "Smooth but generic. It has no concrete detail about the kitchen, and lines like 'keeping standards high without turning the kitchen into a pressure cooker' read like stock phrasing.",
+    "2": "none",
+    "3": "A polished rule-of-three ('real days off, nights that actually end, and a schedule you can plan a life around'), plus a 'Day to day,' opener. It's more polished than lived-in.",
+    "4": "Template formatting: bolded 'What you'll do / What we're after / Pay' labels and an en-dash title, which reads like a generated job-post scaffold."
+  },
+  "reason": "Version 2 has specifics only an insider would know: six cooks, about 180 covers on Friday, whole-animal butchery, a sous who stayed four years, Luis moving up from dish, and fully covered health insurance. That makes it the most credible and human. The other three share the same generic copy, and Version 4's heading scaffold is the most template-like.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "track2/B5-int",
+    "3": "B5",
+    "4": "O"
+  }
+}

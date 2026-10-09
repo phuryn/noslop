@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2,
+    "4": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Overly condensed sentence structure; it reads like a summary generated from bullet points rather than a natural invite.",
+    "3": "none",
+    "4": "Emoji-heavy bullet formatting and a duplicate footer with details already stated; classic AI social-post pattern."
+  },
+  "reason": "Version 1 feels most like a real person wrote it for the farm: it is warm, straightforward, and inviting without the over-formatting or compressed phrasing of the others.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "A",
+    "3": "B3",
+    "4": "O"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "send": "2",
+  "reason": "It keeps all the original facts, commitments, and caveats, including the free public event, six telescopes, warm clothing, and cloudy-weather indoor talk. It also reads most like the original announcement.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B5",
+    "4": "V6A",
+    "5": "E",
+    "6": "V6C"
+  },
+  "picked_arm": "A"
+}

@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 3,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "Mild stock encouragement: 'helps you stay consistent' and 'see how far you've come.' Otherwise clear and restrained.",
+    "2": "Generic promotional padding: 'guidance you can trust,' 'BUILT FOR REAL RECOVERY,' and 'unlock more of what the app has to offer.'",
+    "3": "The founder aside, named recovery story, precise exercise count, and review statistics feel crowded in to establish authenticity rather than integrated into the description.",
+    "4": "none"
+  },
+  "reason": "Version 4 reads most like disciplined professional copy: direct, clear, and measured; version 1 is a close second. Version 3 adds factual claims that need substantiation, while version 2 adds promotional language without useful detail; neither tendency proves AI authorship.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "O",
+    "3": "track2/B3-int",
+    "4": "track2/A-int"
+  }
+}

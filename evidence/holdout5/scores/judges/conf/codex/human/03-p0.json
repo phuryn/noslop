@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 5,
+    "4": 4,
+    "5": 6,
+    "6": 7,
+    "7": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "Paired three-part lists and the canned 'Want one too?' give it a slightly formulaic marketing rhythm.",
+    "2": "none",
+    "3": "The polished 'what’s in the box' framing overlooks that a fifth player is a capability, not a box component.",
+    "4": "Successive 'more explorers, more crossings, more arguments' and 'new tools, new twists' lists feel mechanically patterned.",
+    "5": "Stock promotional framing; 'is here' also sits awkwardly with the future launch date.",
+    "6": "none",
+    "7": "none"
+  },
+  "reason": "Version 2 is natural, clear, and complete, with enough personality and a direct purchase instruction. These are stylistic judgments, not evidence of authorship; version 6 ranks last because its awkward phrasing, inconsistent timing, and unsupported urgency weaken it as skilled customer communication.",
+  "label_to_arm": {
+    "1": "V6C",
+    "2": "C",
+    "3": "V6A",
+    "4": "B5",
+    "5": "O",
+    "6": "E",
+    "7": "A"
+  }
+}

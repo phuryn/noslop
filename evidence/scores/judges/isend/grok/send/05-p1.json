@@ -1,0 +1,11 @@
+{
+  "send": "4",
+  "reason": "Version 4 keeps every fact, metric, caveat, and non-goal, and still sounds like the original draft. The others drop commitments, shift small meanings, or change the voice.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "C",
+    "3": "B5",
+    "4": "A"
+  },
+  "picked_arm": "A"
+}

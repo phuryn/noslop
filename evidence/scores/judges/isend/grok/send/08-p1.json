@@ -1,0 +1,11 @@
+{
+  "send": "2",
+  "reason": "Version 2 keeps every commitment—more than vaccines, the age-7 emphasis, hedged early detection of the same markers, an annual baseline that guides care, and the $129 panel as a practical way to get a fuller picture and more from the checkup—while still sounding like the original voice.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B5",
+    "3": "C",
+    "4": "E"
+  },
+  "picked_arm": "B5"
+}

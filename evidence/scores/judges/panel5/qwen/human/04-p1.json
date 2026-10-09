@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 5,
+    "4": 6,
+    "5": 2,
+    "6": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "the em-dash appositive makes it feel overly polished and AI-packaged",
+    "3": "choppy, repetitive sentences and 'plant out' feel simplified rather than expert",
+    "4": "flat, safe phrasing and mechanical transitions remove personality",
+    "5": "the exclamation and 'natter' are a touch performatively cosy, though still human",
+    "6": "none"
+  },
+  "reason": "Version 1 has the best balance of warmth, clarity, and editorial restraint, so it feels most like a skilled human newsletter voice. The others are either too polished, too flat, or slightly over-performative.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "O",
+    "3": "E",
+    "4": "B3",
+    "5": "C",
+    "6": "B5"
+  }
+}

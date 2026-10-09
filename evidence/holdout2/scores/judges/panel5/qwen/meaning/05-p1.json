@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "Version 1 retains the key facts most completely, including the demos, start-to-finish detail, first pour/tasting nuance, free entry, and appetite. Version 2 is close but softens 'very first' and blurs the demo wording, while Version 3 omits the start-to-finish detail and the explicit invitation to be among the first to taste it.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "B3",
+    "3": "A"
+  }
+}

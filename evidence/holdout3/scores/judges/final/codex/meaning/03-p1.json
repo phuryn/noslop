@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 4,
+    "3": 1,
+    "4": 2,
+    "5": 5
+  },
+  "reason": "Version 3 preserves the substance most closely; versions 4 and 1 strengthen the restocking assurance, and version 1 also drops the explicit no-pressure reassurance. Version 2 adds an unsupported promise of 'your favourite inks'; version 5 adds customer tenure and an absolute no-interruption promise while changing 'ready to share' to 'nearly ready'.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "E",
+    "3": "B3",
+    "4": "B5",
+    "5": "C"
+  }
+}

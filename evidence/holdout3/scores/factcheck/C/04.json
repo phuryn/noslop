@@ -1,0 +1,40 @@
+{
+  "dropped": [
+    {
+      "item": "Description of the Land Rover as 'a welcome addition to the team and a reminder of what your support makes possible'",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "Land Rover arrival certainty: 'is due to arrive in November' (expected) became 'arrives in November' (stated as definite)",
+      "severity": "minor"
+    },
+    {
+      "item": "'your generosity helps us be there' became 'it's your support that keeps us ready to go', which makes supporters sound like the sole cause rather than a contributing one",
+      "severity": "minor"
+    },
+    {
+      "item": "'Thanks to your donations, our new Land Rover...' became 'Your donations have also bought us a new Land Rover', which states more explicitly that donations fully paid for the purchase",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "'have a look around' as an open-day activity",
+      "severity": "minor"
+    },
+    {
+      "item": "'We can't wait to see it.' (enthusiasm about the Land Rover)",
+      "severity": "minor"
+    },
+    {
+      "item": "'just' in 'just cheered us on', which slightly downplays that form of support",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [
+    "have a look around"
+  ],
+  "meaning_preserved": 4
+}

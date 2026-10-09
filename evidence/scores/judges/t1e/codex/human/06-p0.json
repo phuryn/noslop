@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 4,
+    "4": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "Generic praise such as “amazing,” “scrumptious,” and “yummy,” plus redundant explanation of pre-measured ingredients.",
+    "4": "Stacked parallel slogans and sentence fragments make the warmth feel manufactured, especially “A little measuring done. A little joy delivered.”"
+  },
+  "reason": "Version 2 combines clear, scannable sections with natural phrasing and concrete benefits. Version 1 is restrained but less structured; 4 feels overworked, while 3 is repetitive and imprecise—stylistic judgments, not proof of authorship.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "E",
+    "4": "O"
+  }
+}

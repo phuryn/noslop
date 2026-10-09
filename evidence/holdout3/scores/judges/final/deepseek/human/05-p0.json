@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 6,
+    "2": 2,
+    "3": 1,
+    "4": 4,
+    "5": 5,
+    "6": 3
+  },
+  "send": "3",
+  "tells": {
+    "1": "Overly polished, clichéd cheerleading: 'breathing room', 'Many hands make this go fast', 'coming together beautifully ✨'.",
+    "2": "None obvious; it is direct and plain, though slightly clipped.",
+    "3": "None obvious; idiomatic, natural phrasing like 'The more of us there are, the faster it goes.'",
+    "4": "Mildly stiff, impersonal neutrality: 'mount installation' and 'install is back on track' feel less human.",
+    "5": "None obvious as AI; the comma splice 'but, that’s' and missing 'it' read as human error, not AI polish.",
+    "6": "Generic upbeat closer 'Deep Time is coming together well' and a slightly too balanced overall tone."
+  },
+  "reason": "Version 3 sounds most like a skilled colleague: clear, warm, and natural without over-polish. Version 1 is overdone, while version 5 is human but unpolished.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B3",
+    "3": "C",
+    "4": "A",
+    "5": "E",
+    "6": "B5"
+  }
+}

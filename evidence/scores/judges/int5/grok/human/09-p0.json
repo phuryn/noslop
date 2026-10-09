@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "The stock line \"That's not the experience we want you to have,\" dropped in after the resolution.",
+    "3": "Template bookends: \"sorry to hear\" plus that same stock empathy line, then a second apology for \"the inconvenience.\"",
+    "4": "none"
+  },
+  "reason": "Version 1 reads like a skilled agent: specific, warm, and done, without scripted filler. Version 3 is the most templated, and version 2’s corporate empathy line and apology-after-the-answer order undercut an otherwise clear note.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "track2/B5-int",
+    "3": "O",
+    "4": "track2/A-int"
+  }
+}

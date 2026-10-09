@@ -1,0 +1,11 @@
+{
+  "send": "4",
+  "reason": "Version 4 keeps the original facts, caveats, and commitments intact—including the 2025 season, his long-term perspective, and how research can inform decisions—while reading naturally. The other versions either omit key nuance or introduce inaccuracies like 'last year's fires.'",
+  "label_to_arm": {
+    "1": "E",
+    "2": "A",
+    "3": "C",
+    "4": "B5"
+  },
+  "picked_arm": "B5"
+}

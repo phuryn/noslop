@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 5,
+    "3": 2,
+    "4": 4,
+    "5": 3,
+    "6": 6
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "explanatory filler such as 'It was somehow' and 'What surprised me' over-explains the emotional turn",
+    "3": "hedged signposting like 'somehow' and 'surprised by how little I minded' feels AI-smoothed",
+    "4": "abstract labels like 'kindness and patience' and 'humbling and liberating' replace concrete feeling",
+    "5": "clinical phrasing 'rather than a character flaw' and overly neat antithesis feel machine-polished",
+    "6": "added hedges and explicit emotional signposting ('somehow', 'What surprised me') make it feel over-managed"
+  },
+  "reason": "Version 1 has the most natural voice, concrete detail, and emotional restraint. The others are more hedged, abstract, or overly tidy, although version 4 has some human voice but less polish.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B5",
+    "4": "E",
+    "5": "B3",
+    "6": "O"
+  }
+}

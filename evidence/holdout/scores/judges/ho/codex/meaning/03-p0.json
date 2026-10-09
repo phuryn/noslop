@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 1,
+    "4": 5,
+    "5": 3
+  },
+  "reason": "Version 3 preserves all substantive details and reassurances; version 1 drops only the closing thanks, while version 5 also omits the reassurance about questions. Version 2 introduces potential availability ambiguity with “free from October 20,” while version 4 adds “plugging in,” suggests rollout is already underway, and omits the explicit step-by-step support promise.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "B",
+    "3": "B2",
+    "4": "C",
+    "5": "A"
+  }
+}

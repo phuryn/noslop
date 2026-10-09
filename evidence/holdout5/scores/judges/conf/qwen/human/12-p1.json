@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 4,
+    "3": 2,
+    "4": 7,
+    "5": 6,
+    "6": 1,
+    "7": 5
+  },
+  "send": "6",
+  "tells": {
+    "1": "polished but generic phrasing, especially 'explore the night sky'",
+    "2": "cliché 'night under the stars' and a slightly performed chatty tone",
+    "3": "stock phrase 'explore the night sky' in an otherwise clean template",
+    "4": "none",
+    "5": "over-smoothed, flattened wording that feels like an AI cleanup",
+    "6": "none",
+    "7": "flat, paraphrase-like wording, especially 'set up for looking at the night sky'"
+  },
+  "reason": "Version 6 feels the most naturally human: clear, warm and locally credible, with a touch of voice that suits a community notice. The lower-ranked versions are either too generic, over-smoothed or awkward.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "C",
+    "3": "V6C",
+    "4": "E",
+    "5": "A",
+    "6": "V6A",
+    "7": "B5"
+  }
+}

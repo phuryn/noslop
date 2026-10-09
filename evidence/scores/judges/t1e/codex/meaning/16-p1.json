@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "Version 1 preserves nearly all meaning, though it drops the explicit description of the tasks as habitual. Version 2 changes limited thought about leaving into no thought; Version 3 adds careful preparation, replaces specific lessons and lasting student influences with broad generalities, and loses the narrator’s explicit readiness to leave.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "E"
+  }
+}

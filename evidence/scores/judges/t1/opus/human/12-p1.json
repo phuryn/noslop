@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 1,
+    "3": 3,
+    "4": 2
+  },
+  "send": "2",
+  "tells": {
+    "1": "Stacked hedging and filler ('can help reveal', 'might otherwise go unnoticed', 'explores', 'practical considerations') with no concrete hook. It reads like a generic summary.",
+    "2": "The 'what worked, what didn't' formula is slightly stock, but otherwise none.",
+    "3": "None. It is mildly generic ('what the team learned') and front-loads everything into one dense sentence.",
+    "4": "None. The 'helped lead the effort' phrasing in the bio is a bit boilerplate."
+  },
+  "reason": "Version 2 opens with a relatable premise and uses a first-person voice that fits the 'We Already Had' title. It also promises candor about failures, which conference reviewers value. Versions 3 and 4 are clean but flat, and version 1 is vague and hedged.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "C",
+    "3": "B",
+    "4": "A"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 2,
+    "3": 1,
+    "4": 3,
+    "5": 4
+  },
+  "send": "2",
+  "tells": {
+    "1": "Generic conference language—“shares lessons” and “practical considerations”—makes the abstract feel formulaic.",
+    "2": "“Before making better use” feels like a stock closing phrase rather than a precise description of the talk.",
+    "3": "none",
+    "4": "Repeated “This talk covers” and “It also covers” creates a mechanical structure.",
+    "5": "The familiar “what worked, what didn't” formula and conspicuously conversational wording feel engineered for informality."
+  },
+  "reason": "Version 3 reads most like a confident human edit, but “helped lead” adds a leadership claim absent from the other versions. I would send version 2 for its clear, restrained presentation; these stylistic impressions do not establish AI authorship.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B5",
+    "3": "A",
+    "4": "B3",
+    "5": "C"
+  }
+}

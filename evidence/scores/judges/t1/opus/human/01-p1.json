@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 4,
+    "4": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "A tacked-on triad of benefits ('fewer empty chairs... less phone time... and more patients get the care they need when they need it') plus the stock engagement question at the end",
+    "2": "The 'meeting people where they already are' platitude, though the 'I think' framing softens it",
+    "3": "Templated LinkedIn scaffolding: one-line hook, 'The change was simple:', 'Here's what that meant in practice:', a three-bullet list, 'The lesson for me:', and a closing engagement question",
+    "4": "The same skeleton as 3 in casual dress, including a three-fragment triad ('Fewer empty chairs. Less time... More patients...'), an 'isn't just X. It's Y' construction and the 'What I took from this:' setup"
+  },
+  "reason": "Version 2 is tight and credible, reads like an operator talking plainly, and skips the formulaic hook, list and engagement-bait question. Version 4 is warmer, but it keeps the AI post structure underneath.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B",
+    "3": "O",
+    "4": "C"
+  }
+}

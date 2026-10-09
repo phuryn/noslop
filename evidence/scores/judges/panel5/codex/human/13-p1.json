@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 3,
+    "3": 2,
+    "4": 1,
+    "5": 4,
+    "6": 6
+  },
+  "send": "4",
+  "tells": {
+    "1": "Highly standardized structure, repeated 'Mitigation:' labels, and generic corporate phrasing such as 'stronger potential returns on incremental investment.'",
+    "2": "Conversational substitutions sometimes distort meaning: 'declining for good reasons' and putting talent and inventory 'in one place.'",
+    "3": "none",
+    "4": "Residual corporate abstractions such as 'brand pull' and 'clear performance thresholds' without supporting specifics.",
+    "5": "Lightly varied sentence openings leave the same formulaic structure and repetitive 'Mitigation:' construction intact.",
+    "6": "Conspicuously conversational rewriting throughout: 'run out,' 'let it slide,' 'walk away cleanly,' and 'make the final call' feel systematically substituted."
+  },
+  "reason": "Version 4 best combines natural professional language, clear organization, and actionable wording; version 3 has the most individual voice but needs substantial tightening. These are stylistic judgments, not proof of authorship, and even version 4 needs financial evidence and verified lease deadlines before sending.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B5",
+    "3": "E",
+    "4": "A",
+    "5": "B3",
+    "6": "C"
+  }
+}

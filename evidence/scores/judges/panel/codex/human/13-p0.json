@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 5
+  },
+  "send": "1",
+  "tells": {
+    "1": "The uniformly comprehensive lists of investments and mitigations feel slightly prepackaged, despite the natural voice.",
+    "2": "none",
+    "3": "Abstract corporate phrasing such as “declining structurally” and “stronger potential returns on incremental investment” makes the voice feel standardized.",
+    "4": "Repeated “Mitigation:” labels turn the risk discussion into a mechanical template.",
+    "5": "Formulaic bold summaries, repeated “Mitigation:” labels, and generic phrases such as “enhanced in-store experience” create the strongest template feel."
+  },
+  "reason": "Version 1 best combines a credible personal voice, clear reasoning, and useful structure; version 2 sounds spontaneous but needs tightening. Before sending version 1, I would verify the added operational commitments and correct the timing: October 2026 is already within the stated renewal window.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "E",
+    "3": "A",
+    "4": "B3",
+    "5": "O"
+  }
+}

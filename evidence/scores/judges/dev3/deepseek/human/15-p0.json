@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 5,
+    "4": 4,
+    "5": 1
+  },
+  "send": "5",
+  "tells": {
+    "1": "Uses the vague benefit phrase “get more of what the app has to offer” and the fairly generic “proper form and technique.”",
+    "2": "Relies on generic trust/marketing phrases like “guidance you can trust” and “unlock more of what the app has to offer.”",
+    "3": "Very terse and feature-list-like, with awkward phrasing such as “shows the form for the movement.”",
+    "4": "Feels clipped and template-like, including a formulaic triad and an abrupt pricing sentence.",
+    "5": "none"
+  },
+  "reason": "Version 5 reads the most natural and conversational, with varied sentence rhythm and concrete, lively wording, while still covering benefits, credibility, pricing, and the disclaimer.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "O",
+    "3": "A",
+    "4": "B3",
+    "5": "C"
+  }
+}

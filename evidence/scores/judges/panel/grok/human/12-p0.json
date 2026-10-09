@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 5,
+    "4": 4,
+    "5": 2
+  },
+  "send": "2",
+  "tells": {
+    "1": "“This talk covers… It also covers…” scaffolding, with the bio repeating the abstract’s result almost word for word.",
+    "2": "none",
+    "3": "“This talk explores,” hedged generalities, and “practical considerations” read like a filled-in template.",
+    "4": "none",
+    "5": "Compressed “this talk covers what X and what Y” closer, plus a slightly canned causal bio."
+  },
+  "reason": "Version 2 sounds like an engineer talking to peers—specific, first-person, and willing to mention what failed—while 3 is template-smooth and 4 is an unfinished draft with paste errors.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "C",
+    "3": "O",
+    "4": "E",
+    "5": "A"
+  }
+}

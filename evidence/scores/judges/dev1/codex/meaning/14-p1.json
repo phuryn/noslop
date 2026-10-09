@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2,
+    "4": 4
+  },
+  "reason": "Version 1 preserves the original most closely; version 3 is nearly equivalent but makes the need for choices implicit and changes “could make a start” to “made a start.” Version 2 drops books from the space tradeoffs and the visits’ contribution to growth, while adding a friend as recipient; version 4 adds unsupported motives and details, changes the collective voice to an individual preference, and strengthens the claim about customers’ role.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "B5",
+    "4": "C"
+  }
+}

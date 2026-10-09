@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 5,
+    "4": 3,
+    "5": 1
+  },
+  "send": "5",
+  "tells": {
+    "1": "none",
+    "2": "slightly formal, AI-like phrasing such as 'on the weekends' and 'who has done this before'",
+    "3": "template-like bold headings and the awkward phrase 'work full time, hands-on, on the line'",
+    "4": "abrupt 'Brasa Norte needs a sous chef' and clipped 'nights that end'",
+    "5": "none"
+  },
+  "reason": "Version 5 reads most like a skilled human wrote it: the phrasing is concrete and natural, and it avoids the stiff or template-like patterns in the other versions. I would send it for its authentic voice, clarity, and strong call to action.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "O",
+    "4": "B5",
+    "5": "C"
+  }
+}

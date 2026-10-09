@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "Version 1 keeps every fact, number, and caveat almost word for word, while Version 2 makes only slight rewordings (such as 'acceptable to the client' and 'Show coordinators') that change no meaning. Version 3 drops 'not for routine reassignments' and adds an unstated commitment that targets will be confirmed once baselines are measured.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "track2/B3-int",
+    "3": "track2/A-int"
+  }
+}

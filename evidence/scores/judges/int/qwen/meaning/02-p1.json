@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2
+  },
+  "reason": "Version 1 keeps the original core facts and incorporates only writer-supplied caveats and positioning, such as the 2-hour on-time definition, monitoring, capacity limit, backup/trial option, and reference. Version 3 is close to the original but omits those supplied caveats, while Version 2 turns the tentative offer into a broader capability claim and drops key nuance.",
+  "label_to_arm": {
+    "1": "track2/B3-int",
+    "2": "B3",
+    "3": "track2/A-int"
+  }
+}

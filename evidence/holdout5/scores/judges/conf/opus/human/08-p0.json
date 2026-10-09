@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 6,
+    "2": 2,
+    "3": 4,
+    "4": 3,
+    "5": 1,
+    "6": 7,
+    "7": 5
+  },
+  "send": "2",
+  "tells": {
+    "1": "Balanced parallel flourish 'with time for work and time for care' and a reassuring 'so you know what you'll pay' clause in every step",
+    "2": "Slightly over-smoothed; the hedged reassurance 'you see the price before you book' is a mild AI habit",
+    "3": "The rhythmic tagline 'with time for work and time for care' feels manufactured, though 'get your head down' is a natural idiom",
+    "4": "Each step ends with a 'so…' justification clause ('so there's nothing separate to arrange', 'so you know the price'), and 'whatever needs your attention' is filler",
+    "5": "none",
+    "6": "Em dash in the opener, 'time set aside for work and care', and 'whatever needs your attention' read as polished AI marketing copy",
+    "7": "Same parallel 'time for work and time for care' phrasing and stacked reassurance clauses as version 1"
+  },
+  "reason": "Version 5 is plainly the human original: it uses the brand name and plain phrasing, but its broken encoding ('crche', missing €) makes it unpublishable. Version 2 keeps that directness with correct formatting and no padding, so it's the one to send.",
+  "label_to_arm": {
+    "1": "V6C",
+    "2": "A",
+    "3": "C",
+    "4": "B5",
+    "5": "E",
+    "6": "O",
+    "7": "V6A"
+  }
+}

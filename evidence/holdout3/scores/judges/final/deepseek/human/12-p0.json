@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 3,
+    "3": 1,
+    "4": 2,
+    "5": 5,
+    "6": 6
+  },
+  "send": "3",
+  "tells": {
+    "1": "Uses the standard AI-friendly phrasing 'would love your help' and a slightly neat/plain structure.",
+    "2": "The exclamation after the time and the added 'while we get the trees in the ground' feel tacked on for energy.",
+    "3": "none",
+    "4": "Slightly stiff, formal date/time phrasing and a long run-on request; not strongly AI but less natural.",
+    "5": "Appends a three-part exclamatory call to action ('come along, meet your neighbours and help us...!') to otherwise standard wording.",
+    "6": "Over-polished AI-edited cadence: em dash, future progressive 'We’ll be planting', and 'these young trees'."
+  },
+  "reason": "Version 3 sounds the most like a real person speaking to neighbours while staying specific and clear. The others are more formal, generic, or over-polished.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "C",
+    "4": "E",
+    "5": "B5",
+    "6": "O"
+  }
+}

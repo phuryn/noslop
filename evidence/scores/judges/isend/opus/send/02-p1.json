@@ -1,0 +1,11 @@
+{
+  "send": "3",
+  "reason": "Version 3 keeps every fact as written: same-day within 250 miles, 99.2% on-time last year, regular routes or last-minute deliveries, and 15 minutes next week. It reads cleanly and adds no claims. Version 1 has a doubled greeting and an inflated 'a lot of' claim. Version 2 adds 'anywhere' and 'occasional'. Version 4 makes a firmer 'we could cover your regular routes' commitment.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "C",
+    "3": "B5",
+    "4": "A"
+  },
+  "picked_arm": "B5"
+}

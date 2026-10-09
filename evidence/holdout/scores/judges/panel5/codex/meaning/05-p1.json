@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+  },
+  "reason": "Versions 1–3 preserve the facts, deadline, conditional recommendation, and confirmation request, with progressively slightly more reframing. Version 4 is least faithful because it omits the explicit caveat “unless you see a reason not to,” making the Tilburg preference less conditional.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "B5",
+    "3": "C",
+    "4": "A"
+  }
+}

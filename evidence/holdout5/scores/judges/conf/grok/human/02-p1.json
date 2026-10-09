@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 7,
+    "3": 4,
+    "4": 3,
+    "5": 1,
+    "6": 6,
+    "7": 5
+  },
+  "send": "5",
+  "tells": {
+    "1": "none",
+    "2": "Empty praise stack (sustainable, high quality and beautiful) and the gloss (Mycelium)",
+    "3": "Hedged opener I wanted to ask if you'd consider, plus at no cost instead of free",
+    "4": "Throat-clearing I wanted to ask if you'd consider before the actual ask",
+    "5": "none",
+    "6": "Depersonalized Would Hearth & Wick try ... its instead of asking Priya",
+    "7": "Same as 3: hedged I wanted to ask and at no cost"
+  },
+  "reason": "Version 5 is the one I would send: short, specific, and aimed at Priya, with no hedging or unsupported praise. The weaker drafts soften the ask, address the company in the third person, or pile on marketing adjectives.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "E",
+    "3": "V6A",
+    "4": "C",
+    "5": "A",
+    "6": "B5",
+    "7": "V6C"
+  }
+}

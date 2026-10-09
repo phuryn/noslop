@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3
+  },
+  "reason": "Version 2 preserves the structural-decline claim, the hedged “potential returns,” investment and customer-capture plans, and proposed mitigations, with only minor wording shifts. Version 1 misstates the decline as “for good reasons we can’t reverse” and puts talent and inventory “in one place,” but Version 3 changes more claims and caveats—dropping “structurally,” turning “stronger potential returns” into “should return more,” and shifting capture, investment, and mitigations into firmer commitments.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "track2/B5-int",
+    "3": "track2/A-int"
+  }
+}

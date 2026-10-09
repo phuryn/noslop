@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 5,
+    "4": 4,
+    "5": 1
+  },
+  "send": "5",
+  "tells": {
+    "1": "Slightly stiff and repetitive use of 'pressure data' with a flat, summary-style closing phrase.",
+    "2": "Awkward phrase 'before making more of their own pressure data' and subtle mixed first/third-person voice.",
+    "3": "Formulaic structure: 'This talk explores...' and 'practical considerations for utilities looking to...'.",
+    "4": "Repetitive 'This talk covers...' and unnatural repeated use of 'the Authority'.",
+    "5": "none"
+  },
+  "reason": "Version 5 reads most like a person speaking directly, with natural variation and concrete, believable detail. Versions 3 and 4 lean more heavily on formulaic abstract language.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B5",
+    "3": "O",
+    "4": "B3",
+    "5": "C"
+  }
+}

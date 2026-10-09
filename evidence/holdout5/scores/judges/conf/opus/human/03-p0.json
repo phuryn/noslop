@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 5,
+    "3": 3,
+    "4": 4,
+    "5": 6,
+    "6": 7,
+    "7": 2
+  },
+  "send": "7",
+  "tells": {
+    "1": "none (the non-native phrasing like 'the best is to go to our shop' and the exclamation-heavy bullets read as genuinely human, if unpolished)",
+    "2": "Bold-lead bullets, each padded with a tidy triplet ('More explorers, more crossings, more arguments'), plus a rhetorical 'Want one?' CTA",
+    "3": "Recycled triadic flourish ('more explorers, more crossings, and more arguments') and the colon list 'new tools, new twists, and a few surprises'",
+    "4": "Over-compressed edit: 'The fifth player' appears with no setup, and the CTA for non-preorderers is dropped, so it reads trimmed rather than written",
+    "5": "Templated structure of bold-lead bullets, 'Here's what it adds:' and a chirpy rhetorical 'Want one too? Just head to…'",
+    "6": "Same template as 5, plus 'Here's what's in the box:' introducing a 5th player, which is a mismatch since a player isn't in the box",
+    "7": "none (at most a slightly stock 'shake up the strategies' phrase)"
+  },
+  "reason": "Version 1 is the most obviously human but too rough to send. Version 7 keeps a natural, plain voice, gets every fact and both CTAs across cleanly, and avoids the bold-bullet and rhetorical-question template that marks 2, 5 and 6.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "O",
+    "3": "B5",
+    "4": "A",
+    "5": "V6C",
+    "6": "V6A",
+    "7": "C"
+  }
+}

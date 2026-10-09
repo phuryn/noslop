@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 5,
+    "4": 4,
+    "5": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "The transition 'Day to day' and the added 'schedule you can plan a life around' phrase feel like generated-recruiting language.",
+    "3": "Template-style bold headings with labels such as 'What you'll do:' and 'What we're after:' are a strong LLM formatting tell.",
+    "4": "Overly performed casualness ('honestly, that's the fun part', 'your opinion will actually count') and the slightly off 'hold the standard high' read as AI trying to sound human.",
+    "5": "none"
+  },
+  "reason": "Version 1 sounds most like a real chef-operator wrote it: plainspoken, specific, and free of the templated formatting and forced informality present in the others.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B5",
+    "3": "O",
+    "4": "C",
+    "5": "B3"
+  }
+}

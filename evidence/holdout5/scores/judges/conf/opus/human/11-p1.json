@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1,
+    "4": 5,
+    "5": 7,
+    "6": 4,
+    "7": 6
+  },
+  "send": "3",
+  "tells": {
+    "1": "Folksy word swaps ('fiddled', 'lugged', 'felt the last pin go') sit oddly beside an otherwise polished, tidy epiphany arc.",
+    "2": "A neat tricolon ('the screens, the P&L, or the 7 a.m. dread') leads into a perfectly balanced 'nobody... and none...' closing moral, which feels a little too buttoned-up.",
+    "3": "none",
+    "4": "The stiff scene-setting opener 'It happened on a wet Tuesday' and one unbroken block make it feel like a mechanical recombination.",
+    "5": "none. It reads as a rough human draft, with comma splices, a garbled timeline ('locked out... for about four months') and the flat 'feeling like I was happy'.",
+    "6": "Identical to 2: a polished tricolon and a symmetrical 'nobody... none...' sentence that wraps the lesson up too neatly.",
+    "7": "The over-compressed participial ending 'no longer waiting for my life to start' and the awkward 'screens and the P&L, or' read like an edit tightening for its own sake."
+  },
+  "reason": "Version 3 keeps the concrete detail and restraint. Its paragraph break gives the realisation room, and its rhythm and punctuation feel natural and British. Version 5 is clearly human but unskilled and factually muddled, so it ranks last for a skilled-writer standard.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "V6C",
+    "3": "B5",
+    "4": "O",
+    "5": "E",
+    "6": "V6A",
+    "7": "A"
+  }
+}

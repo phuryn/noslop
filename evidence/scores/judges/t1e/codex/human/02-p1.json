@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 4,
+    "3": 2,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "The consecutive questions and vague 'where we might fit' give it a templated sales cadence.",
+    "2": "Repeated 'Would you be open to' sounds formulaic; the duplicate greeting and wordiness mainly suggest weak editing.",
+    "3": "none",
+    "4": "none"
+  },
+  "reason": "Version 4 is direct, credible, and conversational, with a clear offer and an uncomplicated meeting request. Version 3 is close, but its closing is wordier; these stylistic judgments do not establish AI authorship.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "E",
+    "3": "A",
+    "4": "B3"
+  }
+}

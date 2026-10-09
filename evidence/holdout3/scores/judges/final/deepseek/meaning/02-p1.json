@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 5,
+    "4": 4,
+    "5": 2
+  },
+  "reason": "Version 2 stays closest to the original's wording, facts, and offers. Version 5 is also highly faithful but slightly shifts 'if you'd like' to 'if you'd rather'; version 1 loses some hedging and 'chance to see'; version 4 adds 'crisp' and makes the ask more assertive; version 3 omits the trial rationale and changes sample delivery.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "E",
+    "4": "C",
+    "5": "B5"
+  }
+}

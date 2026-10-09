@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 2,
+    "4": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Emoji-heavy list structure and stock phrases such as 'celebrating all things apple' and 'good appetite for autumn' feel templated.",
+    "3": "Slightly stiff phrasing and the repeated 'first' make it feel a bit generated.",
+    "4": "Generic phrasing like 'celebrating apples' and the explanatory 'which means' clause feel machine-smoothed."
+  },
+  "reason": "Version 1 reads most like a natural farm announcement: specific, unfussy, and human-scaled. The others are usable but show more templated or generic AI-style polishing.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "O",
+    "3": "B3",
+    "4": "B5"
+  }
+}

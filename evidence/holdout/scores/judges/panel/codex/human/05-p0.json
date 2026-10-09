@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "The separate closing paragraph restates the choice after already inviting objections, making a simple request feel overworked.",
+    "3": "The 'Options:' heading and carefully segmented structure feel slightly templated for such a short Slack request.",
+    "4": "none"
+  },
+  "reason": "Version 1 leads with a clear recommendation, gives the cost comparison, and makes the deadline and response easy to act on. Version 4 is also strong, but these stylistic differences do not reliably establish AI authorship.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "O",
+    "4": "B3"
+  }
+}

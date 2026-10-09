@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "Formulaic emoji-bullet formatting and hashtag stack with a generic autumnal CTA.",
+    "2": "none",
+    "3": "Flat, compressed summary tone; details are packed into one clunky sentence without invitation or warmth."
+  },
+  "reason": "Version 2 reads like a natural, understated human note and is clearest and most credible, while 1 feels over-formatted for social and 3 feels AI-summarized.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B3",
+    "3": "A"
+  }
+}

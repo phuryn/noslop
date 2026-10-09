@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2,
+    "4": 5,
+    "5": 4
+  },
+  "reason": "Version 1 most closely preserves the original scope; version 3 slightly broadens the follow-up invitation, while version 2 adds explicit agency for the charge and fix. Version 5 omits the invitation for further questions, and version 4 changes the refund status from ongoing processing to having been started and adds an explicit promise to help.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "B",
+    "3": "B2",
+    "4": "C",
+    "5": "A"
+  }
+}

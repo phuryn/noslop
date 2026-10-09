@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 5,
+    "3": 4,
+    "4": 3,
+    "5": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "The repeated short sentences and conspicuously conversational phrasing make the naturalness feel engineered.",
+    "3": "“Never as a way of leaving the room” feels compressed into a polished aphorism at the expense of natural meaning.",
+    "4": "“I found myself” and “I hadn’t given much thought” add a faintly generic, padded quality.",
+    "5": "none"
+  },
+  "reason": "Version 1 has the most convincing balance of concrete action, reflective pacing, and restrained emotion; version 5 is a close second. These are judgments of how the prose reads, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "B2",
+    "2": "C",
+    "3": "B",
+    "4": "O",
+    "5": "A"
+  }
+}

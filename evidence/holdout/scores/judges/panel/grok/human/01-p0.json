@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 4,
+    "4": 1
+  },
+  "send": "2",
+  "tells": {
+    "1": "Compressed brochure cadence, especially the colon-led '12 spots, paid training, and a path' and the unnatural 'cutting money off monthly bills.'",
+    "2": "The 'What's next:' signpost and the stock pair 'blazing heat and freezing cold.'",
+    "3": "'The heat, the cold, and everything in between,' plus mirrored 'belongs to our crews / also belongs to our members' paragraphs.",
+    "4": "none"
+  },
+  "reason": "Version 4 sounds most like a person talking, with no real template scaffolding. I'd still publish version 2: the hook, crew line, and ask are clearer and more credible for LinkedIn, and the marketing tics don't outweigh that.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "C",
+    "3": "O",
+    "4": "A"
+  }
+}

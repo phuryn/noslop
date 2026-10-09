@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "Version 1 preserves all key facts and requirements without adding new information, while Version 2 adds 'on your phone' and slightly changes the safety rationale. Version 3 is least faithful because it narrows the near-miss definition by omitting 'harm' and drops 'without exception'.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "B5",
+    "3": "A"
+  }
+}

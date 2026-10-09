@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+  },
+  "reason": "Version 1 keeps the most original meaning, facts, and caveats with only minor additions. Version 2 drops the closing question and overstates the lesson; Version 3 omits the lesson entirely; Version 4 paraphrases more and changes the no-show explanation.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B3",
+    "3": "A",
+    "4": "E"
+  }
+}

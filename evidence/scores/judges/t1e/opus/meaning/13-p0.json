@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "Version 1 keeps every fact, number, commitment, and caveat with only light rewording. Version 2 makes small shifts: 'capture' becomes 'serve', it drops 'targeted', and it recasts mitigations as firm 'we will' commitments. Version 3 drops or distorts many specifics, including the no-penalty exit, the six-month outreach, redeployment and severance, and the multi-year lock-in rationale, and it overstates the mall traffic decline as a certainty.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "E"
+  }
+}

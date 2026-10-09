@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2
+  },
+  "reason": "Version 2 is the most faithful because it preserves the original facts, caveats, and commitments with only minor wording changes. Version 3 is next despite dropping some qualifiers, while Version 1 adds or changes key nuances more often, especially around structural decline and reinvestment.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "track2/B5-int",
+    "3": "track2/A-int"
+  }
+}

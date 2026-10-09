@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 2,
+    "4": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Stacked single-sentence paragraphs and back-to-back questions ('Could we help...?' then 'Would you have...?') feel templated and stiff.",
+    "3": "none",
+    "4": "Flat, generic capability claim ('We can cover... regular routes or last-minute deliveries') with a slightly boilerplate rhythm."
+  },
+  "reason": "Version 1 reads most like a real person writing: plain verbs, a conditional offer ('If Fairview Markets needs...') and phrases like 'occasional last-minute run' and 'glad to pitch in' sound conversational without being pushy. Version 3 is a close second with nice trade wording ('pick up last-minute loads'), while 2 is the most formulaic.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "O",
+    "3": "A",
+    "4": "B"
+  }
+}

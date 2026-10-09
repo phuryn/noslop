@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 4,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "Two questions in a row ('Could we help...?' then 'Do you have 15 minutes...?') make the email feel templated.",
+    "2": "Each sentence sits in its own paragraph, and the phrasing is formal ('finished last year with,' 'discuss where we might fit').",
+    "3": "It volunteers caveats and a spoiled-dairy incident in a cold email, which looks like disclosure for its own sake rather than a real sales judgment.",
+    "4": "none"
+  },
+  "reason": "Version 4 is short and confident, and its one specific claim makes it credible without hedging. Version 3 has strong concrete details (the reference, fleet size), but leading a cold pitch with a spoilage incident and an on-time definition would hurt it with a buyer.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "O",
+    "3": "track2/B3-int",
+    "4": "B3"
+  }
+}

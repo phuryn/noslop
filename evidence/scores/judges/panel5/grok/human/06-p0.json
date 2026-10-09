@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 5,
+    "3": 6,
+    "4": 4,
+    "5": 2,
+    "6": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Unidiomatic 'start at the mixing' and a flattened, headerless compression.",
+    "3": "Empty hype words, redundant 'measure our pre-measured,' and a mashed double CTA.",
+    "4": "Slogan parallelism ('A little… A little…,' 'Less measuring. More making.') and staccato rule-of-three fragments.",
+    "5": "Stock 'the good part' and markdown bold headers that look generated.",
+    "6": "'Maybe… maybe… either way' closer plus generic 'the fun part.'"
+  },
+  "reason": "Version 1 uses concrete verbs and one flowing scene instead of slogans, stock closers, or generic enthusiasm. It is the clearest and most credible of the set, so it is the one I would publish.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "E",
+    "4": "O",
+    "5": "B5",
+    "6": "C"
+  }
+}

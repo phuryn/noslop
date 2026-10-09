@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 4,
+    "4": 1
+  },
+  "send": "1",
+  "tells": {
+    "1": "Very uniform, symmetric structure. Each bullet opens with a tidy thesis sentence followed by an elaboration, all introduced by a counted lead-in ('This causes four problems:').",
+    "2": "Bolded inline lead-in labels on every bullet and goal ('**Clients go without care or wait for it.**'), a common AI formatting pattern.",
+    "3": "Generic hype transition 'The consequences are significant:' plus a trailing participial clause ('…informing the decision on broader rollout'), on top of bold lead-in bullets.",
+    "4": "none"
+  },
+  "reason": "Version 4 is clearly human (rambling, hedged, conversational) but it is vague, and its goals are weakly defined and partly self-contradictory, so it is not the one to send. Version 1 keeps the sharp, measurable structure of 2 and 3 while dropping the bold-label and filler tells, making it the most credible and clean.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "O",
+    "4": "gen/E-write"
+  }
+}

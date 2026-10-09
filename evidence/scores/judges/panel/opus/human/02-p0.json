@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 5,
+    "4": 1,
+    "5": 4
+  },
+  "send": "4",
+  "tells": {
+    "1": "none",
+    "2": "none; it is just a bit clipped, and 'talk?' ends abruptly",
+    "3": "none; its flaws are human ones (doubled 'Hi', repeated 'Would you be open', run-on phrasing)",
+    "4": "none",
+    "5": "Templated structure: three one-line paragraphs, two stacked questions, and stiff 'We provide... / discuss where we might fit' phrasing"
+  },
+  "reason": "Version 4 is tight and specific, and 'pick up last-minute loads' sounds like someone in the trade wrote it, with a single clear ask. Version 3 reads human but sloppy, and Version 5 is clean but stiff and formulaic.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B3",
+    "3": "E",
+    "4": "A",
+    "5": "O"
+  }
+}

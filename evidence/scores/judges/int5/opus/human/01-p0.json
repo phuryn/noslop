@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 3,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "Templated LinkedIn structure: one-line hook, 'Here's what that meant in practice:' bullet list, a 'The lesson for me:' line and a closing engagement question",
+    "2": "Tidy, compressed version of the same template ('My takeaway is that…' moral plus an engagement-bait question) with no concrete specifics beyond the headline numbers",
+    "3": "Generic aphorism 'sometimes the biggest operational wins come from meeting people where they already are' and the balanced 'for the practice and for the people we serve' phrasing",
+    "4": "none"
+  },
+  "reason": "Version 4 has specific, checkable details (cost, hours saved, a named staff member, the elderly-patient caveat, Sopot's weaker result, possible summer seasonality) and hedges honestly, which makes it read as lived experience and makes it the most credible. Versions 1–3 repeat the same generic lesson-and-CTA template, and 1 is the most formulaic.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "track2/A-int",
+    "3": "B5",
+    "4": "track2/B5-int"
+  }
+}

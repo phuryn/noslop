@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1
+  },
+  "send": "3",
+  "tells": {
+    "1": "the chatty 'but here we are' aside edges toward a stock humanizing tic",
+    "2": "same stock aside, and the smart apostrophes feel auto-typeset rather than adding voice",
+    "3": "none"
+  },
+  "reason": "All three are close, but version 3 keeps the concrete detail and dry self-deprecation while cutting a familiar filler phrase, so it reads cleaner and more confident.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "O",
+    "3": "B3"
+  }
+}

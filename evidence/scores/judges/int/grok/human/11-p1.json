@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Rule-of-three opener plus the escalating closer 'real days off, nights that actually end, and a schedule you can plan a life around.'",
+    "3": "Bold section labels (What you'll do / What we're after / Pay) turn a short intro into a template.",
+    "4": "Same punchy tricolon ('we're slammed on the weekends, and we like it that way') reads like brand-voice copy."
+  },
+  "reason": "Version 1 keeps verifiable kitchen facts and a named promotion path that the others sand into interchangeable lifestyle copy. Those specifics make it clearer, more credible, and the one I'd publish.",
+  "label_to_arm": {
+    "1": "track2/B3-int",
+    "2": "B3",
+    "3": "O",
+    "4": "track2/A-int"
+  }
+}

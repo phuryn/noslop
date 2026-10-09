@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 1,
+    "4": 4
+  },
+  "send": "3",
+  "tells": {
+    "1": "The closing phrase \"a clear result for a team committed...\" feels like polished marketing boilerplate.",
+    "2": "\"They then passed\" is a slightly abrupt, mechanical transition.",
+    "3": "none",
+    "4": "The final sentence, \"The team there holds itself to high food safety standards,\" feels tacked on and tells rather than shows."
+  },
+  "reason": "Version 3 is the clearest and most credible because it states the problem, solution, and result without extra promotional gloss. It reads like a human editor trimmed it for a case study rather than added copywriting filler.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "A",
+    "3": "B3",
+    "4": "B5"
+  }
+}

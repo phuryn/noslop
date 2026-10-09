@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3
+  },
+  "reason": "Version 2 preserves the October 14 release wording, the 15-minute sync details, and the precise “fixed a bug” claim. Versions 1 and 3 replace that with a broader “now display correctly” statement, and 3 also shortens “editing them one by one.”",
+  "label_to_arm": {
+    "1": "track2/B3-int",
+    "2": "track2/A-int",
+    "3": "B3"
+  }
+}

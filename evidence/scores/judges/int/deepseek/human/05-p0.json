@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 4,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "Uses 'What this costs:' with four parallel bolded-label bullets—a common AI PRD structure.",
+    "2": "Reads as fluent AI prose paraphrase: it compresses the same bullet list into a dense paragraph and keeps the formulaic 'No system currently...' line.",
+    "3": "Most templated: 'The consequences are significant:' followed by heavily parallel bold bullets and formal wording.",
+    "4": "Minor residual AI tell is the 'What this costs:' bullet pattern, but the wording is more direct and natural."
+  },
+  "reason": "Version 4 keeps the scannable PRD structure but uses more natural, concise phrasing ('Agencies pay for it,' 'Show coordinators'), balancing clarity, credibility, and human feel.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "track2/A-int",
+    "3": "O",
+    "4": "track2/B3-int"
+  }
+}

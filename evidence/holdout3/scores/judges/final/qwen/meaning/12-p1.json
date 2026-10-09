@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 5,
+    "4": 1,
+    "5": 4
+  },
+  "reason": "Version 4 is closest, retaining all core facts and the call to help, though it drops 'young'; Version 1 keeps the help request but omits the final planting action. Version 2 changes the help wording and shifts the planting clause, while Version 5 keeps many facts but adds embellishments, and Version 3 omits the neighbour element and adds an 'if you can' caveat.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "E",
+    "4": "B5",
+    "5": "C"
+  }
+}

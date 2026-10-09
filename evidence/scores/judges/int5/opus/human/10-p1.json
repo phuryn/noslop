@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2,
+    "4": 4
+  },
+  "send": "2",
+  "tells": {
+    "1": "The filler benefit line 'so you'll have more options during the week' doesn't fit Sunday classes, and the closing 'Thanks for being part of our community' is boilerplate.",
+    "2": "none",
+    "3": "It keeps the 'more options during the week' padding, which doesn't fit Sunday, and the stock 'part of our community' sign-off.",
+    "4": "The register is formal and corporate ('will increase', 'will take effect for you', 'to give you more options'), with typographic curly apostrophes and a templated structure that splits each point into its own paragraph."
+  },
+  "reason": "Version 2 is the tightest and most natural. It states the price, the grandfathering date and the new classes plainly, without the illogical 'during the week' justification or community boilerplate the others share. Version 4 reads most like polished AI output.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "track2/A-int",
+    "3": "track2/B5-int",
+    "4": "O"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 5,
+    "3": 2,
+    "4": 3,
+    "5": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Three same-rhythm sentences built on the stock line \"The remaining piece is\"",
+    "3": "none",
+    "4": "Performed casual padding (\"of the way through moving\", \"big piece\", \"hit Nov 3\")",
+    "5": "Formulaic \"is the remaining piece\" plus a boilerplate \"target date\" close"
+  },
+  "reason": "Version 1 is the one I'd send: specific, tight, and credible, with no template cadence. Versions 2 and 5 read like mechanical splits of the same sentence, and 4's extra casual wording feels performed rather than skilled.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "O",
+    "3": "B5",
+    "4": "C",
+    "5": "B3"
+  }
+}

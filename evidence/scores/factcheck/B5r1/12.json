@@ -1,0 +1,25 @@
+{
+  "dropped": [],
+  "changed": [
+    {
+      "item": "Original says the data was used to 'help reduce' non-revenue water from 14% to 9%, which leaves room for other contributing factors. The edit says the Authority 'brought non-revenue water down from 14% to 9% using pressure data,' which presents the pressure data as the means of the full reduction.",
+      "severity": "minor"
+    },
+    {
+      "item": "Original says pressure data 'can help reveal leaks that might otherwise go unnoticed'. The edit says it 'can show leaks that would otherwise go unnoticed', which drops the hedges 'help' and 'might' and makes the claim more certain.",
+      "severity": "minor"
+    },
+    {
+      "item": "Original offers 'practical considerations for utilities looking to make better use of their existing pressure data'. The edit says 'what other utilities should consider before doing the same', which narrows a general aim (better use of existing data) to replicating Mesa Valley's approach and adds a 'before' framing.",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "First-person framing in the abstract ('In this talk we cover what we learned'), where the original abstract was impersonal ('This talk explores... It shares lessons'). The original title already uses 'We', so this is only a slight shift.",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

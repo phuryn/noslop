@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 2,
+    "4": 5,
+    "5": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "formulaic milestone copy with stock phrasing and few concrete details",
+    "3": "the chatty asides feel slightly performed rather than grounded in specific lived detail",
+    "4": "clichéd filler and awkward, redundant phrasing, especially the sentence about shelves",
+    "5": "polished but templated; it reads like a safer rewrite of version 2 without distinctive specificity"
+  },
+  "reason": "Version 1 feels most human because its concrete details, vulnerability, and small customer anecdote give it credible texture. The other versions are serviceable but more generic, with version 4 the weakest due to clichés and awkward wording.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "track2/A-int",
+    "3": "C",
+    "4": "E",
+    "5": "O"
+  }
+}

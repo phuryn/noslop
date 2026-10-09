@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 1,
+    "3": 5,
+    "4": 6,
+    "5": 7,
+    "6": 3,
+    "7": 2
+  },
+  "send": "2",
+  "tells": {
+    "1": "none",
+    "2": "The closing list of supervisor support, maintained kit and respect for time feels slightly packaged.",
+    "3": "“Wants to run the former” introduces stiff editorial language into an otherwise conversational voice.",
+    "4": "“A well-run job” followed by “run the well-run kind” sounds mechanically rephrased rather than carefully edited.",
+    "5": "“A well-run job” followed by “run the well-run kind” sounds mechanically rephrased rather than carefully edited.",
+    "6": "“You can tell within a day” adds unsupported specificity, while “actually maintained” feels like manufactured insider credibility.",
+    "7": "The smooth-job-versus-tape setup and closing three-part list give the copy a somewhat formulaic recruitment voice."
+  },
+  "reason": "Version 2 has the strongest balance of directness, natural rhythm and clear practical benefits, though its added specifics should be confirmed before publication; these are stylistic judgments, not reliable evidence of AI authorship. Versions 4 and 5 are identical, so their required separate ranks are arbitrary.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "A",
+    "3": "O",
+    "4": "V6C",
+    "5": "V6A",
+    "6": "C",
+    "7": "B5"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3,
+    "4": 4
+  },
+  "reason": "Version 2 keeps nearly every fact, commitment and nuance, and Version 1 is close behind, losing only the product name and the 'glad to help' offer. Version 3 shifts commitments from 'we' to a personal 'I' and drops 'replacement' from the subject, while Version 4 also uses 'I', drops the 'only five months' emphasis and adds an explicit warranty-qualification claim.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "C",
+    "4": "B"
+  }
+}

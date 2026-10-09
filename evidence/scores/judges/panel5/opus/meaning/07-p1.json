@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 3,
+    "4": 1
+  },
+  "reason": "Version 4 keeps every fact and qualifier, and Version 1 differs only by adding 'only', which the original already implies. Version 3 drops 'target date' and changes 'flow' to 'login', while Version 2 also drops 'target date' and adds 'only big piece left', which suggests smaller work items remain beyond the Android biometric flow.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "B5",
+    "4": "B3"
+  }
+}

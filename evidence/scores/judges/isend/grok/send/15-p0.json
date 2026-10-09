@@ -1,0 +1,11 @@
+{
+  "send": "1",
+  "reason": "It keeps the same features, use cases, free-to-start offer, $7.99 auto-renew terms, and medical disclaimer without adding claims or changing the cancellation window. The other versions drift: 2 softens or rephrases commitments, 3 changes the renewal caveat and adds a never-miss promise, and 4 drops consistency and progress outcomes.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "C",
+    "3": "E",
+    "4": "A"
+  },
+  "picked_arm": "B5"
+}

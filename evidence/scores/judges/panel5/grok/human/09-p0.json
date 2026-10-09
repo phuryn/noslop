@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1,
+    "4": 4,
+    "5": 5,
+    "6": 6
+  },
+  "send": "3",
+  "tells": {
+    "1": "Clipped parallel apology ('I'm sorry... and sorry...') has a compressed template cadence.",
+    "2": "Stock bookends: 'Thanks for reaching out' and 'Thanks for your patience,' plus 'in the meantime.'",
+    "3": "Same elliptical 'and sorry' pairing; the rest is natural.",
+    "4": "Over-trimmed command ('reply to this message') and the same clipped double apology.",
+    "5": "none",
+    "6": "'That's not the experience we want you to have,' then a second apology for the inconvenience."
+  },
+  "reason": "Version 3 is the one a skilled agent would send: personal ownership, spoken wording, and the warranty, free battery, and tracking are all clear. The others stack courtesy macros, turn curt, omit that the replacement is free, or use the canned empathy line that marks generated support mail.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "B5",
+    "3": "C",
+    "4": "A",
+    "5": "E",
+    "6": "O"
+  }
+}

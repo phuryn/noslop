@@ -1,0 +1,11 @@
+{
+  "send": "1",
+  "reason": "It's the only version that keeps the facts from my answers: two-way texting as the real driver, about 11 hours a week saved, the $1,400 cost, and the caveats about the over-70s calls, Sopot and summer. The others claim 'all we did was' send text reminders, which overstates it. It drops my closing question, but that's a small loss compared with getting the substance right.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "track2/A-int",
+    "3": "E",
+    "4": "C"
+  },
+  "picked_arm": "track2/B5-int"
+}

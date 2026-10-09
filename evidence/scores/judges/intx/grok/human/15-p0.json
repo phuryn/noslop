@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 4,
+    "4": 5,
+    "5": 1
+  },
+  "send": "1",
+  "tells": {
+    "1": "Slightly templated three-bullet stack and a neat rule-of-three closer, with almost no personal voice.",
+    "2": "Stock lines like \"Never miss a session again\" and \"watch your progress grow!\" plus mangled auto-renew wording.",
+    "3": "Over-smoothed wellness cadence: \"get moving,\" \"keep you moving forward,\" \"how far you've come.\"",
+    "4": "Empty filler \"unlock more of what the app has to offer\" and interchangeable recovery phrasing.",
+    "5": "Dropped-in named outcome (\"Gwen Harper... back to hiking in four months\") reads like invented social proof."
+  },
+  "reason": "Version 5 has the most individual voice, but the unverified recovery claim and shifted exercise count are not publishable. Version 1 is clear, compliant, and credible without unsupported extras.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "E",
+    "3": "C",
+    "4": "O",
+    "5": "track2/B5-int"
+  }
+}

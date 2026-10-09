@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 5,
+    "3": 2,
+    "4": 3,
+    "5": 6,
+    "6": 4
+  },
+  "send": "3",
+  "tells": {
+    "1": "none",
+    "2": "Formulaic corporate empathy like 'That's not the experience we want you to have' and a repetitive, scripted apology closing.",
+    "3": "none",
+    "4": "Overly clipped and template-like; lacks normal conversational softening or courtesy phrases.",
+    "5": "Stiff, overly formal phrasing with inconsistent casualness, such as 'please accept my apology' followed by 'just hit reply'.",
+    "6": "Impersonal and abrupt; 'The bike' and bare 'reply to this message' omit normal human warmth."
+  },
+  "reason": "Version 3 best balances warmth, clarity, and professionalism with a clear subject line and natural phrasing. Version 1 is slightly more casual/human but less precise, while 2 and 5 sound more formulaic or stilted.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "O",
+    "3": "B5",
+    "4": "B3",
+    "5": "E",
+    "6": "A"
+  }
+}

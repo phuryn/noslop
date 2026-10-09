@@ -1,0 +1,34 @@
+{
+  "dropped": [
+    {
+      "item": "\"and that's it\" after the price, which implied no extra costs or hidden fees",
+      "severity": "minor"
+    },
+    {
+      "item": "\"No pressure at all\" reassurance in the P.S.",
+      "severity": "minor"
+    },
+    {
+      "item": "\"If you'd like to join us from day one\" framing of signing up at launch",
+      "severity": "minor"
+    },
+    {
+      "item": "Closing thanks and wish: \"Thanks for being with us. We hope Refill Club makes your desk a little more colourful.\"",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "\"so you can keep writing without a last-minute dash to restock\" became \"so you never have to rush out to restock\", a slightly stronger, absolute claim",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "Absolute \"never\" in \"you never have to rush out to restock\"",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 6,
+    "3": 4,
+    "4": 1,
+    "5": 2,
+    "6": 5
+  },
+  "send": "4",
+  "tells": {
+    "1": "none",
+    "2": "awkward, over-explained seasonal opener and wordy phrasing",
+    "3": "stock pastoral autumn opener and very neat, packaged gratitude",
+    "4": "none",
+    "5": "familiar seasonal imagery, though the tone is otherwise natural",
+    "6": "generic fundraising polish, especially heartfelt thank you and reminder of what your support makes possible"
+  },
+  "reason": "Version 4 sounds most like a real person writing to supporters: warm, local, direct, and unforced. It balances thanks, operational update, and invitation better than the others.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "E",
+    "3": "B3",
+    "4": "C",
+    "5": "B5",
+    "6": "O"
+  }
+}

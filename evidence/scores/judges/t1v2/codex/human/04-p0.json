@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2,
+    "4": 4,
+    "5": 5
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "none",
+    "4": "none",
+    "5": "none"
+  },
+  "reason": "Version 1 has the strongest local newsletter voice: lively pacing, concrete instructions, and an easy invitation to stay for a natter; version 3 is a close, quieter alternative. None has a convincing AI tell, and the distinction between 4 and 5 is merely a slight preference for the uninterrupted opening in 4.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "O",
+    "3": "B",
+    "4": "A",
+    "5": "B2"
+  }
+}

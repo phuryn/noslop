@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 4,
+    "3": 1,
+    "4": 2
+  },
+  "send": "3",
+  "tells": {
+    "1": "none. 'target date' is slightly padded, but that's normal status-update phrasing",
+    "2": "Three choppy declarative sentences and the stiff 'The remaining piece is' read a bit templated",
+    "3": "none",
+    "4": "none. Repeating 'login' ('mobile login... biometric login') is a little clunky, but human"
+  },
+  "reason": "All four are clean and plausibly human. Version 3 is the most natural Slack phrasing ('is what's left'), drops the redundant 'target date', and keeps the precise term 'flow' rather than swapping it for a repeated 'login'.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "O",
+    "3": "track2/B5-int",
+    "4": "B5"
+  }
+}

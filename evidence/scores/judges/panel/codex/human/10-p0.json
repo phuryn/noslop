@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 5,
+    "3": 2,
+    "4": 1,
+    "5": 3
+  },
+  "send": "4",
+  "tells": {
+    "1": "none",
+    "2": "“On a happier note” feels like a scripted attempt to soften the price increase; the workout benefit adds unnecessary sales language.",
+    "3": "“So you'll have more options during the week” adds a generic benefit explanation to an already clear announcement.",
+    "4": "none",
+    "5": "The combination of “to give you more options” and “Thank you for being part of our community” feels mildly templated."
+  },
+  "reason": "Version 4 is direct, calm, and easy to scan, with a separate paragraph making the existing-member exception clear. These rankings reflect editorial fit and perceived naturalness, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "C",
+    "3": "B3",
+    "4": "A",
+    "5": "O"
+  }
+}

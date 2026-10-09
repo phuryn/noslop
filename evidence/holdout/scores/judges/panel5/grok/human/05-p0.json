@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 4,
+    "4": 3,
+    "5": 5
+  },
+  "send": "2",
+  "tells": {
+    "1": "Unsoftened “Reply yes to confirm” lands like a form instruction.",
+    "2": "none",
+    "3": "Modular ask, bullets, recommendation and CTA read as a generated template.",
+    "4": "Bullet scaffold plus the stock hedge “Unless you see a reason not to”.",
+    "5": "“Options:” label before the bullets is outline-style AI formatting."
+  },
+  "reason": "Version 2 reads most like a skilled human—idiomatic, respectful, and easy to answer—so that is what I would send. Version 1 is close in voice, while 3–5 add list scaffolding and stock hedges that feel more assembled.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "B5",
+    "4": "B3",
+    "5": "O"
+  }
+}

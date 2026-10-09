@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 7,
+    "3": 6,
+    "4": 3,
+    "5": 1,
+    "6": 4,
+    "7": 2
+  },
+  "send": "7",
+  "tells": {
+    "1": "Overly formal and nominalized: 'basis for the deduction'.",
+    "2": "None — reads as unpolished human writing, not AI.",
+    "3": "Abrupt directness, especially 'Tell me which you'd prefer.'",
+    "4": "Slightly awkward 'we consider goes beyond' and formulaic goodwill phrasing.",
+    "5": "None",
+    "6": "Customer-service boilerplate: 'I understand you're unhappy' and 'as a goodwill gesture'.",
+    "7": "Template-like empathy and 'as a gesture of goodwill'."
+  },
+  "reason": "V5 reads most naturally human, but V7 is the best to send because it balances warmth, clarity, and professionalism without sounding stiff or careless.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "E",
+    "3": "A",
+    "4": "V6C",
+    "5": "C",
+    "6": "B5",
+    "7": "V6A"
+  }
+}

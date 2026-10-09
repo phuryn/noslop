@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 3,
+    "3": 2,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "The closing stack of generic benefits—“a practical way,” “a fuller picture,” and “make the most”—feels formulaic.",
+    "2": "none",
+    "3": "The uniformly short, orderly sentences feel slightly mechanical, though this is a weak signal.",
+    "4": "none"
+  },
+  "reason": "Version 4 reads like polished veterinary copy: conversational, clear, and restrained in its sales pitch. Version 3 is close but choppier; version 2 sounds natural but needs tightening, while version 1 adds generic promotional padding.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "E",
+    "3": "A",
+    "4": "B3"
+  }
+}

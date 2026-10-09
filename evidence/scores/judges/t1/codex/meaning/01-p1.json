@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 1
+  },
+  "reason": "Version 3 best preserves the facts, mixed effectiveness of calls, and tentative recommendation, though it strengthens “sometimes” to “often.” Version 2 removes the operational lesson and overstates calls’ failure; version 1 additionally claims texting was the only change, adds an unsupported quick impact, and prescribes a one-month trial.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B"
+  }
+}

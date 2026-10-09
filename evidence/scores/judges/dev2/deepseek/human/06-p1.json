@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 5,
+    "3": 3,
+    "4": 4,
+    "5": 1
+  },
+  "send": "5",
+  "tells": {
+    "1": "The paired fragments 'A little measuring done. A little joy delivered.' feel too symmetrical and slogan-like.",
+    "2": "The phrase 'start at the mixing' and 'Each month gives you a bake to look forward to' are awkward and unidiomatic.",
+    "3": "The sentence 'We've done it for you, which leaves more time...' uses a slightly stiff relative clause.",
+    "4": "The phrase 'Skip the weighing out' is overly nominalized and unnatural.",
+    "5": "none"
+  },
+  "reason": "Version 5 reads most like a skilled human copywriter with natural rhythm, varied sentence structure, and conversational phrasing, while the others contain subtle AI or awkward tells.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "A",
+    "3": "B5",
+    "4": "B3",
+    "5": "C"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2
+  },
+  "send": "3",
+  "tells": {
+    "1": "Repeated symmetrical slogans and stacked cozy fragments make the copy feel formulaic.",
+    "2": "none",
+    "3": "Residual stock lifestyle language, especially “get straight to the good part” and “a quiet cup of tea with the last crumb.”"
+  },
+  "reason": "Version 2 feels most human because its concrete details give the business character, though those claims need verification and “What's in the box” barely answers its heading. I would publish version 3 for its clear offer, restrained warmth, and more coherent sections.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "track2/B2-int",
+    "3": "track2/A-int"
+  }
+}

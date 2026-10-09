@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1
+  },
+  "send": "3",
+  "tells": {
+    "1": "Slightly stiff 'Check that' phrasing for a help page.",
+    "2": "Feels like a plain-text duplicate of version 1, with boilerplate rhythm and no voice.",
+    "3": "none"
+  },
+  "reason": "Version 3 uses the most natural support wording ('Make sure') while staying clear and direct. The difference between 'When' and 'Once' is minor, but the overall tone is the least mechanical.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B3",
+    "3": "A"
+  }
+}

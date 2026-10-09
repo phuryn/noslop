@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 5,
+    "4": 4,
+    "5": 2
+  },
+  "reason": "Version 1 keeps all key facts and the no-pressure caveat most closely, while version 5 is nearly as faithful but omits the explicit no-pressure line. Version 3 ranks last mainly because it adds the new claim of 'your favourite inks' and alters several nuances.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "C",
+    "3": "E",
+    "4": "A",
+    "5": "B3"
+  }
+}

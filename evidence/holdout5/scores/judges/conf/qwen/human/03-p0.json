@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 5,
+    "3": 2,
+    "4": 6,
+    "5": 3,
+    "6": 7,
+    "7": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "the tagline and triple parallel phrases feel formulaic",
+    "3": "none",
+    "4": "bold bullet template and generic tricolon feel generated",
+    "5": "the playful 'bickering' and neat list cadence feel AI-polished",
+    "6": "unnatural phrasing, currency placement, and overexcited exclamation points",
+    "7": "templated list copy and vaguer 'what it adds' phrasing"
+  },
+  "reason": "Version 1 feels most like a person: direct, specific, and low on canned hype while still covering date, price, features, and next steps. The bullet versions are clear, but their parallel phrasing and templated structure feel more AI-shaped.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B5",
+    "3": "A",
+    "4": "O",
+    "5": "V6A",
+    "6": "E",
+    "7": "V6C"
+  }
+}

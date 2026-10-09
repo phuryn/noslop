@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 5,
+    "5": 3
+  },
+  "reason": "Versions 1 and 2 keep the dates, rates, grandfathering, class purpose, and reply offer; 2 only narrows questions to the price change. Version 5 drops the “more options during the week” nuance and recasts the community thanks, version 3 adds a workout assumption and a help promise, and version 4 invents a March 1 renewal and says the new classes start soon.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "B5",
+    "3": "C",
+    "4": "E",
+    "5": "A"
+  }
+}

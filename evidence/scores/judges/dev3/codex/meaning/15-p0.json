@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+  },
+  "reason": "Version 1 preserves nearly all meaning; version 2 adds minor implications about routines and easier recovery but retains the original commitments. Version 3 omits Premium’s added benefits and implies every exercise has a video, while version 4 weakens free-to-start access to free downloading and drops the consistency and progress-review benefits.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "C",
+    "3": "B3",
+    "4": "A"
+  }
+}

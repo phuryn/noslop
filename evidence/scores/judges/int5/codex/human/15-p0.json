@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 3,
+    "4": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Stock reassurance and promotional filler: 'guidance you can trust,' 'keep your recovery moving,' and 'unlock more of what the app has to offer.'",
+    "3": "Conversational tweaks such as 'Maybe you're' leave the generic marketing language intact, making the informality feel applied rather than natural.",
+    "4": "The experience claim and tidy named success story can feel like deliberate authenticity signals, though neither establishes AI authorship."
+  },
+  "reason": "Version 1 is clear, restrained, and credible, with the fewest wasted words. Version 4 has a more distinctive voice, but its added claims, testimonial, and Premium feature require verification before publication.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "O",
+    "3": "B5",
+    "4": "track2/B5-int"
+  }
+}

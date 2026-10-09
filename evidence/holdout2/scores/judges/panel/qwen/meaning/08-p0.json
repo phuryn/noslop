@@ -1,0 +1,11 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2
+  },
+  "reason": "Version 1 preserves the original wording and all facts, numbers, and nuances. Version 2 omits 'but here we are,' losing a small but real note of self-aware acceptance.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3"
+  }
+}

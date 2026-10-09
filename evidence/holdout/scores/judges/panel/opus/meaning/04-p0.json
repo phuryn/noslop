@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1
+  },
+  "reason": "Version 3 keeps every fact and sentiment, including 'glad to have you along' and the winter-preparations line, and drops only 'catch your breath'. Version 1 also drops the 'glad to have you' and winter-prep sentiment and blurs 'brush up on the practicalities', while Version 2 keeps the content but adds claims not in the original ('Most of us are in the same boat', fondant 'just' arrived).",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "B3"
+  }
+}

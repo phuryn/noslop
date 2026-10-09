@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 5,
+    "5": 3,
+    "6": 6
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "over-polished cheeriness and stock phrasing, especially the em-dash construction",
+    "4": "overly long, overstuffed sentence and slightly awkward phrasing",
+    "5": "template-like wording and the unnecessary comma before 'and'",
+    "6": "feels generic and truncated, dropping the warmer call to action"
+  },
+  "reason": "Version 1 is clear, practical, and warm without sounding templated. It gives the essentials while feeling like a real community notice.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "O",
+    "4": "E",
+    "5": "B5",
+    "6": "B3"
+  }
+}

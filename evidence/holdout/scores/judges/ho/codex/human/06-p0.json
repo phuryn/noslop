@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 4,
+    "3": 2,
+    "4": 6,
+    "5": 1,
+    "6": 5
+  },
+  "send": "5",
+  "tells": {
+    "1": "none",
+    "2": "The compatibility warning arrives after the application instruction, making it feel appended.",
+    "3": "none",
+    "4": "The stock question opener, 'easy fix' reassurance, and conspicuously casual phrasing feel like a forced conversational rewrite.",
+    "5": "none",
+    "6": "The compatibility warning arrives after the application instruction, making it feel appended."
+  },
+  "reason": "Version 5 has the clearest sequence, precise wording, and a natural instructional voice; these stylistic judgments do not establish authorship. Versions 2 and 6 differ only in apostrophe typography, so their relative ranking is arbitrary.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "B",
+    "4": "C",
+    "5": "B2",
+    "6": "O"
+  }
+}

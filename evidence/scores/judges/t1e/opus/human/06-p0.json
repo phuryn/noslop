@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 4,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "none; the clunky redundancy ('You don't have to measure our pre-measured dry ingredients') reads like an unpolished human draft, not AI",
+    "2": "the section headers are stripped out, so the verbless list ('An afternoon with the oven on, something homemade to share, or a quiet cup of tea...') floats without an anchor",
+    "3": "stacked parallel fragments ('A little measuring done. A little joy delivered.' / 'Less measuring. More making.' / 'One kit. $34 a month.') with a stock cadence",
+    "4": "a mild formulaic triplet ('stirring, baking, and sneaking a taste'), otherwise none"
+  },
+  "reason": "Version 4 keeps the warm tone and clear structure of 3 but drops the slogan-style fragment pairs, and its headings and copy read naturally and credibly. Version 1 is human but amateurish, and 2 loses the scannable section structure a landing page needs.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "A",
+    "3": "O",
+    "4": "B3"
+  }
+}

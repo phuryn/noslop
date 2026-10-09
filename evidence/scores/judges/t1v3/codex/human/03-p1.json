@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2,
+    "4": 5,
+    "5": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "none",
+    "4": "Forced conversational touches: the rhetorical question, 'a bunch,' and 'That's fixed' feel like an attempt to manufacture a human voice.",
+    "5": "none"
+  },
+  "reason": "Version 1 is concise, specific, and easy to scan—the strongest fit for release notes. The others are mostly credible editorial alternatives; version 4 adds unnecessary chatter, though none of these features reliably establishes AI authorship.",
+  "label_to_arm": {
+    "1": "B",
+    "2": "B3",
+    "3": "A",
+    "4": "C",
+    "5": "O"
+  }
+}

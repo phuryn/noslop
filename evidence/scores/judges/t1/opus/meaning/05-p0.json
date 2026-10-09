@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2
+  },
+  "reason": "Version 1 is nearly verbatim; its only loss is dropping the hedge 'typically.' Version 3 keeps that hedge but adds a new commitment that 'the system handles routine reassignments.' Version 2 shifts several nuances: 'who lives close enough,' 'test whether the target is realistic' instead of 'validate,' and 'should meet' instead of 'meet.' It also adds that targets will be confirmed after the baselines are measured.",
+  "label_to_arm": {
+    "1": "B",
+    "2": "C",
+    "3": "A"
+  }
+}

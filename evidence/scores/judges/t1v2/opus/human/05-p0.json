@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 1,
+    "3": 3,
+    "4": 2,
+    "5": 4
+  },
+  "send": "4",
+  "tells": {
+    "1": "The filler setup line \"The consequences are significant:\" before a list of bold-lead-in bullets, a templated AI pattern.",
+    "2": "Bold-lead-in bullets introduced by \"The effects add up:\"; otherwise the contractions and rhythm read naturally.",
+    "3": "The counted announcement \"This causes four problems:\" before the list.",
+    "4": "none",
+    "5": "The counted announcement \"This hurts in four ways:\" combined with bold-lead-in bullets."
+  },
+  "reason": "Version 4 is the plainest and most credible as a PRD: it has no filler setup lines, no counted announcements and no decorative bold, and it is precise without the casual tone of version 2. Version 2 has the strongest human voice, but its conversational register is a little loose for a spec.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "C",
+    "3": "A",
+    "4": "B2",
+    "5": "B"
+  }
+}

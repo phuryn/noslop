@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 5,
+    "2": 3,
+    "3": 4,
+    "4": 2,
+    "5": 1
+  },
+  "reason": "Version 5 keeps every fact and commitment with only light paraphrase, while 4 drops only the closing value claim. Version 2 keeps the arc but omits other markers and shifts age, certainty, and “fuller”; 3 reframes the vaccine contrast and drops care guidance plus the offer framing; 1 softens the advice, adds “highly beneficial,” and loses early detection, the baseline, and the value claim.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "C",
+    "3": "A",
+    "4": "B3",
+    "5": "B5"
+  }
+}

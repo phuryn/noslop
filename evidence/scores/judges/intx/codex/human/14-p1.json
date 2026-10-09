@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 5,
+    "5": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "The staged emotional turn, “And then you walked through the door,” feels manufactured; the unexplained switch from “we” to “My” weakens the voice.",
+    "3": "The polished triplet “Every shelf, every table, every book” and repeated two-floor update feel formulaic.",
+    "4": "Stock celebratory phrases such as “special milestone” and “opened our doors” substitute for distinctive observations, though they aren't specific to AI.",
+    "5": "The same polished triplet and redundant growth recap as version 3, with a flatter opening to post 5."
+  },
+  "reason": "Version 1 has the strongest narrative, plainest language, and most memorable details; I would publish it after verifying the customer anecdote and fundraiser amount. These rankings reflect editorial judgment, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "C",
+    "3": "O",
+    "4": "E",
+    "5": "track2/A-int"
+  }
+}

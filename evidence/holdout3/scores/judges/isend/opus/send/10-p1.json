@@ -1,0 +1,11 @@
+{
+  "send": "3",
+  "reason": "It keeps every fact and point from the original, including the long-term perspective and the questions facing those responsible for peatland resilience, and it doesn't add new claims. Version 1 drops that perspective sentence. Version 2 adds claims like 'growing problem' and 'unique insights'. Version 4 swaps the 2025 season for 'last year's fires' and loosens 'inform the decisions that follow'.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "E",
+    "3": "B5",
+    "4": "C"
+  },
+  "picked_arm": "B5"
+}

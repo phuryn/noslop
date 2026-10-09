@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 6,
+    "3": 4,
+    "4": 3,
+    "5": 7,
+    "6": 2,
+    "7": 5
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Stacked conversational asides and a neatly balanced three-part benefits list feel engineered.",
+    "3": "Generic phrases about caring, recognising progress and improving give it a polished corporate-template feel.",
+    "4": "The symmetrical 'new equipment, new routines and new ways of working' and predictable closing feel formulaic.",
+    "5": "Forced informality—'surprised even us', 'that's a big deal', 'These results are yours'—feels like a deliberate simulation of warmth.",
+    "6": "The generic 'people who care about getting it right' is the clearest remaining trace of template language.",
+    "7": "The redundant 'It's bigger than we expected' and repeated conversational pivots make the naturalness feel constructed."
+  },
+  "reason": "Version 1 feels the most grounded and credible, with a specific, proportionate thank-you, although the repeated 'customers' needs editing. Version 6 is tighter, but it shares the other rewrites' added claims about expectations, costs and demand; these stylistic judgments do not establish AI authorship.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "V6A",
+    "3": "O",
+    "4": "B5",
+    "5": "C",
+    "6": "A",
+    "7": "V6C"
+  }
+}

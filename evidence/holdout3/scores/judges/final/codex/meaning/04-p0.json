@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 1,
+    "3": 3,
+    "4": 5,
+    "5": 2
+  },
+  "reason": "Version 2 preserves nearly all meaning; version 5 mainly omits seasonal context and some appreciation, while version 3 strengthens the causal claim about donations enabling callouts. Version 1 loses several acknowledgments and invitation details and shifts autumn into the future; version 4 adds unsupported details and changes the Land Rover’s expected arrival into a firm commitment.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "B3",
+    "3": "B5",
+    "4": "C",
+    "5": "A"
+  }
+}

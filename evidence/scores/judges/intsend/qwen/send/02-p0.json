@@ -1,0 +1,11 @@
+{
+  "send": "1",
+  "reason": "It is the only version that includes the key clarifications and caveats: the 2-hour on-time definition, the 42-truck capacity limit, remote temperature monitoring, and a low-pressure intro call. It also leads with regular routes rather than overpromising.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "track2/A-int",
+    "3": "C",
+    "4": "E"
+  },
+  "picked_arm": "track2/B5-int"
+}

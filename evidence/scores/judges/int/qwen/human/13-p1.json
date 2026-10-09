@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Bolded mini-headings in nearly every bullet and buzzwords like \"enhanced\" make it feel templated.",
+    "3": "Markdown headings and awkward phrasing such as \"declining structurally\" feel machine-generated.",
+    "4": "Repeated \"We will\" mitigations and the abrupt label \"Concentration.\" feel mechanically simplified."
+  },
+  "reason": "Version 1 reads most like a real internal memo: direct, appropriately formatted, and not over-polished. Version 2 is clear but templated, while 3 and 4 feel more machine-generated or simplified.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "O",
+    "3": "track2/B3-int",
+    "4": "track2/A-int"
+  }
+}

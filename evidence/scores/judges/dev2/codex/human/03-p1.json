@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 4,
+    "4": 2,
+    "5": 5
+  },
+  "send": "2",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "none",
+    "4": "none",
+    "5": "Forced conversational touches—especially the rhetorical question and \"That's fixed\"—suggest an effort to sound human rather than serve the release-note format."
+  },
+  "reason": "Version 2 combines useful scan labels with concise, direct descriptions; version 4 is similarly natural but less scannable. These are editorial judgments about how the versions read, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B3",
+    "3": "A",
+    "4": "B5",
+    "5": "C"
+  }
+}

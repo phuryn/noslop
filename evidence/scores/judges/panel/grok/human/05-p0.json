@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 1,
+    "3": 5,
+    "4": 2,
+    "5": 3
+  },
+  "send": "4",
+  "tells": {
+    "1": "Empty setup ('The consequences are significant') plus four lockstep bold-label bullets.",
+    "2": "none",
+    "3": "'This causes four problems' pre-counts a perfectly even list.",
+    "4": "Folksy swaps ('matters a lot,' 'pay for it,' 'bunch up') sit on the same rigid four-part template.",
+    "5": "Consequence bullets are template-identical to the other polished drafts; no idiosyncratic phrasing."
+  },
+  "reason": "Version 2 is the only draft with human mess—typos, a dangling ending, spoken cadence—but I would send 4: it finishes the argument cleanly and still sounds like a person, not a template.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "E",
+    "3": "A",
+    "4": "C",
+    "5": "B3"
+  }
+}

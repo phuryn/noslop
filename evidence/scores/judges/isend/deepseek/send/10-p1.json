@@ -1,0 +1,11 @@
+{
+  "send": "4",
+  "reason": "It keeps the same facts and commitments about dates, rates, the current-member grace period, and Sunday classes, while sounding like the writer's concise, professional tone.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "A",
+    "3": "C",
+    "4": "B5"
+  },
+  "picked_arm": "B5"
+}

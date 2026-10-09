@@ -1,0 +1,21 @@
+{
+  "dropped": [
+    {
+      "item": "\"now\" in \"a small job now\", which set up the contrast between effort now and reward later",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "\"gives us something to look forward to\" became \"gives you something to look forward to\", shifting the beneficiary from the shared 'we' to the reader",
+      "severity": "minor"
+    },
+    {
+      "item": "\"the hardest part\" became \"the hard part\", softening the superlative",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

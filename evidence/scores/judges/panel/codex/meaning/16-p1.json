@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 3
+  },
+  "reason": "Version 1 preserves nearly all meaning, while version 2 changes limited thought about leaving into no thought. Version 4 additionally adds thinking for the whole drive and shifts reteaching toward improvement; version 3 invents careful preparation and replaces specific lessons and lasting student influence with broad claims about good and bad years and experiences.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "E",
+    "4": "C"
+  }
+}

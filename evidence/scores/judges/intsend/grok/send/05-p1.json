@@ -1,0 +1,11 @@
+{
+  "send": "4",
+  "reason": "It keeps the same facts, commitments, metrics, and caveats—including exceptions versus routine reassignments and validating the 30-minute target—in a clear voice consistent with the draft. The others drop commitments, reframe the pilot, or leave goals unfinished.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "E",
+    "3": "track2/A-int",
+    "4": "track2/B5-int"
+  },
+  "picked_arm": "track2/B5-int"
+}

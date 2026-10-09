@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 4,
+    "4": 1
+  },
+  "reason": "Version 4 preserves nearly all facts, numbers, and nuances unchanged. Version 2 is very close but omits the schedule benefit; Version 1 alters or adds several nuances, and Version 3 omits and changes the most details.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "E",
+    "4": "B3"
+  }
+}

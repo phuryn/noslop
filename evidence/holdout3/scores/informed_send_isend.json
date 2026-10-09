@@ -1,0 +1,169 @@
+{
+  "grok": {
+    "n": 24,
+    "texts": 12,
+    "picks": {
+      "B5": 17,
+      "A": 3,
+      "C": 2,
+      "E": 0,
+      "none": 2
+    },
+    "pairwise": {
+      "v5>blader": [
+        9,
+        2,
+        1
+      ],
+      "v5>bare prompt": [
+        8,
+        4,
+        0
+      ],
+      "v5>Emulate-1": [
+        10,
+        2,
+        0
+      ]
+    }
+  },
+  "deepseek": {
+    "n": 24,
+    "texts": 12,
+    "picks": {
+      "B5": 19,
+      "A": 3,
+      "C": 2,
+      "E": 0,
+      "none": 0
+    },
+    "pairwise": {
+      "v5>blader": [
+        9,
+        2,
+        1
+      ],
+      "v5>bare prompt": [
+        10,
+        1,
+        1
+      ],
+      "v5>Emulate-1": [
+        10,
+        2,
+        0
+      ]
+    }
+  },
+  "qwen": {
+    "n": 24,
+    "texts": 12,
+    "picks": {
+      "B5": 18,
+      "A": 4,
+      "C": 2,
+      "E": 0,
+      "none": 0
+    },
+    "pairwise": {
+      "v5>blader": [
+        9,
+        1,
+        2
+      ],
+      "v5>bare prompt": [
+        9,
+        2,
+        1
+      ],
+      "v5>Emulate-1": [
+        9,
+        3,
+        0
+      ]
+    }
+  },
+  "codex": {
+    "n": 24,
+    "texts": 12,
+    "picks": {
+      "B5": 18,
+      "A": 4,
+      "C": 1,
+      "E": 0,
+      "none": 1
+    },
+    "pairwise": {
+      "v5>blader": [
+        8,
+        3,
+        1
+      ],
+      "v5>bare prompt": [
+        10,
+        1,
+        1
+      ],
+      "v5>Emulate-1": [
+        10,
+        2,
+        0
+      ]
+    }
+  },
+  "opus": {
+    "n": 24,
+    "texts": 12,
+    "picks": {
+      "B5": 18,
+      "A": 4,
+      "C": 2,
+      "E": 0,
+      "none": 0
+    },
+    "pairwise": {
+      "v5>blader": [
+        9,
+        1,
+        2
+      ],
+      "v5>bare prompt": [
+        9,
+        2,
+        1
+      ],
+      "v5>Emulate-1": [
+        9,
+        3,
+        0
+      ]
+    }
+  },
+  "panel4_pooled": {
+    "n": 96,
+    "picks": {
+      "B5": 72,
+      "A": 14,
+      "C": 7,
+      "E": 0,
+      "none": 3
+    },
+    "pairwise": {
+      "v5>blader": [
+        35,
+        8,
+        5
+      ],
+      "v5>bare prompt": [
+        37,
+        8,
+        3
+      ],
+      "v5>Emulate-1": [
+        39,
+        9,
+        0
+      ]
+    }
+  }
+}

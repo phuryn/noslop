@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 3,
+    "3": 1,
+    "4": 2
+  },
+  "reason": "Version 3 preserves the original facts, scope, and call-to-action purpose with the fewest meaning shifts. Version 4 adds 'anywhere' and 'occasional,' slightly altering scope; versions 2 and 1 lose or change the meeting-purpose nuance, with 1 also shifting to 'loads' and a different fit question.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "B5",
+    "4": "C"
+  }
+}

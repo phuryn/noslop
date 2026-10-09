@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 2,
+    "4": 3,
+    "5": 5,
+    "6": 6
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "Generic 'Meet Refill Club' subject and evenly sanded lines, ending on the stock colourful-desk closer.",
+    "4": "Same shared subject and colourful-desk line, plus canned 'part of our community'.",
+    "5": "Over-trimmed template: impersonal 'existing customers get' and no real thank-you close.",
+    "6": "Restates the offer as bullets, then stacks 'community', 'say thank you', and 'No pressure at all'."
+  },
+  "reason": "Version 1 is the one a skilled person would send: a distinct subject, a concrete mid-page image, and no repeated bullets. Version 3 is the next most convincing note; 2 sounds human but clumsy, and 4–6 grow more generic, with 6 the most mechanical.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "E",
+    "3": "B5",
+    "4": "B3",
+    "5": "A",
+    "6": "O"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 5,
+    "4": 3,
+    "5": 4
+  },
+  "send": "2",
+  "tells": {
+    "1": "The sentiment is a little generalized and greeting-card smooth, especially 'a future worth caring for.'",
+    "2": "none",
+    "3": "The em dash and phrase 'find their voice again' give it a polished, familiar AI/brochure feel.",
+    "4": "'Every piano has a past, and it's worth looking after what comes next' sounds like attempted profundity rather than natural speech.",
+    "5": "'Find its voice again' and the tidy emotional wrap feel slightly templated and inspirational-poster-ish."
+  },
+  "reason": "Version 2 reads most like a real craftsperson speaking: concrete, modest, and unforced. I would publish it because it balances credibility, clarity, and human warmth better than the more polished but generic alternatives.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "O",
+    "4": "C",
+    "5": "B5"
+  }
+}

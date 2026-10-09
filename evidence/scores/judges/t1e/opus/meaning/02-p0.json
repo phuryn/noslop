@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3
+  },
+  "reason": "Version 2 turns the original's tentative question into a confident 'We could cover' but keeps the fit caveat; Version 1 makes the same change and also drops the 'where we might fit' hedge. Version 3 keeps the question framing but adds an unsupported volume claim ('We do a lot of refrigerated trucking') and narrows the offer to 'some of' their needs.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "E"
+  }
+}

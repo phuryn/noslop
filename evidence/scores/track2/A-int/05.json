@@ -1,0 +1,10 @@
+{
+  "id": 5,
+  "asked": false,
+  "recall_yes": 0,
+  "recall_partial": 2,
+  "hidden_total": 7,
+  "invented_specifics": [],
+  "meaning_preserved": 4,
+  "major": []
+}

@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 4,
+    "4": 2
+  },
+  "send": "4",
+  "tells": {
+    "1": "The balanced retrospective about lessons and students feels slightly generic; 'I found myself' adds unnecessary distance.",
+    "2": "none",
+    "3": "Repeated short sentences make the rhythm feel mechanically simplified.",
+    "4": "The neatly balanced contrast between successful and difficult lessons is slightly formulaic."
+  },
+  "reason": "Version 2 feels most personally grounded, with specific memories and an uncomfortable admission, though its details crowd the paragraph. I would publish version 4 for its controlled rhythm, coherence, and understated ending; these stylistic judgments do not establish authorship.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "track2/B5-int",
+    "3": "B5",
+    "4": "track2/A-int"
+  }
+}

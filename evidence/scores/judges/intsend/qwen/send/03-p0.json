@@ -1,0 +1,11 @@
+{
+  "send": "3",
+  "reason": "It preserves all the facts and the concise, neutral tone of the original without adding informal phrasing or changing the release-date wording.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "C",
+    "3": "track2/A-int",
+    "4": "track2/B5-int"
+  },
+  "picked_arm": "track2/A-int"
+}

@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "Versions 1 and 2 keep every fact, date, commitment and caveat. Version 1 stays closest to the original wording, and its attribution of the artwork to Halden Marine is already in the action items. Version 3 drops 'to the booth' and 'display' from the cutaway references, a slight loss of specificity.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "A",
+    "3": "B3"
+  }
+}

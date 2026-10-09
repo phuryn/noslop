@@ -1,0 +1,10 @@
+{
+  "send": "2",
+  "reason": "It preserves the progress estimate, the remaining Android biometric flow, and the Nov 3 timeline without changing the level of certainty. It reads like a straightforward team update.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "track2/B5-int",
+    "3": "C"
+  },
+  "picked_arm": "track2/B5-int"
+}

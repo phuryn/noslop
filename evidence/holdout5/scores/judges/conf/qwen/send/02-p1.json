@@ -1,0 +1,13 @@
+{
+  "send": "6",
+  "reason": "It keeps all the original facts and commitments while staying concise and direct, and it reads most like the writer's original voice.",
+  "label_to_arm": {
+    "1": "V6A",
+    "2": "E",
+    "3": "V6C",
+    "4": "C",
+    "5": "B5",
+    "6": "A"
+  },
+  "picked_arm": "A"
+}

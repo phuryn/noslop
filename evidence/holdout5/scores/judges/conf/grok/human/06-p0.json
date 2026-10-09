@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3,
+    "4": 6,
+    "5": 4,
+    "6": 7,
+    "7": 5
+  },
+  "send": "2",
+  "tells": {
+    "1": "Literal apology for the exact sum and a curt, menu-like close.",
+    "2": "none",
+    "3": "Stock empathy opener plus 'gesture of goodwill' and the padded 'if you'd like that'.",
+    "4": "Corporate template voice: 'basis for the deduction' and 'Please let us know how you'd like to proceed'.",
+    "5": "Support-script stack of 'I understand you're unhappy', 'goodwill gesture', and 'how you'd like to proceed'.",
+    "6": "none",
+    "7": "Ungrammatical 'we consider goes beyond' on the same goodwill template as version 3."
+  },
+  "reason": "Version 2 is the only reply that sounds like a skilled person actually wrote it—specific, spoken, and free of the empathy-plus-goodwill template—so it ranks first and is the one I would send. The middle drafts recycle support-script phrasing, version 4 is the most robotic, and version 6 is clearly human but too error-ridden and blaming to read as skilled.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "V6A",
+    "4": "O",
+    "5": "B5",
+    "6": "E",
+    "7": "V6C"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 4,
+    "3": 1,
+    "4": 2
+  },
+  "send": "3",
+  "tells": {
+    "1": "Generic conference-copy phrasing: “shares lessons” and “practical considerations” offer little sense of the specific work.",
+    "2": "none",
+    "3": "none",
+    "4": "Overconfident polishing: “helped lead” adds an unsupported leadership claim, while “which brought” strengthens the causal attribution."
+  },
+  "reason": "Version 3 is clear, natural, and appropriately careful about the results and the speaker’s role. Version 4 is tighter but overstates the supplied facts; version 1 feels generic, and version 2 has repetition, awkward phrasing, and formatting defects—none of which establishes AI authorship.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "E",
+    "3": "B3",
+    "4": "A"
+  }
+}

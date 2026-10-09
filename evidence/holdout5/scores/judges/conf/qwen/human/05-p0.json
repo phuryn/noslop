@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 7,
+    "3": 1,
+    "4": 2,
+    "5": 3,
+    "6": 5,
+    "7": 6
+  },
+  "send": "3",
+  "tells": {
+    "1": "Emoji-heavy, bolded bullet format feels like a generic AI Slack template.",
+    "2": "Formal, wordy phrasing such as 'The date for changeover will be on' feels unnatural for a quick Slack update.",
+    "3": "none",
+    "4": "Very tidy parallel bullets and chirpy tone feel slightly over-produced.",
+    "5": "none",
+    "6": "Repeated 'On [date]' sentence openings make it feel mechanical.",
+    "7": "Terse, affectless bullet list with an uneven final item feels generated rather than voiced."
+  },
+  "reason": "Version 3 gives the best mix of clear dates, scannable formatting, and approachable tone for a team Slack post. Version 5 is very natural, but 3 is easier to scan and act on.",
+  "label_to_arm": {
+    "1": "V6A",
+    "2": "E",
+    "3": "V6C",
+    "4": "O",
+    "5": "C",
+    "6": "B5",
+    "7": "A"
+  }
+}

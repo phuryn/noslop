@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "The conversational opener is natural, but the 'Before you start' compatibility check is placed after the application step, creating a small logical hiccup.",
+    "3": "It says to apply the sealer and then immediately says to check compatibility before applying it; the contradictory order and formal wording feel like an AI edit.",
+    "4": "Nearly identical to version 3 with the same contradictory apply/check order, but the straight apostrophe and flat tone read as a scrubbed AI draft."
+  },
+  "reason": "Version 1 is the cleanest and best-sequenced version, reading like a competent human editor wrote it. Version 2 has more voice but its misplaced compatibility check makes it slightly less polished.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "C",
+    "3": "O",
+    "4": "A"
+  }
+}

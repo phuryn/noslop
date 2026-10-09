@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2,
+    "4": 4
+  },
+  "reason": "Version 1 makes only minor losses of nuance; version 3 strengthens “hadn’t given much thought” to “hadn’t thought.” Version 2 adds absolute “always” and “never” claims, while version 4 additionally introduces “the whole drive home,” changes teaching a lesson again to teaching it better, and broadens “something” to “things.”",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "B",
+    "3": "A",
+    "4": "C"
+  }
+}

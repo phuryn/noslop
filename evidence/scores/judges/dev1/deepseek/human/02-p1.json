@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 4,
+    "4": 1,
+    "5": 5
+  },
+  "send": "4",
+  "tells": {
+    "1": "Uses the formal, slightly stiff phrase 'provide refrigerated trucking' and the generic AI-style 'discuss where we might fit'.",
+    "2": "Mostly human tone, but still ends with the common AI filler phrase 'where we might fit'.",
+    "3": "The phrase 'take the last-minute deliveries' is slightly unnatural and the CTA is generic.",
+    "4": "none",
+    "5": "Ends with an abrupt, contextless 'Do you have 15 minutes next week to talk?' that feels AI-truncated."
+  },
+  "reason": "Version 4 is the most concise and direct, uses natural trucking language like 'pick up last-minute loads,' and has a clear, non-formulaic CTA. It balances credibility and human tone better than the others.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "C",
+    "3": "B5",
+    "4": "A",
+    "5": "B3"
+  }
+}

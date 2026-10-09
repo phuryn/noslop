@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Generic 'work, keep in touch or relax' empathy list and redundant closing apology.",
+    "3": "Ends abruptly with no thank-you or sign-off, making it feel unfinished.",
+    "4": "Packs the same generic empathy list into one clause, which reads slightly forced."
+  },
+  "reason": "Version 1 is the most straightforward and credible, apologizing clearly without over-polished filler; it states the compensation and thanks the customer directly.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "O",
+    "3": "B3",
+    "4": "B5"
+  }
+}

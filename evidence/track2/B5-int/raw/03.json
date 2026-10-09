@@ -1,0 +1,7 @@
+{
+  "id": 3,
+  "arm": "B5",
+  "reply1": "Operational text with all its facts present, so I rewrote it directly. I kept the list structure, since release notes get scanned. I dropped the bold labels and wrote each item as a plain sentence.\n\n<final>\n# Ledgerly 4.2 release notes\nReleasing October 14\n\n## What's new\n\n- Bank feeds now sync every 15 minutes instead of every hour, so your transactions show up sooner.\n- You can now update multiple invoices at once instead of editing them one by one.\n\n## Fixes\n\n- Fixed a bug where currency symbols didn't display correctly in exported PDFs.\n</final>",
+  "asked": false,
+  "final": "# Ledgerly 4.2 release notes\nReleasing October 14\n\n## What's new\n\n- Bank feeds now sync every 15 minutes instead of every hour, so your transactions show up sooner.\n- You can now update multiple invoices at once instead of editing them one by one.\n\n## Fixes\n\n- Fixed a bug where currency symbols didn't display correctly in exported PDFs."
+}

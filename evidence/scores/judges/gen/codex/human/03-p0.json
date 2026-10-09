@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 4,
+    "4": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "Generic praise ('some great new features') adds promotional filler, though it isn't a reliable sign of AI authorship.",
+    "4": "none"
+  },
+  "reason": "Version 2 is concise, easy to scan, and describes the PDF fix directly; version 1 is slightly wordier, while version 4 loses useful scanning labels. Version 3 feels less professionally edited because of its vague praise and inconsistent sentence structure.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B3",
+    "3": "gen/E-write",
+    "4": "A"
+  }
+}

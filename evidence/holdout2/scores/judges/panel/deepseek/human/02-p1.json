@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "uses a formulaic empathetic triad ('work, keep in touch or relax at home') and a redundant closing apology"
+  },
+  "reason": "Version 1 is the most natural and complete: it admits fault directly, gives the credit details clearly, and closes with a simple thank-you without over-polishing.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "O"
+  }
+}

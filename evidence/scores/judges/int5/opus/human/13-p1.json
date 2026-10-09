@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 2,
+    "4": 3
+  },
+  "send": "3",
+  "tells": {
+    "1": "none; the only slip is the awkward phrase 'declining for good reasons we can't reverse,' which reads as a human paraphrase error",
+    "2": "Templated formatting: bolded lead-in on every list item, repeated 'Mitigation:' labels, and stock phrasing like 'structurally declining' and 'consume'",
+    "3": "Leftover corporate filler in the reinvestment section ('enhanced in-store experience,' 'targeted outreach,' 'capture customers')",
+    "4": "Markdown ## headings in an internal memo, and flat 'We will' commitments on actions leadership hasn't approved yet"
+  },
+  "reason": "Version 1 reads most naturally, but its 'good reasons' line weakens the opening argument and its prose risk section is harder to scan. Version 3 keeps clear, skimmable structure, frames mitigations conditionally ('we'd') to fit a pending decision, and has only minor corporate phrasing.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "O",
+    "3": "track2/B5-int",
+    "4": "track2/A-int"
+  }
+}

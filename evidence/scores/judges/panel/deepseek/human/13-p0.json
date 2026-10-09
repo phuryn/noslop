@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 5,
+    "4": 4,
+    "5": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "Highly uniform memo structure with repeated 'Mitigation:' labels and generic corporate phrasing like 'capital and operating dollars they consume'.",
+    "4": "Markdown-style '##' headings and tight, formulaic bullets with limited personal voice.",
+    "5": "Polished, balanced corporate tone with consistent 'Mitigation:' labels and generic AI-edited phrasing."
+  },
+  "reason": "Version 1 reads as the most naturally human and credible while still being clear and complete, avoiding the templated feel of the more heavily polished versions.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "E",
+    "3": "O",
+    "4": "A",
+    "5": "B3"
+  }
+}

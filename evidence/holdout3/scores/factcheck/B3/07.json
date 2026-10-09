@@ -1,0 +1,17 @@
+{
+  "dropped": [
+    {
+      "item": "The explicit claim \"It isn't cheaper\" (post-editing isn't actually a cheaper version of the work) no longer appears as a standalone statement. The idea survives later in \"I've saved no effort.\"",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "Original: the offer is made \"as if that were a discount on the real work,\" an implied framing. Edit: \"They present it as a discount on the real work,\" which explicitly attributes the framing to the agency.",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

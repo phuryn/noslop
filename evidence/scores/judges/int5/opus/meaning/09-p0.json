@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "Version 1 keeps every fact and commitment, losing only the 'not the experience we want' line and the closing apology. Version 2 keeps that line but drops the 'we'll be glad to help' offer and the thanks for patience. Version 3 cuts the most: it drops 'only' (five months), 'in the meantime', the help offer and the thanks, and softens 'as soon as it ships' to 'when it ships'.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "track2/B5-int",
+    "3": "track2/A-int"
+  }
+}

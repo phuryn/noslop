@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2
+  },
+  "reason": "Version 3 keeps every fact and caveat, including 'without exception' and 'early warning', and only adds the minor detail 'on your phone'. Version 1 drops the closing line 'It's how we keep each other safe', while Version 2 drops 'harm' from the definition, 'without exception', 'prompt, accurate' and the early-warning and keep-each-other-safe points.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "B5"
+  }
+}

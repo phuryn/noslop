@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2
+  },
+  "reason": "Version 2 uses only supplied facts and best reflects the writer’s clarifications, including the four-day week, employee health coverage, and removal of the unsupported influence claim. Version 3 ranks above version 1 because it softens “a real say” to “a say,” consistent with the writer’s request to soften or omit that claim.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "track2/B5-int",
+    "3": "track2/A-int"
+  }
+}

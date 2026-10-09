@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "Version 1 best preserves the original's tentative offer; version 2 strengthens it into a definite claim that they can cover Fairview Markets' routes. Version 3 adds a blanket geographic promise with “anywhere” and narrows last-minute needs to “occasional” runs, neither of which the original specifies.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B",
+    "3": "C"
+  }
+}

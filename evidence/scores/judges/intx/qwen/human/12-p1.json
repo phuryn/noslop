@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 5,
+    "3": 2,
+    "4": 1,
+    "5": 4
+  },
+  "send": "4",
+  "tells": {
+    "1": "none",
+    "2": "Encoding artifact and generic, awkward boilerplate phrasing.",
+    "3": "Smooth first-person storytelling but still vague, and the bio's 'the speaker' feels templated.",
+    "4": "none",
+    "5": "Formulaic 'This talk explores... It shares...' structure with vague abstractions."
+  },
+  "reason": "Version 4 feels the most human because its concrete numbers, admitted false positives, and named speaker give it a lived-in, credible voice. The others are cleaner or safer but more generic, while version 2 is clearly weakest because of encoding and phrasing problems.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "E",
+    "3": "C",
+    "4": "track2/B5-int",
+    "5": "O"
+  }
+}

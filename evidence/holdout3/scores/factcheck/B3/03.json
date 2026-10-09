@@ -1,0 +1,20 @@
+{
+  "dropped": [
+    {
+      "item": "\"and that's it\" after the £12 price, which implied no extra or hidden costs",
+      "severity": "minor"
+    },
+    {
+      "item": "\"No pressure at all\" reassurance in the P.S.",
+      "severity": "minor"
+    },
+    {
+      "item": "Standalone closing thanks (\"Thanks for being with us\"), now only partly carried by \"our thank you for being part of our community\"",
+      "severity": "minor"
+    }
+  ],
+  "changed": [],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

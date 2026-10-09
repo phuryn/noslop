@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2,
+    "4": 5,
+    "5": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "added uplift ('a small job now... something to look forward to') and an overly neat punchline",
+    "3": "template hinge 'Finally, a quick reminder' and flat, same-length sentences",
+    "4": "em-dash appositive gluing the how-to to a sentimental payoff",
+    "5": "stock pivots 'Then comes the hardest part' and 'And a reminder'"
+  },
+  "reason": "Version 1 has a particular voice—idiom, rhythm, and the invite to stay for a natter—while 2, 4, and 5 are one smoothed rewrite, with 4’s em dash the clearest machine tic. I’d send 1.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B3",
+    "3": "E",
+    "4": "O",
+    "5": "A"
+  }
+}

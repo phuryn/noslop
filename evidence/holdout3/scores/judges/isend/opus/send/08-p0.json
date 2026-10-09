@@ -1,0 +1,11 @@
+{
+  "send": "4",
+  "reason": "It keeps every fact and commitment: £6/ha, the 40 ha minimum, Lincolnshire and Norfolk, 48 hours counted from the flight, and maps that help you spot areas needing a closer look. It also reads naturally. Version 1 adds an inbox delivery promise, 2 drops the 'from the flight' timing and the purpose of the maps, and 3 reads stiffly ('We count the 48 hours from the flight').",
+  "label_to_arm": {
+    "1": "C",
+    "2": "E",
+    "3": "A",
+    "4": "B5"
+  },
+  "picked_arm": "B5"
+}

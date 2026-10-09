@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 3,
+    "4": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Unidiomatic closer 'sounds of interest,' a blend of 'sounds interesting' and 'of interest.'",
+    "3": "Stacked interest-checks ('wondered if you'd be interested' / 'if you're interested') read like polite template fill.",
+    "4": "'good fit' plus 'if it sounds interesting' is stock recruiter-template phrasing."
+  },
+  "reason": "Version 1 is the leanest and most spoken, with a blunt close and no broken idiom or stacked politeness, so it reads most like a person and is the one I'd send. Version 4 is close but template-flavored, 3 is smoothly generic, and 2's 'sounds of interest' is an obvious collocation slip.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "O",
+    "3": "A",
+    "4": "C"
+  }
+}

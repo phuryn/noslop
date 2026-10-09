@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "the tidy colon-list and semicolon structure feels slightly mechanical",
+    "3": "the phrase “found myself” is a common, slightly artificial memoir cliché",
+    "4": "awkward, under-edited phrasing such as “since my first” and expository detail-dumping"
+  },
+  "reason": "Version 1 feels the most human because it is concrete, restrained, and naturally paced without self-conscious framing. Version 4 adds specifics, but they feel forced and less polished.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "track2/A-int",
+    "3": "O",
+    "4": "track2/B3-int"
+  }
+}

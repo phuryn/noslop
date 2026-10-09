@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 4,
+    "3": 1,
+    "4": 2
+  },
+  "send": "3",
+  "tells": {
+    "1": "Flat, compressed phrasing that reads like a summarized draft (e.g., 'maybe reread or passed along to a friend'), and post 5 has no clear point",
+    "2": "Em dash setup plus the 'Ten years ago... Today...' contrast structure, the 'every shelf, every table, every book' tricolon, and the closing 'Those visits helped us get here'",
+    "3": "None obvious. The only slip is the switch from 'we' to 'My favorite thing' in post 5.",
+    "4": "Rhythmic tricolon ('every shelf, every table, every book') and paired 'Maybe it's been...' fragments, which read slightly polished and templated"
+  },
+  "reason": "Version 3 has the most specific, warm detail ('started with what we loved,' the friend who never returned the book) and a natural voice that matches an indie bookshop. Change 'My' to 'Our' in post 5 for consistency before posting.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "O",
+    "3": "C",
+    "4": "B"
+  }
+}

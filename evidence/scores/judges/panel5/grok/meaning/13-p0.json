@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 5,
+    "3": 4,
+    "4": 3,
+    "5": 2
+  },
+  "reason": "Version 1 keeps the recommendation, timing, rationale, mitigations, placeholders, and caveats intact; version 5 is nearly as exact aside from small shifts such as “serve” for “capture” and “we will” for proposed mitigations. Version 4 narrows or strengthens some claims but stays directionally accurate, while version 3 adds incorrect claims (“for good reasons,” irreversible decline, talent and inventory “in one place”), and version 2 drops or rewrites many specifics, including default-renewal risk, six-month outreach, severance and redeployment, pop-up/wholesale thresholds, and what the financial lines measure.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "E",
+    "3": "B5",
+    "4": "C",
+    "5": "A"
+  }
+}

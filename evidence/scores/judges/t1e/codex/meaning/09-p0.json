@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2
+  },
+  "reason": "Version 2 preserves all key facts and commitments, including the free replacement, and retains the full product name in the body; version 3 is nearly identical but abbreviates that reference. Version 1 omits the explicit commitment that the replacement is at no cost and changes the company's promises to personal promises.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "B3",
+    "3": "A"
+  }
+}

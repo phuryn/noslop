@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 1,
+    "3": 2,
+    "4": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "The flat moral summary ('taught me the importance of change... and it has taught me patience') and the stiff transition 'With that said' read as generic. The awkward phrasing ('a very informative profession') looks like an unskilled writer more than an AI.",
+    "2": "Neatly symmetrical beats ('Some lessons had gone beautifully. Others...') and the quietly telling detail of wiping 'a bench that was already clean' feel a little engineered, but the plainer sentence breaks keep it natural.",
+    "3": "The colon-led triad of tidy actions ('did the usual things: straightened..., checked..., wiped...') and the semicolon balance give it a polished, slightly templated rhythm.",
+    "4": "'I found myself doing the usual things' is a stock reflective filler phrase. Together with the colon triad and the typographic curly apostrophes, it reads as the most AI-smoothed of the three near-identical drafts."
+  },
+  "reason": "Versions 2–4 share the same strong, concrete core, but 2 has the least filler and the most natural sentence breaks, so it feels written rather than smoothed. Version 1 is clearly less skilled, telling rather than showing, with abstract lessons and a clunky close.",
+  "label_to_arm": {
+    "1": "gen/E-write",
+    "2": "B3",
+    "3": "A",
+    "4": "O"
+  }
+}

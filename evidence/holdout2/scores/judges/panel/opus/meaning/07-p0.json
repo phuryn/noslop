@@ -1,0 +1,11 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2
+  },
+  "reason": "Version 1 keeps nearly everything and drops only the closing line \"It's how we keep each other safe.\" Version 2 removes \"harm\" from the near-miss definition, drops \"without exception\" from the 24-hour rule, and cuts the \"early warning\" framing, \"accurate,\" and the safety line.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A"
+  }
+}

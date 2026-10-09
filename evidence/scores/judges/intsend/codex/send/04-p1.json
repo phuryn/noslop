@@ -1,0 +1,11 @@
+{
+  "send": "4",
+  "reason": "It preserves all the original meaning and practical details, including the invitation to chat and share ideas, while keeping my warm, relaxed voice.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "E",
+    "3": "track2/B5-int",
+    "4": "track2/A-int"
+  },
+  "picked_arm": "track2/A-int"
+}

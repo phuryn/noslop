@@ -1,0 +1,91 @@
+{
+  "dropped": [
+    {
+      "item": "Joan treated the narrator's fear as a practical problem rather than a character flaw, and the narrator saw this as the kindest thing she could have done",
+      "severity": "minor"
+    },
+    {
+      "item": "Concrete details of being bad at swimming: clumsy, swallowing water",
+      "severity": "minor"
+    },
+    {
+      "item": "Watching eight-year-olds glide past in the next lane",
+      "severity": "major"
+    },
+    {
+      "item": "The narrator was surprised by how little they minded by the end",
+      "severity": "minor"
+    },
+    {
+      "item": "Nobody expected the narrator to already know how (the reason the mornings felt restful)",
+      "severity": "minor"
+    },
+    {
+      "item": "It was the width of the pool the narrator crossed",
+      "severity": "minor"
+    },
+    {
+      "item": "Closing metaphor of discovering a room in one's own house that had always been there",
+      "severity": "minor"
+    },
+    {
+      "item": "Instruction to trust that the pool would do part of the work",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "Original says the folded arms might make the narrator 'less visible'. Edit says they are meant to hide how scared she is.",
+      "severity": "minor"
+    },
+    {
+      "item": "'Bad at it in ways I hadn't been bad at anything in years' became 'as bad ... as I've been bad at anything in my life', which is stronger and has a different scope",
+      "severity": "minor"
+    },
+    {
+      "item": "'A morning each week' became 'this weekly few hours a week', changing the time commitment",
+      "severity": "major"
+    },
+    {
+      "item": "'Oddly restful' became 'liberating'",
+      "severity": "minor"
+    },
+    {
+      "item": "Original presents trusting the pool as an instruction. Edit asserts as fact that 'the pool does take some of my weight'.",
+      "severity": "minor"
+    },
+    {
+      "item": "'For weeks' became 'For the first few weeks'",
+      "severity": "minor"
+    },
+    {
+      "item": "Joan's approach is reframed from practical to 'kindness and patience'",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "Others, specifically Joan, can see how scared the narrator is ('But they can. Joan can.')",
+      "severity": "minor"
+    },
+    {
+      "item": "The narrator is a woman",
+      "severity": "major"
+    },
+    {
+      "item": "'That's saying a lot' implies a long history of being bad at things",
+      "severity": "minor"
+    },
+    {
+      "item": "Arms folded 'tightly'",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [
+    "fifty two year old woman",
+    "But they can. Joan can.",
+    "this weekly few hours a week",
+    "that's saying a lot"
+  ],
+  "meaning_preserved": 3
+}

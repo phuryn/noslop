@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 3,
+    "4": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "welcome buried at the end after redundant reassurances",
+    "3": "welcome delayed to the final lines plus clichéd 'kept us on our toes'",
+    "4": "none"
+  },
+  "reason": "Version 1 has the most natural newsletter shape, consistent warmth, and a closing line that actually ties winter prep to the invitation. Versions 2 and 3 jarringly postpone the welcome, while 4 is clean but a little starker and less connected at the end.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "C",
+    "3": "O",
+    "4": "A"
+  }
+}

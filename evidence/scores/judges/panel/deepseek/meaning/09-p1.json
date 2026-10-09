@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 3,
+    "4": 2
+  },
+  "reason": "Version 1 preserves the original's key facts and commitments most fully. Version 4 is nearly as faithful but slightly abbreviates the product name; Version 3 adds 'new' and drops 'replacement' from the subject, while Version 2 omits the explicit 'at no cost' commitment, making it least faithful.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "E",
+    "3": "C",
+    "4": "A"
+  }
+}

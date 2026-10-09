@@ -1,0 +1,13 @@
+{
+  "send": "4",
+  "reason": "It keeps all the key facts and pricing, including the half-day sessions, combined booking, €28 cost, and the purpose of focused work. It also preserves the original’s practical, reassuring tone better than the other versions.",
+  "label_to_arm": {
+    "1": "V6A",
+    "2": "C",
+    "3": "A",
+    "4": "V6C",
+    "5": "B5",
+    "6": "E"
+  },
+  "picked_arm": "V6C"
+}

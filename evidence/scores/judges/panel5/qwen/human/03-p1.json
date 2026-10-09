@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 4,
+    "3": 2,
+    "4": 6,
+    "5": 3,
+    "6": 1
+  },
+  "send": "3",
+  "tells": {
+    "1": "The tacked-on 'Before, they didn't.' feels like an artificial attempt to simplify the fix.",
+    "2": "It leans on generic changelog boilerplate, especially 'Fixed a bug where...' with no distinctive voice.",
+    "3": "The bold label-plus-colon structure feels templated and slightly over-produced.",
+    "4": "The performative casualness ('What's new?', 'a bunch', exclamation) feels forced rather than naturally professional.",
+    "5": "The perfectly parallel bold mini-headlines and standard 'Fixed a bug' phrasing feel AI-templated.",
+    "6": "none"
+  },
+  "reason": "Version 6 feels most naturally human, but Version 3 is the best publishable balance of clarity, credibility, and scannability. It avoids the sloppiness of 4 and the heavier templating of 5.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "A",
+    "3": "B3",
+    "4": "E",
+    "5": "O",
+    "6": "C"
+  }
+}

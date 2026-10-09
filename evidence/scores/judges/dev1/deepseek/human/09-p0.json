@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 3,
+    "4": 5,
+    "5": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Stiff, impersonal phrasing: 'The bike is covered by our 2-year warranty' and 'reply to this message' lack the conversational softeners a human would likely use.",
+    "3": "Mostly clean, but 'just reply to this message' is a standard support-template closing and gives it a slight boilerplate feel.",
+    "4": "Overloaded with scripted empathy phrases like 'That's not the experience we want you to have' and 'again, my apologies for the inconvenience.'",
+    "5": "Leads with the resolution before any acknowledgment of the issue, which can feel more transactional/formulaic than naturally empathetic."
+  },
+  "reason": "Version 1 sounds most like a skilled human because it is warm, concise, uses personal accountability ('I'll email you') and avoids boilerplate. I would send it because it best balances human feel, clarity, and credibility.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B3",
+    "4": "O",
+    "5": "B5"
+  }
+}

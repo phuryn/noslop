@@ -1,0 +1,13 @@
+{
+  "send": "2",
+  "reason": "Version 2 preserves the original facts, commitments, and measured tone, keeping the talk details and clinical-experience framing intact without adding or losing meaning.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "A",
+    "3": "V6C",
+    "4": "V6A",
+    "5": "C",
+    "6": "E"
+  },
+  "picked_arm": "A"
+}

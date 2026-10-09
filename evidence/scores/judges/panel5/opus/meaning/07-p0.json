@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 4,
+    "3": 2,
+    "4": 1
+  },
+  "reason": "Version 4 keeps every fact nearly verbatim, and Version 3 adds only 'only', which the singular 'remaining piece' already implies. Version 1 changes 'flow' to 'login' and drops 'target date', while Version 2's 'only big piece left' wrongly suggests smaller tasks also remain.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "C",
+    "3": "A",
+    "4": "B3"
+  }
+}

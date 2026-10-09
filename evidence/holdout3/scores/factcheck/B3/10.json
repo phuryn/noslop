@@ -1,0 +1,21 @@
+{
+  "dropped": [
+    {
+      "item": "His study examines fire in landscapes where ecology, land management and policy meet",
+      "severity": "minor"
+    },
+    {
+      "item": "His work provides a long-term perspective on the challenges posed by wildfire and the questions facing those responsible for peatland resilience",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "Talk tense changed from future ('will draw on') to present ('draws on'), which weakens the signal that the talk is upcoming",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

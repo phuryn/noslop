@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 2,
+    "4": 3
+  },
+  "send": "3",
+  "tells": {
+    "1": "none",
+    "2": "The 'found myself doing the usual things:' colon setup, plus curly apostrophes that suggest pasted, generated text",
+    "3": "A neatly balanced closing line ('I was ready to go, but I took my time...') that feels slightly engineered",
+    "4": "The 'did the usual things:' colon-list setup and semicolon-balanced contrast"
+  },
+  "reason": "Version 1 reads most like an unedited human draft because of its clunky repetition, but it is weak prose. Version 3 has the same concrete details as 2 and 4 without the colon-setup filler, so it is the cleanest and most natural one to send.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "O",
+    "3": "B3",
+    "4": "A"
+  }
+}

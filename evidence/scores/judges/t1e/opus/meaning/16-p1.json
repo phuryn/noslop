@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2
+  },
+  "reason": "Version 1 drops only the 'found myself doing the usual things' framing, while Version 3 turns 'hadn't given much thought' into an absolute 'hadn't thought,' removing a hedge. Version 2 contradicts the original by adding 'carefully prepared,' invents good and bad years and a 'bang or whimper' remark, and loses the details about the lab, lessons and students.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "E",
+    "3": "A"
+  }
+}

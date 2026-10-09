@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "Version 1 keeps the original claims, baseline-and-care point, and $129 offer without adding facts. Version 2 drops the care-guidance and fuller-picture commitments and adds that the panel can be added to the visit, which neither source states; version 3 loses the core recommendation and value framing and wrongly ties the three-years-later beagle case to last year’s 1-in-5 figure.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "track2/A-int",
+    "3": "track2/B5-int"
+  }
+}

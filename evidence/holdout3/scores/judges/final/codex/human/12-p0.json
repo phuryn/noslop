@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 1,
+    "4": 6,
+    "5": 3,
+    "6": 5
+  },
+  "send": "3",
+  "tells": {
+    "1": "none",
+    "2": "The closing trio of invitations feels slightly formulaic.",
+    "3": "none",
+    "4": "Stacked enthusiasm: two exclamation marks and a polished three-part closing invitation.",
+    "5": "none",
+    "6": "The deliberately folksy phrasing and sentimental 'give these young trees a good start' feel overworked."
+  },
+  "reason": "Version 3 is clear, warm and economical, with all the practical details easy to find. Version 1 sounds spontaneous but needs sentence editing; the more embellished versions feel less natural for a simple community notice, though stylistic impressions cannot establish AI authorship.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "B5",
+    "3": "B3",
+    "4": "O",
+    "5": "A",
+    "6": "C"
+  }
+}

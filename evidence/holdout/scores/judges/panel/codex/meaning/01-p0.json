@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2
+  },
+  "reason": "Version 2 most closely preserves the original facts and commitments. Version 3 adds unsupported weather extremes and career longevity, but version 1 more materially strengthens a career pathway into a definite outcome (“leads to a career”) and weakens the members’ shared credit.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "C"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3
+  },
+  "reason": "Version 2 preserves the core facts, refund timing, and invitation for further questions with minimal change. Version 1 slightly broadens that invitation into a promise to help with anything else, while version 3 drops the invitation entirely.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B3",
+    "3": "A"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3
+  },
+  "reason": "Version 2 restates the same three claims without new qualifiers. Version 1’s “only” is a mild emphasis but still matches the single remaining piece, while version 3 adds “big,” which implies other work may remain and slightly softens the Nov 3 target-date commitment.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "C"
+  }
+}

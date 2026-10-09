@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 4,
+    "3": 1,
+    "4": 2
+  },
+  "reason": "Version 3 most closely preserves the original meanings and key nuances, followed by Version 4. Versions 1 and 2 introduce more paraphrased or condensed benefits and slightly shifted commitment wording.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "B5",
+    "4": "C"
+  }
+}

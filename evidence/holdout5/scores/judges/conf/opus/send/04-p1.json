@@ -1,0 +1,13 @@
+{
+  "send": "5",
+  "reason": "It keeps every fact: all eight branches from 1 October, free for over-65s, book online or walk in, and the new Oadby branch open 8am to 8pm. It also keeps my own closing line. It only drops the 'October is here' opener, which the 1 October date already covers.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "A",
+    "3": "V6A",
+    "4": "C",
+    "5": "B5",
+    "6": "V6C"
+  },
+  "picked_arm": "B5"
+}

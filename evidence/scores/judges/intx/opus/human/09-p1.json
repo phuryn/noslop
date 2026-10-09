@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 5,
+    "3": 3,
+    "4": 2,
+    "5": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Stacked stock phrases: 'That's not the experience we want you to have,' a closing 'Thank you for your patience,' and a second apology.",
+    "3": "The canned line 'That's not the experience we want you to have.'",
+    "4": "none (it's just a bit curt, especially 'If you have questions, reply to this message.')",
+    "5": "Template-style double apology and closing 'Thank you for your patience... sorry for any inconvenience,' plus repeating the full product name."
+  },
+  "reason": "Version 1 apologizes once and specifically, gives the fix clearly, and the 'I'll' makes one person accountable. It sounds warm without the boilerplate. Version 4 is close but reads slightly cold, and versions 2 and 5 rely on stock customer-service filler.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "O",
+    "3": "track2/B5-int",
+    "4": "track2/A-int",
+    "5": "E"
+  }
+}

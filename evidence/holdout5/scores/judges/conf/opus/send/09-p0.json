@@ -1,0 +1,13 @@
+{
+  "send": "3",
+  "reason": "It keeps every fact and commitment: Part I surface supplied, 28/28 out of Aberdeen, from £95k with more for experience, the supervisor's call staying theirs, no contact on leave, and a call or short message preferred over a CV. It also keeps the original order and voice, including the 'held together with tape' line; '1' shifts to 'You'd' and reorders the opening, '2' invites a CV, '4' and '6' drop the tape image for stock phrasing, and '5' narrows 'conditions' to 'weather'.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "E",
+    "3": "A",
+    "4": "V6A",
+    "5": "C",
+    "6": "V6C"
+  },
+  "picked_arm": "A"
+}

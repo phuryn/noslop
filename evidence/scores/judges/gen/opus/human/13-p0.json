@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 1,
+    "4": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "Bolded topic-sentence lead-ins on every rationale point, plus templated 'Mitigation:' labels and the stock closer 'I'm happy to walk through the analysis and take questions.'",
+    "2": "An overly tidy, symmetrical template: identical section scaffolding, perfectly parallel bullets, and a placeholder financial block that reads like a generated framework.",
+    "3": "none",
+    "4": "Formulaic 'Mitigation:' labels repeated on every risk, with bolded section headers and perfectly parallel 'X to do Y by [date]' next steps."
+  },
+  "reason": "Version 3 reads most clearly human: it is rambling and imprecise, with phrases like 'people planning early', but it is too vague and thin to send. Version 2 keeps the complete, credible structure and replaces the canned 'Mitigation:' labels and bold lead-ins with direct first-person commitments, so it reads the most natural of the polished drafts.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "A",
+    "3": "gen/E-write",
+    "4": "B3"
+  }
+}

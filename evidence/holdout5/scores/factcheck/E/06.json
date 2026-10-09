@@ -1,0 +1,33 @@
+{
+  "dropped": [],
+  "changed": [
+    {
+      "item": "The original states neutrally that the deduction was for a scratched front element. The edit directly says Aoife caused it ('as you have scratched the front element'), making the customer the actor.",
+      "severity": "minor"
+    },
+    {
+      "item": "The original offers the photos unconditionally on behalf of the company ('We can send you photos'). The edit makes it conditional and changes the actor to the individual sender ('If you want me too I can send you some pictures').",
+      "severity": "minor"
+    },
+    {
+      "item": "The original goodwill reduction depends on preference ('if you'd prefer'). The edit adds a new condition ('If you feel this is not fair') and phrases the offer as a question, which makes the commitment sound less firm.",
+      "severity": "minor"
+    },
+    {
+      "item": "The opening changes from acknowledging the customer's feelings ('I understand you're unhappy') to expressing the sender's own feelings ('I'm not happy that your not happy').",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "The sender's own emotional state: 'I'm not happy that your not happy'.",
+      "severity": "minor"
+    },
+    {
+      "item": "A new condition on the goodwill offer: 'If you feel this is not fair'.",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

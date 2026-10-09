@@ -1,0 +1,11 @@
+{
+  "send": "3",
+  "reason": "Version 3 uses the clarifications I gave—elephant toothpaste demo, period 4 AP Chemistry, Amina Yusuf, and my relief about leaving—while cutting the lines I couldn't support, so it says what I meant and sounds like me.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "track2/A-int",
+    "3": "track2/B5-int",
+    "4": "C"
+  },
+  "picked_arm": "track2/B5-int"
+}

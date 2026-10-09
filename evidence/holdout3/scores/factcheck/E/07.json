@@ -1,0 +1,87 @@
+{
+  "dropped": [
+    {
+      "item": "The core claim that post-editing carries 'the same liability with less of the thinking' and the 'same professional responsibility'. The edit never mentions the translator's liability or responsibility.",
+      "severity": "major"
+    },
+    {
+      "item": "The extra burden of untangling the machine's confident wrong guesses about terminology, jurisdiction, and legal concepts that have no clean equivalent between the two legal systems",
+      "severity": "major"
+    },
+    {
+      "item": "Concrete examples of contract errors: a misplaced modal verb, a quietly dropped negation, and the false friend 'disposición' rendered as 'disposition' instead of 'provision'",
+      "severity": "minor"
+    },
+    {
+      "item": "That such errors can shift an obligation from one party to the other. The edit replaces this with a vague 'big difference in terms of meaning'.",
+      "severity": "minor"
+    },
+    {
+      "item": "That machine output is fluent enough to hide errors, which makes it dangerous and means the draft can't be skimmed",
+      "severity": "minor"
+    },
+    {
+      "item": "That the client sees a saving on the invoice and imagines the risk has shrunk with it",
+      "severity": "minor"
+    },
+    {
+      "item": "That the risk has moved to a cheaper, more rushed, less visible place",
+      "severity": "minor"
+    },
+    {
+      "item": "The framing that agencies present post-editing as a discount on the real work rather than as a different and worse job",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "The original calls post-editing 'a different and worse job' with 'less of the thinking'. The edit says editing MT is 'exactly the same as translating it' and 'just the same work', which contradicts the original's distinction.",
+      "severity": "major"
+    },
+    {
+      "item": "Client consequence made certain and more specific. The original says that in a contract dispute 'that's usually where the bill finally shows up'. The edit says the client will pay 'when he's sued' and that it will be 'way more expensive'.",
+      "severity": "major"
+    },
+    {
+      "item": "Frequency and actor changed. The original says 'every few months an agency offers'. The edit says 'several language agencies always try'.",
+      "severity": "minor"
+    },
+    {
+      "item": "Scope of work changed. The original says the author translates Spanish-English legal documents. The edit says 'mostly' legal documents.",
+      "severity": "minor"
+    },
+    {
+      "item": "False friends. The original says MT mistranslates them (renders them wrongly). The edit says MT 'doesn't translate' them.",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "The author is a 'sworn translator', a professional credential not stated in the original",
+      "severity": "major"
+    },
+    {
+      "item": "A list of document types: contracts, agreements, employment contracts",
+      "severity": "minor"
+    },
+    {
+      "item": "The claim that agencies 'don't know' it's not cheaper, attributing ignorance to them",
+      "severity": "minor"
+    },
+    {
+      "item": "The client will be 'sued because of a bad translation'",
+      "severity": "minor"
+    },
+    {
+      "item": "The rhetorical framing question 'How I, a professional translator, feel about MT?'",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [
+    "sworn translator",
+    "(contracts, agreements, employment contracts, etc)",
+    "several language agencies always try to give me",
+    "when he's sued because of a bad translation"
+  ],
+  "meaning_preserved": 2
+}

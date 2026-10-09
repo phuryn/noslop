@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 3,
+    "3": 2,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "A benefit tacked on as padding: 'to give you more options during the week' sounds like a template, and it's odd because Sunday is the weekend. The curly apostrophes and 'As a current member', which assumes every reader is a member, add to the boilerplate feel.",
+    "2": "Forced casual framing: 'Quick heads-up', 'On a happier note', and 'we'll be glad to help' feel like warmth added afterward, and 'you don't have to pay the new price right away' says the same thing twice.",
+    "3": "None. It's clean and plain, though a little stiff in places like 'when the $135 rate takes effect for you'.",
+    "4": "None. It's tight and natural, with the price details combined into one clear sentence."
+  },
+  "reason": "Version 4 gives the change, the grandfathered rate, the end date, and the new classes in the fewest words, with no padding or forced cheer. It reads like a busy studio owner wrote it, which makes it the most credible and the clearest to send.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "C",
+    "3": "A",
+    "4": "B"
+  }
+}

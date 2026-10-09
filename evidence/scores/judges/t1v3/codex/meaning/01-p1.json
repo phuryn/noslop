@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 1,
+    "3": 2,
+    "4": 3
+  },
+  "reason": "Version 2 best preserves the facts and cautious recommendation; version 3 is close but changes the broader lesson into a claim about the author's single biggest operational win. Version 4 strengthens “hit or miss” to “weren't working” and drops the lesson, while version 1 adds unsupported claims about texting being the only change, quick results, and a one-month trial.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B",
+    "3": "B3",
+    "4": "A"
+  }
+}

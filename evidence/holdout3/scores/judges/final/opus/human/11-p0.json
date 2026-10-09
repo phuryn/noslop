@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 6,
+    "2": 4,
+    "3": 5,
+    "4": 2,
+    "5": 1,
+    "6": 3
+  },
+  "send": "6",
+  "tells": {
+    "1": "Polished balanced constructions throughout, such as 'rather than a character flaw', 'didn't feel triumphant so much as quietly astonished' and 'humbling, but it was also oddly restful'",
+    "2": "Over-trimmed, choppy restructuring that drops 'rather than a character flaw' and leaves a tidy colon-summary ('humbling, but also restful: a morning each week...')",
+    "3": "Same smooth, evenly cadenced 'not X so much as Y' framing and neat triadic list as version 1, just compressed",
+    "4": "The aside 'sure' and the 'didn't feel triumphant. I felt quietly stunned' reversal read like a deliberate casualizing pass",
+    "5": "none",
+    "6": "The 'not a flaw in my character' contrast and the tidy closing simile are slightly too neat"
+  },
+  "reason": "Version 5 has genuinely human slips, such as the missing comma, 'fifty two', the redundant 'weekly few hours a week' and the shift to present tense, but they hurt its quality and it drops the best image. Version 6 keeps the strongest content and the room-in-the-house ending, with clean, natural pacing and paragraphing, so it is the most publishable.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "A",
+    "3": "B3",
+    "4": "C",
+    "5": "E",
+    "6": "B5"
+  }
+}

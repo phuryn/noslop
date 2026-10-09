@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 2,
+    "3": 3,
+    "4": 1,
+    "5": 4
+  },
+  "send": "4",
+  "tells": {
+    "1": "Two consecutive questions make the close feel formulaic and overly tentative.",
+    "2": "none",
+    "3": "The closing phrase 'whether that fits what you need' feels unnecessarily wordy.",
+    "4": "none",
+    "5": "'We'd be glad to pitch in' adds stock friendliness without making the offer more useful."
+  },
+  "reason": "Version 4 is direct, specific, and confident, with a clear offer and one straightforward meeting request; version 2 is a close second. These are stylistic judgments, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B2",
+    "3": "A",
+    "4": "B",
+    "5": "C"
+  }
+}

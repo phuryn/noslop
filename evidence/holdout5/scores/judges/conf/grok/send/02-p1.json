@@ -1,0 +1,13 @@
+{
+  "send": "1",
+  "reason": "It keeps the same ask, supply commitment, free samples, and next-week call, with only light wording changes that don’t add or drop facts. The others shift the subject, the ask, or add claims the original doesn’t make.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B5",
+    "3": "C",
+    "4": "V6C",
+    "5": "E",
+    "6": "V6A"
+  },
+  "picked_arm": "A"
+}

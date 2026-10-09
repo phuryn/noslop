@@ -1,0 +1,11 @@
+{
+  "send": "4",
+  "reason": "It keeps every fact, commitment, and caveat, including the baselines-first framing, the TBD targets, and the full secondary goals and non-goals, and stays closest to my original wording. Version 2 drops the secondary goals and non-goals, and Version 3 softens 'validate the 30-minute target' into 'test whether it is realistic' while shifting the voice.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "E",
+    "3": "C",
+    "4": "A"
+  },
+  "picked_arm": "A"
+}

@@ -1,0 +1,10 @@
+{
+  "send": "2",
+  "reason": "It keeps the same facts and commitment: about 80% done, only the Android biometric flow left, and still on track for the Nov 3 target date, without adding a qualifier the original didn't have.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "track2/A-int",
+    "3": "track2/B5-int"
+  },
+  "picked_arm": "track2/A-int"
+}

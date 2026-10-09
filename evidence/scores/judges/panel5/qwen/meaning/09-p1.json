@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 5,
+    "2": 4,
+    "3": 1,
+    "4": 3,
+    "5": 2
+  },
+  "reason": "Version 3 preserves all key facts and commitments most closely, including the warranty, free replacement, tracking, and reply-for-help nuance. Version 1 ranks last mainly because it omits the explicit 'at no cost' commitment.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "C",
+    "3": "B5",
+    "4": "A",
+    "5": "B3"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 3,
+    "3": 1,
+    "4": 2
+  },
+  "reason": "Version 3 matches the original exactly. Version 4 keeps every fact with only harmless reordering and synonyms, while version 2 narrows the 50°F rule to curing and slightly changes the removal and application steps, and version 1 adds an “easy fix” claim, softens the temperature requirement to “try to,” and alters cleaning, application, coverage, and the leak check.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B5",
+    "3": "A",
+    "4": "B3"
+  }
+}

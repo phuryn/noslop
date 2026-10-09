@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 5,
+    "4": 2,
+    "5": 3,
+    "6": 6
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Templated structure (deadline, then a bulleted list for just two prices, then recommendation and CTA). The hyphen bullets do feel hand-typed.",
+    "3": "The same template, with Unicode '•' bullets for a two-item comparison that fits easily in one sentence.",
+    "4": "Slightly over-explained (adds 'We need it to hit...' and splits the reply instruction into two sentences), but nothing clearly machine-made.",
+    "5": "An 'Options:' label over a two-bullet list is unneeded scaffolding in a short Slack DM.",
+    "6": "The most polished version of the shared template: Unicode bullets, the '(£18k cheaper)' parenthetical and the formula of reply 'yes' or tell me otherwise."
+  },
+  "reason": "Version 1 reads most like a busy person typing in Slack: it leads with the recommendation, keeps the numbers inline and makes the ask clear in four sentences. Versions 2, 3 and 6 are near-identical copies of one tidy template, which makes them feel generated.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B2",
+    "3": "B",
+    "4": "C",
+    "5": "O",
+    "6": "B3"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1
+  },
+  "reason": "Version 3 preserves the original exactly, and version 1 preserves its substantive instructions and caveats with minor rephrasing and reordering. Version 2 adds an unsupported claim that the fix is easy, specifies wiping and brushing, weakens the temperature requirement to a suggestion about working conditions, and narrows checking for leaks to looking for drips.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "C",
+    "3": "A"
+  }
+}

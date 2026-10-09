@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 5,
+    "3": 2,
+    "4": 1,
+    "5": 6,
+    "6": 7,
+    "7": 3
+  },
+  "send": "4",
+  "tells": {
+    "1": "Emojis plus bold, neatly symmetrical bullets and phrases like 'get stuck/drop them' feel AI-polished.",
+    "2": "Stiff formal prose without contractions; 'It is important that all staff receive training' is a corporate-AI pattern.",
+    "3": "Mostly natural, but the date-based paragraphs and 'send new replies or updates from it' read slightly template-like.",
+    "4": "none",
+    "5": "Emoji bookends, bold bullets, and 'Got questions or feeling stuck?' are very AI-Slack.",
+    "6": "Same generated emoji/bullet template as 5, with generic phrasing like 'all set for the switch'.",
+    "7": "Very clipped minimal style; 'post them in this thread' is a bit impersonal but not a strong AI tell."
+  },
+  "reason": "Version 4 reads like a skilled human Slack update: warm, clear, and concise without stiff formality or AI-style emoji/bullet formatting. It is the most credible and natural option to send.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "E",
+    "3": "B5",
+    "4": "C",
+    "5": "V6C",
+    "6": "V6A",
+    "7": "A"
+  }
+}

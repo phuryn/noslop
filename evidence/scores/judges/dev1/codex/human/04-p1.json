@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 5,
+    "4": 4,
+    "5": 1
+  },
+  "send": "5",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "The awkward phrase 'comes after, which is leaving them alone' feels mechanically revised, though it is not reliable evidence of AI.",
+    "4": "The clustered folksiness—'pointy,' 'hard bit,' 'natter'—can feel deliberately applied rather than natural to the writer.",
+    "5": "none"
+  },
+  "reason": "Version 5 has the best balance of warmth, clarity and unforced rhythm; versions 1 and 2 are close alternatives. Version 4 pushes the conversational voice harder than necessary, while version 3 introduces an awkward transition; these are editorial judgments, not reliable indicators of authorship.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "O",
+    "3": "B5",
+    "4": "C",
+    "5": "A"
+  }
+}

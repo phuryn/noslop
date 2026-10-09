@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 3,
+    "3": 1,
+    "4": 4,
+    "5": 2
+  },
+  "send": "5",
+  "tells": {
+    "1": "Vague, reassuring filler such as 'guidance you can trust', 'keep your recovery moving' and 'unlock more of what the app has to offer', plus a benefit-explaining 'so...' clause on every bullet.",
+    "2": "Casual phrasing that feels forced ('Maybe you're bouncing back', 'we'll give you a nudge', 'keep you moving forward') layered over the same templated 'so...' bullet structure.",
+    "3": "none",
+    "4": "Over-flattened, mechanical declaratives ('Each video shows the form for the movement') and stacked 'so...' clauses that read like de-fluffed AI copy with the voice removed.",
+    "5": "Mild stock phrasing ('know what to do and how to do it right', 'see how far you've come')."
+  },
+  "reason": "Version 3 has the quirks of real App Store copy: hyphenated label bullets, an exclamation mark, 'Never miss a session again' and Apple's boilerplate renewal wording. But that boilerplate is clunky and the hype weakens credibility. Version 5 keeps the clean structure and accurate subscription terms while cutting the vague promises and filler of versions 1 and 2, so it's the strongest one to publish.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "C",
+    "3": "E",
+    "4": "A",
+    "5": "B3"
+  }
+}

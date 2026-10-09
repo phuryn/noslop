@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 5,
+    "4": 2,
+    "5": 4
+  },
+  "send": "2",
+  "tells": {
+    "1": "The polished three-part promise about days off, nights ending, and planning a life feels formulaic and exceeds what the stated hours establish.",
+    "2": "The oddly specific 'third plate of the night' feels like an inserted detail meant to establish authenticity.",
+    "3": "none",
+    "4": "The repeated three-part rhythms and neatly packaged sections make the voice feel somewhat templated.",
+    "5": "Words such as 'honestly' and 'actually' feel like deliberate attempts to manufacture an informal, candid voice."
+  },
+  "reason": "Version 2 has the best balance of personality, clarity, and restraint; version 4 is especially easy to scan but feels more packaged. These are editorial impressions, not reliable evidence of AI authorship, and version 3's roughness does not make it read like skilled human writing.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "E",
+    "4": "O",
+    "5": "C"
+  }
+}

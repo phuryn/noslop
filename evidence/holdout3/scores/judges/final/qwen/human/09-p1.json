@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 3,
+    "5": 6,
+    "6": 5
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "The added line 'real trade with real prospects' and 'skills that are always in demand' feels like generic marketing filler.",
+    "3": "The overly segmented paragraphs and repeated generic benefits make it feel templated rather than spoken.",
+    "4": "Phrases like 'rolling up your sleeves' and 'proper trade with a future' are polished but slightly cliché and copywritten.",
+    "5": "Boilerplate phrases such as 'earn whilst you learn', 'career for life' and '24.5k' make it feel generic and AI-ish.",
+    "6": "The pay sentence '£24,500 to start, for a four-day week' is slightly awkward and over-compressed."
+  },
+  "reason": "Version 1 sounds most like a real shop-floor employer: specific, plainspoken and credible, without leaning on clichés. I would publish it because the voice and details feel genuinely human.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "O",
+    "3": "B5",
+    "4": "C",
+    "5": "E",
+    "6": "B3"
+  }
+}

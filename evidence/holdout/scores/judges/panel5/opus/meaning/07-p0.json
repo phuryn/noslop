@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 3
+  },
+  "reason": "Version 1 keeps every fact, commitment, and closing element with only minor rewording. Version 2 keeps everything but adds a mild 'we'll help' promise. Version 4 drops the thanks for patience. Version 3 drops both the thanks and the invitation to ask further questions.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "C",
+    "3": "A",
+    "4": "B3"
+  }
+}

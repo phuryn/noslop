@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2
+  },
+  "reason": "Version 2 preserves the most meaning, though it turns a qualified general lesson into a claim about the biggest operational win. Version 3 overstates calls’ ineffectiveness and omits that lesson; Version 1 additionally changes rarely returned voicemails to never returned, adds an unsupported frequency claim, and weakens the point about timely care.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "B3",
+    "3": "A"
+  }
+}

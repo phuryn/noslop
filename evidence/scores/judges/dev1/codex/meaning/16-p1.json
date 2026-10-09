@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 3,
+    "4": 1
+  },
+  "reason": "Version 4 best preserves the original’s qualifications, though it omits the explicit sense of routine; version 1 strengthens “hadn’t given much thought” to “hadn’t thought.” Version 3 further makes this absolute with “never thought” and drops “trying,” while version 2 adds “the whole drive home” and changes teaching lessons “again” to teaching them “better.”",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "B5",
+    "4": "B3"
+  }
+}

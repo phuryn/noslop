@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1
+  },
+  "send": "3",
+  "tells": {
+    "1": "The stock phrase 'Near misses are our early warning' adds a slightly formulaic note.",
+    "2": "'It's how we keep each other safe' adds a generic reassurance after the practical rationale is already clear.",
+    "3": "none"
+  },
+  "reason": "Version 3 is direct, readable and appropriately firm without unnecessary emphasis or motivational language. Version 1 is close; version 2 feels more packaged, though none of these stylistic features establishes AI authorship.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "O",
+    "3": "A"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 5,
+    "5": 4
+  },
+  "reason": "Version 1 stays closest to the original wording and facts; versions 2 and 3 are nearly as faithful with only minor rephrasing. Version 5 slightly alters the invoice-editing nuance, and version 4 most changes meaning by saying the currency symbol wasn't showing up rather than not displaying correctly.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B5",
+    "3": "B3",
+    "4": "E",
+    "5": "C"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1
+  },
+  "reason": "Version 2 preserves the original detail that Ashby Mill came to us, while Version 1 changes this to merely saying they had a problem. Both omit the final commendation, but Version 2 retains more of the original factual framing.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A"
+  }
+}

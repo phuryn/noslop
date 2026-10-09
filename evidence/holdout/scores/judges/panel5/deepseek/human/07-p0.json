@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 2,
+    "3": 3,
+    "4": 1,
+    "5": 4
+  },
+  "send": "4",
+  "tells": {
+    "1": "Clipped, formulaic structure and no closing courtesy or offer to help.",
+    "2": "None",
+    "3": "Generic template-style closing line.",
+    "4": "None",
+    "5": "Passive, formal phrasing and less direct accountability."
+  },
+  "reason": "Version 4 reads like a skilled human agent: it takes clear responsibility, explains the cause and fix, gives the refund timing, and closes politely without excess.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "B3",
+    "4": "B5",
+    "5": "O"
+  }
+}

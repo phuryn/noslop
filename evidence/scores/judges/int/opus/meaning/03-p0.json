@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3
+  },
+  "reason": "Version 2 keeps every fact, number, date, and feature label, including 'editing them one by one'; Version 1 matches it except for slightly trimmed wording, and both recast the bug fix as an outcome without changing its meaning. Version 3 keeps the original sentences most closely but drops the feature names ('Faster bank feed sync', 'Bulk invoice editing', 'PDF export'), which is a small loss of content.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "track2/B3-int",
+    "3": "track2/A-int"
+  }
+}

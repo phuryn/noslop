@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+  },
+  "reason": "Version 1 closely preserves the original’s claims and caveats; version 2 strengthens the causal claim and changes leaks that 'might' go unnoticed to ones that 'would.' Version 3 adds unsupported claims about most utilities, previously unknown leaks, and discussing failures, while version 4 most materially changes the account by adding a leadership role and asserting stronger causation and confirmed unnoticed leaks.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "B5",
+    "3": "C",
+    "4": "A"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "Version 1 keeps all original facts, figures, and structure most closely. Version 2 is nearly as faithful but slightly condenses the ask/update; Version 3 loses the Nordwind pilot's 'successfully' nuance and the closing thanks.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "B5",
+    "3": "A"
+  }
+}

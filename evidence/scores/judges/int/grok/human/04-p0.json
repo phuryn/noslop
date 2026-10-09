@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2,
+    "4": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "\"After that\" explains the wry closer instead of landing it",
+    "3": "none",
+    "4": "identical to 2; same \"After that\" smoothing"
+  },
+  "reason": "Version 1 reads most like a skilled newsletter editor: the frost line and the garlic joke arrive in one breath, and the diary note stays warm without being smoothed flat. Version 3 keeps that closer but chops the lead; 2 and 4 are the same clearer, duller rewrite, so their rank split is arbitrary.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "track2/B3-int",
+    "3": "track2/A-int",
+    "4": "B3"
+  }
+}

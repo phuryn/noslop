@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 5,
+    "3": 3,
+    "4": 2,
+    "5": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "The sentimental pivot 'And then you walked through the door' feels slightly scripted.",
+    "2": "The generic opening 'marks a special milestone'; otherwise, its awkwardness provides no clear AI tell.",
+    "3": "Uniformly restrained phrasing smooths away personality, especially 'we started with what we could.'",
+    "4": "Low-information additions such as 'an anniversary to celebrate' and 'Those visits helped us get here' feel like editorial padding.",
+    "5": "Stacked rhetorical patterns—'Every shelf, every table, every book' and repeated 'Maybe' sentences—make the warmth feel engineered."
+  },
+  "reason": "Version 1 has the strongest conversational voice and the most memorable detail: the borrowed book that never came back. The ranking weighs skilled execution rather than likely authorship; version 2's repetition and tangled fifth post put it last, even though it could easily be human-written.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "E",
+    "3": "A",
+    "4": "B3",
+    "5": "O"
+  }
+}

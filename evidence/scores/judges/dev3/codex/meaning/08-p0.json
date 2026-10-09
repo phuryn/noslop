@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 2
+  },
+  "reason": "Version 1 preserves nearly all meaning and qualifications; version 4 drops the closing value proposition but otherwise stays close. Version 2 also omits how results guide care and strengthens the bloodwork recommendation, while version 3 changes the age threshold, omits other health markers, and overstates a 'fuller picture' as 'the full picture.'",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "A",
+    "3": "C",
+    "4": "B3"
+  }
+}

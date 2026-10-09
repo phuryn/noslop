@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 5,
+    "3": 4,
+    "4": 2,
+    "5": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "Mildly formulaic sentiment in 'Every shelf, table and book had to earn its place.'",
+    "2": "Stacked rhetorical patterns: 'Every shelf, every table, every book' and 'Maybe... Maybe...' make the warmth feel choreographed.",
+    "3": "Conspicuous casual touches ('Not bad,' 'honestly,' the borrowed-book joke) feel inserted to establish personality; the unexplained switch from 'we' to 'My' weakens the voice.",
+    "4": "none",
+    "5": "Repeating 'now we have two floors' immediately after establishing it suggests sentence-level polishing without reviewing the whole thread."
+  },
+  "reason": "Version 1 balances warmth, clarity and a consistent shop voice without trying too hard to sound personable. Version 4 is restrained but slightly flat; these are stylistic judgments, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "O",
+    "3": "C",
+    "4": "A",
+    "5": "B5"
+  }
+}

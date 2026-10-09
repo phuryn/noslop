@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 5
+  },
+  "send": "2",
+  "tells": {
+    "1": "none",
+    "2": "Stock tricolon: \"the heat, the cold, and everything in between.\"",
+    "3": "Cramped colon cadence and the strained line \"The number is our members' too.\"",
+    "4": "Pat parallel \"belongs to our crews\" / \"belongs to our members,\" plus \"Next up.\"",
+    "5": "Hype stack (blazing/freezing, every single, lasting) with \"What's next\" and a question CTA."
+  },
+  "reason": "Version 1 is the plainest co-op voice, with specific seasons and no template scaffolding. I'd still post 2: it keeps that spoken credit-sharing and is clearer, while 3–5 grow more compressed, parallel, and intensified.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B5",
+    "3": "B3",
+    "4": "O",
+    "5": "C"
+  }
+}

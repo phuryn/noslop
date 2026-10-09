@@ -1,0 +1,7 @@
+{
+  "id": 7,
+  "arm": "B3",
+  "reply1": "The text is a short status update with no real tells, so I only merged the first two sentences to vary the rhythm. The facts and qualifiers (\"about 80%\", \"the remaining piece\", \"still on track\") are unchanged.\n\n<final>\nMobile login migration to the new auth service is about 80% done, and the Android biometric flow is the remaining piece. We're still on track for the Nov 3 target date.\n</final>",
+  "asked": false,
+  "final": "Mobile login migration to the new auth service is about 80% done, and the Android biometric flow is the remaining piece. We're still on track for the Nov 3 target date."
+}

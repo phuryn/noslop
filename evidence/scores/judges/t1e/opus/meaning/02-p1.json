@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1
+  },
+  "reason": "Version 2 keeps every fact and the 'whether that fits' hedge, though it turns the tentative 'Could we help…?' into an assertion and slightly reframes the on-time stat and 'last-minute loads'. Version 3 keeps the tentative question and the fit hedge but adds the unsupported claim 'we do a lot of refrigerated trucking'. Version 1 turns the offer into a confident claim and drops the 'where we might fit' hedge entirely.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "E"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 3,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "Em-dash flourish and tidy tricolon give it a polished but slightly templated feel.",
+    "2": "Awkward, flat phrasing, especially 'We wouldn't be here without you coming in.'",
+    "3": "Reads like a safe compression of the stronger version: grammatically clean but voiceless.",
+    "4": "none"
+  },
+  "reason": "Version 4 feels most human because concrete details and vulnerability sound like a real shop owner rather than generic promotional copy. Version 1 is the best polished fallback, but less memorable.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B5",
+    "3": "track2/A-int",
+    "4": "track2/B5-int"
+  }
+}

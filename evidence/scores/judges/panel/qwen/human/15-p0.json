@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 5,
+    "4": 1,
+    "5": 3
+  },
+  "send": "4",
+  "tells": {
+    "1": "Mild boilerplate cadence, especially the 'Whether...' triad and 'see how far you've come'.",
+    "2": "Robotic phrasing, especially 'Each video shows the form for the movement'.",
+    "3": "Canned marketing cheerfulness, especially 'Never miss a session again' and 'watch your progress grow!'.",
+    "4": "none",
+    "5": "Generic filler such as 'guidance you can trust' and 'unlock more of what the app has to offer'."
+  },
+  "reason": "Version 4 sounds the most like a skilled human marketer: conversational, benefit-focused, and specific enough to feel credible. Version 1 is clear but more boilerplate, while 3 and 5 show obvious templated phrasing.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "E",
+    "4": "C",
+    "5": "O"
+  }
+}

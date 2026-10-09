@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 2,
+    "4": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Stacked stock courtesies, generic empathy, and a repeated apology make the reply feel padded and templated.",
+    "3": "none",
+    "4": "none"
+  },
+  "reason": "Version 1 gives a specific apology, a clear remedy, and a next step with natural pacing; version 3 is nearly as strong. Version 4 sounds less polished but more individual than version 2, whose repeated courtesies feel formulaic; none of these features establishes AI authorship.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "O",
+    "3": "B3",
+    "4": "gen/E-write"
+  }
+}

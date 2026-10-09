@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1
+  },
+  "reason": "Version 3 preserves the core offer and metric while incorporating only writer-supplied facts, including the 2-hour definition of on-time, fleet capacity caveat, and monitoring upgrade. Versions 1 and 2 omit the requested timing clarification; version 1 is more faithful because it retains the exploratory question about helping, whereas version 2 changes it into a statement of intent.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "B5",
+    "3": "track2/B5-int"
+  }
+}

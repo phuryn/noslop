@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+  },
+  "send": "2",
+  "tells": {
+    "1": "A stacked comfort list (kettle, catch your breath, spoonful) and a stock em-dash closer ('glad to have you along').",
+    "2": "Even, frictionless pacing and the vague collaborative line 'talk through the practicalities together'.",
+    "3": "Sympathy said twice ('not alone', then 'same boat') plus webinar-ish 'glad you're here'.",
+    "4": "Empty filler ('glad to have you along') and a 'Wherever you are' clause that doesn't fit the invitation."
+  },
+  "reason": "Version 1 has the most lived-in club voice, including the 'Well,' and a real slip a person would leave in. Version 2 is the one to send: it keeps that warmth, puts the welcome first, and states the workshop and fondant without the buried greeting or padded sympathy.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "A",
+    "3": "C",
+    "4": "B3"
+  }
+}

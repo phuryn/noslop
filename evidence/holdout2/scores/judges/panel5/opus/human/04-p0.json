@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 3,
+    "3": 1,
+    "4": 2
+  },
+  "send": "3",
+  "tells": {
+    "1": "Tacked-on evaluative flourish after an em dash ('a clear result for a team committed to maintaining high food safety standards') that praises rather than informs",
+    "2": "Leftover compliment sentence ('The team there holds itself to high food safety standards') that adds nothing and reads like a softened version of the AI flourish",
+    "3": "none",
+    "4": "none"
+  },
+  "reason": "Version 3 is the tightest: problem, action, result, with no padding or self-congratulation, so the zero-findings outcome speaks for itself. Version 4 is nearly as clean but slightly wordier ('came to us with... a need for'), while 1 and 2 add an empty praise line about food safety standards.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B5",
+    "3": "B3",
+    "4": "A"
+  }
+}

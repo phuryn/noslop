@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2
+  },
+  "reason": "Version 2 keeps the definition (including harm), the no-exception rule, and the early-warning rationale, dropping only the “keep each other safe” line. Version 3 adds an unstated “on your phone” requirement and softens that safety purpose, while version 1 narrows the definition by dropping “harm” and removes “without exception” plus several purpose details.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "B5"
+  }
+}

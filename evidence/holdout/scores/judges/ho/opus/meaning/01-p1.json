@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 1,
+    "4": 5,
+    "5": 3
+  },
+  "reason": "V3 keeps every fact, commitment, and nuance almost word for word, and V2 loses only 'real' money. V5 also drops 'everything in between'; V1 adds an unsupported 'lasting' career and exaggerates the weather; V4 drops 'real' money and 'in between', turns 'a path into' a career into a guarantee ('leads to'), and weakens the 'belongs to our members' framing.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B",
+    "3": "B2",
+    "4": "A",
+    "5": "B3"
+  }
+}

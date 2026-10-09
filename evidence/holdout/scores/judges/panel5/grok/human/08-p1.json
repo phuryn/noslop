@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1,
+    "4": 5,
+    "5": 4
+  },
+  "send": "3",
+  "tells": {
+    "1": "Neat antithesis in 'a history and a future worth caring for,' closed with a generic 'years to come.'",
+    "2": "'It's a real privilege' stacked with a slogan about putting music back in people's homes; the past/future line is a strained rephrase.",
+    "3": "none",
+    "4": "Template stack: 'What I love about this work is that,' em dash, 'find their voice,' 'privilege,' and 'years to come.'",
+    "5": "'Find its voice again is a privilege' plus the 'years to come' closer reads like stock inspirational copy."
+  },
+  "reason": "Version 3 sounds like a working restorer: specific, modest, and slightly imperfect, without the privilege/voice slogans the others share. Version 4 is the most templated.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "C",
+    "3": "A",
+    "4": "O",
+    "5": "B5"
+  }
+}

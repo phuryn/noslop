@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1
+  },
+  "reason": "Version 3 keeps the core facts, rollout details, and support commitments most fully with only minor omissions; Version 1 drops the battery-distance benefit and the 'no silly question' reassurance; Version 2 alters Crowd Focus to a single person and drops 'step by step.'",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "B3"
+  }
+}

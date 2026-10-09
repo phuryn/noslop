@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 5,
+    "2": 4,
+    "3": 1,
+    "4": 2,
+    "5": 3
+  },
+  "reason": "Version 3 preserves the original claims most exactly; versions 4 and 5 remain very close, with 4 retaining the more precise description of the PDF fix. Version 2 adds an unsupported detail about opening invoices individually, while version 1 changes incorrectly displayed currency symbols into missing symbols.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "C",
+    "3": "A",
+    "4": "B3",
+    "5": "B5"
+  }
+}

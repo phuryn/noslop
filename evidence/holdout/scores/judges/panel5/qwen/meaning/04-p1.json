@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 3,
+    "3": 2,
+    "4": 1
+  },
+  "reason": "Version 4 preserves nearly all original facts and nuances, including 'catch your breath' and the workshop details. Version 3 is close with no added claims but loses some nuance; version 2 keeps more content but adds 'most' and 'just'; version 1 drops the inclusive welcome and other nuances.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "B3",
+    "4": "B5"
+  }
+}

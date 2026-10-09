@@ -1,0 +1,34 @@
+{
+  "dropped": [
+    {
+      "item": "The word 'practical' qualifying the considerations offered to utilities",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "Certainty raised: the original says pressure data 'can help reveal leaks that might otherwise go unnoticed'. The edit says it 'can show leaks that would otherwise go unnoticed'.",
+      "severity": "minor"
+    },
+    {
+      "item": "'Considerations for utilities looking to make better use of their existing pressure data' became 'what other utilities should consider before making more of their own pressure data'. This adds a 'before' timing frame and a more prescriptive 'should'.",
+      "severity": "minor"
+    },
+    {
+      "item": "Bio attribution reframed: the original says the speaker helped use pressure data to identify leaks and reduce non-revenue water from 14% to 9%. The edit makes leak-finding 'part of the effort' that achieved the reduction, which implies a broader effort with other contributors.",
+      "severity": "minor"
+    },
+    {
+      "item": "The abstract voice shifts from third person ('Mesa Valley Water Authority used data it already had') to first person ('we used data we already had'). The title already uses 'We', so this is consistent.",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "Bio implies the 14% to 9% reduction came from a larger effort, of which the leak detection work was only one part",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

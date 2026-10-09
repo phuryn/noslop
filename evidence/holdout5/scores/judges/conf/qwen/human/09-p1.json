@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 3,
+    "4": 5,
+    "5": 7,
+    "6": 2,
+    "7": 6
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "the stock 'held together with tape' image feels like a synthetic attempt at colour",
+    "3": "slightly over-shaped contrast and the phrase 'for the first kind' feel edited rather than spoken",
+    "4": "the tape metaphor and 'conditions or kit say it isn't right' read smoothed-over",
+    "5": "generic superlatives and vague claims like 'great company' and 'fantastic team' are classic AI filler",
+    "6": "none; it is an exact duplicate of 1",
+    "7": "'run the former' and 'a bit of respect' make the voice feel polished but artificial"
+  },
+  "reason": "Version 1 sounds most like a credible human operator: direct, plain-spoken, and specific without hype. Version 6 is identical, so the split is only to satisfy the no-ties rule; Version 3 is strong but feels slightly more edited.",
+  "label_to_arm": {
+    "1": "V6C",
+    "2": "A",
+    "3": "C",
+    "4": "B5",
+    "5": "E",
+    "6": "V6A",
+    "7": "O"
+  }
+}

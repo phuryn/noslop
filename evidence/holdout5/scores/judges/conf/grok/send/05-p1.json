@@ -1,0 +1,13 @@
+{
+  "send": "2",
+  "reason": "It keeps every fact, date, and caveat—the 2 Nov move of all tickets, logging new ones in HomeFix Hub, the 16 Nov read-only inbox with lookup only, training by Friday, and questions in the thread—and it still sounds like the writer’s casual Slack note.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "V6C",
+    "3": "B5",
+    "4": "V6A",
+    "5": "C",
+    "6": "E"
+  },
+  "picked_arm": "V6C"
+}

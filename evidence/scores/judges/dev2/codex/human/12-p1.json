@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 1,
+    "3": 3,
+    "4": 2,
+    "5": 5
+  },
+  "send": "2",
+  "tells": {
+    "1": "Mechanical repetition: 'This talk covers' followed by 'It also covers,' with the bio repeating the abstract.",
+    "2": "none",
+    "3": "The generic closing phrase 'making better use of their own pressure data' weakens an otherwise concrete abstract.",
+    "4": "The familiar 'what worked, what didn't' formula feels slightly rehearsed, though the conversational voice suits a talk.",
+    "5": "Stock conference-copy language: 'This talk explores,' 'It shares lessons,' and 'practical considerations.'"
+  },
+  "reason": "Version 2 is direct, economical, and easy to follow, making it my publication choice provided the leadership role and causal claim are accurate. These are stylistic judgments, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "B5",
+    "4": "C",
+    "5": "O"
+  }
+}

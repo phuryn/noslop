@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 4,
+    "3": 1,
+    "4": 2
+  },
+  "reason": "Version 3 keeps every fact and nuance intact. Version 4 only lightly rephrases the same claims, while version 1 drops “this week” and “a small job,” and version 2 adds “this Saturday,” softens the frost timing and “hardest part,” and omits the chat and ideas for next season.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "E",
+    "3": "A",
+    "4": "B3"
+  }
+}

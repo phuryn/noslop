@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 6,
+    "3": 3,
+    "4": 5,
+    "5": 1,
+    "6": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "Mildly templated: parallel bolded label-colon structure and boilerplate 'Fixed a bug where...' phrasing.",
+    "2": "Forced chattiness ('What's new?', 'What's fixed?', 'You can now edit a bunch...!') plus the 'PDF's' apostrophe error.",
+    "3": "none",
+    "4": "Slightly awkward date line 'Releases October 14' and clipped 'instead of one by one'.",
+    "5": "none",
+    "6": "Redundant 'Before, they didn't' after the fix statement feels over-explanatory."
+  },
+  "reason": "Version 5 has the most natural human voice, but Version 1 is the best all-around release note: clear, scannable, credible, and still human-sounding enough to publish.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "E",
+    "3": "A",
+    "4": "B3",
+    "5": "C",
+    "6": "B5"
+  }
+}

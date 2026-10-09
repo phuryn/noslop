@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 6,
+    "3": 5,
+    "4": 2,
+    "5": 4,
+    "6": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Repeated product details and ceremonial thanks make it feel padded, though these are also common human marketing habits.",
+    "3": "Stacked stock reassurances and community language, plus a bullet list that repeats the preceding paragraph.",
+    "4": "Generic warmth in 'part of our community' and 'makes your desk a little more colourful'.",
+    "5": "Manufactured intimacy in 'quietly working on something' and 'You've been with us for a while'; 'nothing else to pay' adds an unsupported assurance.",
+    "6": "Formulaic friendliness: 'join from day one', 'Thanks for being with us', and 'No pressure'."
+  },
+  "reason": "Version 1 reads most like a confident editor's customer email: clear, brief, and specific, with the offer easy to find. These rankings assess editorial judgment and human feel, not actual authorship; stylistic tells cannot establish AI use.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "E",
+    "3": "O",
+    "4": "B3",
+    "5": "C",
+    "6": "B5"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 2,
+    "3": 6,
+    "4": 1,
+    "5": 3,
+    "6": 4
+  },
+  "send": "2",
+  "tells": {
+    "1": "Bold labels restate the next sentence in a rigid feature-then-benefit template.",
+    "2": "none",
+    "3": "none",
+    "4": "none",
+    "5": "The flat add-on “Before, they didn’t.” restates the fix without adding anything.",
+    "6": "Interchangeable bold-label changelog template, closed with stock “Fixed a bug where.”"
+  },
+  "reason": "Version 4 has the most specific human voice, but version 2 is the one I’d publish: clear, grammatical, and credible for release notes, without 1 and 6’s label-template gloss or 3’s sloppy casual rewrite.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "E",
+    "4": "C",
+    "5": "B5",
+    "6": "O"
+  }
+}

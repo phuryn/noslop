@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 5,
+    "3": 3,
+    "4": 1,
+    "5": 2
+  },
+  "reason": "Versions 4, 2 and 5 keep every fact, deadline, recommendation and caveat, differing only in bullet style or clause order. Version 1 keeps the facts but reframes the request slightly. Version 3 drops the 'unless you see a reason not to' caveat, so a provisional recommendation becomes a firm preference.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B2",
+    "3": "A",
+    "4": "B3",
+    "5": "B"
+  }
+}

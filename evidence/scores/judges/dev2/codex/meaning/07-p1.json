@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 4,
+    "4": 3
+  },
+  "reason": "Version 2 preserves all details most directly, followed closely by 1; version 4 makes exclusivity slightly more explicit with “only.” Version 3 adds “big,” implying other smaller pieces may remain, whereas the original identifies the Android biometric flow as the remaining piece.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "B3",
+    "3": "C",
+    "4": "A"
+  }
+}

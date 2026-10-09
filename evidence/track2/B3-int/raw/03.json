@@ -1,0 +1,7 @@
+{
+  "id": 3,
+  "arm": "B3",
+  "reply1": "Everything in the draft is already specific and the facts are all present, so this is a light edit. I removed the bold on the bullet labels and the italic date line, and tightened the wording.\n\n<final>\nLedgerly 4.2 Release Notes\nRelease date: October 14\n\nWhat's new\n\n- Faster bank feed sync: Bank feeds now sync every 15 minutes instead of hourly, so transactions show up sooner.\n- Bulk invoice editing: You can update multiple invoices at once instead of editing them one by one.\n\nFixes\n\n- PDF export: Currency symbols now display correctly in exported PDFs.\n</final>",
+  "asked": false,
+  "final": "Ledgerly 4.2 Release Notes\nRelease date: October 14\n\nWhat's new\n\n- Faster bank feed sync: Bank feeds now sync every 15 minutes instead of hourly, so transactions show up sooner.\n- Bulk invoice editing: You can update multiple invoices at once instead of editing them one by one.\n\nFixes\n\n- PDF export: Currency symbols now display correctly in exported PDFs."
+}

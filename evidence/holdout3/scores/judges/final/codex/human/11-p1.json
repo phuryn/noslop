@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 6,
+    "3": 3,
+    "4": 4,
+    "5": 5,
+    "6": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "The closing hidden-room metaphor gives the experience an exceptionally tidy literary resolution.",
+    "2": "none",
+    "3": "Repeated balanced contrasts and parallel clauses make the emotional progression feel carefully engineered.",
+    "4": "The compressed emotional transitions make the movement from fear to acceptance feel slightly too seamless.",
+    "5": "The inserted 'sure' and emphatic sentence breaks feel like deliberate attempts to manufacture conversational spontaneity.",
+    "6": "The progression from concrete embarrassment to a neatly articulated lesson and closing metaphor feels familiar and polished."
+  },
+  "reason": "Version 1 has the best balance of natural cadence, concrete observation and emotional reflection; version 6 is close but loses some of the insight into Joan's kindness. These are stylistic judgments, not evidence of authorship, and version 2's roughness does not make it read like the most skilled human writing.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "E",
+    "3": "O",
+    "4": "B3",
+    "5": "C",
+    "6": "A"
+  }
+}

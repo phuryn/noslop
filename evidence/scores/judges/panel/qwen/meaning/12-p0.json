@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3,
+    "4": 4
+  },
+  "reason": "Version 2 best preserves the original’s caveats, especially “might otherwise go unnoticed” and the nuanced “help reduce,” without adding new facts. Version 1 is close but strengthens causality and adds “lead”; Version 3 adds unsupported generalization and new commitments, while Version 4 adds a speaker name and drops the hidden-leak caveat.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "C",
+    "4": "E"
+  }
+}

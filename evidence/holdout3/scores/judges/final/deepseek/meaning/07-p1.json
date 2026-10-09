@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 3,
+    "3": 2,
+    "4": 5,
+    "5": 1
+  },
+  "reason": "Version 5 best preserves the original's explicit claims and caveats, including 'It isn't cheaper' and the shifted-risk point. Versions 3, 2, and 1 are close but omit or soften minor caveats, while version 4 adds and changes details such as 'sworn translator' and the frequency/agency framing.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "A",
+    "3": "B3",
+    "4": "E",
+    "5": "C"
+  }
+}

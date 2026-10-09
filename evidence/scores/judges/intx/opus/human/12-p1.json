@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 3,
+    "3": 1,
+    "4": 5,
+    "5": 2
+  },
+  "send": "3",
+  "tells": {
+    "1": "Generic, hedged phrasing ('can help reveal leaks that might otherwise go unnoticed', 'practical considerations') with no specifics. It reads like a smoothed summary.",
+    "2": "none. The flaws are human ones: the duplicated 'Abstract Abstract', mojibake in 'Authorityâ€™s', and stiff engineering-report prose ('In this capacity', 'other items to consider').",
+    "3": "The tidy 'You'll leave knowing…' closer is a stock takeaway line. The very specific anecdote (named tech, leak under an elementary school) appears in no other version, so it must be verified.",
+    "4": "A compressed, faceless summary ('what other utilities should weigh before doing the same'), with the bio repeating the abstract almost word for word.",
+    "5": "Polished 'what worked, what didn't, and what…' triad. The bio's anonymous 'the speaker' clashes with the first-person abstract."
+  },
+  "reason": "Version 3 is the only one with concrete stakes (gallons saved, cost, timeline, false-positive rate, a candid take on ML versus threshold rules), and that is what gets a talk accepted. Send it only after confirming that every added fact and name is accurate. Otherwise, version 5 is the safest clean choice.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "E",
+    "3": "track2/B5-int",
+    "4": "track2/A-int",
+    "5": "C"
+  }
+}

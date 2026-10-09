@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 3,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "Vague, hedged filler with no concrete detail ('explores how', 'helps reveal', 'practical considerations'), plus a bio that just restates the abstract.",
+    "2": "Mostly clean, but the bio repeats the 14% to 9% stat verbatim, and it offers no detail beyond that one number.",
+    "3": "Padded, repetitive structure ('This talk covers... It also covers...'), and the 14% to 9% stat is recycled in the bio.",
+    "4": "None obvious. The voice shifts between 'we' and 'I', and the bio doesn't say what the speaker did on this project, but those read as human quirks."
+  },
+  "reason": "Version 4 has concrete numbers, a named colleague, an admitted 30% false-positive rate, and a contrarian view on ML, which makes it the most credible and useful pitch. Its many specifics don't appear in the other versions, so verify them before sending.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "track2/A-int",
+    "3": "B3",
+    "4": "track2/B3-int"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 4,
+    "4": 3,
+    "5": 5
+  },
+  "send": "2",
+  "tells": {
+    "1": "Mild templated cadence: 'The effects:' followed by tightly parallel two-sentence bullets.",
+    "2": "none",
+    "3": "Bold parallel lead-ins and 'What this costs:' are typical AI formatting tells.",
+    "4": "'This causes four problems:' is an explicit AI-style enumeration signpost.",
+    "5": "Over-formal signposts like 'The consequences are significant:' and 'There is currently no system that detects...' feel AI-generated."
+  },
+  "reason": "Version 2 uses varied sentence rhythm, concrete phrasing, contractions, and a natural team voice while staying clear; it feels least templated. Version 1 is close but more formal, and 3–5 lean on AI-style signposting.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "C",
+    "3": "B3",
+    "4": "A",
+    "5": "O"
+  }
+}

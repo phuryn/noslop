@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 6,
+    "4": 5,
+    "5": 2,
+    "6": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "generic, overly safe corporate phrasing and a slightly awkward line about mall traffic declining for reasons that cannot be reversed",
+    "3": "template-like Markdown headings and consultant-speak such as 'structurally' and 'incremental investment'",
+    "4": "mechanical repeated 'Mitigation:' labels make the risk section feel formulaic",
+    "5": "none",
+    "6": "high-gloss executive polish, perfectly parallel bolded sections, and buzzwords like 'structurally declining' make it feel AI-edited"
+  },
+  "reason": "Version 1 sounds most like a real leader writing to peers: direct, concrete, and organized without becoming sterile. It is also the one I would send because it balances clarity, credibility, and human voice better than the more templated alternatives.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B5",
+    "3": "A",
+    "4": "B3",
+    "5": "E",
+    "6": "O"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "dropped": [
+    {
+      "item": "Thanks for your patience",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "Actor of the double charge: original says 'you were charged twice' (passive); edit says 'we charged you twice', explicitly attributing the charge to ParkWise",
+      "severity": "minor"
+    },
+    {
+      "item": "Contact invitation: original's open-ended 'please let us know' became the specific 'just reply to this email'",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "Instruction to reply to this email as the contact method",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

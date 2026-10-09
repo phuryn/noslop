@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1,
+    "4": 4,
+    "5": 5,
+    "6": 6
+  },
+  "send": "3",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "none",
+    "4": "The compatibility check follows the application instruction, suggesting insufficient attention to sequence rather than proving AI authorship.",
+    "5": "The same misplaced compatibility check as version 4.",
+    "6": "Conspicuous conversational padding ('Got a leaky tent seam?', 'It's an easy fix') and less precise wording ('spills a little') make the friendliness feel manufactured."
+  },
+  "reason": "Version 3 offers the clearest sequence, precise instructions, and a natural professional voice, though none of these features establishes authorship. Versions 4 and 5 differ only in apostrophe typography, so their required separate ranks are arbitrary.",
+  "label_to_arm": {
+    "1": "B",
+    "2": "B3",
+    "3": "B2",
+    "4": "O",
+    "5": "A",
+    "6": "C"
+  }
+}

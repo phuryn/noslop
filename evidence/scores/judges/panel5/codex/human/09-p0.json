@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 5,
+    "3": 6,
+    "4": 1,
+    "5": 3,
+    "6": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "Mildly formulaic opening and closing thanks.",
+    "2": "Repeated apologies and product naming feel padded, though neither is specifically an AI tell.",
+    "3": "“That's not the experience we want you to have” adds stock empathy, followed by another redundant apology.",
+    "4": "none",
+    "5": "none",
+    "6": "none"
+  },
+  "reason": "Version 4 sounds the most naturally conversational and personally accountable. I would send version 1 for its balance of warmth, professional tone and clear resolution; these are stylistic judgments, not reliable evidence of authorship.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "E",
+    "3": "O",
+    "4": "C",
+    "5": "B3",
+    "6": "A"
+  }
+}

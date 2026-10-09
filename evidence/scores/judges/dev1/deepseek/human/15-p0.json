@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 3,
+    "3": 5,
+    "4": 2,
+    "5": 1
+  },
+  "send": "5",
+  "tells": {
+    "1": "Formulaic benefit phrasing built around repeated 'so you can/so you know' clauses.",
+    "2": "Vague premium value line: 'gives you more of what the app has to offer.'",
+    "3": "Plain feature-list tone with little persuasive benefit and stilted phrasing like 'Each video shows the form for the movement.'",
+    "4": "Slightly polished marketing clichés and symmetrical cause-effect phrasing such as 'guidance you can trust' / 'keep your recovery moving.'",
+    "5": "none"
+  },
+  "reason": "Version 5 reads most like a skilled human wrote it: it has natural conversational rhythm, specific benefits, and credible, varied sentence structure. I would send it because it balances warmth, clarity, and credibility without becoming vague or robotic.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "B5",
+    "3": "A",
+    "4": "O",
+    "5": "C"
+  }
+}

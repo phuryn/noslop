@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "Version 1 keeps every fact, commitment, and caveat, including adding the engine cutaway display to the booth and requesting full display specs. Version 2 only lightly reframes what was agreed, while version 3 drops “to the booth” and shortens “engine cutaway display specs.”",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "A",
+    "3": "B3"
+  }
+}

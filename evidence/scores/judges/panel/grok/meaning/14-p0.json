@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2,
+    "4": 4
+  },
+  "reason": "Version 2 keeps the facts and claims with only light compression. Version 3 mainly drops nuances, version 1 adds unsupported specifics (what they loved, first week, a dozen rereads, never returned), and version 4 changes the square footage, invents longing for the old space, and rewrites or drops several core claims.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B3",
+    "3": "A",
+    "4": "E"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 3,
+    "4": 1
+  },
+  "reason": "Version 4 keeps the stats, call-vs-text facts, and outcomes nearly verbatim, with only a narrowed lesson and a dropped stakeholder line. Version 1 retains the full arc but adds unsupported claims (results showed up quickly; test for a month) and shifts hedges; version 3 drops the lesson and dual-benefit point and upgrades “hit or miss” to “weren’t working”; version 2 relabels no-shows, changes “rarely” to “never,” weakens the untreated-patient claim, and omits the lesson.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "E",
+    "3": "A",
+    "4": "B3"
+  }
+}

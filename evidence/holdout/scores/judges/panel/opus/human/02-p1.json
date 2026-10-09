@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 4,
+    "3": 2,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "none; the hedged 'I think you're currently… so I wondered' opener and the repeated 'interested' read more like human clumsiness than AI",
+    "2": "Typographically perfect curly apostrophes plus the slightly stiff 'if it sounds of interest' give it a polished, template-like feel",
+    "3": "none; the only weak point is the hedged 'I think you're currently', which undercuts credibility",
+    "4": "Mild recruiter boilerplate ('might be a good fit', 'if it sounds interesting'), which is generic rather than distinctly AI"
+  },
+  "reason": "Version 4 opens with a confident, specific observation ('I saw you're…') instead of an uncertain guess, and it flows like a real recruiter's note. Version 3 is nearly as tight but hedges on the candidate's current role, while versions 1 and 2 are clunkier and more template-like.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "O",
+    "3": "B3",
+    "4": "C"
+  }
+}

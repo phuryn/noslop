@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 4,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "Arranged lyricism: the em dash, “One of the lovely things,” and the mirrored Maybe lines.",
+    "2": "Stock specifics piled on to seem lived-in — Middlemarch, Mr. Okafor, a $38,000 GoFundMe, a retired-teacher bestseller — plus a so-thank-you glue sentence.",
+    "3": "“One of the lovely things … is that” is explanatory filler, and cutting the two-floors beat leaves the nostalgia floating.",
+    "4": "Rule-of-three “every shelf, every table, every book” and the paired “Maybe it’s been” sentences."
+  },
+  "reason": "Version 4 sounds most like a person editing their own posts: direct, even, and not performing loveliness or color. Version 2 has the liveliest lines, but the added names and figures feel inserted and the thank-you post is clumsy; 1 arranges the same beats into lyric copy, and 3 only flattens it.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "track2/B3-int",
+    "3": "B3",
+    "4": "track2/A-int"
+  }
+}

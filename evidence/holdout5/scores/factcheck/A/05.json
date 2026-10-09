@@ -1,0 +1,12 @@
+{
+  "dropped": [],
+  "changed": [
+    {
+      "item": "Original says 'no new replies or updates from there'; edit says 'you can't send replies or updates from it'. 'Send' slightly narrows the scope, since 'updates' could include status changes logged in the inbox rather than messages sent.",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

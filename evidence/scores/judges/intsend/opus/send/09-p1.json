@@ -1,0 +1,11 @@
+{
+  "send": "2",
+  "reason": "It keeps every fact and commitment (2-year warranty, free replacement battery, tracking email, apologies for the failure and the delay, invitation to reply) in the writer's formal register. Leading with the fix is a reasonable change. Version 4 drops 'at no cost', and versions 1 and 3 shift the tone (casual in 1, curt in 3).",
+  "label_to_arm": {
+    "1": "C",
+    "2": "track2/B5-int",
+    "3": "track2/A-int",
+    "4": "E"
+  },
+  "picked_arm": "track2/B5-int"
+}

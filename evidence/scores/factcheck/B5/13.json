@@ -1,0 +1,30 @@
+{
+  "dropped": [
+    {
+      "item": "Customer outreach was described as 'targeted'; the edit says only 'outreach'",
+      "severity": "minor"
+    },
+    {
+      "item": "Online items were framed as 'investment in' site performance, fulfillment, and so on; the edit says 'work on', which weakens the explicit link to spending money",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "'Mall traffic is structurally declining' became 'declining for good reasons we can't reverse'. 'Structural' means long-term, not cyclical. The edit adds more certainty ('can't reverse') and a judgment ('good reasons') that weren't in the original.",
+      "severity": "minor"
+    },
+    {
+      "item": "'Consolidating lets us concentrate talent and inventory' became 'put our talent and inventory in one place'. This is inaccurate because the plan has two destinations, the Denver flagship and online.",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "Claim that mall traffic is declining 'for good reasons we can't reverse'",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

@@ -1,0 +1,17 @@
+{
+  "dropped": [
+    {
+      "item": "'I found myself doing' implied the routine actions were automatic or unreflective; 'I did' loses that nuance",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "'hadn't given much thought to how I would actually leave the room' became 'hadn't thought about how I would actually leave the room', which turns 'little thought' into 'no thought'",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

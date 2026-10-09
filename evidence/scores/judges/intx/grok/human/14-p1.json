@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 5,
+    "4": 4,
+    "5": 1
+  },
+  "send": "5",
+  "tells": {
+    "1": "none",
+    "2": "Heartwarming specifics absent from the shared story — Middlemarch, Mr. Okafor, a $38,000 GoFundMe — read like invented color.",
+    "3": "Rule of three and tidy antithesis: every shelf, table, and book had to earn its place.",
+    "4": "Same even template as 3, plus an em dash and the stock phrase 'One of the lovely things.'",
+    "5": "none"
+  },
+  "reason": "Version 5 sounds like someone who runs the shop — a shrug, a joke, no extra plot — so that is the one I would post. Version 1 is rough but human; 2's named regular and exact fundraiser feel engineered; 3 and 4 are the same polished, interchangeable template.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "track2/B5-int",
+    "3": "track2/A-int",
+    "4": "O",
+    "5": "C"
+  }
+}

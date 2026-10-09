@@ -1,0 +1,30 @@
+{
+  "dropped": [
+    {
+      "item": "Framing of the senior panel as 'a practical way to get a fuller picture of your dog's health' (the value pitch for the $129 panel)",
+      "severity": "minor"
+    },
+    {
+      "item": "'make the most of their yearly checkup' as a benefit statement",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "'Bloodwork can help spot changes' became 'Bloodwork can show changes', a more confident claim about what bloodwork does",
+      "severity": "minor"
+    },
+    {
+      "item": "'before noticeable symptoms appear' became 'before symptoms appear', a broader claim (before any symptoms, not just noticeable ones)",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "The senior wellness panel 'can be done as part of the yearly checkup', a logistical claim only implied in the original",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

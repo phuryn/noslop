@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 2,
+    "3": 4,
+    "4": 3,
+    "5": 1
+  },
+  "send": "2",
+  "tells": {
+    "1": "Two hedged questions in a row ('Could we help...' then 'Would you have...'), plus the formal 'discuss' and stiff 'finished last year with a 99.2% on-time rate', give it a templated feel.",
+    "2": "none",
+    "3": "The rhetorical 'Could we help Fairview Markets...?' opener before the ask is a stock template move.",
+    "4": "none, though 'where we might fit' is a slightly generic sales stock phrase.",
+    "5": "none, though 'we'd be glad to pitch in' is a bit soft and folksy for a cold pitch."
+  },
+  "reason": "Version 5 reads most naturally, and Version 2 is close behind with trucker-plain phrasing like 'pick up last-minute loads' and a confident statement of what they can cover. I'd send Version 2 because it's the tightest and most concrete while still sounding like a real person.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "A",
+    "3": "B2",
+    "4": "B",
+    "5": "C"
+  }
+}

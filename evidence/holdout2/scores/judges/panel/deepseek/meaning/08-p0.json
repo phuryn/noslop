@@ -1,0 +1,11 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2
+  },
+  "reason": "Version 1 keeps all original meaning and content, changing only apostrophe style. Version 2 drops the phrase 'but here we are,' which loses a nuance of self-aware acceptance from the original.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3"
+  }
+}

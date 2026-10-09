@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 3,
+    "4": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Choppy three-sentence structure with stiff phrasing ('The remaining piece is', 'target date') that reads like a formal report rather than Slack",
+    "3": "'with only ... left' appended clause plus redundant 'target date' gives a slightly polished, templated feel",
+    "4": "'flow' is slightly more formal jargon than needed, otherwise close to natural"
+  },
+  "reason": "Version 1 is the most concise and conversational, using the plain 'biometric login' and dropping the redundant 'target date', which fits a quick Slack update. Versions 2 and 3 add mild formality and redundancy that make them read more like edited or generated text.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "O",
+    "3": "track2/A-int",
+    "4": "track2/B5-int"
+  }
+}

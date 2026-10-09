@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 5,
+    "2": 4,
+    "3": 1,
+    "4": 3,
+    "5": 2
+  },
+  "reason": "Version 3 keeps every fact and nuance, changing only the sentence break. Version 5 then 4 make progressively smaller wording shifts, while 2 drops “this week,” “small job,” and “hardest,” and 1 recasts the planting advice, adds “until next summer” and “this Saturday,” and omits the chat and ideas.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "C",
+    "3": "A",
+    "4": "B5",
+    "5": "B3"
+  }
+}

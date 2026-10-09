@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2,
+    "4": 4
+  },
+  "send": "2",
+  "tells": {
+    "1": "Templated LinkedIn scaffolding: the 'Here's what that meant in practice:' lead-in to a three-item bullet list, a 'The lesson for me:' moral, and an engagement-bait closing question",
+    "2": "Mostly none. 'Meeting patients where they already are' is a mild stock phrase.",
+    "3": "Tacked-on engagement question at the end ('How are you handling no-shows?')",
+    "4": "Self-answered rhetorical opener ('...? Yes.') and generic hashtags. It reads more like an unskilled human than AI, with a repeated 'Very proud' and the misspelling 'noshow'."
+  },
+  "reason": "Version 2 keeps the concrete result, the reasoning and the call to action in tight, natural prose without listicle formatting or engagement bait. That makes it the most credible and the most like something written by a skilled practitioner.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B3",
+    "3": "A",
+    "4": "gen/E-write"
+  }
+}

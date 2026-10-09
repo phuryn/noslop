@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 3,
+    "4": 1
+  },
+  "send": "1",
+  "tells": {
+    "1": "Four evenly portioned labelled blocks, plus the tidy reassurance that logging 'is not about blame'.",
+    "2": "Bold on the subject, dates and every heading, with the slogan 'It's how we keep each other safe.'",
+    "3": "Generic 'What this means' bullets and clipped parallel sentences; the body feels compressed, not written.",
+    "4": "none"
+  },
+  "reason": "Version 4 reads like someone writing to the crew; 1 is a bit more shaped but still direct; 3 is a thinned template and 2 is a polished markdown memo. I would send 1: it keeps the full rule, scans cleanly, and does not sound generated.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "O",
+    "3": "A",
+    "4": "B5"
+  }
+}

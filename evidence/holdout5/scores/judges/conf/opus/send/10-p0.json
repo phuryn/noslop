@@ -1,0 +1,13 @@
+{
+  "send": "5",
+  "reason": "Version 5 keeps every fact intact: 15 years of experience without implying they were all at Limbwise, the talk details, fit as an ongoing consideration, and comfort, function and everyday life at the centre. Versions 1, 2 and 6 change what the 15 years refers to, 3 softens 'at the centre' to 'in view', and 4 adds a gendered pronoun and loses detail.",
+  "label_to_arm": {
+    "1": "V6C",
+    "2": "C",
+    "3": "A",
+    "4": "E",
+    "5": "B5",
+    "6": "V6A"
+  },
+  "picked_arm": "B5"
+}

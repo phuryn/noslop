@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 1,
+    "3": 2,
+    "4": 3
+  },
+  "reason": "Version 2 keeps every fact and the 'target date' framing almost verbatim. Version 3 is equally faithful but rephrases slightly. Version 4 drops 'target date', which makes Nov 3 sound firmer. Version 1 changes 'the remaining piece' to 'the only big piece left', which implies smaller work remains, and it also drops 'target date'.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B3",
+    "3": "A",
+    "4": "B"
+  }
+}

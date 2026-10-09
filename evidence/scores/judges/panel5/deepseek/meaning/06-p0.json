@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 5,
+    "2": 4,
+    "3": 1,
+    "4": 2,
+    "5": 3
+  },
+  "reason": "Version 3 stays closest to the original wording and preserves all core facts, price, and cancellation terms with only minor omissions; versions 4 and 5 introduce small nuance shifts, version 2 slightly more, and version 1 adds new claims and changes the headline/value promise.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "A",
+    "3": "B5",
+    "4": "B3",
+    "5": "C"
+  }
+}

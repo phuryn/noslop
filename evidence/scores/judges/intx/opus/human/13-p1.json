@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 3,
+    "3": 1,
+    "4": 4,
+    "5": 2
+  },
+  "send": "2",
+  "tells": {
+    "1": "Every list item opens with a bolded label, and each risk follows the same 'Mitigation:' template, which gives it a generated, form-filled feel.",
+    "2": "Very even, parallel sentence rhythm across sections and some stock consultant phrasing such as 'spread management attention and cash thin'. The tell is mild.",
+    "3": "none",
+    "4": "Markdown '##' headers in an internal memo, plus four identical 'We will...' mitigation sentences in a row.",
+    "5": "Bold lead-ins on every bullet, plus conversational headers like 'What could go wrong, and what we'd do about it' that read as deliberately humanized."
+  },
+  "reason": "Version 3 is clearly a real person's rough draft but too loose for leadership. Version 2 keeps the clarity and completeness of the polished versions while dropping the formatting tics and staying professional, so it is the most credible memo to send.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "track2/B5-int",
+    "3": "E",
+    "4": "track2/A-int",
+    "5": "C"
+  }
+}

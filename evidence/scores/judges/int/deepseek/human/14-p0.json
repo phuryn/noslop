@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 4,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "Uses an em dash, a polished triad, and the stock phrase “One of the lovely things…” which gives it a slightly templated feel.",
+    "2": "Plainer but still generic; leans on repeated “Maybe” fragments and vague nostalgia without concrete details.",
+    "3": "Over-condensed into tidy beats and a formal long sentence, making it feel less conversational.",
+    "4": "none"
+  },
+  "reason": "Version 4 uses specific, credible details and natural sentence variety, so it sounds like a real shop owner telling a real story rather than generic anniversary filler.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "track2/A-int",
+    "3": "B3",
+    "4": "track2/B3-int"
+  }
+}

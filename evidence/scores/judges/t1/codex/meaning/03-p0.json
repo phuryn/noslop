@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1
+  },
+  "reason": "Version 3 preserves all original claims and nuances. Version 1 omits the explicit benefit that transactions appear sooner, while version 2 strengthens that benefit to “much sooner” and adds an unsupported detail about opening invoices individually.",
+  "label_to_arm": {
+    "1": "B",
+    "2": "C",
+    "3": "A"
+  }
+}

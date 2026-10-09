@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 5,
+    "3": 2,
+    "4": 1,
+    "5": 3,
+    "6": 6
+  },
+  "send": "4",
+  "tells": {
+    "1": "Uses formulaic marketing language like 'practical way to get a fuller picture' and a symmetrical, polished structure.",
+    "2": "Ends abruptly after the price with no conversational close; relies on the standard 'baseline to track over time' phrase.",
+    "3": "AI-style benefit wrap-up: 'practical way to get a fuller picture... and more out of the checkup.'",
+    "4": "none",
+    "5": "Formal, padded phrasing ('it is highly beneficial to have annual blood work done') and redundant list of markers.",
+    "6": "Flat, generic summary with no hook or personality; bluntly ends with 'costs $129.'"
+  },
+  "reason": "Version 4 sounds the most like a skilled, natural clinic writer because it uses concrete conversational phrasing ('shots,' 'hits 7,' 'something's off') while still covering the medical content and a clear CTA. It avoids the formulaic marketing phrases and stiffness present in other versions.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B3",
+    "3": "B5",
+    "4": "C",
+    "5": "E",
+    "6": "A"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 5,
+    "3": 1,
+    "4": 7,
+    "5": 6,
+    "6": 4,
+    "7": 2
+  },
+  "send": "3",
+  "tells": {
+    "1": "Slightly abstract, balanced phrase 'with time set aside for work and care' feels more like polished AI than everyday speech.",
+    "2": "Flat, mechanical simplicity: 'The desk and the childcare slot are booked in one go' reads like a process description.",
+    "3": "none",
+    "4": "None in the AI sense; the typos and missing accents make it read like an unedited human draft.",
+    "5": "Awkward phrasing: 'there's nothing separate to arrange' is not how a native copywriter would put it.",
+    "6": "Wordy formality: 'there's no need to arrange them separately' plus the abstract heading 'Make time for your work'.",
+    "7": "none"
+  },
+  "reason": "Version 3 is the clearest and most natural: it opens with a direct need, uses conversational phrasing, and explains the offer without friction. Version 7 is close, but version 3 feels slightly more universal and polished.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "A",
+    "3": "V6A",
+    "4": "E",
+    "5": "B5",
+    "6": "V6C",
+    "7": "C"
+  }
+}

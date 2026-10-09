@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2,
+    "4": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "'if it sounds of interest' feels slightly unnatural/formulaic",
+    "3": "none",
+    "4": "'I can share more then' is abrupt and sounds over-compressed"
+  },
+  "reason": "Version 1 sounds the most natural and recruiter-like, with a clear hook, concrete details, and a warm CTA. Version 3 is a close second but slightly more templated, while 2 and 4 have small phrasing issues.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "O",
+    "3": "A",
+    "4": "B3"
+  }
+}

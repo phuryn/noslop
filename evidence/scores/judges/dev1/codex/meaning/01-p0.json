@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 4,
+    "3": 2,
+    "4": 1
+  },
+  "reason": "Version 4 preserves the core facts and qualified lesson most closely; version 3 turns the lesson into a claim about this being the biggest operational win. Version 1 strengthens “hit or miss” to “weren’t working,” drops the lesson, and makes the recommendation more directive; version 2 adds unsupported claims about speed, texting being the only change, and a one-month trial.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "B3",
+    "4": "B5"
+  }
+}

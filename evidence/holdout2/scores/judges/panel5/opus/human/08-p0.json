@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 4,
+    "4": 2
+  },
+  "send": "2",
+  "tells": {
+    "1": "The stock tag 'but here we are' softens a joke that already landed.",
+    "2": "none",
+    "3": "The stock tag 'but here we are' softens a joke that already landed. Otherwise identical to version 1.",
+    "4": "The stock tag 'but here we are' softens a joke that already landed."
+  },
+  "reason": "All four are nearly identical. The only real difference is whether 'but here we are' follows the understated owl line, and version 2 is drier and funnier without it. Versions 1 and 3 are word-for-word identical and differ from 4 only in curly versus straight apostrophes, which isn't a meaningful signal, so their order is essentially arbitrary.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "B3",
+    "3": "O",
+    "4": "A"
+  }
+}

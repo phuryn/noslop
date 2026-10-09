@@ -1,0 +1,11 @@
+{
+  "send": "4",
+  "reason": "It keeps the original memo's structure, tone, and all key facts, commitments, and caveats with only minor wording changes that still read like the original.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "E",
+    "3": "C",
+    "4": "track2/B5-int"
+  },
+  "picked_arm": "track2/B5-int"
+}

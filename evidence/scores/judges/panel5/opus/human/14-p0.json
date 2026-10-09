@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 6,
+    "2": 4,
+    "3": 3,
+    "4": 2,
+    "5": 1,
+    "6": 5
+  },
+  "send": "5",
+  "tells": {
+    "1": "Em-dash reveal ('two floors of books—and an anniversary to celebrate'), staccato 'Maybe... Maybe...' parallelism, and a redundant 'Now we have two floors' restatement",
+    "2": "Compressed into tidy, uniform sentences that read like an edited summary and keep stock phrasing ('had to earn its place')",
+    "3": "Stock phrasing ('every shelf, table and book had to earn its place', 'One of the lovely things about...') with an even, generic tone",
+    "4": "none (clunky and awkwardly phrased, e.g. the garbled post 5, but in an amateur-human way)",
+    "5": "none (slight we/my voice shift in post 5, but it reads naturally)",
+    "6": "Generic, abstract gratitude line ('Those visits helped us get here') and smooth template-like cadence"
+  },
+  "reason": "Version 5 has a real voice, with an aside ('Not bad'), a concrete detail ('started with what we loved'), and a wry joke ('a friend borrowed it and never gave it back'). The others are either flatter template variants of the same draft or, in 4's case, human but poorly edited.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "A",
+    "3": "B5",
+    "4": "E",
+    "5": "C",
+    "6": "B3"
+  }
+}

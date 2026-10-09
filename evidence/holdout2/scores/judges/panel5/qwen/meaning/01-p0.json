@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2
+  },
+  "reason": "Version 1 best preserves the original facts, ask, and the Highlights/Ask structure. Version 3 is very close but drops the section labels, while Version 2 loses the 'successfully' nuance and adds 'with them'.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "B5"
+  }
+}

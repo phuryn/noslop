@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 5,
+    "4": 1,
+    "5": 4
+  },
+  "send": "4",
+  "tells": {
+    "1": "The closing 'fuller picture' benefit repeats what the paragraph already explains.",
+    "2": "none",
+    "3": "The polished promotional ending stacks generic benefits: 'a practical way,' 'fuller picture,' and 'make the most.'",
+    "4": "none",
+    "5": "The clustered colloquialisms feel deliberately casual, while 'get the full picture' overstates what the testing provides."
+  },
+  "reason": "Version 4 is direct, specific, and restrained, with a straightforward price statement; version 2 is close but less economical. These rankings reflect editorial impressions, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "B3",
+    "3": "O",
+    "4": "A",
+    "5": "C"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+  },
+  "reason": "Version 1 only joins the sentences. Version 2 adds a slight 'only' emphasis, and Version 3 also drops 'target date' framing. Version 4 changes 'the remaining piece' to 'the only big piece left', which implies smaller work also remains, and it drops the 'target date' framing.",
+  "label_to_arm": {
+    "1": "B2",
+    "2": "A",
+    "3": "B",
+    "4": "C"
+  }
+}

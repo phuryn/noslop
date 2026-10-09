@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 3,
+    "5": 5
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Template “update + perk” subject and frictionless, interchangeable sentences",
+    "3": "Corporate cadence: “will increase” and “will take effect for you”",
+    "4": "Clipped template rhythm, especially “when the new rate starts for you”",
+    "5": "“We wanted to let you know,” “effective,” “at which time,” and stock enthusiasm"
+  },
+  "reason": "Version 1 explains the delayed increase in plain speech and sounds like someone who runs the place; the others grow more templated, and version 5 is the most formulaic.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "track2/B5-int",
+    "3": "O",
+    "4": "track2/A-int",
+    "5": "E"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 4,
+    "3": 2,
+    "4": 1
+  },
+  "reason": "Version 4 preserves all key facts, numbers, deadline, recommendation, and caveats most directly. Version 2 ranks lowest because it drops the caveat 'Unless you see a reason not to,' slightly strengthening the preference for Tilburg.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B5",
+    "4": "B3"
+  }
+}

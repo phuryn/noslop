@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 2,
+    "4": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Overly polished metaphor 'find their voice again' and abstract 'a future worth caring for'",
+    "3": "Stock phrase 'a future worth caring for' and generic closing 'making music for years to come'",
+    "4": "Vague 'worth looking after what comes next' and sentimental 'sound like themselves again'"
+  },
+  "reason": "Version 1 is the most concrete and natural, with a craftsman's plainspoken voice; the others add polished, sentimental phrasing typical of AI editing.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "O",
+    "3": "B3",
+    "4": "C"
+  }
+}

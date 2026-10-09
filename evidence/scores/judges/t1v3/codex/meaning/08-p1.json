@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 1,
+    "3": 2,
+    "4": 3
+  },
+  "reason": "Version 2 preserves the core claims and the caveat about noticeable symptoms most closely; version 3 slightly strengthens that timing claim and adds explicit availability during the yearly checkup. Version 4 also drops the care-guidance benefit and makes bloodwork an explicit recommendation, while version 1 makes the strongest overstatement by changing a 'fuller picture' to 'the full picture' and shifts 'after age 7' to 'once your dog hits 7.'",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B3",
+    "3": "B",
+    "4": "A"
+  }
+}

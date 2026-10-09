@@ -1,0 +1,12 @@
+{
+  "dropped": [
+    {
+      "item": "Benefit framing of a 'clear view of crop health across your fields' in the opening line (now just 'we survey... and send you crop health maps')",
+      "severity": "minor"
+    }
+  ],
+  "changed": [],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

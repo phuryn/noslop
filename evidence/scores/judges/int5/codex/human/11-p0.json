@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 1,
+    "3": 3,
+    "4": 2
+  },
+  "send": "2",
+  "tells": {
+    "1": "Stock recruiting promises and polished three-part lists, especially 'real days off, nights that actually end, and a schedule you can plan a life around.'",
+    "2": "The employee success stories feel slightly packaged, but concrete operational details make the voice more credible.",
+    "3": "Smooth, generic assurances such as 'a real say in how we do things' substitute for evidence.",
+    "4": "The familiar 'organized, calm ... person cooks want to work for' formula; otherwise relatively natural and restrained."
+  },
+  "reason": "Version 2 gives candidates useful specifics and acknowledges the hardest part of the job, making it the strongest choice provided those facts are verified. It adds substantive information absent from the others; these rankings reflect editorial impressions, not proof of AI authorship.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "track2/B5-int",
+    "3": "B5",
+    "4": "track2/A-int"
+  }
+}

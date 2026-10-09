@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 5,
+    "4": 3,
+    "5": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "none",
+    "4": "none",
+    "5": "none"
+  },
+  "reason": "Version 1 gives progress, remaining work, and timing their own short sentences, making it natural and easy to scan in Slack. Version 2 is conversational but slightly wordier; the others compress the information with varying smoothness, and none contains a convincing AI-writing tell.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "C",
+    "3": "B",
+    "4": "A",
+    "5": "B2"
+  }
+}

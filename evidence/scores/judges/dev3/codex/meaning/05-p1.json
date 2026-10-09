@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 3,
+    "4": 1
+  },
+  "reason": "Version 4 preserves the original commitments and caveats most closely; version 2 mainly makes the implied handling of routine reassignments explicit. Version 3 slightly strengthens the language with “hurt” and “must,” while version 1 adds residential proximity, turns risks into definite harms, and softens match requirements to “should.”",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B5",
+    "4": "B3"
+  }
+}

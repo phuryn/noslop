@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 1
+  },
+  "reason": "Version 3 best preserves the recommendation, early-detection caveat, baseline tracking, and care-guidance rationale. Version 2 strengthens the recommendation and changes 'before noticeable symptoms' to 'before symptoms,' while Version 1 omits early detection and baseline tracking and adds the stronger claim 'highly beneficial'; all retain $129 but omit the original's value rationale.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "A",
+    "3": "B3"
+  }
+}

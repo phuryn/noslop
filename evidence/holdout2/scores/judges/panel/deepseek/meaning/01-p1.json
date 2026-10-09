@@ -1,0 +1,11 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1
+  },
+  "reason": "Version 2 preserves all original facts, figures, and almost all nuances, while Version 1 omits the thank-you and slightly changes the closing phrasing.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3"
+  }
+}

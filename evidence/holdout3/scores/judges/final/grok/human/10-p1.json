@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 6,
+    "5": 4,
+    "6": 5
+  },
+  "send": "1",
+  "tells": {
+    "1": "A neat triad — ecology, land management and policy — is tacked on without a concrete detail.",
+    "2": "Template link: 'draws on that work to look at' into the vague 'decisions that follow.'",
+    "3": "Empty elevation: 'that long view gives him a clear sense of what wildfire demands of the people responsible.'",
+    "4": "Stacked abstractions — 'long-term perspective on the challenges posed' and 'questions facing those responsible' — then 'draw on that experience to explore.'",
+    "5": "Unsupported brochure claim of 'unique insights,' repeated with nothing specific behind it.",
+    "6": "Filler sentence about a 'long view' of challenges and 'questions facing the people responsible.'"
+  },
+  "reason": "Version 1 states role, tenure and talk scope the way a program note should, without the abstract praise that makes 3, 4 and 6 sound generated. Version 5 is rougher, but too vague and promotional to publish.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "C",
+    "4": "O",
+    "5": "E",
+    "6": "B5"
+  }
+}

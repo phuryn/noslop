@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2,
+    "4": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Template-like warmth and filler lines such as 'We're glad to have you along' and 'Wherever you are with your winter preparations'.",
+    "3": "Overreliance on casual idioms and a misplaced welcome make it feel loosely assembled rather than edited.",
+    "4": "Stacked clichés and cosy padding, especially 'kept us on our toes' and 'catch your breath', read as artificial warmth."
+  },
+  "reason": "Version 1 feels most like a skilled human newsletter intro: concise, practical, and warmly specific without leaning on boilerplate empathy. The others add generic reassurance or cliché, with Version 4 the most padded.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "C",
+    "4": "O"
+  }
+}

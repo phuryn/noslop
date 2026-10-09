@@ -1,0 +1,26 @@
+{
+  "dropped": [
+    {
+      "item": "The original asked the prospect whether they need help with regular routes or last-minute deliveries, which invited them to describe their needs. The edit drops that question.",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "The tentative question 'Could we help Fairview Markets cover regular routes or last-minute delivery needs?' became a confident statement, 'We could cover some of Fairview Markets' regular routes, or take the last-minute deliveries.' The tone shifts from asking to asserting.",
+      "severity": "minor"
+    },
+    {
+      "item": "The scope changed. 'cover regular routes' became 'cover some of Fairview Markets' regular routes', which limits it to a subset. 'last-minute delivery needs' became 'the last-minute deliveries', which suggests taking all of them.",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "'some of' adds a qualifier that limits coverage to part of the regular routes.",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

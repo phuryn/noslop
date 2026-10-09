@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Soft filler sentiment: 'One of the lovely things about ten years' and the empty closer 'Those visits helped us get here.'",
+    "3": "Stacked cadence: 'every shelf, every table, every book,' an em-dash pivot, and paired 'Maybe' fragments.",
+    "4": "Same template rhythm: 'Ten years ago... Today,' the every/every/every list, and mirrored Maybe sentences."
+  },
+  "reason": "Version 1 reads like a shopkeeper because it names a first sale, a regular, a near-closure, and a local bestseller, while the others recycle interchangeable anniversary sentiment and rhetorical patterns. I would publish 1 for credibility and replies, not the smoother generic drafts.",
+  "label_to_arm": {
+    "1": "track2/B3-int",
+    "2": "B3",
+    "3": "O",
+    "4": "track2/A-int"
+  }
+}

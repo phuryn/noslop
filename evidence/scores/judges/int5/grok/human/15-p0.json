@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 2,
+    "4": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Empty uplift with no new facts: \"guidance you can trust,\" \"keep your recovery moving,\" and \"more of what the app has to offer,\" in perfectly even bullets.",
+    "3": "none",
+    "4": "The same stock pairings — \"what to do and how to do it right,\" \"see how far you've come,\" \"more of what the app has to offer\" — plus the hedge \"Maybe you're.\""
+  },
+  "reason": "Version 1 reads like a person who knows the product: a slightly loose spoken opener, an exact count, a named outcome, and a premium benefit you can understand. Versions 2 and 4 sand that into generic app-store cadence, and version 3 is clear but too stripped to publish.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "O",
+    "3": "track2/A-int",
+    "4": "B5"
+  }
+}

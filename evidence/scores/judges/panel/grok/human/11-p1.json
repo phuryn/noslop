@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 5,
+    "5": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Pads a tight line into a generic triad: 'real days off, nights that actually end, and a schedule you can plan a life around.'",
+    "3": "Softens the hook with 'honestly, that's the fun part,' then drops into bold labeled blocks and 'your opinion will actually count.'",
+    "4": "Performed mess (all caps, missing spaces, 'PREFERRABLY') stacked on leftover boilerplate like 'include but are not limited to' and 'etc.'",
+    "5": "Stock bold scaffold ('What you'll do' / 'What we're after') plus the slightly off 'hands-on, on the line most nights and running.'"
+  },
+  "reason": "Version 1 sounds like one person who has worked the line: specific, tight, and unscaffolded. The others either add lifestyle filler and job-ad labels or, in 4, shout and misspell in a way that reads careless rather than skilled.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "C",
+    "4": "E",
+    "5": "O"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "send": "4",
+  "reason": "It preserves the original facts, structure, and tone most closely, keeping the autumnal opening, the key details, and the warm closing line.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "A",
+    "3": "C",
+    "4": "B5"
+  },
+  "picked_arm": "B5"
+}

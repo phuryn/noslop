@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1,
+    "4": 4
+  },
+  "send": "3",
+  "tells": {
+    "1": "none",
+    "2": "The repeated 'Every' and 'Maybe' constructions make the warmth feel slightly rehearsed.",
+    "3": "none",
+    "4": "Generic enthusiasm ('incredible journey'), capitalized 'YOU', and repeated celebration language substitute for specific memories."
+  },
+  "reason": "Version 3 balances concrete detail, warmth, and natural pacing; version 1 is credible but occasionally flat. Version 2 feels more deliberately polished, while version 4 reads like promotional boilerplate; these are stylistic judgments, not evidence of authorship.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "O",
+    "3": "B3",
+    "4": "gen/E-write"
+  }
+}

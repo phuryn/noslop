@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 7,
+    "3": 3,
+    "4": 4,
+    "5": 2,
+    "6": 6,
+    "7": 5
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "duplicated heading and confused chronology, especially 'locked out... for about four months,' feel unedited or machine-spun",
+    "3": "very smooth, evenly balanced recap; a little too frictionless and arranged",
+    "4": "over-managed clarity and neat antithesis, especially 'none of the money... plainly earned,' feel slightly synthetic",
+    "5": "forced casual synonyms such as 'fiddled,' 'lugged,' and 'in ages' read as performed voice",
+    "6": "ending compresses the feeling into a tidy tagline: 'no longer waiting for my life to start'",
+    "7": "identical to 4, with the same over-polished, overly symmetrical sheen"
+  },
+  "reason": "Version 1 has the most natural rhythm, concrete detail, and emotional pause without over-explaining. Version 5 feels human in its rougher voice, while the others are either too smoothed, duplicated, or plainly unedited.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "E",
+    "3": "O",
+    "4": "V6A",
+    "5": "C",
+    "6": "A",
+    "7": "V6C"
+  }
+}

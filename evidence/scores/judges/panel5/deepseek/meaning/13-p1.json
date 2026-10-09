@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 5,
+    "2": 2,
+    "3": 1,
+    "4": 4,
+    "5": 3
+  },
+  "reason": "Version 3 stays closest to the original and preserves essentially all facts, caveats, and commitments. Version 2 is nearly as faithful but slightly softens 'capture' to 'serve'; Version 5 and 4 are largely complete but make minor interpretive paraphrases, while Version 1 omits key specifics such as early-termination penalties, default renewal risk, six-month outreach timing, and detailed mitigation steps.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "A",
+    "3": "B3",
+    "4": "C",
+    "5": "B5"
+  }
+}

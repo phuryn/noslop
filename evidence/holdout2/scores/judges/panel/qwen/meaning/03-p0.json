@@ -1,0 +1,11 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1
+  },
+  "reason": "Version 2 preserves all original facts and commitments and keeps 'engine cutaway display specs' and 'to the booth,' making it slightly more faithful. Version 1 is nearly identical but omits 'display' and 'to the booth,' losing a small nuance.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A"
+  }
+}

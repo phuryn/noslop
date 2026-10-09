@@ -1,0 +1,76 @@
+{
+  "dropped": [
+    {
+      "item": "Opening line framing 'and an anniversary to celebrate' (the anniversary is still conveyed elsewhere)",
+      "severity": "minor"
+    },
+    {
+      "item": "'every book' had to earn its place; the edit mentions only shelves and tables",
+      "severity": "minor"
+    },
+    {
+      "item": "'over the past decade' time frame in the thank-you",
+      "severity": "minor"
+    },
+    {
+      "item": "Explicit 'Ten years ago' phrasing (still implied by 'turns 10')",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "'We couldn't stock everything, but we could make a start' became 'We couldn't carry everything, so we started with what we loved', which adds a curation rationale not in the original",
+      "severity": "minor"
+    },
+    {
+      "item": "'Those visits helped us get here' became 'You're the reason we're still here', which is a stronger claim and implies survival",
+      "severity": "minor"
+    },
+    {
+      "item": "'a book we sold when we first opened' became 'a book we sold in our first week', narrowing the time frame",
+      "severity": "minor"
+    },
+    {
+      "item": "'Maybe it's been passed along' became 'Maybe a friend borrowed it and never gave it back', a different scenario",
+      "severity": "minor"
+    },
+    {
+      "item": "Voice shifts from collective 'we' to a single first-person narrator ('My favorite thing')",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "'Not bad.' evaluative aside",
+      "severity": "minor"
+    },
+    {
+      "item": "Claim that they started with books 'we loved'",
+      "severity": "minor"
+    },
+    {
+      "item": "First-person singular favorite ('My favorite thing about ten years of bookselling')",
+      "severity": "minor"
+    },
+    {
+      "item": "'reread a dozen times'",
+      "severity": "minor"
+    },
+    {
+      "item": "Anecdote of a friend borrowing the book and never returning it",
+      "severity": "minor"
+    },
+    {
+      "item": "'in our first week'",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [
+    "in our first week",
+    "reread a dozen times",
+    "a friend borrowed it and never gave it back",
+    "My favorite thing about ten years of bookselling",
+    "we started with what we loved"
+  ],
+  "meaning_preserved": 4
+}

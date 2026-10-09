@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 6,
+    "2": 3,
+    "3": 5,
+    "4": 2,
+    "5": 4,
+    "6": 7,
+    "7": 1
+  },
+  "send": "7",
+  "tells": {
+    "1": "Cute 'well-run kind' callback plus a bloggy 'read on'.",
+    "2": "Stiff 'the former' and overly even paragraph rhythm.",
+    "3": "Same 'first kind' callback, sitting on a broken comparison.",
+    "4": "Pat 'smooth job' / 'smooth kind' contrast-callback.",
+    "5": "none",
+    "6": "Same as 1: 'well-run kind' echo and 'read on'.",
+    "7": "none"
+  },
+  "reason": "7 reads like a skilled writer who knows this audience: specific, direct, and credible on the stop-work call. 5 is plainly a person, but the safety line is muddled and the praise is empty, so I would not send it.",
+  "label_to_arm": {
+    "1": "V6C",
+    "2": "O",
+    "3": "B5",
+    "4": "A",
+    "5": "E",
+    "6": "V6A",
+    "7": "C"
+  }
+}

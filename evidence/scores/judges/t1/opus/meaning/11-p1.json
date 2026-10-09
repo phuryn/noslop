@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2
+  },
+  "reason": "Version 1 keeps nearly everything, losing only 'closely' and slightly rephrasing 'the kind of person cooks want to work for.' Version 3 drops the 'schedule you can plan a life around' commitment, and Version 2 softens 'slammed... we like it that way,' adds 'at a decent hour,' and turns 'care whether the salt is right' into a tasting duty.",
+  "label_to_arm": {
+    "1": "B",
+    "2": "C",
+    "3": "A"
+  }
+}

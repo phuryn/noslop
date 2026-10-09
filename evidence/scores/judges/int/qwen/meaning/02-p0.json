@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2
+  },
+  "reason": "Version 2 keeps the original core facts and adds only writer-supplied facts and caveats, including the 2-hour on-time window, 42-truck capacity limit, backup/trial positioning, monitoring, and reference. Version 3 is closer to the original wording but omits the writer's requested caveats; version 1 is least faithful because it turns the tentative ask into a stronger claim and drops the 'where we might fit' nuance.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "track2/B3-int",
+    "3": "track2/A-int"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 4,
+    "4": 1
+  },
+  "reason": "V4 keeps every hedge ('might otherwise have gone unnoticed', 'helped bring down') and both talk commitments, and V1 is close but adds a promise to cover 'what didn't' work, a 'most utilities' generalization and the firmer 'nobody knew about'. V2 invents a speaker name and gender ('Mr. Matela'), while V3 changes the most: it drops the hedge on the 14%→9% reduction, states the leaks definitely went unnoticed, and upgrades the speaker's role to 'helped lead'.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "E",
+    "3": "A",
+    "4": "B3"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 4,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "Polished but generic phrasing, with repeated trust points like 'licensed physical therapists' and a formulaic benefit-led structure.",
+    "2": "Relies on common AI-flavored marketing terms like 'guidance you can trust' and vague upsell language like 'unlock more of what the app has to offer.'",
+    "3": "Flat, repetitive declarative sentences and simplified headings make it read like a factual summary rather than a persuasive human description.",
+    "4": "none"
+  },
+  "reason": "Version 4 reads most like a real founder's description, with a specific insight, concrete numbers, and a testimonial, while still clearly explaining the app. Its human detail and credibility make it the strongest choice to publish.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "O",
+    "3": "track2/A-int",
+    "4": "track2/B3-int"
+  }
+}

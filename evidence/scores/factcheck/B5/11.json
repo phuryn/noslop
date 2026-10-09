@@ -1,0 +1,12 @@
+{
+  "dropped": [
+    {
+      "item": "\"closely\" in \"work closely with the chef on menu changes and specials\" is gone, which softens how close the collaboration with the chef is",
+      "severity": "minor"
+    }
+  ],
+  "changed": [],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

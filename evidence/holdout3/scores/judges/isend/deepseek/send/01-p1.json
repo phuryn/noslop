@@ -1,0 +1,11 @@
+{
+  "send": "1",
+  "reason": "Version 1 keeps the original facts, caveats, and closing thanks intact while staying closest to the writer's plain, direct voice. The others either trim meaning, shift tone, or add editorializing.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "A",
+    "3": "C",
+    "4": "E"
+  },
+  "picked_arm": "B5"
+}

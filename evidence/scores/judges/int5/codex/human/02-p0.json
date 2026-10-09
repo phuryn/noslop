@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3,
+    "4": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "Generic service language and two consecutive questions make it feel slightly templated.",
+    "4": "The neatly separated pitch and repeated polite questions feel formulaic."
+  },
+  "reason": "Version 2 reads most human because its operational details and candid limitations suggest firsthand knowledge, though these cannot establish authorship. I'd send version 1: it makes a clear, credible offer with one direct ask, without version 2's distracting capacity and equipment concerns.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "track2/B5-int",
+    "3": "track2/A-int",
+    "4": "O"
+  }
+}

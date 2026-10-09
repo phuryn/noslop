@@ -1,0 +1,21 @@
+{
+  "dropped": [],
+  "changed": [
+    {
+      "item": "The opening ask moved from tentative ('I wanted to see if you'd be open to trying') to more assertive ('I'd love to get our Kingston Black Reserve onto the bars'). The request for a trial is still clear.",
+      "severity": "minor"
+    },
+    {
+      "item": "The target customer changed from 'customers looking for a dry cider' to 'anyone who wants something crisp', which broadens the audience. Certainty also rose from 'It could be a good fit' to 'I think it would suit'.",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "The cider is now described as 'crisp', a taste claim the original never makes.",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

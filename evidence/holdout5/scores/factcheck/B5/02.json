@@ -1,0 +1,16 @@
+{
+  "dropped": [],
+  "changed": [
+    {
+      "item": "The opening question now asks whether the company (Hearth & Wick) would try the inserts, not whether Priya personally would be open to trying them. The softer 'open to' framing is also lost.",
+      "severity": "minor"
+    },
+    {
+      "item": "The call-to-action now asks 'Could we get on a quick call' instead of asking whether Priya has time. The polite check on her availability is slightly weaker.",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Clipped template voice: generic 'a while' and a bare 'reply to this message' closer.",
+    "3": "Stacked corporate empathy—'reaching out,' 'not the experience we want,' 'in the meantime,' and a second apology close.",
+    "4": "Empathy feels appended after the policy answer, plus the stock 'Thank you for your patience.'"
+  },
+  "reason": "Version 1 reads like someone who actually read the complaint: specific, warm, and concise without padding. Version 4 is capable but slightly constructed, 2 is too curt, and 3 is the most templated.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "track2/A-int",
+    "3": "O",
+    "4": "track2/B3-int"
+  }
+}

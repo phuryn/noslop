@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1,
+    "genre": "LinkedIn post",
+    "writer": "Priya Ramanathan, Operations Director, Northfield Solar Co-op (community-owned rooftop solar installer, Minnesota)",
+    "request": "can you write a linkedin post for me, we just hit 1,000 rooftop installs at Northfield Solar Co-op. want to thank the crews, mention it's saved members a ton on bills, and plug our new apprenticeship program, 12 spots, applications close Nov 30. keep it short and not cringe",
+    "hidden_facts": [
+      "The average member saves about $640 a year on electricity, roughly $590,000 a year across all members.",
+      "The 1,000th install was for Doreen Halvorsen, an 81-year-old retired nurse who had been on the waitlist since 2022 and brought the crew homemade lemon bars.",
+      "The first install was in March 2020, so it took about six and a half years to reach 1,000.",
+      "During the 2023 panel supply shortage, installs stalled for five months and Priya nearly had to lay off four installers.",
+      "Only 2 of the co-op's 31 installers are women, and Priya wants the apprenticeship to change that but is unsure whether to say so publicly.",
+      "She privately thinks the industry's 'green jobs' talk ignores how brutal roof work is in July heat.",
+      "Apprentices earn $22 an hour from day one, partly funded by a state workforce grant that expires in 2028."
+    ]
+  },
+  {
+    "id": 2,
+    "genre": "Recruiting outreach email",
+    "writer": "Lena Okafor, Talent Partner, Brightwater Ferries (passenger and vehicle ferry operator, west coast of Scotland)",
+    "request": "need a recruiting email to Callum Reid, he's 2nd engineer on a cargo line I think. we're hiring a Chief Engineer for MV Corran, our new hybrid-electric ferry, £71k and the rota is 2 weeks on 2 weeks off, starting March 2027. friendly, not salesy, short pls",
+    "hidden_facts": [
+      "The salary band goes up to £76k for a candidate with high-voltage battery system certification.",
+      "Lena found Callum because current chief engineer Fiona MacLeod sailed with him in 2019 and says he rewired a failing switchboard mid-crossing in a gale.",
+      "MV Corran's delivery from the Gdańsk shipyard has already slipped twice, so the March 2027 start is not guaranteed.",
+      "They have interviewed 9 people so far and only 1 had real high-voltage battery experience.",
+      "Lena thinks £71k is below what offshore wind pays marine engineers and expects pushback on pay.",
+      "Corran has a 4.1 MWh battery bank and will top up on shore power at Oban pier for about 12 minutes per turnaround.",
+      "Brightwater will pay for HV battery training at a Glasgow college if the hire needs it.",
+      "The crew accommodation block in Craignure is being renovated and won't be ready until summer 2027."
+    ]
+  },
+  {
+    "id": 3,
+    "genre": "Product update email to users",
+    "writer": "Daniel Mwangi, Senior Product Manager, Kestrel Hearing (hearing aid manufacturer)",
+    "request": "write a short product update email to our users about firmware 3.4 for Kestrel Aura hearing aids. new Crowd Focus mode for noisy places, and battery life is better. rolls out through the Kestrel app starting Oct 20. plain friendly language, lots of our users are 70+",
+    "hidden_facts": [
+      "Average battery life went from 18 to 22.5 hours in lab testing, and about 21 hours in real-world beta use.",
+      "Crowd Focus uses the two front microphones to narrow sound pickup to about 60 degrees in front of the wearer.",
+      "Beta tester Margaret Olusanya, 77, told the team she followed a full conversation at her granddaughter's wedding reception for the first time in years.",
+      "Known issue: Crowd Focus can make the wearer's own voice sound slightly boomy, with a fix planned for firmware 3.5.",
+      "The rollout is staged, about 10% of users in the first week and everyone by November 10.",
+      "The update takes about 12 minutes and the aids must sit in the charging case with over 50% battery.",
+      "Aura units sold before 2023 (model AU-1) only get the battery improvement, not Crowd Focus, because their chip can't run it.",
+      "Daniel thinks 'Crowd Focus' is a weak name; marketing picked it over his suggestion, 'Front Focus'."
+    ]
+  },
+  {
+    "id": 4,
+    "genre": "Newsletter intro",
+    "writer": "Ruth Abernathy, Owner, Hollow Oak Bee Supply (beekeeping equipment and supplies shop, Herefordshire)",
+    "request": "write the intro for the october issue of our newsletter, The Hive Report. it was a tough honey season, our varroa workshop is back on Sat 14 November at £35 a head, and we've got new winter feed fondant in stock. warm and chatty, about 150 words",
+    "hidden_facts": [
+      "Ruth's own 22 hives produced 310 kg of honey this year, down from 540 kg last year.",
+      "A wet June kept the bees from foraging during the lime blossom, which is usually her biggest flow.",
+      "Customer Geoff Pattinson in Leominster lost 6 of his 8 colonies to varroa and rang her in tears in September, which is why she brought the workshop back.",
+      "The workshop is capped at 16 places and 9 are already booked.",
+      "Last year's workshop ran an hour over and several people complained about parking.",
+      "She is unsure whether to mention an unconfirmed Asian hornet sighting reported about 20 miles away.",
+      "She thinks many new beekeepers buy bees before they've learned anything about varroa management.",
+      "The fondant comes from a new supplier because the old one doubled its price.",
+      "She plans to raise honey jar prices by about 8% in January but hasn't announced it."
+    ]
+  },
+  {
+    "id": 5,
+    "genre": "Slack message asking a colleague for a decision",
+    "writer": "Jonah Feld, Project Architect, Morrow & Teague Architects (architecture practice, Bristol)",
+    "request": "help me write a slack msg to Anita, I need her to pick the cladding supplier for the Ashby Primary extension. Corvane quoted £182k, Tilburg £164k. need an answer by Wednesday so we hit the planning condition deadline. short and easy for her to say yes to",
+    "hidden_facts": [
+      "Corvane's lead time is 10 weeks, while Tilburg's is 16 weeks.",
+      "Jonah recommends Corvane despite the cost, because 16 weeks would mean missing the February half-term install window.",
+      "Tilburg's panels failed a fire certification renewal last year and have since passed, but head teacher Mrs Dalby has specifically asked about fire safety.",
+      "The £18k difference can be partly absorbed from the project's £25k contingency.",
+      "The client's quantity surveyor, Raj Bhatt, will push back on anything over budget.",
+      "Jonah hasn't asked whether Tilburg could match Corvane's lead time and isn't sure they could.",
+      "Corvane's rep hinted at a 4% discount if the order goes in before the end of the month.",
+      "Anita has been slow on Slack this week because she's on a competition jury in Rotterdam."
+    ]
+  },
+  {
+    "id": 6,
+    "genre": "How-to blog paragraph",
+    "writer": "Inês Duarte, Lead Repair Technician, Patchwork Outdoor Repairs (outdoor gear repair shop, Portland, Oregon)",
+    "request": "write one paragraph for our blog on how to reseal a leaky tent seam yourself. use Gear Aid Seam Grip, let it cure 24 hours, and don't do it below 50°F. practical and friendly, no fluff",
+    "hidden_facts": [
+      "The most common DIY mistake is not removing old peeling seam tape first, and about 60% of the home reseals the shop sees have to be redone because of it.",
+      "The shop cleans seams with rubbing alcohol on a cotton pad before sealing.",
+      "One tube of Seam Grip covers about 30 feet of seam.",
+      "Customer Ben Achebe resealed his tent in his garage at 38°F and the sealer never cured, staying tacky for weeks.",
+      "Inês thinks factory seam tape on budget tents fails after about three seasons and isn't worth fixing on tents that cost under $100.",
+      "The shop seals with the tent pitched and works from the inside of the fly, while most people do it from the outside.",
+      "Silnylon tents need Seam Grip SIL instead, but Inês is unsure whether to get that technical in the post.",
+      "The shop charges $45 for a full tent reseal."
+    ]
+  },
+  {
+    "id": 7,
+    "genre": "Customer support reply about a bug",
+    "writer": "Omar Haddad, Customer Support Lead, ParkWise (parking payment app used by several Midwest city governments)",
+    "request": "reply to a customer, Linda Kessler, who got charged twice for parking on Oct 3 in the ParkWise app. it was a bug, it's fixed now, and she'll get her refund within 5 business days. apologize but keep it brief. ticket #48213",
+    "hidden_facts": [
+      "2,140 users were double-charged between 7:10 and 9:45 am on October 3.",
+      "The cause was a payment-provider retry after a timeout that release 5.8.1 failed to deduplicate; it was fixed in 5.8.2 on October 4.",
+      "Linda was charged $6.50 twice, $13 in total.",
+      "Linda's email also said she got a $40 citation because the app showed her session as failed.",
+      "Omar can't promise to cover the citation, since city enforcement decides, but he can send a letter supporting her appeal.",
+      "Refunds were initiated October 5, but some banks take up to 10 days to show them.",
+      "Omar thinks the company should have emailed all affected users proactively instead of waiting for complaints.",
+      "Affected users are getting a $5 app credit, which hasn't been announced publicly yet."
+    ]
+  },
+  {
+    "id": 8,
+    "genre": "About page / founder bio",
+    "writer": "Mateo Ruiz, Founder and Head Restorer, Ruiz Piano Restoration (piano restoration workshop, Asheville, North Carolina)",
+    "request": "write a founder bio for our about page. I'm Mateo Ruiz, started Ruiz Piano Restoration in Asheville in 2011 after apprenticing at Steinway in Queens. we've restored over 400 pianos. first person, warm, not too long",
+    "hidden_facts": [
+      "The workshop has restored exactly 437 pianos as of this fall.",
+      "His Steinway apprenticeship was four years in the action department, from 2005 to 2009.",
+      "He grew up in San Antonio, where his grandfather Ignacio tuned pianos for local churches, and he still uses Ignacio's tuning hammer on every job.",
+      "He restored a 1912 Mason & Hamlin grand for Ruth Okonkwo, whose mother played it throughout her childhood in Charleston, and she cried at the first chord.",
+      "In 2016 a storm caused a roof leak in his warehouse that damaged three customer pianos and nearly put him out of business.",
+      "He honestly thinks most old uprights aren't worth a full restoration and tells customers so, even when it costs him the job.",
+      "The shop is now four people, including his daughter Lucía, who does the refinishing.",
+      "He is unsure whether to mention that he left Steinway partly because he disagreed with how fast the work had to go."
+    ]
+  }
+]

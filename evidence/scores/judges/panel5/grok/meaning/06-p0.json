@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 1,
+    "4": 5,
+    "5": 3
+  },
+  "reason": "Version 3 keeps the kit offer, $34, free US shipping, cancel-anytime, dry-ingredient measuring, and the original experience options with only light paraphrase. Versions 1 and 5 stay close; 2 narrows the payoff to mixing and drops the “more time” benefit, while 4 adds unpromised claims (something new monthly, all skill levels) and drops the original scenes and benefits.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B5",
+    "4": "E",
+    "5": "B3"
+  }
+}

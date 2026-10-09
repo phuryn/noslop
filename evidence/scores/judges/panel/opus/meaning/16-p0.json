@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 2
+  },
+  "reason": "Version 1 keeps nearly every fact and hedge but drops the 'found myself… usual things' habit nuance. Version 4 keeps 'usual' but drops 'found myself' and turns 'hadn't given much thought' into the absolute 'hadn't thought'. Version 2 keeps the core but shifts 'teach again' to 'teach them better' and embellishes the drive home. Version 3 discards the concrete details and invents new claims (careful preparation, 'bang or whimper', good and bad years).",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "C",
+    "3": "E",
+    "4": "A"
+  }
+}

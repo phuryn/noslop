@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 3,
+    "3": 4,
+    "4": 6,
+    "5": 2,
+    "6": 1
+  },
+  "send": "6",
+  "tells": {
+    "1": "none",
+    "2": "The generic explanation 'to give you more options during the week' feels slightly padded.",
+    "3": "none",
+    "4": "'Quick heads-up' and 'On a happier note' make the conversational warmth feel staged.",
+    "5": "none",
+    "6": "none"
+  },
+  "reason": "Version 6 balances directness, warmth, and clear timing without overexplaining or making the price increase sound trivial. These rankings reflect editorial impressions, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "O",
+    "3": "A",
+    "4": "C",
+    "5": "B5",
+    "6": "B3"
+  }
+}

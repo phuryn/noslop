@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 5,
+    "2": 2,
+    "3": 1,
+    "4": 4,
+    "5": 3
+  },
+  "reason": "Version 3 stays closest to the original facts and wording despite omitting the closing question; version 2 follows with only minor added or loosened details. Versions 5 and 4 lose or alter the lesson/closing-gap nuance, and version 1 changes the most wording while dropping the lesson.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "C",
+    "3": "B5",
+    "4": "A",
+    "5": "B3"
+  }
+}

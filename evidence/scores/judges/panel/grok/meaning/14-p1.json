@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 2,
+    "4": 3
+  },
+  "reason": "Version 1 keeps every fact, number, and commitment with only light compression. Version 3 drops a few nuances but stays accurate, while version 4 invents details (what they loved, first week, a dozen rereads, unreturned loans) and version 2 changes the square footage, guts several posts, and shifts the shop’s stance toward the original space.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "E",
+    "3": "A",
+    "4": "C"
+  }
+}

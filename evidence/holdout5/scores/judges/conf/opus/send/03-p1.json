@@ -1,0 +1,13 @@
+{
+  "send": "2",
+  "reason": "Version 2 keeps every fact and commitment: the October 21 date, that it's the first expansion, the 5th player, 40 new cards, €34, preorders shipping first, and the call to action. It also keeps my bullet structure and casual voice. Version 1 drops 'first' and adds urgency I didn't intend, and Version 6 cuts the call to action.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "V6C",
+    "3": "V6A",
+    "4": "B5",
+    "5": "C",
+    "6": "A"
+  },
+  "picked_arm": "V6C"
+}

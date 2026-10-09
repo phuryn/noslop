@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2
+  },
+  "reason": "Version 1 preserves all substantive requirements without adding restrictions. Version 3 adds installation specifically on a phone; version 2 narrows the near-miss definition by omitting “harm” and drops the explicit emphasis on accurate reporting and “without exception.”",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "B5"
+  }
+}

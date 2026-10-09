@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3
+  },
+  "reason": "Version 2 most fully preserves the original facts, warranty commitment, and apology; Version 1 keeps the core meaning but is slightly more condensed; Version 3 softens nuances like 'only five months' and 'as soon as it ships.'",
+  "label_to_arm": {
+    "1": "track2/B3-int",
+    "2": "B3",
+    "3": "track2/A-int"
+  }
+}

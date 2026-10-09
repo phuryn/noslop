@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "Version 1 keeps every commitment, metric, definition, and caveat with only light paraphrases. Version 2 is close but slightly strengthens match quality to “must meet” and presupposes that coordinator effort drops; version 3 drops the explicit limit that coordinators do not handle routine reassignments and softens “relies on.”",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "B5",
+    "3": "track2/A-int"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "dropped": [
+    {
+      "item": "Invitation to 'catch your breath' after the tough season",
+      "severity": "minor"
+    },
+    {
+      "item": "'Wherever you are with your winter preparations, we're glad to have you along': the inclusive welcome to readers at any stage of preparation",
+      "severity": "minor"
+    },
+    {
+      "item": "Workshop as a chance to 'brush up on' practicalities (refreshing existing skills) is now just talking them through",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "Original says the workshop is a chance to talk through 'your questions'. The edit splits this into 'Bring your questions' and 'we'll talk through the practicalities together', which shifts slightly what gets talked through.",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "Direct call to action 'Bring your questions', implied but not stated as an instruction in the original",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

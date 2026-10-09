@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 1
+  },
+  "reason": "Version 3 preserves the original’s substantive claims, commitments, and caveats most closely. Version 2 drops the explicit claim that Denver and online are where the brand performs best; Version 1 additionally loses the structural nature of mall decline, strengthens potential returns into expected returns, and turns proposed mitigations into firm commitments.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "track2/B3-int",
+    "3": "B3"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 3,
+    "4": 1,
+    "5": 5
+  },
+  "send": "4",
+  "tells": {
+    "1": "none",
+    "2": "explanatory 'One of the lovely things...' framing and slightly awkward 'without you coming in'",
+    "3": "the rhetorical 'One of the lovely things about ten years in a bookshop is that...' construction",
+    "4": "none",
+    "5": "rule-of-three repetition ('Every shelf, every table, every book') and balanced 'Maybe... Maybe...' sentences"
+  },
+  "reason": "Version 4 reads most like a natural, personal social-media post with specific details and a conversational tone, while the others feel more polished or formulaic. It best balances warmth, credibility, and human feel for a local bookshop anniversary.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B5",
+    "3": "B3",
+    "4": "C",
+    "5": "O"
+  }
+}

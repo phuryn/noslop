@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "none (only difference from 2 is typographic curly apostrophes, which suggest word-processor or tool output rather than anything in the prose)",
+    "2": "none",
+    "3": "none, though cutting 'but here we are' makes the first paragraph end more abruptly and flattens the wry voice"
+  },
+  "reason": "Versions 1 and 2 have identical prose, dry, specific and self-deprecating, and differ only in apostrophe style, so 2 edges ahead as the more typical hand-typed form. Version 3 loses the conversational shrug that sets the tone for the rest of the piece.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "A",
+    "3": "B3"
+  }
+}

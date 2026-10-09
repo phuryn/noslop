@@ -1,0 +1,38 @@
+{
+  "dropped": [
+    {
+      "item": "Tagline 'A little measuring done. A little joy delivered.' removed (mostly flourish, but it carried the 'joy' framing)",
+      "severity": "minor"
+    },
+    {
+      "item": "Section heading 'Less measuring. More making.' removed and replaced with 'Skip the weighing'",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "'so you can get straight to the good part' became 'so you can start at the stirring', which narrows the general benefit to one specific step",
+      "severity": "minor"
+    },
+    {
+      "item": "Three separate moments (an afternoon baking, something homemade to share, a quiet moment with tea) were merged into two either/or scenarios",
+      "severity": "minor"
+    },
+    {
+      "item": "Imperative 'Give yourself something to look forward to' became the statement 'you get something to look forward to'",
+      "severity": "minor"
+    },
+    {
+      "item": "'Stay for as long as you like' (the subscription) became 'Keep it as long as you like', which could be read as keeping the kit rather than staying subscribed",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "'all to yourself' added to the tea-and-last-crumb moment, which adds a solitary framing in place of 'quiet moment'",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

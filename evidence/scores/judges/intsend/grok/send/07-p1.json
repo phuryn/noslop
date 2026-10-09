@@ -1,0 +1,10 @@
+{
+  "send": "1",
+  "reason": "It keeps the same facts and the Nov 3 target-date commitment without adding qualifiers like “big,” and the wording stays closest to the original voice.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "C",
+    "3": "track2/B5-int"
+  },
+  "picked_arm": "track2/A-int"
+}

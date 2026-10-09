@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "Version 1 keeps every sentence's content and the 'fixed a bug' framing, losing only the bolded labels, which the body text repeats. Versions 2 and 3 recast the fix as a new state and drop 'your', and Version 3 also trims 'editing them', making it the least exact.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "track2/B3-int",
+    "3": "B3"
+  }
+}

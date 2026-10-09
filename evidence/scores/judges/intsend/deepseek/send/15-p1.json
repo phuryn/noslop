@@ -1,0 +1,11 @@
+{
+  "send": "2",
+  "reason": "It keeps the exact 312 video count, Premium custom PT programs, and Gwen Harper example from my answers, and avoids unsupported progress-view details while retaining the medical disclaimer.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "track2/B5-int",
+    "3": "C",
+    "4": "E"
+  },
+  "picked_arm": "track2/B5-int"
+}

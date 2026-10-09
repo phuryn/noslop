@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "Version 1 keeps every fact and claim, losing only minor phrasing like 'everything in between' and 'real'. Version 2 adds 'summer/winter', drops the members' ownership of the number, and firms 'a path into' into 'leads to'. Version 3 adds the most: exaggerated conditions ('blazing/freezing'), 'paid spots' instead of paid training, and 'lasting career'.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "C"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 2,
+    "4": 3
+  },
+  "reason": "Versions 1 and 3 keep nearly everything but drop the 'found myself' sense of acting out of habit and turn 'hadn't given much thought' into 'hadn't thought'; version 3 also swaps 'figure out' for 'work out', a slightly further change. Version 4 changes 'explained something' to 'explained things' and adds 'teach them better', while version 2 changes the key idea, saying the narrator never saw retirement 'as a way of leaving the room' rather than not having considered how to leave.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B",
+    "3": "B2",
+    "4": "C"
+  }
+}

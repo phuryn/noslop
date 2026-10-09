@@ -1,0 +1,11 @@
+{
+  "send": "2",
+  "reason": "Version 2 keeps every fact and commitment (order number, missed 3 October date, new date of Saturday 24 October, £45 refund in progress, thanks) in the same plain voice. Version 3 says the refund is already done and softens the date to 'we can deliver'. Version 4 drops the thank-you. Version 1 is wordier and repeats the thanks.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "B5",
+    "3": "C",
+    "4": "A"
+  },
+  "picked_arm": "B5"
+}

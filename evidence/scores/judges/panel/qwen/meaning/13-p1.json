@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2,
+    "4": 4
+  },
+  "reason": "Version 1 preserves nearly all original facts, numbers, timelines, mitigations, and caveats with only trivial wording changes. Version 3 is close but slightly softens or omits nuances such as targeted outreach and capturing customers; Version 2 is broadly faithful but paraphrases some caveats into less precise or stronger claims, while Version 4 omits or changes multiple key details.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "C",
+    "3": "A",
+    "4": "E"
+  }
+}

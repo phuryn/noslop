@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 4,
+    "4": 3
+  },
+  "reason": "Version 2 best preserves both the offer and the monthly ritual; version 1 is close but softens the quiet-moment nuance, while version 4 implies you can begin directly with mixing. Version 3 adds unsupported promises of something new every month and suitability for all experience levels, while losing the original’s slowing-down and sharing emphasis.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B3",
+    "3": "E",
+    "4": "A"
+  }
+}

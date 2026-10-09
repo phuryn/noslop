@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 3,
+    "4": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "The opening 'A little measuring done. A little joy delivered.' feels like manufactured warmth, and the fragmented cozy imagery reads templated.",
+    "3": "It relies on generic landing-page scaffolding and familiar phrases like 'Give yourself something to look forward to each month' rather than distinctive detail.",
+    "4": "The smooth, frictionless cadence and stock cozy images ('oven on', 'last crumb') feel slightly AI-polished, though less florid than Version 2."
+  },
+  "reason": "Version 1 feels most human because it uses a concrete subscriber story and straightforward proof instead of only abstract lifestyle language. It also gives the clearest credibility boost for a landing page.",
+  "label_to_arm": {
+    "1": "track2/B3-int",
+    "2": "O",
+    "3": "B3",
+    "4": "track2/A-int"
+  }
+}

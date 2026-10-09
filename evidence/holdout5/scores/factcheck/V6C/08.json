@@ -1,0 +1,17 @@
+{
+  "dropped": [
+    {
+      "item": "'Time set aside' for work and care, which conveyed dedicated, scheduled time, is softened to 'time for work and time for care'",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "Opening changed from a statement ('A desk for you, a crèche spot... all in one booking') to a question followed by 'You can book both together'. The single-booking point is kept.",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

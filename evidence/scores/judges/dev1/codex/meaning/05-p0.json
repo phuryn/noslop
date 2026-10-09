@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 3,
+    "3": 2,
+    "4": 1
+  },
+  "reason": "Version 4 preserves the original commitments and caveats most closely; version 3 slightly strengthens the pilot results’ role in deciding rollout, while version 2 turns intended routine automation into the assertion that “the system handles routine reassignments.” Version 1 introduces more drift, including residence-based proximity, definite harm instead of risk, weaker match requirements, and a new deadline for confirming targets.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B5",
+    "4": "B3"
+  }
+}

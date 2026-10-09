@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2
+  },
+  "reason": "Version 1 keeps every fact, date, number and the transition caveat, losing only the 'more options' rationale. Version 3 drops the same rationale and narrows 'the change' to 'the price change'. Version 2's subject 'Our prices are changing' broadens a membership-only increase to prices in general, and it adds the 'we'll be glad to help' commitment.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "B"
+  }
+}

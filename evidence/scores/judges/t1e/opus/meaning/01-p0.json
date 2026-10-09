@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 1
+  },
+  "reason": "Version 3 keeps the lesson, 'hit or miss', and 'worth testing'. It loses the 'sometimes' hedge and the closing question. Version 2 drops the lesson and hardens 'hit or miss' into 'weren't working' and the call to action into 'try texts', while Version 1 drops the lesson, the 'spent hours' detail, and the 'when they need it' nuance and turns 'worth testing' into 'should trial'.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "A",
+    "3": "B3"
+  }
+}

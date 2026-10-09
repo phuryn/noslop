@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 4,
+    "4": 1,
+    "5": 5
+  },
+  "send": "4",
+  "tells": {
+    "1": "The standalone reassurance about a schedule you can plan a life around feels like added recruitment copy.",
+    "2": "The oddly specific 'third plate of the night' feels manufactured rather than grounded in the demands of a long service.",
+    "3": "The tidy section labels and three-part lifestyle promise give it a slightly template-driven feel.",
+    "4": "The 'third plate' detail is the main strained note; otherwise, the voice feels natural and controlled.",
+    "5": "‘Honestly’ and ‘actually’ perform casual sincerity, while 'a decent hour' adds an unsupported promise."
+  },
+  "reason": "Version 4 has the strongest balance of conversational voice, clean rhythm, and clear job information; version 2 is close. These are stylistic preferences, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "A",
+    "3": "O",
+    "4": "B3",
+    "5": "C"
+  }
+}

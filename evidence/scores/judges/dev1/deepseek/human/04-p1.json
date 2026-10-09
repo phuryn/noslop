@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 4,
+    "3": 1,
+    "4": 5,
+    "5": 2
+  },
+  "send": "3",
+  "tells": {
+    "1": "Slightly generic feel-good phrasing: 'a small job now that gives us something to look forward to next summer.'",
+    "2": "Stilted phrasing: 'After that, the hardest part is leaving them alone.'",
+    "3": "none",
+    "4": "Awkward clause: 'The hardest part comes after, which is leaving them alone.'",
+    "5": "Em dash construction and comma after 'This week' give it a slightly AI-polished edge."
+  },
+  "reason": "Version 3 reads most like a skilled human with a warm, natural newsletter voice; version 4 is the most awkward and AI-sounding.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "C",
+    "4": "B5",
+    "5": "O"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "stage": "STAGE_SUCCESS",
+  "version": "4.0",
+  "prediction": "We believe that this text is a mix of AI, AI-assisted, and human-written content.",
+  "prediction_short": "Mixed",
+  "fraction_ai": 0.7538779973983765,
+  "fraction_ai_assisted": 0.1147880032658577,
+  "fraction_human": 0.13133402168750763,
+  "headline": "AI Detected",
+  "num_ai_segments": 3,
+  "num_ai_assisted_segments": 1,
+  "num_human_segments": 1,
+  "windows": [
+    {
+      "label": "AI-Generated",
+      "ai_assistance_score": 0.40263471007347107,
+      "confidence": "Medium",
+      "start_index": 0,
+      "end_index": 256,
+      "word_count": 42,
+      "token_length": 56,
+      "is_humanized": false,
+      "humanizer_score": 6.642645894316956e-05
+    },
+    {
+      "label": "Human Written",
+      "ai_assistance_score": 0.15157774090766907,
+      "confidence": "High",
+      "start_index": 256,
+      "end_index": 510,
+      "word_count": 51,
+      "token_length": 63,
+      "is_humanized": false,
+      "humanizer_score": 0.0
+    },
+    {
+      "label": "AI-Generated",
+      "ai_assistance_score": 0.7944461107254028,
+      "confidence": "High",
+      "start_index": 510,
+      "end_index": 1239,
+      "word_count": 127,
+      "token_length": 153,
+      "is_humanized": false,
+      "humanizer_score": 6.642645894316956e-05
+    },
+    {
+      "label": "AI-Assisted",
+      "ai_assistance_score": 0.49946388602256775,
+      "confidence": "Medium",
+      "start_index": 1239,
+      "end_index": 1461,
+      "word_count": 34,
+      "token_length": 44,
+      "is_humanized": false,
+      "humanizer_score": 6.642645894316956e-05
+    },
+    {
+      "label": "AI-Generated",
+      "ai_assistance_score": 0.8635314106941223,
+      "confidence": "High",
+      "start_index": 1461,
+      "end_index": 1934,
+      "word_count": 92,
+      "token_length": 108,
+      "is_humanized": false,
+      "humanizer_score": 6.642645894316956e-05
+    }
+  ]
+}

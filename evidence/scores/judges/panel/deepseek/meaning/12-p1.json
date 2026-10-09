@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2,
+    "4": 4
+  },
+  "reason": "Version 2 stays closest to the original with no factual additions or losses. Version 3 adds a name but otherwise tracks closely, while Version 1 adds an unsupported general claim about most utilities, and Version 4 omits the general statement and adds a leadership role not in the original.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B3",
+    "3": "E",
+    "4": "A"
+  }
+}

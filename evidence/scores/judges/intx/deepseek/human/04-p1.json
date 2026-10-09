@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1,
+    "4": 5,
+    "5": 4
+  },
+  "send": "3",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "none",
+    "4": "Clunky over-explanation: 'The hardest part comes after that, which is leaving them alone.'",
+    "5": "Abrupt, staccato rhythm and 'Finally' used for only the second item."
+  },
+  "reason": "Version 3 has the most natural, warm newsletter voice—specific, unforced, and locally human. It gives clear garlic advice and a welcoming seed-swap reminder without feeling templated.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "track2/A-int",
+    "3": "C",
+    "4": "track2/B5-int",
+    "5": "E"
+  }
+}

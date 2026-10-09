@@ -1,0 +1,29 @@
+{
+  "dropped": [
+    {
+      "item": "\"every book\" removed from the list of things that had to earn their place (now only shelf and table)",
+      "severity": "minor"
+    },
+    {
+      "item": "\"Those visits helped us get here\": crediting customers' visits for the shop's growth",
+      "severity": "minor"
+    },
+    {
+      "item": "Framing of the book-on-a-shelf idea as \"one of the lovely things about ten years in a bookshop\"",
+      "severity": "minor"
+    },
+    {
+      "item": "\"and an anniversary to celebrate\" in the opening post",
+      "severity": "minor"
+    }
+  ],
+  "changed": [],
+  "added": [
+    {
+      "item": "\"passed along to a friend\": the original said only \"passed along\" and did not name a recipient",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

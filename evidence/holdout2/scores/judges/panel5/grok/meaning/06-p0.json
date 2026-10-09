@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2
+  },
+  "reason": "Version 1 matches the original aside from apostrophe style. Version 3 only swaps near-synonyms, while version 2 also drops “press” from “press and hold,” slightly changing the procedure.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "B5",
+    "3": "A"
+  }
+}

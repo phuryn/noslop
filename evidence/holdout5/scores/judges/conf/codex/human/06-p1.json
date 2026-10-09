@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 5,
+    "4": 6,
+    "5": 3,
+    "6": 7,
+    "7": 4
+  },
+  "send": "2",
+  "tells": {
+    "1": "Slightly formulaic empathy opener; otherwise none.",
+    "2": "none",
+    "3": "Simplification weakens precision: 'Sorry about' suggests an apology for the deduction, and 'which' makes compatible offers sound mutually exclusive.",
+    "4": "Conspicuously casual phrasing and the added 'settle this quickly' condition feel like an overworked attempt to sound human.",
+    "5": "Stacked softeners—'I'm happy to', 'we could', 'if you'd like that'—make the offer feel padded.",
+    "6": "none",
+    "7": "The awkward 'which we consider goes beyond' sounds like a mechanical substitution within otherwise polished prose."
+  },
+  "reason": "Version 2 is clear, measured and credible, with a straightforward explanation and offer. These are stylistic judgments, not reliable evidence of AI authorship; version 6's errors do not make it read like skilled customer support writing.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "O",
+    "3": "A",
+    "4": "C",
+    "5": "V6A",
+    "6": "E",
+    "7": "V6C"
+  }
+}

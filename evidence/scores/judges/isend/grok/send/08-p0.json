@@ -1,0 +1,11 @@
+{
+  "send": "3",
+  "reason": "Version 3 keeps the same recommendation, health markers, early-detection caveat, baseline-for-care point, price, and practical value, while still sounding like the original. The others drop or strengthen claims, change the product wording, or shift the voice.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "E",
+    "3": "B5",
+    "4": "C"
+  },
+  "picked_arm": "B5"
+}

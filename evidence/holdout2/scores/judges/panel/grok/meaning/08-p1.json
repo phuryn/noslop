@@ -1,0 +1,11 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2
+  },
+  "reason": "Version 1 preserves the full meaning, including the resigned caveat “but here we are.” Version 2 drops that phrase, losing the original’s acceptance that the excess was pursued anyway.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3"
+  }
+}

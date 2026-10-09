@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 5,
+    "3": 4,
+    "4": 3,
+    "5": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Two consecutive questions and repeated tentative phrasing make the close feel formulaic.",
+    "3": "none",
+    "4": "“We'd be glad to pitch in” adds stock friendliness without adding substance.",
+    "5": "none"
+  },
+  "reason": "Version 1 combines concrete evidence, a clear offer, and a conversational meeting request with an explicit purpose. The differences are small; formulaic phrasing is an editorial weakness, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "O",
+    "3": "B5",
+    "4": "C",
+    "5": "B3"
+  }
+}

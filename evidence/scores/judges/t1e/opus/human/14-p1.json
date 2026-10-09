@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 1,
+    "3": 3,
+    "4": 2
+  },
+  "send": "2",
+  "tells": {
+    "1": "Em dash in the opener ('two floors of books—and an anniversary'), and post 3 repeats 'Now we have two floors' from post 1. The paired 'Maybe it's been reread. Maybe it's been passed along.' fragments also feel formulaic.",
+    "2": "none",
+    "3": "none. It reads human but unpolished: stacked exclamation points, thin one-line posts (2–4), and a garbled post 5 ('still sitting on shelves of books you've purchased from us').",
+    "4": "Slightly over-trimmed. Cutting 'Those visits helped us get here' and the 'make a start' warmth leaves the posts a bit flat and summary-like, but there's no strong AI tell."
+  },
+  "reason": "Version 2 keeps the warm, specific details and natural rhythm without the em dash and repetition in Version 1 or the clumsy, thin posts in Version 3. It also reads fuller and more personal than the pared-down Version 4.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B3",
+    "3": "E",
+    "4": "A"
+  }
+}

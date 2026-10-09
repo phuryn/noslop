@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 3,
+    "3": 2,
+    "4": 1
+  },
+  "reason": "Version 4 preserves the key facts, benefits, pricing, and cancellation caveat despite paraphrase; Version 3 is close but drops the premium unlock-more benefit and some recovery-progress nuance. Version 2 omits more of the recovery/progress meaning, and Version 1 changes the renewal condition and adds an absolute reminder claim.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "A",
+    "3": "B3",
+    "4": "C"
+  }
+}

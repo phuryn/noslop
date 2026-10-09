@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "Closing 'simple way to get the full picture' is a slightly salesy, formulaic wrap-up",
+    "2": "Evenly balanced, neutral sentences with a template-like 'before symptoms appear' / 'helps guide care' phrasing",
+    "3": "Em dashes plus padded hedging and filler ('help spot', 'noticeable', 'a practical way to get a fuller picture... make the most of')",
+    "4": "Flat, clipped ending ('costs $129.') that reads as stripped-down rather than written for readers"
+  },
+  "reason": "Version 1 has the most natural, conversational voice ('hits 7', 'something's off'), which suits a clinic blog, and it still delivers the facts and a clear call to action. Version 3 shows the most AI-style polish and padding, and Version 4 is clean but too terse to persuade.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B",
+    "3": "O",
+    "4": "A"
+  }
+}

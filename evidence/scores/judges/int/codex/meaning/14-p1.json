@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 1
+  },
+  "reason": "Version 3 preserves the original’s facts and appreciative reflection; version 2 slightly loses nuance by dropping the description of books’ continued presence as “lovely.” Version 1 omits that reflection, adds the unsupported claim that neighbors keep reading the bestseller, and presents Mr. Okafor’s story without preserving the writer’s condition to check with him first.",
+  "label_to_arm": {
+    "1": "track2/B3-int",
+    "2": "track2/A-int",
+    "3": "B3"
+  }
+}

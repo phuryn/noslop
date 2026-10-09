@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 2
+  },
+  "reason": "Version 1 preserves the original most closely; version 4 drops the unnoticed-leak caveat and strengthens the abstract’s causal attribution by omitting “help.” Version 2 adds claims about most utilities, previously unknown leaks, and coverage of failures; version 3 additionally invents a leadership role for the speaker and strengthens both certainty and causality.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "C",
+    "3": "A",
+    "4": "B"
+  }
+}

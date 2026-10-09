@@ -1,0 +1,3 @@
+We're looking for an apprentice CNC operator to join us on the shop floor. You don't need experience. If you're curious about how things get made, you like working with your hands and your head, and you're happy to get stuck in, we'll teach you the rest. You'll start by learning to set up, load and run our machines, read drawings, and measure what comes off them, working alongside people who've been doing it for years and still care whether a part is right to the thou.
+
+The pay is £24,500 to start, and you'll work a four-day week, Monday to Thursday, so you get a proper long weekend every week. Stick with the apprenticeship and you'll finish with a trade that people will hire you for. If that sounds like you, get your application in by 31 October.

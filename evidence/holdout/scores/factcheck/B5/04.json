@@ -1,0 +1,16 @@
+{
+  "dropped": [
+    {
+      "item": "The opening remark that the season 'certainly kept us on our toes' (it conveyed a sense of shared challenge and busyness, but the edit's 'tough honey season' covers most of it)",
+      "severity": "minor"
+    },
+    {
+      "item": "The hedge 'quite' in 'wasn't quite what you'd hoped for', which softened how disappointing the harvest may have been",
+      "severity": "minor"
+    }
+  ],
+  "changed": [],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

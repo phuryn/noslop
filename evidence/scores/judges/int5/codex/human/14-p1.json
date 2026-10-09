@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "The polished but generic line 'Every shelf, table and book had to earn its place.'",
+    "3": "Stacked rhetorical patterns ('Every shelf, every table, every book'; 'Maybe… Maybe…') and the redundant two-floors update.",
+    "4": "The same formulaic 'Every… every… every…' cadence and repeated two-floors update, despite slightly plainer wording."
+  },
+  "reason": "Version 1 gives the anniversary a particular history through a named customer, a first sale and a concrete crisis; assuming those details are accurate, it is the strongest publishable thread. Version 2 flows more naturally than 3 and 4, whose repeated information and patterned phrasing feel more manufactured, though none of these features establishes AI authorship.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "B5",
+    "3": "O",
+    "4": "track2/A-int"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 3,
+    "4": 5,
+    "5": 1
+  },
+  "send": "5",
+  "tells": {
+    "1": "The vague filler 'we started with what we could' contributes little beyond the preceding sentence.",
+    "2": "Repeated setup about ten years and two floors, plus the explanatory 'Those visits helped us get here,' makes the writing feel overprocessed.",
+    "3": "Stacked conversational touches—'Not bad,' 'honestly,' and the borrowed-book joke—feel deliberately engineered; the unexplained switch from 'we' to 'My' weakens the voice.",
+    "4": "The emphatic 'Every shelf, every table, every book' and paired 'Maybe' sentences create conspicuously patterned rhetoric.",
+    "5": "The repeated 'every' and paired 'Maybe' sentences retain a slightly formulaic cadence."
+  },
+  "reason": "Version 5 balances warmth, clarity and a consistent shop voice, with a concise opening and an inviting close. Version 1 is refreshingly restrained but occasionally flat; these are stylistic judgments, not reliable evidence of authorship.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B2",
+    "3": "C",
+    "4": "O",
+    "5": "B"
+  }
+}

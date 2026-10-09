@@ -1,0 +1,17 @@
+{
+  "dropped": [
+    {
+      "item": "The framing 'I want to be clear about where it comes from', which explicitly sets up the attribution as a deliberate clarification, is gone.",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "'It comes from the sorting team' (the team as the source of the work) became 'it belongs to the sorting team' (the team owns the credit). The meaning is very close, but the nuance shifts slightly.",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

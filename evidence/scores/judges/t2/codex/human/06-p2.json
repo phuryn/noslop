@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "Generic lifestyle imagery—an afternoon baking, a quiet cup of tea, the last crumb—substitutes for useful product detail.",
+    "2": "none",
+    "3": "Stacked fragments and balanced slogans, especially “A little measuring done. A little joy delivered.” and “Less measuring. More making.”"
+  },
+  "reason": "Version 2 gives readers concrete reasons to trust and want the product, provided its factual claims are accurate. Version 1 is clear but repetitive; version 3 adds conspicuous rhythm without adding substance.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "track2/B2-int",
+    "3": "O"
+  }
+}

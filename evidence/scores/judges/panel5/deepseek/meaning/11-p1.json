@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 5,
+    "3": 1,
+    "4": 4,
+    "5": 3
+  },
+  "reason": "Version 3 stays closest to the original wording and preserves all facts, pay, qualifications, and commitments. Version 1 is nearly as faithful with only minor perspective changes; Version 5 omits the schedule-life-balance commitment; Version 4 paraphrases more heavily and alters some nuances; Version 2 loses important nuance and changes tone.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "E",
+    "3": "B3",
+    "4": "C",
+    "5": "A"
+  }
+}

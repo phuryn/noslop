@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 2,
+    "3": 4,
+    "4": 1,
+    "5": 3
+  },
+  "send": "4",
+  "tells": {
+    "1": "Stock marketing filler like 'guidance you can trust', 'keep your recovery moving' and 'unlock more of what the app has to offer'",
+    "2": "Leftover tidy cadence in 'so you always know what to do and how to do it right'",
+    "3": "Over-flattened, stilted phrasing ('Each video shows the form for the movement') and vague 'unlocks additional features'",
+    "4": "Mild cliché in 'keep you moving forward'",
+    "5": "Vague 'adds more to the app' on Premium"
+  },
+  "reason": "Version 4 has a natural, warm voice ('Maybe you're bouncing back from surgery', 'we'll give you a nudge') that suits a recovery app and avoids generic marketing filler. Its one slip, the present-tense 'films every one', is easy to fix.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B2",
+    "3": "A",
+    "4": "C",
+    "5": "B"
+  }
+}

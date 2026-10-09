@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 1,
+    "3": 5,
+    "4": 3,
+    "5": 2
+  },
+  "send": "2",
+  "tells": {
+    "1": "The atmospheric list feels generic, and 'start at the mixing' sounds awkwardly engineered.",
+    "2": "none",
+    "3": "Stacked slogan pairs and sentence fragments manufacture rhythm: 'A little measuring done. A little joy delivered.'",
+    "4": "The 'Less measuring, more making' formula and repeated 'Maybe' setup feel deliberately conversational.",
+    "5": "'Get to the good part' is stock promotional language; 'You don't have to weigh anything out' broadens the promise beyond the dry ingredients."
+  },
+  "reason": "Version 2 has the strongest balance of clear information, useful section headings, and relaxed warmth without excessive verbal decoration. These rankings reflect editorial impressions, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "O",
+    "4": "C",
+    "5": "B5"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 1,
+    "4": 3
+  },
+  "send": "3",
+  "tells": {
+    "1": "none",
+    "2": "Generic enthusiasm ('incredible journey'), emphatic 'YOU,' and repeated invitations make it feel like promotional boilerplate.",
+    "3": "none",
+    "4": "Stacked rhetorical patterns ('every shelf, every table, every book'; 'Maybe… Maybe…') make the warmth feel overly engineered."
+  },
+  "reason": "Version 3 balances clear information, conversational warmth, and a thoughtful observation about where the books end up. Version 1 is close, but 'we started with what we could' feels less considered; these judgments concern style, not proof of authorship.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "gen/E-write",
+    "3": "B3",
+    "4": "O"
+  }
+}

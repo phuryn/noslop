@@ -1,0 +1,33 @@
+{
+  "dropped": [
+    {
+      "item": "Closing engagement question: 'What's worked for you in reducing no-shows?'",
+      "severity": "major"
+    },
+    {
+      "item": "The author's stated lesson: 'sometimes the biggest operational wins come from meeting people where they already are'",
+      "severity": "minor"
+    },
+    {
+      "item": "Claim that closing the no-show gap matters for both the practice and the people it serves",
+      "severity": "minor"
+    },
+    {
+      "item": "'when they need it' (timeliness of care) from the benefit about patients getting care",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "Original says each no-show is an untreated patient and a slot someone else could have used. The edit says each prevented no-show 'means someone else gets the care they need.' That shifts the beneficiary: preventing a no-show means the scheduled patient gets treated, not someone else.",
+      "severity": "minor"
+    },
+    {
+      "item": "'The change was simple' became 'All we did was', which more strongly asserts that text reminders were the sole cause of the reduction",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

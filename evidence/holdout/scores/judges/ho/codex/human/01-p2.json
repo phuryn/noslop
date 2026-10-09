@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 3,
+    "4": 5,
+    "5": 1,
+    "6": 6
+  },
+  "send": "5",
+  "tells": {
+    "1": "The compressed phrase “The number is our members’ too” feels awkwardly engineered.",
+    "2": "“Blazing heat and freezing cold” and “lasting career” add familiar promotional polish.",
+    "3": "The symmetrical “That number belongs…” and “It also belongs…” paragraphs feel formulaic.",
+    "4": "“Our members made it count too” sounds like a manufactured transition rather than a clear claim.",
+    "5": "The mirrored attribution to crews and members is a mild formulaic signal.",
+    "6": "“Our members get something out of it too” feels mechanically casual, while “it leads to a career” overstates the promise."
+  },
+  "reason": "Version 5 has the best balance of warmth, readability, and restraint; version 2 is lively and readable but adds promotional language. These are stylistic judgments, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "C",
+    "3": "O",
+    "4": "B",
+    "5": "B2",
+    "6": "A"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 5,
+    "4": 3,
+    "5": 1
+  },
+  "send": "5",
+  "tells": {
+    "1": "Slightly flat, list-like structure ('Pick... break... plant') and plain phrasing.",
+    "2": "Generic, over-formal word choices ('Choose', 'separate') and 'a few ideas' feel like default AI copy.",
+    "3": "The em dash and colon-heavy sentence structure feel over-polished and AI-edited.",
+    "4": "The neat rhetorical inversion 'Then comes the hardest part:' is a bit too smooth and balanced.",
+    "5": "none"
+  },
+  "reason": "Version 5 has the most natural, specific voice ('pointy end up', 'natter') and reads like a real, engaging newsletter while staying clear. I'd send it.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "B3",
+    "3": "O",
+    "4": "A",
+    "5": "C"
+  }
+}

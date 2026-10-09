@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "Version 1 incorporates only writer-supplied details, including the on-time definition and capacity limits, and reflects the preferred backup or trial offer. Version 2 omits those caveats but preserves the tentative inquiry, while version 3 strengthens it into an assertion that they could cover Fairview’s regular routes despite the stated capacity constraint.",
+  "label_to_arm": {
+    "1": "track2/B3-int",
+    "2": "track2/A-int",
+    "3": "B3"
+  }
+}

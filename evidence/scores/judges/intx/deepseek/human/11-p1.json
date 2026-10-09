@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 1,
+    "3": 4,
+    "4": 2,
+    "5": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "None — all caps and exclamation points read as human, just unpolished.",
+    "2": "None — concrete details and natural variation give it a human voice.",
+    "3": "Bold 'What you'll do'/'What we're after' headings and overly neat parallel structure.",
+    "4": "Smooth, generic polish with no concrete specifics; reads like a clean AI rewrite.",
+    "5": "Bold subheads plus slightly forced casual asides ('honestly, that's the fun part') to sound human."
+  },
+  "reason": "Version 2 is the most credible and human because it adds specific, believable details and a natural, confident tone that the others lack.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "track2/B5-int",
+    "3": "O",
+    "4": "track2/A-int",
+    "5": "C"
+  }
+}

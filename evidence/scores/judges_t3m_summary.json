@@ -1,0 +1,108 @@
+{
+  "human/codex": {
+    "texts": 4,
+    "verdicts": 12,
+    "mean_rank": {
+      "track3/A-ask": 4.17,
+      "track3/A-notes": 2.5,
+      "track3/B2-ask": 3.83,
+      "track3/B2-notes": 1.08,
+      "track3/H": 3.42
+    },
+    "pairwise": {
+      "track3/B2-notes>track3/A-notes": {
+        "win": 4,
+        "tie": 0,
+        "loss": 0,
+        "p": 0.125
+      },
+      "track3/B2-ask>track3/A-ask": {
+        "win": 2,
+        "tie": 0,
+        "loss": 2,
+        "p": 1.0
+      },
+      "track3/H>track3/B2-notes": {
+        "win": 0,
+        "tie": 0,
+        "loss": 4,
+        "p": 0.125
+      },
+      "track3/H>track3/A-notes": {
+        "win": 0,
+        "tie": 0,
+        "loss": 4,
+        "p": 0.125
+      }
+    },
+    "send_picks": {
+      "track3/B2-notes": 9,
+      "track3/A-notes": 2,
+      "track3/A-ask": 1
+    }
+  },
+  "human/opus": {
+    "texts": 4,
+    "verdicts": 12,
+    "mean_rank": {
+      "track3/A-ask": 4.25,
+      "track3/A-notes": 3.75,
+      "track3/B2-ask": 4.0,
+      "track3/B2-notes": 2.0,
+      "track3/H": 1.0
+    },
+    "pairwise": {
+      "track3/B2-notes>track3/A-notes": {
+        "win": 4,
+        "tie": 0,
+        "loss": 0,
+        "p": 0.125
+      },
+      "track3/B2-ask>track3/A-ask": {
+        "win": 1,
+        "tie": 0,
+        "loss": 3,
+        "p": 0.625
+      },
+      "track3/H>track3/B2-notes": {
+        "win": 4,
+        "tie": 0,
+        "loss": 0,
+        "p": 0.125
+      },
+      "track3/H>track3/A-notes": {
+        "win": 4,
+        "tie": 0,
+        "loss": 0,
+        "p": 0.125
+      }
+    },
+    "send_picks": {
+      "track3/B2-notes": 12
+    }
+  },
+  "human/both": {
+    "pairwise": {
+      "track3/B2-notes>track3/A-notes": {
+        "win": 8,
+        "tie": 0,
+        "loss": 0
+      },
+      "track3/B2-ask>track3/A-ask": {
+        "win": 3,
+        "tie": 0,
+        "loss": 5
+      },
+      "track3/H>track3/B2-notes": {
+        "win": 4,
+        "tie": 0,
+        "loss": 4
+      },
+      "track3/H>track3/A-notes": {
+        "win": 4,
+        "tie": 0,
+        "loss": 4
+      }
+    }
+  }
+}

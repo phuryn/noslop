@@ -1,0 +1,11 @@
+{
+  "send": "2",
+  "reason": "It preserves all the facts, the release date, and the fix without adding casual phrasing or changing the meaning. The tone is clear and professional, matching the original intent.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "E",
+    "4": "B5"
+  },
+  "picked_arm": "A"
+}

@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2,
+    "4": 4,
+    "5": 5
+  },
+  "send": "2",
+  "tells": {
+    "1": "Stiff 'highly beneficial' plus a have-you-considered pitch and a vague marker list.",
+    "2": "none",
+    "3": "Too-even hook, early-catch, baseline, price arc ending on the stock 'full picture.'",
+    "4": "Voiceless parallel sentences and generic 'other health markers' boilerplate.",
+    "5": "Em dashes, 'helping guide care,' and stacked closers ('fuller picture,' 'make the most of')."
+  },
+  "reason": "Version 2 is the only draft with a specific voice, a real opinion, and uneven human rhythm; 3 is competent but patterned, 1 is clumsy brochure copy, and 4–5 are interchangeable pitches, with 5 the most ornamented.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "track2/B5-int",
+    "3": "C",
+    "4": "track2/A-int",
+    "5": "O"
+  }
+}

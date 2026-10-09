@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 3,
+    "4": 1
+  },
+  "reason": "Version 4 preserves the original substance most closely; version 2 makes the implied handling of routine reassignments explicit, while version 3 drops the caveat that coordinators “typically” use phone and text. Version 1 introduces several shifts, including proximity becoming residential proximity, risks becoming asserted harms, weaker match requirements, and a new deadline for confirming targets.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B",
+    "4": "B3"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "The generic opening and closing give an otherwise clear update a slightly templated feel.",
+    "2": "none",
+    "3": "Heavy bolding, repeated bullet labels, and stock phrases such as 'this milestone' and 'As always' make the short update feel overpackaged."
+  },
+  "reason": "Version 2 is direct, credible, and conversational, with a clear request and little filler. Version 1 is easy to scan, but version 3 adds formatting and boilerplate without adding useful information; these are stylistic impressions, not proof of AI authorship.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "O"
+  }
+}

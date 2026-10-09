@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "Version 1 preserves the most meaning, including the panel’s fuller-picture benefit; version 2 omits that benefit and the practical-value framing. Version 3 also removes the explicit care-guidance benefit, strengthens “before noticeable symptoms” to “before symptoms,” and adds an unstated claim that the panel can be added to the yearly checkup.",
+  "label_to_arm": {
+    "1": "track2/B3-int",
+    "2": "B3",
+    "3": "track2/A-int"
+  }
+}

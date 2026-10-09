@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 4,
+    "4": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "Repeated milestones and the balanced 'Every shelf, every table, every book' give it a slightly formulaic polish.",
+    "2": "The paired 'Maybe' sentences feel mildly rehearsed, though they fit the reflective tone.",
+    "3": "Stacked conversational touches—'Not bad,' 'honestly,' and the borrowed-book joke—feel inserted to manufacture personality. The unexplained switch from 'we' to 'My' also weakens consistency.",
+    "4": "The compression flattens the voice, especially the generic 'we started with what we could.'"
+  },
+  "reason": "Version 2 best balances warmth, clarity, and restraint; version 1 retains that warmth but repeats information. Version 4 feels over-trimmed, while version 3 adds unsupported specifics and a less consistent voice; these are editorial judgments, not proof of AI authorship.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B",
+    "3": "C",
+    "4": "A"
+  }
+}

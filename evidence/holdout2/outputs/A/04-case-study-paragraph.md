@@ -1,0 +1,1 @@
+Ashby Mill came to us with a stored-product moth problem and a need for more reliable pest monitoring. We moved them onto our TrapLink sensor monitoring system so they could track activity and respond where needed. They then passed their BRC audit with zero pest findings.

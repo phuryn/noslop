@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 5,
+    "4": 3,
+    "5": 1
+  },
+  "send": "5",
+  "tells": {
+    "1": "none",
+    "2": "Slightly clipped pacing makes the reflection feel mechanically tightened.",
+    "3": "Conspicuous sentence fragmentation and added colloquialisms feel like deliberate attempts to sound conversational.",
+    "4": "none",
+    "5": "none"
+  },
+  "reason": "Version 5 combines concrete actions, natural pacing, and emotional restraint; version 1 is similarly convincing but slightly wordier. These are close stylistic judgments, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B5",
+    "3": "C",
+    "4": "B3",
+    "5": "A"
+  }
+}

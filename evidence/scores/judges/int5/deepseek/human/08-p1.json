@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Uses polished marketing phrases like 'fuller picture' and 'make the most of their yearly checkup' without concrete examples.",
+    "3": "Reads like a flat summary: no contractions, anecdotes, or conversational close.",
+    "4": "Mostly natural, but the closing phrase 'a practical way to get a fuller picture' is slightly formulaic."
+  },
+  "reason": "Version 1 feels most credible and human because it uses a specific stat, a patient anecdote, and honest cost language. The others are smoother but more generic and marketing-like.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "O",
+    "3": "track2/A-int",
+    "4": "B5"
+  }
+}

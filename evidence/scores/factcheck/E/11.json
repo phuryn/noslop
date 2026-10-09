@@ -1,0 +1,62 @@
+{
+  "dropped": [
+    {
+      "item": "Keeping the crew steady when tickets stack up",
+      "severity": "minor"
+    },
+    {
+      "item": "Caring about details, e.g. whether the salt is right on the third plate of the night",
+      "severity": "minor"
+    },
+    {
+      "item": "Nights that actually end and a schedule you can plan a life around (only 'you get days off' remains, and 'real' days off is weakened)",
+      "severity": "minor"
+    },
+    {
+      "item": "Running the kitchen when it counts (only partly covered by running the line in the chef's absence)",
+      "severity": "minor"
+    },
+    {
+      "item": "Keeping standards high without turning the kitchen into a pressure cooker",
+      "severity": "minor"
+    },
+    {
+      "item": "Commitment that the sous chef will have a real say in how things are done",
+      "severity": "minor"
+    },
+    {
+      "item": "Working 'closely' with the chef",
+      "severity": "minor"
+    },
+    {
+      "item": "Being calm when it gets loud",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "'The kind of person cooks want to work for' (a leadership trait) became 'able to work well with others' (a general teamwork trait)",
+      "severity": "minor"
+    },
+    {
+      "item": "'Someone who's done this before' (prior sous chef or equivalent role) became 'experience in this field is a must', which broadens the scope to any kitchen experience",
+      "severity": "minor"
+    },
+    {
+      "item": "'Send us a note' (the restaurant) became 'send me a note' (an unnamed individual), so the actor changed",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "Responsibilities 'include but are not limited to ... etc', which implies additional unspecified duties",
+      "severity": "minor"
+    },
+    {
+      "item": "Characterization of the role as 'a great full time job'",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

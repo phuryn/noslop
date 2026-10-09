@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "Version 1 preserves the original’s facts, commitments, and caveats most closely; version 2 slightly weakens “a real say” to “a say.” Version 3 adds only writer-supplied facts, but also drops “closely” from working with the chef, weakens the same influence commitment, and omits the explicit assurance of a schedule you can plan a life around.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "track2/A-int",
+    "3": "track2/B3-int"
+  }
+}

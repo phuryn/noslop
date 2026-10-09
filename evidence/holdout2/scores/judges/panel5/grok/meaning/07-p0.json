@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2
+  },
+  "reason": "Version 2 keeps the full definition (including harm), the no-exception rule, and every deadline and duty, dropping only the closing safety-purpose line. Version 3 adds an unsupported “on your phone” detail and softens “keep each other safe,” while version 1 drops “harm,” “without exception,” and several purpose points.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "B5"
+  }
+}

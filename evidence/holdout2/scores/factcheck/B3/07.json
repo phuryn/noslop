@@ -1,0 +1,12 @@
+{
+  "dropped": [
+    {
+      "item": "Closing line of the 'Why' section: 'It's how we keep each other safe.' This cuts the collective-safety framing that softened the 'not about blame' message.",
+      "severity": "minor"
+    }
+  ],
+  "changed": [],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

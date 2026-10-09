@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "All three preserve the original’s meaning, facts, numbers, commitments, and caveats; versions 2 and 3 are identical. Since ties are disallowed, version order is used solely as an arbitrary tiebreaker.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "track2/B3-int",
+    "3": "B3"
+  }
+}

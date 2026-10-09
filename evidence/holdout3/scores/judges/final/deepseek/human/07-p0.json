@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 5,
+    "3": 3,
+    "4": 4,
+    "5": 2,
+    "6": 6
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Overly dense sentence structure that stacks multiple ideas with semicolons and subordinate clauses.",
+    "3": "Awkward phrasing like 'I get less of the thinking' and a punctuation slip near 'When I'm done'.",
+    "4": "Unnatural syntax in phrases like 'After all that I've saved no effort' and 'once for what the source says'.",
+    "5": "Slightly over-neat parallel structure and compressed phrasing such as 'The risk just moved to a cheaper, more rushed, less visible place'.",
+    "6": "none"
+  },
+  "reason": "Version 1 has the most natural human rhythm, clear paragraphing, and a vivid closing line; it is polished and credible without the over-dense or overly neat feel of the other edits.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "O",
+    "3": "B5",
+    "4": "B3",
+    "5": "A",
+    "6": "E"
+  }
+}

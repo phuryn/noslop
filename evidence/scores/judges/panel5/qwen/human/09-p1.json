@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 1,
+    "3": 3,
+    "4": 6,
+    "5": 2,
+    "6": 5
+  },
+  "send": "5",
+  "tells": {
+    "1": "The line 'That's not the experience we want you to have' is canned corporate empathy.",
+    "2": "none",
+    "3": "The clipped structure and bare instruction to reply feel template-trimmed.",
+    "4": "Over-apologetic padding and awkward phrases like 'please accept my apology' and 'battery has been sent'.",
+    "5": "Stock support phrasing such as 'Thanks for reaching out' and the double apology/thanks.",
+    "6": "The abrupt imperative 'reply to this message' feels machine-trimmed."
+  },
+  "reason": "Version 2 sounds the most naturally personal, but Version 5 is the best overall to send because it is clear, courteous, and has a more complete subject line. It avoids the padded or abrupt feel of the weaker variants.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "C",
+    "3": "B3",
+    "4": "E",
+    "5": "B5",
+    "6": "A"
+  }
+}

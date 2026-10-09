@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 4,
+    "4": 2,
+    "5": 5
+  },
+  "reason": "Version 2 is the most faithful, preserving nearly all original details and commitments; version 4 follows closely. Version 1 has minor omissions, version 3 adds/changes details (e.g., first week, borrowed and never returned), and version 5 is least faithful due to major omissions and added claims.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "C",
+    "4": "B5",
+    "5": "E"
+  }
+}

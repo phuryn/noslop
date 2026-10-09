@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3,
+    "4": 5,
+    "5": 4
+  },
+  "send": "2",
+  "tells": {
+    "1": "Polished but generic marketing phrasing, especially 'guidance you can trust' and a vague premium benefit.",
+    "2": "The exact exercise count and named testimonial could feel like artificial specificity if unverified.",
+    "3": "none",
+    "4": "Canned hype, exclamation, and awkward subscription wording.",
+    "5": "Over-smooth conversational filler such as 'Maybe you're bouncing back' and 'If you want more'."
+  },
+  "reason": "Version 2 feels most human because it identifies the real adherence problem, uses concrete details, and explains the paid tier specifically. I would publish it after verifying the testimonial and count, but it is the strongest as written.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "track2/B5-int",
+    "3": "track2/A-int",
+    "4": "E",
+    "5": "C"
+  }
+}

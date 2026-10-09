@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 5,
+    "4": 3,
+    "5": 1,
+    "6": 6
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "awkward repetition of 'thinking'/'thought' in the same sentence",
+    "4": "none",
+    "5": "none",
+    "6": "vague, clichéd summary ('with a bang or with a whimper'; 'good and bad') and repeated 'I had had'"
+  },
+  "reason": "Version 5 has the most distinctive human voice, but Version 1 is the best to publish because it keeps that naturalness while being clearer and more polished.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B5",
+    "3": "A",
+    "4": "B3",
+    "5": "C",
+    "6": "E"
+  }
+}

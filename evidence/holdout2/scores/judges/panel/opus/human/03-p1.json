@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "none; 'Tell me if I missed anything' is slightly clipped, but nothing reads as machine-written",
+    "2": "none",
+    "3": "Bolded mini-headers ('Booth:', 'Artwork:', 'Addition:') for one-line facts, plus a summary that repeats the action items almost word for word"
+  },
+  "reason": "Versions 1 and 2 are nearly identical, concise, and natural, but 2's 'Let me know if I've missed anything' reads a little warmer for a client. Version 3 adds templated formatting and repetition that an email this short doesn't need.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "O"
+  }
+}

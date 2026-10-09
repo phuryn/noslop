@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2,
+    "4": 4
+  },
+  "reason": "Version 1 preserves nearly all substantive claims; version 3 makes the bloodwork recommendation more explicit and omits its role in guiding care. Version 2 strengthens “fuller picture” to “full picture” and changes the age threshold, while version 4 omits early detection and baseline tracking and adds a stronger “highly beneficial” claim.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "C",
+    "3": "A",
+    "4": "E"
+  }
+}

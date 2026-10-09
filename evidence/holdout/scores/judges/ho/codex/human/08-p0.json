@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 6,
+    "3": 2,
+    "4": 1,
+    "5": 5,
+    "6": 3
+  },
+  "send": "4",
+  "tells": {
+    "1": "The vague phrase 'looking after what comes next' and the stock sentiment 'a real privilege' make the ending feel manufactured.",
+    "2": "The balanced 'history—and a future' construction, 'privilege,' and 'find their voice again' stack familiar promotional flourishes.",
+    "3": "'A history and a future worth caring for' feels like a polished slogan, though the surrounding prose is restrained.",
+    "4": "none",
+    "5": "The standalone history/future maxim followed by 'find their voice again' gives the paragraph a generic inspirational quality.",
+    "6": "'A history and a future worth caring for' and 'find their voice again' supply familiar sentiment instead of distinctive observations."
+  },
+  "reason": "Version 4 sounds most like a knowledgeable craftsperson explaining what he enjoys: it is concrete, modest, and credible. Version 3 is a close second for its clean pacing; these rankings assess editorial effect, not actual authorship.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "O",
+    "3": "B3",
+    "4": "A",
+    "5": "B",
+    "6": "B2"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 5,
+    "4": 1,
+    "5": 3
+  },
+  "send": "4",
+  "tells": {
+    "1": "Stock reassurance and repeated apologies make it feel templated.",
+    "2": "none",
+    "3": "The shift from 'please accept my apology' to 'just hit reply' feels stylistically uneven; repeated apologies add padding.",
+    "4": "none",
+    "5": "'That's not the experience we want you to have' adds generic reassurance after the concrete resolution."
+  },
+  "reason": "Version 4 balances warmth, accountability, and a clear resolution without unnecessary ceremony; version 2 is efficient but slightly abrupt. These are stylistic judgments, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "track2/A-int",
+    "3": "E",
+    "4": "C",
+    "5": "track2/B5-int"
+  }
+}

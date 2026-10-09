@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 5,
+    "2": 4,
+    "3": 1,
+    "4": 3,
+    "5": 2
+  },
+  "reason": "Version 3 is most faithful because it preserves nearly all original facts, benefits, pricing, renewal terms, and medical caveats. Version 5 is close but paraphrases some facts; Version 4 omits the premium unlock and recovery-moving benefit, Version 2 omits several recovery/progress claims, and Version 1 materially changes renewal/cancellation and the medical disclaimer.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "A",
+    "3": "B5",
+    "4": "B3",
+    "5": "C"
+  }
+}

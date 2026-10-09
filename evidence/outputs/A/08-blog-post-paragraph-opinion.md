@@ -1,0 +1,1 @@
+Your dog's annual visit should include bloodwork, especially after age 7. It can show changes in kidney and liver function, blood sugar, and other health markers before symptoms appear. Each year's results also give your veterinarian a baseline to compare against as your dog ages. Our senior wellness panel costs $129.

@@ -1,0 +1,11 @@
+{
+  "send": "3",
+  "reason": "Version 3 keeps every fact, commitment, and invitation in your own voice, with only light sentence smoothing. The others drop or recast details—the small job, the hardest part, the chat and ideas—or shift the tone.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "C",
+    "3": "A",
+    "4": "E"
+  },
+  "picked_arm": "A"
+}

@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 5,
+    "3": 3,
+    "4": 4,
+    "5": 2,
+    "6": 6
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "very compressed, generic phrasing and repeated launch date make it feel flattened rather than voiced.",
+    "3": "stock warm phrases like 'last-minute dash' and 'part of our community' feel templated.",
+    "4": "the redundant bullet list restating the price and launch date feels AI-overstructured.",
+    "5": "safe, generic wording and the formulaic 'No pressure' P.S. slightly flatten the voice.",
+    "6": "unnatural phrasing such as 'to the door', '3 x 30ml', and 'each and every month' reads clunky."
+  },
+  "reason": "Version 1 feels most like a person because it is specific, warm, and clear without over-explaining. It balances the offer, the discount, and the brand voice well enough to publish.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B3",
+    "4": "O",
+    "5": "B5",
+    "6": "E"
+  }
+}

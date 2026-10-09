@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 3,
+    "3": 2,
+    "4": 5,
+    "5": 1
+  },
+  "send": "5",
+  "tells": {
+    "1": "Clunky bio wording ('The speaker is... They helped...') and a vague middle sentence ('That kind of data can show leaks...').",
+    "2": "Formulaic structure and phrasing ('This talk explores...', 'It shares lessons...') common in AI-written abstracts.",
+    "3": "Mildly formulaic closing line ('This talk covers what the team learned...'), but otherwise direct.",
+    "4": "Repetitive structure ('This talk covers... It also covers...') and stiff wording ('putting their own pressure data to the same use').",
+    "5": "none"
+  },
+  "reason": "Version 5 has a natural first-person voice, concrete framing, and the most credible, human narrative; the others are more formulaic or slightly stilted.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "O",
+    "3": "A",
+    "4": "B3",
+    "5": "C"
+  }
+}

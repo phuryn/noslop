@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 1,
+    "4": 4
+  },
+  "send": "3",
+  "tells": {
+    "1": "The generic benefit explanation and community thank-you feel slightly templated, though neither reliably indicates AI.",
+    "2": "none",
+    "3": "none",
+    "4": "The padded opening, formal 'at which time,' and stock 'stay tuned' feel formulaic, though they are also common human writing habits."
+  },
+  "reason": "Version 3 makes the price change and current-member timeline easy to scan, with a direct, appropriately restrained tone. Version 2 is nearly as strong; version 1 is slightly more scripted, while version 4 adds wordiness, a comma splice, and unnecessary excitement.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B3",
+    "3": "A",
+    "4": "E"
+  }
+}

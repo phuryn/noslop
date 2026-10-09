@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "Version 1 stays closest to the original wording and facts, while Version 2 makes only harmless synonymous changes. Version 3 rephrases the fix in a way that slightly changes the nuance by saying currency symbols 'didn't' display, which could imply absence rather than incorrect display.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "track2/B5-int",
+    "3": "B5"
+  }
+}

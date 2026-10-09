@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Overly terse and generic; lacks specific differentiators, as if stripped down to a bare template.",
+    "3": "Uses templated phrasing like \"where we might fit\" and repeated company-name references without concrete details.",
+    "4": "More formal and polished than most human cold emails, with \"Would you have... discuss where we might fit\" feeling slightly stilted."
+  },
+  "reason": "Version 1 includes a specific failure/recovery story, a named reference, and a realistic qualification, giving it more credibility and human feel than the shorter, more generic alternatives.",
+  "label_to_arm": {
+    "1": "track2/B3-int",
+    "2": "B3",
+    "3": "track2/A-int",
+    "4": "O"
+  }
+}

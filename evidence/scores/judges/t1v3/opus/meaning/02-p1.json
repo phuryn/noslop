@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2,
+    "4": 4
+  },
+  "reason": "V1 keeps every fact and hedge, including the tentative 'could' and the fit question. V3 drops 'where we might fit'; V2 hardens 'could' into a firm 'can cover'; V4 adds 'anywhere' and narrows last-minute needs to 'occasional'.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B",
+    "3": "B3",
+    "4": "C"
+  }
+}

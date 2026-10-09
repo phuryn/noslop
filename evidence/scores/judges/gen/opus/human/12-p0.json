@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 4,
+    "3": 2,
+    "4": 1
+  },
+  "send": "3",
+  "tells": {
+    "1": "Repetitive, overly hedged phrasing ('might otherwise have gone unnoticed', restating the 14% to 9% figure in both abstract and bio with near-identical wording)",
+    "2": "Generic polished filler ('explores', 'shares lessons', 'practical considerations', 'make better use of') with an abstract opening line that states a truism",
+    "3": "Mild symmetry/redundancy: bio repeats the abstract's result almost verbatim",
+    "4": "none (reads as a human-filled form with template residue like 'Abstracts Abstract:' and 'Speaker(s) Bio(s) Bio:', a missing name, and an odd 'traveling the world' aside)"
+  },
+  "reason": "Version 4 is clearly human but sloppy, with form artifacts, a missing name and an irrelevant aside, so it isn't publishable as is. Version 3 is the tightest and most direct: it states the result plainly and commits to the claim that leaks 'had gone unnoticed', which makes it the most credible choice to send.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "O",
+    "3": "A",
+    "4": "gen/E-write"
+  }
+}

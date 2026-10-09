@@ -1,0 +1,17 @@
+{
+  "unsupported_specifics": [
+    "Coordinators usually work through this by phone and text",
+    "call-outs often come early in the morning, when several visits are at risk at once",
+    "last-minute scrambling often leads to overtime or poorly matched assignments",
+    "Sunrise Home Care, our pilot partner, relies on coordinators to handle each case individually.",
+    "Baselines will be measured with Sunrise before the pilot begins",
+    "(proposed: 80%+)",
+    "(proposed: 50%+)",
+    "Keep clients and caregivers informed automatically, so no one has to chase status.",
+    "Handling planned absences such as vacations or scheduled leave."
+  ],
+  "request_facts_missing_or_changed": [
+    "The request's goal is to reschedule within 30 minutes. The text says rescheduling counts as complete if the visit is merely 'escalated to a coordinator with a clear reason,' which weakens that goal."
+  ],
+  "language_errors": []
+}

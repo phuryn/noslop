@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2,
+    "4": 4
+  },
+  "reason": "Version 1 preserves the original most closely; version 3 retains the support commitments and reassurance, while version 2 drops the reassurance and states Crowd Focus’s benefit more categorically. Version 4 adds an unsupported reference to plugging in, omits explicit step-by-step support, and introduces ambiguity about whether rollout is already underway.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "A",
+    "3": "B3",
+    "4": "C"
+  }
+}

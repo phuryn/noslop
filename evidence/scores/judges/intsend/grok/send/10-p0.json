@@ -1,0 +1,11 @@
+{
+  "send": "4",
+  "reason": "It keeps every fact and commitment—the December 1 increase, the March 1 rate change for current members, Sunday classes for more weekly options, and times coming soon—without adding a renewal, a start date, or a “workout.” It also stays closest to your wording and tone.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "track2/A-int",
+    "3": "C",
+    "4": "track2/B5-int"
+  },
+  "picked_arm": "track2/B5-int"
+}

@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3,
+    "4": 4
+  },
+  "send": "2",
+  "tells": {
+    "1": "Neat two-sentence wrap with slightly corporate \"target date\" filler",
+    "2": "none",
+    "3": "Awkward \"is what's left\" emphasis",
+    "4": "Choppy three-sentence template plus \"remaining piece\" and \"target date\""
+  },
+  "reason": "Version 2 sounds like a person posting in Slack: contractions, idioms, and a natural cadence. The others get stiffer or more templated, with 4 the most formulaic.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "C",
+    "3": "track2/B5-int",
+    "4": "O"
+  }
+}

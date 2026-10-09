@@ -1,0 +1,13 @@
+{
+  "send": "1",
+  "reason": "It keeps every fact, caveat and commitment, including the £4,200 figure, the uncovered extras, the change and refund risks, the alternatives, the no-obligation free chat and the 'nothing more than a clearer idea' reassurance. It also stays closest to my own wording ('kind and sensible', 'think carefully'). Versions 2 and 4 add that family will pay, 5 drops caveats, 3 distorts the meaning, and 6 shifts the tone slightly ('take your time').",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "V6A",
+    "3": "E",
+    "4": "C",
+    "5": "A",
+    "6": "V6C"
+  },
+  "picked_arm": "B5"
+}

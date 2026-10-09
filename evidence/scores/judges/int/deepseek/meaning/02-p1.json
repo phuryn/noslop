@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 1
+  },
+  "reason": "Version 3 stays closest to the original wording, facts, and ask with no unsupported additions. Version 2 keeps the core offer but drops the 'where we might fit' context, while Version 1 adds writer-supplied details but changes the regular-route/last-minute pitch into a backup/trial pitch.",
+  "label_to_arm": {
+    "1": "track2/B3-int",
+    "2": "B3",
+    "3": "track2/A-int"
+  }
+}

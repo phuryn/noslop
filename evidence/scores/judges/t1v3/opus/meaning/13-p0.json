@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 4,
+    "4": 3
+  },
+  "reason": "Version 2 preserves nearly every claim, qualifier, and commitment. Version 1 is close but softens 'capture' to 'serve' and drops 'targeted'; Version 4 loses 'structural' decline, 'where our brand performs best,' and the 'potential' hedge on returns; Version 3 drifts most, making returns more certain, turning investments into outcomes ('faster site'), and shifting the financials to 'Finance to fill in.'",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "C",
+    "4": "B"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 4,
+    "4": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "The problem section is a dense paragraph of generic consequences, and 'go without it or wait for it' feels slightly unpolished.",
+    "2": "The 'What this costs' bullets are very parallel and neat, but the overall tone stays restrained.",
+    "3": "The filler phrase 'The consequences are significant' and the bolded structure feel templated.",
+    "4": "Bolded lead-ins and uniformly parallel bullets make it feel more generated than written."
+  },
+  "reason": "Version 2 is the clearest and most publishable: it is concise, scannable, and avoids the overbold, templated framing that makes versions 3 and 4 feel more AI-like. Version 1 is natural but less crisp and less well structured for a PRD.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "track2/B3-int",
+    "3": "O",
+    "4": "B3"
+  }
+}

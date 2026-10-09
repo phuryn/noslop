@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 5,
+    "4": 6,
+    "5": 4,
+    "6": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "none",
+    "4": "none",
+    "5": "none",
+    "6": "none"
+  },
+  "reason": "I'd send 2: it leads with the decision and deadline, makes the prices easy to scan, and gives a direct recommendation. None has a convincing AI-writing tell; the forced ranking between 5 and 6 reflects only a formatting preference.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B",
+    "3": "C",
+    "4": "O",
+    "5": "B2",
+    "6": "B3"
+  }
+}

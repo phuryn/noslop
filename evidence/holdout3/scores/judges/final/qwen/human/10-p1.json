@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 6,
+    "2": 4,
+    "3": 3,
+    "4": 2,
+    "5": 5,
+    "6": 1
+  },
+  "send": "6",
+  "tells": {
+    "1": "Vague promotional phrase 'unique insights' and repetitive use of the first name.",
+    "2": "Generic, abstract ending: 'inform the decisions that follow'.",
+    "3": "Formulaic triad 'ecology, land management and policy overlap'.",
+    "4": "Slightly over-polished press-release cadence in 'what wildfire demands'.",
+    "5": "Stacked abstractions such as 'long-term perspective', 'challenges posed' and 'those responsible'.",
+    "6": "none"
+  },
+  "reason": "Version 6 is concise, credible and natural, with enough context for a speaker bio without padding or obvious AI cadence. It also avoids the slight ambiguity of version 4 while remaining more polished than versions 2 and 3.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "B3",
+    "3": "A",
+    "4": "C",
+    "5": "O",
+    "6": "B5"
+  }
+}

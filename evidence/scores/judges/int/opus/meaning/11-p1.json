@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2
+  },
+  "reason": "Version 1 keeps every original fact and nuance, including 'real say' and 'closely'. Version 3 drops 'real' from 'a real say'; Version 2 adds only facts from the answers but drops 'slammed on the weekends, and we like it that way,' 'plan a life around,' 'hands-on,' 'closely,' and 'real say,' and wrongly presents the last sous chef's departure as an example of promoting from within.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "track2/B3-int",
+    "3": "track2/A-int"
+  }
+}

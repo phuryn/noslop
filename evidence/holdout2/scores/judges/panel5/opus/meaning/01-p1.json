@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3
+  },
+  "reason": "Versions 2 and 1 keep every fact, the ask, the blurb offer and the thanks. Version 2 also keeps the explicit Highlights/Ask framing, so it ranks just above Version 1. Version 3 drops the thanks for continued support, narrows 'dig into anything' to 'questions', and adds 'with them' to the Nordwind next steps, which the original doesn't state.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "B3",
+    "3": "A"
+  }
+}

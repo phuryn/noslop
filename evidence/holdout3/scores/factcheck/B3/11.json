@@ -1,0 +1,16 @@
+{
+  "dropped": [
+    {
+      "item": "The narrator's surprise at how little they minded by the end ('What surprised me was...') is gone. The edit states only that they hardly minded.",
+      "severity": "minor"
+    },
+    {
+      "item": "'somehow' was dropped from 'which was somehow the kindest thing she could have done', losing the narrator's sense that the kindness was unexpected or hard to explain.",
+      "severity": "minor"
+    }
+  ],
+  "changed": [],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

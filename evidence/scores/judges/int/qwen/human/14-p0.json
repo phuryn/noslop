@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 4,
+    "4": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "Pleasant but generic; leans on vague nostalgia instead of concrete, shop-specific moments.",
+    "2": "none",
+    "3": "Over-polished parallel structures and em-dash flourish, especially 'Every shelf, every table, every book', feel machine-smoothed.",
+    "4": "Repeated two-floor setup and the flat 'Maybe... Maybe...' cadence feel templated."
+  },
+  "reason": "Version 2 feels most like a real bookseller because it uses specific remembered details and a natural, unvarnished rhythm. The others are clear but generic or over-smoothed, with repeated formulaic phrasing.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "track2/B3-int",
+    "3": "O",
+    "4": "track2/A-int"
+  }
+}

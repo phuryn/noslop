@@ -1,0 +1,29 @@
+{
+  "dropped": [],
+  "changed": [
+    {
+      "item": "'Who is qualified and close enough' (proximity in general) became 'who lives close enough' (proximity of the caregiver's home specifically)",
+      "severity": "minor"
+    },
+    {
+      "item": "Missed visits 'put client satisfaction, retention, and compliance at risk' became 'hurt' them, which is stated with more certainty",
+      "severity": "minor"
+    },
+    {
+      "item": "The metrics caveat said 'targets to be confirmed' with no timing. The edit says targets will be confirmed 'then', meaning at the same time as the baseline measurement before the pilot",
+      "severity": "minor"
+    },
+    {
+      "item": "'Validate the 30-minute target' became 'test whether the 30-minute target is realistic', which slightly reframes the goal from confirming the target to assessing its feasibility",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "'A late or missed visit matters a lot to someone relying on help…' adds emphasis ('matters a lot') beyond the original 'affect clients'",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

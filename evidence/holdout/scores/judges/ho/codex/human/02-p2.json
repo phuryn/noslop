@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 5,
+    "3": 6,
+    "4": 4,
+    "5": 1,
+    "6": 3
+  },
+  "send": "5",
+  "tells": {
+    "1": "none",
+    "2": "The generic 'good fit' assessment offers little evidence of personal consideration.",
+    "3": "'Which is why I'm writing to you' mechanically explains an already apparent connection.",
+    "4": "none",
+    "5": "none",
+    "6": "none"
+  },
+  "reason": "Version 5 is understated, clear and credible, with a natural invitation and an uncomplicated offer to share more. The differences are small; the weaknesses identified are editorial judgments, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "B",
+    "4": "O",
+    "5": "B2",
+    "6": "B3"
+  }
+}

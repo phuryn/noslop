@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 5,
+    "4": 2,
+    "5": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Nominalization 'Mobile login migration' and 'target date' make it feel more corporate.",
+    "3": "Stiff 'The remaining piece is' and clipped separate sentences feel mechanical.",
+    "4": "none",
+    "5": "Stacked corporate phrasing ('migration', 'remaining piece', 'target date') reads templated."
+  },
+  "reason": "Version 1 sounds most like a natural teammate update with first-person phrasing and 'hit Nov 3'; the others get progressively more noun-heavy and corporate. I'd send it because it is clear and credible without sounding templated.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "O",
+    "4": "B5",
+    "5": "B3"
+  }
+}

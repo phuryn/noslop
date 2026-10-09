@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 3,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "Em-dash pivots plus a hedged marketing close ('a practical way to get a fuller picture... make the most of their yearly checkup')",
+    "2": "Slightly flat, evenly weighted sentences ('which helps guide care'), but mostly none",
+    "3": "Over-trimmed and clipped; the bare price line ends abruptly, like a mechanical compression",
+    "4": "Mild salesy closer ('a simple way to get the full picture'), otherwise none"
+  },
+  "reason": "Version 4 has a natural conversational voice ('once your dog hits 7,' 'signs something's off') that suits a clinic blog and makes the bloodwork case clearly without stock phrasing. Version 1 relies on em-dashes and generic value-pitch wording that reads as AI-polished.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B",
+    "3": "A",
+    "4": "C"
+  }
+}

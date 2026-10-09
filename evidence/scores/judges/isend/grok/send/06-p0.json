@@ -1,0 +1,11 @@
+{
+  "send": "1",
+  "reason": "It keeps the same offer, kit details, shipping, and cancel-anytime terms, and it still sounds like the original voice. The other versions drop or rewrite the section lines, or add claims the draft never made.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B5",
+    "4": "E"
+  },
+  "picked_arm": "C"
+}

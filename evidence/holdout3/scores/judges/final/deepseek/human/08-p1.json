@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 5,
+    "4": 3,
+    "5": 6,
+    "6": 1
+  },
+  "send": "6",
+  "tells": {
+    "1": "none",
+    "2": "Awkward phrase 'build the images into crop health maps'",
+    "3": "Vague filler like 'some valuable insight' and 'currently available'",
+    "4": "Slightly templated opener 'Get a clear view of crop health across your fields'",
+    "5": "Unnatural phrase 'We count the 48 hours from the flight'",
+    "6": "none"
+  },
+  "reason": "Version 6 has the most natural, confident human voice and clearest benefit, while avoiding filler and formulaic phrasing.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "B3",
+    "3": "E",
+    "4": "O",
+    "5": "A",
+    "6": "C"
+  }
+}

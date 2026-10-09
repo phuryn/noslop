@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Engineered essay template: colon list, 'so long X that I hadn't Y,' semicolon contrast, and a tidy paradox close.",
+    "3": "The stock phrase 'I found myself,' laid over the same overly balanced reflection.",
+    "4": "Sentence-splitting leaves a broken parallel ('Others I'd spent the drive home...') and a stiff 'date on the calendar' line."
+  },
+  "reason": "Version 1 sounds remembered—a named student, a specific demo, and an unflattering mix of relief and embarrassment—while 2–4 recycle one smooth, generalized leaving-the-room arc. I’d send 1 for that credibility; 3’s 'I found myself' is the clearest machine tic.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "track2/A-int",
+    "3": "O",
+    "4": "B5"
+  }
+}

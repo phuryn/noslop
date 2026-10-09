@@ -1,0 +1,17 @@
+{
+  "dropped": [
+    {
+      "item": "Framing of the $129 senior wellness panel as a practical way to get a fuller picture of the dog's health and make the most of the yearly checkup. This was the benefit statement and soft call to action tied to the price.",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "\"Bloodwork can help spot changes\" became \"Bloodwork can catch changes\". Dropping \"help\" makes the claim about what bloodwork detects slightly more certain.",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

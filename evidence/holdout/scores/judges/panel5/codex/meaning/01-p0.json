@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 1,
+    "3": 3,
+    "4": 2
+  },
+  "reason": "Version 2 preserves the original most closely; version 4 slightly weakens members’ shared ownership of the milestone to receiving some credit. Version 3 adds weather extremes, a founding rationale, and career longevity, while version 1 makes the more consequential change from offering a path into solar to promising that training leads to a career.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "C",
+    "4": "B5"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2,
+    "4": 4
+  },
+  "reason": "Version 1 preserves the key facts, outcomes, and the cautious 'worth testing' recommendation with the least distortion, despite omitting the final question. Version 3 is close but drops the lesson and makes the recommendation more directive; Version 2 adds unsupported timing and a one-month trial, while Version 4 changes several facts and nuances.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "C",
+    "3": "A",
+    "4": "E"
+  }
+}

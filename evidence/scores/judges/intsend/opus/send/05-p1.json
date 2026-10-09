@@ -1,0 +1,11 @@
+{
+  "send": "2",
+  "reason": "It keeps every fact, commitment, and caveat, including the full consequence list, the 'not routine reassignments' clarification, the escalation definition, and the to-be-confirmed targets, and it stays close to my tone and structure. Version 1 collapses the scannable consequence bullets into a dense paragraph, version 4 is more casual and softens 'validate the 30-minute target' to 'test whether it's realistic', and version 3 drops the secondary goals and non-goals.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "track2/B5-int",
+    "3": "E",
+    "4": "C"
+  },
+  "picked_arm": "track2/B5-int"
+}

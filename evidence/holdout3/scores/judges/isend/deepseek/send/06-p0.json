@@ -1,0 +1,11 @@
+{
+  "send": "3",
+  "reason": "It preserves the original facts and commitments while staying closest to the writer's concise, polite tone and wording.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "A",
+    "3": "B5",
+    "4": "C"
+  },
+  "picked_arm": "B5"
+}

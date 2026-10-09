@@ -1,0 +1,13 @@
+{
+  "send": "4",
+  "reason": "Version 4 keeps the original facts, commitments, and caveats while using wording and tone nearly identical to the original draft. It reads like the writer's own polished version.",
+  "label_to_arm": {
+    "1": "V6A",
+    "2": "C",
+    "3": "V6C",
+    "4": "A",
+    "5": "B5",
+    "6": "E"
+  },
+  "picked_arm": "A"
+}

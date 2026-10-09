@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 5,
+    "3": 4,
+    "4": 2,
+    "5": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Repetitive syntax, vague summary, and clichés like “with a bang or with a whimper.”",
+    "3": "Smooth but safe parallelism, plus the slightly awkward phrase “trying to figure out how to teach again.”",
+    "4": "Very polished gerund list and semicolon give it a balanced, somewhat generic AI-editing sheen.",
+    "5": "The colon-plus-verb list feels slightly mechanical, and it keeps the same vague “teach again” phrasing."
+  },
+  "reason": "Version 1 feels the most lived-in, with concrete details, natural idiom, and emotional restraint. The others are competent but more generic, over-polished, or summary-heavy.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "E",
+    "3": "B3",
+    "4": "O",
+    "5": "A"
+  }
+}

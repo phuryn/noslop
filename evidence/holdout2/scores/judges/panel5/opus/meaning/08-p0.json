@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3
+  },
+  "reason": "Version 2 is identical to the original, and Version 1 differs only in straight versus curly apostrophes, so both keep the meaning fully. Version 3 drops 'but here we are', which removes the author's wry, accepting tone.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B5",
+    "3": "B3"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 4,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "The generic phrase “helps guide care as your dog ages” adds a slightly formulaic finish.",
+    "2": "The added closing pitch stacks generic benefits: “a fuller picture” and “make the most of their yearly checkup.”",
+    "3": "none",
+    "4": "none"
+  },
+  "reason": "Version 4 is direct, specific, and restrained; version 1 is a close second. Version 2 adds promotional padding, while version 3 sounds conversational but is wordy and unfinished; these are stylistic judgments, not evidence of authorship.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "O",
+    "3": "gen/E-write",
+    "4": "A"
+  }
+}

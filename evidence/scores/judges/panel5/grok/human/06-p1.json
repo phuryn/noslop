@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 5,
+    "3": 4,
+    "4": 2,
+    "5": 6,
+    "6": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Ungrammatical 'start at the mixing' and the abstract 'gives you a bake to look forward to.'",
+    "3": "Empty parallel 'A little measuring done. A little joy delivered.' plus a staccato fragment stack.",
+    "4": "Slogan 'Less measuring, more making' and the 'Maybe it's... Either way' closer.",
+    "5": "Empty intensifiers (amazing, scrumptious, yummy), a tautology about pre-measured ingredients, and 'It's that simple.'",
+    "6": "Markdown bold headers and the generic 'get straight to the good part.'"
+  },
+  "reason": "Version 1 has the most natural rhythm and concrete detail without slogan formulas or fragment stacks, so it is the one I would publish. The others lean on antithesis slogans, Maybe/Either-way templates, or empty enthusiasm.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "O",
+    "4": "C",
+    "5": "E",
+    "6": "B5"
+  }
+}

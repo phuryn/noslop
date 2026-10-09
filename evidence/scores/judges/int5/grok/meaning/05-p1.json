@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2
+  },
+  "reason": "Version 1 keeps every commitment, metric, and caveat, including routine reassignments and open target-confirmation timing. Version 3 only intensifies a few wordings (“hurt,” “must meet”), while version 2 drops the “not for routine reassignments” caveat and adds that targets will be confirmed before the pilot.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "track2/A-int",
+    "3": "B5"
+  }
+}

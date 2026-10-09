@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 1,
+    "4": 3
+  },
+  "reason": "Version 3 preserves all key factual commitments most exactly, including the product name, warranty, no-cost replacement, and tracking. Version 2 is least faithful because it omits the explicit 'at no cost' commitment, while Version 4 slightly weakens 'replacement battery' to 'new battery' and drops 'replacement' from the subject.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "E",
+    "3": "B3",
+    "4": "C"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 7,
+    "2": 1,
+    "3": 2,
+    "4": 6,
+    "5": 5,
+    "6": 4,
+    "7": 3
+  },
+  "send": "3",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "none",
+    "4": "em dash plus stock line 'ready for you to explore the night sky'",
+    "5": "formulaic 'Join us for a free public…' opener and generic 'explore the night sky'",
+    "6": "lifeless 'for looking at' and flat causal padding about being outdoors",
+    "7": "generic 'explore the night sky' in an otherwise smooth rewrite"
+  },
+  "reason": "Version 2 has the most spoken, neighbourly cadence, but I would post 3: it is just as human, puts the date and place first, and states plainly that it is free and open, without the template stiffness of 4–6 or the slips in 1.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "C",
+    "3": "V6A",
+    "4": "O",
+    "5": "A",
+    "6": "B5",
+    "7": "V6C"
+  }
+}

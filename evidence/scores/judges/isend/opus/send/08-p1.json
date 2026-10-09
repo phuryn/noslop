@@ -1,0 +1,11 @@
+{
+  "send": "1",
+  "reason": "It keeps every fact and hedge: 'can help catch,' 'other health markers,' the baseline for tracking over time, $129, and the 'fuller picture' framing. It also keeps the original tone. Versions 2 and 4 drop hedges or overstate ('full picture,' 'can show'), and version 3 loses the early-detection and baseline points.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "C",
+    "3": "E",
+    "4": "A"
+  },
+  "picked_arm": "B5"
+}

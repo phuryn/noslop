@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 4,
+    "4": 5,
+    "5": 6,
+    "6": 7,
+    "7": 2
+  },
+  "send": "2",
+  "tells": {
+    "1": "The compressed benefit list feels slightly templated and corporate, even though the overall post is restrained.",
+    "2": "The double emphasis on surprise ('surprised us' / 'bigger than we expected') is a faintly constructed beat.",
+    "3": "Lines like 'These results are yours' and 'Thank you, all of you' feel performatively warm rather than naturally spoken.",
+    "4": "The safe, balanced corporate phrasing smooths the voice into a generic comms tone.",
+    "5": "Phrases such as 'adapted to' and 'pause and recognise progress' sound like polished but generic AI corporate language.",
+    "6": "The awkward minimiser 'It might not sound like much' and repeated 'customers' make it read like generic PR copy.",
+    "7": "The same surprise/emphasis beat feels lightly templated, though the rest reads naturally."
+  },
+  "reason": "Version 2 has the best balance of plain-spoken UK operational detail, credible specificity and warmth without becoming too inspirational. Version 7 is nearly as strong, but 'running since March' in Version 2 better matches the ongoing improvement being reported.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "V6C",
+    "3": "C",
+    "4": "B5",
+    "5": "O",
+    "6": "E",
+    "7": "V6A"
+  }
+}

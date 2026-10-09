@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "Version 1 most closely preserves the original claims, including the time saved and clear subscription flexibility. Version 2 preserves the core meaning despite compression, while version 3 adds the idea of having the last crumb “all to yourself” and drops the explicit quiet-moment nuance.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B"
+  }
+}

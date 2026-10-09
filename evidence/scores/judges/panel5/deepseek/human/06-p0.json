@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 6,
+    "3": 5,
+    "4": 2,
+    "5": 1,
+    "6": 3
+  },
+  "send": "5",
+  "tells": {
+    "1": "The phrase 'Skip the weighing out' reads slightly forced, but the rest is clean.",
+    "2": "Repeated generic phrasing like 'baking something amazing' and over-explaining with 'It's that simple'.",
+    "3": "Clipped, off phrases like 'start at the mixing' and 'a bake to look forward to'.",
+    "4": "Slightly vague 'good part' and markdown-bold headings feel like AI-assisted polish.",
+    "5": "none",
+    "6": "Formulaic parallel opener 'A little measuring done. A little joy delivered.' and choppy fragments feel AI-generated."
+  },
+  "reason": "Version 5 sounds most like a natural, confident human writer: it uses concrete phrasing like 'skip the scale,' has a conversational rhythm, and avoids over-polished AI tells. It balances clarity, warmth, and credibility best.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "E",
+    "3": "A",
+    "4": "B5",
+    "5": "C",
+    "6": "O"
+  }
+}

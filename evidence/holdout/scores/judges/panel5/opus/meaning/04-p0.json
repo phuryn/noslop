@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 2
+  },
+  "reason": "Version 1 keeps every fact and nuance, including 'catch your breath'. Version 4 drops only that phrase. Version 2 also drops it and adds unsupported claims ('Most of us are in the same boat', 'just got'). Version 3 drops 'glad to have you along' and the winter-preparations line, and recasts the workshop description.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "C",
+    "3": "A",
+    "4": "B3"
+  }
+}

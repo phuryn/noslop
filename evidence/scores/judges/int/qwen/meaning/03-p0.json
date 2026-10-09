@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3
+  },
+  "reason": "Version 2 preserves all core facts, including the release timing, 'your transactions,' and the explicit bug-fix wording, while the omitted lead-in labels are nonessential summaries. Version 1 is next because it keeps most details but softens the fix to a current-state statement; Version 3 makes additional small wording changes and also drops the explicit bug-fix nuance.",
+  "label_to_arm": {
+    "1": "track2/B3-int",
+    "2": "track2/A-int",
+    "3": "B3"
+  }
+}

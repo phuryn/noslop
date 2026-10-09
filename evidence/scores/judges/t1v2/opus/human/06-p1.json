@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 5,
+    "3": 1,
+    "4": 4,
+    "5": 2
+  },
+  "send": "3",
+  "tells": {
+    "1": "Repetitive restating ('The dry ingredients come measured. You don't have to weigh anything out. We've done it') plus a tidy 'Either way' wrap-up",
+    "2": "Paired parallel fragments in the hero ('A little measuring done. A little joy delivered.') and the stacked 'Less X. More Y.' slogan",
+    "3": "none, apart from a mildly formulaic 'Either way' tie-off",
+    "4": "A list of fragments followed by a summarizing line ('Each month gives you a bake to look forward to'), and the section headers are stripped, so it reads like compressed prose rather than a landing page",
+    "5": "The 'Less measuring, more making' contrast slogan and the generic 'the fun part'"
+  },
+  "reason": "Version 3 keeps the landing-page structure, uses a concrete hook ('start at the stirring'), and has short, plain headers without slogan rhythm or padding. Version 2 has the heaviest AI cadence, and Version 4 loses scannability for a hero-plus-sections page.",
+  "label_to_arm": {
+    "1": "B2",
+    "2": "O",
+    "3": "B",
+    "4": "A",
+    "5": "C"
+  }
+}

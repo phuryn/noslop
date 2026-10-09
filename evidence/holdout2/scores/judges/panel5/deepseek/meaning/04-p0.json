@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2
+  },
+  "reason": "Version 1 preserves all key facts and the final point about the team's commitment to high food safety standards. Version 3 keeps the original opening wording but drops that final commitment, while Version 2 also drops it and slightly changes the first sentence.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "B3",
+    "3": "A"
+  }
+}

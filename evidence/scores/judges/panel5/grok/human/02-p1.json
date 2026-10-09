@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 5,
+    "4": 6,
+    "5": 3,
+    "6": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Stock closer 'where we might fit' after slightly staged warmth ('glad to pitch in').",
+    "3": "Brochure opener ('We provide… and finished last year with') plus two stacked questions.",
+    "4": "Repeated hedge 'Would you be open to' and the stock line 'see if there's a fit.'",
+    "5": "Generic 'We'd like to help' paired with the template closer 'where we might fit.'",
+    "6": "Smoothed stat phrasing ('finished last year with a 99.2% on-time rate') and an ask that never says what the call is about."
+  },
+  "reason": "Version 1 is the one I would send: it uses industry language ('pick up last-minute loads'), states the on-time figure in plain terms, and asks whether that fits their needs without faux warmth or a clipped close. Version 4 reads least like a skilled writer because of the doubled greeting, vague opener, and repeated hedge.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "O",
+    "4": "E",
+    "5": "B5",
+    "6": "B3"
+  }
+}

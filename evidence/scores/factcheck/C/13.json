@@ -1,0 +1,42 @@
+{
+  "dropped": [
+    {
+      "item": "'Renewal decisions' as something that typically starts 9 to 12 months before expiration; the edit mentions only renewal talks with landlords.",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "Original says performance is tied to anchor tenants and mall health 'rather than' our own brand pull. The edit says it depends 'more on' those 'than on' brand appeal, which softens an either/or claim into a matter of degree.",
+      "severity": "minor"
+    },
+    {
+      "item": "Original says Denver and online 'offer stronger potential returns on incremental investment.' The edit says extra investment 'should return more,' which raises the certainty from potential to expected.",
+      "severity": "minor"
+    },
+    {
+      "item": "Online investment areas ('site performance, fulfillment speed, marketing, customer retention') are recast as outcomes ('a faster site, quicker fulfillment, more marketing, better customer retention'). This shifts from investment targets to implied results.",
+      "severity": "minor"
+    },
+    {
+      "item": "Denver staffing purpose changed from 'capture customers from the closing stores' to 'welcome customers coming over.' The original is about actively winning customers; the edit presumes they will come.",
+      "severity": "minor"
+    },
+    {
+      "item": "Financial summary note changed from '(to be completed with Finance)', meaning the author works with Finance, to '(Finance to fill in)', which assigns the task to Finance alone.",
+      "severity": "minor"
+    },
+    {
+      "item": "Q1 2027 timing: the original says to 'plan a phased wind-down and liquidation starting in Q1 2027', which is ambiguous about what starts in Q1. The edit specifies that liquidation starts in Q1 2027.",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "Framing that customers will be 'coming over' from the closing stores, which presumes transfer the original did not assume.",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

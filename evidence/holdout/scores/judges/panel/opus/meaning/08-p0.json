@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1
+  },
+  "reason": "Version 3 keeps every fact (Asheville, 2011, Steinway apprenticeship, 400+ pianos) along with the 'privilege', 'find their voice', and 'music in homes for years to come' ideas, though it says 'I run' rather than 'founder'. Version 1 keeps all facts but softens 'privilege' to 'glad' and drops the voice-restoration idea; Version 2 changes 'every piano has a future' to 'most have years of playing left', a new hedge, and drops 'privilege'.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "C"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "send": "1",
+  "reason": "Version 1 keeps every fact (date, time, 60 saplings, bandstand, gloves, everyone welcome) and the same warm, inviting voice, with only light punctuation tweaks. The others shift the tone ('could really do with', 'could use you') or weaken the call to help plant.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "E",
+    "3": "A",
+    "4": "C"
+  },
+  "picked_arm": "B5"
+}

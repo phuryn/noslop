@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3
+  },
+  "reason": "Version 2 is essentially identical to the original. Version 1 makes only minor synonym substitutions, while Version 3 has slightly more wording and punctuation changes but retains the same core meaning.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "B5"
+  }
+}

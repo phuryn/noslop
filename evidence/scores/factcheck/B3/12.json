@@ -1,0 +1,17 @@
+{
+  "dropped": [
+    {
+      "item": "The original's general claim that pressure data collected for everyday operations can help reveal leaks is now framed only as Mesa Valley's specific case, not as a broader principle.",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "'Practical considerations for utilities looking to make better use of their existing pressure data' became 'what other utilities should consider before putting their own pressure data to the same use'. The scope narrows from better use in general to the same use (leak finding), and 'before' adds a timing frame.",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

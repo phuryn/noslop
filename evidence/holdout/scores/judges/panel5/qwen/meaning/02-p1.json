@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 3,
+    "3": 1,
+    "4": 2
+  },
+  "reason": "Version 3 preserves the original almost verbatim. Version 4 keeps the key facts and the 'interested' framing but slightly changes the closing; Version 2 changes 'interested' to 'hear about' and alters the conditional closing; Version 1 adds 'I saw' and 'good fit', changing nuance.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B3",
+    "3": "A",
+    "4": "B5"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 1,
+    "4": 4,
+    "5": 5
+  },
+  "send": "3",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "The closing is generic support boilerplate, though common in human writing too.",
+    "4": "Stacked warmth—“so sorry,” “bearing with us,” and “we'll help”—feels slightly overworked for a routine refund.",
+    "5": "Repeated passive constructions and a stock closing give it a templated feel."
+  },
+  "reason": "Version 3 takes responsibility with “we charged you twice” and clearly explains the fix and refund timeline. These rankings reflect editorial impressions, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "B5",
+    "4": "C",
+    "5": "O"
+  }
+}

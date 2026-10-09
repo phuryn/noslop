@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3,
+    "4": 4
+  },
+  "send": "2",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "“If it sounds of interest” feels slightly formulaic, though it is common human-written recruiting language.",
+    "4": "“You might be a good fit” is generic personalization without supporting detail; it is not a reliable AI indicator."
+  },
+  "reason": "Version 2 is direct, conversational, and economical while retaining the relevant details and an easy invitation to talk. The differences are small and do not establish whether any version was written by AI.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "O",
+    "4": "C"
+  }
+}

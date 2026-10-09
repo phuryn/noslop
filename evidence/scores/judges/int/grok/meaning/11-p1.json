@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "Version 1 preserves the original commitments and facts with only negligible wording shifts and adds nothing. Version 2 weakens “a real say,” while version 3’s additions all come from the writer but it drops several original points, including being slammed on weekends and liking it, hands-on work, working closely, a real say, planning a life around the schedule, and running the kitchen when it counts.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "track2/A-int",
+    "3": "track2/B3-int"
+  }
+}

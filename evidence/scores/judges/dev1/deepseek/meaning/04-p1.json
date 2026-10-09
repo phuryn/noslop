@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 3,
+    "3": 1,
+    "4": 2
+  },
+  "reason": "Version 3 is nearly identical to the original; version 4 keeps the original wording and meaning very closely, while version 2 uses equivalent synonyms but slightly alters phrasing. Version 1 omits 'This week' and 'small job now' and changes 'come along' to 'stay', losing minor nuances.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B5",
+    "3": "A",
+    "4": "B3"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 6,
+    "3": 2,
+    "4": 4,
+    "5": 5,
+    "6": 1
+  },
+  "send": "3",
+  "tells": {
+    "1": "Over-flattened, stripped-down phrasing. 'Unlocks additional features' is vague filler.",
+    "2": "Stacked stock benefit phrases: 'guidance you can trust,' 'keep your recovery moving,' 'unlock more of what the app has to offer.'",
+    "3": "Stock closer 'see how far you've come,' plus a 'so you know what to do and how to do it right' clause.",
+    "4": "Forced casual register ('bouncing back,' 'tweak your plan,' 'keep you moving forward') that reads like a humanizer pass.",
+    "5": "Boilerplate trailing clauses: 'keep your recovery moving,' 'get more of what the app has to offer.'",
+    "6": "none"
+  },
+  "reason": "Version 6 has the uneven, template-driven feel of real app-store copy, but its legalese is clunky. Version 3 is the cleanest, clearest and most credible to publish.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "O",
+    "3": "B3",
+    "4": "C",
+    "5": "B5",
+    "6": "E"
+  }
+}

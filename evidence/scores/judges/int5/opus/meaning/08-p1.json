@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1
+  },
+  "reason": "Version 3 keeps nearly every claim, hedge and number from the original and adds nothing. Version 1 drops 'helping guide care' and the 'fuller picture' framing, and 'can be added to the yearly checkup' implies an add-on price the writer said they weren't sure about. Version 2 uses the writer's answers legitimately but drops the core 'more than vaccines' thesis and the 'guide care' and 'fuller picture' points, and it implies the beagle diagnosed three years ago was among last year's 1 in 5.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "track2/B5-int",
+    "3": "B5"
+  }
+}

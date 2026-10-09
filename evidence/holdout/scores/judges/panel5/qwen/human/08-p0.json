@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 5,
+    "5": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "abstract, feel-good phrasing such as 'a future worth caring for' and 'making music for years to come'",
+    "3": "stock uplift: 'find its voice again' and 'privilege' feel formulaic",
+    "4": "over-polished em dash and familiar crescendo about history, voice, and music",
+    "5": "vague abstraction 'what comes next' and the cliché 'for years to come'"
+  },
+  "reason": "Version 1 feels most like a real craftsperson: concrete, unshowy, and credible. Version 5 is warm, but its slight vagueness makes 1 the safer publish.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "B5",
+    "4": "O",
+    "5": "C"
+  }
+}

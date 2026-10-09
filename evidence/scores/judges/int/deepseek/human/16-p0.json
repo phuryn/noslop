@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 4,
+    "3": 2,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "The reflexive 'I found myself doing' and balanced semicolon contrast feel polished but generic.",
+    "2": "Awkward verb form after the colon ('did the usual things: straightened') suggests mechanical rewriting.",
+    "3": "Clean but slightly clipped and abstract; no concrete details to anchor it.",
+    "4": "none"
+  },
+  "reason": "Version 4 has the most concrete, credible details and a candid tone, so it reads like a lived personal reflection. The others are more generic, and version 2 in particular shows paraphrase awkwardness.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "track2/A-int",
+    "3": "B3",
+    "4": "track2/B3-int"
+  }
+}

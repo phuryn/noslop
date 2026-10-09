@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 5,
+    "3": 2,
+    "4": 4,
+    "5": 3
+  },
+  "send": "3",
+  "tells": {
+    "1": "none",
+    "2": "Upbeat filler: 'On a happier note' and the benefit-selling clause 'so you have more ways to fit a workout into your week'",
+    "3": "none",
+    "4": "Padding with a generic justification ('to give you more options during the week') and uniformly polished, formal phrasing",
+    "5": "Tacked-on benefit clause 'so you'll have more options during the week'"
+  },
+  "reason": "Version 1 has the natural roughness of a real studio owner, with a comma splice and 'at which time.' Version 3 keeps that plain, direct voice and fixes the sloppiness without adding upbeat filler or benefit-selling, so it's the clearest and most credible to send.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "C",
+    "3": "A",
+    "4": "O",
+    "5": "B3"
+  }
+}

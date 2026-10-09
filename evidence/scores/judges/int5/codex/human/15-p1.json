@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 4,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "The named success story feels inserted to signal authenticity rather than integrated into the description.",
+    "2": "Generic promotional filler: “keep your recovery moving” and “get more of what the app has to offer.”",
+    "3": "Stacked reassurance and stock marketing phrases: “guidance you can trust,” “keep you on track,” and “unlock more.”",
+    "4": "none"
+  },
+  "reason": "Version 4 reads like restrained, purposeful editing: concrete features, clear audience, and little filler, though it should explain what Premium includes. Version 1 has the most distinctive voice and a useful paid-feature description, but its awkward opening and unsupported recovery anecdote weaken its readiness to publish; these stylistic judgments do not establish authorship.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "B5",
+    "3": "O",
+    "4": "track2/A-int"
+  }
+}

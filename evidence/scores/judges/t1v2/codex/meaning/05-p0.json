@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 1,
+    "4": 3
+  },
+  "reason": "Version 3 preserves the original’s substantive meaning and caveats most closely; version 1 slightly generalizes the workflow by dropping “typically,” while version 4 strengthens an intended outcome into “the system handles routine reassignments.” Version 2 introduces more drift, including changing proximity to residence, turning risks into asserted harms, weakening match requirements to “should meet,” and adding a timing commitment for confirming targets.",
+  "label_to_arm": {
+    "1": "B",
+    "2": "C",
+    "3": "B2",
+    "4": "A"
+  }
+}

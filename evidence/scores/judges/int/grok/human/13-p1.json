@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+  },
+  "send": "2",
+  "tells": {
+    "1": "Stock closer and a perfectly even section template, though the prose itself is mostly unforced.",
+    "2": "Repeated 'Mitigation:' tags and telegram-style 'Finance:' next steps give it a fill-in-the-template cadence.",
+    "3": "Bold headers plus nominalized mitigations ('customer data capture and outreach starting') and consultant phrasing like 'structural decline'.",
+    "4": "A bold thesis label on every bullet, including the one-word 'Flexibility.', which is a classic generated-list pattern."
+  },
+  "reason": "Version 1 sounds most like a person because risks and next steps are ordinary sentences rather than labeled slots; version 4's bold lead-ins are the clearest machine habit. I would send version 2: it stays relatively natural while being tighter and more credible for leadership than version 1's softer 'cost a lot' wording.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "track2/B3-int",
+    "3": "B3",
+    "4": "O"
+  }
+}

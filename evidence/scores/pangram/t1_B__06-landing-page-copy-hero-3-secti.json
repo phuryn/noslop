@@ -1,0 +1,48 @@
+{
+  "stage": "STAGE_SUCCESS",
+  "version": "4.0",
+  "prediction": "We believe that this text is a mix of AI and human-written content.",
+  "prediction_short": "Mixed",
+  "fraction_ai": 0.3080229163169861,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 0.6919770836830139,
+  "headline": "AI Detected",
+  "num_ai_segments": 1,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "label": "Human Written",
+      "ai_assistance_score": 0.36928507685661316,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 280,
+      "word_count": 47,
+      "token_length": 61,
+      "is_humanized": false,
+      "humanizer_score": 0.0
+    },
+    {
+      "label": "AI-Generated",
+      "ai_assistance_score": 0.5727760791778564,
+      "confidence": "High",
+      "start_index": 280,
+      "end_index": 495,
+      "word_count": 42,
+      "token_length": 50,
+      "is_humanized": false,
+      "humanizer_score": 0.002571085002273321
+    },
+    {
+      "label": "Human Written",
+      "ai_assistance_score": 0.19974373281002045,
+      "confidence": "High",
+      "start_index": 495,
+      "end_index": 698,
+      "word_count": 39,
+      "token_length": 51,
+      "is_humanized": false,
+      "humanizer_score": 0.0
+    }
+  ]
+}

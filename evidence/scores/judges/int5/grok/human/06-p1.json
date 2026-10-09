@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 2,
+    "4": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Unnatural 'start at the stirring,' then a proof dump that piles a named customer, a sellout, a favorite cookie, and a hedged subscriber count under a headline that only fits the first fact.",
+    "3": "'Plan on an afternoon...' turns an invitation into a slightly unparallel instruction and sands the warmth into generic compressed copy.",
+    "4": "Stacked slogan fragments — 'A little measuring done. A little joy delivered.' and 'Less measuring. More making.' — plus a staccato scene list."
+  },
+  "reason": "Version 1 has the most natural voice, clearest structure, and no invented proof or slogan tics, so it is the one I would publish. The others flatten the feeling, overuse fragment slogans, or stumble into awkward phrasing and a cluttered testimonial.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "track2/B5-int",
+    "3": "track2/A-int",
+    "4": "O"
+  }
+}

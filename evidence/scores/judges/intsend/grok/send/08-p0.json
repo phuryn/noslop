@@ -1,0 +1,11 @@
+{
+  "send": "none",
+  "reason": "Versions 1, 2, and 4 still treat age 7 as a firm cutoff, and version 4 also implies the $129 is added to the visit, which I don’t know. Version 3 softens the age rule but wrongly places a dog diagnosed about three years ago inside last year’s results.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "E",
+    "3": "track2/B5-int",
+    "4": "track2/A-int"
+  },
+  "picked_arm": "none"
+}

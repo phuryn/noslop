@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3
+  },
+  "reason": "Version 2 stays closest to the original's meaning, caveats, and bio commitments without adding anything. Version 3 lightly condenses but preserves the main original meaning; Version 1 adds writer-supplied facts but drops the 'help reduce' caveat and the bio's statement that the speaker helped use the data.",
+  "label_to_arm": {
+    "1": "track2/B3-int",
+    "2": "B3",
+    "3": "track2/A-int"
+  }
+}

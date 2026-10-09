@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1
+  },
+  "reason": "Version 3 keeps every fact, number and commitment. Version 1 drops the 'schedule you can plan a life around' promise. Version 2 drops several commitments and nuances (nights that end, a real say, standards without a pressure-cooker kitchen, care about salt, calm under pressure), hardens 'done this before' into a 'must', adds 'not limited to' and 'etc' to the duties, and shifts 'us' to 'me'.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "E",
+    "3": "B3"
+  }
+}

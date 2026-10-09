@@ -1,0 +1,11 @@
+{
+  "send": "1",
+  "reason": "It keeps the confirmed details—period 4 AP Chemistry, the elephant toothpaste demo, Amina Yusuf’s visit, and the mixed feelings—without inventing a lesson or student question. It also avoids the ‘date on the calendar’ idea the writer said was not quite right.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "C",
+    "3": "E",
+    "4": "track2/A-int"
+  },
+  "picked_arm": "track2/B5-int"
+}

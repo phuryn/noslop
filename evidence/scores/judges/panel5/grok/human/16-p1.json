@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 6,
+    "2": 2,
+    "3": 4,
+    "4": 3,
+    "5": 5,
+    "6": 1
+  },
+  "send": "6",
+  "tells": {
+    "1": "none",
+    "2": "Stock reflective cadence: symbolic already-clean bench, balanced some/others contrast, and a neat antithetical close",
+    "3": "Explains 'the usual things' then lists them; stiff 'retirement had been just a date on the calendar'",
+    "4": "Over-even workshop polish — colon list, semicolon contrast, and a formulaic last-line antithesis",
+    "5": "'I found myself doing the usual things' and 'hadn't given much thought,' stock AI reflection phrasing",
+    "6": "Mild 'caught myself' plus the same already-clean ritual, mostly covered by the spoken rhythm"
+  },
+  "reason": "Version 6 has the most particular voice—fragment opening, idiom, and uneven sentence length—without losing clarity, so it reads like a skilled person remembering rather than a template landing its beats. The middle versions share one polished image-set; 5 announces the AI reflex outright, and 1 is human but unskilled filler.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "B3",
+    "3": "B5",
+    "4": "A",
+    "5": "O",
+    "6": "C"
+  }
+}

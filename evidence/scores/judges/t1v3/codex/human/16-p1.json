@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 5,
+    "3": 3,
+    "4": 1,
+    "5": 4
+  },
+  "send": "4",
+  "tells": {
+    "1": "none",
+    "2": "The repeated short sentences and split closing thought make the conversational rhythm feel deliberately manufactured.",
+    "3": "none",
+    "4": "none",
+    "5": "The balanced contrast between a calendar date and 'a way of leaving the room' feels polished into an aphorism at the expense of natural reflection."
+  },
+  "reason": "Version 4 lets the concrete actions carry the emotion, with an unobtrusive rhythm and a credible, restrained ending; version 1 is a close second. These are editorial judgments about how the prose reads, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "C",
+    "3": "A",
+    "4": "B3",
+    "5": "B"
+  }
+}

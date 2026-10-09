@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2,
+    "4": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Clipped sign-off ('Tell me if I missed anything') reads like a swapped stock closer, with every fragment bullet ended by a period.",
+    "3": "Decisions are packed into one tidy 'agreed on X, with Y due' sentence, and fragment bullets are uniformly period-ended.",
+    "4": "Bold Booth/Artwork/Addition labels plus 'Here's a quick summary' are template scaffolding."
+  },
+  "reason": "Version 1 sounds like a person writing just after the call—spoken connectors, idiomatic 'send it over,' and no format scaffolding—while 2 and 3 flatten that voice and 4 sorts the recap into generated mini-headings.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "A",
+    "3": "B3",
+    "4": "O"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "send": "4",
+  "reason": "It keeps every fact and hedge: 'help catch,' 'other health markers,' the baseline that helps guide care, and the 'practical way to get a fuller picture' pitch. Version 1 drops the hedge and overclaims a 'full picture,' 2 loses early detection and the baseline, and 3 cuts the guidance and value framing.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "E",
+    "3": "A",
+    "4": "B5"
+  },
+  "picked_arm": "B5"
+}

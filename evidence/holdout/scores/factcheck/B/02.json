@@ -1,0 +1,21 @@
+{
+  "dropped": [
+    {
+      "item": "Offer to share more information if the role sounds of interest ('Happy to share more if it sounds of interest')",
+      "severity": "minor"
+    },
+    {
+      "item": "Explicit question asking whether Callum would be interested in the role ('I wondered if you'd be interested in a Chief Engineer role with us'); the edit states the hiring and asks for a chat but doesn't directly ask about his interest",
+      "severity": "minor"
+    }
+  ],
+  "changed": [],
+  "added": [
+    {
+      "item": "'which is why I'm writing to you': makes explicit that his current role is the reason for the outreach (implied in the original)",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

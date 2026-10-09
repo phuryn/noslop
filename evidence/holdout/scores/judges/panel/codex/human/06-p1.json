@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1,
+    "4": 4
+  },
+  "send": "3",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "none",
+    "4": "The canned question-and-reassurance opening and extra conversational padding feel manufactured, though neither establishes AI authorship."
+  },
+  "reason": "Version 3 is direct and puts the compatibility check before application, making the instructions easier to follow. Versions 1 and 2 differ only in apostrophe typography, so their required ranking is arbitrary; version 4 adds words and weakens the temperature instruction with 'Try.'",
+  "label_to_arm": {
+    "1": "O",
+    "2": "A",
+    "3": "B3",
+    "4": "C"
+  }
+}

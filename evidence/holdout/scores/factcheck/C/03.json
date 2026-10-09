@@ -1,0 +1,25 @@
+{
+  "dropped": [
+    {
+      "item": "Support will walk the customer through it 'step by step'",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "Crowd Focus claim lost its hedge: the original says it 'helps your hearing aids bring the voice in front of you forward'; the edit says it 'brings the voice of the person in front of you forward', which states the benefit more firmly",
+      "severity": "minor"
+    },
+    {
+      "item": "Crowd Focus benefit narrowed from 'the people you're talking with' (plural, conversational group) to a single 'person in front of you'",
+      "severity": "minor"
+    },
+    {
+      "item": "Timing framing: the original says the update is 'coming'; the edit's 'We're rolling out' could suggest it is already available, though the October 20 start date is kept later",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

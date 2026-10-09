@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 5,
+    "4": 1,
+    "5": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "The cost reassurance ('we'd rather explain what the panel is for than push it') reads like a manufactured candor beat, and 'Bloodwork can also' dangles with nothing before it.",
+    "2": "Clean but generic, with an evenly paced claim-benefit-price template and no specifics.",
+    "3": "Em dashes plus the polished closer 'a practical way to get a fuller picture... make the most of their yearly checkup.'",
+    "4": "none",
+    "5": "Tidy pitch closer 'a simple way to get the full picture at their next visit' and smoothed conversational phrasing ('hits 7', 'something's off')."
+  },
+  "reason": "Version 4 reads most like a real clinic staffer, with its rhetorical question, 'highly beneficial' and capitalized product name, but Version 1 is the one worth publishing. Its concrete clinic data, beagle case and small-breed nuance give it real credibility, provided the stats are genuine and the stray 'also' is fixed.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "track2/A-int",
+    "3": "O",
+    "4": "E",
+    "5": "C"
+  }
+}

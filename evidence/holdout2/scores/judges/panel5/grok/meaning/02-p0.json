@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2
+  },
+  "reason": "Version 2 keeps the apology, the “disrupted your day” acknowledgment, the £15 credit terms, and the thanks, omitting only the activity examples and the closing apology. Version 3 retains those examples but changes “whether” to “when” and drops the disruption acknowledgment, while version 1 also drops the thanks and closing apology.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "B5"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "id": 3,
+  "arm": "B",
+  "reply1": "I rewrote this directly, since a release note with all its facts present doesn't need an interview. I dropped \"so your transactions show up sooner\" and \"instead of editing them one by one\" because the reader can infer both. I also made the fix line say what now works.\n\n<final>\n**Ledgerly 4.2 Release Notes**\nReleasing October 14\n\n**What's new**\n\n- Bank feeds: now sync every 15 minutes instead of hourly.\n- Bulk invoice editing: edit multiple invoices at once.\n\n**Fixes**\n\n- PDF export: currency symbols now display correctly in exported PDFs.\n</final>",
+  "asked": false,
+  "final": "**Ledgerly 4.2 Release Notes**\nReleasing October 14\n\n**What's new**\n\n- Bank feeds: now sync every 15 minutes instead of hourly.\n- Bulk invoice editing: edit multiple invoices at once.\n\n**Fixes**\n\n- PDF export: currency symbols now display correctly in exported PDFs."
+}

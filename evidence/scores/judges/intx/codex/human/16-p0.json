@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 4,
+    "4": 1,
+    "5": 5
+  },
+  "send": "2",
+  "tells": {
+    "1": "The slightly padded 'I found myself doing' and neatly balanced reflections suggest editorial smoothing.",
+    "2": "none",
+    "3": "Repeated short sentences make the conversational rhythm feel deliberately engineered.",
+    "4": "none",
+    "5": "Generic good/bad contrasts and the stock 'bang or whimper' phrase; these also occur in unpolished human writing."
+  },
+  "reason": "Version 4 feels most individual through its specific memories and awkward admission of relief. I would publish version 2 for its clearer emotional progression, economical sentences, and restrained ending; stylistic impressions cannot establish authorship.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "track2/A-int",
+    "3": "C",
+    "4": "track2/B5-int",
+    "5": "E"
+  }
+}

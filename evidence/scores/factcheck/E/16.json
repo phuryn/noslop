@@ -1,0 +1,70 @@
+{
+  "dropped": [
+    {
+      "item": "The specific end-of-day routine: straightening the lab stools, checking the taps, and wiping down a bench that was already clean. The edit reduces this to generic 'cleaning up'.",
+      "severity": "minor"
+    },
+    {
+      "item": "The narrator had thought of retirement only as a date on the calendar and had not thought about how they would actually leave the room.",
+      "severity": "major"
+    },
+    {
+      "item": "Some lessons went beautifully, while others the narrator spent the drive home figuring out how to teach again.",
+      "severity": "major"
+    },
+    {
+      "item": "There were students the narrator still wondered about.",
+      "severity": "minor"
+    },
+    {
+      "item": "A few students' questions changed how the narrator explained something for the next twenty years.",
+      "severity": "major"
+    },
+    {
+      "item": "The narrator was ready to go but still took their time. The edit keeps the time-taking but loses the tension of being ready yet lingering.",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "The original says the narrator had NOT given much thought to how they would leave. The edit says the narrator 'had carefully prepared for this day', which reverses the meaning.",
+      "severity": "major"
+    },
+    {
+      "item": "Reflection on individual lessons that went well or needed reteaching becomes 'good years and bad years', which changes the unit and substance of the reflection.",
+      "severity": "major"
+    },
+    {
+      "item": "'I was ready to go' becomes 'I was finally leaving', repeated twice. This suggests relief or impatience rather than readiness mixed with reluctance.",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "The narrator had carefully prepared for the day.",
+      "severity": "major"
+    },
+    {
+      "item": "Uncertainty about going out 'with a bang or with a whimper'.",
+      "severity": "minor"
+    },
+    {
+      "item": "The narrator had good years and bad years.",
+      "severity": "minor"
+    },
+    {
+      "item": "Many memorable experiences with students, both good and bad.",
+      "severity": "minor"
+    },
+    {
+      "item": "Emphasis on 'finally' leaving, implying long-awaited departure.",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [
+    "I had carefully prepared for this day",
+    "whether with a bang or with a whimper",
+    "I had had good years and I had had bad years"
+  ],
+  "meaning_preserved": 2
+}

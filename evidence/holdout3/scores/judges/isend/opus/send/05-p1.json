@@ -1,0 +1,11 @@
+{
+  "send": "1",
+  "reason": "Version 1 keeps every fact and commitment, including the new date, the lighting fix, 4 volunteers on Saturday and 'we'll confirm details', in my plain, friendly voice. Version 4 sounds closer to my voice but changes the commitment to 'I'll send details', version 3 drops the closing sentiment, and version 2 is garbled and drops the reason for the move.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "E",
+    "3": "A",
+    "4": "C"
+  },
+  "picked_arm": "B5"
+}

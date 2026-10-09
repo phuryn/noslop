@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 4,
+    "4": 2
+  },
+  "send": "2",
+  "tells": {
+    "1": "A bolded label and colon starts every bullet, even the single fix, which is a templated pattern typical of AI output.",
+    "2": "none",
+    "3": "A forced chatty tone, with a rhetorical question ('Need to change a bunch of invoices?'), a punchy 'That's fixed.' and the unsupported intensifier 'much sooner'.",
+    "4": "none (the plain-text labels with colons are a slight template echo, but they read like a pasted-in human draft)"
+  },
+  "reason": "Version 2 is plain and accurate, with real heading structure and no decorative labels or forced personality, which is how a skilled human writes short release notes. Version 4 is similarly natural but loses formatting and the 'show up sooner' benefit, while 1 is templated and 3 overdoes the casual voice.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "A",
+    "3": "C",
+    "4": "B"
+  }
+}

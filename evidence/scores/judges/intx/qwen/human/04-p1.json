@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 4,
+    "4": 3,
+    "5": 5
+  },
+  "send": "2",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "Choppy, repetitive sentence rhythm and slightly off phrasing such as 'plant out your garlic' and 'the Millbrook Community Hall'.",
+    "4": "Safe, templated cadence and the momentarily awkward 'a small job now that' phrasing.",
+    "5": "Over-explicit connective phrasing, especially 'The hardest part comes after that, which is leaving them alone'."
+  },
+  "reason": "Version 2 has the most natural community-newsletter voice: concrete, warm, and idiomatic without becoming vague. It is clear and credible while sounding like a person rather than a polished template.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "C",
+    "3": "E",
+    "4": "track2/A-int",
+    "5": "track2/B5-int"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "dropped": [
+    {
+      "item": "The Land Rover described as 'a reminder of what your support makes possible'",
+      "severity": "minor"
+    },
+    {
+      "item": "'Heartfelt' and 'for your support' removed from the opening thank-you, which now reads as a bare 'thank you'",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "'Your generosity helps us be there' became 'your donations are what let us be there'. The scope narrows from general generosity to donations only, and the claim strengthens from 'helps' to sole enabling cause.",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

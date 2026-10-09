@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 6,
+    "3": 7,
+    "4": 1,
+    "5": 5,
+    "6": 3,
+    "7": 4
+  },
+  "send": "6",
+  "tells": {
+    "1": "none; 'if you'd like to settle this quickly' is human, though it reads a little transactional",
+    "2": "Stock opener 'I understand you're unhappy' plus a uniformly polished, template-like structure",
+    "3": "Over-formal phrasing ('the basis for the deduction', 'Please let us know how you'd like to proceed') and curly quotes suggest machine polish",
+    "4": "none; the typos ('your not happy', 'want me too'), lowercase 'sigma', comma splices and a rhetorical question are clearly a human first draft",
+    "5": "Awkward hedge 'which we consider goes beyond' and the slightly formulaic 'as a gesture of goodwill'",
+    "6": "Mild formulaic 'as a gesture of goodwill' pairing; otherwise natural",
+    "7": "Clipped, efficient phrasing ('Tell me which you'd prefer') feels tidied up and slightly curt"
+  },
+  "reason": "Version 4 is the most obviously human but is too error-ridden and defensive to send. Version 6 keeps the warm, empathetic tone, owns the offer personally ('I'm happy to send'), and uses natural phrasing ('we felt went beyond'), which makes it the most credible and customer-friendly reply.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B5",
+    "3": "O",
+    "4": "E",
+    "5": "V6C",
+    "6": "V6A",
+    "7": "A"
+  }
+}

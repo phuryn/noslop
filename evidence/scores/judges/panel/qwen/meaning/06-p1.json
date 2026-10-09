@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3,
+    "4": 4
+  },
+  "reason": "Version 2 preserves the original facts, pricing, subscription terms, and core experiential nuances most completely, while Version 1 slightly narrows or combines some details. Version 3 compresses away some nuance, and Version 4 adds or changes claims such as baking something new every month.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "C",
+    "3": "A",
+    "4": "E"
+  }
+}

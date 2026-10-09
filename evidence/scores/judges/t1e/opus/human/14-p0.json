@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3,
+    "4": 4
+  },
+  "send": "2",
+  "tells": {
+    "1": "none; trimmed so far it reads a little flat (\"we started with what we could\")",
+    "2": "mild: the tidy wrap-up line \"Those visits helped us get here\"",
+    "3": "none; it reads like an unpolished human draft, with clichés, exclamation points and a muddled post 5",
+    "4": "rhetorical patterning: the em dash, the \"every shelf, every table, every book\" tricolon, and the \"Maybe it's been reread. Maybe it's been passed along.\" anaphora"
+  },
+  "reason": "Version 2 keeps the warmth and specificity of the thread without the stylized rhythm of 4 or the clumsiness of 3. Version 1 is clean but slightly too stripped down.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "E",
+    "4": "O"
+  }
+}

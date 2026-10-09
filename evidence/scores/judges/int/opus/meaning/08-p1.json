@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2
+  },
+  "reason": "Version 1 keeps every claim, including the guide-care benefit and the 'fuller picture' purpose; it only firms up 'help spot' to 'catch' and drops 'practical.' Version 3 keeps the guide-care point but cuts the panel's stated value. Version 2 drops both the guide-care benefit and the 'fuller picture' value and adds an 'add-on' framing.",
+  "label_to_arm": {
+    "1": "track2/B3-int",
+    "2": "track2/A-int",
+    "3": "B3"
+  }
+}

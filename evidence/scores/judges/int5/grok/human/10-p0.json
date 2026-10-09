@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "The 'If you're a current member' conditional and the tidy thanks-then-reply close read like a smoothed template paraphrase.",
+    "3": "Formal future tense ('will increase,' 'will take effect'), the 'to give you' purpose clause, and the stock community thank-you.",
+    "4": "none"
+  },
+  "reason": "Version 1 sounds like an owner wrote it: direct present tense, a slightly uneven sentence, and the reply invite before the thanks. Version 3 is the most polished but the least human, so I would send 1.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "track2/B5-int",
+    "3": "O",
+    "4": "track2/A-int"
+  }
+}

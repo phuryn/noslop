@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 5,
+    "4": 4,
+    "5": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "The stacked conversational touches—“Not bad,” “honestly,” and the borrowed-book joke—feel deliberately inserted; the unexplained switch from “we” to “My” weakens the voice.",
+    "3": "Repeated facts and carefully patterned phrasing—“Every shelf, every table, every book”—make a simple anniversary announcement feel overworked.",
+    "4": "Generic connective phrases such as “an anniversary to celebrate” and “Those visits helped us get here” add polish without much substance.",
+    "5": "“We started with what we could” feels vague, and the compressed fifth post loses some of the warmth of the underlying thought."
+  },
+  "reason": "Version 1 has the best balance of warmth, restraint and natural pacing, with a reflective detail that suits a bookshop. Version 5 is economical but less expressive; these are editorial judgments about the writing, not evidence of authorship.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "C",
+    "3": "O",
+    "4": "B3",
+    "5": "A"
+  }
+}

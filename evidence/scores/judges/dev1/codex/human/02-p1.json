@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1,
+    "4": 5,
+    "5": 4
+  },
+  "send": "3",
+  "tells": {
+    "1": "none",
+    "2": "Generic warmth in 'we'd be glad to pitch in' slightly dilutes the direct offer.",
+    "3": "none",
+    "4": "Two consecutive questions and 'discuss where we might fit' give it a templated sales cadence.",
+    "5": "none"
+  },
+  "reason": "Version 3 combines concrete evidence, natural industry language, and a clear invitation without unnecessary padding. These rankings reflect editorial impressions, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "C",
+    "3": "A",
+    "4": "O",
+    "5": "B5"
+  }
+}

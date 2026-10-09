@@ -1,0 +1,11 @@
+{
+  "send": "1",
+  "reason": "It keeps every fact, commitment, and invitation intact and only splits the em-dash sentence, so it still reads like the original draft.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B5",
+    "3": "E",
+    "4": "C"
+  },
+  "picked_arm": "A"
+}

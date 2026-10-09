@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 4,
+    "3": 2,
+    "4": 5,
+    "5": 1
+  },
+  "send": "5",
+  "tells": {
+    "1": "Dash-heavy, polished marketing phrasing like 'a practical way to get a fuller picture' and 'make the most of their yearly checkup.'",
+    "2": "Very neutral and compressed; reads like a bare summary with no distinct voice or concrete detail.",
+    "3": "Slightly performed casualness with 'shots,' 'hits 7,' and 'something's off,' and a generic 'get the full picture' ending.",
+    "4": "Stiffly formal and vague: 'highly beneficial' and 'many other markers' with no specific evidence or human detail.",
+    "5": "none"
+  },
+  "reason": "Version 5 feels most human and credible because it uses a concrete statistic, a specific patient anecdote, and a nuanced age caveat while acknowledging cost rather than pushing the panel. I would publish it because it builds trust and gives useful guidance without sounding like generic wellness marketing.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "track2/A-int",
+    "3": "C",
+    "4": "E",
+    "5": "track2/B5-int"
+  }
+}

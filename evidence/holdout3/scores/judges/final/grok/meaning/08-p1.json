@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 1,
+    "4": 5,
+    "5": 3
+  },
+  "reason": "Version 3 keeps the price, coverage, 40-hectare minimum, drone image capture, 48-hours-from-flight delivery, and “help you spot” purpose without new claims. Version 2 is nearly as exact but softens the opening benefit and image-capture step; 5 upgrades the maps from helping you spot issues to showing which areas need a look; 1 adds inbox delivery and a similar stronger claim; 4 drops the flight-based timing anchor and the maps’ purpose and adds “currently.”}",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B3",
+    "3": "B5",
+    "4": "E",
+    "5": "A"
+  }
+}

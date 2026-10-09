@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1
+  },
+  "send": "3",
+  "tells": {
+    "1": "Generic, detail-free summary that repeats the same 14% to 9% stat in both abstract and bio, with an anonymous 'the speaker'",
+    "2": "Promotional filler and hedging ('can help reveal leaks that might otherwise go unnoticed', 'explores', 'practical considerations'), plus the same stat repeated in the bio",
+    "3": "none"
+  },
+  "reason": "Version 3 has the specifics a program committee wants: SCADA, no new hardware, 18 months, $85,000, a 30% false-positive rate, and a named field tech. It also admits limits, saying attribution is uncertain and ML wasn't essential, which builds credibility. Versions 1 and 2 are vague restatements of one statistic, and version 2 adds generic AI-style framing.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "O",
+    "3": "track2/B2-int"
+  }
+}

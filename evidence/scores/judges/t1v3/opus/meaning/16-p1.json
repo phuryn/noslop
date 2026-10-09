@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2,
+    "4": 4
+  },
+  "reason": "V1 keeps nearly everything, losing only the 'found myself' nuance and the 'much' hedge. V3 drops the 'usual things' framing of the routine. V2 changes 'teach again' to 'teach better' and strengthens the hedge to 'never really thought'. V4 rewrites the retirement sentence with an added 'always', changing its meaning, and also drops 'usual'.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "B3",
+    "4": "B"
+  }
+}

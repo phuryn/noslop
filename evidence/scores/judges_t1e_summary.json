@@ -1,0 +1,184 @@
+{
+  "human/codex": {
+    "texts": 15,
+    "verdicts": 30,
+    "mean_rank": {
+      "A": 1.57,
+      "B3": 1.67,
+      "E": 3.6,
+      "O": 3.17
+    },
+    "pairwise": {
+      "E>B3": {
+        "win": 1,
+        "tie": 0,
+        "loss": 14,
+        "p": 0.001
+      },
+      "E>A": {
+        "win": 1,
+        "tie": 0,
+        "loss": 14,
+        "p": 0.001
+      },
+      "E>O": {
+        "win": 3,
+        "tie": 3,
+        "loss": 9,
+        "p": 0.146
+      },
+      "B3>A": {
+        "win": 5,
+        "tie": 3,
+        "loss": 7,
+        "p": 0.774
+      }
+    },
+    "send_picks": {
+      "A": 15,
+      "B3": 15
+    }
+  },
+  "human/opus": {
+    "texts": 15,
+    "verdicts": 30,
+    "mean_rank": {
+      "A": 1.93,
+      "B3": 2.27,
+      "E": 2.13,
+      "O": 3.67
+    },
+    "pairwise": {
+      "E>B3": {
+        "win": 7,
+        "tie": 2,
+        "loss": 6,
+        "p": 1.0
+      },
+      "E>A": {
+        "win": 7,
+        "tie": 0,
+        "loss": 8,
+        "p": 1.0
+      },
+      "E>O": {
+        "win": 11,
+        "tie": 2,
+        "loss": 2,
+        "p": 0.022
+      },
+      "B3>A": {
+        "win": 4,
+        "tie": 3,
+        "loss": 8,
+        "p": 0.388
+      }
+    },
+    "send_picks": {
+      "A": 16,
+      "B3": 13,
+      "O": 1
+    }
+  },
+  "meaning/codex": {
+    "texts": 15,
+    "verdicts": 30,
+    "mean_rank": {
+      "A": 1.9,
+      "B3": 1.17,
+      "E": 2.93
+    },
+    "pairwise": {
+      "E>B3": {
+        "win": 0,
+        "tie": 0,
+        "loss": 15,
+        "p": 0.0
+      },
+      "E>A": {
+        "win": 1,
+        "tie": 0,
+        "loss": 14,
+        "p": 0.001
+      },
+      "B3>A": {
+        "win": 12,
+        "tie": 1,
+        "loss": 2,
+        "p": 0.013
+      }
+    }
+  },
+  "meaning/opus": {
+    "texts": 15,
+    "verdicts": 30,
+    "mean_rank": {
+      "A": 1.87,
+      "B3": 1.4,
+      "E": 2.73
+    },
+    "pairwise": {
+      "E>B3": {
+        "win": 1,
+        "tie": 1,
+        "loss": 13,
+        "p": 0.002
+      },
+      "E>A": {
+        "win": 1,
+        "tie": 1,
+        "loss": 13,
+        "p": 0.002
+      },
+      "B3>A": {
+        "win": 10,
+        "tie": 1,
+        "loss": 4,
+        "p": 0.18
+      }
+    }
+  },
+  "human/both": {
+    "pairwise": {
+      "E>B3": {
+        "win": 8,
+        "tie": 2,
+        "loss": 20
+      },
+      "E>A": {
+        "win": 8,
+        "tie": 0,
+        "loss": 22
+      },
+      "E>O": {
+        "win": 14,
+        "tie": 5,
+        "loss": 11
+      },
+      "B3>A": {
+        "win": 9,
+        "tie": 6,
+        "loss": 15
+      }
+    }
+  },
+  "meaning/both": {
+    "pairwise": {
+      "E>B3": {
+        "win": 1,
+        "tie": 1,
+        "loss": 28
+      },
+      "E>A": {
+        "win": 2,
+        "tie": 1,
+        "loss": 27
+      },
+      "B3>A": {
+        "win": 22,
+        "tie": 2,
+        "loss": 6
+      }
+    }
+  }
+}

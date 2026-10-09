@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 3,
+    "3": 2,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "Hedged, generic phrasing ('can help reveal leaks that might otherwise go unnoticed', 'this talk explores', 'practical considerations') that says little concrete",
+    "2": "none, though the bio restates the abstract's 14%→9% claim almost verbatim",
+    "3": "none, though the bio repeats the abstract's result nearly word for word",
+    "4": "Stock 'what worked, what didn't' formula, plus the odd hedge 'we helped bring' in a first-person account of the team's own work"
+  },
+  "reason": "Version 4 has a real speaker's voice, frames the problem for the audience, and promises candid lessons, which is what draws people to a conference session. Versions 2 and 3 are clean but flat, and Version 1 is vague and hedged throughout.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B",
+    "3": "A",
+    "4": "C"
+  }
+}

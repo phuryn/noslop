@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1,
+    "4": 4
+  },
+  "send": "3",
+  "tells": {
+    "1": "none",
+    "2": "Stacked stock reassurance: “gladly,” “No question is too small,” and “part of the Kestrel family.”",
+    "3": "“No question is too small” adds formulaic reassurance to otherwise concise copy.",
+    "4": "Redundant battery wording and layered, generic warmth, especially “no such thing as a silly question” and “Kestrel family.”"
+  },
+  "reason": "Version 3 puts the cost, compatibility, release date, and delivery channel first, then explains the benefits without much padding. Version 1 is similarly restrained but less efficient; these are stylistic judgments, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "B3",
+    "4": "O"
+  }
+}

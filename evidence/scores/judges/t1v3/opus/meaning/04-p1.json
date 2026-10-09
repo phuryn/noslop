@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 4,
+    "4": 1
+  },
+  "reason": "Version 4 keeps all the original content and changes only punctuation, and Version 1 adds just minor rephrasing. Version 2 drops 'now' and shifts 'us' to 'you'; Version 3 drifts most, dropping 'small job' and 'this week' and adding 'our' to the seed swap.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "B",
+    "3": "C",
+    "4": "A"
+  }
+}

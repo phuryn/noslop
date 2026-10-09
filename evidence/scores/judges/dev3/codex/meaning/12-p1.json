@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 1,
+    "4": 3
+  },
+  "reason": "Version 3 preserves the original most closely, followed by version 1, which slightly strengthens the caveat about unnoticed leaks. Version 4 adds unsupported claims about most utilities, previously unknown leaks, and discussing what did not work; version 2 makes the more consequential changes of inventing a leadership role and strengthening the causal attribution for the reduction.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "A",
+    "3": "B3",
+    "4": "C"
+  }
+}

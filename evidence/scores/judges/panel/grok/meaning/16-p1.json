@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 3
+  },
+  "reason": "Version 1 only slightly flattens “found myself” and “hadn’t given much thought,” while keeping the facts and caveats. Version 2 drops the habitual framing; version 4 changes details (teach “better,” “things,” the “whole” drive, walking out); version 3 contradicts the original by adding preparation, drama, and good/bad years while dropping specifics.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "E",
+    "4": "C"
+  }
+}

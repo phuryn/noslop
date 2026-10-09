@@ -1,0 +1,13 @@
+{
+  "send": "5",
+  "reason": "Version 5 preserves the original wording, facts, and caveats almost exactly, while reading like the writer's own announcement.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "V6C",
+    "3": "V6A",
+    "4": "B5",
+    "5": "A",
+    "6": "C"
+  },
+  "picked_arm": "A"
+}

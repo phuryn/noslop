@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 5,
+    "3": 4,
+    "4": 1,
+    "5": 2
+  },
+  "send": "5",
+  "tells": {
+    "1": "The cluster of familiar recruitment phrases—'real days off,' 'when it counts,' 'a real say'—feels somewhat packaged.",
+    "2": "'Honestly, that's the fun part' and 'your opinion will actually count' feel like deliberate attempts to sound conversational.",
+    "3": "The neatly balanced sections and added lifestyle promise give it a slightly formulaic recruitment-copy rhythm.",
+    "4": "none",
+    "5": "'That means real days off, nights that actually end, and a schedule you can plan a life around' feels like a polished promotional formula."
+  },
+  "reason": "Version 4 sounds the most direct and least fussed over; version 5 is the one I'd publish for its smoother pacing and clear, active phrasing. These are stylistic judgments, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "O",
+    "4": "B",
+    "5": "B3"
+  }
+}

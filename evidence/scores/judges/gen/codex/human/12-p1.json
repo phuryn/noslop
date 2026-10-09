@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+  },
+  "send": "2",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "Generic conference-copy phrasing: “This talk explores,” “shares lessons,” and “practical considerations.” Suggestive of templated editing, not proof of AI.",
+    "4": "none"
+  },
+  "reason": "Version 1 reads most naturally, but I would send version 2: it is clear and appropriately cautious about causality, without adding the leadership claim in version 1. Version 3 sounds more formulaic; version 4 has personality but its duplicated labels and sentence fragments fall short of skilled, publication-ready writing.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "O",
+    "4": "gen/E-write"
+  }
+}

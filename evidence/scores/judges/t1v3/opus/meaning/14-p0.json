@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+  },
+  "reason": "Version 1 keeps every fact and sentiment, losing only the redundant 'Now we have two floors' in post 3. Version 2 drops the anniversary mention in post 1 and '10 years of The Tidewater Bookshop' in post 6. Version 3 drops 'every book' and 'Those visits helped us get here', and adds 'to a friend'. Version 4 adds invented details ('what we loved', 'first week', 'a dozen times', the borrowed book never returned) and shifts to 'My favorite' and 'still here'.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "B",
+    "3": "A",
+    "4": "C"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 5,
+    "4": 2,
+    "5": 6,
+    "6": 4
+  },
+  "send": "2",
+  "tells": {
+    "1": "generic CTA phrase 'where we might fit'",
+    "2": "none",
+    "3": "stiff, brochure-like phrasing and redundant questions",
+    "4": "formulaic fit question",
+    "5": "repetitive 'Would you be open' and generic 'see if there's a fit'",
+    "6": "sanitized metric phrasing 'on-time rate'"
+  },
+  "reason": "Version 2 sounds the most natural and credible, with specific capability, a clear statistic, and a conversational ask. It avoids the stiffness of 3 and 6 and the sloppiness of 5.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "C",
+    "3": "O",
+    "4": "A",
+    "5": "E",
+    "6": "B3"
+  }
+}

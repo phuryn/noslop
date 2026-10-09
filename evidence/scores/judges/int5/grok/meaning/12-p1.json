@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2
+  },
+  "reason": "Version 1 keeps the original claim that existing pressure data helped reveal otherwise unnoticed leaks and helped reduce non-revenue water, without unsupported additions. Version 3 drops the “helped” link and the “otherwise unnoticed” point, while Version 2 attributes the full 14% to 9% drop to the sensor work despite the writer’s caveat and turns a desired takeaway into a “you’ll leave knowing how” promise.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "track2/B5-int",
+    "3": "track2/A-int"
+  }
+}

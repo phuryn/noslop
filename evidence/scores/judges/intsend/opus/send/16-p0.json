@@ -1,0 +1,11 @@
+{
+  "send": "1",
+  "reason": "Version 1 is the only one that drops the 'date on the calendar' line I disowned and the made-up line about students' questions. It also adds what I did offer: the period 4 AP Chem elephant toothpaste demo, Amina and her daughter, and feeling relieved as much as sad with no real plan. It's plainer than my draft, but it's honest and sounds like me.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "E",
+    "3": "track2/A-int",
+    "4": "C"
+  },
+  "picked_arm": "track2/B5-int"
+}

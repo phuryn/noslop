@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 1,
+    "4": 3,
+    "5": 5
+  },
+  "reason": "Version 3 keeps every fact, the reason for the delay and the 'we'll confirm details' commitment, and Version 1 is nearly as close but shifts that to 'I'll send details'; Versions 4 and 2 drop the 'get everything right' rationale and the closing sentiment. Version 5 recasts the lighting issue as a supply problem, implies the lights are what's being mounted, drops 'this' Saturday, and omits the reason for the move.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B3",
+    "3": "B5",
+    "4": "A",
+    "5": "E"
+  }
+}

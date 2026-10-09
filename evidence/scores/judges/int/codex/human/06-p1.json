@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3,
+    "4": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "The generic closing encouragement, “Give yourself something to look forward to each month,” overexplains an already clear benefit.",
+    "4": "Stacked slogan pairs and sentence fragments create a conspicuously manufactured rhythm, especially “A little measuring done. A little joy delivered.”"
+  },
+  "reason": "Version 2 feels most human through its concrete customer story and conversational headings, though these cannot establish authorship. I would publish version 1 for its restrained, clear copy; version 2’s testimonial would need verification first.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "track2/B3-int",
+    "3": "B3",
+    "4": "O"
+  }
+}

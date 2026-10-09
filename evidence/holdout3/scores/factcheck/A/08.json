@@ -1,0 +1,17 @@
+{
+  "dropped": [
+    {
+      "item": "Benefit framing that the survey gives 'a clear view of crop health across your fields'",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "Original says the maps 'help you spot areas that need a closer look' (an aid to the farmer's judgement). The edit says 'The maps show which areas need a closer look', a more definitive claim that the maps themselves identify problem areas.",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

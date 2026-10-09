@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 5,
+    "3": 7,
+    "4": 2,
+    "5": 6,
+    "6": 3,
+    "7": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Stock hedge and courtesy: 'I wanted to ask if you'd consider' and 'at no cost.'",
+    "3": "Empty praise stack ('sustainable, high quality and beautiful') and filler 'this is something that would work.'",
+    "4": "Default cold-email opener 'Would you be open to.'",
+    "5": "Identical to version 2, including the same 'at no cost' template phrasing.",
+    "6": "Consultant diction: 'as a replacement for' and 'be a fit.'",
+    "7": "Company treated as the actor ('Would Hearth & Wick try... its') instead of Priya."
+  },
+  "reason": "Version 1 sounds like a person who knows the buyer's real question (will the inserts hold up) and asks in plain speech. The rest mostly recycle one polite template—2 and 5 are the same text—while 3 is sloppy and oversold.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "V6A",
+    "3": "E",
+    "4": "A",
+    "5": "V6C",
+    "6": "O",
+    "7": "B5"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 5,
+    "4": 4,
+    "5": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "The neatly parallel consequences list feels slightly formulaic, though the prose is otherwise restrained and natural.",
+    "2": "Conspicuously conversational wording—'actually accept,' 'bunch up,' 'in the loop'—feels like an applied effort to sound human.",
+    "3": "none",
+    "4": "Generic emphasis such as 'The consequences are significant' and uniformly polished, bold-led bullets give it a template-like feel.",
+    "5": "The punchy 'What this costs' lead-in feels editorially packaged, especially alongside the symmetrical consequence bullets."
+  },
+  "reason": "Version 1 best fits a skilled human writing a PRD: direct, readable, and professionally restrained; version 3 feels like an unfinished working draft. Before sending, I would distinguish escalation from successful rescheduling, a credibility problem shared by all five; these stylistic impressions do not establish AI authorship.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "E",
+    "4": "O",
+    "5": "B3"
+  }
+}

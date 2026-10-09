@@ -1,0 +1,11 @@
+{
+  "send": "2",
+  "reason": "It alone softens the age-7 cutoff, includes the 1-in-5 finding and unnamed beagle example, avoids unsupported claims about the $129 panel, and stays low-pressure about cost. The others treat 7 as a hard rule or add details the writer would not stand behind.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "track2/B5-int",
+    "3": "C",
+    "4": "E"
+  },
+  "picked_arm": "track2/B5-int"
+}

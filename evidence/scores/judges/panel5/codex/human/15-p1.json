@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 5,
+    "4": 4,
+    "5": 1,
+    "6": 6
+  },
+  "send": "5",
+  "tells": {
+    "1": "Repeated explanatory constructions ('so you…', 'so your…') make the otherwise concrete copy slightly mechanical.",
+    "2": "Stacked conversational touches—'give you a nudge,' 'tweak your plan,' 'bouncing back'—feel like a deliberate friendliness pass.",
+    "3": "Generic promises such as 'Never miss a session again' and 'watch your progress grow!' substitute enthusiasm for precision.",
+    "4": "'Built for real recovery' and 'get more of what the app has to offer' sound polished but convey little.",
+    "5": "'Stay consistent' and 'see how far you've come' are stock benefit phrases, though the surrounding copy is restrained.",
+    "6": "Layers of generic reassurance—'guidance you can trust,' 'always know,' 'keep your recovery moving'—give it a templated marketing voice."
+  },
+  "reason": "Version 5 best balances readable app-store copy with concrete features and restrained claims; version 1 is credible but somewhat flat. These are stylistic judgments, not reliable evidence of AI authorship, and the Premium benefits should be specified before publication.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "E",
+    "4": "B5",
+    "5": "B3",
+    "6": "O"
+  }
+}

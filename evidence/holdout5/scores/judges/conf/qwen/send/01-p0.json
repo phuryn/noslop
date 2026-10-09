@@ -1,0 +1,13 @@
+{
+  "send": "3",
+  "reason": "Version 3 keeps all the facts, commitments and caveats, including the thanks to the night shift and the point that progress depends on people, not just the machine. It also reads naturally and closest to the original tone.",
+  "label_to_arm": {
+    "1": "V6A",
+    "2": "E",
+    "3": "B5",
+    "4": "C",
+    "5": "A",
+    "6": "V6C"
+  },
+  "picked_arm": "B5"
+}

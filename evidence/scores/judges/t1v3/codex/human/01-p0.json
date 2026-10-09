@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 1,
+    "3": 3,
+    "4": 2,
+    "5": 4
+  },
+  "send": "2",
+  "tells": {
+    "1": "Formulaic LinkedIn structure: headline result, three benefits, broad lesson, recommendation, engagement question.",
+    "2": "The generic lesson about 'meeting people where they already are' feels borrowed from business-post boilerplate.",
+    "3": "The closing 'How are you handling no-shows?' feels appended to solicit engagement.",
+    "4": "The polished takeaway about 'meeting patients where they already are' substitutes a familiar maxim for a specific insight.",
+    "5": "Conspicuously casual phrasing and sentence fragments feel engineered for authenticity; 'all we did' also oversimplifies the change."
+  },
+  "reason": "Version 2 is concise, coherent, and relatively restrained, with the least scaffolding around the useful result. Version 4 is close; version 5 adds unsupported details about how quickly results appeared and a one-month trial recommendation.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B",
+    "3": "A",
+    "4": "B3",
+    "5": "C"
+  }
+}

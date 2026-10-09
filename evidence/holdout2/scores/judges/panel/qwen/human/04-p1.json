@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 1
+  },
+  "send": "3",
+  "tells": {
+    "1": "The closing phrase, “a clear result for a team committed to maintaining high food safety standards,” feels like polished marketing filler rather than a natural case-study observation.",
+    "2": "The phrasing “came to us with… and a need for…” is slightly formulaic, and “They then passed” feels abrupt and mechanical.",
+    "3": "none"
+  },
+  "reason": "Version 3 reads most like a skilled human because it is direct, clean, and lets the problem-solution-result structure speak for itself. It avoids the canned promotional tone that weakens Version 1.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "A",
+    "3": "B3"
+  }
+}

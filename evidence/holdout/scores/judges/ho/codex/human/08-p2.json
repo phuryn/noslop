@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 5,
+    "3": 6,
+    "4": 3,
+    "5": 2,
+    "6": 1
+  },
+  "send": "5",
+  "tells": {
+    "1": "The familiar pairing of 'find their voice again' and 'for years to come' makes the closing feel generic.",
+    "2": "'It's worth looking after what comes next' feels strained, while 'a real privilege' adds formulaic warmth.",
+    "3": "The accumulation of 'a future worth caring for,' 'It's a privilege,' and 'find their voice again' feels templated.",
+    "4": "'Find their voice again' is a stock restoration metaphor, though the restrained ending helps.",
+    "5": "'A history and a future worth caring for' is polished but generic; otherwise, no strong tell.",
+    "6": "none"
+  },
+  "reason": "Version 6 sounds most like a craftsperson speaking naturally, though its final sentence is awkward. I'd publish 5 for its clear chronology, easy rhythm, and understated warmth; these are stylistic judgments, not reliable evidence of authorship.",
+  "label_to_arm": {
+    "1": "B",
+    "2": "C",
+    "3": "O",
+    "4": "B2",
+    "5": "B3",
+    "6": "A"
+  }
+}

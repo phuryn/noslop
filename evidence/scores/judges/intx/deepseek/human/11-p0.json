@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 5,
+    "4": 1,
+    "5": 3
+  },
+  "send": "4",
+  "tells": {
+    "1": "Templated bold headings and symmetrical 'What you'll do' / 'What we're after' structure.",
+    "2": "Slightly affected casual phrasing like 'honestly' and 'actually count' with paired 'The job' / 'Who we want' labels.",
+    "3": "All-caps text, excessive exclamation points, and uneven punctuation/spacing.",
+    "4": "none",
+    "5": "Polished but generic; reads like an AI-smoothed edit of Version 1 without distinctive detail."
+  },
+  "reason": "Version 4 reads most like a skilled, knowledgeable human wrote it because it includes concrete operational details, benefits, and staff history. I would send it for its credibility and warmth.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "C",
+    "3": "E",
+    "4": "track2/B5-int",
+    "5": "track2/A-int"
+  }
+}

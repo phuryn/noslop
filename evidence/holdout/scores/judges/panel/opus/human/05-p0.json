@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 4,
+    "4": 2
+  },
+  "send": "2",
+  "tells": {
+    "1": "Bulleted price comparison with a computed '(£18k cheaper)' parenthetical gives a short Slack note a templated, structured feel",
+    "2": "none",
+    "3": "An 'Options:' label above bullets plus a formal question turns a quick DM into a decision-memo template",
+    "4": "Over-explained symmetrical branching ('If you're happy with that... If you'd rather...'), which pads a simple ask"
+  },
+  "reason": "Version 2 opens with the recommendation, gives the numbers and deadline in plain prose, and makes the reply easy, which is how a confident colleague writes in Slack. The others bury the recommendation behind setup or wrap a two-option choice in list or memo structure.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "O",
+    "4": "C"
+  }
+}

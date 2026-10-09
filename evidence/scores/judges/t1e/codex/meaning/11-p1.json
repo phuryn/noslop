@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2
+  },
+  "reason": "Version 1 preserves all substantive details; version 3 drops the explicit promise of a schedule you can plan a life around. Version 2 omits several commitments and expectations, including nights that end, calm leadership, attention to seasoning, and a real say in kitchen practices, while adding an open-ended responsibilities clause.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "E",
+    "3": "A"
+  }
+}

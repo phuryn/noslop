@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2,
+    "4": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "The stock closing phrase “see how far you've come” adds a mildly formulaic motivational note.",
+    "2": "Generic reassurance and vague benefits accumulate: “guidance you can trust,” “BUILT FOR REAL RECOVERY,” and “unlock more of what the app has to offer.”",
+    "3": "The uniformly stripped-down phrasing feels mechanically flattened, especially “Each video shows the form for the movement.”",
+    "4": "none"
+  },
+  "reason": "Version 1 best balances useful detail, natural phrasing, and scannability; version 3 is clear but less fluent. Version 2 feels padded with generic marketing language, while version 4's repetition, sales flourishes, and missing subscription details make it less publishable; these stylistic judgments do not establish authorship.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "O",
+    "3": "A",
+    "4": "gen/E-write"
+  }
+}

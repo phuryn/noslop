@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 3,
+    "4": 1,
+    "5": 5
+  },
+  "send": "4",
+  "tells": {
+    "1": "Stock framing such as 'The consequences are significant' and 'Give coordinators visibility' makes the prose feel templated.",
+    "2": "'This hurts in four ways' feels like a manufactured conversational lead-in to an otherwise formal specification.",
+    "3": "'This causes four problems' mechanically announces the list; otherwise, few noticeable stylistic tells.",
+    "4": "none",
+    "5": "The accumulation of casual phrases—'sit uncovered,' 'actually accept,' 'bunch up,' and 'in the loop'—feels deliberately humanized and sometimes sacrifices precision."
+  },
+  "reason": "Version 4 reads most like a working PRD: direct, restrained, and easy to follow, though these stylistic differences cannot establish authorship. Before publishing, I would fix the shared definition that counts escalation as successful rescheduling and reconcile whether baselines are established before or during the pilot.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B",
+    "3": "A",
+    "4": "B2",
+    "5": "C"
+  }
+}

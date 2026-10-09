@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 4,
+    "4": 5,
+    "5": 2
+  },
+  "reason": "Versions 2 and 5 keep every fact and nuance and only rephrase lightly; Version 1 is also faithful but rewords more ('some ideas', 'each one'). Version 3 drops the 'small job now' framing and recasts the plan as a general prompt; Version 4 adds 'this Saturday', drops the chat and ideas for next season, and loses the 'small job now' point.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "A",
+    "3": "C",
+    "4": "E",
+    "5": "B3"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 5,
+    "4": 3,
+    "5": 1,
+    "6": 6
+  },
+  "send": "5",
+  "tells": {
+    "1": "Stock closer (“spot areas that need a closer look”) and the last step mostly repeats its heading.",
+    "2": "“Some valuable insight” is empty filler, and the final step adds nothing new.",
+    "3": "“Build the images into crop health maps” is an unnatural collocation, and “the maps reach you” is oddly personified.",
+    "4": "Same “maps reach you” personification, plus a limp “and they help you” tack-on.",
+    "5": "“In your inbox” clashes with “in hand,” and “patches deserve” is slightly precious.",
+    "6": "“We count the 48 hours from the flight” over-explains a simple promise in a robotic way."
+  },
+  "reason": "Version 5 is the only one with a distinct copywriter’s voice and a benefit-led opener worth publishing. The rest mostly paraphrase one tidy three-step template, and version 6’s clock explanation is the least human.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "E",
+    "3": "B3",
+    "4": "B5",
+    "5": "C",
+    "6": "A"
+  }
+}

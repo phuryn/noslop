@@ -1,0 +1,17 @@
+{
+  "id": 12,
+  "asked": true,
+  "n_questions": 5,
+  "answer_share": 0.574,
+  "recall_yes": 8,
+  "recall_partial": 0,
+  "hidden_total": 8,
+  "invented_specifics": [],
+  "meaning_preserved": 3,
+  "major": [
+    {
+      "item": "In the original, the pressure-data work 'helped' reduce non-revenue water from 14% to 9%. The edit's abstract says MVWA took NRW from 14% to 9% and 'We did it with our existing SCADA pressure sensors', which attributes the whole drop to this project. The writer explicitly said they cannot claim how much of the drop came from this work versus other factors.",
+      "severity": "major"
+    }
+  ]
+}

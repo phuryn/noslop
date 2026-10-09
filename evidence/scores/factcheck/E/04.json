@@ -1,0 +1,48 @@
+{
+  "dropped": [
+    {
+      "item": "Framing of planting garlic as a small job now that gives you something to look forward to next summer",
+      "severity": "minor"
+    },
+    {
+      "item": "Leaving the garlic alone described as 'the hardest part'",
+      "severity": "minor"
+    },
+    {
+      "item": "Invitation to come along to the seed swap for a chat and a few ideas for next season",
+      "severity": "minor"
+    },
+    {
+      "item": "Seeds brought are explicitly 'to share'",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "'Saturday, Oct 18' became 'this Saturday, Oct 18', which implies the event is in the coming week. The original has no such timing.",
+      "severity": "minor"
+    },
+    {
+      "item": "'planting garlic' became 'plant out your garlic'. 'Plant out' usually means transplanting seedlings, not sowing cloves directly.",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "'this' before Saturday, a relative timing claim",
+      "severity": "minor"
+    },
+    {
+      "item": "'our seed swap', which attributes ownership of the event to the newsletter",
+      "severity": "minor"
+    },
+    {
+      "item": "'ignore them until next summer' sets an explicit duration for leaving the garlic alone",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [
+    "this Saturday"
+  ],
+  "meaning_preserved": 4
+}

@@ -1,0 +1,42 @@
+{
+  "dropped": [
+    {
+      "item": "The maps' purpose: to help you spot areas that need a closer look",
+      "severity": "minor"
+    },
+    {
+      "item": "'Get a clear view of crop health across your fields' became the vaguer 'provide you with some valuable insight', so the explicit promise of a field-wide crop health view is weakened",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "The 48-hour delivery window is no longer explicitly counted from the flight ('within 48 hours of the flight' became 'Within 48 hours'). The start point is now ambiguous, though the step order implies it.",
+      "severity": "minor"
+    },
+    {
+      "item": "'Minimum booking of 40 hectares' became 'the minimum area we will fly is 40 hectares'. The meaning is nearly the same, but it is now framed as a flight-area limit rather than a booking condition.",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "'currently', which implies the regional availability may change",
+      "severity": "minor"
+    },
+    {
+      "item": "'Sit back', which implies no customer involvement during the flight",
+      "severity": "minor"
+    },
+    {
+      "item": "'our drone', which implies the company uses its own (single) drone",
+      "severity": "minor"
+    },
+    {
+      "item": "'valuable insight', a vague value claim",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

@@ -1,0 +1,21 @@
+{
+  "dropped": [
+    {
+      "item": "Rationale for Sunday evening classes: 'to give you more options during the week'",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "'As a current member' (addresses the reader as a current member) became 'If you're a current member' (a conditional)",
+      "severity": "minor"
+    },
+    {
+      "item": "'Thank you for being part of our community' became 'Thanks for being a member', which drops the community framing",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

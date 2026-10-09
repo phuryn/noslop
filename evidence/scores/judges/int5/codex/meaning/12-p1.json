@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2
+  },
+  "reason": "Version 1 best preserves the original’s qualified contribution and practical scope; version 3 is close but omits the point about leaks otherwise going unnoticed. Version 2’s “We did it with” implies the sensors account for the full reduction despite the writer’s attribution caveat, and “You'll leave knowing how” adds a stronger instructional promise than either source supports.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "track2/B5-int",
+    "3": "track2/A-int"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2,
+    "4": 4
+  },
+  "reason": "Version 1 is closest, though “often” strengthens “sometimes”; version 3 instead recasts the lesson as this being the biggest operational win. Version 2 makes the failure of calls more categorical and drops the operational lesson, while version 4 adds unsupported claims about texting being the only change, results appearing quickly, and a one-month trial.",
+  "label_to_arm": {
+    "1": "B",
+    "2": "A",
+    "3": "B3",
+    "4": "C"
+  }
+}

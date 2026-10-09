@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 5,
+    "3": 1,
+    "4": 4,
+    "5": 2
+  },
+  "send": "3",
+  "tells": {
+    "1": "Over-polished, symmetrical bolded bullets and generic corporate framing.",
+    "2": "none",
+    "3": "none",
+    "4": "The explicit 'This causes four problems' enumeration feels mechanical.",
+    "5": "Rhetorical 'What this costs:' and highly parallel bullet template."
+  },
+  "reason": "Version 3 is the most natural and human while remaining clear, complete, and credible for a PRD. It avoids the templated feel of the others without becoming too casual.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "E",
+    "3": "C",
+    "4": "A",
+    "5": "B3"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 1
+  },
+  "reason": "Version 3 most explicitly preserves that bulk invoice editing is newly available; version 2 leaves this implicit under “What's new.” Version 1 slightly broadens the PDF fix into a categorical claim that currency symbols now display correctly and previously did not.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "track2/A-int",
+    "3": "track2/B5-int"
+  }
+}

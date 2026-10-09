@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 3
+  },
+  "reason": "Version 1 preserves nearly all substantive meaning; version 2 changes the qualified lesson into a claim about the biggest operational win. Version 4 strengthens the claims about calls and the recommendation while omitting the qualified lesson; version 3 adds unsupported claims about texting being the only change, results appearing quickly, and a one-month trial.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "B3",
+    "3": "C",
+    "4": "A"
+  }
+}

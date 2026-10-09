@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 5,
+    "4": 1,
+    "5": 4
+  },
+  "send": "4",
+  "tells": {
+    "1": "none",
+    "2": "Generic, tidy warmth ('a small job now... something to look forward to', 'a chat and a few ideas for next season')",
+    "3": "Em dash aside plus a staged colon reveal ('Then comes the hardest part: leaving them alone')",
+    "5": "Staged colon reveal ('Then comes the hardest part: leaving them alone') and polished, generic phrasing",
+    "4": "none"
+  },
+  "reason": "Version 4 has the most natural regional voice ('pointy end up', 'a natter', 'One for the diary') and stays clear and warm without sounding polished. Version 1 reads human but clunky, with choppy sentences and an odd 'Finally' when only one item came before it.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "B3",
+    "3": "O",
+    "4": "C",
+    "5": "A"
+  }
+}

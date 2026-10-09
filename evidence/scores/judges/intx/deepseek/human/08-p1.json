@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 2,
+    "4": 5,
+    "5": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Smooth, formulaic benefit stacking and em-dash framing, with no concrete example or stat.",
+    "3": "Conversational but closes with a generic 'simple way to get the full picture' benefit line and lacks a specific detail.",
+    "4": "Stiff, impersonal phrasing and formal construction ('it is highly beneficial to have...').",
+    "5": "Plain, generic summary with little personality or concrete detail; reads like a cleaned-up AI brief."
+  },
+  "reason": "Version 1 has the strongest human feel because it uses a real statistic and a patient anecdote rather than generic benefits. It also addresses cost directly, which makes it more credible and natural for a veterinary blog.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "O",
+    "3": "C",
+    "4": "E",
+    "5": "track2/A-int"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 1,
+    "4": 4
+  },
+  "send": "3",
+  "tells": {
+    "1": "Slightly templated cadence and the phrase 'The remaining piece is' feel assembled rather than spoken.",
+    "2": "The 'with only ... left' clause is polished but a bit generic/summary-like.",
+    "3": "none",
+    "4": "The inverted phrasing 'The Android biometric flow is the remaining piece' sounds less natural than 'The remaining piece is...'."
+  },
+  "reason": "Version 3 sounds most like a real Slack update because it uses a first-person voice and idiomatic phrasing without losing the key status details. It is slightly more conversational than the others, which helps credibility and human feel.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "A",
+    "3": "C",
+    "4": "B3"
+  }
+}

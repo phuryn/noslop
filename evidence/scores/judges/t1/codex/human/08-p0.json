@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3,
+    "4": 4
+  },
+  "send": "2",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "The stacked casual phrases feel deliberately conversational, and 'get the full picture' adds a generic, overstated sales claim.",
+    "4": "The closing string of benefits—'a practical way,' 'a fuller picture,' and 'make the most'—feels formulaic and promotional."
+  },
+  "reason": "Version 2 is direct, specific, and restrained, with a price statement that needs no sales flourish. Version 1 is a close second; these rankings reflect editorial impressions, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "B",
+    "2": "A",
+    "3": "C",
+    "4": "O"
+  }
+}

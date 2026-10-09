@@ -1,0 +1,11 @@
+{
+  "send": "1",
+  "reason": "It preserves everything I meant, including the small effort now, the anticipation of next summer, and the invitation to chat at the seed swap. It also keeps my warm, understated voice with only a light change to punctuation.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "C",
+    "3": "E",
+    "4": "track2/B5-int"
+  },
+  "picked_arm": "track2/A-int"
+}

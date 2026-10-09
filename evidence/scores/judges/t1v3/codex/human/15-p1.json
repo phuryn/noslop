@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 5,
+    "4": 4,
+    "5": 2
+  },
+  "send": "2",
+  "tells": {
+    "1": "Stock reassurance and promotional filler: 'guidance you can trust,' 'BUILT FOR REAL RECOVERY,' and 'unlock more of what the app has to offer.'",
+    "2": "none",
+    "3": "Conspicuously conversational substitutions—'give you a nudge,' 'tweak your plan,' 'bouncing back'—make the friendliness feel manufactured.",
+    "4": "Mechanical compression produces awkward, bloodless wording, especially 'Each video shows the form for the movement.'",
+    "5": "The vague phrase 'adds more to the app' feels like a placeholder that survived editing."
+  },
+  "reason": "Version 2 best balances readable app-store copy with restraint and concrete benefits, though it should specify what Premium includes. These are stylistic judgments, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B3",
+    "3": "C",
+    "4": "A",
+    "5": "B"
+  }
+}

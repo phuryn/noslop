@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "none",
+    "2": "Tidy rule-of-three benefits sentence ('fewer empty chairs... less phone time... more patients get the care they need when they need it')",
+    "3": "Templated LinkedIn structure: 'Here's what that meant in practice:' bullet triad plus a tacked-on 'The lesson for me' platitude about meeting people where they are",
+    "4": "Generic takeaway line 'the biggest operational win came from meeting patients where they already are'"
+  },
+  "reason": "Version 1 reads most authentically human, with its slightly clumsy phrasing, British spelling and a broken-up list, but it's wordy and unpolished. Version 2 keeps the concrete result and real-world detail, cuts the filler and morals that mark versions 3 and 4, and still ends with a natural question, so it's the most credible and readable post to publish.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "A",
+    "3": "O",
+    "4": "B3"
+  }
+}

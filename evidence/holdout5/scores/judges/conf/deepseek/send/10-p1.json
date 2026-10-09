@@ -1,0 +1,13 @@
+{
+  "send": "5",
+  "reason": "Version 5 keeps the same facts and nuances—15 years of experience, the conference/date/title, fit as an ongoing process, and the comfort-function-everyday-life focus—while matching the original tone and phrasing closely.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "V6A",
+    "3": "B5",
+    "4": "A",
+    "5": "V6C",
+    "6": "C"
+  },
+  "picked_arm": "V6C"
+}

@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 5,
+    "3": 4,
+    "4": 1,
+    "5": 2
+  },
+  "send": "4",
+  "tells": {
+    "1": "Formulaic 'What this costs:' heading followed by four bolded parallel consequence bullets.",
+    "2": "Near-duplicate of version 1 with formal AI-style transitions ('The consequences are significant:', 'There is currently no system').",
+    "3": "Mechanical 'This causes four problems:' enumeration and flat, uniform list rhythm.",
+    "4": "none",
+    "5": "Slightly overdone conversational tone and informal phrasing ('sit uncovered', 'tend to land', 'who's on shift') reads like AI humanizing."
+  },
+  "reason": "Version 4 reads like a skilled human PRD writer: natural but not forced, clear, and credible, with no obvious AI-formulaic structure.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "O",
+    "3": "A",
+    "4": "B5",
+    "5": "C"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "send": "3",
+  "reason": "Version 3 preserves all the original facts, metrics, caveats, and non-goals while staying closest to the original wording and tone.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "E",
+    "3": "A",
+    "4": "C"
+  },
+  "picked_arm": "A"
+}

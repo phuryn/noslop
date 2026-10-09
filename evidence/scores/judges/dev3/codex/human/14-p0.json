@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2,
+    "4": 4,
+    "5": 5
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Soft, generic padding such as 'an anniversary to celebrate' and 'One of the lovely things' makes the voice feel standardized.",
+    "3": "'But we did, and you came through the door' feels like a scripted sentimental turn, though the surrounding prose is restrained.",
+    "4": "The combination of 'One of the lovely things' and 'maybe reread, maybe passed along' gives the reflection a polished, formulaic sweetness.",
+    "5": "Stacked rhetorical patterns—'Ten years ago / Today,' 'every shelf, every table, every book,' and repeated 'Maybe' sentences—make the construction conspicuous."
+  },
+  "reason": "Version 1 has the strongest bookseller voice: 'what we loved' conveys taste, and the never-returned borrowed book adds recognizable humor. Version 3 is leaner than the remaining alternatives; these rankings reflect editorial impressions, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B3",
+    "3": "A",
+    "4": "B5",
+    "5": "O"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1
+  },
+  "reason": "Version 2 keeps the original’s resigned caveat “but here we are,” while version 1 drops it and slightly flattens that sentence’s meaning. Otherwise both preserve the facts, numbers, and commitments.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A"
+  }
+}

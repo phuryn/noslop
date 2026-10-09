@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 6,
+    "4": 4,
+    "5": 3,
+    "6": 5
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Flattened, smoothed rewrite; the plain Pay is line and paragraphing feel templated rather than voiced.",
+    "3": "none",
+    "4": "The colon-heavy structure and stiffer who has done this before phrasing feel lightly machine-edited.",
+    "5": "Day to day and the evenly balanced second-person paragraphs feel workshop-smoothed.",
+    "6": "Honestly, that's the fun part and your opinion will actually count sound like inserted casualness."
+  },
+  "reason": "Version 1 has the strongest lived-in voice and useful structure, while the plainer variants feel smoothed by AI and version 3 is authentic but unpolished. I would publish 1 for credibility and personality.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B3",
+    "3": "E",
+    "4": "A",
+    "5": "B5",
+    "6": "C"
+  }
+}

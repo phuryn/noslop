@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 1,
+    "4": 6,
+    "5": 5,
+    "6": 3
+  },
+  "send": "3",
+  "tells": {
+    "1": "The tacked-on 'Before, they didn't.' is a redundant, choppy clause, like a mechanical rewrite of 'Fixed a bug where…'",
+    "2": "none (it reads human but sloppy: a redundant 'What's new?' after the heading, the 'PDF's' apostrophe, and an inflated 'a lot quicker')",
+    "3": "none",
+    "4": "The forced-casual rhetorical question 'Need to change a bunch of invoices?' and the punchy 'That's fixed.' feel like engineered conversational tone",
+    "5": "Uniform bold-label-plus-colon on every bullet, including a one-item Fixes list, is formulaic",
+    "6": "Same bold-label-colon template as 5, plus the slightly off 'Releases October 14'"
+  },
+  "reason": "Version 3 is plain, accurate, and correctly structured, with no gimmicks or errors, so it reads like a competent technical writer and is the safest to publish. Versions 4 and 5 lean on templated or performatively casual patterns, and 2, while human, is too sloppy to send.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "E",
+    "3": "A",
+    "4": "C",
+    "5": "O",
+    "6": "B3"
+  }
+}

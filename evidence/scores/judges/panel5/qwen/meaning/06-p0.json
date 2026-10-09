@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 5,
+    "4": 3,
+    "5": 1
+  },
+  "reason": "Version 5 keeps all pricing, shipping, cancellation, and product facts while staying closest to the original wording, with only a minor heading simplification. Version 1 is also faithful but changes key phrasing such as “good part” to “fun part”; Versions 4 and 2 make the benefit more specific, and Version 3 adds new claims.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "E",
+    "4": "B3",
+    "5": "B5"
+  }
+}

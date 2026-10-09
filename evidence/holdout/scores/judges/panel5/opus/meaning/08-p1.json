@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2,
+    "4": 4
+  },
+  "reason": "Version 1 keeps every fact and sentiment, including the privilege and the instruments finding their voice. Version 3 rephrases but keeps the substance. Version 2 drops the privilege and voice-restoration ideas. Version 4 adds a new claim ('most have years of playing left') and loses the privilege and 'future worth caring for' commitments.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "B3",
+    "3": "C",
+    "4": "A"
+  }
+}

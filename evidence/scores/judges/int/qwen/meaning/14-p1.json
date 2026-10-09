@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3
+  },
+  "reason": "Version 2 preserves all core original facts and the 'lovely things' nuance without adding new material, while Version 1 is nearly as faithful but drops that nuance. Version 3 ranks last because it adds unsupported phrasing such as 'neighbors who keep reading it' and uses the Mr. Okafor detail despite the writer's check-first caveat.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "B3",
+    "3": "track2/B3-int"
+  }
+}

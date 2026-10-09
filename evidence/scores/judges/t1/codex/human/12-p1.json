@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 4,
+    "4": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "Generic framing such as “This talk explores” and “practical considerations” makes the concrete case sound like a template.",
+    "4": "The stacked conversational touches—“just to keep the system running,” “nobody knew about,” and “digging into”—feel deliberately engineered for informality."
+  },
+  "reason": "Version 2 is direct, economical, and polished, with the clearest bio; version 1 comes close but has the awkward phrase “find leaks in existing pressure data.” Version 4 adds personality but also a broad claim and an extra promise about what the talk covers, while version 3 feels generic; none of these features establishes AI authorship.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B",
+    "3": "O",
+    "4": "C"
+  }
+}

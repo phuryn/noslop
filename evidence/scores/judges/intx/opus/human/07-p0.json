@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 4,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "slightly formal 'target date' padding, and 'with only X left' is a tidy compressed clause",
+    "2": "none",
+    "3": "three short, evenly weighted declarative sentences plus the redundant 'target date', which reads templated",
+    "4": "none"
+  },
+  "reason": "Version 4 has a natural first-person voice. 'Moving mobile login' and 'the only big piece left' are things a real teammate would type in Slack, and 'big' quietly hedges for small leftovers. Version 3 reads the most mechanical because of its choppy, uniform sentences and filler phrasing.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "track2/B5-int",
+    "3": "O",
+    "4": "C"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 1,
+    "4": 3
+  },
+  "reason": "Version 3 keeps the hedge, role facts, salary, rota, and interest-conditional offer intact. Version 2 only softens the interest ask and drops that condition; version 4 shifts the ask further and does the same; version 1 wrongly turns “I think” into “I saw” and adds a “good fit” judgment.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B5",
+    "3": "A",
+    "4": "B3"
+  }
+}

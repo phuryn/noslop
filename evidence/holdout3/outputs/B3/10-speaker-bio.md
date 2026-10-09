@@ -1,0 +1,1 @@
+[Speaker name] is a fire ecologist who leads the Moorland Fire Research Unit. He has studied wildfire on UK peatlands for 15 years. At the Landscape Resilience Summit, his talk, "Burning Questions: Peat, Policy and the 2025 Fire Season", draws on that work to look at what the 2025 season means for UK peatlands and how research can inform the decisions that follow.

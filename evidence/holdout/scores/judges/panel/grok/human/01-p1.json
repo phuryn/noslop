@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "The 'What's next:' label sounds like a newsletter outline, not something said aloud.",
+    "2": "Awkward forced pivot, 'The number is our members' too,' plus a colon-led spec list.",
+    "3": "Mirrored 'belongs to' paragraphs and the filler 'everything in between.'",
+    "4": "The apprenticeship line itemizes perks in a too-neat three-part cadence."
+  },
+  "reason": "Version 1 has the most spoken voice, a specific hook, and a careful hedge, so it reads most like someone at the co-op; version 3 is the least human because of its symmetrical 'belongs to' frame. I'd send 1 for the stronger crew credit, clearer milestone, and a CTA that actually invites a reply.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B3",
+    "3": "O",
+    "4": "A"
+  }
+}

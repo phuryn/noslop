@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 4,
+    "4": 2
+  },
+  "send": "2",
+  "tells": {
+    "1": "Vague pitch loosely tacked on with 'and' ('a role you might want to hear about') rather than a reason to write him.",
+    "2": "Mild stock recruiter phrasing ('good fit', 'if it sounds interesting'), but nothing broken.",
+    "3": "Unnatural idiom: 'if it sounds of interest'.",
+    "4": "The close repeats the interest already asked in the opening, which reads like template padding."
+  },
+  "reason": "Version 2 reads most like a recruiter who actually looked ('I saw', 'at the moment') and makes a clear, idiomatic ask, so it is the one I would send. Version 4 is polished but generic; version 1 is casual but vague; version 3 gives itself away with 'sounds of interest'.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "C",
+    "3": "O",
+    "4": "A"
+  }
+}

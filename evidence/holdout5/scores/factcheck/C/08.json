@@ -1,0 +1,16 @@
+{
+  "dropped": [],
+  "changed": [
+    {
+      "item": "\"No need to arrange them separately\" became \"there's nothing else to sort out\". The edit implies nothing at all remains to arrange, which is broader than saying desk and childcare don't need separate arrangements.",
+      "severity": "minor"
+    },
+    {
+      "item": "\"A morning session\" / \"an afternoon session\" became plural \"mornings\" / \"afternoons\". This could faintly suggest recurring sessions rather than a single half-day choice.",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

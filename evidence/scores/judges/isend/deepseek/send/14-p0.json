@@ -1,0 +1,11 @@
+{
+  "send": "3",
+  "reason": "Version 3 stays closest to the original wording, tone, and meaning while only lightly condensing for flow. It preserves the key facts, anniversary details, and the warm, reflective voice of the original.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "E",
+    "3": "B5",
+    "4": "C"
+  },
+  "picked_arm": "B5"
+}

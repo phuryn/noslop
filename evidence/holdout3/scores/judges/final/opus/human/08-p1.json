@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 5,
+    "3": 1,
+    "4": 6,
+    "5": 4,
+    "6": 2
+  },
+  "send": "3",
+  "tells": {
+    "1": "Stilted clarifying sentence ('We count the 48 hours from the flight.') that reads like a patch rather than natural copy",
+    "2": "Generic marketing opener ('Get a clear view of crop health across your fields') and benefit tail ('to help you spot areas...')",
+    "3": "none",
+    "4": "Embellished, chatty phrasing ('how your crops are really doing', 'maps in hand', 'patches deserve a closer look') that over-polishes plain information",
+    "5": "none (salesy filler like 'Simply', 'Sit back' and 'valuable insight' reads like a human first draft, not AI)",
+    "6": "Mildly formulaic tacked-on clause ('and they help you spot areas that need a closer look')"
+  },
+  "reason": "Version 3 is plain, accurate and complete: it gives the price, area, minimum and 48-hour timing with no filler or marketing gloss. Version 6 is a close second, while 4 and 2 add polished benefit language and 5 is clearly human but padded and vague.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "O",
+    "3": "B3",
+    "4": "C",
+    "5": "E",
+    "6": "B5"
+  }
+}

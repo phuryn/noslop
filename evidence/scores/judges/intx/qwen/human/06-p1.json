@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3,
+    "4": 4,
+    "5": 5
+  },
+  "send": "2",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "the familiar 'Maybe... Maybe... Either way' cadence and tidy emotional wrap-up feel templated",
+    "4": "'A little measuring done. A little joy delivered.' reads as manufactured slogan-like copy",
+    "5": "generic words like 'amazing,' 'scrumptious,' and 'yummy,' plus repeated pre-measured phrasing"
+  },
+  "reason": "Version 2 feels most human because it uses concrete details and social proof without losing clarity, while the others lean more on polished but generic warmth. I would publish it for its credibility and distinctive voice.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "track2/B5-int",
+    "3": "C",
+    "4": "O",
+    "5": "E"
+  }
+}

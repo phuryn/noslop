@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 5,
+    "3": 1,
+    "4": 4,
+    "5": 3
+  },
+  "reason": "Version 3 keeps the dates, volunteer ask, calendar request, install status, and “we’ll confirm” commitment, with only mild softening. Versions 1 and 5 drop encouragement and status color but do not change facts; 4 shifts follow-up to “I’ll send” and reframes the delay; 2 misstates the lighting problem, drops the calendar ask, and muddles Saturday’s work.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "E",
+    "3": "B5",
+    "4": "C",
+    "5": "B3"
+  }
+}

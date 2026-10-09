@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 4,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "Repeated 'Mitigation:' label on every risk bullet",
+    "2": "Repeated 'Mitigation:' labels and the stock closer 'I'm happy to walk through'",
+    "3": "Bolded lead-in label on every list item (including the vague one-word 'Flexibility.') and 'enhanced in-store experience'",
+    "4": "none"
+  },
+  "reason": "Version 4 reads like a person who owns the decision: the mitigations are commitments ('We will...'), the claims are honestly hedged ('should return more'), and there is no bolded-label scaffolding. Version 3 has the heaviest AI formatting, while 1 and 2 are clean but more template-like.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "track2/B3-int",
+    "3": "O",
+    "4": "track2/A-int"
+  }
+}

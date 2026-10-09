@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 2,
+    "4": 3,
+    "5": 5
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Chatty marketing voice: the rhetorical question ('Need to change a bunch of invoices?'), the clipped 'That's fixed.' and the intensifier 'much sooner'",
+    "3": "Bold-label-colon structure with the formatting removed, so each bullet still restates its label ('Faster bank feed sync: Bank feeds now sync...')",
+    "4": "Templated '**Bold label:** sentence' bullets where each label repeats the sentence that follows",
+    "5": "Same bold-label template as 4, plus padding: 'instead of editing them one by one' and 'your transactions'"
+  },
+  "reason": "Version 1 is short and clear, with plain headings and no redundant bold labels or chatty filler, so it reads like a practical changelog a person wrote. Versions 4 and 5 follow the stock AI bold-label template, and version 2 adds an unneeded marketing tone.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "B",
+    "4": "B2",
+    "5": "O"
+  }
+}

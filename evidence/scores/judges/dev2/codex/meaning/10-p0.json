@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 3,
+    "3": 1,
+    "4": 2
+  },
+  "reason": "Version 3 preserves the original most closely; version 4 is nearly identical but slightly narrows the invitation for questions to the price change. Version 2 omits the stated benefit of more weekly class options, while version 1 adds an emotional framing, a workout assumption, and an explicit promise to help.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B3",
+    "4": "B5"
+  }
+}

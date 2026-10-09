@@ -1,0 +1,12 @@
+{
+  "dropped": [
+    {
+      "item": "Closing thanks to the customer for her patience ('Thank you for your patience.')",
+      "severity": "minor"
+    }
+  ],
+  "changed": [],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

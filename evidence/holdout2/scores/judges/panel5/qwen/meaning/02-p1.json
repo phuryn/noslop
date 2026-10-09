@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3
+  },
+  "reason": "Version 2 preserves all key facts, the compensation commitment, the explicit acknowledgment of disruption, and the thank-you, making it most faithful. Version 1 keeps the examples but weakens the original 'whether' nuance and drops the explicit disruption line; Version 3 also drops the thank-you and closing apology.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "A",
+    "3": "B3"
+  }
+}

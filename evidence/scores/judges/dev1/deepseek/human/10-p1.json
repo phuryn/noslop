@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 3,
+    "3": 2,
+    "4": 1,
+    "5": 4
+  },
+  "send": "4",
+  "tells": {
+    "1": "Passive, wordy phrasing: 'when the new $135 rate will take effect for you.'",
+    "2": "Slightly formal/legalistic 'takes effect for you' undercuts the otherwise casual tone.",
+    "3": "Compressed phrasing 'then move to $135' omits 'rate' and reads like a condensed summary.",
+    "4": "none",
+    "5": "Awkward word order in 'the $135 rate starts for you then.'"
+  },
+  "reason": "Version 4 sounds most like a skilled human wrote it because it uses warm, natural conversational phrasing while still being clear about dates and prices. Version 1 is the stiffest and most corporate, so it ranks last.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "A",
+    "3": "B3",
+    "4": "C",
+    "5": "B5"
+  }
+}

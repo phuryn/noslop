@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1
+  },
+  "reason": "Version 3 preserves nearly all original wording and facts, dropping only the 'lovely things' framing. Version 1 alters the thanks from 'visits helped' to a stronger, narrower claim about coming in and omits several phrases, while version 2 drops key original lines (including customers coming through the door) and adds an unsupplied thanks to GoFundMe donors.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "track2/B5-int",
+    "3": "track2/A-int"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 3,
+    "3": 2,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "none",
+    "4": "none"
+  },
+  "reason": "Version 4 combines concise instructions with an explicit “press and hold” action and a colon introducing the steps. All four read naturally; the required ranking reflects tiny editorial preferences, with the typographic apostrophe merely breaking the tie between 3 and 4, not indicating human authorship.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "A",
+    "3": "B3",
+    "4": "O"
+  }
+}

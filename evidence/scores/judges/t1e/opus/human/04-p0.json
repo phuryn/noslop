@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1,
+    "4": 4
+  },
+  "send": "3",
+  "tells": {
+    "1": "none; it reads like version 3 with the em dash split into two sentences, which makes the first sentences slightly choppy",
+    "2": "flattened rhythm: 'and it gives us' and 'After that, the hardest part is' replace the livelier phrasing, and the 'And' opener is dropped",
+    "3": "the em dash, though here it's used naturally and isn't a real tell",
+    "4": "choppy, repetitive sentence openers ('It's... It's... Then... Then') and a generic flattening of tone, with the warmth of the seed-swap invite lost"
+  },
+  "reason": "Version 3 has the most natural rhythm and warmth, and the em dash and the 'Then comes the hardest part' line read like a confident human voice. Check the date before sending, though: Oct 18, 2026 falls on a Sunday, not a Saturday.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "O",
+    "4": "E"
+  }
+}

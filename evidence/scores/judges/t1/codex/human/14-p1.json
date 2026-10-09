@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "The polished 'Every shelf, every table, every book' triad is the closest thing to a tell.",
+    "2": "Redundant milestone language, especially repeating 'two floors' and adding 'and an anniversary to celebrate.'",
+    "3": "Stacked conversational touches ('Not bad,' 'honestly,' the borrowed-book joke) feel applied; the unexplained switch from 'we' to 'My' weakens the voice.",
+    "4": "The compressed fifth post feels mechanically streamlined, losing some of the original reflection's warmth."
+  },
+  "reason": "Version 1 balances warmth, specificity, and restraint, with a reflective fifth post that earns its space. Version 4 is clean but less engaging; 2 adds repetition, while 3 pushes personality harder than the established voice supports. These are stylistic judgments, not reliable evidence of authorship.",
+  "label_to_arm": {
+    "1": "B",
+    "2": "O",
+    "3": "C",
+    "4": "A"
+  }
+}

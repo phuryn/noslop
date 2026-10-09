@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 1,
+    "4": 3
+  },
+  "reason": "Version 3 keeps every claim, caveat and nuance (consistency, seeing how far you've come, keeping recovery moving, Premium unlocking more), and its reworded subscription terms say the same thing; Version 2 drops the 'unlock more' Premium benefit and 'keep your recovery moving'. Version 4 also drops the 'know what to do and how to do it right' assurance and 'helps you stay consistent', and Version 1 loses the most: those points, 'proper form and technique', 'fits your day' and 'see how far you've come'.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "C",
+    "4": "B"
+  }
+}

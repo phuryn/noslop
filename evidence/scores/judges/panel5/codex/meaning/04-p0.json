@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 5,
+    "4": 3,
+    "5": 2
+  },
+  "reason": "Versions 1, 5, and 4 preserve the original meaning almost exactly, in descending order of precision. Version 2 drops the small-job nuance and adds ownership with “our seed swap”; version 3 additionally introduces “this Saturday,” extends leaving garlic alone to ignoring it until next summer, and omits the invitation to chat and exchange ideas.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "E",
+    "4": "B5",
+    "5": "B3"
+  }
+}

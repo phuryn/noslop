@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 5,
+    "2": 1,
+    "3": 2,
+    "4": 4,
+    "5": 3
+  },
+  "reason": "Version 2 keeps the rate, examples, liability, double-reading, and risk caveat intact; 3 is nearly as exact but softens “betrayed” and hedges with “in practice.” Version 5 omits the explicit danger claim while preserving the legal specifics; 4 weakens “no clean equivalent,” the obligation shift, and “betrayed”; 1 adds sworn status, certain litigation costs, and word-by-word checking while dropping the original examples.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "B3",
+    "3": "A",
+    "4": "C",
+    "5": "B5"
+  }
+}

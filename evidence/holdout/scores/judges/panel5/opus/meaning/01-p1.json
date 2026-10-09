@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 3,
+    "4": 1
+  },
+  "reason": "Version 4 keeps every fact and the apprenticeship terms almost word for word, losing only 'everything in between' and 'real.' Version 1 softens the members' share to 'some of the credit,' Version 3 adds 'lasting career' and 'paid spots,' and Version 2 changes the members' role from co-owning the milestone to merely benefiting and turns 'a path into' a career into 'leads to' one.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "A",
+    "3": "C",
+    "4": "B3"
+  }
+}

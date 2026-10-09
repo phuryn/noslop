@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 5,
+    "5": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Slightly corporate phrasing in 'finished last year with a 99.2% on-time rate', but otherwise none",
+    "3": "none (reads as an unedited human draft: doubled 'Hi', two stacked 'Would you be open' questions, clunky 'help you out... with Fairview Markets')",
+    "4": "Stiff, evenly balanced three-sentence structure with a formal 'provide' and 'discuss where we might fit' that sounds templated",
+    "5": "Mild softener 'we'd be glad to pitch in', otherwise none"
+  },
+  "reason": "Version 1 is the tightest and most natural. It states the capability, the proof point and the ask in about 60 words, with a concrete 'arrived on time' stat and no filler, which suits a cold email. Version 5 is a close second with warmer, idiomatic phrasing. Version 3 is human but sloppy, and Version 4 reads polished but formulaic.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "E",
+    "4": "O",
+    "5": "C"
+  }
+}

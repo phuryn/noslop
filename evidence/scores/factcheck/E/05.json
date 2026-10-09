@@ -1,0 +1,112 @@
+{
+  "dropped": [
+    {
+      "item": "Secondary goal: preserve match quality, so replacements meet qualification, availability, location, and client-preference requirements",
+      "severity": "major"
+    },
+    {
+      "item": "Secondary goal: keep clients and caregivers informed automatically so no one has to chase status",
+      "severity": "major"
+    },
+    {
+      "item": "Secondary goal: give coordinators visibility into what the system did and why, with an easy way to override",
+      "severity": "major"
+    },
+    {
+      "item": "Non-goal: replacing coordinators or removing their ability to override decisions",
+      "severity": "major"
+    },
+    {
+      "item": "Non-goal: long-term schedule optimization or forecasting of call-outs",
+      "severity": "major"
+    },
+    {
+      "item": "Non-goal: handling planned absences such as vacations or scheduled leave",
+      "severity": "major"
+    },
+    {
+      "item": "Coordinators should only step in for exceptions, not for routine reassignments",
+      "severity": "minor"
+    },
+    {
+      "item": "The pilot informs the decision on broader rollout",
+      "severity": "minor"
+    },
+    {
+      "item": "Examples of care clients depend on: medication, meals, mobility, personal care",
+      "severity": "minor"
+    },
+    {
+      "item": "Specific work coordinators are pulled away from: planning, onboarding, client communication",
+      "severity": "minor"
+    },
+    {
+      "item": "Manual rescheduling is hardest to do well when call-outs cluster",
+      "severity": "minor"
+    },
+    {
+      "item": "Outcomes vary by time of day and call-out volume, not only by coordinator",
+      "severity": "minor"
+    },
+    {
+      "item": "Agency costs include client retention risk, overtime, and poorly matched assignments",
+      "severity": "minor"
+    },
+    {
+      "item": "Sunrise Home Care is identified as 'our pilot partner' in the problem statement, and Sunrise handles each case individually",
+      "severity": "minor"
+    },
+    {
+      "item": "Targets are to be set from the baseline or confirmed; the edit replaces this with 'TBD'",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "Success metrics are presented as defined success metrics in the original but as 'some potential metrics that we could measure' in the edit, which weakens the commitment",
+      "severity": "minor"
+    },
+    {
+      "item": "Metric 'median time from call-out to confirmed replacement' became 'median time from callout to affected visits being rescheduled', which could include escalations",
+      "severity": "minor"
+    },
+    {
+      "item": "'Several visits are at risk at once' became 'coordinators need to solve a number of callouts at the same time', shifting from multiple visits to multiple call-outs",
+      "severity": "minor"
+    },
+    {
+      "item": "Trigger broadened from 'calls in sick' to 'calls out for the day (because they are sick, for example)'",
+      "severity": "minor"
+    },
+    {
+      "item": "Goal 1 is now 'Automatically reschedule all affected visits', adding 'automatically' and 'all'",
+      "severity": "minor"
+    },
+    {
+      "item": "Goal 2 is now 'Significantly decrease' coordinator work, instead of 'reduce'",
+      "severity": "minor"
+    },
+    {
+      "item": "Coordinator impact strengthened from 'pulls them away from' other work to 'inability for coordinators to focus on other tasks'",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "Sunrise Home Care 'has told us' they rely on coordinators, which attributes a communication not stated in the original",
+      "severity": "minor"
+    },
+    {
+      "item": "Placeholder sentences announcing secondary goals and non-goals with no content following",
+      "severity": "minor"
+    },
+    {
+      "item": "Coordinator manually reaches out to 'a number of caregivers'",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [
+    "Sunrise Home Care has told us"
+  ],
+  "meaning_preserved": 2
+}

@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2,
+    "4": 4,
+    "5": 5
+  },
+  "send": "2",
+  "tells": {
+    "1": "Ends with a formulaic moral ('the biggest operational wins...') and uses the slightly formal 'went untreated'.",
+    "2": "none",
+    "3": "Falls back on common LinkedIn-style takeaway phrasing like 'What I took from this' and 'reaching people where they already are'.",
+    "4": "Overly compressed with a generic clichéd lesson and no concrete personal detail.",
+    "5": "Bullet-point structure with 'Here's what that meant in practice:' is a strong ChatGPT-style pattern."
+  },
+  "reason": "Version 2 is the most natural, concise, and credible: it keeps the human specifics without formulaic moralizing or engagement bait. Version 3 feels conversational but slightly less disciplined.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "A",
+    "3": "C",
+    "4": "B3",
+    "5": "O"
+  }
+}

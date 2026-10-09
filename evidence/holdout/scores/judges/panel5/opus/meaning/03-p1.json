@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 2
+  },
+  "reason": "V1 keeps every fact, the 'helps' hedge, the step-by-step support offer, the reassurance, and the thank-you. V4 drops the thank-you and partly firms the 'helps' hedge. V2 fully drops the hedge and 'step by step'. V3 is least faithful: it turns 'helps' into 'makes conversation easier' and drops both the 'no silly question' reassurance and the thank-you.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "C",
+    "3": "A",
+    "4": "B3"
+  }
+}

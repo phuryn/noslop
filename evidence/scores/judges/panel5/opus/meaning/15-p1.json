@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 5,
+    "3": 1,
+    "4": 3,
+    "5": 2
+  },
+  "reason": "V3 keeps every fact, caveat and subscription term, and V5 only drops the 'Premium unlocks more' framing and a minor recovery phrase. V4 keeps all the facts but reframes things loosely, V1 drops several benefits ('proper technique', 'stay consistent', 'see how far you've come'), and V2 changes the renewal and cancellation terms, adds 'free to use' and 'never miss a session', and weakens the medical disclaimer.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "E",
+    "3": "B5",
+    "4": "C",
+    "5": "B3"
+  }
+}

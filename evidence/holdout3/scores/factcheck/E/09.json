@@ -1,0 +1,66 @@
+{
+  "dropped": [
+    {
+      "item": "Working alongside experienced colleagues who've been doing it for years and still care whether a part is right to the thou (mentorship/team detail)",
+      "severity": "minor"
+    },
+    {
+      "item": "Role is on the shop floor",
+      "severity": "minor"
+    },
+    {
+      "item": "Liking working with your hands and your head / being happy to get stuck in as the desired traits",
+      "severity": "minor"
+    },
+    {
+      "item": "Explicit framing that the four-day week gives a proper long weekend every week",
+      "severity": "minor"
+    },
+    {
+      "item": "Currency symbol (£) on the salary figure",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "'Skills that are always in demand' / 'real prospects' escalated to 'a career for life' and 'a lifetime of employment', which reads as a near-guarantee of lifelong employment",
+      "severity": "major"
+    },
+    {
+      "item": "'Set up, load and run our machines' narrowed to 'a CNC machine' (singular, generic)",
+      "severity": "minor"
+    },
+    {
+      "item": "Applicant requirements reframed from curiosity about how things get made, working with hands and head, and getting stuck in, to 'an interest in learning, a willingness to work hard and some common sense'",
+      "severity": "minor"
+    },
+    {
+      "item": "Caring about parts being 'right to the thou' (colleagues' attitude) recast as a company quality claim: 'high quality product to very tight tolerances'",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "'Earn whilst you learn' framing",
+      "severity": "minor"
+    },
+    {
+      "item": "Salary described as 'excellent'",
+      "severity": "minor"
+    },
+    {
+      "item": "'Some common sense' as a requirement",
+      "severity": "minor"
+    },
+    {
+      "item": "Claim that the company produces 'high quality product to very tight tolerances'",
+      "severity": "minor"
+    },
+    {
+      "item": "Promise of 'a career for life' / 'a lifetime of employment'",
+      "severity": "major"
+    }
+  ],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

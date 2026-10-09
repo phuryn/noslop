@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 5,
+    "4": 4,
+    "5": 3
+  },
+  "reason": "V2 keeps everything, including the 'so' link and the offer to share more. V1 only softens 'so' to 'and', and V5 turns the conditional offer into 'share more then'. V4 drops the offer to share more, and V3 replaces the 'I think' hedge with a definite 'I saw' and adds a 'good fit' claim.",
+  "label_to_arm": {
+    "1": "B2",
+    "2": "A",
+    "3": "C",
+    "4": "B",
+    "5": "B3"
+  }
+}

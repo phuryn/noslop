@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 1,
+    "3": 3,
+    "4": 2
+  },
+  "reason": "Version 2 best preserves the original claims and nuances, including 'good part' and the quiet-moment detail, while keeping all price/shipping/cancel terms intact. Version 4 is close but loses the quiet-moment nuance; versions 3 and 1 drift more in the hero and section details.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B5",
+    "3": "B3",
+    "4": "C"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 4,
+    "4": 1,
+    "5": 5
+  },
+  "send": "4",
+  "tells": {
+    "1": "a faint copywriting sheen: polished triads and tidy bolded sections make it feel slightly packaged",
+    "2": "reads like a safe paraphrase of a stronger draft, with the personality sanded down",
+    "3": "none",
+    "4": "none",
+    "5": "filler like 'honestly' and generic warmth such as 'your opinion will actually count' feel machine-smoothed"
+  },
+  "reason": "Version 4 sounds most like a real restaurant because the concrete details about staffing, covers, benefits, and history create trust and a distinct voice. It is a little longer, but that specificity makes it more persuasive than the cleaner but more generic Version 1.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "track2/A-int",
+    "3": "E",
+    "4": "track2/B5-int",
+    "5": "C"
+  }
+}

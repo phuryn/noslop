@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2
+  },
+  "reason": "Version 2 preserves all substantive content. Version 3 omits the explicit benefit that transactions appear sooner, while version 1 adds an unsupported detail about opening invoices individually and strengthens “sooner” to “much sooner.”",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B"
+  }
+}

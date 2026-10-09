@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+  },
+  "reason": "Version 1 preserves the original exactly apart from punctuation, and version 2 preserves its instructions and caveats through rephrasing and reordering. Version 3 slightly narrows the temperature requirement to curing and specifies pulling off old sealer; version 4 weakens the temperature requirement to a suggestion and adds unsupported ease and application-method claims.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "B5",
+    "4": "C"
+  }
+}

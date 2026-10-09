@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2,
+    "4": 4,
+    "5": 6,
+    "6": 5,
+    "7": 7
+  },
+  "send": "2",
+  "tells": {
+    "1": "The vague fragment 'It stays something to think about' feels inserted to manufacture a conversational rhythm.",
+    "2": "The closing phrase 'keeping comfort, function and everyday life in view' is slightly formulaic.",
+    "3": "The inflated closing phrase 'always keeping ... at the heart of the conversation' adds warmth without substance.",
+    "4": "The same formulaic 'at the heart of the conversation' ending as version 3.",
+    "5": "Abstract phrasing such as 'an ongoing consideration' and stacked verbs 'explore', 'discuss' and 'reflect' give it a generic promotional polish.",
+    "6": "The conspicuously casual 'sort out' followed by 'It keeps needing attention' feels like an effort to sound human.",
+    "7": "none"
+  },
+  "reason": "Version 2 is clear, professional and restrained, and avoids implying that all 15 years were spent at Limbwise or in the consultant role. Version 7 feels spontaneously human but insufficiently edited for publication; these rankings assess skilled writing for the purpose, not actual authorship.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "A",
+    "3": "V6C",
+    "4": "V6A",
+    "5": "O",
+    "6": "C",
+    "7": "E"
+  }
+}

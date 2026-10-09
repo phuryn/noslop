@@ -1,0 +1,16 @@
+{
+  "dropped": [],
+  "changed": [],
+  "added": [
+    {
+      "item": "Subject line adds the word 'packaging' to describe the inserts",
+      "severity": "minor"
+    },
+    {
+      "item": "Explicitly states Hearth & Wick currently uses polystyrene packaging ('uses now'), which the original only implied",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

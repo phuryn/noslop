@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 3,
+    "5": 7,
+    "6": 5,
+    "7": 6
+  },
+  "send": "2",
+  "tells": {
+    "1": "none",
+    "2": "formulaic empathy phrase 'I can see why you're unhappy' and 'gesture of goodwill'",
+    "3": "standard customer-service phrasing like 'as a goodwill gesture' and 'how you'd like to proceed'",
+    "4": "none",
+    "5": "grammar errors ('your not happy', 'want me too') rather than an AI pattern",
+    "6": "formal, symmetrical structure and phrase 'basis for the deduction'",
+    "7": "awkward 'which we consider goes beyond' and redundant 'if you'd like that'"
+  },
+  "reason": "Version 2 best balances empathy, clarity, and professionalism; it acknowledges the customer's concern, explains the deduction without sounding defensive, and offers a remedy. Version 1 feels most naturally human but is slightly informal for this situation.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "V6A",
+    "3": "B5",
+    "4": "A",
+    "5": "E",
+    "6": "O",
+    "7": "V6C"
+  }
+}

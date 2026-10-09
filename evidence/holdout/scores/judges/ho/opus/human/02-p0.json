@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 4,
+    "4": 6,
+    "5": 5,
+    "6": 1
+  },
+  "send": "6",
+  "tells": {
+    "1": "none; 'I thought you might be a good fit' is a slightly stock recruiter phrase",
+    "2": "none; 'which is why I'm writing to you' is a little clunky but reads human",
+    "3": "the stock closer 'I can share more if it sounds interesting'",
+    "4": "the stilted 'if it sounds of interest' plus curly typographic apostrophes, which suggest a generated or pasted draft",
+    "5": "'interested' appears in both the opener and the closer, a templated redundancy",
+    "6": "none"
+  },
+  "reason": "Version 6 is the tightest and most natural. It names the role in the first line, gives the facts plainly and closes with a short line ('I can share more then') instead of a stock offer. The other versions differ mainly in small templated closers or redundancies, and version 4's 'sounds of interest' is the most noticeable.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B",
+    "3": "B2",
+    "4": "O",
+    "5": "A",
+    "6": "B3"
+  }
+}

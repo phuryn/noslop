@@ -1,0 +1,25 @@
+{
+  "dropped": [
+    {
+      "item": "Emphasis that the savings are 'real' money ('cutting real money off monthly bills' became 'cutting money off their monthly bills')",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "The original says the milestone 'belongs to' members because the systems benefit them. The edit says members 'made it count,' which loosely suggests the members did something to make the milestone meaningful.",
+      "severity": "minor"
+    },
+    {
+      "item": "'that's the point of being a co-op' (savings are the co-op's purpose) became 'which is why we're a co-op' (savings are the reason the co-op exists). This is a slight shift in framing.",
+      "severity": "minor"
+    },
+    {
+      "item": "'They've been up on roofs... they've done the work' (ongoing, present perfect) became 'They worked on roofs... they did the work' (simple past), which slightly weakens the sense that the work is ongoing.",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

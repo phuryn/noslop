@@ -1,0 +1,34 @@
+{
+  "dropped": [
+    {
+      "item": "Tagline 'A little measuring done. A little joy delivered.'",
+      "severity": "minor"
+    },
+    {
+      "item": "Headline 'Less measuring. More making.' (framing of less effort and more hands-on time), replaced by a plain factual heading",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "'Skip weighing out the dry ingredients' became 'You don't have to weigh anything out.' The scope widens from dry ingredients to anything. The heading right above restores the context, but on its own the sentence overstates the claim.",
+      "severity": "minor"
+    },
+    {
+      "item": "'get straight to the good part' became 'get straight to the baking,' losing the playful sense that the good part might include tasting and enjoying",
+      "severity": "minor"
+    },
+    {
+      "item": "'Give yourself something to look forward to each month' (an imperative invitation) became 'you get something to look forward to each month' (a statement)",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "Hedging frame 'Maybe it's…' / 'Either way…' around the monthly bake scenarios",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

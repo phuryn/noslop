@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 3,
+    "3": 2,
+    "4": 1,
+    "5": 4
+  },
+  "send": "4",
+  "tells": {
+    "1": "The em-dash setup 'two floors of books—and an anniversary to celebrate' plus the 'every shelf, every table, every book' list of three",
+    "2": "The tacked-on 'and an anniversary to celebrate' and the generic gratitude closer 'Those visits helped us get here'",
+    "3": "None. It is clean and spare, though a little flat ('we started with what we could')",
+    "4": "None. The slip from 'we' to 'My favorite thing' reads like a real person typing",
+    "5": "The 'every shelf, every table, every book' list of three and the stock line 'Those visits helped us get here'"
+  },
+  "reason": "Version 4 has the most voice: 'Not bad.', 'started with what we loved', and the borrowed book that was never returned are concrete, warm details. Versions 1, 2 and 5 rely on polished filler and rhetorical patterns. Before posting, I'd fix 'My' to 'Our' in post 5 to keep the voice consistent.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B2",
+    "3": "A",
+    "4": "C",
+    "5": "B"
+  }
+}

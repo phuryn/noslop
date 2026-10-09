@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2,
+    "4": 4,
+    "5": 5,
+    "6": 6
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "The 'Day to day' transition and evenly summarized duties feel like a safe paraphrase.",
+    "3": "The bolded section labels give it a slightly template-driven feel.",
+    "4": "The voice is clean but flattened, with fewer concrete, human details.",
+    "5": "Phrasing like 'who has done' feels more sanitized and less naturally spoken.",
+    "6": "none obvious; the caps, spacing issues, and exclamation overload read more like a rough human draft than AI polish."
+  },
+  "reason": "Version 1 has the most specific, lived-in voice and a scannable structure without sounding templated. Version 3 is a close second, while Version 6 is too shouty and unpolished for a skilled job-post intro.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B5",
+    "3": "O",
+    "4": "B3",
+    "5": "A",
+    "6": "E"
+  }
+}

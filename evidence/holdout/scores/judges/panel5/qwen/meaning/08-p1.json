@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 2,
+    "4": 3
+  },
+  "reason": "Version 1 preserves all key facts and the original's privilege/voice/music ideas most closely. Version 3 remains close but paraphrases some nuances, version 4 changes the restoration outcome and weakens 'privilege', and version 2 changes 'every' to 'most' and drops important nuances.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "A",
+    "3": "C",
+    "4": "B3"
+  }
+}

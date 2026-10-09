@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1,
+    "4": 5,
+    "5": 4
+  },
+  "send": "3",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "none",
+    "4": "none",
+    "5": "none"
+  },
+  "reason": "Version 3 is concise, natural, and well suited to Slack; versions 1 and 2 are close behind, while 5 has a slightly choppy rhythm. Version 4 is wordier and introduces a qualification with 'only big piece'; none has a distinctive tell that supports attributing it to AI.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "B5",
+    "4": "C",
+    "5": "O"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 3,
+    "3": 1,
+    "4": 2,
+    "5": 5
+  },
+  "send": "3",
+  "tells": {
+    "1": "Uses repetitive boilerplate structure: 'This talk covers... It also covers...'",
+    "2": "Polished but generic phrasing like 'practical considerations' and 'make better use of existing pressure data'",
+    "3": "none",
+    "4": "Falls back on formulaic summary wording: 'This talk covers what the team learned...'",
+    "5": "Passive, stilted phrasing such as 'will also be discussed' and 'very helpful'"
+  },
+  "reason": "Version 3 is the most direct and natural, uses a consistent first-person voice with concrete details, and avoids the boilerplate summary language that marks the others.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "O",
+    "3": "C",
+    "4": "A",
+    "5": "E"
+  }
+}

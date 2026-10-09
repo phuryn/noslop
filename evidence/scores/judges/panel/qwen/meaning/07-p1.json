@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1
+  },
+  "reason": "Version 3 is closest to the original wording and facts, while Version 1 preserves all facts with slight rephrasing. Version 2 adds the nuance 'only big piece left,' which could imply smaller remaining work and is therefore less faithful.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "B3"
+  }
+}

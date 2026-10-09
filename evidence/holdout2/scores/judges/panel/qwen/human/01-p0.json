@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "none",
+    "2": "Slightly templated structure with labeled Highlights and Ask sections",
+    "3": "Overformatted bold headings and redundant phrasing like “crossed this milestone”"
+  },
+  "reason": "Version 1 reads most naturally, but Version 2 is the best one to send because it is clear, scannable, and investor-friendly without sounding overproduced.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "O"
+  }
+}

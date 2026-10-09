@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 5,
+    "3": 2,
+    "4": 3,
+    "5": 1
+  },
+  "reason": "Version 5 keeps nearly all of the original's facts and nuances; 3 drops only small details and slightly strengthens the thank-you; 4 omits the 'anniversary to celebrate' line and the 'visits helped us get here' line. Version 1 invents details ('started with what we loved', 'first week', 'never gave it back', 'Not bad'), while 2 adds claims ('a little over', 'bursting at the seams', 'pine for'), drops the substance of posts 2 and 3, and garbles post 5.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "E",
+    "3": "B5",
+    "4": "A",
+    "5": "B3"
+  }
+}

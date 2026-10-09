@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2,
+    "4": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "The closing “Tell me if I missed anything” feels blunt and less idiomatic than “Let me know.”",
+    "3": "The opener “Here’s what we agreed” is a common recap formula, though the rest reads naturally.",
+    "4": "The bolded mini-headings make a short email feel over-structured and templated."
+  },
+  "reason": "Version 1 is concise, professional, and naturally formatted without sounding templated. Version 4 is very clear, but its bold section labels make it feel more AI-generated than a human client email.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "B5",
+    "4": "O"
+  }
+}

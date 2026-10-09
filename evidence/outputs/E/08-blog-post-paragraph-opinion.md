@@ -1,0 +1,1 @@
+You may be bringing your dog in annually for his vaccines, but have you considered having blood work done as well? After the age of 7, it is highly beneficial to have annual blood work done to check your dog’s kidney function, liver function, blood sugar, and many other markers to monitor your dog’s health as it ages. Our Senior Wellness Bloodwork Panel is available for $129.

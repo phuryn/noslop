@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 4,
+    "3": 6,
+    "4": 1,
+    "5": 2,
+    "6": 5
+  },
+  "send": "4",
+  "tells": {
+    "1": "The phrasing is plain but slightly mechanical, especially It's £6... and and they help you...",
+    "2": "build the images into crop health maps is an awkward collocation.",
+    "3": "Chatty filler and cliches, such as Want to know, For just, some valuable insight, Simply and Sit back, feel AI-marketing.",
+    "4": "none",
+    "5": "The over-casual patches deserve a closer look and vague how much you'd like surveyed feel AI-friendly rather than farmer-precise.",
+    "6": "We count the 48 hours from the flight is an unnatural, over-literal clarification."
+  },
+  "reason": "Version 4 is the strongest to publish because it is clear, credible and concise while keeping a practical tone. Version 5 has more voice, but a few casual flourishes make it slightly less trustworthy for this audience.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "B3",
+    "3": "E",
+    "4": "O",
+    "5": "C",
+    "6": "A"
+  }
+}

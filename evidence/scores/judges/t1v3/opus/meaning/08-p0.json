@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 4,
+    "3": 2,
+    "4": 1
+  },
+  "reason": "V4 keeps every substantive claim, including 'more than vaccines,' other markers, guiding care and the tie to the yearly checkup, losing only the 'fuller picture' line; V3 is similar but drops the checkup tie and strengthens 'help spot' to 'catch.' V1 drops 'other health markers' and overstates 'fuller' as 'full picture,' while V2 changes 'more than vaccines' into a direct bloodwork mandate and drops both 'guide care' and the closing value statement.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B3",
+    "4": "B"
+  }
+}

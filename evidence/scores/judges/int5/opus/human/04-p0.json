@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2,
+    "4": 4
+  },
+  "send": "2",
+  "tells": {
+    "1": "The em-dash aside ('before the first frost—a small job now') together with the colon reveal ('Then comes the hardest part: leaving them alone') gives it a polished, formulaic rhythm.",
+    "2": "none",
+    "3": "The colon setup-and-payoff ('Then comes the hardest part: leaving them alone') is a familiar template, though it's mild here.",
+    "4": "Over-flattened phrasing ('The hardest part comes after that, which is leaving them alone') reads like a mechanical rewrite and kills the joke."
+  },
+  "reason": "Version 2 is plain, warm and correctly punctuated ('on Saturday, Oct 18, at'), and it keeps the gentle humor without leaning on stock rhetorical devices. Version 4 strips out so much that it turns clunky, while 1 and 3 keep a slightly templated payoff line.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B5",
+    "3": "track2/A-int",
+    "4": "track2/B5-int"
+  }
+}

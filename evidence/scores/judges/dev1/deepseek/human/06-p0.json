@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 5,
+    "4": 3,
+    "5": 1
+  },
+  "send": "5",
+  "tells": {
+    "1": "none",
+    "2": "The phrase 'Skip the weighing out' feels like an awkward AI-generated gerund.",
+    "3": "Uses forced, unidiomatic phrases like 'start at the mixing' and 'a bake to look forward to'.",
+    "4": "Over-styled, formulaic fragments like 'A little measuring done. A little joy delivered.' and 'Less measuring. More making.'",
+    "5": "none"
+  },
+  "reason": "Version 5 reads as the most natural and skilled human copy; it has a clear rhythm from hook through pricing without the forced phrasing seen in the other versions.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "B3",
+    "3": "A",
+    "4": "O",
+    "5": "C"
+  }
+}

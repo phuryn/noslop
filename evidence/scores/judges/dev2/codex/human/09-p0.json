@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 3,
+    "3": 4,
+    "4": 2,
+    "5": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "Stock reassurance and repeated apologies make it feel templated, though neither proves AI authorship.",
+    "2": "none",
+    "3": "none",
+    "4": "none",
+    "5": "none"
+  },
+  "reason": "Version 5 feels most personal, with clear individual ownership of the follow-up. I'd send version 4 for its precise subject, concise explanation, and warm but professional invitation to reply; versions 2–4 are very close.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "A",
+    "3": "B3",
+    "4": "B5",
+    "5": "C"
+  }
+}

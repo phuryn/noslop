@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 5,
+    "4": 4,
+    "5": 2,
+    "6": 6
+  },
+  "send": "1",
+  "tells": {
+    "1": "Mild: the tidy 'That number belongs to... / It also belongs to...' parallel framing.",
+    "2": "Same parallel 'belongs to' framing, plus a slightly over-smoothed colon list ('12 spots, with paid training and a path...').",
+    "3": "Crams two ideas into each paragraph, and the 'which is why we're a co-op' closer reads like a neat summarizing tag.",
+    "4": "Stiff, compressed phrasing ('The number is our members' too') that reads like a rewrite tightened for word count.",
+    "5": "Mild: the aphoristic tag 'which is what a co-op is for'. Otherwise plain and natural.",
+    "6": "Promotional polish: an exclamation mark, intensifiers ('blazing heat and freezing cold', 'every single', 'lasting career'), a 'What's next:' signpost, and a rhetorical-question CTA."
+  },
+  "reason": "Version 1 reads the most naturally. It's warm and specific, with short paragraphs that suit LinkedIn and a clear call to action, and it avoids the hype and intensifiers that make version 6 feel generated.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B2",
+    "3": "B",
+    "4": "B3",
+    "5": "A",
+    "6": "C"
+  }
+}

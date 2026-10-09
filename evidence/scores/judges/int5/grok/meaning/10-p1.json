@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1
+  },
+  "reason": "Version 3 keeps the price increase, the March 1 hold at $119, the Sunday-class purpose, and the community thanks. Version 1 is close but hedges current-member status with “if,” while version 2 drops “more options during the week” and recasts the thanks as merely being a member.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "track2/A-int",
+    "3": "B5"
+  }
+}

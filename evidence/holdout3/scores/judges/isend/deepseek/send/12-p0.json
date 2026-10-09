@@ -1,0 +1,11 @@
+{
+  "send": "3",
+  "reason": "Version 3 keeps the original facts, wording, and welcoming tone almost exactly, with only minor punctuation and contraction changes. It reads like the writer’s own message while preserving the meaning.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "E",
+    "3": "B5",
+    "4": "C"
+  },
+  "picked_arm": "B5"
+}

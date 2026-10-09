@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 3,
+    "4": 5,
+    "5": 1
+  },
+  "send": "5",
+  "tells": {
+    "1": "Rhetorical triplet 'every shelf, every table, every book' plus the paired 'Maybe it's been... Maybe it's been...' cadence",
+    "2": "Slightly flat and generic phrasing ('started with what we could'), but no strong tell",
+    "3": "Padded 'One of the lovely things about ten years in a bookshop is that...' setup and the tacked-on 'and an anniversary to celebrate'",
+    "4": "Em dash flourish, the 'every shelf, every table, every book' triplet, a colon reveal, and a redundant 'Now we have two floors' repeated from post 1",
+    "5": "none (a minor slip from 'we' to 'My favorite thing')"
+  },
+  "reason": "Version 5 has the most natural, specific voice. Details like 'started with what we loved' and 'a friend borrowed it and never gave it back' feel lived-in and warm, while version 4 stacks the most templated AI patterns.",
+  "label_to_arm": {
+    "1": "B",
+    "2": "A",
+    "3": "B3",
+    "4": "O",
+    "5": "C"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "the generic 'work, keep in touch or relax at home' triad and extra apology feel boilerplate",
+    "3": "it ends abruptly without a courteous close, making it feel unfinished or templated",
+    "4": "the opening is slightly awkward and the same 'work, keep in touch or relax' list feels formulaic"
+  },
+  "reason": "Version 1 is the most human because it is direct, accountable, and avoids padded empathy phrasing. It also gives the key facts and remedy clearly without sounding over-managed.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "O",
+    "3": "B3",
+    "4": "B5"
+  }
+}

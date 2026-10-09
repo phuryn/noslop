@@ -1,0 +1,17 @@
+{
+  "dropped": [
+    {
+      "item": "'properly' qualifier on planning ('planning it properly'), which signalled an emphasis on thorough planning",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "'making the call when conditions or kit say it's not right' became 'calling it off when conditions or kit aren't right'. The original's broader judgement call (which could include pausing, adjusting or delaying) is narrowed to cancelling the dive.",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

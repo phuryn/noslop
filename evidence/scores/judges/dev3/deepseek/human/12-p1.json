@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 5,
+    "5": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "generic closing phrase 'doing the same with their own pressure data'",
+    "3": "unidiomatic phrase 'making more of their own pressure data'",
+    "4": "formulaic academic phrasing like 'This talk explores' and 'practical considerations'",
+    "5": "repeated formal 'the Authority' and stiff phrase 'putting their own pressure data to the same use'"
+  },
+  "reason": "Version 1 reads most like a skilled human wrote it because of its natural first-person voice and concrete, practical framing. It is also the clearest and most engaging choice for a conference talk.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B5",
+    "4": "O",
+    "5": "B3"
+  }
+}

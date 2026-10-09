@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 5,
+    "3": 1,
+    "4": 2,
+    "5": 4
+  },
+  "send": "3",
+  "tells": {
+    "1": "none",
+    "2": "The generic 'you might be a good fit' adds praise without a specific supporting reason.",
+    "3": "none",
+    "4": "Repeating 'interested' in the opening and closing feels slightly formulaic.",
+    "5": "'Happy to share more if it sounds of interest' feels like a stock outreach closing."
+  },
+  "reason": "Version 3 leads with the opportunity, connects it to Callum's current role, and makes the key terms easy to scan. These are editorial judgments; none of the versions contains reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "C",
+    "3": "B5",
+    "4": "A",
+    "5": "O"
+  }
+}

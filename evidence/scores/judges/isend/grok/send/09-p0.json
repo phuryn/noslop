@@ -1,0 +1,11 @@
+{
+  "send": "4",
+  "reason": "It keeps the subject, greeting, warranty, free replacement, tracking promise, reply offer, and thanks for patience, with the same tone. The other versions drop a material commitment, change the subject or voice, or leave out more of what you meant.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "E",
+    "3": "A",
+    "4": "B5"
+  },
+  "picked_arm": "B5"
+}

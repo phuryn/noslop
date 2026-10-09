@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 3,
+    "4": 2,
+    "5": 5
+  },
+  "reason": "V1 keeps nearly everything, losing only 'catch your breath'. V4 and V3 each drop a little more of the welcome or closing warmth. V2 loses several nuances and recasts the workshop sentence, and V5 adds claims the original doesn't make ('Most of us are in the same boat', 'just got').",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "B",
+    "4": "B2",
+    "5": "C"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "send": "1",
+  "reason": "Version 1 keeps every fact, commitment, and caveat, including the 9–12 month window, the six-month outreach lead, severance, the Q1 2027 wind-down, and the Finance placeholders, while staying closest to the original's tone and structure. Version 3 drops key details, Version 2 adds a casual first-person voice and softens claims, and Version 4 changes meaning ('for good reasons we can't reverse', 'in one place').",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "E",
+    "4": "B5"
+  },
+  "picked_arm": "A"
+}

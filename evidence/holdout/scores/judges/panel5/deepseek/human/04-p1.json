@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 4,
+    "3": 1,
+    "4": 5,
+    "5": 2
+  },
+  "send": "5",
+  "tells": {
+    "1": "none",
+    "2": "Filler phrases like 'We're glad to have you along' and 'Wherever you are with your winter preparations' feel templated and overly inclusive.",
+    "3": "none",
+    "4": "Overuse of casual clichés ('rough', 'same boat', 'stocking up') that feel forced and AI trying to sound informal.",
+    "5": "The closing 'Wherever you are with your winter preparations, we're glad you're here' is a slightly templated empathetic phrase."
+  },
+  "reason": "Version 5 is the clearest and most balanced, with natural warmth and no filler, so I'd send it. Version 3 is the most human-sounding but slightly less direct; version 4 is the least human due to forced casualness.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "O",
+    "4": "C",
+    "5": "B5"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3
+  },
+  "reason": "Version 2 faithfully incorporates the writer’s supplied facts and caveats, including two-way texting, continued calls, uneven clinic results, and possible seasonality. Version 1 omits those qualifications and credits reminders alone; version 3 additionally claims switching was “all we did,” asserts equal benefits to patients and the practice, and strengthens “worth testing” into “try texts.”",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "track2/B3-int",
+    "3": "track2/A-int"
+  }
+}

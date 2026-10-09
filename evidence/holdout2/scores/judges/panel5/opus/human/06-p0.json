@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 1,
+    "4": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Curly apostrophe in 'you’re' is a weak tell. It could just as easily come from a CMS or word processor.",
+    "3": "none",
+    "4": "none"
+  },
+  "reason": "All four are nearly identical, clear and human-sounding, so the ranking rests on trivial differences like 'Make sure' vs. 'Check that', 'Hold' vs. 'Press and hold', and colon vs. period. I'd publish 1 because 'Press and hold' is the clearer hardware instruction and the straight apostrophe matches typical help-page formatting.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "O",
+    "3": "B5",
+    "4": "B3"
+  }
+}

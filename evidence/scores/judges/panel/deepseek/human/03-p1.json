@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 3,
+    "3": 5,
+    "4": 2,
+    "5": 1
+  },
+  "send": "5",
+  "tells": {
+    "1": "Rigid 'Feature: explanation' bullet pattern plus the slightly awkward 'Releases October 14'.",
+    "2": "Plain, generic phrasing such as the formulaic 'Fixed a bug where...' without much human voice.",
+    "3": "none",
+    "4": "Overly polished parallel structure and standard release-note phrasing that feels template or AI-edited.",
+    "5": "none"
+  },
+  "reason": "Version 5 reads like a skilled human copywriter made the notes clearer and friendlier while keeping all key details accurate. The others are either more templated, less polished, or slightly awkward.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "E",
+    "4": "O",
+    "5": "C"
+  }
+}

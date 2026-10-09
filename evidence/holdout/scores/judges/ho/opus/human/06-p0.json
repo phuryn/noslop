@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 5,
+    "3": 1,
+    "4": 6,
+    "5": 4,
+    "6": 3
+  },
+  "send": "3",
+  "tells": {
+    "1": "none; it is tight and in a logical order, though the compatibility check comes before the old sealer is removed, which is slightly early",
+    "2": "Out-of-order instruction: it says to check compatibility 'before applying it' only after the application step, a sign of an edit added on top",
+    "3": "none",
+    "4": "Same out-of-order compatibility check as 2, plus a curly apostrophe that doesn't match the others, suggesting a pasted or regenerated text",
+    "5": "Stock hook ('Got a leaky tent seam? It's an easy fix.') and a 'Before you start' warning placed after the steps it should come before",
+    "6": "Somewhat explicit signposting ('Before you apply... Then spread'), but otherwise clean"
+  },
+  "reason": "Version 3 gives the steps in the right order: clean, remove old sealer, check compatibility, apply, cure, test. It also reads concise and natural. Versions 2, 4 and 5 all place the compatibility check after the application step, which is a real usability flaw in a how-to.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "B",
+    "4": "O",
+    "5": "C",
+    "6": "B2"
+  }
+}

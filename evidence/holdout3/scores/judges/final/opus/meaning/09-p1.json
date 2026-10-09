@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1,
+    "4": 5,
+    "5": 4
+  },
+  "reason": "V3 keeps nearly every fact and claim; V1 drops 'real trade with real prospects'; V2 changes 'skills always in demand' into a hireability claim; V5 drops 'head', drops the explicit four-day week, and turns 'still care' into a stricter quality guarantee; V4 rewrites heavily, adding claims like 'career for life', 'excellent salary' and 'common sense' and losing the long weekend and experienced colleagues.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "B5",
+    "4": "E",
+    "5": "C"
+  }
+}

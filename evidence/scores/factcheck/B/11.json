@@ -1,0 +1,17 @@
+{
+  "dropped": [
+    {
+      "item": "'work closely with the chef' became 'work with the chef', which loses the emphasis on close collaboration",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "'the kind of person cooks want to work for' became 'cooks want to work for you', which shifts a desired trait into a direct assertion about the candidate",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

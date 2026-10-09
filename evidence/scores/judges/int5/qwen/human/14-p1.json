@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 4,
+    "4": 2
+  },
+  "send": "2",
+  "tells": {
+    "1": "Safe, generalized thank-you language and neat triads feel templated.",
+    "2": "none",
+    "3": "Flat, generic phrasing and the awkward 'without you coming in' reduce the human voice.",
+    "4": "The em dash/colon polish and glossy warmth make it feel slightly AI-edited."
+  },
+  "reason": "Version 2 feels most human because concrete details create a believable, lived-in story. Version 4 is clean but less distinctive, while 3 is the least polished.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "track2/B5-int",
+    "3": "B5",
+    "4": "O"
+  }
+}

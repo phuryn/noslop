@@ -1,0 +1,11 @@
+{
+  "send": "4",
+  "reason": "It keeps the original anniversary facts and adds the 2020 GoFundMe, Mr. Okafor, and the Middlemarch first sale exactly as clarified, without inventing stock choices, space stories, the book’s whereabouts, or party details.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "track2/A-int",
+    "3": "C",
+    "4": "track2/B5-int"
+  },
+  "picked_arm": "track2/B5-int"
+}

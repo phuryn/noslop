@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 5,
+    "4": 3,
+    "5": 1
+  },
+  "send": "5",
+  "tells": {
+    "1": "Mild slogan antithesis (“history and a future”) plus a generic uplifting close.",
+    "2": "Stiff “Helping one find its voice again is a privilege.”",
+    "3": "Em-dash pivot with “privilege” and “find their voice.”",
+    "4": "Vague synonym swap (“looking after what comes next”) and “real privilege.”",
+    "5": "none"
+  },
+  "reason": "Version 5 sounds like a restorer talking—concrete, slightly compressed, free of brochure metaphors—while 1 is clean but flatter and 2–4 lean on privilege, “voice,” and polished rewrites. I’d publish 5 for credibility and human feel; the last line is colloquial, not unclear.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "B5",
+    "3": "O",
+    "4": "C",
+    "5": "A"
+  }
+}

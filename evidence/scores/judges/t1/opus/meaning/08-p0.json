@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1
+  },
+  "reason": "V3 keeps nearly everything, including other markers, the baseline and its role in guiding care, and the tie to the yearly checkup; it only softens 'help spot' and drops 'noticeable.' V1 drops the same hedges plus the guide-care point and the 'fuller picture' framing, while V2 overstates with 'catch,' 'any signs,' and a 'full picture' promise and drops 'other health markers.'",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "B"
+  }
+}

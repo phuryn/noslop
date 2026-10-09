@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 4,
+    "3": 1,
+    "4": 2,
+    "5": 5
+  },
+  "send": "4",
+  "tells": {
+    "1": "The stock reflective phrase “I found myself” slightly softens otherwise direct, concrete writing.",
+    "2": "Repeated short sentences feel deliberately engineered for conversational authenticity.",
+    "3": "none",
+    "4": "none",
+    "5": "Generic summaries of good and bad experiences replace meaningful detail, though the awkwardness is not specifically an AI tell."
+  },
+  "reason": "Version 3 feels most individual through its particular memories and uncomfortable admission, but it introduces substantive facts absent from the other versions. I would publish 4 for its natural rhythm, concrete actions, and restrained ending; these judgments concern writing, not proof of authorship.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "C",
+    "3": "track2/B5-int",
+    "4": "track2/A-int",
+    "5": "E"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3,
+    "4": 4
+  },
+  "reason": "Versions 2 and 1 only split the dash clause, and 2 also keeps the original comma. Version 3 drops 'now' and shifts 'us' to 'you'. Version 4 replaces 'we're planting' with an imperative, adds 'our' to the seed swap, and changes 'come along' to 'stay', so it alters the most nuance.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B2",
+    "3": "B",
+    "4": "C"
+  }
+}

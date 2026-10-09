@@ -1,0 +1,11 @@
+{
+  "send": "1",
+  "reason": "Version 1 keeps the same facts, offer, launch details, and no-pressure tone as the original. It reads naturally and avoids adding unsupported claims or changing the meaning.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "E",
+    "3": "C",
+    "4": "A"
+  },
+  "picked_arm": "B5"
+}

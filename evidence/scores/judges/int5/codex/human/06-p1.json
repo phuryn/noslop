@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 3,
+    "4": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Stacked slogans and balanced fragments—“A little measuring done. A little joy delivered.”—make it feel assembled from lifestyle-copy formulas.",
+    "3": "The familiar trio of stirring, baking, and sneaking a taste, followed by generic encouragement, feels templated.",
+    "4": "The tea-and-last-crumb imagery feels borrowed from a familiar cozy-brand vocabulary, though the phrasing is otherwise natural."
+  },
+  "reason": "Version 1 offers concrete reasons to trust and choose the product: a named supplier, a customer story, and evidence of popularity, assuming those claims are verified. Its crowded middle section needs tightening, but it has more substance and individuality than the others; these stylistic judgments do not establish authorship.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "O",
+    "3": "B5",
+    "4": "track2/A-int"
+  }
+}

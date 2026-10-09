@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 5,
+    "4": 4,
+    "5": 2
+  },
+  "send": "2",
+  "tells": {
+    "1": "The balanced fragments and repeated 'A little' opening feel formulaic, especially the strained 'A little measuring done.'",
+    "2": "none",
+    "3": "Generic enthusiasm ('amazing,' 'scrumptious,' 'yummy') and redundant explanations substitute for specific benefits.",
+    "4": "Overcompressed phrasing produces awkward lines such as 'start at the mixing' and 'Each kit is $34 a month.'",
+    "5": "The familiar sequence 'stirring, baking, and sneaking a taste' feels somewhat stock."
+  },
+  "reason": "Version 2 has the most natural conversational rhythm, clear product information, and useful section headings. Version 5 is close, but 'Skip the weighing out' is less assured; these rankings judge editorial quality and human feel, not actual authorship.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "C",
+    "3": "E",
+    "4": "A",
+    "5": "B3"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 5,
+    "4": 4,
+    "5": 2
+  },
+  "send": "5",
+  "tells": {
+    "1": "none",
+    "2": "Polished rule-of-three phrasing (\"run the line..., keep the crew steady..., and still care whether the salt is right\") plus tidy aphorisms like \"without turning the kitchen into a pressure cooker\"",
+    "3": "Templated bold section labels combined with a stacked triplet (\"real days off, nights that actually end, and a schedule you can plan a life around\") and \"real say in how we do things\"",
+    "4": "The same stacked triplet and \"pressure cooker\" line, with every sentence evenly balanced and polished",
+    "5": "The inserted \"honestly, that's the fun part\" reads like a deliberate humanizing move, and the run of \"You'll...\" sentences is uniform"
+  },
+  "reason": "Version 1 is unmistakably human, but its all-caps text, typos and run-on lines would hurt credibility with good candidates. Version 5 keeps the concrete kitchen details, scans well with labeled sections, and sounds the most like a real chef talking, so it is the best one to publish.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "A",
+    "3": "O",
+    "4": "B3",
+    "5": "C"
+  }
+}

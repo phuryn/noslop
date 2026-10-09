@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 3,
+    "5": 5
+  },
+  "send": "2",
+  "tells": {
+    "1": "none obvious; reads like an unpolished human draft with placeholders and an informal sign-off.",
+    "2": "Mild templated structure with paired headings and 'The numbers (Finance to fill in)' phrasing, but mostly masked by natural voice.",
+    "3": "Heavy template feel: repeated 'Mitigation:' labels and uniform corporate phrases like 'structural decline' and 'concentrate talent and inventory.'",
+    "4": "Generic corporate language and a tight, uniform section formula with little personal voice.",
+    "5": "Bolded lead-ins on every bullet create a clipped, over-formatted, ChatGPT-style rhythm."
+  },
+  "reason": "Version 2 reads most like a confident human decision-maker: it is clear, well-structured, and credible while still using natural phrases and contractions. It avoids the stiff, template-like quality of the later versions while being polished enough to send.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "C",
+    "3": "B3",
+    "4": "A",
+    "5": "O"
+  }
+}

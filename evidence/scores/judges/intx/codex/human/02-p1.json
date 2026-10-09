@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 3,
+    "3": 2,
+    "4": 4,
+    "5": 1
+  },
+  "send": "5",
+  "tells": {
+    "1": "none",
+    "2": "The two consecutive, politely hedged questions feel templated.",
+    "3": "none",
+    "4": "The pileup of operational details and unsolicited admissions feels engineered to signal authenticity.",
+    "5": "none"
+  },
+  "reason": "Version 5 is clear, conversational, and easy to respond to, with the strongest balance of professionalism and human feel. Version 4 adds claims absent from the others and distracts from the offer; these stylistic judgments do not establish AI authorship.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "O",
+    "3": "track2/A-int",
+    "4": "track2/B5-int",
+    "5": "C"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 1,
+    "4": 3,
+    "5": 5
+  },
+  "send": "3",
+  "tells": {
+    "1": "Upbeat spin ('Quick heads-up', 'On a happier note') softening a price increase, plus padded reassurance ('you don't have to pay the new price right away', 'we'll be glad to help')",
+    "2": "none",
+    "3": "none",
+    "4": "Filler benefit clause 'so you'll have more options during the week', which also fits awkwardly with Sunday classes",
+    "5": "Uniformly polished, formal phrasing ('price will increase', 'will take effect for you', 'to give you more options') with curly typographic apostrophes and stock 'Thank you for being part of our community'"
+  },
+  "reason": "Version 3 states the change, the grandfathered rate and the new classes in the fewest words without spin or filler, so it reads as direct and credible. The others add marketing cushioning or formulaic polish that makes a price increase feel managed rather than plainly explained.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B",
+    "4": "B3",
+    "5": "O"
+  }
+}

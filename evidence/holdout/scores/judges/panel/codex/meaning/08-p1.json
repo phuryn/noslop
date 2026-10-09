@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3
+  },
+  "reason": "Version 2 best preserves the facts and the ideas of restoring each piano’s voice, caring for its future, and feeling privileged to do so. Version 1 loses the voice-restoration nuance and shifts bringing music into homes to keeping pianos there; version 3 adds the unsupported claim that most have years of playing left and weakens the original’s commitment to every piano’s future.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "C",
+    "3": "A"
+  }
+}

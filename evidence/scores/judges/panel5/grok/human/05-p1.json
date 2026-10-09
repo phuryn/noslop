@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 1,
+    "3": 3,
+    "4": 2,
+    "5": 4,
+    "6": 6
+  },
+  "send": "2",
+  "tells": {
+    "1": "Empty setup ('The consequences are significant') plus four matched bold slogan bullets.",
+    "2": "none",
+    "3": "Uniform casual rewrite ('bunch up,' 'pay for it,' 'matters a lot') over the same template — a humanizer pass.",
+    "4": "Counted outline lead-in ('This causes four problems') and flat parallel bullets.",
+    "5": "Misfit punchy label ('What this costs') plus bold slogan lead-ins.",
+    "6": "none"
+  },
+  "reason": "Version 2 is the only finished draft that sounds like a PM wrote it: precise, lightly contracted, and not sloganized or folksily over-edited. The others are template-parallel (1, 5), stiffly enumerated (4), casually humanized (3), or an unfinished rough draft (6).",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B5",
+    "3": "C",
+    "4": "A",
+    "5": "B3",
+    "6": "E"
+  }
+}

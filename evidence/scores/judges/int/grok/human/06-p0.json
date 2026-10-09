@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "The 'the stirring, the baking, and the first taste' triad is a little metronomic.",
+    "2": "Even three-part architecture and the stock closer 'Give yourself something to look forward to each month.'",
+    "3": "Synonym-cycling the offer ('cancel whenever you want') and a compressed either/or scene that doesn't quite parse.",
+    "4": "Slogan fragments — 'A little joy delivered,' 'Less measuring. More making.' — stacked into punchy splinters."
+  },
+  "reason": "Version 1 is the only page with a specific proof point and an uneven, spoken rhythm; the others sand the same offer into cozy template language, and version 4 tips into empty slogan cadence.",
+  "label_to_arm": {
+    "1": "track2/B3-int",
+    "2": "B3",
+    "3": "track2/A-int",
+    "4": "O"
+  }
+}

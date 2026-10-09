@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1
+  },
+  "reason": "Version 3 keeps the original facts, patient-and-practice point, and closing question with only mild paraphrase shifts. Version 1 hardens the hedged lesson and drops the mutual-benefit line and question, while version 2 replaces much of the original thesis and outcomes even though its new details come from the writer’s answers.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "track2/B3-int",
+    "3": "track2/A-int"
+  }
+}

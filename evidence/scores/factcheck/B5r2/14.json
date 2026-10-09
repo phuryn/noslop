@@ -1,0 +1,29 @@
+{
+  "dropped": [
+    {
+      "item": "\"Those visits helped us get here\": the explicit credit to customers' visits for the shop's growth",
+      "severity": "minor"
+    },
+    {
+      "item": "\"and an anniversary to celebrate\": the early mention of the celebration in 1/6",
+      "severity": "minor"
+    },
+    {
+      "item": "\"10 years of The Tidewater Bookshop\" in the call to action (\"Come celebrate with us\"), though context still makes it clear",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "\"we could make a start\" became \"we made a start\", turning a statement of possibility into one of fact",
+      "severity": "minor"
+    },
+    {
+      "item": "\"everyone who has bought a book\" became \"everyone who bought a book\", a slight tense shift that loses the sense of ongoing patronage",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

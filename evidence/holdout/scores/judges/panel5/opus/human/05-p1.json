@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 4,
+    "4": 5,
+    "5": 1
+  },
+  "send": "5",
+  "tells": {
+    "1": "Bullet list with a bolted-on '(£18k cheaper)' parenthetical and an 'Options:' header, which is templated structure for a two-item choice",
+    "2": "none, though the dangling 'Thanks,' sign-off is more email than Slack",
+    "3": "Bullets with a parenthetical saving, plus a formulaic 'Just reply \"yes\" to confirm, or tell me if...' close",
+    "4": "Same bullet-and-parenthetical template as 3, with a stock 'Unless you see a reason not to' / 'Reply \"yes\" to confirm' structure",
+    "5": "none"
+  },
+  "reason": "Version 5 opens with the recommendation, states the price comparison and the saving in one natural sentence, and gives the deadline and a clear reply option without bullets for a two-option choice. That reads like a confident colleague, not a template.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "C",
+    "3": "B5",
+    "4": "B3",
+    "5": "A"
+  }
+}

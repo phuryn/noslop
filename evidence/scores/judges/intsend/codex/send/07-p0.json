@@ -1,0 +1,10 @@
+{
+  "send": "2",
+  "reason": "It keeps the same progress estimate, remaining work, and Nov 3 outlook. The wording feels natural for a quick Slack update.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "track2/B5-int",
+    "3": "track2/A-int"
+  },
+  "picked_arm": "track2/B5-int"
+}

@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2
+  },
+  "reason": "Version 1 keeps all the facts plus the 'privilege' and 'find their voice again' ideas, with only minor rewording. Version 3 keeps the history-and-future line verbatim but softens 'privilege' to 'glad' and drops the voice-restoration idea, while Version 2 replaces 'a future worth caring for' with a new claim that 'most' pianos have years left and drops 'privilege' and 'for years to come.'",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B3"
+  }
+}

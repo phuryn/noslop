@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3,
+    "4": 4
+  },
+  "send": "2",
+  "tells": {
+    "1": "the stock 'but here we are' tag, which over-explains the joke",
+    "2": "none",
+    "3": "the same 'but here we are' tag; the curly apostrophes are not meaningful evidence either way",
+    "4": "the same 'but here we are' tag; this version is identical to 3"
+  },
+  "reason": "The four versions are nearly identical. Version 2 stops cleanly on the dry understatement and trusts it to land, while the others add a stock 'but here we are' that softens the joke. Versions 3 and 4 are character-for-character identical, so their order is arbitrary, and the 1-vs-3/4 split rests only on apostrophe style.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "O",
+    "4": "B5"
+  }
+}

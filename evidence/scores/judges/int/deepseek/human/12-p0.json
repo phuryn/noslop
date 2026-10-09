@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2,
+    "4": 4
+  },
+  "send": "2",
+  "tells": {
+    "1": "Generic abstract phrasing like 'This talk explores' and 'practical considerations' without concrete specifics.",
+    "2": "none",
+    "3": "Anonymous bio ('the speaker') and a too-brief summary with no concrete details.",
+    "4": "Repetitive, formal vagueness: 'This talk covers how... It also covers the lessons...'"
+  },
+  "reason": "Version 2 is concrete, candid, and credible with named people, costs, savings, and limitations, so it reads like an expert human rather than a generic summary. I would send it despite its informal tone.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "track2/B3-int",
+    "3": "track2/A-int",
+    "4": "B3"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 2
+  },
+  "reason": "Version 1 only splits the dash and keeps every fact and nuance, while Version 4 is nearly as close but slightly rephrases 'hardest part'. Version 2 changes 'us' to 'you' and drops 'now'. Version 3 changes the most: it loses 'this week' and the 'small job now' framing, and adds 'our' to the seed swap and 'stay for a natter'.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B",
+    "3": "C",
+    "4": "B3"
+  }
+}

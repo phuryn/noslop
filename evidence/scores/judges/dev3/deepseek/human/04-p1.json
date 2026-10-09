@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 5,
+    "3": 3,
+    "4": 4,
+    "5": 1
+  },
+  "send": "5",
+  "tells": {
+    "1": "none",
+    "2": "Slightly mechanical parallel structure and formal comma placement ('on Saturday, Oct 18, at')",
+    "3": "Use of an em dash to splice clauses is a common AI-writing pattern",
+    "4": "Flat, generic phrasing: 'After that, the hardest part is leaving them alone'",
+    "5": "none"
+  },
+  "reason": "Version 5 reads as the most natural and idiomatic human-written newsletter intro, with varied rhythm and colloquial-but-clear language like 'hard bit' and 'natter,' while still being warm and informative.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B5",
+    "3": "O",
+    "4": "B3",
+    "5": "C"
+  }
+}

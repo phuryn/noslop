@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 4,
+    "4": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none; the slightly clipped, uniform imperative cadence is the only hint of polishing",
+    "2": "Stock blog opener 'Got a leaky tent seam? It's an easy fix.' The 'Before you start' compatibility check also lands mid-procedure, after the application step.",
+    "3": "Evenly weighted, formal sentences ('is compatible with... before applying it') with the compatibility check placed after the application step it should precede",
+    "4": "Identical to 3 except for a curly apostrophe: the same stiff, uniform cadence and the same out-of-order compatibility check"
+  },
+  "reason": "Version 2 sounds the most like a person talking, but it puts the 'before you start' check in the wrong place and opens with a cliché. Version 1 keeps the steps in logical order, puts the compatibility check before application, and stays clear and natural, so it is the most useful and credible to publish.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "C",
+    "3": "A",
+    "4": "O"
+  }
+}

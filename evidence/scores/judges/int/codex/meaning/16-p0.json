@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 1
+  },
+  "reason": "Version 3 most closely preserves the original, including the habitual nature of the closing tasks; version 1 drops that nuance. Version 2 legitimately uses the writer’s supplied facts, but strengthens “hadn’t given much thought” to “never considered” and omits being ready to leave while taking time to gather belongings.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "track2/B3-int",
+    "3": "track2/A-int"
+  }
+}

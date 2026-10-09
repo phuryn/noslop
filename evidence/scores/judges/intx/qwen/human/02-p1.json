@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 3,
+    "4": 5,
+    "5": 1
+  },
+  "send": "5",
+  "tells": {
+    "1": "Smooth but generic cold-email cadence with little distinctive point of view beyond the stat.",
+    "2": "Brochure-like phrasing such as 'provide refrigerated trucking' and 'finished last year with' feels templated.",
+    "3": "Safe, boilerplate structure and wording make it read like a competent but generic rewrite.",
+    "4": "Duplicated greeting and repeated 'Would you be open' lines give it an unedited, automated feel.",
+    "5": "none"
+  },
+  "reason": "Version 5 feels most human because it uses concrete operational details, candid limits, and a specific corrective action instead of generic sales claims. It is slightly longer, but that specificity improves credibility and makes it more memorable.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "O",
+    "3": "track2/A-int",
+    "4": "E",
+    "5": "track2/B5-int"
+  }
+}

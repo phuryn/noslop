@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 5,
+    "4": 1,
+    "5": 4
+  },
+  "send": "4",
+  "tells": {
+    "1": "Near-miss idiom ('start at the mixing') and flat, interchangeable benefit lines",
+    "2": "Hedging scaffold: 'Maybe it's… Maybe it's… Either way'",
+    "3": "Template contrast ('first time… or for years'), 'It's that simple,' and empty intensifiers like amazing, scrumptious, and yummy",
+    "4": "none",
+    "5": "Precious parallel fragments ('A little measuring done. A little joy delivered.') and a choppy list cadence"
+  },
+  "reason": "Version 4 is specific, assured, and in the same quiet voice as the headline, without slogan fragments or maybe/either-way scaffolding. Version 2 is close but vaguer, 5 sounds generated, 1 is thin and slightly off, and 3 is redundant and generic.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "E",
+    "4": "B3",
+    "5": "O"
+  }
+}

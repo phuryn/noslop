@@ -1,0 +1,25 @@
+{
+  "dropped": [],
+  "changed": [
+    {
+      "item": "Subject line broadened from 'Membership pricing update' to 'Our prices are changing', which could imply prices beyond the unlimited monthly membership are changing.",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "'On a happier note' frames the price increase as negative news.",
+      "severity": "minor"
+    },
+    {
+      "item": "'and we'll be glad to help' adds a service assurance not in the original.",
+      "severity": "minor"
+    },
+    {
+      "item": "'Quick heads-up' adds informal framing.",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

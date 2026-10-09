@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 1
+  },
+  "reason": "Version 3 keeps the most original facts and commitments (first taste, pressing demos from start to finish, free entry, appetite, welcome), Version 2 omits a few details like the apple celebration and appetite, and Version 1 loses the first-taste and start-to-finish nuances.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "B5"
+  }
+}

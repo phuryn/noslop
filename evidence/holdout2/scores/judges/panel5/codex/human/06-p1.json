@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "none",
+    "4": "none"
+  },
+  "reason": "Version 1 combines concise wording with an explicit “press and hold” instruction and a colon introducing the steps. All four read like competent human help copy; the forced ranking reflects tiny editorial preferences, with no meaningful distinction between 1 and 2 beyond apostrophe typography.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "O",
+    "3": "B5",
+    "4": "A"
+  }
+}

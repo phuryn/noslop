@@ -1,0 +1,13 @@
+{
+  "send": "6",
+  "reason": "It keeps all the original facts and caveats, including the 15 years' experience, the talk details, and the focus on comfort, function and everyday life. It also avoids versions 2 and 5's stronger implication that they have been a consultant prosthetist for all 15 years.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "V6C",
+    "3": "A",
+    "4": "E",
+    "5": "V6A",
+    "6": "B5"
+  },
+  "picked_arm": "B5"
+}

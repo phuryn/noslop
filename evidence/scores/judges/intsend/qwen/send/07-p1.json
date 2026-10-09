@@ -1,0 +1,10 @@
+{
+  "send": "1",
+  "reason": "It keeps all the facts and commitments from the original, including the Android biometric flow as the remaining piece and the Nov 3 target date. It also reads natural and close to the writer's original tone.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "track2/B5-int",
+    "3": "C"
+  },
+  "picked_arm": "track2/A-int"
+}

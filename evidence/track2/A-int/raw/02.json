@@ -1,0 +1,7 @@
+{
+  "id": 2,
+  "arm": "A",
+  "reply1": "**Draft:** The email is already close to plain. I tightened the first sentence, which strings two facts together with \"and finished,\" and merged the two questions about coverage into one. I kept the 15-minute ask as its own line.\n\n**Remaining patterns:** I found no strong tells: no contrasts, closers, dashes, or inflated claims. The \"where we might fit\" phrasing is a little soft, but cold emails commonly use it, so I left it. I added no facts.\n\n<final>\nSubject: Same-day refrigerated delivery for Fairview Markets\n\nHi [First Name],\n\nWe provide refrigerated trucking with same-day delivery within 250 miles. Last year, 99.2% of our deliveries arrived on time. Could we help Fairview Markets with regular routes or last-minute delivery needs?\n\nDo you have 15 minutes next week to talk about where we might fit?\n\nBest,\n[Your Name]\n[Company]\n[Phone]\n</final>",
+  "asked": false,
+  "final": "Subject: Same-day refrigerated delivery for Fairview Markets\n\nHi [First Name],\n\nWe provide refrigerated trucking with same-day delivery within 250 miles. Last year, 99.2% of our deliveries arrived on time. Could we help Fairview Markets with regular routes or last-minute delivery needs?\n\nDo you have 15 minutes next week to talk about where we might fit?\n\nBest,\n[Your Name]\n[Company]\n[Phone]"
+}

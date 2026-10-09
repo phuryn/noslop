@@ -1,0 +1,11 @@
+{
+  "send": "2",
+  "reason": "Version 2 keeps the original facts and incorporates the confirmed details about Middlemarch, Mr. Okafor, and the 2020 GoFundMe without inventing party specifics or space anecdotes.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "track2/B5-int",
+    "3": "C",
+    "4": "track2/A-int"
+  },
+  "picked_arm": "track2/B5-int"
+}

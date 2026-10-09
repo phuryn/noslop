@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 5,
+    "3": 4,
+    "4": 2,
+    "5": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Cliché-heavy formal filler and an awkward final image about books sitting on shelves of books purchased from the shop.",
+    "3": "Overly polished symmetry and redundancy, such as the repeated two-floors detail and the 'Every shelf, every table, every book' triad.",
+    "4": "Safe, templated warmth: phrases like 'Those visits helped us get here' and 'one of the lovely things' feel like polished copy.",
+    "5": "Compressed to the point of vagueness, lacking the voice and humanizing detail that make the thread feel personal."
+  },
+  "reason": "Version 1 has the most authentic bookseller voice and a specific, memorable detail in the unreturned borrowed book, making it feel genuinely human rather than polished into marketing copy.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "E",
+    "3": "O",
+    "4": "B3",
+    "5": "A"
+  }
+}

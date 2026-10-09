@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "Version 1 preserves the core facts, rollout details, step-by-step support, and the no-question caveat, with only minor omissions. Version 2 omits the no-question caveat and battery-distance benefit, while Version 3 changes key feature wording (singular person, plugging in) and drops the step-by-step commitment.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "C"
+  }
+}

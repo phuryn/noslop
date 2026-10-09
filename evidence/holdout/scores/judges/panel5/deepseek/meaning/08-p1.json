@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+  },
+  "reason": "Version 1 stays closest to the original facts and nuance. Version 2 is nearly as faithful but slightly rephrases the founder/starting and voice details, while Versions 3 and 4 lose more of the privilege/future-caring meaning, with Version 4 adding 'most' and shifting the original commitment most.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "C",
+    "3": "B3",
+    "4": "A"
+  }
+}

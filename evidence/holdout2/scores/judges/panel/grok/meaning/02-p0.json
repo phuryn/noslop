@@ -1,0 +1,11 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1
+  },
+  "reason": "Both drop the examples of how the outage disrupted people, but version 2 keeps the original apology wording and the thank-you, while version 1 also drops the thank-you and the closing apology.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A"
+  }
+}

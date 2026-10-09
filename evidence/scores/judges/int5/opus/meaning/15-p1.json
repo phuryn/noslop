@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2
+  },
+  "reason": "Version 3 keeps nearly every fact, claim, and caveat with only wording changes. Version 1 adds only facts from the writer's answers (312 videos, custom programs, the skipping focus, Gwen Harper) but drops small points like 'technique' and 'see how far you've come'. Version 2 loses more: the 'stay consistent' claim, the 'always know what to do' promise, and any statement that Premium unlocks anything.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "track2/A-int",
+    "3": "B5"
+  }
+}

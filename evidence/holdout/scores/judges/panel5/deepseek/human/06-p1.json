@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 1,
+    "3": 2,
+    "4": 5,
+    "5": 3
+  },
+  "send": "3",
+  "tells": {
+    "1": "Stock AI how-to phrasing and sequence: 'thin, even layer,' 'cure for 24 hours before packing the tent or exposing it to rain,' with the compatibility check placed after the application step.",
+    "2": "The chipper 'Got a leaky tent seam? It's an easy fix' opener is a common humanized-AI hook, though the rest reads naturally.",
+    "3": "Very clipped, uniform step-list structure with minimal transitions; reads like an AI/copyedited summary rather than a naturally voiced paragraph.",
+    "4": "Same formulaic baseline as 1, but the straight apostrophe and lack of even small typographic polish make it feel more machine-generated.",
+    "5": "Reordered for logic but retains very similar stock phrases and synthetic cadence, especially 'Keep the temperature at or above 50°F' and 'cure for 24 hours before you pack the tent or expose it to rain.'"
+  },
+  "reason": "Version 2 is the most natural, but I would publish version 3 because it is clean, correctly places the compatibility check before application, and remains credible and scannable without feeling stiff.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "C",
+    "3": "B5",
+    "4": "A",
+    "5": "B3"
+  }
+}

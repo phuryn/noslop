@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 4,
+    "3": 2,
+    "4": 1,
+    "5": 5
+  },
+  "send": "3",
+  "tells": {
+    "1": "none; it's clumsy rather than AI-like (padded repetition of '400 square foot', and an undeveloped 'understatement' post with no payoff)",
+    "2": "triadic rhythm ('Every shelf, every table, every book had to earn its place') and a tidy sentimental closer ('But we did, and you came through the door')",
+    "3": "the stock rule-of-three in post 2 ('earn its spot'). The voice is otherwise loose and specific, though 'My favorite thing' slips out of the shop's 'we' voice",
+    "4": "the hedged 'Maybe it's been reread. Maybe it's been passed along.' pair. The specifics (Middlemarch, Mr. Okafor, the $38,000 GoFundMe) read human, but they appear in no other version and may be invented",
+    "5": "em dash plus colon-setup ('One of the lovely things about ten years in a bookshop:') on top of the same polished triads as version 2, of which it's a near-duplicate"
+  },
+  "reason": "Version 4 reads most human because of its concrete details, but those facts appear nowhere else and would be a credibility risk unless verified. Version 3 has a warm, natural voice with real humor ('borrowed it and never gave it back') and nothing that needs checking; just change 'My' to 'Our'.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "track2/A-int",
+    "3": "C",
+    "4": "track2/B5-int",
+    "5": "O"
+  }
+}

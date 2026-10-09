@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 2,
+    "4": 3,
+    "5": 5
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Rule-of-three fragment cascade ('Fewer empty chairs. Less time... More patients...') followed by a generic 'What I took from this' aphorism and an engagement-bait closing question",
+    "3": "none (it's clunky and awkwardly formatted, but in an unpolished human way, not an AI way)",
+    "4": "Tidy 'My takeaway is that meeting patients where they already are...' moral plus a tacked-on engagement question",
+    "5": "Templated LinkedIn scaffolding: 'Here's what that meant in practice:' with a three-item bullet list, 'The lesson for me:' aphorism, and a closing engagement question"
+  },
+  "reason": "Version 1 has concrete, checkable specifics: the cost, hours saved, Joanna's observation about elderly patients, Sopot lagging, and the summer seasonality caveat. These make it credible and clearly human, while the others repeat the same smooth 'all we did was text' story with formulaic takeaways.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "C",
+    "3": "E",
+    "4": "track2/A-int",
+    "5": "O"
+  }
+}

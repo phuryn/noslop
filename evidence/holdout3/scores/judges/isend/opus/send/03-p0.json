@@ -1,0 +1,11 @@
+{
+  "send": "4",
+  "reason": "Version 4 is the only one that keeps every fact and commitment, including 'and that's it' (as 'nothing else to pay'), the 14 October launch, the 20% off for existing customers and the no-pressure P.S., all in my warm voice. Versions 2 and 3 drop the no-extra-cost point, and Version 1 implies a choice of 'favourite inks' and reads stiffly. I'd only tweak 'You've been with us for a while' back to 'you're already part of our community', since some customers are new.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "B5",
+    "3": "A",
+    "4": "C"
+  },
+  "picked_arm": "C"
+}

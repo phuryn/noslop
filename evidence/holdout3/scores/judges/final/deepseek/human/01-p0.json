@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 3,
+    "4": 1,
+    "5": 5,
+    "6": 6
+  },
+  "send": "4",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "none",
+    "4": "none",
+    "5": "Slight formal compression in phrases like \"this milestone happened because of your skill and patience\" and \"small fraction\" reads more report-like than conversational.",
+    "6": "Overused enthusiastic qualifiers and stacked praise phrases like \"really special milestone,\" \"painstakingly sorted,\" and \"such a talented, patient and careful team,\" which give it a generic AI-LinkedIn feel."
+  },
+  "reason": "Version 4 reads most like a real person reflecting: it uses concrete, unforced idioms and an understated tone without drifting into corporate-speak. It credits the team clearly while staying concise and credible.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B3",
+    "3": "B5",
+    "4": "C",
+    "5": "A",
+    "6": "E"
+  }
+}

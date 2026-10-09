@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2,
+    "4": 4
+  },
+  "reason": "Version 1 preserves the original facts, numbers, caveat, and scope without adding new claims; Version 3 keeps the core facts and caveat but adds a broad background claim, while Version 2 adds an unprovided speaker name and loses the unnoticed-leak nuance, and Version 4 strengthens causality and adds a leadership role.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "E",
+    "3": "C",
+    "4": "A"
+  }
+}

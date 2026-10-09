@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 1,
+    "4": 5,
+    "5": 4
+  },
+  "send": "3",
+  "tells": {
+    "1": "Polished takeaway ('What I took from this is that...') and a moralizing no-show sentence feel AI-smoothed.",
+    "2": "Tight summary language ('The result is...') and a standard CTA read like an AI edit.",
+    "3": "none",
+    "4": "Overly polished, compressed summary with no conversational hook or engagement question.",
+    "5": "Formulaic signposting and bullet list ('Here's what that meant in practice:', 'The lesson for me:') reads templated."
+  },
+  "reason": "Version 3 reads most like a genuine first-person story with natural phrasing, credible detail, and a real question; it feels less templated than the others.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "A",
+    "3": "C",
+    "4": "B3",
+    "5": "O"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 1,
+    "4": 3,
+    "5": 5
+  },
+  "reason": "Version 3 keeps every fact, ask, and caveat, dropping only the redundant “young.” Version 2 is next, with only mild shifts (“could use”; “while we”). Version 4 keeps original wording but cuts the explicit plant-the-trees ask; version 1 keeps that ask but changes urgency, welcome, and the task (“good start”); version 5 drops meeting neighbours and adds “if you can” plus stronger need and welcome.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B5",
+    "4": "B3",
+    "5": "E"
+  }
+}

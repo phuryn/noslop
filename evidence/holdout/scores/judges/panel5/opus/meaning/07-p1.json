@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 1,
+    "4": 3
+  },
+  "reason": "Version 3 keeps every fact, commitment, and courtesy, with only minor wording shifts ('we charged you,' 'now'). Version 2 keeps all content but slightly reframes the refund as 'started' and drops the brand name. Version 4 omits the thanks, and Version 1 drops both the thanks and the offer to answer further questions.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "B5",
+    "4": "B3"
+  }
+}

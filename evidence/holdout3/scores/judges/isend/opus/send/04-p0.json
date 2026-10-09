@@ -1,0 +1,11 @@
+{
+  "send": "3",
+  "reason": "It keeps every fact (47 callouts, the Land Rover due in November, the open day on Sunday 1 November in Capel Curig) and the closing thanks, and its warm, plain tone sounds like mine. Version 2 adds invented details like 'we can't wait to see it', version 1 drops the autumn opening and turns the closing thanks into 'you're welcome', and version 4 drops the invitation to meet the team and adds an 'if you are in the area' caveat I never wrote.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "C",
+    "3": "B5",
+    "4": "E"
+  },
+  "picked_arm": "B5"
+}

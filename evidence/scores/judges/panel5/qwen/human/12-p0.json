@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 5,
+    "3": 3,
+    "4": 2,
+    "5": 6,
+    "6": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "awkward, unclear phrase \"before making more of their own pressure data\"",
+    "3": "generic conference-copy phrasing (\"explores,\" \"shares lessons,\" \"practical considerations\") feels templated",
+    "4": "bio phrase \"find leaks in existing pressure data\" is semantically off",
+    "5": "stiff, templated wording with visible encoding glitch \"Authorityâ€™s\"",
+    "6": "repetitive \"This talk covers... It also covers\" structure"
+  },
+  "reason": "Version 1 sounds most like a practitioner: concrete, first-person, and specific without padding. I would send it despite minor informality; the others have awkward phrasing, templated abstraction, or formatting issues.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B5",
+    "3": "O",
+    "4": "A",
+    "5": "E",
+    "6": "B3"
+  }
+}

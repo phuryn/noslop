@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2
+  },
+  "reason": "Version 1 preserves nearly all meaning, while version 3 changes having given little thought to leaving into having given it no thought. Version 2 invents careful preparation, changes good and difficult lessons into good and bad years, and loses the specific reflections on students and readiness to retire.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "E",
+    "3": "A"
+  }
+}

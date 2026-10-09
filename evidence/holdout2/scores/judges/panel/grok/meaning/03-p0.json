@@ -1,0 +1,11 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2
+  },
+  "reason": "Version 1 keeps every fact, including adding the engine cutaway display to the booth and requesting the display specs. Version 2 drops “to the booth” and shortens “engine cutaway display specs” to “engine cutaway specs.”",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2,
+    "4": 4
+  },
+  "reason": "Version 2 most closely preserves the facts and future commitments; version 3 slightly shifts “will send” to “we’re sending.” Version 1 additionally promises a new battery and personal follow-through, while version 4 adds an explicit warranty-eligibility rationale and broadens “stopped charging” to “failed.”",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B2",
+    "3": "A",
+    "4": "B"
+  }
+}

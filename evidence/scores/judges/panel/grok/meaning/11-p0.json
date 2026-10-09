@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 2,
+    "4": 3
+  },
+  "reason": "Version 1 keeps every duty, benefit, trait, and pay figure. Version 3 drops only the plannable-schedule claim; version 4 softens “slammed,” adds tasting the third plate and nights ending at a “decent hour,” and narrows “real say”; version 2 omits several duties and traits and adds open-ended responsibilities plus a personal “send me.”",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "E",
+    "3": "A",
+    "4": "C"
+  }
+}

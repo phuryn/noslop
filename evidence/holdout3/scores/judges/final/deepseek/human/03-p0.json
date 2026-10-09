@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 5,
+    "3": 6,
+    "4": 4,
+    "5": 3,
+    "6": 1
+  },
+  "send": "6",
+  "tells": {
+    "1": "none",
+    "2": "The phrase 'our thank you for being part of our community' is a clunky, formulaic aside after the discount.",
+    "3": "The bullet list repeats the offer already described, and the formal language like 'Kind regards' and 'continued support' feels templated.",
+    "4": "Overly clipped, generic summary structure with no conversational warmth or personality.",
+    "5": "The 'Here's how it works' bullets repeat the preceding paragraph almost verbatim, creating template-style redundancy.",
+    "6": "none"
+  },
+  "reason": "Version 6 feels the most natural and human while still being clear, warm, and complete, so I would send that one. The others are either more stilted, redundant, or overly clipped.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "B3",
+    "3": "E",
+    "4": "A",
+    "5": "O",
+    "6": "C"
+  }
+}

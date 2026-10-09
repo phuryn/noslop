@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 4,
+    "4": 1,
+    "5": 5
+  },
+  "send": "4",
+  "tells": {
+    "1": "None obvious",
+    "2": "Forced aggregation of social proof and statistics in one section",
+    "3": "Feels like a compressed, slightly impersonal summary of the fuller copy",
+    "4": "None obvious",
+    "5": "Excessive generic enthusiasm and redundancy, plus duplicate CTA"
+  },
+  "reason": "Version 4 is the most polished, natural, and emotionally resonant while staying clear and concise. It reads like skilled human copywriting and avoids the clutter or generic filler of the others.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "track2/B5-int",
+    "3": "track2/A-int",
+    "4": "O",
+    "5": "E"
+  }
+}

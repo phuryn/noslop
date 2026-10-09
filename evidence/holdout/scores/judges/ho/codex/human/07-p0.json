@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 6,
+    "4": 5,
+    "5": 2,
+    "6": 4
+  },
+  "send": "2",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "The passive phrasing and stock patience-and-questions closing feel templated.",
+    "4": "Stacked warmth—“so sorry,” “bearing with us,” and “we'll help”—feels slightly manufactured for a routine resolution.",
+    "5": "none",
+    "6": "none"
+  },
+  "reason": "Version 2 balances a direct apology, a clear resolution, active refund language, and an easy next step. These are close editorial judgments; the wording does not reliably establish whether AI was involved.",
+  "label_to_arm": {
+    "1": "B2",
+    "2": "B3",
+    "3": "O",
+    "4": "C",
+    "5": "B",
+    "6": "A"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 2,
+    "4": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "the spoken shrug is cut, so the opening joke ends a beat early and feels lightly sanded",
+    "3": "none",
+    "4": "none"
+  },
+  "reason": "I'd publish 1: the dry specifics already sound like a person, and 'but here we are' keeps the spoken beat a personal blog wants. Versions 1 and 3 are the same words; 4 matches them aside from straight apostrophes, and none of this has a real AI tell.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "B3",
+    "3": "O",
+    "4": "A"
+  }
+}

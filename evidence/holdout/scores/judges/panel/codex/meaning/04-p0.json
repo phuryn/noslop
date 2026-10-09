@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "Version 1 preserves nearly all the original meaning, including the welcome regardless of winter-preparation progress; version 2 omits that reassurance. Version 3 adds an unsupported majority claim (“Most of us”) and recent stock-arrival timing (“just”), and turns the seasonal shift in focus into a stronger directive.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "C"
+  }
+}

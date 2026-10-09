@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 4,
+    "4": 2
+  },
+  "send": "2",
+  "tells": {
+    "1": "The generic promotional ending—“a practical way to get a fuller picture” and “make the most”—feels formulaic.",
+    "2": "none",
+    "3": "none",
+    "4": "none"
+  },
+  "reason": "Version 2 combines a natural conversational voice with clear information and an understated price statement; version 4 is tighter but slightly more categorical. Version 1 adds generic sales polish, while version 3 sounds plausible as human copy but needs editing for repetition and vague emphasis; none of these features establishes authorship.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B3",
+    "3": "E",
+    "4": "A"
+  }
+}

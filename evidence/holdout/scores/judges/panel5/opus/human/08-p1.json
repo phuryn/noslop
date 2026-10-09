@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 5,
+    "4": 4,
+    "5": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Stock phrasing: 'a history and a future worth caring for' and 'for years to come'",
+    "3": "Several tells at once: an em-dash reveal ('a history—and a future worth caring for'), 'It's a privilege,' 'find their voice again,' and 'for years to come'",
+    "4": "Stock lines 'a future worth caring for,' 'find its voice again is a privilege,' and 'for years to come'",
+    "5": "Clichés reworded rather than removed: 'it's worth looking after what comes next' and 'a real privilege'"
+  },
+  "reason": "Version 1 is the only one that drops the stock lines about a privilege, a voice and the years to come, and says plainly why Mateo likes the work. That makes it the most credible and the most like how a craftsman actually talks.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "O",
+    "4": "B5",
+    "5": "C"
+  }
+}

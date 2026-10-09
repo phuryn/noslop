@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "The work/keep in touch/relax trio and repeated closing apology feel like padded, template-driven empathy.",
+    "3": "“Thank you for your patience” adds a formulaic closing that assumes customers were patient."
+  },
+  "reason": "Version 1 gives a direct apology, acknowledges the impact and clearly explains the automatic credit without padding. Version 3 is nearly as strong; version 2 feels more scripted, though none of these features establishes AI authorship.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "O",
+    "3": "A"
+  }
+}

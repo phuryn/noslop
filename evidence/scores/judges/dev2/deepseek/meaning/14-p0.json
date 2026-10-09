@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2,
+    "4": 4
+  },
+  "reason": "Version 2 is the most faithful, keeping nearly all facts, phrasing, and the key acknowledgment. Version 3 stays close but drops the 'visits helped us get here' line and the explicit 10-year invitation; version 1 alters or omits a few nuances (e.g., the 'make a start' wording and 'one of the lovely things' framing), while version 4 adds/changes specific details and claims.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "B5",
+    "4": "C"
+  }
+}

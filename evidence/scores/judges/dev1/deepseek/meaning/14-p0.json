@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 3,
+    "4": 2
+  },
+  "reason": "Version 1 stays closest to the original's meaning and details; Version 4 is nearly as faithful but has minor shifts like 'we made a start' versus 'could make a start.' Version 3 loses some nuance, while Version 2 adds or changes specific claims not in the original.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "C",
+    "3": "A",
+    "4": "B5"
+  }
+}

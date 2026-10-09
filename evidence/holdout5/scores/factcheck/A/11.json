@@ -1,0 +1,30 @@
+{
+  "dropped": [
+    {
+      "item": "The opening framing 'It happened…', which marked this scene as the pivotal moment referred to in the preceding narrative",
+      "severity": "minor"
+    },
+    {
+      "item": "'for the first time in a long while', which said the feeling was a rare change after a long period",
+      "severity": "minor"
+    },
+    {
+      "item": "'felt the last pin set': the narrator's tactile sensing of the pin is reduced to a plain result",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "'I didn't feel like I was waiting for my life to start' (a subjective, momentary feeling) became 'no longer waiting for my life to start' (a definitive, seemingly lasting state). Both the certainty and the permanence increase.",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "'Standing there': a connective phrase placing the realisation at the doorstep",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

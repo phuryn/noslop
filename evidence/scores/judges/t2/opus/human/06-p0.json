@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "send": "1",
+  "tells": {
+    "1": "none. The sections are terse and a little flat, but the concrete details (Ledger Hill Mill, about 2,800 subscribers, Rosa's fundraiser) read like real knowledge of the business.",
+    "2": "Generic cozy lifestyle filler ('sneaking a taste,' 'a quiet cup of tea with the last crumb') with no specifics; the copy restates the hero's benefit instead of adding proof.",
+    "3": "Stacked parallel fragments and slogan pairs ('A little measuring done. A little joy delivered.' / 'Less measuring. More making.') plus a padded 'Give yourself something to look forward to' closer."
+  },
+  "reason": "Version 1 is the only one that gives readers reasons to believe: a named mill, a subscriber count and a real customer story. Versions 2 and 3 are interchangeable mood copy, and 3 leans on fragment-and-parallelism rhythms typical of AI. I'd send 1, assuming its facts are accurate, though I'd warm up its section copy slightly.",
+  "label_to_arm": {
+    "1": "track2/B2-int",
+    "2": "track2/A-int",
+    "3": "O"
+  }
+}

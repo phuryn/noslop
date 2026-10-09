@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 1,
+    "3": 4,
+    "4": 3,
+    "5": 2
+  },
+  "send": "4",
+  "tells": {
+    "1": "Bold lead-ins on every rationale point and repeated 'Mitigation:' tags inside a perfectly even template.",
+    "2": "none",
+    "3": "Same stock closer and outline as the generated drafts, plus the unnatural shuffle 'declining structurally.'",
+    "4": "Gapless parallel 'We will' risk pairs and the identical stock closing line shared with the more obvious AI versions.",
+    "5": "Every heading is casually rewritten in the same register — a performed-human restyle over an unchanged outline."
+  },
+  "reason": "Version 2 is the only draft with real human texture — redundancy, idiom, and rough edges — but it is too loose to send. Version 4 is clear, credible, and plain enough to stand as a finished leadership memo without template gloss or forced casualness.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "E",
+    "3": "track2/B5-int",
+    "4": "track2/A-int",
+    "5": "C"
+  }
+}

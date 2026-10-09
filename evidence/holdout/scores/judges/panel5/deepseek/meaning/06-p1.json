@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 1,
+    "3": 3,
+    "4": 2
+  },
+  "reason": "Version 2 is nearly identical to the original and preserves all details. Version 4 is also highly faithful but slightly rephrases and condenses; Version 3 moves the compatibility check earlier; Version 1 softens the temperature requirement from an instruction to 'try to work' at 50°F, losing a key caveat.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B3",
+    "4": "B5"
+  }
+}

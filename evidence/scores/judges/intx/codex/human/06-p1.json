@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 5
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "The subscriber story, favorite kit, and subscriber count feel crammed together as a checklist of credibility signals, though this is not distinctly an AI tell.",
+    "3": "The balanced 'Less measuring, more making' headline and repeated 'Maybe' construction give it a slightly templated rhythm.",
+    "4": "Stacked sentence fragments and the manufactured symmetry of 'A little measuring done. A little joy delivered.'",
+    "5": "Repeated generic praise—'amazing,' 'scrumptious,' 'yummy'—and redundant explanations of pre-measured ingredients."
+  },
+  "reason": "Version 1 is warm, clear, and restrained, with the most consistent editorial control. Version 2 adds useful specificity, assuming its claims are accurate, but its crowded middle section needs editing; these judgments concern writing quality, not proof of authorship.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "track2/B5-int",
+    "3": "C",
+    "4": "O",
+    "5": "E"
+  }
+}

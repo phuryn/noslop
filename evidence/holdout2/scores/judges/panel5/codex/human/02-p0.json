@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "The stock closing, “Thank you for your patience,” feels less personal than the direct apology.",
+    "3": "The tidy trio “work, keep in touch or relax at home” feels slightly formulaic.",
+    "4": "The generic three-part list and repeated apology at the end make the empathy feel overworked."
+  },
+  "reason": "Version 1 takes responsibility plainly and makes the automatic credit clear without padding the apology. These are editorial impressions, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A",
+    "3": "B5",
+    "4": "O"
+  }
+}

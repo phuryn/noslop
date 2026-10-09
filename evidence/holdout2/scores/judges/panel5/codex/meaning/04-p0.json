@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2
+  },
+  "reason": "Version 1 best preserves the original, including the team's commitment to high food safety standards, though it softens a need into a preference. Version 3 omits that commitment; version 2 additionally drops the fact that Ashby Mill came to the provider with the problem.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "B3",
+    "3": "A"
+  }
+}

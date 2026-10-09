@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 2,
+    "3": 7,
+    "4": 6,
+    "5": 3,
+    "6": 4,
+    "7": 1
+  },
+  "send": "7",
+  "tells": {
+    "1": "safe, generic wording such as 'free public' gives it a templated feel",
+    "2": "none",
+    "3": "awkward paraphrases like 'set up for looking' and 'It's an evening outdoors' feel machine-spun",
+    "4": "none",
+    "5": "the stacked cosy idioms ('peer through', 'clouds roll in', 'put on a talk') feel slightly performed",
+    "6": "smooth but generic phrasing ('explore the night sky') feels AI-polished",
+    "7": "none"
+  },
+  "reason": "Version 7 is the strongest because it is clear, practical and has a natural community voice without overdoing it. The phrase 'get a proper look' adds human colour while the announcement stays concise and credible.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "O",
+    "3": "B5",
+    "4": "E",
+    "5": "C",
+    "6": "V6C",
+    "7": "V6A"
+  }
+}

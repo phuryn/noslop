@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 3,
+    "3": 1,
+    "4": 6,
+    "5": 2,
+    "6": 7,
+    "7": 4
+  },
+  "send": "2",
+  "tells": {
+    "1": "Balanced flourish 'with time for work and time for care' and the tidy reassurance clause 'so you know what you'll pay before you book'",
+    "2": "Formulaic closing reassurance 'so you know the price before you book', repeated across the whole set",
+    "3": "none: raw, unpolished copy with encoding glitches (crche, missing €) and run-on steps reads as a real owner's draft",
+    "4": "Slogan-like heading 'Make time for your work' plus the parallel 'time for work and time for care' flourish",
+    "5": "Flat, over-literal phrasing ('You have four hours to work', 'you see the price before you book'), but few stylistic tells",
+    "6": "Em-dash tagline opener, curly-quote polish, and 'time set aside for work and care' together make it the most templated version",
+    "7": "The 'time for work and time for care' parallelism, partly offset by the natural idiom 'Get your head down'"
+  },
+  "reason": "Version 3 is clearly the human original but has broken characters and a missing euro sign, so it can't ship as written. Version 2 keeps the clarity and warmth without the 'work and care' flourishes and slogan headings that mark the more AI-polished versions.",
+  "label_to_arm": {
+    "1": "V6A",
+    "2": "B5",
+    "3": "E",
+    "4": "V6C",
+    "5": "A",
+    "6": "O",
+    "7": "C"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "5": 3,
+    "4": 4,
+    "3": 5
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "none",
+    "3": "two consecutive polite questions and the generic 'where we might fit' phrase",
+    "4": "generic 'where we might fit' CTA and slightly formal 'at a 99.2% on-time rate'",
+    "5": "generic 'where we might fit' CTA"
+  },
+  "reason": "Version 1 is the clearest and most natural: no filler, a specific prospect-focused CTA, and a solid proof point. Version 5 is friendly but slightly more generic in the close, while 3 and 4 feel more templated.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "O",
+    "4": "B5",
+    "5": "C"
+  }
+}

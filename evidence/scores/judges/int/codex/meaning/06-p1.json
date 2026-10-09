@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "Version 1 preserves the original’s facts, commitments, and monthly ritual most fully; version 2 drops the explicit invitation to look forward to each month. Version 3’s fundraiser story is authorized by the writer’s answers, but it replaces more of the original meaning about making time for baking, sharing, and quiet enjoyment.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "track2/A-int",
+    "3": "track2/B3-int"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 3,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "Generic summary lessons ('taught me the importance of change... and patience') and a hedged 'it's not the whole of it' line, though the clumsiness reads more like an unpolished human than AI",
+    "2": "Very little; the run of short declarative sentences is slightly choppy, and the setup 'I had spent so long thinking about X that I hadn't given much thought to Y' is a familiar reflective formula",
+    "3": "'I found myself doing the usual things' is a stock AI-style framing phrase, along with the semicolon pivot ('beautifully; others')",
+    "4": "Only the polished semicolon balance ('beautifully; others'); otherwise none"
+  },
+  "reason": "Versions 2–4 share the same concrete details. Version 4 is the tightest: 'I did the usual things' introduces the ritual cleanly, and 'hadn't thought about' is crisper than 'hadn't given much thought to.' Version 1 is sincere but generic, with tense drift and abstract lessons where specific detail would work better.",
+  "label_to_arm": {
+    "1": "gen/E-write",
+    "2": "B3",
+    "3": "O",
+    "4": "A"
+  }
+}

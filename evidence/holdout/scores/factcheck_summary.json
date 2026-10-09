@@ -1,0 +1,52 @@
+{
+  "A": {
+    "texts": 8,
+    "texts_with_invented_specifics": 0,
+    "invented_specifics_total": 0,
+    "major_dropped": 0,
+    "major_changed": 0,
+    "major_added": 0,
+    "texts_with_any_major": 0,
+    "mean_meaning_preserved": 4.5
+  },
+  "B": {
+    "texts": 8,
+    "texts_with_invented_specifics": 0,
+    "invented_specifics_total": 0,
+    "major_dropped": 0,
+    "major_changed": 0,
+    "major_added": 0,
+    "texts_with_any_major": 0,
+    "mean_meaning_preserved": 4.5
+  },
+  "B2": {
+    "texts": 8,
+    "texts_with_invented_specifics": 0,
+    "invented_specifics_total": 0,
+    "major_dropped": 0,
+    "major_changed": 0,
+    "major_added": 0,
+    "texts_with_any_major": 0,
+    "mean_meaning_preserved": 5.0
+  },
+  "B3": {
+    "texts": 8,
+    "texts_with_invented_specifics": 0,
+    "invented_specifics_total": 0,
+    "major_dropped": 0,
+    "major_changed": 0,
+    "major_added": 0,
+    "texts_with_any_major": 0,
+    "mean_meaning_preserved": 4.75
+  },
+  "C": {
+    "texts": 8,
+    "texts_with_invented_specifics": 1,
+    "invented_specifics_total": 1,
+    "major_dropped": 0,
+    "major_changed": 1,
+    "major_added": 0,
+    "texts_with_any_major": 1,
+    "mean_meaning_preserved": 4.38
+  }
+}

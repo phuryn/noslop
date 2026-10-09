@@ -1,0 +1,25 @@
+{
+  "dropped": [
+    {
+      "item": "Hashtags #Perry, #CiderFarm and #AutumnHarvest removed (only #AppleDay and #QuietField kept)",
+      "severity": "minor"
+    },
+    {
+      "item": "'appetite for autumn' shortened to 'an appetite', losing the seasonal framing",
+      "severity": "minor"
+    },
+    {
+      "item": "Closing 'See you in the orchard!' removed",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "'celebrating all things apple' became 'celebrating apples', which is slightly narrower",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

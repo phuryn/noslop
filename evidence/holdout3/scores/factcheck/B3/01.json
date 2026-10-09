@@ -1,0 +1,21 @@
+{
+  "dropped": [
+    {
+      "item": "Closing sentence 'But it's a good moment to pause and say thank you.' The edit ends on the caveat about remaining work, so it loses the final note of pausing to give thanks.",
+      "severity": "minor"
+    },
+    {
+      "item": "Framing 'I want to be clear about where it comes from', which explicitly signaled the writer was correcting or clarifying credit for the number",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "'It comes from the sorting team' became 'it belongs to the sorting team'. The meaning shifts slightly from where the result originated to who owns the credit.",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

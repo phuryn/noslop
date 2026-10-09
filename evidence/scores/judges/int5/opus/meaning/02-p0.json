@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "Version 1 keeps every original fact, the 'regular routes or last-minute' offer, and the tentative question, changing only wording. Version 2 turns 'Could we help' into the assertive 'We'd like to help', and Version 3 uses only facts the writer supplied but drops the original's last-minute delivery offer.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "B5",
+    "3": "track2/B5-int"
+  }
+}

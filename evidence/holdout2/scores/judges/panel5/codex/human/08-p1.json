@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "“But here we are” is a stock conversational tag that weakens the dry joke, though it does not establish AI authorship.",
+    "3": "Same as version 2: the stock tag “but here we are.”",
+    "4": "Same as version 2: the stock tag “but here we are.”"
+  },
+  "reason": "Version 1 lets the owl joke land cleanly and trusts the reader to hear the humour. Versions 2 and 3 are identical, and 4 differs from them only in apostrophe typography; their separate ranks are arbitrary, imposed by the no-ties requirement.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "O",
+    "3": "B5",
+    "4": "A"
+  }
+}

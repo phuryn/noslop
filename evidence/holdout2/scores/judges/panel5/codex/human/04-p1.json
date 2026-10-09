@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "The final sentence adds generic praise after the concrete result, making it feel tacked on.",
+    "3": "The closing phrase explains the significance of an already clear result and adds formulaic praise.",
+    "4": "none"
+  },
+  "reason": "Version 1 gives the problem, intervention and outcome directly, with the strongest economy of language. Version 4 is close, but its opening is wordier; these stylistic judgments do not establish authorship.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "B5",
+    "3": "O",
+    "4": "A"
+  }
+}

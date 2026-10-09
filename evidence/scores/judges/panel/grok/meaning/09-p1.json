@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 3,
+    "4": 1
+  },
+  "reason": "Version 4 preserves every material fact and commitment, including the free replacement under the 2-year warranty and tracking when it ships. Version 2 is nearly as complete but slightly less explicit; version 3 changes the subject and shifts some commitments to first person; version 1 drops the no-cost promise.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "A",
+    "3": "C",
+    "4": "B3"
+  }
+}

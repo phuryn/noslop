@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 1,
+    "3": 6,
+    "4": 5,
+    "5": 3,
+    "6": 2
+  },
+  "send": "2",
+  "tells": {
+    "1": "Relentlessly polished rhetorical escalation, culminating in an elaborate metaphor about risk moving somewhere less visible.",
+    "2": "The neatly staged closing reversal—“It didn't. It moved”—feels manufactured.",
+    "3": "none",
+    "4": "Repeated punchy fragments and redundant declarations make the conversational voice feel engineered.",
+    "5": "“I get less of the thinking” sounds like an unnatural paraphrase retained to preserve a rhetorical contrast.",
+    "6": "The closing trio “cheaper, more rushed, less visible” and billing punchline feel formulaic."
+  },
+  "reason": "Version 2 has the strongest balance of readable structure, concrete explanation, and personal voice; version 6 comes close but needs paragraph breaks. Version 3 feels the most spontaneous, but its repetition, grammatical slips, and categorical claims make it the least convincing as skilled, publication-ready writing; these stylistic judgments do not establish authorship.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B3",
+    "3": "E",
+    "4": "C",
+    "5": "B5",
+    "6": "A"
+  }
+}

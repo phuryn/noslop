@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 5,
+    "4": 3,
+    "5": 4
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "The vague 'we started with what we could' and compressed reflection in post 5 feel flattened by editing.",
+    "3": "Repeats 'two floors' unnecessarily and stacks polished patterns: 'Every shelf, every table, every book' and paired 'Maybe' sentences.",
+    "4": "The three-part 'Every shelf, every table, every book' and paired 'Maybe' sentences give the prose a slightly formulaic rhythm.",
+    "5": "'An anniversary to celebrate' restates the opening announcement, while 'Those visits helped us get here' adds a generic emotional summary."
+  },
+  "reason": "Version 1 has the strongest voice and most memorable detail: the borrowed book that never came back feels especially apt for a bookshop. The others are credible but increasingly generic or patterned; these are editorial impressions, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "O",
+    "4": "B",
+    "5": "B3"
+  }
+}

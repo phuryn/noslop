@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 5,
+    "3": 3,
+    "4": 4,
+    "5": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Padded, bureaucratic phrasing like 'We wanted to let you know' and 'at which time,' plus a comma splice, makes it feel less naturally edited.",
+    "3": "The phrase 'when the new rate starts for you' is slightly unnatural and gives the email a compressed, draft-like feel.",
+    "4": "'On a happier note' feels like a forced cheerful pivot in a price-increase email.",
+    "5": "The clean corporate cadence is polished but generic, especially 'will take effect,' which can read templated."
+  },
+  "reason": "Version 1 is clear, warm, and sounds like a real person delivering necessary news without over-polishing it. It explains the change and member rate simply, while keeping a natural, credible tone.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "E",
+    "3": "track2/A-int",
+    "4": "C",
+    "5": "O"
+  }
+}

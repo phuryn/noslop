@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2
+  },
+  "reason": "Version 1 preserves the everyday impacts, gratitude, and approximate duration, though it omits the explicit acknowledgment that the outage disrupted customers’ day. Version 3 drops the everyday examples and restates the approximate duration as “Nine hours”; version 2 drops both the examples and the thanks for customers’ patience.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "B3",
+    "3": "A"
+  }
+}

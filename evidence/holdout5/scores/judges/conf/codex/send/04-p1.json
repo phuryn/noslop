@@ -1,0 +1,13 @@
+{
+  "send": "3",
+  "reason": "It keeps all the facts and the welcoming tone without adding claims or unnecessary enthusiasm. It reads naturally and stays close to what I meant.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "C",
+    "3": "B5",
+    "4": "V6A",
+    "5": "A",
+    "6": "V6C"
+  },
+  "picked_arm": "B5"
+}

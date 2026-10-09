@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2
+  },
+  "reason": "Version 2 stays closest to the original copy and adds no outside facts; version 3 is nearly as close but drops the 'look forward to each month' promise. Version 1 uses writer-supplied facts but replaces more of the original lifestyle messaging, making it least faithful overall.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "B5",
+    "3": "track2/A-int"
+  }
+}

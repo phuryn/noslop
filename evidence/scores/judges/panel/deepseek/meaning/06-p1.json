@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 1,
+    "4": 3
+  },
+  "reason": "Version 3 stays closest to the original claims, pricing, and nuance. Version 1 is also very faithful but slightly more reworded; Version 4 condenses and drops some explicit benefit language; Version 2 adds new promises and shifts the message the most.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "E",
+    "3": "C",
+    "4": "A"
+  }
+}

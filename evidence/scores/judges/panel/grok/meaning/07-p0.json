@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3
+  },
+  "reason": "Version 2 keeps the same facts with only a sentence join. Version 1 adds a mild “only,” while version 3 adds “big,” which is an unstated size judgment and can imply other smaller work remains.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "C"
+  }
+}

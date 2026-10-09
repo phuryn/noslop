@@ -1,0 +1,16 @@
+{
+  "dropped": [],
+  "changed": [
+    {
+      "item": "The original asks whether they could help ('Could we help Fairview Markets cover...?'). The edit states a desire instead ('We'd like to help...'). This shifts from asking about fit to asserting intent, which is slightly more presumptive.",
+      "severity": "minor"
+    },
+    {
+      "item": "'99.2% on-time rate' is now '99.2% of our deliveries arrived on time'. This specifies that the metric covers deliveries arriving, while the original rate was unspecified (it could have included pickups). The scope is narrowed only slightly.",
+      "severity": "minor"
+    }
+  ],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

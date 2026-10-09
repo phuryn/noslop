@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 1,
+    "4": 3,
+    "5": 5
+  },
+  "send": "3",
+  "tells": {
+    "1": "none",
+    "2": "Stock closer: 'My takeaway is that meeting patients where they already are can be a real operational win.'",
+    "3": "The caveat stack (Joanna in Gdańsk, Sopot stuck at 12%, $1,400, phone everyone over 70, summer confound) is a bit too neatly imperfect.",
+    "4": "Staccato tricolon plus the aphorism that the biggest wins come from 'reaching people where they already are.'",
+    "5": "'Here's what that meant in practice,' a tidy three-bullet payoff, and 'The lesson for me' make it the most templated."
+  },
+  "reason": "Version 3 is the only draft that sounds like someone who ran the change—specific, uneven, and willing to doubt the headline—while 2, 4, and 5 share the same polished 'meet them where they are' closer and 5 is pure template. I'd publish 3 because those hedges make the 18% to 7% claim more credible, not less.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "track2/A-int",
+    "3": "track2/B5-int",
+    "4": "C",
+    "5": "O"
+  }
+}

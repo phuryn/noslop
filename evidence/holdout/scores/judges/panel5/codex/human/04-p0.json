@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 1,
+    "4": 5,
+    "5": 3
+  },
+  "send": "3",
+  "tells": {
+    "1": "Layered reassurance, stock expressions and a three-part closing make the warmth feel overworked.",
+    "2": "The standalone welcome and generic reassurance feel slightly templated.",
+    "3": "none",
+    "4": "Stacked colloquialisms feel deliberately casual; 'you're not alone' and 'in the same boat' repeat the same reassurance.",
+    "5": "Repeated three-part phrasing and the long, inclusive closing give it a slightly formulaic polish."
+  },
+  "reason": "Version 3 combines warmth with clear structure and a direct invitation to bring questions; it feels edited without sounding fussed over. These are stylistic judgments, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B3",
+    "3": "A",
+    "4": "C",
+    "5": "B5"
+  }
+}

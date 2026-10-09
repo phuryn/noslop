@@ -1,0 +1,31 @@
+{
+  "human_rank": {
+    "1": 6,
+    "2": 2,
+    "3": 7,
+    "4": 5,
+    "5": 4,
+    "6": 3,
+    "7": 1
+  },
+  "send": "7",
+  "tells": {
+    "1": "Bare, list-like phrasing with no connective transitions; reads like a factual summary rather than a natural newsletter introduction.",
+    "2": "Slightly redundant opener ('It's October... From 1 October') and a peppy generic closer ('We'd love to see you there!')",
+    "3": "Erratic capitalization ('Flu Jabs', 'Open'), stray apostrophe in 'over 65's', and clichéd 'It's that time of year again!'",
+    "4": "Redundant 'October is here... from 1 October' and a stock formal closer ('We look forward to welcoming you!')",
+    "5": "Polished but slightly templated structure with formal stock closer 'We look forward to welcoming you.'",
+    "6": "Identical to version 2; same slight redundancy and generic warm closer.",
+    "7": "none"
+  },
+  "reason": "Version 7 is the most concise, natural, and warm while remaining clear and credible; it avoids stiff stock phrases and redundancy.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "V6C",
+    "3": "E",
+    "4": "O",
+    "5": "B5",
+    "6": "V6A",
+    "7": "C"
+  }
+}

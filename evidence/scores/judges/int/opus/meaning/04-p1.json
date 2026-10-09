@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "All three keep every fact (issue #112, garlic before frost, sunny well-drained spot, cloves pointed end up, seed swap on Saturday Oct 18 at Millbrook Community Hall), and none adds or drops a caveat. Version 1 stays closest to the original wording, while Versions 2 and 3 are word-for-word identical with slightly more rephrasing, so their order is arbitrary and only breaks the required tie.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "B3",
+    "3": "track2/B3-int"
+  }
+}

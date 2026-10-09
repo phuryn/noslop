@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 5,
+    "3": 3,
+    "4": 4,
+    "5": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "Empty intensifiers (amazing, scrumptious, yummy) and a tautology about not measuring pre-measured ingredients, capped with 'It's that simple.'",
+    "3": "Slogan-fragment pairs: 'A little measuring done. A little joy delivered.' and 'Less measuring. More making.'",
+    "4": "Authenticity padding: a named subscriber, a sold-out anecdote, a favorite kit, and a subscriber count crammed into one paragraph.",
+    "5": "Formula headline 'Less measuring, more making' plus the 'Maybe it's… Maybe it's… Either way' closer."
+  },
+  "reason": "Version 1 is clear, warm, and on-brief without slogan stacks, invented proof, or filler, so it reads most like restrained human copy. Version 5 is close but more formulaic; 3 is template-polished, 4 manufactures credibility, and 2 is clumsy and repetitive.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "E",
+    "3": "O",
+    "4": "track2/B5-int",
+    "5": "C"
+  }
+}

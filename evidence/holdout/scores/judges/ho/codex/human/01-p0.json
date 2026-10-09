@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 5,
+    "4": 4,
+    "5": 2,
+    "6": 6
+  },
+  "send": "2",
+  "tells": {
+    "1": "The stock phrase 'the heat, the cold, and everything in between' is the clearest formulaic note.",
+    "2": "The symmetrical 'belongs to our crews' / 'belongs to our members' framing feels slightly engineered.",
+    "3": "'The number is our members’ too' feels like an awkward paraphrase retained to preserve a rhetorical pattern.",
+    "4": "'Our members get something out of it too' sounds strained in its plainness; 'it leads to a career' also overstates the promise.",
+    "5": "The tidy ownership parallel followed by 'Next up:' and a three-part fragment feels templated.",
+    "6": "Stacked intensifiers—'blazing,' 'freezing,' 'every single,' 'lasting'—give it a manufactured promotional energy."
+  },
+  "reason": "Version 2 has the best pacing and gives the crews, members, and apprenticeship enough room without overselling the opportunity; version 5 is a close second. These are stylistic judgments, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "B",
+    "2": "B2",
+    "3": "B3",
+    "4": "A",
+    "5": "O",
+    "6": "C"
+  }
+}

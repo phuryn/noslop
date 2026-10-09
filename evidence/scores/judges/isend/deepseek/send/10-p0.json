@@ -1,0 +1,11 @@
+{
+  "send": "3",
+  "reason": "It keeps the same facts, timing, and commitments while matching the original draft’s concise tone and structure most closely.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "B5",
+    "3": "A",
+    "4": "C"
+  },
+  "picked_arm": "A"
+}

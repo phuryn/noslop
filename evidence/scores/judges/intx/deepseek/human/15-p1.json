@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 5,
+    "4": 1,
+    "5": 4
+  },
+  "send": "4",
+  "tells": {
+    "1": "Formulaic benefit-driven headings and trust clichés like 'guidance you can trust' and 'unlock more of what the app has to offer.'",
+    "2": "Generic motivational phrases and simple bullet labels, such as 'Never miss a session again.'",
+    "3": "Fabricated-sounding user testimonial and slightly off phrasing like 'Recovering at home is hard to stick with.'",
+    "4": "none",
+    "5": "Dry, template-like section headings and minimal connective voice."
+  },
+  "reason": "Version 4 reads most like a skilled human wrote it because its tone is conversational and specific without feeling formulaic, and it balances clarity, credibility, and user focus.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "E",
+    "3": "track2/B5-int",
+    "4": "C",
+    "5": "track2/A-int"
+  }
+}

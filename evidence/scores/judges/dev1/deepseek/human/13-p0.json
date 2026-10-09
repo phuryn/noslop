@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 1,
+    "3": 3,
+    "4": 5,
+    "5": 2
+  },
+  "send": "5",
+  "tells": {
+    "1": "The risks section repeats 'Mitigation:' as a formulaic tag, giving it a templated, AI-generated rhythm.",
+    "2": "The casual headings and dense idiom feel slightly overdone, as if an AI was prompted to sound conversational.",
+    "3": "The clean markdown structure and repeated conditional 'we'd' in mitigations make it read like a polished AI-generated draft.",
+    "4": "Bolded lead-in labels on bullets and the standalone 'Flexibility.' bullet are a common AI formatting pattern.",
+    "5": "Mostly clean; the slight inversion 'declining structurally' is the only noticeable artifact."
+  },
+  "reason": "Version 2 has the most natural human voice, but version 5 is the one I would send because it balances clarity, credibility, and a concise, professional tone without over-formatting or over-casualness.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "C",
+    "3": "B5",
+    "4": "O",
+    "5": "A"
+  }
+}

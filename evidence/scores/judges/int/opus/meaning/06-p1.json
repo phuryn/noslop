@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": "1",
+    "2": "2",
+    "3": "3"
+  },
+  "reason": "Version 1 keeps nearly every fact and commitment, dropping only the 'little joy' tagline and the word 'homemade'. Version 2 also drops the tagline and loses the 'something to look forward to each month' line, while Version 3 adds only the writer-supplied Rosa story but cuts the whole monthly-bake section and the 'stay as long as you like' commitment.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "track2/A-int",
+    "3": "track2/B3-int"
+  }
+}

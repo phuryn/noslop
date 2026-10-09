@@ -1,0 +1,16 @@
+{
+  "dropped": [
+    {
+      "item": "Explicit acknowledgement 'We know it disrupted your day'",
+      "severity": "minor"
+    },
+    {
+      "item": "Closing repeated apology 'We're sorry for the trouble this caused'",
+      "severity": "minor"
+    }
+  ],
+  "changed": [],
+  "added": [],
+  "invented_specifics": [],
+  "meaning_preserved": 5
+}

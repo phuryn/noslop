@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 5,
+    "2": 3,
+    "3": 2,
+    "4": 4,
+    "5": 1
+  },
+  "send": "5",
+  "tells": {
+    "1": "Duplicated 'Abstract Abstract', encoding artifact, and passive boilerplate make it look unedited or machine-processed.",
+    "2": "Stock conference phrasing ('This talk explores', 'shares lessons', 'practical considerations') and an anonymous 'the speaker' bio.",
+    "3": "Hyper-specific cost, gallon savings, named field tech, and a different speaker bio feel like synthetic embellishment rather than grounded content.",
+    "4": "Flat, generic summary and placeholder-like 'The speaker' bio read like a safe AI compression.",
+    "5": "The abstract is natural, but the formulaic triad 'what worked, what didn't, and what...' and generic bio are mild AI tells."
+  },
+  "reason": "Version 5 is the best publishable balance: it has a natural first-person voice and a clear takeaway without the unverified, over-fitted specifics of Version 3. The others are either too generic, too mechanical, or too risky.",
+  "label_to_arm": {
+    "1": "E",
+    "2": "O",
+    "3": "track2/B5-int",
+    "4": "track2/A-int",
+    "5": "C"
+  }
+}

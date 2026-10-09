@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 1,
+    "2": 3,
+    "3": 2
+  },
+  "send": "1",
+  "tells": {
+    "1": "none",
+    "2": "It drops the natural conversational aside 'but here we are,' leaving the opening line slightly clipped and less personal.",
+    "3": "The only difference is the use of curly/smart apostrophes, which can read as a light AI or word-processor normalization rather than the writer's original plain-text voice."
+  },
+  "reason": "Version 1 keeps the self-aware humor and plain, informal typography, so it feels most like a skilled human blog voice; version 3 is nearly identical but has a subtle typographic tell, and version 2 loses a bit of personality.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "O"
+  }
+}

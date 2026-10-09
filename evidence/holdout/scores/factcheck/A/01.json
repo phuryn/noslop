@@ -1,0 +1,38 @@
+{
+  "dropped": [
+    {
+      "item": "\"and everything in between\": the crews also worked in all the conditions between heat and cold",
+      "severity": "minor"
+    },
+    {
+      "item": "\"real money\": the emphasis that the bill savings are substantial",
+      "severity": "minor"
+    },
+    {
+      "item": "\"That number belongs to our crews\" / \"It also belongs to our members\": the milestone is framed as shared credit or ownership",
+      "severity": "minor"
+    },
+    {
+      "item": "\"Next up\": the apprenticeship is framed as the co-op's next step after the milestone",
+      "severity": "minor"
+    }
+  ],
+  "changed": [
+    {
+      "item": "\"a path into a career in solar\" became \"it leads to a career in solar\", which turns a possible route into an implied outcome and raises certainty",
+      "severity": "minor"
+    },
+    {
+      "item": "The members' relationship to the milestone shifted from shared credit (\"belongs to our members\") to being beneficiaries (\"get something out of it too\")",
+      "severity": "minor"
+    }
+  ],
+  "added": [
+    {
+      "item": "\"summer heat and winter cold\" assigns the heat and cold to seasons, which the original did not specify",
+      "severity": "minor"
+    }
+  ],
+  "invented_specifics": [],
+  "meaning_preserved": 4
+}

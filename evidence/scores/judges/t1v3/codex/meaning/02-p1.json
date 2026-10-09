@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 1,
+    "4": 3
+  },
+  "reason": "Version 3 best preserves the service claims, exact metric, and tentative offer, though it omits the meeting’s explicit purpose; version 2 slightly shifts last-minute delivery needs to picking up loads. Version 4 strengthens the tentative offer to “can cover,” while version 1 adds unrestricted coverage (“anywhere”) and an unsupported frequency qualifier (“occasional”).",
+  "label_to_arm": {
+    "1": "C",
+    "2": "A",
+    "3": "B3",
+    "4": "B"
+  }
+}

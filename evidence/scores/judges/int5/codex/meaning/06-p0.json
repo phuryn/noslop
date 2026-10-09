@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 1
+  },
+  "reason": "Version 3 preserves the original’s facts, commitments, and invitation to anticipate a monthly baking ritual most closely. Version 2 slightly narrows that invitation with “Plan on an afternoon” and drops the explicit anticipation; Version 1 uses supported facts from the writer’s answers but replaces much of the original’s meaning about sharing, quiet enjoyment, and having something to look forward to.",
+  "label_to_arm": {
+    "1": "track2/B5-int",
+    "2": "track2/A-int",
+    "3": "B5"
+  }
+}

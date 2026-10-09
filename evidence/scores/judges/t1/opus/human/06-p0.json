@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 4,
+    "3": 1,
+    "4": 2
+  },
+  "send": "3",
+  "tells": {
+    "1": "The 'Maybe it's... Maybe it's just... Either way' construction is a stock scaffold for listing scenarios, and the hero sentence pair is a bit over-smoothed.",
+    "2": "Paired parallel fragments ('A little measuring done. A little joy delivered.') plus a three-fragment montage before an imperative wrap-up ('Give yourself something to look forward to').",
+    "3": "Mild: 'Either way, you get something to look forward to' is a slightly templated closer, but otherwise none.",
+    "4": "Little that reads as AI. The sections are compressed into run-on single paragraphs with no headings, so it reads more like a summary than designed page copy."
+  },
+  "reason": "Version 3 has the most specific, confident phrasing ('start at the stirring', 'all to yourself'), clean headings and no gimmicky rhythm. It keeps the landing-page structure that Version 4 drops and avoids the slogan-like parallelism of Version 2.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "O",
+    "3": "B",
+    "4": "A"
+  }
+}

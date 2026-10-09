@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 4,
+    "2": 2,
+    "3": 1,
+    "4": 5,
+    "5": 6,
+    "6": 3
+  },
+  "send": "3",
+  "tells": {
+    "1": "The abstract summing-up sentence 'That long view gives him a clear sense of what wildfire demands of the people responsible...' and the vague closer 'help shape what happens next'",
+    "2": "none (the closing 'inform the decisions that follow' is slightly formulaic)",
+    "3": "The stock closing phrase 'how research can inform the decisions that follow'",
+    "4": "The filler bridge sentence 'That gives him a long view of the challenges wildfire brings and the questions facing...', which asserts significance without adding facts",
+    "5": "Inflated, padded phrasing such as 'His work provides a long-term perspective on the challenges posed by wildfire' and 'will draw on that experience to explore'",
+    "6": "Puffery in 'unique insights', though the clunky repetition of '[Your name]' and 'UK peatlands' reads more like an unpolished human draft than AI"
+  },
+  "reason": "Version 3 is concise and plain and keeps the useful context about where ecology, land management and policy overlap, without the abstract 'long view' padding of 1, 4 and 5. Version 2 is nearly as good but drops that framing.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B3",
+    "3": "A",
+    "4": "B5",
+    "5": "O",
+    "6": "E"
+  }
+}

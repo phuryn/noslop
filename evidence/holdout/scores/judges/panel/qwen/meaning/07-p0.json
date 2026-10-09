@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "Version 1 preserves all key facts and commitments, with only a minor added contact method. Version 2 slightly generalizes 'ParkWise app' and changes the refund phrasing, while Version 3 omits the original's invitation to ask further questions.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "C",
+    "3": "A"
+  }
+}

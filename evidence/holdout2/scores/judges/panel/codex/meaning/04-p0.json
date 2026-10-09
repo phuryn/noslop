@@ -1,0 +1,11 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1
+  },
+  "reason": "Version 2 is more faithful because it preserves that Ashby Mill came to the provider with the problem and monitoring need, which version 1 omits. Both retain the system, purpose, and zero pest findings but omit the original's description of the team's commitment to high food safety standards.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "A"
+  }
+}

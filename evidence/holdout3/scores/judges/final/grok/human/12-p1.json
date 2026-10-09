@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 5,
+    "4": 4,
+    "5": 1,
+    "6": 6
+  },
+  "send": "5",
+  "tells": {
+    "1": "Stock warmth closed by a glossy em-dash tricolon.",
+    "2": "none",
+    "3": "Stiff comma-and and filler 'so come along' read like a paraphrase.",
+    "4": "Formulaic 'so' and a slightly illogical 'while we get the trees in the ground'.",
+    "5": "none",
+    "6": "Generic 'so come along' ending that drops the planting."
+  },
+  "reason": "Version 5 is the one I'd publish: the details are easy to scan, the wording is specific, and it still sounds like a person asking for help. The near-duplicate 'Join us' drafts feel generated, and version 2 is human but too rambling to send as-is.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "E",
+    "3": "B5",
+    "4": "A",
+    "5": "C",
+    "6": "B3"
+  }
+}

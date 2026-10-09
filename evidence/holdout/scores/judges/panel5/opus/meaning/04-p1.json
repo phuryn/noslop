@@ -1,0 +1,15 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 4,
+    "3": 2,
+    "4": 3
+  },
+  "reason": "V1 keeps almost every point, including 'catch your breath', the winter-preparations line and 'glad to have you along'. V3 drops only 'catch your breath', and V4 adds small claims ('most of us are in the same boat', 'just got'), while V2 drops the welcome-along and winter-preparations sentiments and recasts the workshop's 'brush up on the practicalities'.",
+  "label_to_arm": {
+    "1": "B5",
+    "2": "A",
+    "3": "B3",
+    "4": "C"
+  }
+}

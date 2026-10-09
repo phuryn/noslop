@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 4,
+    "4": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "The risk section repeats the same 'Mitigation:' label in each bullet, creating a templated, over-structured feel.",
+    "2": "None; it reads like a polished, natural human edit of the same memo.",
+    "3": "The phrase 'declining for good reasons we can't reverse' is awkward and the risk section loses scannability, giving a draft-like feel.",
+    "4": "Markdown headings and the repeated 'We will...' pattern in every mitigation bullet feel formulaic."
+  },
+  "reason": "Version 2 is the clearest and most natural-sounding while staying credible and well organized; it avoids the stiff or templated phrasing that marks the others.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "track2/B5-int",
+    "3": "B5",
+    "4": "track2/A-int"
+  }
+}

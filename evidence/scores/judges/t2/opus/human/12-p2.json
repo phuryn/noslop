@@ -1,0 +1,19 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3
+  },
+  "send": "2",
+  "tells": {
+    "1": "Vague, generic summary with no specifics; the bio repeats the abstract's 14%-to-9% claim almost word for word and the speaker isn't named.",
+    "2": "none",
+    "3": "Stock AI phrasing ('This talk explores', 'shares lessons', 'practical considerations', 'might otherwise go unnoticed'); hedged 'help reduce'; anonymous bio that restates the abstract."
+  },
+  "reason": "Version 2 has concrete details (SCADA, 18 months, 410M gallons, $85K, a 30% false-positive rate, a named field tech) and candid caveats about attribution and whether ML was needed, which make it credible and human. Versions 1 and 3 are thin, generic and redundant, and 3 reads most like boilerplate AI output.",
+  "label_to_arm": {
+    "1": "track2/A-int",
+    "2": "track2/B2-int",
+    "3": "O"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2,
+    "4": 4
+  },
+  "send": "2",
+  "tells": {
+    "1": "The repeated 'Every...' and 'Maybe...' constructions make the warmth feel deliberately choreographed.",
+    "2": "'But we did, and you came through the door' feels like a stock sentimental payoff.",
+    "3": "'An anniversary to celebrate' and 'Those visits helped us get here' add polished but unnecessary explanatory padding.",
+    "4": "none"
+  },
+  "reason": "Version 2 keeps the warmth and concrete details with the least repetition or manufactured sentiment. Version 4 has the most individual voice, but its redundant second post and tangled fifth post make it feel less professionally edited; these judgments do not establish authorship.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "A",
+    "3": "B3",
+    "4": "E"
+  }
+}

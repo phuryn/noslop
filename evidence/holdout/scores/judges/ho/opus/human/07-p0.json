@@ -1,0 +1,28 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 5,
+    "3": 4,
+    "4": 1,
+    "5": 6,
+    "6": 3
+  },
+  "send": "4",
+  "tells": {
+    "1": "none",
+    "2": "Slightly templated close tacked onto the refund paragraph",
+    "3": "none (just abrupt, with no offer of further help)",
+    "4": "none",
+    "5": "Stock 'Thanks for your patience, and please let us know if you have any other questions' plus the stiff passive 'it has now been fixed'",
+    "6": "The parallel 'is being processed... you should see it' line is a little formulaic"
+  },
+  "reason": "Version 4 owns the mistake directly ('we charged you twice') and covers the cause, fix, refund timeline and next step without filler. Version 5 leans hardest on boilerplate closers and passive phrasing.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B3",
+    "3": "A",
+    "4": "B",
+    "5": "O",
+    "6": "B2"
+  }
+}

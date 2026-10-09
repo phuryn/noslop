@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "reason": "Version 1 keeps “only five months,” tracking “as soon as it ships,” and a question window until arrival. Version 2 narrows questions to before shipment, and version 3 drops “only” and weakens the tracking commitment to “when it ships.”",
+  "label_to_arm": {
+    "1": "track2/B3-int",
+    "2": "B3",
+    "3": "track2/A-int"
+  }
+}

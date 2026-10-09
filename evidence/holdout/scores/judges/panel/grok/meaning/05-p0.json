@@ -1,0 +1,13 @@
+{
+  "meaning_rank": {
+    "1": 2,
+    "2": 1,
+    "3": 3
+  },
+  "reason": "Version 2 keeps the request, prices, deadline, recommendation, and the “unless you see a reason not to” caveat intact. Version 1 only lightly rephrases those same points, while version 3 drops the caveat and states a firmer preference for Tilburg.",
+  "label_to_arm": {
+    "1": "C",
+    "2": "B3",
+    "3": "A"
+  }
+}

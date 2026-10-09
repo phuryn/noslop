@@ -1,0 +1,17 @@
+{
+  "meaning_rank": {
+    "1": 3,
+    "2": 1,
+    "3": 2,
+    "4": 4,
+    "5": 5
+  },
+  "reason": "Versions 2 and 3 keep every fact and caveat, including the 48 hours counted from the flight and maps that 'help you spot' problem areas. Version 1 overstates this as maps that 'show' the areas, and Version 4 does the same while adding email delivery. Version 5 drops 'of the flight' and the purpose of the maps, and adds 'valuable insight' and 'currently available'.",
+  "label_to_arm": {
+    "1": "A",
+    "2": "B3",
+    "3": "B5",
+    "4": "C",
+    "5": "E"
+  }
+}

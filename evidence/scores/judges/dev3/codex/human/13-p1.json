@@ -1,0 +1,25 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 4,
+    "3": 3,
+    "4": 1,
+    "5": 5
+  },
+  "send": "4",
+  "tells": {
+    "1": "The repeated 'Mitigation:' construction makes the risk section read like a filled-in template.",
+    "2": "Plain-language substitutions introduce awkwardness and distort meaning: 'declining for good reasons' and putting talent and inventory 'in one place.'",
+    "3": "Bold summaries for nearly every item, combined with repeated 'Mitigation:' labels, give it an overly templated rhythm.",
+    "4": "Some stock strategy language remains, particularly 'full brand experience' and 'stronger potential returns on incremental investment.'",
+    "5": "The sustained conversational rewrite feels forced for a leadership memo; 'walk away cleanly' also overstates the simplicity of closing."
+  },
+  "reason": "Version 4 best balances executive clarity, natural phrasing, and useful structure; its active risk responses improve on the more mechanical versions. These are editorial judgments about how the writing reads, not reliable evidence of AI authorship.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "B5",
+    "3": "O",
+    "4": "A",
+    "5": "C"
+  }
+}

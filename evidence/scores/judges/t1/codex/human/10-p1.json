@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 3,
+    "2": 2,
+    "3": 1,
+    "4": 4
+  },
+  "send": "3",
+  "tells": {
+    "1": "Generic padding: “to give you more options during the week” and “Thank you for being part of our community.”",
+    "2": "none",
+    "3": "none",
+    "4": "Conspicuous conversational flourishes: “Quick heads-up” and “On a happier note” make the warmth feel scripted."
+  },
+  "reason": "Version 3 is direct and considerate, giving the current-member grace period its own paragraph so readers can find what matters. Version 2 is nearly as strong, but slightly compressed; these stylistic judgments do not establish AI authorship.",
+  "label_to_arm": {
+    "1": "O",
+    "2": "B",
+    "3": "A",
+    "4": "C"
+  }
+}

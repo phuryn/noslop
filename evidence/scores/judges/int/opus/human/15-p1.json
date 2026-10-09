@@ -1,0 +1,22 @@
+{
+  "human_rank": {
+    "1": 2,
+    "2": 3,
+    "3": 4,
+    "4": 1
+  },
+  "send": "4",
+  "tells": {
+    "1": "The stock 'Whether you're healing from surgery, managing an injury, or...' triplet, ending on the cliché 'see how far you've come'",
+    "2": "Uniformly flat, de-fluffed declaratives ('Stepwise is for people...', 'Stepwise is free to download') that read like a mechanical scrub of version 1",
+    "3": "Vague marketing filler: 'guidance you can trust', 'keep your recovery moving', 'unlock more of what the app has to offer'",
+    "4": "Mostly none; only the leftover generic 'Whether you're healing from surgery...' triplet"
+  },
+  "reason": "Version 4 has a real point of view (patients skip exercises more than they lack instructions), concrete details (312 videos, a named patient outcome, a rating) and the only explanation of what Premium adds, so it reads as written by someone who knows the product. Send it only after confirming the testimonial, video count and rating are accurate and that a rating claim is acceptable in App Store metadata.",
+  "label_to_arm": {
+    "1": "B3",
+    "2": "track2/A-int",
+    "3": "O",
+    "4": "track2/B3-int"
+  }
+}
