@@ -53,7 +53,7 @@ Use work-humanizer on docs/launch-post.md
 
 **Interview mode.** Some drafts fail a simple test: could anyone with the same one-line request have written this? No edit fixes that, because what's missing is the real example, the number, what went wrong, what the writer actually thinks. work-humanizer asks up to five questions that are cheap to answer, phrased to get you talking ("the way you'd say it out loud"), then builds the piece from your answers.
 
-**Your notes.** When you give it notes or a transcript, those are the main material. Your claims, the order you make them in and your examples become the skeleton, and it asks only about what they leave open.
+**Your notes.** When you give it notes or a transcript, those are the main material. Your claims, the order you make them in and your examples become the skeleton, and it asks only about what they leave open. When it's justified, it also offers a much shorter option, up to about half the length, and lists what it would cut. It never cuts on its own: the decision is yours.
 
 ## How it was tested
 
