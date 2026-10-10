@@ -263,6 +263,20 @@ An in-house heuristic AI-tell scorer (em dashes, transition words, sentence-leng
 - **Templated structure in documents.** In the strategy memo, blader turned repeated "Mitigation:" labels into plain sentences and both judges preferred its version; work-humanizer kept the labels (see `../examples/`).
 - **When the user explicitly asks to be interviewed**, both skills ask, and the judges slightly preferred blader's results (5-3, 4 texts).
 
+## Brief to email (illustration, 2026-10-10)
+
+The common case: a person types bullets and asks AI to write the email. One brief (`brief-to-email/brief.txt`), five arms, 3 runs each, every output checked by hand against the brief (no judge panel). Claude arms on Sonnet with the same isolation flags; Emulate-1 through `/v1/write` at 130 words. Script: `scripts/run_brief_to_email.py`; outputs: `brief-to-email/out/`; graphic: `charts/brief-to-email.*` (run 1 of each arm).
+
+| Arm | Avg words | In 3 runs |
+|---|---|---|
+| work-humanizer | 103 | every point from the brief, nothing added, no new promises |
+| blader/humanizer | 140 | faithful |
+| Emulate-1 | 107 | meaning changed every run: dollars became pounds (r1), "I know it's not bad" (r2), "We sincerely apologize for deducting money from your deposit" (r3) |
+| Claude, no skill | 176 | added something every run: "we refunded the remaining $440" (r1), "returning it so promptly" (r2, r3); "right away" (r1, r2) |
+| Claude + "Make it sound human." | 177 | "these things can easily occur in the middle of a shoot" (r3), which undercuts "beyond normal wear and tear"; "right away" (r1, r3) |
+
+One judgment call: work-humanizer r1 opens "I'm sorry about that" about the frustration of getting less back; read as empathy, not an admission. One brief is an illustration, not a measurement.
+
 ## Versions
 
 - **v1**: tied blader on reads-human, lost on meaning (12-2-18).
@@ -317,6 +331,7 @@ holdout3/            the 12 final validation drafts, every arm's output, fact ch
 holdout5/            the 12 scoreboard drafts, every arm's output (V6A = one-liner, V6C = v6), fact checks, verdicts, summary.json
 track2/<arm>-int/    interview-mode finals; raw/ has questions, simulated answers and replies
 gen/E-write/         Emulate-1 writing from the requests
+brief-to-email/      one human-style brief, five arms x 3 runs (illustration)
 skill-versions/      work-humanizer v1 and v2 as tested
 scores/              judges/ (every verdict), factcheck/, gen_check/, track2/, pangram/ and their summaries
 scripts/             everything above, rerunnable

@@ -23,6 +23,14 @@ An Agent Skill: works in any agent that loads `SKILL.md`, including Claude Code,
 
 ![A reply to a customer disputing a deposit deduction, rewritten by each tool. work-humanizer makes it plainer and keeps the commitments; blader/humanizer apologizes for the deduction and drops the goodwill framing; the one-line prompt ties the reduced charge to settling quickly; Emulate-1 blames the customer](evidence/charts/example@2x.png)
 
+## When you give it bullets instead of a draft
+
+Most of the time nobody hands AI a draft to fix. They type a few bullets and ask for the email. Here every tool got the same brief and wrote the email itself (3 runs each; run 1 shown, the notes count all 3):
+
+![Same brief, four emails: work-humanizer covers every point in about 100 words with nothing added; plain Claude adds a refund that was never sent; blader/humanizer is faithful but longer; Emulate-1 switches dollars to pounds](evidence/charts/brief-to-email@2x.png)
+
+One brief, checked by hand against it, so read it as an illustration rather than a measurement. Data: [`evidence/brief-to-email/`](evidence/brief-to-email/).
+
 ## Install
 
 Copy the `skills/work-humanizer` folder into your agent's skills folder:

@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Same brief, four emails</title>
+<!-- Brief-to-email test (2026-10-10). Same human brief to each tool; Claude arms on Sonnet; Emulate-1 via /v1/write.
+3 runs each, run 1 shown for every tool. Marks: hand-checked against the brief. Data: out/*.json -->
+<link href="https://fonts.googleapis.com/css2?family=Geist:wght@400;500;600;700;800&family=Geist+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root{--ink:#14181b;--muted:#5b646d;--line:#e2e6ea;--ns:#1d7a57;--nsbg:#eef7f2;--chg:#f6dfa9;--add:#ddd3f2;--fill:#e6e8eb}
+  *{margin:0;padding:0;box-sizing:border-box}
+  body{background:#fff;font-family:Geist,system-ui,sans-serif;color:var(--ink);-webkit-font-smoothing:antialiased}
+  .page{width:1200px;padding:42px 60px 34px}
+  .repo{display:flex;align-items:center;gap:12px}
+  .repo svg{width:32px;height:32px;fill:var(--ink)}
+  .repo b{font-size:23px;font-weight:700;letter-spacing:-.3px}
+  .repo b span{color:var(--muted);font-weight:500}
+  h1{margin-top:16px;font-weight:800;font-size:44px;line-height:1.05;letter-spacing:-1.7px}
+  .lede{margin-top:8px;font-size:19px;color:var(--muted)}
+  .brief{margin-top:20px;border-left:3px solid var(--ink);padding:4px 0 4px 18px}
+  .brief .lab{font-size:13px;font-weight:700;color:var(--muted);letter-spacing:.4px}
+  .brief pre{margin-top:6px;font-family:"Geist Mono",ui-monospace,monospace;font-size:15.5px;line-height:1.55;white-space:pre-wrap}
+  .key{display:flex;gap:24px;margin-top:18px;font-size:15px;font-weight:600;color:var(--muted)}
+  .key span{display:flex;align-items:center;gap:8px}
+  .key b{display:inline-block;width:26px;height:15px;border-radius:3px}
+  .grid{display:grid;grid-template-columns:1fr 1fr;gap:26px 34px;margin-top:20px}
+  .card{border-top:2px solid var(--ink);padding-top:12px}
+  .card.ns{border-top-color:var(--ns)}
+  .hd{display:flex;justify-content:space-between;align-items:baseline}
+  .who{font-size:19px;font-weight:700}
+  .who span{font-size:14px;font-weight:500;color:var(--muted);margin-left:8px}
+  .card.ns .who{color:var(--ns)}
+  .wc{font-size:14px;font-weight:700;color:var(--muted)}
+  .mail{margin-top:10px;font-size:15px;line-height:1.5}
+  .mail p+p{margin-top:6px}
+  .card.ns .mail{background:var(--nsbg);padding:10px 12px;border-radius:6px}
+  .mean{margin-top:10px;font-size:14.5px;line-height:1.38}
+  .mean p{padding-left:18px;text-indent:-18px}
+  .mean p+p{margin-top:5px}
+  .mean i{font-style:normal;font-weight:800;display:inline-block;width:18px;text-indent:0}
+  .mean .plus{color:var(--ns);font-weight:700}
+  .mean .minus{font-weight:600}
+  mark{padding:1px 2px;border-radius:3px;color:inherit}
+  mark.c{background:var(--chg)} mark.a{background:var(--add)} mark.f{background:var(--fill)}
+  .foot{margin-top:22px;font-size:14.5px;color:var(--muted);line-height:1.45}
+  .foot .row{display:flex;justify-content:space-between;margin-top:8px}
+  .foot b{color:var(--ink)}
+</style>
+</head>
+<body>
+<div class="page">
+  <div class="repo"><svg viewBox="0 0 16 16" aria-hidden="true"><path d="M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z"/></svg><b><span>phuryn /</span> work-humanizer</b></div>
+  <h1>Same brief, four emails.</h1>
+  <div class="lede">What people actually type to AI. Each tool wrote the email from these bullets.</div>
+  <div class="brief"><div class="lab">THE BRIEF</div><pre>Write an email for the customer. Empathize.
+- Aoife, rented a Sigma 18-35, deposit $600
+- we took $160 from it, front element came back scratched
+- we believe it's fair, that's damage beyond normal wear and tear
+- we can send photos of the scratch
+- goodwill: we can lower it to $100 and refund the $60 difference, if they prefer
+- ask how they want to proceed</pre></div>
+  <div class="key"><span><b style="background:var(--add)"></b>added, not in the brief</span><span><b style="background:var(--chg)"></b>changed what the brief says</span><span><b style="background:var(--fill)"></b>filler</span></div>
+
+  <div class="grid">
+    <div class="card ns"><div class="hd"><div class="who">work-humanizer<span>this skill</span></div><div class="wc">~100 words</div></div>
+      <div class="mail">
+        <p>I know it's frustrating to get back less than the full $600 deposit, and I'm sorry about that.</p>
+        <p>When the Sigma 18-35 came back, the front element was scratched, and we took $160 from your deposit. We believe that's fair, because the scratch is damage beyond normal wear and tear. If you'd like to see it, we can send you photos.</p>
+        <p>We'd also like to meet you partway. If you prefer, we can lower the charge to $100 and refund the $60 difference.</p>
+        <p>How would you like to proceed?</p></div>
+      <div class="mean"><p class="plus"><i>+</i>Every point from the brief. Nothing added, no new promises, in 3 of 3 runs.</p></div></div>
+
+    <div class="card"><div class="hd"><div class="who">Claude, no skill<span>what most people get</span></div><div class="wc">~175 words</div></div>
+      <div class="mail">
+        <p><mark class="f">Thank you for renting the Sigma 18-35 from us.</mark> I wanted to write to you about your $600 deposit, since I know seeing a deduction you weren't expecting can be frustrating.</p>
+        <p>When the lens came back, we found a scratch on the front element. We've kept $160 from your deposit to cover it, <mark class="a">and we refunded the remaining $440.</mark> We believe this is fair, as the scratch goes beyond normal wear and tear. I understand it may not be what you were hoping to hear, and I'm sorry for the disappointment.</p>
+        <p>If it would help, I'm happy to send you photos of the scratch so you can see it for yourself.</p>
+        <p>We also want to meet you partway. As a gesture of goodwill, we can reduce the deduction to $100 and refund the $60 difference to you.</p>
+        <p>How would you like to proceed? Just let me know whether you'd like the photos, the reduced deduction, or both, and I'll take care of it <mark class="a">right away</mark>.</p>
+        <p><mark class="f">Thanks again for your understanding, Aoife.</mark></p></div>
+      <div class="mean"><p class="plus"><i>+</i>Covers every point.</p><p class="minus"><i>−</i>Adds things the brief didn't say in 3 of 3 runs: a refund already sent, "returned so promptly". Promises "right away" in 2.</p></div></div>
+
+    <div class="card"><div class="hd"><div class="who">blader/humanizer<span>the viral humanizer skill</span></div><div class="wc">~140 words</div></div>
+      <div class="mail">
+        <p>Thanks for returning the Sigma 18-35. I know it's never fun to see a deduction from a deposit, and I'm sorry this is the news after your rental.</p>
+        <p>When the lens came back, the front element had a scratch on it. We took $160 from your $600 deposit to cover it, because we consider that damage beyond normal wear and tear. I'm happy to send you photos of the scratch if you'd like to see it.</p>
+        <p>I also want to be fair to you. If you prefer, we can lower the charge to $100 as a goodwill gesture and refund the $60 difference.</p>
+        <p>How would you like to proceed? Just tell me whether you'd like the photos, the reduced charge, or both, and I'll take care of it.</p></div>
+      <div class="mean"><p class="plus"><i>+</i>Faithful to the brief in 3 of 3 runs.</p><p class="minus"><i>−</i>A third longer than work-humanizer for the same content.</p></div></div>
+
+    <div class="card"><div class="hd"><div class="who">Emulate-1<span>sold as undetectable</span></div><div class="wc">~105 words</div></div>
+      <div class="mail">
+        <p>Hi, unfortunately your Sigma 18-35 has come back with a scratch to the front element of the lens so we have had to take <mark class="c">£160 from your £600</mark> deposit as we feel the scratch to be <mark class="c">a bit more than</mark> normal wear and tear. I can send you some images if you would like?</p>
+        <p>If we can be flexible and only take <mark class="c">£100</mark> <mark class="a">to show we do appreciate your business</mark> we can send back the remaining <mark class="c">£60</mark>?</p>
+        <p><mark class="c">Hope this is ok,</mark> <mark class="a">please do let us know if there is anything else we can do to help.</mark></p></div>
+      <div class="mean"><p class="minus"><i>−</i>Changed the meaning in 3 of 3 runs: dollars became pounds; "I know it's not bad"; "We sincerely apologize for deducting money from your deposit".</p></div></div>
+  </div>
+
+  <div class="foot">Run 1 of 3 shown for every tool; the notes count all 3. Greeting and sign-off left out. "Make it sound human" wrote like plain Claude (~175 words) and once added "these things can easily occur in the middle of a shoot". Claude arms on Sonnet; Emulate-1 through its write API. Checked by hand against the brief.
+    <div class="row"><span>Fictional customer.</span><b>github.com/phuryn/work-humanizer</b></div></div>
+</div>
+</body>
+</html>

@@ -1,0 +1,15 @@
+{
+ "arm": "emulate",
+ "run": 3,
+ "final": "Hi Aoife,\n\nWe sincerely apologize for deducting money from your deposit. Our inspection team checked over your Sigma 18-35 once we received it back and noted that there was a scratch on the front element of the lens, and since it wasn't considered to be normal wear and tear we had to deduct $160 from your $600 deposit. If you like, we can send you some pictures of the damage.\n\nIn the spirit of good will, however, we would be willing to decrease the damage fee to $100. So if you would like, we can refund the $60 difference to you.\n\nPlease let us know how you would like to proceed.\n\nBest,  \nCustomer Support",
+ "meta": {
+  "id": "231dbe12-1b5d-435e-a761-e0d3e51e1b54",
+  "tool": "write",
+  "reads_human": null,
+  "style": {},
+  "words": {
+   "charged": 130
+  },
+  "elapsed": 8
+ }
+}

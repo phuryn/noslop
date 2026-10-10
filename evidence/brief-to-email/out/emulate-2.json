@@ -1,0 +1,15 @@
+{
+ "arm": "emulate",
+ "run": 2,
+ "final": "Subject: Update on your Sigma 18-35 rental deposit\n\nHi Aoife,\n\nSorry to hear that you're not happy, however the lens did come back with the front element scratched, hence the $160 deduction from the $600 deposit. I can send you some pictures of the scratch if you like to show you what I mean, I know its not bad but I don't think it falls under fair wear and tear, especially on a lens as expensive as the Sigma 18-35.\n\nIf you like I could reduce what we are taking to $100 and refund the other $60 as a gesture of good will.\n\nLet me know what you want to do.\n\nBest,  \n[Your Name]",
+ "meta": {
+  "id": "4c4ec171-1ccc-4b4b-b6c3-bf00de39318f",
+  "tool": "write",
+  "reads_human": null,
+  "style": {},
+  "words": {
+   "charged": 130
+  },
+  "elapsed": 8
+ }
+}

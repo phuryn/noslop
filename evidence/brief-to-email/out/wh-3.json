@@ -1,0 +1,6 @@
+{
+ "arm": "wh",
+ "run": 3,
+ "final": "Subject: Your Sigma 18-35 deposit\n\nHi Aoife,\n\nThanks for returning the Sigma 18-35. I'm sorry to say the front element came back scratched, and we've taken $160 from your $600 deposit to cover it. I know that's not what you were hoping to see.\n\nWe believe the charge is fair, since the scratch is damage beyond normal wear and tear. If you'd like to see it, we can send you photos.\n\nWe'd also like to meet you partway. If you prefer, we can lower the charge to $100 and refund the $60 difference.\n\nHow would you like to proceed?\n\nThanks,\n[Your name]",
+ "raw": "Two things I did here: the email is written from \"we\", and I left the sign-off as a placeholder since I don't have a name to use.\n\nShorter option: none, it's already tight.\n\n<final>\nSubject: Your Sigma 18-35 deposit\n\nHi Aoife,\n\nThanks for returning the Sigma 18-35. I'm sorry to say the front element came back scratched, and we've taken $160 from your $600 deposit to cover it. I know that's not what you were hoping to see.\n\nWe believe the charge is fair, since the scratch is damage beyond normal wear and tear. If you'd like to see it, we can send you photos.\n\nWe'd also like to meet you partway. If you prefer, we can lower the charge to $100 and refund the $60 difference.\n\nHow would you like to proceed?\n\nThanks,\n[Your name]\n</final>"
+}

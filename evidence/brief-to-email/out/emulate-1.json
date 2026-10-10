@@ -1,0 +1,15 @@
+{
+ "arm": "emulate",
+ "run": 1,
+ "final": "Subject: Update on your Sigma 18–35 rental deposit\n\nHi Aoife,\n\nHi, unfortunately your Sigma 18-35 has come back with a scratch to the front element of the lens so we have had to take £160 from your £600 deposit as we feel the scratch to be a bit more than normal wear and tear. I can send you some images if you would like?\n\nIf we can be flexible and only take £100 to show we do appreciate your business we can send back the remaining £60?\n\nHope this is ok, please do let us know if there is anything else we can do to help.\n\nBest,  \n[Your Name]",
+ "meta": {
+  "id": "9653cb37-2fd1-4069-b4b2-c21cf1e0c46e",
+  "tool": "write",
+  "reads_human": null,
+  "style": {},
+  "words": {
+   "charged": 130
+  },
+  "elapsed": 8
+ }
+}
